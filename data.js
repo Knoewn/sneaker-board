@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-09 13:03",
+ "updatedAt": "2026-09-09 15:25",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -263,7 +263,7 @@ window.SNEAKER_DATA = {
    "newsMentions": 2
   },
   {
-   "id": 9,
+   "id": 10,
    "brand": "CROCS",
    "name": "Crocs Echo Clog Yu-Gi-Oh! Blue-Eyes White Dragon",
    "sku": "213732-90H",
@@ -333,9 +333,9 @@ window.SNEAKER_DATA = {
    "image": "https://images.soleretriever.com/sb/products/nike_air_bakin_og_IQ5365-600-1770828768985.webp",
    "url": "https://www.soleretriever.com/sneaker-release-dates/nike/other/nike-air-bakin-og-iq5365-600",
    "rating": 5.0,
-   "reviewCount": 23,
-   "hot": 1794,
-   "buzz": 372,
+   "reviewCount": 24,
+   "hot": 1808,
+   "buzz": 378,
    "newsMentions": 0
   },
   {
@@ -719,7 +719,7 @@ window.SNEAKER_DATA = {
    "newsMentions": 0
   },
   {
-   "id": 10,
+   "id": 9,
    "brand": "NIKE",
    "name": "Nike Book 2 Penny Chevy",
    "sku": "IO9841-900",
@@ -1482,6 +1482,28 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "N.HOOLYWOOD COMPILE x KEEN 將 UNEEK 360 簡化為繩索、鞋底與無膠結構",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-09",
+   "content": "名稱：N.HOOLYWOOD COMPILE x KEEN UNEEK 360配色：Steel Gray貨號：1032697建議零售價：25,300 日圓（約 165 美元）發售日期：9 月 12 日發售地點：N.HOOLYWOOD、KEEN JapanN.HOOLYWOOD COMPILE 與 KEEN 首度聯乘，選用 KEEN 開放式 UNEEK 系列的最新鞋型 UNEEK 360。偏向正裝風格的 N.HOOLYWOOD 支線以自身手法重構這雙鞋，在突顯鞋款精簡結構之餘，注入更為講究的質感。設計起點源自 UNEEK「僅以繩索與鞋底構成一雙鞋」的概念。KEEN 為此版本採用完全不用黏合劑的結構，並以減少廢料為原則重塑鞋型。鞋身以再生塑膠製成的彈力繩，配合鞋帶扣快速固定雙足；鞋面亦預留空間讓腳趾自然張開，以適應不同腳型。其餘規格則著重舒適度與耐用性。按足形塑造的足弓支撐加強中足承托，注塑泡棉中底令腳感保持輕盈，內置足弓支撐的泡棉鞋墊則為長時間穿著提供緩震。高抓地力泡棉外底兼顧防滑與耐磨，全鞋重量為 322 克。物料選擇亦貫徹可持續理念：混入再生 PET 的塑膠減少原生物料用量，而天然來源的 Eco Anti-odor 抗臭處理則有助抑制異味。N.HOOLYWOOD COMPILE 的印記則見於取捨之間。這個支線一向將正裝與禮服的設計語言轉化為當代輕鬆穿搭，而此鞋正以克制手法呈現：由鞋面延伸至鞋底的單一灰色調，僅在鞋跟低調印上 N.HOOLYWOOD 標誌。官方命名為 Steel Gray 的配色，讓 UNEEK 360 的極簡結構成為焦點，也令它不偏向城市街頭或戶外任何一方，而是適合穿梭兩者之間。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FN-HOOLYWOOD-Compile-KEEN-UNEEK-360-Steel-Gray-1032697-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/n-hoolywood-compile-keen-uneek-360-steel-gray-1032697-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 2,
+   "title": "N.HOOLYWOOD COMPILE x KEEN Pare the UNEEK 360 Down to Cords, a Sole and a Glue-Free Build",
+   "source": "Hypebeast",
+   "date": "2026-09-09",
+   "content": "Name: N.HOOLYWOOD COMPILE x KEEN UNEEK 360Colorway: Steel GraySKU: 1032697MSRP: ¥25,300 JPY (approx. $165 USD)Release Date: September 12Where to Buy: N.HOOLYWOOD, KEEN JapanN.HOOLYWOOD COMPILE and KEEN have built their first collaboration on the UNEEK 360, the newest model in KEEN's open-air UNEEK series. The dress-leaning N.HOOLYWOOD line reconstructs the sneaker on its own terms, keeping the model's stripped-back engineering front and center while pulling it toward a more refined finish.The starting point is the UNEEK concept of a shoe made from little more than cords and a sole. For this version, KEEN adopts a build that uses no adhesive, reconstructing the silhouette around that minimal-waste logic. Recycled-plastic bungee cord and a lace toggle lock the foot in place quickly, while the upper is shaped to leave room for the toes to splay, aiming for a fit that works across a wide ran",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F09%2FN-HOOLYWOOD-Compile-KEEN-UNEEK-360-Steel-Gray-1032697-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/n-hoolywood-compile-keen-uneek-360-steel-gray-1032697-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 3,
    "title": "Celine 為 Reebok Freestyle Lo 注入巴黎風格新貌",
    "source": "Hypebeast 中文",
    "date": "2026-09-08",
@@ -1495,7 +1517,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 4,
    "title": "Air Jordan 1 Low Element GTX 推出「Cream II」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-08",
@@ -1508,7 +1530,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 5,
    "title": "率先預覽 ROA x fragment design Andreas 靴款",
    "source": "Hypebeast 中文",
    "date": "2026-09-08",
@@ -1519,7 +1541,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 4,
+   "id": 6,
    "title": "POST ARCHIVE FACTION（PAF）首款 Petal Trainers 以雷射切割花瓣融入意大利皮革",
    "source": "Hypebeast 中文",
    "date": "2026-09-08",
@@ -1530,7 +1552,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 5,
+   "id": 7,
    "title": "Air Jordan 1 Low Golf Mule 全新「Medium Olive/Khaki」配色兼備球場抓地力與穆勒鞋的易穿設計",
    "source": "Hypebeast 中文",
    "date": "2026-09-08",
@@ -1543,7 +1565,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 8,
    "title": "Celine Gave the Reebok Freestyle Lo a Parisian Remix",
    "source": "Hypebeast",
    "date": "2026-09-08",
@@ -1557,7 +1579,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 9,
    "title": "The Air Jordan 1 Low Element GTX Receives a “Cream II” Variant",
    "source": "Hypebeast",
    "date": "2026-09-08",
@@ -1571,7 +1593,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 10,
    "title": "Official Look at the sunlovetour x New Balance Minimus Sneakers",
    "source": "Hypebeast",
    "date": "2026-09-08",
@@ -1584,7 +1606,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 11,
    "title": "POST ARCHIVE FACTION (PAF)'s Petal Trainers Laser-Cut Flower Petals Into Italian Leather",
    "source": "Hypebeast",
    "date": "2026-09-08",
@@ -1595,7 +1617,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 10,
+   "id": 12,
    "title": "Take a First Look at the ROA x fragment design’s Andreas Boot",
    "source": "Hypebeast",
    "date": "2026-09-08",
@@ -1608,7 +1630,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 13,
    "title": "Air Jordan 1 Low Golf Mule Blends Course Traction and Slip-On Ease in a New \"Medium Olive/Khaki\"",
    "source": "Hypebeast",
    "date": "2026-09-08",
@@ -1621,7 +1643,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 14,
    "title": "Tyrrell Winston x adidas Climacool 4D “Collegiate Red”",
    "source": "Nice Kicks",
    "date": "2026-09-08",
@@ -1634,7 +1656,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 15,
    "title": "Billionaire Boys Club x Reebok Club C 85 “Grey”",
    "source": "Nice Kicks",
    "date": "2026-09-08",
@@ -1647,7 +1669,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 16,
    "title": "Thank Simone Rocha for This Pretty Pony-Hair adidas Slipper",
    "source": "Highsnobiety",
    "date": "2026-09-08",
@@ -1660,7 +1682,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 17,
    "title": "This Is adidas' Ballet Flat at Its Suavest",
    "source": "Highsnobiety",
    "date": "2026-09-08",
@@ -1673,7 +1695,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 18,
    "title": "Nike’s Wagyu Air Max Is a Full-Flavored Stepper",
    "source": "Highsnobiety",
    "date": "2026-09-08",
@@ -1686,7 +1708,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 19,
    "title": "Nike’s Winter-Ready Air Jordans Are Extra Swaggy The Second Time Around",
    "source": "Highsnobiety",
    "date": "2026-09-08",
@@ -1700,7 +1722,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 20,
    "title": "Fashion's New Favorite Accessory? Literal Rocks",
    "source": "Highsnobiety",
    "date": "2026-09-08",
@@ -1714,7 +1736,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 21,
    "title": "An OG Reebok Fitness Shoe Becomes a Buttery Celine Sneaker",
    "source": "Highsnobiety",
    "date": "2026-09-08",
@@ -1728,7 +1750,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 22,
    "title": "This Leather adidas Staple Went From the Terraces to the Skate Park",
    "source": "Highsnobiety",
    "date": "2026-09-08",
@@ -1741,7 +1763,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 23,
    "title": "Mfpen Brings New Balance’s 991 to the Dark Side of Luxury",
    "source": "Highsnobiety",
    "date": "2026-09-08",
@@ -1754,7 +1776,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 24,
    "title": "Nike First Sight Shadow 以「淺深紅／金屬銀」配色的雕塑感套穿設計為三部曲作結",
    "source": "Hypebeast 中文",
    "date": "2026-09-07",
@@ -1767,7 +1789,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 25,
    "title": "Etro 為 Birkenstock Boston 與 Gizeh 注入佩斯利花紋鞋底及 Pegaso 鉚釘",
    "source": "Hypebeast 中文",
    "date": "2026-09-07",
@@ -1780,7 +1802,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 26,
    "title": "Crocs 2026 Horror Pack 為兩款 Classic Clog 注入《Halloween》與《Saw》元素及潑血圖案",
    "source": "Hypebeast 中文",
    "date": "2026-09-07",
@@ -1793,7 +1815,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 27,
    "title": "SUBU 為 ORIGINALS F-LINE 涼鞋推出全新「Lavender」及「Matcha」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-07",
@@ -1804,7 +1826,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 26,
+   "id": 28,
    "title": "BEAMS BOY 與 Birkenstock 以 3 色不對稱麂皮拼布重塑 Boston",
    "source": "Hypebeast 中文",
    "date": "2026-09-07",
@@ -1817,7 +1839,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 29,
    "title": "CHANGBIN x AUTRY Collection Launch Event Brings a Pink Paradise to Seoul",
    "source": "Hypebeast",
    "date": "2026-09-07",
@@ -1830,7 +1852,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 30,
    "title": "The Nike First Sight Shadow Closes the Trilogy With Sculptural Slip-On Build in \"Light Crimson/Metallic Silver\"",
    "source": "Hypebeast",
    "date": "2026-09-07",
@@ -1843,7 +1865,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 31,
    "title": "Etro Leads the Birkenstock Boston and Gizeh With Paisley Outsoles and Pegaso Rivets",
    "source": "Hypebeast",
    "date": "2026-09-07",
@@ -1857,7 +1879,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 32,
    "title": "Crocs' 2026 Horror Pack Loads Two Classic Clogs With ‘Halloween’ and ‘Saw’ Props and Blood Splatter",
    "source": "Hypebeast",
    "date": "2026-09-07",
@@ -1870,7 +1892,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 33,
    "title": "SUBU Warms Its ORIGINALS F-LINE Sandal With New \"Lavender\" and \"Matcha\" Colorways",
    "source": "Hypebeast",
    "date": "2026-09-07",
@@ -1881,20 +1903,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 32,
-   "title": "BEAMS BOY and Birkenstock Rebuild the Boston in Three-Tone Asymmetric Suede Patchwork",
-   "source": "Hypebeast",
-   "date": "2026-09-07",
-   "content": "Name: BEAMS BOY x Birkenstock Boston Patch WorkColorway: Brown PatchworkSKU: 13330193271MSRP: ¥36,300 JPY (approx. $230 USD)Release Date: September 12Where to Buy: BEAMSBEAMS BOY and Birkenstock have reworked the Boston clog for a special-order collaboration, executed in a \"Brown Patchwork\" colorway assembled from three tones of suede. The project reworks one of Birkenstock’s most recognizable shapes with a paneled, craft-forward upper rather than a single continuous material.The build starts with the Boston’s clog construction and reworks the upper into an asymmetric patchwork. Three suede leathers, in Birkenstock’s Taupe, Mink and Mocha tones, are pieced together in a deliberately mismatched crazy pattern, so each shoe reads as a mix of distinct leather surfaces rather than one uniform panel. The asymmetry is the point, giving the two feet slightly different arrangements and lending th",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F07%2FBEAMS-BOY-Birkenstock-Boston-Patch-Work-13330193271-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/beams-boy-birkenstock-boston-patch-work-13330193271-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "BIRKENSTOCK"
-   ]
-  },
-  {
-   "id": 33,
+   "id": 34,
    "title": "Nike KD 19 “Candy Paint Green”",
    "source": "Nice Kicks",
    "date": "2026-09-07",
@@ -1907,7 +1916,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 35,
    "title": "Air Jordan 12 “Idols Become Rivals” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-07",
@@ -1920,7 +1929,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 36,
    "title": "Terror Squad x Air Force 1 Low QS “University Red” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-07",
@@ -1931,7 +1940,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 36,
+   "id": 37,
    "title": "Air Jordan 7 “Tennis Day” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-07",
@@ -1945,7 +1954,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 38,
    "title": "Nike G.T. Future “Varsity Red”",
    "source": "Nice Kicks",
    "date": "2026-09-07",
@@ -1958,7 +1967,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 39,
    "title": "Nike Air Max 95 Big Bubble OG “Reverse Greedy”",
    "source": "Nice Kicks",
    "date": "2026-09-07",
@@ -1971,26 +1980,13 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 40,
    "title": "FC Barcelona x Nike Kobe 3 Low Protro「Electro Purple」現已發售",
    "source": "Hypebeast 中文",
    "date": "2026-09-06",
    "content": "摘要 Nike 與 FC Barcelona 正式發佈 Electric Purple 配色的 Kobe 3 Low Protro。此鞋款配置全掌 Air Zoom Strobel 緩震科技，並加入度身訂製的球會會章標誌細節。這雙聯乘鞋款將於 2026 年 9 月 4 日正式上市，定價 235 美元。 名稱：FC Barcelona x Nike Kobe 3 Low Protro「Electro Purple」配色：黑色／Electro Purple－Metallic Gold貨號：IO6257-001建議零售價：200 美元發售日期：2026 年 9 月 4 日發售渠道： NikeNike 正式公開 FC Barcelona x Nike Kobe 3 Low Protro 的官方照片。這次發售以 Kobe Bryant 第 3 代簽名鞋的重新設計低筒版本，延續他與這支西班牙足球會的深厚淵源。鞋款的模塑鞋籠、鞋帶、中底及半透明外底均採用「Electric Purple」配色，鞋側面板與鞋領下方則襯以黑色底層。後跟 Swoosh、鞋墊及鞋舌標誌以 Metallic Gold 點綴；其中一邊鞋舌飾有 Kobe 的 Sheath 標誌，另一邊則印上 FC Barcelona 官方會徽。客製會徽細節亦延伸至鞋帶扣。鞋款針對現代賽場提升性能，將 2007 年原版升級為配備全掌 Air Zoom Strobel 氣墊及 Cushlon 3.0 泡棉中底的規格。此鞋將與 Kobe Dunk Low Protro 一同推出，屬於 Nike 與 FC Barcelona 的 2026 年系列。FC Barcelona x Nike Kobe 3 Low Protro 將於 2026 年 9 月 4 日正式發售，定價為 235 美元，並於 Nike 及指定零售商上架。 Click here to view full gallery at Hypebeast",
    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Ffc-barcelona-nike-kobe-3-protro-electric-purple-IO6257-001-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
    "link": "https://hypebeast.com/zh/2026/9/fc-barcelona-nike-kobe-3-protro-electric-purple-io6257-001-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Wagyu x Nike Air Max 90 全黑配色正式登場",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-06",
-   "content": "摘要 Wagyu 與 Nike 攜手為 Air Max 90 換上 Black 與 Anthracite 配色，並加入牛頭標誌點綴。 這雙售價 150 美元的球鞋將於 9 月 12 日透過 Nike SNKRS 發售。 是次合作同時帶來一套相襯的 Nike Tech 服飾系列。 名稱：Wagyu x Nike Air Max 90配色：黑色／炭灰色款號：IR1979-010建議零售價：150 美元發售日期：2026 年 9 月 12 日發售渠道：Nike SNKRSWagyu 將其取材自牛肉的品牌元素帶到 Nike Air Max 90。這個來自紐約的街頭服飾品牌與 Nike 合作，以低調的黑色及炭灰色鞋面配搭金屬質感 Swoosh，後跟更綴以訂製牛頭徽章；鞋款定於 9 月 12 日在 Nike SNKRS 發售。鞋面以不同質感作為設計重點：毛絨麖皮拼接穿孔皮革，粗身白色繩狀鞋帶則為深色調增添對比。擋泥片的視窗位置以 Wagyu 字樣取代慣常標誌，印花鞋墊亦把聯乘元素延伸至鞋內。食材主題亦延續至包裝。鞋款隨附真品證書，靈感來自為日本牛肉評級所用的文件。同一概念亦見於同款 Nike Tech 抓絨外套內裡；這個服飾系列還包括相襯長褲。Wagyu x Nike Air Max 90 售價為 150 美元，將於 9 月 12 日透過 Nike SNKRS 發售。可於上方細覽官方圖片。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fwagyu-nike-1.png?w=800&cbr=1&q=90&format=png&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/wagyu-serves-up-a-blacked-out-nike-air-max-90",
    "lang": "zh",
    "relatedBrands": [
     "NIKE"
