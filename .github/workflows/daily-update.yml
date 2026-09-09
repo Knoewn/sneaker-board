@@ -1,0 +1,42 @@
+name: 每日更新球鞋数据
+
+on:
+  schedule:
+    # UTC 时间；北京时间 = UTC + 8
+    - cron: "0 0,8 * * *"      # 每天 08:00 和 16:00（北京时间）各跑一次
+  workflow_dispatch:            # 允许在 GitHub 页面手动点一次
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖
+        run: pip install --quiet requests
+
+      - name: 抓取数据
+        run: python fetch_sneaker_data.py
+
+      - name: 重新打包单文件看板
+        run: python build_standalone.py
+
+      - name: 提交并推送
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.js data.json "EazyReview-看板-单文件版.html"
+          if git diff --cached --quiet; then
+            echo "数据无变化，跳过提交"
+          else
+            git commit -m "chore(data): 每日球鞋数据更新 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
