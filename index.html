@@ -554,11 +554,11 @@ select.field{cursor:pointer;appearance:none;
   <!-- 自动更新设置面板 -->
   <div class="sync-panel" id="syncPanel">
     <div class="sp-h">自动更新</div>
-    <label class="sp-l">远程数据包 URL（可选，推荐）</label>
-    <input class="field" id="remoteUrl" placeholder="https://cdn.jsdelivr.net/gh/用户/仓库@main/data.js">
+    <label class="sp-l">远程数据包 URL（已内置，一般不用改）</label>
+    <input class="field" id="remoteUrl" placeholder="已内置默认地址，留空即可">
     <div class="sp-tip">
-      填了就会每次打开自动拉取这里的最新数据（jsDelivr 等 CDN 允许跨域）。<br>
-      留空则依次尝试：同源 <code>data.json</code> → 浏览器内直抓（公共代理，可能被 Cloudflare 拦）。
+      看板<b>已内置更新地址</b>，任何人打开都会自动拉取最新数据，无需配置。<br>
+      只有你想换成自己的数据源时才需要填这里（填了就只用你填的）。
     </div>
     <label class="sw" style="margin:10px 0"><input type="checkbox" id="autoUpdate"> 打开页面时自动更新</label>
     <div class="sp-row">
@@ -755,6 +755,7 @@ select.field{cursor:pointer;appearance:none;
 
 <script src="data.js"></script>
 <script>
+window.__BUILD__="2026-09-09T17:10_raw-primary";
 (function(){
 "use strict";
 
@@ -1743,11 +1744,19 @@ function crawlVia(ch){
 function parsePacket(txt){
   txt=String(txt||"").trim();
   if(!txt)throw new Error("空响应");
-  var m=/window\.SNEAKER_DATA\s*=\s*([\s\S]*?);?\s*$/.exec(txt);
-  var body=m?m[1]:txt;
-  var o=JSON.parse(body);
-  if(!o||!o.releases)throw new Error("数据包格式不正确");
-  return o;
+  // 兼容两种格式：纯 JSON（data.json）和 window.SNEAKER_DATA = {...};（data.js）
+  // 注意：必须先用 JSON 试一次，data.js 的非贪婪正则会匹配空字符串
+  if(txt.charAt(0)==="{"){
+    var o=JSON.parse(txt);
+    if(!o||!o.releases)throw new Error("数据包格式不正确");
+    return o;
+  }
+  // 强制匹配 {...} 整段，避免非贪婪 *? 匹配空
+  var m=/window\.SNEAKER_DATA\s*=\s*(\{[\s\S]*\})\s*;?\s*$/.exec(txt);
+  if(!m)throw new Error("无法识别数据包格式");
+  var o2=JSON.parse(m[1]);
+  if(!o2||!o2.releases)throw new Error("数据包格式不正确");
+  return o2;
 }
 /* ---- 缓存 & 配置 ---- */
 function readCache(){
@@ -1755,6 +1764,21 @@ function readCache(){
     return (o&&o.releases&&o.releases.length)?o:null;}catch(e){return null;}
 }
 var syncCfg={remoteUrl:"",auto:true,lastOk:"",lastErr:""};
+/* 内置默认远程地址：任何人拿到这个 HTML 双击打开就自动更新，无需任何配置。
+   顺序说明（重要）：
+   1) GitHub raw —— 永不缓存，永远返回 GitHub 上的最新提交，是主数据源
+   2) jsDelivr   —— 有 CDN 加速但 @main 分支缓存最长 12h+，且各节点同步有延迟，
+                    仅当 raw 取不到时才兜底用
+   （实测：jsDelivr 国内节点可能比实际晚几十分钟才同步，所以不能当主源） */
+var DEFAULT_REMOTES=[
+  {url:"https://raw.githubusercontent.com/Knoewn/sneaker-board/main/data.js",ms:15000},
+  {url:"https://cdn.jsdelivr.net/gh/Knoewn/sneaker-board@main/data.js",ms:15000}
+];
+function remoteList(){
+  var custom=(syncCfg.remoteUrl||"").trim();
+  // 自定义地址统一按字符串处理（兼容旧格式），内置地址带各自的超时
+  return custom ? [{url:custom,ms:15000}] : DEFAULT_REMOTES;
+}
 function loadSync(){
   try{var o=JSON.parse(localStorage.getItem(LS_SYNC)||"null");
     if(o)for(var k in o)if(k in syncCfg)syncCfg[k]=o[k];}catch(e){}
@@ -1767,7 +1791,9 @@ function setSync(cls,txt,detail){
   if(detail!=null)$("syncDetail").textContent=detail;
 }
 function applyFetched(data,via){
+  console.log('[Eazy] applyFetched start, data updatedAt:', data.updatedAt, '| current S:', S.updatedAt);
   if(!ingest(data))return false;
+  console.log('[Eazy] ingest ok, new S.updatedAt:', S.updatedAt);
   try{localStorage.setItem(LS_CACHE,JSON.stringify(data));}catch(e){}
   syncCfg.lastOk=nowStr();syncCfg.lastErr="";saveSync();
   $("updateTime").textContent=data.updatedAt||nowStr();
@@ -1789,17 +1815,39 @@ function refresh(manual){
     syncCfg.lastErr=String(err&&err.message||err||"");saveSync();
     UPDATING=false;return false;
   }
-  // L1 远程数据包
-  var chain;
-  if(syncCfg.remoteUrl){
-    chain=fetchT(syncCfg.remoteUrl,15000).then(parsePacket)
-      .then(function(d){return {d:d,via:"远程数据包"};});
-  }else if(location.protocol!=="file:"){
-    chain=fetchT("./data.json",8000).then(parsePacket)
-      .then(function(d){return {d:d,via:"同源 data.json"};});
-  }else{
-    chain=Promise.reject(new Error("no-remote"));
+  // L1 远程数据包：内置地址 / 用户自定义地址，多个按顺序尝试
+  console.log('[Eazy] refresh start, current S:', S.updatedAt);
+  var urls=remoteList(),i=0;
+  function tryRemote(){
+    if(i>=urls.length){
+      // 都失败后，若页面由 http(s) 托管再试同源 data.json
+      if(location.protocol!=="file:")return fetchT("./data.json",8000).then(parsePacket)
+        .then(function(d){return {d:d,via:"同源 data.json"};});
+      return Promise.reject(new Error("远程地址均不可用"));
+    }
+    var u=urls[i++];
+    var url=(typeof u==="string")?u:u.url;
+    var ms=(typeof u==="object"&&u.ms)?u.ms:15000;
+    console.log('[Eazy] trying url', i+'/'+urls.length, url.slice(0,80));
+    return fetchT(url,ms).then(parsePacket)
+      .then(function(d){
+        console.log('[Eazy] fetch ok, parsed updatedAt:', d.updatedAt, '| releases:', d.releases.length, '| S:', S.updatedAt);
+        // 防呆：拉到了但比本地 cache 旧 >30 分钟 → jsDelivr 缓存卡住的典型信号
+        var gapMs=new Date(d.updatedAt).getTime()-new Date(S.updatedAt||'1970').getTime();
+        if(S.updatedAt && gapMs < -30*60*1000){
+          console.warn('[Eazy] CDN 缓存疑似异常（'+d.updatedAt+' < 本地 '+S.updatedAt+'），换下一个');
+          if(manual)setSync("busy","更新中…","地址"+(i)+"/"+urls.length+" 缓存异常，尝试下一个…");
+          return tryRemote();
+        }
+        return {d:d,via:"远程数据包"};
+      })
+      .catch(function(e){
+        console.warn('[Eazy] url failed:', url.slice(0,80), '|', e.message);
+        if(manual)setSync("busy","更新中…","远程地址 "+(i)+"/"+urls.length+" 失败，换下一个…");
+        return tryRemote();
+      });
   }
+  var chain=tryRemote();
   // L2 浏览器内直抓（惰性：只有 L1 失败时才真正发起）
   function crawl(){
     return probeChannel().then(crawlVia).then(function(d){return {d:d,via:"浏览器直抓"};});
