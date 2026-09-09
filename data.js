@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-09 16:14",
+ "updatedAt": "2026-09-09 17:16",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -23,6 +23,7 @@ window.SNEAKER_DATA = {
   "CELINE",
   "CONVERSE",
   "CROCS",
+  "HOKA",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
@@ -72,25 +73,6 @@ window.SNEAKER_DATA = {
    "newsMentions": 1
   },
   {
-   "id": 62,
-   "brand": "NIKE",
-   "name": "Nike Kobe 8 Protro Mambacurial",
-   "sku": "IO6253-500",
-   "releaseDate": "2026-09-19",
-   "price": "USD 200",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/nike_kobe_8_protro_mambacurial_IO6253-500-1788898896342.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/nike/kobe-8/nike-kobe-8-protro-mambacurial-io6253-500",
-   "rating": 5.0,
-   "reviewCount": 39,
-   "hot": 2636,
-   "buzz": 649,
-   "newsMentions": 1
-  },
-  {
    "id": 71,
    "brand": "JORDAN",
    "name": "Air Jordan 1 Retro Low OG Last Dance at the Garden",
@@ -110,23 +92,23 @@ window.SNEAKER_DATA = {
    "newsMentions": 0
   },
   {
-   "id": 11,
-   "brand": "CROCS",
-   "name": "Crocs Classic Echo Clog Yu-Gi-Oh! Dark Magician",
-   "sku": "213591-90H",
-   "releaseDate": "2026-09-10",
-   "price": "USD 70",
+   "id": 62,
+   "brand": "NIKE",
+   "name": "Nike Kobe 8 Protro Mambacurial",
+   "sku": "IO6253-500",
+   "releaseDate": "2026-09-19",
+   "price": "USD 200",
    "marketPrice": "—",
    "size": "—",
    "collab": "—",
    "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/crocs_classic_echo_clog_yu_gi_oh_dark_magician_213591-90H-1787694982424.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/crocs/echo/crocs-classic-echo-clog-yu-gi-oh-dark-magician-213591-90h",
-   "rating": 0.0,
-   "reviewCount": 0,
-   "hot": 2228,
-   "buzz": 696,
-   "newsMentions": 3
+   "image": "https://images.soleretriever.com/sb/products/nike_kobe_8_protro_mambacurial_IO6253-500-1788898896342.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/nike/kobe-8/nike-kobe-8-protro-mambacurial-io6253-500",
+   "rating": 5.0,
+   "reviewCount": 39,
+   "hot": 2216,
+   "buzz": 549,
+   "newsMentions": 0
   },
   {
    "id": 31,
@@ -243,56 +225,18 @@ window.SNEAKER_DATA = {
    "newsMentions": 0
   },
   {
-   "id": 10,
+   "id": 11,
    "brand": "CROCS",
-   "name": "Crocs Echo Clog Yu-Gi-Oh! Blue-Eyes White Dragon",
-   "sku": "213732-90H",
-   "releaseDate": "2026-09-10",
-   "price": "USD 90",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/crocs_echo_clog_yu_gi_oh_blue_eyes_white_dragon_213732-90H-1787695313022.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/crocs/echo/crocs-echo-clog-yu-gi-oh-blue-eyes-white-dragon-213732-90h",
-   "rating": 0.0,
-   "reviewCount": 0,
-   "hot": 1808,
-   "buzz": 596,
-   "newsMentions": 2
-  },
-  {
-   "id": 21,
-   "brand": "CROCS",
-   "name": "Crocs Classic Clog Yu-Gi-Oh! Yugi Yami",
-   "sku": "213589-90H",
+   "name": "Crocs Classic Echo Clog Yu-Gi-Oh! Dark Magician",
+   "sku": "213591-90H",
    "releaseDate": "2026-09-10",
    "price": "USD 70",
    "marketPrice": "—",
    "size": "—",
    "collab": "—",
    "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/Untitled%20design%20-%202026-09-01T131923458-1788283170796.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/crocs/classic-clog/crocs-classic-clog-yu-gi-oh-yugi-yami-213589-90h",
-   "rating": 0.0,
-   "reviewCount": 0,
-   "hot": 1808,
-   "buzz": 596,
-   "newsMentions": 2
-  },
-  {
-   "id": 23,
-   "brand": "CROCS",
-   "name": "Crocs Classic Classic Clog Yu-Gi-Oh! Seto Kaiba",
-   "sku": "213590-90H",
-   "releaseDate": "2026-09-10",
-   "price": "USD 90",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/Untitled%20design%20-%202026-09-01T131714882-1788283048363.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/crocs/classic-clog/crocs-classic-classic-clog-yu-gi-oh-seto-kaiba-213590-90h",
+   "image": "https://images.soleretriever.com/sb/products/crocs_classic_echo_clog_yu_gi_oh_dark_magician_213591-90H-1787694982424.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/crocs/echo/crocs-classic-echo-clog-yu-gi-oh-dark-magician-213591-90h",
    "rating": 0.0,
    "reviewCount": 0,
    "hot": 1808,
@@ -317,44 +261,6 @@ window.SNEAKER_DATA = {
    "hot": 1808,
    "buzz": 378,
    "newsMentions": 0
-  },
-  {
-   "id": 66,
-   "brand": "CROCS",
-   "name": "Crocs Classic Clog Halloween",
-   "sku": "213831-90H",
-   "releaseDate": "2026-09-24",
-   "price": "USD 70",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/crocs_classic_clog_halloween_213831-90h-1788462659044.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/crocs/classic-clog/crocs-classic-clog-halloween-213831-90h",
-   "rating": 0.0,
-   "reviewCount": 0,
-   "hot": 1500,
-   "buzz": 470,
-   "newsMentions": 2
-  },
-  {
-   "id": 67,
-   "brand": "CROCS",
-   "name": "Crocs Classic Clog Saw",
-   "sku": "213832-90H",
-   "releaseDate": "2026-09-24",
-   "price": "USD 70",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/crocs_classic_clog_saw_213832-90h-1788462822194.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/crocs/classic-clog/crocs-classic-clog-saw-213832-90h",
-   "rating": 0.0,
-   "reviewCount": 0,
-   "hot": 1500,
-   "buzz": 470,
-   "newsMentions": 2
   },
   {
    "id": 2,
@@ -414,6 +320,25 @@ window.SNEAKER_DATA = {
    "newsMentions": 1
   },
   {
+   "id": 10,
+   "brand": "CROCS",
+   "name": "Crocs Echo Clog Yu-Gi-Oh! Blue-Eyes White Dragon",
+   "sku": "213732-90H",
+   "releaseDate": "2026-09-10",
+   "price": "USD 90",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/crocs_echo_clog_yu_gi_oh_blue_eyes_white_dragon_213732-90H-1787695313022.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/crocs/echo/crocs-echo-clog-yu-gi-oh-blue-eyes-white-dragon-213732-90h",
+   "rating": 0.0,
+   "reviewCount": 0,
+   "hot": 1388,
+   "buzz": 496,
+   "newsMentions": 1
+  },
+  {
    "id": 13,
    "brand": "NIKE",
    "name": "Nike Air Max Dolce Metallic Silver (W)",
@@ -445,6 +370,139 @@ window.SNEAKER_DATA = {
    "channels": [],
    "image": "https://images.soleretriever.com/sb/products/air_jordan_3_mid_td_metallic_silver_FZ8626-002-1787854914651.webp",
    "url": "https://www.soleretriever.com/sneaker-release-dates/jordan/nike-air-jordan-3/air-jordan-3-mid-td-metallic-silver-fz8626-002",
+   "rating": 0.0,
+   "reviewCount": 0,
+   "hot": 1388,
+   "buzz": 496,
+   "newsMentions": 1
+  },
+  {
+   "id": 15,
+   "brand": "ADIDAS",
+   "name": "adidas Taekwondo Ballerina Simone Rocha Core Black (W)",
+   "sku": "KJ5248",
+   "releaseDate": "2026-09-10",
+   "price": "USD 250",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/adidas_taekwondo_ballerina_simone_rocha_core_black_w_KJ5248-1788445749546.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/adidas/taekwondo/adidas-taekwondo-ballerina-simone-rocha-core-black-w-kj5248",
+   "rating": 0.0,
+   "reviewCount": 0,
+   "hot": 1388,
+   "buzz": 496,
+   "newsMentions": 1
+  },
+  {
+   "id": 16,
+   "brand": "ADIDAS",
+   "name": "adidas Japan Slip-On Simone Rocha Magic Beige (W)",
+   "sku": "KJ5251",
+   "releaseDate": "2026-09-10",
+   "price": "USD 220",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/adidas_japan_slip_on_simone_rocha_magic_beige_w_KJ5251-1788446523522.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/adidas/other/adidas-japan-slip-on-simone-rocha-magic-beige-w-kj5251",
+   "rating": 0.0,
+   "reviewCount": 0,
+   "hot": 1388,
+   "buzz": 496,
+   "newsMentions": 1
+  },
+  {
+   "id": 18,
+   "brand": "ADIDAS",
+   "name": "adidas Taekwondo Ballerina Simone Rocha Pink Tint (W)",
+   "sku": "KJ5249",
+   "releaseDate": "2026-09-10",
+   "price": "USD 250",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/adidas_taekwondo_ballerina_simone_rocha_pink_tint_w_KJ5249-1788445482622.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/adidas/taekwondo/adidas-taekwondo-ballerina-simone-rocha-pink-tint-w-kj5249",
+   "rating": 0.0,
+   "reviewCount": 0,
+   "hot": 1388,
+   "buzz": 496,
+   "newsMentions": 1
+  },
+  {
+   "id": 19,
+   "brand": "ADIDAS",
+   "name": "adidas Climacool Simone Rocha Core Black (W)",
+   "sku": "KH7452",
+   "releaseDate": "2026-09-10",
+   "price": "USD 250",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/adidas_climacool_simone_rocha_core_black_w_KH7452-1788446101525.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/adidas/other/adidas-climacool-simone-rocha-core-black-w-kh7452",
+   "rating": 0.0,
+   "reviewCount": 0,
+   "hot": 1388,
+   "buzz": 496,
+   "newsMentions": 1
+  },
+  {
+   "id": 20,
+   "brand": "ADIDAS",
+   "name": "adidas Japan Slip-On Simone Rocha Core Black (W)",
+   "sku": "KH7275",
+   "releaseDate": "2026-09-10",
+   "price": "USD 220",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/adidas_japan_slip_on_simone_rocha_core_black_w_KH7275-1788446976683.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/adidas/other/adidas-japan-slip-on-simone-rocha-core-black-w-kh7275",
+   "rating": 0.0,
+   "reviewCount": 0,
+   "hot": 1388,
+   "buzz": 496,
+   "newsMentions": 1
+  },
+  {
+   "id": 21,
+   "brand": "CROCS",
+   "name": "Crocs Classic Clog Yu-Gi-Oh! Yugi Yami",
+   "sku": "213589-90H",
+   "releaseDate": "2026-09-10",
+   "price": "USD 70",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/Untitled%20design%20-%202026-09-01T131923458-1788283170796.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/crocs/classic-clog/crocs-classic-clog-yu-gi-oh-yugi-yami-213589-90h",
+   "rating": 0.0,
+   "reviewCount": 0,
+   "hot": 1388,
+   "buzz": 496,
+   "newsMentions": 1
+  },
+  {
+   "id": 23,
+   "brand": "CROCS",
+   "name": "Crocs Classic Classic Clog Yu-Gi-Oh! Seto Kaiba",
+   "sku": "213590-90H",
+   "releaseDate": "2026-09-10",
+   "price": "USD 90",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/Untitled%20design%20-%202026-09-01T131714882-1788283048363.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/crocs/classic-clog/crocs-classic-classic-clog-yu-gi-oh-seto-kaiba-213590-90h",
    "rating": 0.0,
    "reviewCount": 0,
    "hot": 1388,
@@ -525,6 +583,44 @@ window.SNEAKER_DATA = {
    "reviewCount": 0,
    "hot": 1190,
    "buzz": 415,
+   "newsMentions": 1
+  },
+  {
+   "id": 66,
+   "brand": "CROCS",
+   "name": "Crocs Classic Clog Halloween",
+   "sku": "213831-90H",
+   "releaseDate": "2026-09-24",
+   "price": "USD 70",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/crocs_classic_clog_halloween_213831-90h-1788462659044.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/crocs/classic-clog/crocs-classic-clog-halloween-213831-90h",
+   "rating": 0.0,
+   "reviewCount": 0,
+   "hot": 1080,
+   "buzz": 370,
+   "newsMentions": 1
+  },
+  {
+   "id": 67,
+   "brand": "CROCS",
+   "name": "Crocs Classic Clog Saw",
+   "sku": "213832-90H",
+   "releaseDate": "2026-09-24",
+   "price": "USD 70",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/crocs_classic_clog_saw_213832-90h-1788462822194.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/crocs/classic-clog/crocs-classic-clog-saw-213832-90h",
+   "rating": 0.0,
+   "reviewCount": 0,
+   "hot": 1080,
+   "buzz": 370,
    "newsMentions": 1
   },
   {
@@ -661,44 +757,6 @@ window.SNEAKER_DATA = {
    "newsMentions": 0
   },
   {
-   "id": 15,
-   "brand": "ADIDAS",
-   "name": "adidas Taekwondo Ballerina Simone Rocha Core Black (W)",
-   "sku": "KJ5248",
-   "releaseDate": "2026-09-10",
-   "price": "USD 250",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/adidas_taekwondo_ballerina_simone_rocha_core_black_w_KJ5248-1788445749546.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/adidas/taekwondo/adidas-taekwondo-ballerina-simone-rocha-core-black-w-kj5248",
-   "rating": 0.0,
-   "reviewCount": 0,
-   "hot": 968,
-   "buzz": 396,
-   "newsMentions": 0
-  },
-  {
-   "id": 16,
-   "brand": "ADIDAS",
-   "name": "adidas Japan Slip-On Simone Rocha Magic Beige (W)",
-   "sku": "KJ5251",
-   "releaseDate": "2026-09-10",
-   "price": "USD 220",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/adidas_japan_slip_on_simone_rocha_magic_beige_w_KJ5251-1788446523522.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/adidas/other/adidas-japan-slip-on-simone-rocha-magic-beige-w-kj5251",
-   "rating": 0.0,
-   "reviewCount": 0,
-   "hot": 968,
-   "buzz": 396,
-   "newsMentions": 0
-  },
-  {
    "id": 17,
    "brand": "REEBOK",
    "name": "Reebok Brutus Low Heritage Green",
@@ -711,63 +769,6 @@ window.SNEAKER_DATA = {
    "channels": [],
    "image": "https://images.soleretriever.com/sb/products/reebok_brutus_low_heritage_green_100263449-1788611096087.webp",
    "url": "https://www.soleretriever.com/sneaker-release-dates/reebok/other/reebok-brutus-low-heritage-green-100263449",
-   "rating": 0.0,
-   "reviewCount": 0,
-   "hot": 968,
-   "buzz": 396,
-   "newsMentions": 0
-  },
-  {
-   "id": 18,
-   "brand": "ADIDAS",
-   "name": "adidas Taekwondo Ballerina Simone Rocha Pink Tint (W)",
-   "sku": "KJ5249",
-   "releaseDate": "2026-09-10",
-   "price": "USD 250",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/adidas_taekwondo_ballerina_simone_rocha_pink_tint_w_KJ5249-1788445482622.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/adidas/taekwondo/adidas-taekwondo-ballerina-simone-rocha-pink-tint-w-kj5249",
-   "rating": 0.0,
-   "reviewCount": 0,
-   "hot": 968,
-   "buzz": 396,
-   "newsMentions": 0
-  },
-  {
-   "id": 19,
-   "brand": "ADIDAS",
-   "name": "adidas Climacool Simone Rocha Core Black (W)",
-   "sku": "KH7452",
-   "releaseDate": "2026-09-10",
-   "price": "USD 250",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/adidas_climacool_simone_rocha_core_black_w_KH7452-1788446101525.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/adidas/other/adidas-climacool-simone-rocha-core-black-w-kh7452",
-   "rating": 0.0,
-   "reviewCount": 0,
-   "hot": 968,
-   "buzz": 396,
-   "newsMentions": 0
-  },
-  {
-   "id": 20,
-   "brand": "ADIDAS",
-   "name": "adidas Japan Slip-On Simone Rocha Core Black (W)",
-   "sku": "KH7275",
-   "releaseDate": "2026-09-10",
-   "price": "USD 220",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/adidas_japan_slip_on_simone_rocha_core_black_w_KH7275-1788446976683.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/adidas/other/adidas-japan-slip-on-simone-rocha-core-black-w-kh7275",
    "rating": 0.0,
    "reviewCount": 0,
    "hot": 968,
@@ -1481,6 +1482,28 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "UNDERCOVER 與 George Cox 以 Cindy Sherman 攝影作品重塑 4 Eyelet Derby",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-09",
+   "content": "名稱： UNDERCOVER x Cindy Sherman x George Cox 4 Eyelet Derby配色：黑色、白色產品編號：不適用建議零售價：450 美元發售日期：現已發售發售地點：George CoxGeorge Cox 與 UNDERCOVER 再度攜手推出 4 Eyelet Derby，延續 Jun Takahashi 旗下品牌與 George Cox 位於 Northamptonshire 的工坊之間的合作。來到 2026 秋冬季度，雙方將這款鞋交予美國藝術家 Cindy Sherman 演繹，讓她探究身分認同的攝影作品成為鞋身表面。鞋款結構忠於 George Cox 一貫的製作方法。兩種配色均採用 1353 鞋楦，這是源自 Northamptonshire 的傳統圓頭鞋楦；品牌藉此塑造出比其經典鞋型所呈現的更硬朗輪廓。每雙鞋均配備輕量 EVA 鞋底，並以鋼製鞋眼扣固定四孔鞋帶，亦正是 4 Eyelet Derby 名稱的由來。鞋內採用天然小牛皮作內裡，並保留 George Cox 視為品牌標誌筆觸一部分的工業壓印內部細節。George Cox 與 UNDERCOVER 沒有為皮革染色或壓紋，而是直接印上照片，讓 Sherman 的影像包覆整個鞋身，形成連貫的畫面，焦點則落在鞋頭位置。Sherman 以精心佈置的自拍肖像建立聲譽，在鏡頭前化身不斷轉換的角色，藉攝影探問身分如何被建構與演繹。這種對自我形象的關注，亦恰好呼應 UNDERCOVER 一直以來的顛覆精神。兩種配色分別取材自她不同的作品。白色款印有她於 1983 年創作的 《Untitled #122》；黑色款則取自她較早期的電影劇照系列，呈現 1979 年的 《Untitled Film Still #16》及 1980 年的 《Untitled Film Still #53》。兩款鞋的影像素材橫跨 1979 至 1983 年，令這雙 Derby 鞋化作美國當代攝影最具影響力作品群之一的可穿戴片段。 Click here to view full gallery at Hypebeas",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FUNDERCOVER-Cindy-Sherman-George-Cox-4-Eyelet-Derby-black-white-Release-Info-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/undercover-cindy-sherman-george-cox-4-eyelet-derby-black-white-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 2,
+   "title": "JJJJound 與 Diemme 再推 Movida「Brown」麖皮配色，採用意大利皮革及 Vibram 鞋底",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-09",
+   "content": "名稱： JJJJound x Diemme Movida配色： 啡色SKU： 不適用建議零售價： 待定發售日期： 9 月 10 日發售地點： JJJJound、DiemmeDiemme 與 JJJJound 為 Movida 換上啡色麖皮配色，延續雙方持續回歸意大利品牌實用鞋履輪廓的合作。這雙最新鞋款於意大利手工製作，以材質和結構為重點，選用優質意大利麖皮鞋面，配以全皮革內裡。鞋款以輕量 Vibram 鞋底作基礎，著重日常穿著所需的靈活度與抓地力，而非純粹應付高性能用途。啡色麖皮鞋面配上全皮革內裡，既呼應 Diemme 的機能製鞋背景，亦令整體輪廓保持簡潔，符合 JJJJound 一貫的極簡美學。細節正是這次合作的個性所在。黑色塗層金屬鞋眼配以黑色聚酯纖維鞋帶，另穿上一條紅色副鞋帶，低調帶出對比效果。編織尼龍後拉環和織帶提拉環兼具實用功能，方便穿著，同時呼應 Diemme 從戶外鞋款汲取的設計原型。鞋頭與鞋跟的品牌標記同樣保持低調：鞋舌壓印 Diemme 標誌，鞋跟拉片則印有 JJJJound 的襯線字標，讓兩個品牌各自表明身分，卻不破壞極簡的整體處理。Diemme 自 1992 年起在意大利 Veneto 地區的基地製作鞋履，從登山及高性能裝備汲取靈感，打造兼具精緻感與實用取向的設計；這份傳承貫穿今次鞋款的每一個元素。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fft-JJJJound-Diemme-Movida-Brown-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/jjjjound-diemme-movida-brown-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 3,
    "title": "N.HOOLYWOOD COMPILE x KEEN 將 UNEEK 360 簡化為繩索、鞋底與無膠結構",
    "source": "Hypebeast 中文",
    "date": "2026-09-09",
@@ -1491,7 +1514,31 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 4,
+   "title": "UNDERCOVER and George Cox Reinterpret the 4 Eyelet Derby Through Cindy Sherman's Photography",
+   "source": "Hypebeast",
+   "date": "2026-09-09",
+   "content": "Name: UNDERCOVER x Cindy Sherman x George Cox 4 Eyelet DerbyColorway: Black, WhiteSKU: N/AMSRP: $450 USDRelease Date: Available nowWhere to Buy: George CoxGeorge Cox and UNDERCOVER have again joined forces on the 4 Eyelet Derby, extending a partnership that runs through Jun Takahashi's label and George Cox's Northamptonshire workshop. For Fall/Winter 2026, the two houses hand the silhouette over to American artist Cindy Sherman, whose photographic studies of identity become the surface of the shoe itself.The construction stays true to George Cox's house methods. Both colorways are built on the 1353 last, a traditional Northamptonshire round-toe form that the brand pushes into something tougher than its heritage silhouettes suggest. A lightweight EVA sole underpins each pair, while steel eyelets handle the four-eyelet lacing that gives the derby its name. Inside, the shoes are finished wi",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F09%2FUNDERCOVER-Cindy-Sherman-George-Cox-4-Eyelet-Derby-black-white-Release-Info-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/undercover-cindy-sherman-george-cox-4-eyelet-derby-black-white-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "JJJJound and Diemme Return the Movida in a \"Brown\" Suede Build With Italian Leather and Vibram",
+   "source": "Hypebeast",
+   "date": "2026-09-09",
+   "content": "Name: JJJJound x Diemme MovidaColorway: BrownSKU: N/AMSRP: TBCRelease Date: September 10Where to Buy: JJJJound, DiemmeDiemme and JJJJound have reworked the Movida in a brown suede colorway, extending a collaboration that keeps returning to the Italian label's utilitarian silhouettes. Handcrafted in Italy, the latest pair leads with material and construction, building the shoe from premium Italian suede over a full leather lining.The foundation is a lightweight Vibram sole, chosen to deliver flexibility and grip for daily wear rather than pure performance duty. Above it, the brown suede upper sits on a full leather lining, a combination that leans on Diemme's technical shoemaking background while keeping the profile clean enough for JJJJound's pared-back sensibility.The detailing is where the collaboration earns its character. Black-coated metal eyelets secure black polyester laces, with ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F09%2Fft-JJJJound-Diemme-Movida-Brown-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/jjjjound-diemme-movida-brown-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 6,
    "title": "N.HOOLYWOOD COMPILE x KEEN Pare the UNEEK 360 Down to Cords, a Sole and a Glue-Free Build",
    "source": "Hypebeast",
    "date": "2026-09-09",
@@ -1502,7 +1549,73 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 3,
+   "id": 7,
+   "title": "Thank Simone Rocha for This Pretty Pony-Hair adidas Slipper",
+   "source": "Highsnobiety",
+   "date": "2026-09-09",
+   "content": "Simone Rocha's adidas era kicks off with a hairy Japan slip-on, as well as other ballet-style shoes & ruffled sportswear.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/simone-rocha-adidas-japan-slip-on/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "This Is adidas' Ballet Flat at Its Suavest",
+   "source": "Highsnobiety",
+   "date": "2026-09-09",
+   "content": "adidas reveals new Stan Smith Lo Ballet flats in brown nubuck leather ahead of the fall season.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-stan-smith-lo-ballet-wild-brown/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Nike’s Wagyu Air Max Is a Full-Flavored Stepper",
+   "source": "Highsnobiety",
+   "date": "2026-09-09",
+   "content": "Harlem's Wagyu brand serves up a beef-flavored Air Max 90 sneaker with deliciously luxe details. Here's everything on the grade-A collab.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/wagyu-nike-air-max-90/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Nike’s Winter-Ready Air Jordans Are Extra Swaggy The Second Time Around",
+   "source": "Highsnobiety",
+   "date": "2026-09-09",
+   "content": "The Air Jordan 1 Element Low returns with its signature trail-ready GORE-TEX construction plus fresh colorways like \"Black/Dark Concord.\"",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-1-element-low-sneakers-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "This Leather adidas Staple Went From the Terraces to the Skate Park",
+   "source": "Highsnobiety",
+   "date": "2026-09-09",
+   "content": "The adidas Originals Glenburn Auburn/Gum seamlessly blends terrace culture with modern skateboarding.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-glenburn-auburn/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 12,
    "title": "Celine 為 Reebok Freestyle Lo 注入巴黎風格新貌",
    "source": "Hypebeast 中文",
    "date": "2026-09-08",
@@ -1516,7 +1629,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 13,
    "title": "Air Jordan 1 Low Element GTX 推出「Cream II」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-08",
@@ -1529,7 +1642,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 14,
    "title": "率先預覽 ROA x fragment design Andreas 靴款",
    "source": "Hypebeast 中文",
    "date": "2026-09-08",
@@ -1540,7 +1653,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 15,
    "title": "POST ARCHIVE FACTION（PAF）首款 Petal Trainers 以雷射切割花瓣融入意大利皮革",
    "source": "Hypebeast 中文",
    "date": "2026-09-08",
@@ -1551,7 +1664,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 7,
+   "id": 16,
    "title": "Air Jordan 1 Low Golf Mule 全新「Medium Olive/Khaki」配色兼備球場抓地力與穆勒鞋的易穿設計",
    "source": "Hypebeast 中文",
    "date": "2026-09-08",
@@ -1564,7 +1677,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 17,
    "title": "Celine Gave the Reebok Freestyle Lo a Parisian Remix",
    "source": "Hypebeast",
    "date": "2026-09-08",
@@ -1578,7 +1691,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 18,
    "title": "The Air Jordan 1 Low Element GTX Receives a “Cream II” Variant",
    "source": "Hypebeast",
    "date": "2026-09-08",
@@ -1592,7 +1705,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 19,
    "title": "Official Look at the sunlovetour x New Balance Minimus Sneakers",
    "source": "Hypebeast",
    "date": "2026-09-08",
@@ -1605,7 +1718,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 20,
    "title": "POST ARCHIVE FACTION (PAF)'s Petal Trainers Laser-Cut Flower Petals Into Italian Leather",
    "source": "Hypebeast",
    "date": "2026-09-08",
@@ -1616,7 +1729,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 12,
+   "id": 21,
    "title": "Take a First Look at the ROA x fragment design’s Andreas Boot",
    "source": "Hypebeast",
    "date": "2026-09-08",
@@ -1629,7 +1742,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 22,
    "title": "Air Jordan 1 Low Golf Mule Blends Course Traction and Slip-On Ease in a New \"Medium Olive/Khaki\"",
    "source": "Hypebeast",
    "date": "2026-09-08",
@@ -1642,7 +1755,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 23,
    "title": "Tyrrell Winston x adidas Climacool 4D “Collegiate Red”",
    "source": "Nice Kicks",
    "date": "2026-09-08",
@@ -1655,7 +1768,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 24,
    "title": "Billionaire Boys Club x Reebok Club C 85 “Grey”",
    "source": "Nice Kicks",
    "date": "2026-09-08",
@@ -1668,7 +1781,35 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 25,
+   "title": "Fashion's New Favorite Accessory? Literal Rocks",
+   "source": "Highsnobiety",
+   "date": "2026-09-08",
+   "content": "Rocks have become a consistent new status symbol for being unplugged, appearing in fashion campaigns at On, HOKA, BEAMS, HAVEN and Barbour.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/on-hoka-rocks/",
+   "lang": "en",
+   "relatedBrands": [
+    "HOKA",
+    "UGG"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "An OG Reebok Fitness Shoe Becomes a Buttery Celine Sneaker",
+   "source": "Highsnobiety",
+   "date": "2026-09-08",
+   "content": "Celine's Reebok Freestyle Lo sneaker is finally here, revealed in eight buttery colorways including the distressed versions from the runway.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/celine-reebok-freestyle-lo/",
+   "lang": "en",
+   "relatedBrands": [
+    "CELINE",
+    "REEBOK"
+   ]
+  },
+  {
+   "id": 27,
    "title": "Nike First Sight Shadow 以「淺深紅／金屬銀」配色的雕塑感套穿設計為三部曲作結",
    "source": "Hypebeast 中文",
    "date": "2026-09-07",
@@ -1681,7 +1822,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 28,
    "title": "Etro 為 Birkenstock Boston 與 Gizeh 注入佩斯利花紋鞋底及 Pegaso 鉚釘",
    "source": "Hypebeast 中文",
    "date": "2026-09-07",
@@ -1694,7 +1835,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 29,
    "title": "Crocs 2026 Horror Pack 為兩款 Classic Clog 注入《Halloween》與《Saw》元素及潑血圖案",
    "source": "Hypebeast 中文",
    "date": "2026-09-07",
@@ -1707,7 +1848,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 30,
    "title": "SUBU 為 ORIGINALS F-LINE 涼鞋推出全新「Lavender」及「Matcha」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-07",
@@ -1718,20 +1859,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 20,
-   "title": "BEAMS BOY 與 Birkenstock 以 3 色不對稱麂皮拼布重塑 Boston",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-07",
-   "content": "名稱： BEAMS BOY x Birkenstock Boston Patch Work配色： 啡色拼布款號： 13330193271建議零售價： 36,300 日圓（約 230 美元）發售日期： 9 月 12 日發售渠道： BEAMSBEAMS BOY 與 Birkenstock 為特別訂製聯乘重新演繹 Boston 木屐鞋，以 3 種色調的麂皮拼製成「啡色拼布」配色。此企劃捨棄一整片單一物料，改以拼接、著重手工感的鞋面，重塑 Birkenstock 最具代表性的鞋型之一。鞋款沿用 Boston 的木屐鞋結構，並將鞋面改為不對稱拼布。Birkenstock 的 Taupe、Mink 及 Mocha 3 種麂皮，以刻意錯落的拼接方式組合；每隻鞋呈現多種截然不同的皮革表面，而非一塊均一鞋面。不對稱正是設計重點：左右腳的拼接排列略有不同，令鞋款帶有手製孤品的感覺。這種拼接設計主要透過皮革選材與組裝呈現。麂皮經裁切、拼合後，縫線本身便成為鞋款的視覺語言；這種製作手法以質感和對比，取代 Boston 一貫俐落的單一物料鞋面。它為這個向來以簡潔線條見稱的鞋型，注入經手工處理的質感。雙方標誌融入細節之中，並非直接印在鞋身外側。鞋床印有 Birkenstock 與 BEAMS 的標誌，讓雙方的合作在雙腳接觸的位置留下印記。鞋款亦會以 BEAMS 標誌性的橙色鞋盒包裝，把聯乘識別延伸至包裝設計。鞋底規格則忠於 Boston 原有配置。鞋面與鞋墊襯裡均採用天然皮革，外底則以合成 EVA 製成，提供輕盈緩震。鞋款於德國製造，尺碼選擇廣泛；較小尺碼經 BEAMS BOY 支線發售，提供不分性別的合穿選擇，另設較大男裝尺碼的對應款式。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FBEAMS-BOY-Birkenstock-Boston-Patch-Work-13330193271-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/beams-boy-birkenstock-boston-patch-work-13330193271-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "BIRKENSTOCK"
-   ]
-  },
-  {
-   "id": 21,
+   "id": 31,
    "title": "CHANGBIN x AUTRY Collection Launch Event Brings a Pink Paradise to Seoul",
    "source": "Hypebeast",
    "date": "2026-09-07",
@@ -1744,7 +1872,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 32,
    "title": "The Nike First Sight Shadow Closes the Trilogy With Sculptural Slip-On Build in \"Light Crimson/Metallic Silver\"",
    "source": "Hypebeast",
    "date": "2026-09-07",
@@ -1757,7 +1885,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 33,
    "title": "Etro Leads the Birkenstock Boston and Gizeh With Paisley Outsoles and Pegaso Rivets",
    "source": "Hypebeast",
    "date": "2026-09-07",
@@ -1771,31 +1899,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
-   "title": "Crocs' 2026 Horror Pack Loads Two Classic Clogs With ‘Halloween’ and ‘Saw’ Props and Blood Splatter",
-   "source": "Hypebeast",
-   "date": "2026-09-07",
-   "content": "Name: ‘Halloween’ x Crocs Classic Clog “Michael Myers”, ‘Saw’ x Crocs Classic Clog “Jigsaw”Colorway: MultiSKU: 213831-90H, 213832-90HMSRP: $70 USDRelease Date: September 24Where to Buy: CrocsCrocs is bringing its Horror Pack back for 2026 with two Classic Clogs built around Halloween and Saw. The set hands the spotlight to Michael Myers and Jigsaw, with each clog taking a distinct approach to its source film rather than running the same template in two colorways.The Michael Myers pair goes the comic route. Its upper carries a black and off-white graphic of the character, cut through with orange panels and red blood splatter, and that splatter carries onto the gray midsole. An olive heel strap and black hardware close out the back. Up front, a set of themed Jibbitz includes a knife and Halloween graphics, and Crocs layers in \"The Night He Came Home\" movie references so the design reads as",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F04%2FHalloween-Saw-Crocs-Classic-Clog-michael-myers-jigsaw-213831-90H-213832-90H-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/halloween-saw-crocs-classic-clog-michael-myers-jigsaw-213831-90h-213832-90h-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CROCS"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "SUBU Warms Its ORIGINALS F-LINE Sandal With New \"Lavender\" and \"Matcha\" Colorways",
-   "source": "Hypebeast",
-   "date": "2026-09-07",
-   "content": "Name: SUBU Originals F-LineColorway: Matcha, MatchaSKU: N/AMSRP: ¥5,280 JPY (approx. $35 USD)Release Date: Available nowWhere to Buy: SUBUSUBU has introduced two new colorways of its ORIGINALS F-LINE sandal, \"Lavender\" and \"Matcha,\" for the 2026 fall and winter season. Rather than a warm-weather slide, the F-LINE is engineered as a cold-season sandal that can be worn on bare feet, using its layered construction to trap heat where conventional open footwear leaves it exposed.The heart of the design is a four-layer insole that gives the sandal its cushioning and thermal payoff. Underfoot, those stacked layers are tuned to deliver a plush, settled feel that the brand positions as more comfortable than standard house footwear, while the structure hugs the whole foot for a secure fit. It is the part of the build doing the quiet work, turning a slip-on silhouette into something that holds the ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F07%2FSUBU-Originals-F-Line-Matcha-Lavender-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/subu-originals-f-line-matcha-lavender-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 26,
+   "id": 34,
    "title": "Nike KD 19 “Candy Paint Green”",
    "source": "Nice Kicks",
    "date": "2026-09-07",
@@ -1808,7 +1912,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 35,
    "title": "Air Jordan 12 “Idols Become Rivals” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-07",
@@ -1821,7 +1925,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 36,
    "title": "Terror Squad x Air Force 1 Low QS “University Red” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-07",
@@ -1832,7 +1936,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 29,
+   "id": 37,
    "title": "Air Jordan 7 “Tennis Day” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-07",
@@ -1846,7 +1950,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 38,
    "title": "Nike G.T. Future “Varsity Red”",
    "source": "Nice Kicks",
    "date": "2026-09-07",
@@ -1859,7 +1963,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 39,
    "title": "Nike Air Max 95 Big Bubble OG “Reverse Greedy”",
    "source": "Nice Kicks",
    "date": "2026-09-07",
@@ -1872,20 +1976,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
-   "title": "FC Barcelona x Nike Kobe 3 Low Protro「Electro Purple」現已發售",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-06",
-   "content": "摘要 Nike 與 FC Barcelona 正式發佈 Electric Purple 配色的 Kobe 3 Low Protro。此鞋款配置全掌 Air Zoom Strobel 緩震科技，並加入度身訂製的球會會章標誌細節。這雙聯乘鞋款將於 2026 年 9 月 4 日正式上市，定價 235 美元。 名稱：FC Barcelona x Nike Kobe 3 Low Protro「Electro Purple」配色：黑色／Electro Purple－Metallic Gold貨號：IO6257-001建議零售價：200 美元發售日期：2026 年 9 月 4 日發售渠道： NikeNike 正式公開 FC Barcelona x Nike Kobe 3 Low Protro 的官方照片。這次發售以 Kobe Bryant 第 3 代簽名鞋的重新設計低筒版本，延續他與這支西班牙足球會的深厚淵源。鞋款的模塑鞋籠、鞋帶、中底及半透明外底均採用「Electric Purple」配色，鞋側面板與鞋領下方則襯以黑色底層。後跟 Swoosh、鞋墊及鞋舌標誌以 Metallic Gold 點綴；其中一邊鞋舌飾有 Kobe 的 Sheath 標誌，另一邊則印上 FC Barcelona 官方會徽。客製會徽細節亦延伸至鞋帶扣。鞋款針對現代賽場提升性能，將 2007 年原版升級為配備全掌 Air Zoom Strobel 氣墊及 Cushlon 3.0 泡棉中底的規格。此鞋將與 Kobe Dunk Low Protro 一同推出，屬於 Nike 與 FC Barcelona 的 2026 年系列。FC Barcelona x Nike Kobe 3 Low Protro 將於 2026 年 9 月 4 日正式發售，定價為 235 美元，並於 Nike 及指定零售商上架。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Ffc-barcelona-nike-kobe-3-protro-electric-purple-IO6257-001-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/fc-barcelona-nike-kobe-3-protro-electric-purple-io6257-001-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 33,
+   "id": 40,
    "title": "This Air Jordan 9 Returns for the Film’s 30th Anniversary",
    "source": "Nice Kicks",
    "date": "2026-09-05",
@@ -1898,7 +1989,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 41,
    "title": "Where To Buy the Air Jordan 4 “Tour Yellow”",
    "source": "Nice Kicks",
    "date": "2026-09-05",
@@ -1909,83 +2000,6 @@ window.SNEAKER_DATA = {
    "relatedBrands": [
     "JORDAN"
    ]
-  },
-  {
-   "id": 35,
-   "title": "Nike's Favorite Dad Shoe Gets Its Shine On",
-   "source": "Highsnobiety",
-   "date": "2026-09-01",
-   "content": "The Nike Zoom Vomero 5 Gridiron delivers a metallic, slate-toned spin on the retro runner.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-gridiron/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "This Nike Noughties Revival Is an Optical Illusion",
-   "source": "Highsnobiety",
-   "date": "2026-09-01",
-   "content": "The Nike Air Jordan 8 Chrome revives Tinker Hatfield’s strap-laden 1993 silhouette for a new generation.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-jordan-8-chrome/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 37,
-   "title": "Nike's Weirdest Design Now Glows In the Dark",
-   "source": "Highsnobiety",
-   "date": "2026-09-01",
-   "content": "The Nike Air Foamposite One Phantom/Barely Volt writes an even more eye-catching new chapter in a liquid-metal legacy",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-foamposite-one-phantom-barel-volt/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "Sole Food: Saucony Quietly Became the Reseller’s Favorite Sneaker",
-   "source": "Highsnobiety",
-   "date": "2026-08-31",
-   "content": "StockX names Saucony its fastest-growing sneaker brand in the August 2026 Big Facts report. Here, we unpack the secrets to the label's resale success.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/saucony-stockx-report/",
-   "lang": "en",
-   "relatedBrands": [
-    "SAUCONY"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "From Table to Foot, Gohar World Does Ballet Sneakers Now",
-   "source": "Highsnobiety",
-   "date": "2026-08-31",
-   "content": "Translating a theatrical lens into footwear, the Gohar World x ASICS GEL-DS Trainer SP Ballet is a head-turning ballet sneaker.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/gohar-world-asics-gel-ds-trainer/",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Isabel Marant’s Bekett Sneaker Drives a Wedge in the Flat Sneaker Conversation",
-   "source": "Highsnobiety",
-   "date": "2026-08-31",
-   "content": "Isabel Marant's Bekett Reedition sneaker is a remake of one of the best wedge sneakers in the game.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/isabel-marant-bekett-reedition-sneaker/",
-   "lang": "en",
-   "relatedBrands": []
   }
  ]
 };
