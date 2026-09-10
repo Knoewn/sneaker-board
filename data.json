@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-10 08:07",
+ "updatedAt": "2026-09-10 16:06",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -18,11 +18,15 @@
   "ADIDAS",
   "ANTA",
   "ASICS",
+  "BALENCIAGA",
   "BROOKS RUNNING",
   "CELINE",
+  "CLARKS",
   "CONVERSE",
   "CROCS",
+  "HOKA",
   "JORDAN",
+  "MIZUNO",
   "NEW BALANCE",
   "NIKE",
   "PUMA",
@@ -47,9 +51,9 @@
    "image": "https://images.soleretriever.com/sb/products/air_jordan_9_retro_og_space_jam_IX6179-100-1788732358066.webp",
    "url": "https://www.soleretriever.com/sneaker-release-dates/jordan/air-jordan-9/air-jordan-9-retro-og-space-jam-ix6179-100",
    "rating": 5.0,
-   "reviewCount": 64,
-   "hot": 2588,
-   "buzz": 708,
+   "reviewCount": 65,
+   "hot": 2602,
+   "buzz": 714,
    "newsMentions": 0
   },
   {
@@ -66,9 +70,9 @@
    "image": "https://images.soleretriever.com/sb/products/air_jordan_1_retro_low_og_last_dance_at_the_garden_IR0088-001-1788286486695.webp",
    "url": "https://www.soleretriever.com/sneaker-release-dates/jordan/air-jordan-1-low/air-jordan-1-retro-low-og-last-dance-at-the-garden-ir0088-001",
    "rating": 5.0,
-   "reviewCount": 56,
-   "hot": 2322,
-   "buzz": 597,
+   "reviewCount": 57,
+   "hot": 2336,
+   "buzz": 603,
    "newsMentions": 0
   },
   {
@@ -93,6 +97,25 @@
   {
    "id": 34,
    "brand": "NIKE",
+   "name": "Nike SB Air Force 1 Low Yuto Horigome",
+   "sku": "IO8439-100",
+   "releaseDate": "2026-09-12",
+   "price": "USD 125",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/nike_sb_air_force_1_low_yuto_horigome_IO8439-100-1788536144262.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/nike-sb/other/nike-sb-air-force-1-low-yuto-horigome-io8439-100",
+   "rating": 5.0,
+   "reviewCount": 27,
+   "hot": 2224,
+   "buzz": 549,
+   "newsMentions": 0
+  },
+  {
+   "id": 35,
+   "brand": "NIKE",
    "name": "Nike Air Max Plus One Piece Mera Mera",
    "sku": "IW1283-800",
    "releaseDate": "2026-09-12",
@@ -107,25 +130,6 @@
    "reviewCount": 27,
    "hot": 2224,
    "buzz": 549,
-   "newsMentions": 0
-  },
-  {
-   "id": 35,
-   "brand": "NIKE",
-   "name": "Nike SB Air Force 1 Low Yuto Horigome",
-   "sku": "IO8439-100",
-   "releaseDate": "2026-09-12",
-   "price": "USD 125",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/nike_sb_air_force_1_low_yuto_horigome_IO8439-100-1788536144262.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/nike-sb/other/nike-sb-air-force-1-low-yuto-horigome-io8439-100",
-   "rating": 5.0,
-   "reviewCount": 26,
-   "hot": 2210,
-   "buzz": 543,
    "newsMentions": 0
   },
   {
@@ -180,13 +184,32 @@
    "image": "https://images.soleretriever.com/sb/products/nike_air_bakin_og_IQ5365-600-1770828768985.webp",
    "url": "https://www.soleretriever.com/sneaker-release-dates/nike/other/nike-air-bakin-og-iq5365-600",
    "rating": 5.0,
-   "reviewCount": 25,
-   "hot": 1844,
-   "buzz": 393,
+   "reviewCount": 26,
+   "hot": 1858,
+   "buzz": 399,
    "newsMentions": 0
   },
   {
-   "id": 41,
+   "id": 3,
+   "brand": "NEW BALANCE",
+   "name": "New Balance 1300 Made in USA Sea Salt Blue Oyster",
+   "sku": "U1300SS",
+   "releaseDate": "2026-09-10",
+   "price": "USD 190",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/new_balance_1300_made_in_usa_sea_salt_blue_oyster_u1300ss-1787857151176.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/new-balance/1300/new-balance-1300-made-in-usa-sea-salt-blue-oyster-u1300ss",
+   "rating": 0.0,
+   "reviewCount": 0,
+   "hot": 1830,
+   "buzz": 605,
+   "newsMentions": 2
+  },
+  {
+   "id": 38,
    "brand": "ANTA",
    "name": "ANTA Kai 3 Alchemist",
    "sku": "8126D1102-12",
@@ -202,44 +225,6 @@
    "reviewCount": 0,
    "hot": 1786,
    "buzz": 587,
-   "newsMentions": 2
-  },
-  {
-   "id": 48,
-   "brand": "NIKE",
-   "name": "Nike First Sight Shadow Light Crimson (W)",
-   "sku": "HQ2410-600",
-   "releaseDate": "2026-09-15",
-   "price": "USD 145",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/nike_first_sight_shadow_light_crimson_w_HQ2410-600-1787236554629.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/nike/other/nike-first-sight-shadow-light-crimson-w-hq2410-600",
-   "rating": 0.0,
-   "reviewCount": 0,
-   "hot": 1720,
-   "buzz": 560,
-   "newsMentions": 2
-  },
-  {
-   "id": 49,
-   "brand": "NIKE",
-   "name": "Nike First Sight Mirage Light Crimson (W)",
-   "sku": "HQ2412-600",
-   "releaseDate": "2026-09-15",
-   "price": "USD 170",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/nike_first_sight_mirage_light_crimson_w_HQ2412-600-1788366450553.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/nike/other/nike-first-sight-mirage-light-crimson-w-hq2412-600",
-   "rating": 0.0,
-   "reviewCount": 0,
-   "hot": 1720,
-   "buzz": 560,
    "newsMentions": 2
   },
   {
@@ -262,37 +247,18 @@
    "newsMentions": 2
   },
   {
-   "id": 1,
-   "brand": "NIKE",
-   "name": "Nike Air Zoom Huarache 2K4 Penny Hardaway",
-   "sku": "IV0345-001",
+   "id": 2,
+   "brand": "VANS",
+   "name": "Vans Old Skool 36 Yacht Club",
+   "sku": "VN000E8VBGK",
    "releaseDate": "2026-09-10",
-   "price": "USD 200",
+   "price": "USD 130",
    "marketPrice": "—",
    "size": "—",
    "collab": "—",
    "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/nike_air_zoom_huarache_2k4_penny_hardaway_IV0345-001-1787413757062.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/nike/air-huarache/nike-air-zoom-huarache-2k4-penny-hardaway-iv0345-001",
-   "rating": 0.0,
-   "reviewCount": 0,
-   "hot": 1410,
-   "buzz": 505,
-   "newsMentions": 1
-  },
-  {
-   "id": 3,
-   "brand": "NEW BALANCE",
-   "name": "New Balance 1300 Made in USA Sea Salt Blue Oyster",
-   "sku": "U1300SS",
-   "releaseDate": "2026-09-10",
-   "price": "USD 190",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/new_balance_1300_made_in_usa_sea_salt_blue_oyster_u1300ss-1787857151176.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/new-balance/1300/new-balance-1300-made-in-usa-sea-salt-blue-oyster-u1300ss",
+   "image": "https://images.soleretriever.com/sb/products/vans_old_skool_36_yacht_club_vn000e8vbgk-1787666233045.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/vans/old-skool/vans-old-skool-36-yacht-club-vn000e8vbgk",
    "rating": 0.0,
    "reviewCount": 0,
    "hot": 1410,
@@ -471,6 +437,82 @@
    "newsMentions": 1
   },
   {
+   "id": 42,
+   "brand": "ASICS",
+   "name": "Asics Gel-Kinetic FR Cecilie Bahnsen Piedmont Grey",
+   "sku": "1203B171-020",
+   "releaseDate": "2026-09-12",
+   "price": "USD 200",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/asics_gel_kinetic_fr_cecilie_bahnsen_piedmont_grey_1203B171-020-1787692540012.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/asics/other/asics-gel-kinetic-fr-cecilie-bahnsen-piedmont-grey-1203b171-020",
+   "rating": 0.0,
+   "reviewCount": 0,
+   "hot": 1366,
+   "buzz": 487,
+   "newsMentions": 1
+  },
+  {
+   "id": 48,
+   "brand": "NIKE",
+   "name": "Nike First Sight Shadow Light Crimson (W)",
+   "sku": "HQ2410-600",
+   "releaseDate": "2026-09-15",
+   "price": "USD 145",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/nike_first_sight_shadow_light_crimson_w_HQ2410-600-1787236554629.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/nike/other/nike-first-sight-shadow-light-crimson-w-hq2410-600",
+   "rating": 0.0,
+   "reviewCount": 0,
+   "hot": 1300,
+   "buzz": 460,
+   "newsMentions": 1
+  },
+  {
+   "id": 49,
+   "brand": "NIKE",
+   "name": "Nike First Sight Mirage Light Crimson (W)",
+   "sku": "HQ2412-600",
+   "releaseDate": "2026-09-15",
+   "price": "USD 170",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/nike_first_sight_mirage_light_crimson_w_HQ2412-600-1788366450553.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/nike/other/nike-first-sight-mirage-light-crimson-w-hq2412-600",
+   "rating": 0.0,
+   "reviewCount": 0,
+   "hot": 1300,
+   "buzz": 460,
+   "newsMentions": 1
+  },
+  {
+   "id": 58,
+   "brand": "VANS",
+   "name": "Vans Old Skool 36 K-Pop Demon Hunters Rumi (GS)",
+   "sku": "VN000ECUYLW",
+   "releaseDate": "2026-09-18",
+   "price": "USD 75",
+   "marketPrice": "—",
+   "size": "—",
+   "collab": "—",
+   "channels": [],
+   "image": "https://images.soleretriever.com/sb/products/vans_old_skool_36_k-pop_demon_hunters_rumi_gs_vn000ecuylw-1788624575178.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/vans/old-skool/vans-old-skool-36-k-pop-demon-hunters-rumi-gs-vn000ecuylw",
+   "rating": 0.0,
+   "reviewCount": 0,
+   "hot": 1234,
+   "buzz": 433,
+   "newsMentions": 1
+  },
+  {
    "id": 63,
    "brand": "NIKE",
    "name": "Nike KD 6 PSG Metallic Silver",
@@ -547,18 +589,18 @@
    "newsMentions": 1
   },
   {
-   "id": 2,
-   "brand": "VANS",
-   "name": "Vans Old Skool 36 Yacht Club",
-   "sku": "VN000E8VBGK",
+   "id": 1,
+   "brand": "NIKE",
+   "name": "Nike Air Zoom Huarache 2K4 Penny Hardaway",
+   "sku": "IV0345-001",
    "releaseDate": "2026-09-10",
-   "price": "USD 130",
+   "price": "USD 200",
    "marketPrice": "—",
    "size": "—",
    "collab": "—",
    "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/vans_old_skool_36_yacht_club_vn000e8vbgk-1787666233045.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/vans/old-skool/vans-old-skool-36-yacht-club-vn000e8vbgk",
+   "image": "https://images.soleretriever.com/sb/products/nike_air_zoom_huarache_2k4_penny_hardaway_IV0345-001-1787413757062.webp",
+   "url": "https://www.soleretriever.com/sneaker-release-dates/nike/air-huarache/nike-air-zoom-huarache-2k4-penny-hardaway-iv0345-001",
    "rating": 0.0,
    "reviewCount": 0,
    "hot": 990,
@@ -1003,7 +1045,7 @@
    "newsMentions": 0
   },
   {
-   "id": 38,
+   "id": 39,
    "brand": "NIKE",
    "name": "Nike Air Max 90 Wagyu Black",
    "sku": "IR1979-010",
@@ -1022,7 +1064,7 @@
    "newsMentions": 0
   },
   {
-   "id": 39,
+   "id": 40,
    "brand": "PUMA",
    "name": "Puma Suede Street Fighter Ken Masters",
    "sku": "410646-01",
@@ -1041,7 +1083,7 @@
    "newsMentions": 0
   },
   {
-   "id": 40,
+   "id": 41,
    "brand": "PUMA",
    "name": "Puma Suede Street Fighter Ryu",
    "sku": "410647-01",
@@ -1053,25 +1095,6 @@
    "channels": [],
    "image": "https://images.soleretriever.com/sb/products/puma_suede_street_fighter_ryu_410647-01-1787062135726.webp",
    "url": "https://www.soleretriever.com/sneaker-release-dates/puma/other/puma-suede-street-fighter-ryu-410647-01",
-   "rating": 0.0,
-   "reviewCount": 0,
-   "hot": 946,
-   "buzz": 387,
-   "newsMentions": 0
-  },
-  {
-   "id": 42,
-   "brand": "ASICS",
-   "name": "Asics Gel-Kinetic FR Cecilie Bahnsen Piedmont Grey",
-   "sku": "1203B171-020",
-   "releaseDate": "2026-09-12",
-   "price": "USD 200",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/asics_gel_kinetic_fr_cecilie_bahnsen_piedmont_grey_1203B171-020-1787692540012.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/asics/other/asics-gel-kinetic-fr-cecilie-bahnsen-piedmont-grey-1203b171-020",
    "rating": 0.0,
    "reviewCount": 0,
    "hot": 946,
@@ -1319,25 +1342,6 @@
    "channels": [],
    "image": "https://images.soleretriever.com/sb/products/Untitled%20design%20-%202026-08-24T161859620-1787602753893.webp",
    "url": "https://www.soleretriever.com/sneaker-release-dates/nike/a-two/nike-a-two-dawn-staley-pe-ix1923-100",
-   "rating": 0.0,
-   "reviewCount": 0,
-   "hot": 814,
-   "buzz": 333,
-   "newsMentions": 0
-  },
-  {
-   "id": 58,
-   "brand": "VANS",
-   "name": "Vans Old Skool 36 K-Pop Demon Hunters Rumi (GS)",
-   "sku": "VN000ECUYLW",
-   "releaseDate": "2026-09-18",
-   "price": "USD 75",
-   "marketPrice": "—",
-   "size": "—",
-   "collab": "—",
-   "channels": [],
-   "image": "https://images.soleretriever.com/sb/products/vans_old_skool_36_k-pop_demon_hunters_rumi_gs_vn000ecuylw-1788624575178.webp",
-   "url": "https://www.soleretriever.com/sneaker-release-dates/vans/old-skool/vans-old-skool-36-k-pop-demon-hunters-rumi-gs-vn000ecuylw",
    "rating": 0.0,
    "reviewCount": 0,
    "hot": 814,
@@ -1595,6 +1599,87 @@
  "news": [
   {
    "id": 1,
+   "title": "Clarks Walla Eden GTX「Black」以全粒面皮革及 GTX 防護從容應對雨天",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-10",
+   "content": "名稱： Clarks Originals Walla Eden GTX配色： 黑色產品編號： CLM27893R建議零售價： 7,880 新台幣（約 250 美元），全球售價待定發售日期： 現已於台灣發售，全球發售日期待定購買地點： Clarks TaiwanClarks 為 2026 年秋冬系列加入 Walla Eden GTX；這雙運動休閒鞋專為應對季節裡較潮濕的日子而設。鞋款歸入品牌 ORIGINALs Classic Series，以經過驗證的材質為主，而非大幅改造設計；在著重機能之餘，仍保留品牌熟悉的輪廓。Walla Eden GTX 的核心在於真皮鞋身。這種材質兼顧耐用度，鞋面亦保有足夠柔韌性，適合日常穿著。皮革基底再加入 GTX 防水技術，形成抵禦雨水及積水的屏障，是多數休閒運動鞋難以具備的防護。這個組合為 Walla Eden GTX 定下明確定位：它是一雙具防水性能的運動休閒鞋，可在雨天通勤與日常造型之間靈活切換，無須特意換上專用雨靴。黑色配色亦讓鞋款更百搭，焦點落在皮革與 GTX 細節之上，而非搶眼的季節性圖案。這款鞋被納入 Clarks Originals Classic Series，意味它並非一次性的實驗之作，而是為品牌長年沿用於休閒鞋履的經典脈絡作出機能更新，並加上適合 2026 年秋冬推出時節的防風雨性能。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftClarks-Originals-Walla-Eden-GTX-Black-CLM27893R-Official-Images-Taiwan-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/clarks-originals-walla-eden-gtx-black-clm27893r-official-images-taiwan-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CLARKS"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "東京時裝週 SS27 鞋履趨勢：前衛厚底樂福鞋、機能越野跑鞋與經典足球鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-10",
+   "content": "摘要 Tokyo Fashion Week SS27 街頭造型呈現出多元豐富的鞋履風格，從 technical 跑鞋輪廓到奢華剪裁與前衛設計一應俱全。當中焦點包括多個高話題聯乘企劃，以及來自 Doublet、MIKIOSAKABE 和 Comme des Garçons x Salomon 的多重質感鞋款。整體鞋履陣容圍繞混合設計展開，橫跨室內足球訓練鞋、厚重平台大底到覆有金屬鉚釘的帆布鞋身。 2027 春夏東京時裝週的鞋履，呈現機能性能、復古室內運動元素與前衛實驗設計交錯並存的豐富面貌。日本首都的街頭上，觀秀者以機能跑鞋、概念感十足的厚底鞋，以及俐落的低筒鞋款，為整體造型奠定基調。跑鞋與越野鞋輪廓在街頭依然佔據一席之地。機能鞋款焦點包括「Wolf Grey」配色的 Nike Air Max Plus Tiempo 混合鞋款、Mizuno Wave Prophecy 1「Harbor Mist/Chinese Red/Black」配色，以及戰術風格的 Salomon XA Forces 8 GTX EN。聯乘跑鞋亦相當突出，例如 Awake NY x ASICS Gel Preleus「Cool Grey Silver」配色、AURALEE x New Balance 990v4 低調的「Dusty Blue」配色；此外還有 New Balance 2002R、ASICS GEL-Cumulus 16「Cinnamon/Pure Silver」配色、HOKA Speedgoat 2 TS 及 Satisfy TheROCKER 等常規鞋款。雕塑感與吸睛設計則為整體陣容注入實驗氣息。焦點鞋款包括 grounds Jewelry Loafer「Enamel Blood」配色、MIKIOSAKABE「Jewelry」Ark Whale、黑色厚底 Comme des Garçons x Salomon XT-Whisper Void，以及 Doublet 綠色 Dirty Spike Toe Cap Canvas Sneakers；後者採用仿舊鞋面，並綴以橡膠尖刺。低筒球場鞋與",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fbest-footwear-trends-tokyo-fashion-week-ss27-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/best-footwear-trends-tokyo-fashion-week-ss27",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS",
+    "ASICS",
+    "BALENCIAGA",
+    "HOKA",
+    "MIZUNO",
+    "NEW BALANCE",
+    "NIKE",
+    "PUMA",
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Clarks Walla Eden GTX “Black” Shrugs Off Rain With Full-Grain Leather and GTX Protection",
+   "source": "Hypebeast",
+   "date": "2026-09-10",
+   "content": "Name: Clarks Originals Walla Eden GTXColorway: BlackSKU: CLM27893RMSRP: $7,880 NTD (approx. $250 USD), TBC (Global)Release Date: Available now (Taiwan), TBC (Global)Where to Buy: Clarks TaiwanClarks is rounding out its Fall/Winter 2026 offering with the Walla Eden GTX, a sports-casual silhouette engineered to hold up against the season's wetter days. Filed under the brand's ORIGINALs Classic Series, the shoe leans on tested materials rather than a flashy redesign, prioritizing function without straying far from the label's familiar silhouette.At the core of the Walla Eden GTX is its genuine leather construction, a material choice that grounds the shoe in durability while keeping the upper supple enough for daily wear. Layered onto that leather base is GTX waterproof technology, giving the silhouette a barrier against rain and standing water that most casual sneakers can't claim.That comb",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F10%2FftClarks-Originals-Walla-Eden-GTX-Black-CLM27893R-Official-Images-Taiwan-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/clarks-originals-walla-eden-gtx-black-clm27893r-official-images-taiwan-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CLARKS"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Best Footwear Trends at Tokyo Fashion Week SS27",
+   "source": "Hypebeast",
+   "date": "2026-09-10",
+   "content": "Summary Tokyo Fashion Week SS27 street style highlighted an expansive mix of technical runners luxury silhouettes and avant-garde footwearKey callouts featured high-profile collaborations alongside tactile releases from Doublet MIKIOSAKABE and Comme des Garçons x SalomonThe footwear lineup emphasized hybrid designs ranging from indoor soccer trainers to chunky platform soles and spiked canvas uppers Footwear at Tokyo Fashion Week Spring/Summer 2027 delivered a dynamic cross-section of technical performance, archival indoor sport references, and avant-garde experimentation. On the streets of the Japanese capital, showgoers anchored their fits with an eclectic mix of functional runners, high-concept platform soles, and sleek low-profile models.Running and trail silhouettes maintained a heavy presence on the pavement. Technical highlights included the hybrid Nike Air Max Plus Tiempo in \"Wol",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F09%2Fbest-footwear-trends-tokyo-fashion-week-ss27-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/best-footwear-trends-tokyo-fashion-week-ss27",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "ASICS",
+    "BALENCIAGA",
+    "HOKA",
+    "MIZUNO",
+    "NEW BALANCE",
+    "NIKE",
+    "PUMA",
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Simone Rocha Has Made adidas’ Ballet Dreams a Reality",
+   "source": "Highsnobiety",
+   "date": "2026-09-10",
+   "content": "Simone Rocha and adidas reunite for Fall/Winter 2026 with a ballet-inspired take on the iconic Taekwondo silhouette.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-simone-rocha-taekwondo-ballerina/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 6,
    "title": "The North Face x Engineered Garments 推出 VECTIV Forward",
    "source": "Hypebeast 中文",
    "date": "2026-09-09",
@@ -1605,7 +1690,7 @@
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 7,
    "title": "Converse Japan All Star Yunomi Hi 以茶杯魚字旁圖案鋪滿高筒鞋身",
    "source": "Hypebeast 中文",
    "date": "2026-09-09",
@@ -1618,7 +1703,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 8,
    "title": "PUMA x _J.L-A.L CELL GEO 1 CAGE JL-AL 最新官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-09-09",
@@ -1631,7 +1716,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 9,
    "title": "ANTA KAI 3「Alchemist」將 Kyrie Irving 的哲學融入全新配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-09",
@@ -1642,7 +1727,7 @@
    "relatedBrands": []
   },
   {
-   "id": 5,
+   "id": 10,
    "title": "UNDERCOVER 與 George Cox 以 Cindy Sherman 攝影作品重塑 4 Eyelet Derby",
    "source": "Hypebeast 中文",
    "date": "2026-09-09",
@@ -1653,7 +1738,7 @@
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 11,
    "title": "JJJJound 與 Diemme 再推 Movida「Brown」麖皮配色，採用意大利皮革及 Vibram 鞋底",
    "source": "Hypebeast 中文",
    "date": "2026-09-09",
@@ -1664,7 +1749,7 @@
    "relatedBrands": []
   },
   {
-   "id": 7,
+   "id": 12,
    "title": "N.HOOLYWOOD COMPILE x KEEN 將 UNEEK 360 簡化為繩索、鞋底與無膠結構",
    "source": "Hypebeast 中文",
    "date": "2026-09-09",
@@ -1675,7 +1760,7 @@
    "relatedBrands": []
   },
   {
-   "id": 8,
+   "id": 13,
    "title": "The North Face x Engineered Garments Introduce the VECTIV Forward",
    "source": "Hypebeast",
    "date": "2026-09-09",
@@ -1686,7 +1771,7 @@
    "relatedBrands": []
   },
   {
-   "id": 9,
+   "id": 14,
    "title": "Converse Japan's All Star Yunomi Hi Pours a Teacup's Fish Kanji Print Onto a High-Top",
    "source": "Hypebeast",
    "date": "2026-09-09",
@@ -1699,7 +1784,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 15,
    "title": "Official Look at the PUMA CELL GEO 1 CAGE JL-AL",
    "source": "Hypebeast",
    "date": "2026-09-09",
@@ -1712,7 +1797,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 16,
    "title": "ANTA’s KAI 3 “Alchemist” Turns Kyrie Irving's Philosophy Into a new Colorway",
    "source": "Hypebeast",
    "date": "2026-09-09",
@@ -1723,7 +1808,7 @@
    "relatedBrands": []
   },
   {
-   "id": 12,
+   "id": 17,
    "title": "UNDERCOVER and George Cox Reinterpret the 4 Eyelet Derby Through Cindy Sherman's Photography",
    "source": "Hypebeast",
    "date": "2026-09-09",
@@ -1736,7 +1821,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 18,
    "title": "JJJJound and Diemme Return the Movida in a \"Brown\" Suede Build With Italian Leather and Vibram",
    "source": "Hypebeast",
    "date": "2026-09-09",
@@ -1747,7 +1832,7 @@
    "relatedBrands": []
   },
   {
-   "id": 14,
+   "id": 19,
    "title": "N.HOOLYWOOD COMPILE x KEEN Pare the UNEEK 360 Down to Cords, a Sole and a Glue-Free Build",
    "source": "Hypebeast",
    "date": "2026-09-09",
@@ -1758,7 +1843,7 @@
    "relatedBrands": []
   },
   {
-   "id": 15,
+   "id": 20,
    "title": "Nike Ja 4 “Jaws” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -1771,7 +1856,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 21,
    "title": "Nike Air Force 1 Low Cracked Leather “Menta”",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -1784,7 +1869,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 22,
    "title": "Nike Air Force 1 Low Cracked Leather “Black”",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -1797,7 +1882,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 23,
    "title": "Nike G.T. Future “Varsity Red”",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -1810,7 +1895,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 24,
    "title": "Larry June Brings Good Job Energy to the adidas Adistar Control 5",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -1823,7 +1908,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 25,
    "title": "Jordan Tatum 5 “Sunrise”",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -1836,7 +1921,7 @@
    ]
   },
   {
-   "id": 21,
+   "id": 26,
    "title": "Jayson Tatum’s Jordan Tatum 5 Marks a New Chapter After His Achilles Injury",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -1849,7 +1934,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 27,
    "title": "Air Jordan 7 “Tennis Day” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -1863,7 +1948,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 28,
    "title": "Nike Will Never Be the Same",
    "source": "Highsnobiety",
    "date": "2026-09-09",
@@ -1876,7 +1961,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 29,
    "title": "adidas' Military Vet Is on a Midnight Mission",
    "source": "Highsnobiety",
    "date": "2026-09-09",
@@ -1889,7 +1974,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 30,
    "title": "Pickle Juice & Lichen Camo: Nike ACG Put Us Through All Conditions",
    "source": "Highsnobiety",
    "date": "2026-09-09",
@@ -1902,7 +1987,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 31,
    "title": "From Saucony to adidas, the Seven Best Sneakers to Cop This Week",
    "source": "Highsnobiety",
    "date": "2026-09-09",
@@ -1916,20 +2001,7 @@
    ]
   },
   {
-   "id": 27,
-   "title": "Thank Simone Rocha for This Pretty Pony-Hair adidas Slipper",
-   "source": "Highsnobiety",
-   "date": "2026-09-09",
-   "content": "Simone Rocha's adidas era kicks off with a hairy Japan slip-on, as well as other ballet-style shoes & ruffled sportswear.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/simone-rocha-adidas-japan-slip-on/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 28,
+   "id": 32,
    "title": "Celine 為 Reebok Freestyle Lo 注入巴黎風格新貌",
    "source": "Hypebeast 中文",
    "date": "2026-09-08",
@@ -1943,7 +2015,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 33,
    "title": "Air Jordan 1 Low Element GTX 推出「Cream II」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-08",
@@ -1956,7 +2028,7 @@
    ]
   },
   {
-   "id": 30,
+   "id": 34,
    "title": "率先預覽 ROA x fragment design Andreas 靴款",
    "source": "Hypebeast 中文",
    "date": "2026-09-08",
@@ -1967,31 +2039,7 @@
    "relatedBrands": []
   },
   {
-   "id": 31,
-   "title": "POST ARCHIVE FACTION（PAF）首款 Petal Trainers 以雷射切割花瓣融入意大利皮革",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-08",
-   "content": "名稱：POST ARCHIVE FACTION Petal Trainers配色：黑色、啡色、白色、Malva Grey產品編號：待定建議零售價：89,040 日圓（約 570 美元）發售日期：9 月 9 日購買地點：POST ARCHIVE FACTIONPOST ARCHIVE FACTION（PAF）正式推出 Petal Trainers，這不但是品牌史上首雙運動鞋，也是其進軍生活風格鞋履類別的首作。鞋款早於巴黎時裝周的品牌 2026 秋冬系列發佈會亮相，將 PAF 一貫的結構設計語言帶到品牌此前未曾嘗試的鞋履形態之中。鞋面是這雙鞋的核心所在。鞋面採用意大利牛皮製成，以雷射切割出仿如花瓣的縫隙；此細節既是設計的面貌，亦是鞋名的由來。這些切口正是 PAF「Organic Artifact」設計理念的具體呈現——品牌藉此把自然界的形態重新演繹為產品輪廓。花瓣鏤空並非只作皮革上的裝飾，而是一幅可供發揮的實用畫布。這一分別相當關鍵，因為鏤空設計直接影響穿著方式。Petal Trainers 的開縫鞋面配上飽滿鞋帶，鞋帶可穿過不同開口，令綁帶不再局限於固定走向，而成為可自由調整的造型元素。穿著者只要改變鞋帶穿過花瓣的位置，同一鞋型便能組合出不同造型。鞋底採用 Vibram MC2 Road Running Sole，為皮革鞋面帶來真正適合步行的性能。這款鞋底著重應對多變城市地面時的耐用度與穩定性，讓品牌所追求的流動感不僅見於外形，也落實於功能。Petal Trainers 備有黑色、啡色、白色及 Malva Grey 4 種配色，從簡潔中性色調延伸至柔和低飽和的淡紫色。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftPOST-ARCHIVE-FACTION-PAF-Petal-Trainers-Black-Brown-White-Malva-Grey-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/post-archive-faction-paf-petal-trainers-black-brown-white-malva-grey-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 32,
-   "title": "Air Jordan 1 Low Golf Mule 全新「Medium Olive/Khaki」配色兼備球場抓地力與穆勒鞋的易穿設計",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-08",
-   "content": "名稱：Air Jordan 1 Low Golf Mule「Medium Olive/Khaki」配色：Medium Olive/Khaki產品編號：FJ1214-201建議零售價：115 美元發售日期：2026 年秋冬Air Jordan 1 Low Golf Mule 以全新「Medium Olive/Khaki」配色回歸，延續這款結合高爾夫球場性能與日常舒適感的鞋型。它一鞋兼顧兩種需要：既提供打一場高爾夫球所需的抓地力，亦保留穆勒鞋一套即穿、隨時除下的方便設計。此鞋款並非僅在單一鞋型上稍作改動，而是一款真正的混合設計。它結合 Air Jordan 1 Low Mule 與 Air Jordan 1 Low Golf，並於 2024 年以這一合體鞋型亮相；其後每季均推出新配色。成品突破兩款原型的界限，將適合球場的抓地力與穿脫流暢的體驗集於一身，迎合兩者兼求的球手。這一雙採用適合秋季的大地色調。「Medium Olive/Khaki」以低調的綠色配搭溫暖的中性色，沉穩的色彩組合正好呼應季節轉向更深、更含蓄的色調。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftAir-Jordan-1-Low-Golf-Mule-Medium-Olive-Khaki-FJ1214-201-Official-Images.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/air-jordan-1-low-golf-mule-medium-olive-khaki-fj1214-201-official-images",
-   "lang": "zh",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 33,
+   "id": 35,
    "title": "Celine Gave the Reebok Freestyle Lo a Parisian Remix",
    "source": "Hypebeast",
    "date": "2026-09-08",
@@ -2005,7 +2053,7 @@
    ]
   },
   {
-   "id": 34,
+   "id": 36,
    "title": "The Air Jordan 1 Low Element GTX Receives a “Cream II” Variant",
    "source": "Hypebeast",
    "date": "2026-09-08",
@@ -2019,7 +2067,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 37,
    "title": "Official Look at the sunlovetour x New Balance Minimus Sneakers",
    "source": "Hypebeast",
    "date": "2026-09-08",
@@ -2029,30 +2077,6 @@
    "lang": "en",
    "relatedBrands": [
     "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "POST ARCHIVE FACTION (PAF)'s Petal Trainers Laser-Cut Flower Petals Into Italian Leather",
-   "source": "Hypebeast",
-   "date": "2026-09-08",
-   "content": "Name: POST ARCHIVE FACTION Petal TrainersColorway: Black, Brown, White, Malva GreySKU: TBCMSRP: ¥89,040 JPY (approx. $570 USD)Release Date: September 9Where to Buy: POST ARCHIVE FACTIONPOST ARCHIVE FACTION (PAF) has unveiled the Petal Trainers, the first sneaker in the brand's history and its debut step into the lifestyle footwear category. First shown during the label's Fall/Winter 2026 presentation at Paris Fashion Week, the shoe translates PAF's structural design language into a form the brand has not attempted before.The upper is the shoe's defining element. Built from Italian cow leather, it is cut through with laser-etched slits modeled on flower petals, a detail that gives the design its name and its face. Those cuts are the physical expression of PAF's \"Organic Artifact\" approach, the brand's method of reinterpreting forms found in nature into the shape of a product. Rather than ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F08%2FftPOST-ARCHIVE-FACTION-PAF-Petal-Trainers-Black-Brown-White-Malva-Grey-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/post-archive-faction-paf-petal-trainers-black-brown-white-malva-grey-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 37,
-   "title": "Take a First Look at the ROA x fragment design’s Andreas Boot",
-   "source": "Hypebeast",
-   "date": "2026-09-08",
-   "content": "Name: ROA x fragment design Andreas BootSKU: TBCRelease Date: TBCFirst-look images of ROA and fragment design's collaborative Andreas boot have surfaced. Arriving as a rugged reinterpretation of ROA’s technical outdoor silhouette through Hiroshi Fujiwara’s minimalist lens, the boots feature a leather upper with a heel counter that's partially composed of suede. Serving as a reunion following their 2017 three-way project with 1017 ALYX 9SM, this newly revealed silhouette appears to be equipped with added protection and longevity; a robust black rubber reinforcement wraps around the toe box, cementing the shoe's outdoor roots while maintaining a sleek, stealthy profile.Breaking up the monochromatic upper, the boot incorporates metallic lace hooks that introduce a slight industrial edge to the traditional hiking lacing system. Underfoot, the silhouette is anchored by a heavy-duty Vibram out",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F08%2Froa-fragment-design-andreas-boot-collaboration-first-look-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/roa-fragment-design-andreas-boot-collaboration-first-look-info",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
    ]
   },
   {
@@ -2070,15 +2094,15 @@
   },
   {
    "id": 39,
-   "title": "Penny Hardaway x Nike Air Zoom Huarache 2K4 PE “Knicks”",
+   "title": "Vans Old Skool 36 “Yacht Club”",
    "source": "Nice Kicks",
    "date": "2026-09-08",
-   "content": "The Penny Hardaway x Nike Air Zoom Huarache 2K4 PE “Knicks” is releasing on September 10, 2026, via Nike and select retailers for… The post Penny Hardaway x Nike Air Zoom Huarache 2K4 PE “Knicks” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/08/iv0345-001-5-1-e1787674030588.jpg",
-   "link": "https://www.nicekicks.com/penny-hardaway-nike-air-zoom-huarache-2k4-knicks-iv0345-001/",
+   "content": "The Vans Old Skool 36 “Yacht Club” is releasing on September 10, 2026 via Vans and select retailers for $130.… The post Vans Old Skool 36 “Yacht Club” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_Premium-Old-Skool-36-Shoe-VANS-Green-Red-Blue-Yellow-ALT5-1-e1788542388274.jpeg",
+   "link": "https://www.nicekicks.com/vans-old-skool-36-yacht-club-vn000e8vbgk-2026/",
    "lang": "en",
    "relatedBrands": [
-    "NIKE"
+    "VANS"
    ]
   }
  ]
