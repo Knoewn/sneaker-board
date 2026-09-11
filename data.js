@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-11 08:08",
+ "updatedAt": "2026-09-11 16:06",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -28,14 +28,60 @@ window.SNEAKER_DATA = {
   "NIKE",
   "PUMA",
   "SALOMON",
-  "SAUCONY",
-  "UGG",
   "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "SUICOKE 與 Vibram Five Fingers 推出結合 Kohaze 扣具及 MEGAGRIP 鞋底的五趾麖皮鞋",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-11",
+   "content": "名稱：SUICOKE x Vibram Five Fingers Nin-Low Suede配色：灰色、黑色產品編號：待定建議零售價：40,700 日圓（約 265 美元）發售日期：現已發售發售渠道：SUICOKESUICOKE 與 Vibram 攜手推出中性版本的 Vibram Five Fingers，以牛麖皮鞋面結合日本傳統扣合系統製成。鞋款保留五趾各自獨立分隔的靈活結構，讓腳趾自然伸展，而非被擠在同一個鞋頭空間內。最大改動見於鞋領位置。鞋款未有採用標準扣合設計，改配地下足袋工鞋常見的 Kohaze 扣具：這種帶鈎的金屬扣會沿鞋口扣緊。此舉並非純粹裝飾，而是著重實用功能，亦令鞋型呈現鮮明的日式氣息。鞋面採用牛麖皮，全鞋則以單一灰色完成。單色處理將焦點放在質感之上：麖皮絨面與周邊較硬的表面呈現不同觀感，因此層次來自各種材質捕捉光線的方式，而非拼接色塊的對比。鞋底採用專為濕滑表面提供抓地力而研發的 Vibram MEGAGRIP 橡膠配方。它與赤足鞋式結構相當契合：薄而靈活的設計能將地面觸感直接傳至雙腳，橡膠鞋底則可應對濕滑岩石及濕瀝青路面。最終成就一雙兼顧城市日常穿著與遠足需要的鞋款，而非只為其中一種用途而設。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FSUICOKE-Vibram-Five-Fingers-Nin-Low-Suede-gray-black-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/suicoke-vibram-five-fingers-nin-low-suede-gray-black-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 2,
+   "title": "Tyrrell Winston 與 adidas 推出足球鞋靈感 Climacool 4D",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-11",
+   "content": "摘要 Tyrell Winston 攜手 adidas 推出一雙以足球為靈感的 Climacool 4D 新作。鞋款以骨白色 3D 列印網格結構為基礎，點綴深紅細節，並搭配摺疊鞋舌設計。這次發售同時成為 Winston 全新 The Athlete 系列的核心，聚焦成長歷程與運動員的堅韌精神。 名稱：Tyrrell Winston x adidas Climacool 4D配色：Collegiate Red／Off White-Matte Gold產品編號：KJ7669建議零售價：180 美元發售日期：現已發售購買地點：adidasadidas 與當代藝術家 Tyrrell Winston 正式推出 Tyrrell Winston x adidas Climacool 4D。這個聯乘鞋履企劃以經典足球為視角，重新演繹這雙 3D 列印跑鞋；同時亦是 Winston「The Athlete」系列的核心作品。繼 2026 年 3 月推出 Lightblaze POD 後，Winston 為這雙機能鞋款作出結構上的改造，加入取材自經典足球靴的可翻折鞋舌。鞋面主體與標誌性的 3D 列印格狀中底均採用骨白色調，為 Three Stripes 標誌、鞋帶及鞋舌上的鮮明 Collegiate Red 點綴奠定中性色基調。此設計延續 Winston 一貫連繫運動文化與當代藝術的創作實踐。概念上，「The Athlete」系列探討運動不光鮮的一面，聚焦個人成長、克服挫折，以及堅持下去所需的紀律。Tyrrell Winston x adidas Climacool 4D 已於 2026 年 9 月 9 日正式發售，定價為 180 美元，可於 adidas 及指定零售商購買。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Ftyrrell-winston-adidas-cilmacool-4d-collegiate-red-KJ7669-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/tyrrell-winston-adidas-cilmacool-4d-collegiate-red-kj7669-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "SUICOKE and Vibram Pair a \"Kohaze\" Closure With MEGAGRIP on a Five-Toe Suede Shoe",
+   "source": "Hypebeast",
+   "date": "2026-09-11",
+   "content": "Name: SUICOKE x Vibram Five Fingers Nin-Low SuedeColorway: Gray, BlackSKU: TBCMSRP: ¥40,700 JPY (approx. $265 USD)Release Date: Available nowWhere to Buy: SUICOKESUICOKE and Vibram have collaborated on a unisex take on the Vibram Five Fingers, built around a cow suede upper and a traditional Japanese fastening system. The shoe keeps the articulated five-toe construction that separates each toe into its own compartment, letting the foot splay naturally rather than compressing it inside a single toe box.The most notable change happens at the collar. Instead of a standard closure, the pair have fitted kohaze clasps, the hooked metal fasteners used on jikatabi work footwear, which hook into place along the opening. It is a functional borrow rather than a decorative one, and it pulls the silhouette toward a distinctly Japanese register.The upper itself is cow suede, and the entire shoe is fin",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F11%2FSUICOKE-Vibram-Five-Fingers-Nin-Low-Suede-gray-black-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/suicoke-vibram-five-fingers-nin-low-suede-gray-black-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 4,
+   "title": "Tyrell Winston and adidas Unveil the Soccer-Inspired Climacool 4D",
+   "source": "Hypebeast",
+   "date": "2026-09-11",
+   "content": "Summary Tyrell Winston has partnered with adidas to release a soccer-inspired iteration of the Climacool 4DThe design features a bone-toned 3D-printed lattice structure accented by deep red details and a folded tongueThe release anchors Winston's new The Athlete collection exploring growth and athletic resilience Name: Tyrrell Winston x adidas Climacool 4DColorway: Collegiate Red/Off White-Matte GoldSKU: KJ7669MSRP: $180 USDRelease Date: Available NowWhere to Buy: adidasadidas and contemporary artist Tyrrell Winston have officially released the Tyrrell Winston x adidas Climacool 4D. The collaborative footwear project reinterprets the 3D-printed running model through a heritage football lens, serving as a core component of Winston's \"The Athlete\" collection.Following his March 2026 Lightblaze POD release, Winston gives the technical silhouette a structural overhaul by adding a fold-over t",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F09%2Ftyrrell-winston-adidas-cilmacool-4d-collegiate-red-KJ7669-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/tyrrell-winston-adidas-cilmacool-4d-collegiate-red-kj7669-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 5,
    "title": "Tomorrowland 首款 WR1 球鞋，將音樂節精神帶進日常",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -46,7 +92,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 6,
    "title": "赤足靈感 KEEN Jasper Merko 推出 3 款低調配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -57,7 +103,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 3,
+   "id": 7,
    "title": "Larry June 與 adidas Originals 推出 Adistar Control 5「Watermelon Smoothie」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -70,7 +116,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 8,
    "title": "Vans 與 SZA 首度推出 Vansza 聯乘系列，加入分趾設計「Tabi Hiker」",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -83,7 +129,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 9,
    "title": "Clarks Walla Eden GTX「Black」以全粒面皮革及 GTX 防護從容應對雨天",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -96,7 +142,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 10,
    "title": "東京時裝週 SS27 鞋履趨勢：前衛厚底樂福鞋、機能越野跑鞋與經典足球鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -117,7 +163,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 11,
    "title": "Official Look at the Song for the Mute x adidas Adizero EVO SL “Dove Grey”",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -130,7 +176,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 12,
    "title": "Tomorrowland's WR1 Sneaker Is Built to Live Beyond the Festival",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -141,7 +187,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 9,
+   "id": 13,
    "title": "The Barefoot-Inspired KEEN Jasper Merko Arrives in Three Understated Colorways",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -152,7 +198,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 10,
+   "id": 14,
    "title": "Larry June and adidas Originals Serve Up the Adistar Control 5 “Watermelon Smoothie”",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -165,7 +211,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 15,
    "title": "Vans and SZA’s Debut “Vansza” Collaboration Adds a Split-Toe “Tabi Hiker” To the Lineup",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -178,7 +224,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 16,
    "title": "Clarks Walla Eden GTX “Black” Shrugs Off Rain With Full-Grain Leather and GTX Protection",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -191,7 +237,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 17,
    "title": "Best Footwear Trends at Tokyo Fashion Week SS27",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -212,7 +258,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 18,
    "title": "Air Jordan 1 High OG “Royal” (IQ5495-005) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-10",
@@ -225,7 +271,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 19,
    "title": "Nike Ja 4 “Dark Mode” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-10",
@@ -238,7 +284,98 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 20,
+   "title": "The Best adidas Sneaker Releases This Week",
+   "source": "Highsnobiety",
+   "date": "2026-09-10",
+   "content": "In this iteration of our weekly round-up of adidas' best releases, find boat shoes, water shoes, and ballet shoes. Oh, and some regular sneakers, too.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-sneaker-releases-september-week-2/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "Pharrell Williams & adidas Are Coming for Your Water Shoes",
+   "source": "Highsnobiety",
+   "date": "2026-09-10",
+   "content": "The adidas Originals x Pharrell Williams PW Water Moc transforms the humble water shoe into a major statement piece.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-pw-water-moc-lucid-ray-blue/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "The Seven Best Nike Sneaker Releases This Week",
+   "source": "Highsnobiety",
+   "date": "2026-09-10",
+   "content": "This week of our Nike release round-up is a pre-season frenzy, with Nike pulling out all the stops for the ballers on and off the court.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-sneaker-releases-september-week-2/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "adidas' GSG9 Sandal Gets in the Field",
+   "source": "Highsnobiety",
+   "date": "2026-09-10",
+   "content": "Y-3’s sturdy GSG9 sandal is basically a full-on combat boot that's gone on vacation.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-gsg9-sandal-gets-in-the-field/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "New Balance’s Cow Print Moccasin Milks the Hybrid Shoe Moment",
+   "source": "Highsnobiety",
+   "date": "2026-09-10",
+   "content": "New Balance took its weird little 1890A moccasin sneaker hybrid shoe to the cow farm.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-1890a-moccasin-sneaker-cow-print/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Jordan Revamps An Icon in Candyfloss Pink",
+   "source": "Highsnobiety",
+   "date": "2026-09-10",
+   "content": "Expanding on the beloved color blocking template first established by the iconic 2006 Thunder, Jordan Brand introduces the Air Jordan 4 Pink Thunder.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-jordan-4-pink-thunder/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "adidas Knows a Chocolate Suede Loafer Goes Extra Hard Come Fall",
+   "source": "Highsnobiety",
+   "date": "2026-09-10",
+   "content": "adidas gives the iconic Handball Spezial a loafer-inspired update in the rich Aurora Coffee colorway, perfect for fall.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-handball-spezial-loafer-coffee/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 27,
    "title": "The North Face x Engineered Garments 推出 VECTIV Forward",
    "source": "Hypebeast 中文",
    "date": "2026-09-09",
@@ -249,7 +386,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 17,
+   "id": 28,
    "title": "Converse Japan All Star Yunomi Hi 以茶杯魚字旁圖案鋪滿高筒鞋身",
    "source": "Hypebeast 中文",
    "date": "2026-09-09",
@@ -262,7 +399,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 29,
    "title": "PUMA x _J.L-A.L CELL GEO 1 CAGE JL-AL 最新官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-09-09",
@@ -275,7 +412,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 30,
    "title": "ANTA KAI 3「Alchemist」將 Kyrie Irving 的哲學融入全新配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-09",
@@ -286,29 +423,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 20,
-   "title": "UNDERCOVER 與 George Cox 以 Cindy Sherman 攝影作品重塑 4 Eyelet Derby",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-09",
-   "content": "名稱： UNDERCOVER x Cindy Sherman x George Cox 4 Eyelet Derby配色：黑色、白色產品編號：不適用建議零售價：450 美元發售日期：現已發售發售地點：George CoxGeorge Cox 與 UNDERCOVER 再度攜手推出 4 Eyelet Derby，延續 Jun Takahashi 旗下品牌與 George Cox 位於 Northamptonshire 的工坊之間的合作。來到 2026 秋冬季度，雙方將這款鞋交予美國藝術家 Cindy Sherman 演繹，讓她探究身分認同的攝影作品成為鞋身表面。鞋款結構忠於 George Cox 一貫的製作方法。兩種配色均採用 1353 鞋楦，這是源自 Northamptonshire 的傳統圓頭鞋楦；品牌藉此塑造出比其經典鞋型所呈現的更硬朗輪廓。每雙鞋均配備輕量 EVA 鞋底，並以鋼製鞋眼扣固定四孔鞋帶，亦正是 4 Eyelet Derby 名稱的由來。鞋內採用天然小牛皮作內裡，並保留 George Cox 視為品牌標誌筆觸一部分的工業壓印內部細節。George Cox 與 UNDERCOVER 沒有為皮革染色或壓紋，而是直接印上照片，讓 Sherman 的影像包覆整個鞋身，形成連貫的畫面，焦點則落在鞋頭位置。Sherman 以精心佈置的自拍肖像建立聲譽，在鏡頭前化身不斷轉換的角色，藉攝影探問身分如何被建構與演繹。這種對自我形象的關注，亦恰好呼應 UNDERCOVER 一直以來的顛覆精神。兩種配色分別取材自她不同的作品。白色款印有她於 1983 年創作的 《Untitled #122》；黑色款則取自她較早期的電影劇照系列，呈現 1979 年的 《Untitled Film Still #16》及 1980 年的 《Untitled Film Still #53》。兩款鞋的影像素材橫跨 1979 至 1983 年，令這雙 Derby 鞋化作美國當代攝影最具影響力作品群之一的可穿戴片段。 Click here to view full gallery at Hypebeas",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FUNDERCOVER-Cindy-Sherman-George-Cox-4-Eyelet-Derby-black-white-Release-Info-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/undercover-cindy-sherman-george-cox-4-eyelet-derby-black-white-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 21,
-   "title": "JJJJound 與 Diemme 再推 Movida「Brown」麖皮配色，採用意大利皮革及 Vibram 鞋底",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-09",
-   "content": "名稱： JJJJound x Diemme Movida配色： 啡色SKU： 不適用建議零售價： 待定發售日期： 9 月 10 日發售地點： JJJJound、DiemmeDiemme 與 JJJJound 為 Movida 換上啡色麖皮配色，延續雙方持續回歸意大利品牌實用鞋履輪廓的合作。這雙最新鞋款於意大利手工製作，以材質和結構為重點，選用優質意大利麖皮鞋面，配以全皮革內裡。鞋款以輕量 Vibram 鞋底作基礎，著重日常穿著所需的靈活度與抓地力，而非純粹應付高性能用途。啡色麖皮鞋面配上全皮革內裡，既呼應 Diemme 的機能製鞋背景，亦令整體輪廓保持簡潔，符合 JJJJound 一貫的極簡美學。細節正是這次合作的個性所在。黑色塗層金屬鞋眼配以黑色聚酯纖維鞋帶，另穿上一條紅色副鞋帶，低調帶出對比效果。編織尼龍後拉環和織帶提拉環兼具實用功能，方便穿著，同時呼應 Diemme 從戶外鞋款汲取的設計原型。鞋頭與鞋跟的品牌標記同樣保持低調：鞋舌壓印 Diemme 標誌，鞋跟拉片則印有 JJJJound 的襯線字標，讓兩個品牌各自表明身分，卻不破壞極簡的整體處理。Diemme 自 1992 年起在意大利 Veneto 地區的基地製作鞋履，從登山及高性能裝備汲取靈感，打造兼具精緻感與實用取向的設計；這份傳承貫穿今次鞋款的每一個元素。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fft-JJJJound-Diemme-Movida-Brown-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/jjjjound-diemme-movida-brown-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 22,
+   "id": 31,
    "title": "The North Face x Engineered Garments Introduce the VECTIV Forward",
    "source": "Hypebeast",
    "date": "2026-09-09",
@@ -319,7 +434,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 23,
+   "id": 32,
    "title": "Converse Japan's All Star Yunomi Hi Pours a Teacup's Fish Kanji Print Onto a High-Top",
    "source": "Hypebeast",
    "date": "2026-09-09",
@@ -332,7 +447,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 33,
    "title": "Official Look at the PUMA CELL GEO 1 CAGE JL-AL",
    "source": "Hypebeast",
    "date": "2026-09-09",
@@ -345,31 +460,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
-   "title": "ANTA’s KAI 3 “Alchemist” Turns Kyrie Irving's Philosophy Into a new Colorway",
-   "source": "Hypebeast",
-   "date": "2026-09-09",
-   "content": "Name: ANTA KAI 3 “Alchemist”Colorway: “Alchemist”SKU: TBCMSRP: $135 USDRelease Date: September 12Where to Buy: ANTAKyrie Irving and ANTA are set to expand their successful basketball partnership with the launch of the KAI 3 in a highly anticipated “Alchemist” colorway.Built with ANTA’s advanced cushioning and traction systems, the sneaker balances technical precision with cultural symbolism, reflecting Irving’s philosophy of turning challenges into strength and uplifting his team and community. The \"Alchemist\" colorway is draped in a deep forest green across its upper, serving as a visual representation of earth, wisdom and hidden power. The rich, textured base is accented by vibrant teal support panels featuring a faint plaid print, while metallic gold shines on the zig-zagging side panel stabilizers.Tribal-inspired detailing brings an added layer of cultural influence to the silhouette",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F09%2Fkyrie-irving-anta-kai-3-alchemist-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/kyrie-irving-anta-kai-3-alchemist-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 26,
-   "title": "UNDERCOVER and George Cox Reinterpret the 4 Eyelet Derby Through Cindy Sherman's Photography",
-   "source": "Hypebeast",
-   "date": "2026-09-09",
-   "content": "Name: UNDERCOVER x Cindy Sherman x George Cox 4 Eyelet DerbyColorway: Black, WhiteSKU: N/AMSRP: $450 USDRelease Date: Available nowWhere to Buy: George CoxGeorge Cox and UNDERCOVER have again joined forces on the 4 Eyelet Derby, extending a partnership that runs through Jun Takahashi's label and George Cox's Northamptonshire workshop. For Fall/Winter 2026, the two houses hand the silhouette over to American artist Cindy Sherman, whose photographic studies of identity become the surface of the shoe itself.The construction stays true to George Cox's house methods. Both colorways are built on the 1353 last, a traditional Northamptonshire round-toe form that the brand pushes into something tougher than its heritage silhouettes suggest. A lightweight EVA sole underpins each pair, while steel eyelets handle the four-eyelet lacing that gives the derby its name. Inside, the shoes are finished wi",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F09%2FUNDERCOVER-Cindy-Sherman-George-Cox-4-Eyelet-Derby-black-white-Release-Info-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/undercover-cindy-sherman-george-cox-4-eyelet-derby-black-white-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 27,
+   "id": 34,
    "title": "Nike Ja 4 “Jaws” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -382,7 +473,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 35,
    "title": "Nike Air Force 1 Low Cracked Leather “Menta”",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -395,7 +486,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 36,
    "title": "Nike Air Force 1 Low Cracked Leather “Black”",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -408,7 +499,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 37,
    "title": "Air Jordan 3 TD Football Cleats “Metallic Silver” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -421,7 +512,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 38,
    "title": "Vans Old Skool 36 “Yacht Club”",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -434,7 +525,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 39,
    "title": "Penny Hardaway x Nike Air Zoom Huarache 2K4 PE “Knicks”",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -447,7 +538,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 40,
    "title": "Yu-Gi-Oh! x Crocs Echo Clog “Dark Magician”",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -460,7 +551,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 41,
    "title": "Yu-Gi-Oh! x Crocs Echo Clog “Blue-Eyes White Dragon”",
    "source": "Nice Kicks",
    "date": "2026-09-09",
@@ -471,83 +562,6 @@ window.SNEAKER_DATA = {
    "relatedBrands": [
     "CROCS"
    ]
-  },
-  {
-   "id": 35,
-   "title": "Nike's Favorite Dad Shoe Gets Its Shine On",
-   "source": "Highsnobiety",
-   "date": "2026-09-01",
-   "content": "The Nike Zoom Vomero 5 Gridiron delivers a metallic, slate-toned spin on the retro runner.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-gridiron/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "This Nike Noughties Revival Is an Optical Illusion",
-   "source": "Highsnobiety",
-   "date": "2026-09-01",
-   "content": "The Nike Air Jordan 8 Chrome revives Tinker Hatfield’s strap-laden 1993 silhouette for a new generation.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-jordan-8-chrome/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 37,
-   "title": "Nike's Weirdest Design Now Glows In the Dark",
-   "source": "Highsnobiety",
-   "date": "2026-09-01",
-   "content": "The Nike Air Foamposite One Phantom/Barely Volt writes an even more eye-catching new chapter in a liquid-metal legacy",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-foamposite-one-phantom-barel-volt/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "Sole Food: Saucony Quietly Became the Reseller’s Favorite Sneaker",
-   "source": "Highsnobiety",
-   "date": "2026-08-31",
-   "content": "StockX names Saucony its fastest-growing sneaker brand in the August 2026 Big Facts report. Here, we unpack the secrets to the label's resale success.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/saucony-stockx-report/",
-   "lang": "en",
-   "relatedBrands": [
-    "SAUCONY"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "From Table to Foot, Gohar World Does Ballet Sneakers Now",
-   "source": "Highsnobiety",
-   "date": "2026-08-31",
-   "content": "Translating a theatrical lens into footwear, the Gohar World x ASICS GEL-DS Trainer SP Ballet is a head-turning ballet sneaker.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/gohar-world-asics-gel-ds-trainer/",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Isabel Marant’s Bekett Sneaker Drives a Wedge in the Flat Sneaker Conversation",
-   "source": "Highsnobiety",
-   "date": "2026-08-31",
-   "content": "Isabel Marant's Bekett Reedition sneaker is a remake of one of the best wedge sneakers in the game.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/isabel-marant-bekett-reedition-sneaker/",
-   "lang": "en",
-   "relatedBrands": []
   }
  ]
 };
