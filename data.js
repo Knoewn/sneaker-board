@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-12 08:07",
+ "updatedAt": "2026-09-12 16:05",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
