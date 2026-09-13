@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-12 16:05",
+ "updatedAt": "2026-09-13 08:07",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -20,6 +20,7 @@
   "BALENCIAGA",
   "CLARKS",
   "CONVERSE",
+  "CROCS",
   "HOKA",
   "JORDAN",
   "MIZUNO",
@@ -27,7 +28,6 @@
   "NIKE",
   "PUMA",
   "SALOMON",
-  "SAUCONY",
   "UGG",
   "VANS"
  ],
@@ -35,6 +35,150 @@
  "news": [
   {
    "id": 1,
+   "title": "Nike Air Monarch 換上麖皮，推出兩款膠底節日配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-12",
+   "content": "名稱： Nike Air Monarch Suede Pack配色： Cacao Wow/Gum Medium Brown、Black/Gum Medium BrownSKU： IB2281-200、IB2281-001建議零售價： 100 美元發售日期： 2026 年節日季Nike 將於 2026 年節日季為 Air Monarch 換上全新材質，推出一組兩雙裝鞋款，以麖皮取代原本的皮革鞋面。套裝包括全啡色調的「Cacao Wow」及「Black」版本，兩者均採用膠色外底，取代此鞋款較常見的白色鞋底結構。兩款鞋的鞋面大部分均以麖皮覆蓋，帶來的視覺改變勝過重新編排任何鞋面裁片。皮革為鞋款帶來平滑而一致的光澤；麖皮絨面則會吸收光線，柔化覆面層次，令這雙本為機能而設的運動鞋，呈現更接近季節性靴款的質感。兩款鞋對色彩的處理各有不同。「Cacao Wow」由鞋面至中底貫徹啡色調，整雙鞋維持統一色調，直至下方的膠色鞋底才帶來變化。「Black」版本則保留深色鞋面與中底，讓 Gum Medium Brown 外底打破大面積深色，其對比亦較另一款更為鮮明。這組鞋款未有改動鞋型，Air Monarch 厚實、多層次的輪廓如實保留。今次發售延續這款鞋一向的比例，只透過材質帶出分別。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FNike-Air-Monarch-Suede-Pack-IB2281-200-IB2281-001-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-air-monarch-suede-pack-ib2281-200-ib2281-001-official-images",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "The Nike Air Monarch Trades Leather for Suede in Two Gum-Soled Holiday Colorways",
+   "source": "Hypebeast",
+   "date": "2026-09-12",
+   "content": "Name: Nike Air Monarch Suede PackColorway: Cacao Wow/Gum Medium Brown, Black/Gum Medium BrownSKU: IB2281-200, IB2281-001MSRP: $100 USDRelease Date: Holiday 2026Nike is giving the Air Monarch a material rework for Holiday 2026, rolling out a two-pair pack that moves the trainer from leather onto suede. The pack pairs a tonal brown “Cacao Wow” build with a “Black” version, and both sit on gum outsoles rather than the model's more familiar white tooling.Suede covers the majority of both uppers, which changes how the Monarch reads more than any panel reshuffle would. Where leather gives the shoe its slick, uniform sheen, the nap here absorbs light and softens the overlays, pushing a trainer built for function toward something closer to a seasonal boot finish.Colour is handled differently across the two. The Cacao Wow pair runs brown from the upper straight through the midsole, so the whole s",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F11%2FNike-Air-Monarch-Suede-Pack-IB2281-200-IB2281-001-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-air-monarch-suede-pack-ib2281-200-ib2281-001-official-images",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Air Jordan 1 Low OG “Last Dance At The Garden” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-12",
+   "content": "Michael Jordan’s final season in Chicago produced another memorable moment on March 8, 1998, when he laced up an original… The post Air Jordan 1 Low OG “Last Dance At The Garden” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/ir0088-001-5-e1789225653374.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-1-low-og-last-dance-at-the-garden-ir0088-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Where To Buy the Air Jordan 12 “Idols Become Rivals”",
+   "source": "Nice Kicks",
+   "date": "2026-09-12",
+   "content": "Interested readers can expect the Air Jordan 12 “Idols Become Rivals” to release on September 12, 2026, via SNKRS and… The post Where To Buy the Air Jordan 12 “Idols Become Rivals” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/ct8013-103-5-e1788041747455.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-12-idols-becomes-rivals-ct8013-103-drop/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "adidas’ Furry Sambas Don’t Bite — They Skate",
+   "source": "Highsnobiety",
+   "date": "2026-09-12",
+   "content": "adidas releases a new Samba skate shoe with black fur & purple accents. Here's everything on the spooky season-worthy release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-samba-skate-shoe-black-fur/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "adidas’ New Ostrich-Leather Sneaker Is an Even Bigger Star",
+   "source": "Highsnobiety",
+   "date": "2026-09-12",
+   "content": "adidas' Ultrastar sneaker gets another \"Made in Germany\" makeover, this time with ostrich-leather. Here's everything on the luxuriously wild release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-ultrastar-made-in-germany-ostrich-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Nike’s Ultra-Ruggedized Forces Have Never Looked More Delicious",
+   "source": "Highsnobiety",
+   "date": "2026-09-12",
+   "content": "Nike's Air Force 1 Low GORE-TEX Vibram sneakers are back in a new \"Baroque Brown\" colorway. It's easily the tastiest version of the toughened model yet.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-gore-tex-vibram-baroque-brown/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "JAIDE's Minty-Fresh Jordan Sneaker Is a Feeling",
+   "source": "Highsnobiety",
+   "date": "2026-09-12",
+   "content": "The Whitaker Group's JAIDE debuts its Air Jordan 11 Low sneaker collaboration, which lands in a minty colorway. Here's everything on the release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jaide-jordan-11-low/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Nike’s Flyest Outdoor Boot Is Back Home for the Season",
+   "source": "Highsnobiety",
+   "date": "2026-09-12",
+   "content": "Nike's ACG Air Max Goadome boot returns for the colder seasons in a new street-ready \"Black/Volt\" outfit.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goamdome-black-volt/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "adidas Just Said Three Stripes, No Laces",
+   "source": "Highsnobiety",
+   "date": "2026-09-12",
+   "content": "Reimagining its ultra-lightweight running franchise into a slip-on, the Three Stripes unveils the adidas Adizero Evo SL Laceless Collection.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-adizero-evo-sl-laceless/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "adidas' Newest Boat Shoe Has Unc Status",
+   "source": "Highsnobiety",
+   "date": "2026-09-12",
+   "content": "Tapping into prep heritage and unc-on-the-grill codes, the Three Stripes introduces the adidas Originals Barreda Decode.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-originals-barreda-decode/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 12,
    "title": "Merrell 與 YMC 再度合作推出 Moab 2 Slide",
    "source": "Hypebeast 中文",
    "date": "2026-09-11",
@@ -45,7 +189,7 @@
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 13,
    "title": "SUICOKE 推出 FW26 全新靴款及穆勒鞋",
    "source": "Hypebeast 中文",
    "date": "2026-09-11",
@@ -56,7 +200,7 @@
    "relatedBrands": []
   },
   {
-   "id": 3,
+   "id": 14,
    "title": "SUICOKE 與 Vibram Five Fingers 推出結合 Kohaze 扣具及 MEGAGRIP 鞋底的五趾麖皮鞋",
    "source": "Hypebeast 中文",
    "date": "2026-09-11",
@@ -67,7 +211,7 @@
    "relatedBrands": []
   },
   {
-   "id": 4,
+   "id": 15,
    "title": "Tyrrell Winston 與 adidas 推出足球鞋靈感 Climacool 4D",
    "source": "Hypebeast 中文",
    "date": "2026-09-11",
@@ -80,7 +224,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 16,
    "title": "Merrell and YMC Reunite for the Moab 2 Slide",
    "source": "Hypebeast",
    "date": "2026-09-11",
@@ -91,7 +235,7 @@
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 17,
    "title": "Suicoke Readies More Boots and Mules for FW26",
    "source": "Hypebeast",
    "date": "2026-09-11",
@@ -104,7 +248,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 18,
    "title": "Aminé and New Balance Unveil the 992 \"Outdoor School\"",
    "source": "Hypebeast",
    "date": "2026-09-11",
@@ -117,7 +261,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 19,
    "title": "SUICOKE and Vibram Pair a \"Kohaze\" Closure With MEGAGRIP on a Five-Toe Suede Shoe",
    "source": "Hypebeast",
    "date": "2026-09-11",
@@ -128,7 +272,7 @@
    "relatedBrands": []
   },
   {
-   "id": 9,
+   "id": 20,
    "title": "Tyrell Winston and adidas Unveil the Soccer-Inspired Climacool 4D",
    "source": "Hypebeast",
    "date": "2026-09-11",
@@ -141,7 +285,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 21,
    "title": "Anthony Edwards x adidas Superstar II “Bliss Blue” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -154,7 +298,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 22,
    "title": "adidas Anthony Edwards 3 “Cold Blooded” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -167,7 +311,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 23,
    "title": "Nike G.T. Future “Triple Black”",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -180,7 +324,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 24,
    "title": "Converse SHAI 001 Shroud “Shock” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -193,7 +337,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 25,
    "title": "Converse SHAI 001 Shroud “Spark” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -206,7 +350,20 @@
    ]
   },
   {
-   "id": 15,
+   "id": 26,
+   "title": "Wagyu x Nike Air Max 90 “Black” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-11",
+   "content": "New York streetwear label Wagyu is teaming up with Nike to put its own spin on the iconic Air Max… The post Wagyu x Nike Air Max 90 “Black” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_7_790512615_18594636871064281_689511676084225327_n-1-e1788371059190.jpeg",
+   "link": "https://www.nicekicks.com/wagyu-nike-air-max-90-black-ir1979-010/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 27,
    "title": "Nike Book 2 “Be Legendary” November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -219,7 +376,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 28,
    "title": "Nike Book 2 “Desert Night” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -232,46 +389,20 @@
    ]
   },
   {
-   "id": 17,
-   "title": "MOWALOLA x Air Jordan 14 SP “Burnt Red” September 2026 Release Date & Info",
-   "source": "Nice Kicks",
+   "id": 29,
+   "title": "The Crocs Clog Means Business Now",
+   "source": "Highsnobiety",
    "date": "2026-09-11",
-   "content": "Unveiled during Paris Fashion Week, Mowalola’s Air Jordan 14 collaboration brings her provocative design language to the Ferrari-inspired silhouette with… The post MOWALOLA x Air Jordan 14 SP “Burnt Red” September 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_2_sneakers-air-jordan-x-mowalola-14-retro-sp-iq5708-001-6-1-e1789139355307.jpeg",
-   "link": "https://www.nicekicks.com/mowalola-air-jordan-14-sp-burnt-red-iq5708-001/",
+   "content": "Solebox's Crocs Echo II clog collaboration results in the first-ever Crocs loafer-clog, complete with leather uppers & tassels.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/solebox-crocs-echo-ii-clog/",
    "lang": "en",
    "relatedBrands": [
-    "JORDAN"
+    "CROCS"
    ]
   },
   {
-   "id": 18,
-   "title": "Nike LeBron 23 PE “Laser” September 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-11",
-   "content": "The Nike LeBron 23 “Laser” looks back to one of the earliest moments of LeBron James’ signature sneaker journey, drawing… The post Nike LeBron 23 PE “Laser” September 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/im5125-100-5-1-e1788965292473.jpg",
-   "link": "https://www.nicekicks.com/nike-lebron-23-pe-laser-im5125-100/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "Nike A’Two “Dawn Staley”",
-   "source": "Nice Kicks",
-   "date": "2026-09-11",
-   "content": "The Nike A’Two “Dawn Staley” is set to release on September 18, 2026, via Nike.com and select retailers for $145. Check out… The post Nike A’Two “Dawn Staley” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/ix1923-100-5-e1789135650890.jpg",
-   "link": "https://www.nicekicks.com/nike-atwo-dawn-staley-ix1923-100/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 20,
+   "id": 30,
    "title": "Tomorrowland 首款 WR1 球鞋，將音樂節精神帶進日常",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -282,7 +413,7 @@
    "relatedBrands": []
   },
   {
-   "id": 21,
+   "id": 31,
    "title": "赤足靈感 KEEN Jasper Merko 推出 3 款低調配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -293,7 +424,7 @@
    "relatedBrands": []
   },
   {
-   "id": 22,
+   "id": 32,
    "title": "Larry June 與 adidas Originals 推出 Adistar Control 5「Watermelon Smoothie」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -306,7 +437,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 33,
    "title": "Vans 與 SZA 首度推出 Vansza 聯乘系列，加入分趾設計「Tabi Hiker」",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -319,7 +450,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 34,
    "title": "Clarks Walla Eden GTX「Black」以全粒面皮革及 GTX 防護從容應對雨天",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -332,7 +463,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 35,
    "title": "東京時裝週 SS27 鞋履趨勢：前衛厚底樂福鞋、機能越野跑鞋與經典足球鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -353,7 +484,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 36,
    "title": "Rick Owens and Dr. Martens Link Up Again for a Brutalist Quad Sole Collection",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -366,7 +497,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 37,
    "title": "Official Look at the Song for the Mute x adidas Adizero EVO SL “Dove Grey”",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -379,7 +510,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 38,
    "title": "Tomorrowland's WR1 Sneaker Is Built to Live Beyond the Festival",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -390,7 +521,7 @@
    "relatedBrands": []
   },
   {
-   "id": 29,
+   "id": 39,
    "title": "The Barefoot-Inspired KEEN Jasper Merko Arrives in Three Understated Colorways",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -401,7 +532,7 @@
    "relatedBrands": []
   },
   {
-   "id": 30,
+   "id": 40,
    "title": "Larry June and adidas Originals Serve Up the Adistar Control 5 “Watermelon Smoothie”",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -414,7 +545,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 41,
    "title": "Vans and SZA’s Debut “Vansza” Collaboration Adds a Split-Toe “Tabi Hiker” To the Lineup",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -427,20 +558,7 @@
    ]
   },
   {
-   "id": 32,
-   "title": "Clarks Walla Eden GTX “Black” Shrugs Off Rain With Full-Grain Leather and GTX Protection",
-   "source": "Hypebeast",
-   "date": "2026-09-10",
-   "content": "Name: Clarks Originals Walla Eden GTXColorway: BlackSKU: CLM27893RMSRP: $7,880 NTD (approx. $250 USD), TBC (Global)Release Date: Available now (Taiwan), TBC (Global)Where to Buy: Clarks TaiwanClarks is rounding out its Fall/Winter 2026 offering with the Walla Eden GTX, a sports-casual silhouette engineered to hold up against the season's wetter days. Filed under the brand's ORIGINALs Classic Series, the shoe leans on tested materials rather than a flashy redesign, prioritizing function without straying far from the label's familiar silhouette.At the core of the Walla Eden GTX is its genuine leather construction, a material choice that grounds the shoe in durability while keeping the upper supple enough for daily wear. Layered onto that leather base is GTX waterproof technology, giving the silhouette a barrier against rain and standing water that most casual sneakers can't claim.That comb",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F10%2FftClarks-Originals-Walla-Eden-GTX-Black-CLM27893R-Official-Images-Taiwan-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/clarks-originals-walla-eden-gtx-black-clm27893r-official-images-taiwan-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CLARKS"
-   ]
-  },
-  {
-   "id": 33,
+   "id": 42,
    "title": "The North Face x Engineered Garments 推出 VECTIV Forward",
    "source": "Hypebeast 中文",
    "date": "2026-09-09",
@@ -448,96 +566,6 @@
    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fthe-north-face-engineered-garments-vectiv-forward-sneaker-release-date-info-0.jpg?w=800&cbr=1&q=90&fit=max",
    "link": "https://hypebeast.com/zh/2026/9/the-north-face-engineered-garments-vectiv-forward-sneaker-release-date-info",
    "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 34,
-   "title": "Converse Japan All Star Yunomi Hi 以茶杯魚字旁圖案鋪滿高筒鞋身",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-09",
-   "content": "名稱： Converse Japan All Star Yunomi Hi配色：白色／海軍藍貨號：31319350210建議零售價：11,000 日圓（約 70 美元）發售日期：9 月 25 日發售地點：Converse JapanConverse Japan 將日常餐桌器皿化作覆蓋整雙鞋的圖案，於這雙帆布高筒鞋印上日式茶杯「湯吞」的圖案。鞋款採用更新版 All Star 規格，並以鞋面作畫布，呈現細節密集、充滿日式風格的印花。圖案正是此鞋的主角。Converse Japan 從湯吞汲取靈感；這種茶杯在日本紀念品店隨處可見，其圖像如今被移植到鞋上。這類茶杯常飾以魚字旁漢字，鞋面印花亦延續這項傳統，散布著各個相關漢字。設計還融入兩項呼應品牌的元素。其一是以漢字寫成的「all star」，以日文漢字而非慣常的拉丁字母拼寫鞋款名稱。其二是在文字之間加入一組手繪星星，以較隨性的素描筆觸襯托印刷字樣，同時呼應 All Star 的核心標誌。圖案之下，鞋款結構依然忠於原有輪廓。更新版 All Star 規格配備帆布鞋面及橡膠外底，延續這個鞋型數十年來標誌性的高筒剪裁。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftConverse-Japan-All-Star-Yunomi-Hi-Teacup-Inspired-fish-kanji-31319350210-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/converse-japan-all-star-yunomi-hi-teacup-inspired-fish-kanji-31319350210-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "Nike's Favorite Dad Shoe Gets Its Shine On",
-   "source": "Highsnobiety",
-   "date": "2026-09-01",
-   "content": "The Nike Zoom Vomero 5 Gridiron delivers a metallic, slate-toned spin on the retro runner.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-gridiron/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "This Nike Noughties Revival Is an Optical Illusion",
-   "source": "Highsnobiety",
-   "date": "2026-09-01",
-   "content": "The Nike Air Jordan 8 Chrome revives Tinker Hatfield’s strap-laden 1993 silhouette for a new generation.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-jordan-8-chrome/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 37,
-   "title": "Nike's Weirdest Design Now Glows In the Dark",
-   "source": "Highsnobiety",
-   "date": "2026-09-01",
-   "content": "The Nike Air Foamposite One Phantom/Barely Volt writes an even more eye-catching new chapter in a liquid-metal legacy",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-foamposite-one-phantom-barel-volt/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "Sole Food: Saucony Quietly Became the Reseller’s Favorite Sneaker",
-   "source": "Highsnobiety",
-   "date": "2026-08-31",
-   "content": "StockX names Saucony its fastest-growing sneaker brand in the August 2026 Big Facts report. Here, we unpack the secrets to the label's resale success.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/saucony-stockx-report/",
-   "lang": "en",
-   "relatedBrands": [
-    "SAUCONY"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "From Table to Foot, Gohar World Does Ballet Sneakers Now",
-   "source": "Highsnobiety",
-   "date": "2026-08-31",
-   "content": "Translating a theatrical lens into footwear, the Gohar World x ASICS GEL-DS Trainer SP Ballet is a head-turning ballet sneaker.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/gohar-world-asics-gel-ds-trainer/",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Isabel Marant’s Bekett Sneaker Drives a Wedge in the Flat Sneaker Conversation",
-   "source": "Highsnobiety",
-   "date": "2026-08-31",
-   "content": "Isabel Marant's Bekett Reedition sneaker is a remake of one of the best wedge sneakers in the game.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/isabel-marant-bekett-reedition-sneaker/",
-   "lang": "en",
    "relatedBrands": []
   }
  ]
