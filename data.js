@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-13 08:07",
+ "updatedAt": "2026-09-13 16:05",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,18 +16,12 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
-  "ASICS",
-  "BALENCIAGA",
-  "CLARKS",
   "CONVERSE",
   "CROCS",
-  "HOKA",
   "JORDAN",
-  "MIZUNO",
   "NEW BALANCE",
   "NIKE",
-  "PUMA",
-  "SALOMON",
+  "TIMBERLAND",
   "UGG",
   "VANS"
  ],
@@ -35,6 +29,72 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "率先預覽 Patta x Crocs Classic Clog 聯乘鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-13",
+   "content": "名稱： Patta x Crocs Classic Clog產品編號： 待定發售日期： 待定Patta 與 Crocs 攜手為經典 Classic Clog 注入更耐用、實用的升級設計。Patta 聯合創辦人 Guillaume Schmidt 在 Instagram 率先曝光 鞋款，這雙即將推出的聯乘鞋款大幅改造這款休閒便鞋，以應付要求更高的城市及戶外環境。這次改造的核心，在於加入粗獷的 Vibram 橡膠外底，為一向輕巧的泡棉鞋身奠定更具進攻性的越野鞋底基礎。這個出人意表的三方合作，將 Patta 一貫的街頭風格，與 Vibram 鞋底出色的抓地力及耐用性自然結合，讓 Classic Clog 踏入全新的功能鞋履類別。從首波預告圖片可見，聯乘鞋款採用低調的迷彩印花，搭配黑色飾件及鞋帶。轉軸鉚釘與可調校後跟帶上的標誌，均由專屬 Patta 標誌取代原有 Crocs 標誌，低調表明這個 Amsterdam 品牌在鞋款上的身分。鞋面綴以醒目的 Patta Jibbitz 鞋飾，包括一枚仿照磚牆造型的立體飾件，上面印有「Patta」及「TEAR DOWN THE WALL。」字樣。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fpatta-crocs-classic-clog-collaboration-with-vibram-soles-first-look-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/take-a-first-look-at-patta-and-crocs-classic-clog-collab",
+   "lang": "zh",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Victor Kan 率先預覽即將推出的 Timberland Euro Hiker GTX 聯乘鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-13",
+   "content": "名稱： Timberland By Victor Kan F26 Euro Hiker GTX產品編號： 待定發售日期： 2026 年 10 月Victor Kan 今年初在 NYC 開設Third of June店舖後，延續 2026 年的發展勢頭，與 Timberland 合作重新演繹經典 Euro Hiker GTX。這個名為「Timberland Curated By Victor Kan F26」的企劃預定於 10 月推出，以更精緻、貼近街頭服飾的視角，詮釋品牌硬朗的戶外傳統。聯乘靴款保留原版 Euro Hiker 的實用基因，同時採用高級、防風雨的物料結構，足以應對城市行人路與變化莫測的秋季天氣。Victor Kan從率先曝光的圖片可見，鞋款以大地色調拼色呈現，採用順滑的灰褐色麂皮鞋面，配以透氣灰色網布側片。酒紅啡色麂皮鞋舌壓印 Timberland 樹形標誌，成為鞋身視覺焦點，在中性色基調上注入深邃色彩。金屬 D 形扣環、對比鮮明的白色繩狀鞋帶，以及厚實的黑色橡膠鞋頭防撞片均突顯戶外機能；防撞片順暢延伸至厚實的黑色深紋外底。鞋側以低調的 GORE-TEX 標籤表明全防水結構，令這雙聯乘 Euro Hiker 兼具高級物料工藝與越野耐用性。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Ftimberland-curated-by-victor-kan-f26-euro-hiker-gtx-first-look-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/timberland-curated-by-victor-kan-f26-euro-hiker-gtx-first-look-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "TIMBERLAND"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Song for the Mute 與 adidas Originals 於 2026 秋冬重塑經典鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-13",
+   "content": "名稱： Song for the Mute x adidas Originals 2026 秋冬系列產品編號：待定建議零售價：待定發售日期：10 月 16 日發售地點：Song for the Mute、adidas澳洲時裝品牌 Song for the Mute 與 adidas Originals 再度攜手，推出 2026 秋冬系列。延續雙方廣受好評的合作，這次新作繼續融合 adidas 的運動基因、Song for the Mute 標誌性的實驗美學，以及其「慢設計」理念。今季聯乘以兩雙重新演繹的經典鞋款為焦點：歷久不衰的 Samba OG SFTM-010，以及全新推出的 SL 72 PRO SFTM-011，另有風格統一的服裝及配飾膠囊系列。系列採用低調的單色大地色調，著重呈現原始質感、物料對比，以及自然磨損、帶遊牧氣息的風格。Samba OG SFTM-010 以全新的結構手法重塑這款標誌性鞋型，將經典低筒鞋化為百搭的解構式日常鞋款。此版本最矚目的設計，是可摺疊、帶皺褶感的鞋跟，讓鞋款可輕鬆當作穆勒拖鞋穿著。鞋面結合柔軟皮革與優質麂皮覆片，並以極簡標誌及同色系車線勾勒出經典三間圖案。鞋底採用向品牌傳統致敬的半透明膠底；Samba OG SFTM-010 將推出「Black」、「Brown」及「Green」3 款低調大地色配色，質感洗練而易於配搭。與 Samba 的隨性氣質相呼應，SL 72 PRO SFTM-011 為復古跑鞋帶來更現代、質感豐富的演繹。鞋款突破傳統纖薄輪廓，配備厚實的疊層搖擺中底；鞋面則採用近似拼布的結構，將梭織布料底層與優質麂皮覆片結合。繩索鞋帶及自然褪色的處理，刻意營造經歲月洗禮般的手工質感，將高級時裝風格與日常實用性自然融合。SL 72 PRO 備有「Collegiate Green」、「Beige」及「Off White」配色。服裝系列同樣貫徹這種手工製作取向，推出運動外套、運動長褲、短褲、T 恤及配飾，均採用相同的大地色調、寬鬆剪裁，並講究每一處細節。 Click here to view full gallery at Hype",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fftsong-for-the-mute-adidas-originals-samba-og-sftm-010-sl-72-pro-sftm-011-first-look-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/song-for-the-mute-adidas-originals-samba-og-sftm-010-sl-72-pro-sftm-011-first-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Victor Kan Offers a First Look at His Upcoming Timberland Euro Hiker GTX Collaboration",
+   "source": "Hypebeast",
+   "date": "2026-09-13",
+   "content": "Name: Timberland By Victor Kan F26 Euro Hiker GTXSKU: TBCRelease Date: October 2026Following the opening of his Third of June storefront in NYC earlier this year, Victor Kan is continuing his 2026 momentum by teaming up with Timberland for a curated take on the classic Euro Hiker GTX. Slated for an October release, the \"Timberland Curated By Victor Kan F26\" project brings a refined, streetwear-adjacent lens to the brand's rugged outdoor heritage. The collaborative boot preserves the utilitarian DNA of the original Euro Hiker while introducing a premium, weather-ready material construction built to navigate both city sidewalks and unpredictable fall climates.As revealed in the first look images, the silhouette arrives in an earthy, color-blocked palette anchored by a smooth taupe suede upper and breathable grey mesh side panels. A rich burgundy brown suede tongue, detailed with an embosse",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F11%2Ftimberland-curated-by-victor-kan-f26-euro-hiker-gtx-first-look-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/timberland-curated-by-victor-kan-f26-euro-hiker-gtx-first-look-info",
+   "lang": "en",
+   "relatedBrands": [
+    "TIMBERLAND",
+    "UGG"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Song for the Mute and adidas Originals Revisit Heritage Icons for FW26",
+   "source": "Hypebeast",
+   "date": "2026-09-13",
+   "content": "Name: Song for the Mute x adidas Originals FW26 CollectionSKU: TBCMSRP: TBCRelease Date: October 16Where to Buy: Song for the Mute, adidasAustralian fashion label Song for the Mute and adidas Originals are reuniting for a Fall/Winter 2026 collection. Expanding on their highly successful partnership, the upcoming release continues to merge adidas' sporting DNA with Song for the Mute’s signature experimental aesthetic and \"slow design\" philosophy.This season, the collaboration spotlights two reimagined classics - the timeless Samba OG SFTM-010 and the newly introduced SL 72 PRO SFTM-011 - alongside a cohesive apparel and accessories capsule. The collection embraces a muted, monochromatic, and earthy color palette that emphasizes raw textures, material contrast, and a naturally worn, nomadic style.Taking a completely new structural approach to an iconic silhouette, the Samba OG SFTM-010 tra",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F11%2Fftsong-for-the-mute-adidas-originals-samba-og-sftm-010-sl-72-pro-sftm-011-first-look-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/song-for-the-mute-adidas-originals-samba-og-sftm-010-sl-72-pro-sftm-011-first-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 6,
    "title": "Nike Air Monarch 換上麖皮，推出兩款膠底節日配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-12",
@@ -47,7 +107,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 7,
    "title": "The Nike Air Monarch Trades Leather for Suede in Two Gum-Soled Holiday Colorways",
    "source": "Hypebeast",
    "date": "2026-09-12",
@@ -60,7 +120,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 8,
    "title": "Air Jordan 1 Low OG “Last Dance At The Garden” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-12",
@@ -73,7 +133,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 9,
    "title": "Where To Buy the Air Jordan 12 “Idols Become Rivals”",
    "source": "Nice Kicks",
    "date": "2026-09-12",
@@ -86,7 +146,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 10,
    "title": "adidas’ Furry Sambas Don’t Bite — They Skate",
    "source": "Highsnobiety",
    "date": "2026-09-12",
@@ -99,7 +159,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 11,
    "title": "adidas’ New Ostrich-Leather Sneaker Is an Even Bigger Star",
    "source": "Highsnobiety",
    "date": "2026-09-12",
@@ -112,7 +172,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 12,
    "title": "Nike’s Ultra-Ruggedized Forces Have Never Looked More Delicious",
    "source": "Highsnobiety",
    "date": "2026-09-12",
@@ -126,7 +186,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 13,
    "title": "JAIDE's Minty-Fresh Jordan Sneaker Is a Feeling",
    "source": "Highsnobiety",
    "date": "2026-09-12",
@@ -139,7 +199,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 14,
    "title": "Nike’s Flyest Outdoor Boot Is Back Home for the Season",
    "source": "Highsnobiety",
    "date": "2026-09-12",
@@ -152,7 +212,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 15,
    "title": "adidas Just Said Three Stripes, No Laces",
    "source": "Highsnobiety",
    "date": "2026-09-12",
@@ -165,7 +225,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 16,
    "title": "adidas' Newest Boat Shoe Has Unc Status",
    "source": "Highsnobiety",
    "date": "2026-09-12",
@@ -178,7 +238,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 17,
    "title": "Merrell 與 YMC 再度合作推出 Moab 2 Slide",
    "source": "Hypebeast 中文",
    "date": "2026-09-11",
@@ -189,7 +249,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 13,
+   "id": 18,
    "title": "SUICOKE 推出 FW26 全新靴款及穆勒鞋",
    "source": "Hypebeast 中文",
    "date": "2026-09-11",
@@ -200,7 +260,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 14,
+   "id": 19,
    "title": "SUICOKE 與 Vibram Five Fingers 推出結合 Kohaze 扣具及 MEGAGRIP 鞋底的五趾麖皮鞋",
    "source": "Hypebeast 中文",
    "date": "2026-09-11",
@@ -211,7 +271,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 15,
+   "id": 20,
    "title": "Tyrrell Winston 與 adidas 推出足球鞋靈感 Climacool 4D",
    "source": "Hypebeast 中文",
    "date": "2026-09-11",
@@ -224,7 +284,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 21,
    "title": "Merrell and YMC Reunite for the Moab 2 Slide",
    "source": "Hypebeast",
    "date": "2026-09-11",
@@ -235,7 +295,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 17,
+   "id": 22,
    "title": "Suicoke Readies More Boots and Mules for FW26",
    "source": "Hypebeast",
    "date": "2026-09-11",
@@ -248,7 +308,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 23,
    "title": "Aminé and New Balance Unveil the 992 \"Outdoor School\"",
    "source": "Hypebeast",
    "date": "2026-09-11",
@@ -261,7 +321,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 24,
    "title": "SUICOKE and Vibram Pair a \"Kohaze\" Closure With MEGAGRIP on a Five-Toe Suede Shoe",
    "source": "Hypebeast",
    "date": "2026-09-11",
@@ -272,7 +332,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 20,
+   "id": 25,
    "title": "Tyrell Winston and adidas Unveil the Soccer-Inspired Climacool 4D",
    "source": "Hypebeast",
    "date": "2026-09-11",
@@ -285,7 +345,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 26,
    "title": "Anthony Edwards x adidas Superstar II “Bliss Blue” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -298,7 +358,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 27,
    "title": "adidas Anthony Edwards 3 “Cold Blooded” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -311,7 +371,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 28,
    "title": "Nike G.T. Future “Triple Black”",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -324,7 +384,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 29,
    "title": "Converse SHAI 001 Shroud “Shock” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -337,7 +397,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 30,
    "title": "Converse SHAI 001 Shroud “Spark” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -350,7 +410,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 31,
    "title": "Wagyu x Nike Air Max 90 “Black” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -363,7 +423,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 32,
    "title": "Nike Book 2 “Be Legendary” November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -376,7 +436,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 33,
    "title": "Nike Book 2 “Desert Night” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -389,7 +449,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 34,
    "title": "The Crocs Clog Means Business Now",
    "source": "Highsnobiety",
    "date": "2026-09-11",
@@ -402,7 +462,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 35,
    "title": "Tomorrowland 首款 WR1 球鞋，將音樂節精神帶進日常",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -413,7 +473,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 31,
+   "id": 36,
    "title": "赤足靈感 KEEN Jasper Merko 推出 3 款低調配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -424,7 +484,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 32,
+   "id": 37,
    "title": "Larry June 與 adidas Originals 推出 Adistar Control 5「Watermelon Smoothie」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -437,7 +497,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 38,
    "title": "Vans 與 SZA 首度推出 Vansza 聯乘系列，加入分趾設計「Tabi Hiker」",
    "source": "Hypebeast 中文",
    "date": "2026-09-10",
@@ -450,41 +510,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
-   "title": "Clarks Walla Eden GTX「Black」以全粒面皮革及 GTX 防護從容應對雨天",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-10",
-   "content": "名稱： Clarks Originals Walla Eden GTX配色： 黑色產品編號： CLM27893R建議零售價： 7,880 新台幣（約 250 美元），全球售價待定發售日期： 現已於台灣發售，全球發售日期待定購買地點： Clarks TaiwanClarks 為 2026 年秋冬系列加入 Walla Eden GTX；這雙運動休閒鞋專為應對季節裡較潮濕的日子而設。鞋款歸入品牌 ORIGINALs Classic Series，以經過驗證的材質為主，而非大幅改造設計；在著重機能之餘，仍保留品牌熟悉的輪廓。Walla Eden GTX 的核心在於真皮鞋身。這種材質兼顧耐用度，鞋面亦保有足夠柔韌性，適合日常穿著。皮革基底再加入 GTX 防水技術，形成抵禦雨水及積水的屏障，是多數休閒運動鞋難以具備的防護。這個組合為 Walla Eden GTX 定下明確定位：它是一雙具防水性能的運動休閒鞋，可在雨天通勤與日常造型之間靈活切換，無須特意換上專用雨靴。黑色配色亦讓鞋款更百搭，焦點落在皮革與 GTX 細節之上，而非搶眼的季節性圖案。這款鞋被納入 Clarks Originals Classic Series，意味它並非一次性的實驗之作，而是為品牌長年沿用於休閒鞋履的經典脈絡作出機能更新，並加上適合 2026 年秋冬推出時節的防風雨性能。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftClarks-Originals-Walla-Eden-GTX-Black-CLM27893R-Official-Images-Taiwan-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/clarks-originals-walla-eden-gtx-black-clm27893r-official-images-taiwan-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "CLARKS"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "東京時裝週 SS27 鞋履趨勢：前衛厚底樂福鞋、機能越野跑鞋與經典足球鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-10",
-   "content": "摘要 Tokyo Fashion Week SS27 街頭造型呈現出多元豐富的鞋履風格，從 technical 跑鞋輪廓到奢華剪裁與前衛設計一應俱全。當中焦點包括多個高話題聯乘企劃，以及來自 Doublet、MIKIOSAKABE 和 Comme des Garçons x Salomon 的多重質感鞋款。整體鞋履陣容圍繞混合設計展開，橫跨室內足球訓練鞋、厚重平台大底到覆有金屬鉚釘的帆布鞋身。 2027 春夏東京時裝週的鞋履，呈現機能性能、復古室內運動元素與前衛實驗設計交錯並存的豐富面貌。日本首都的街頭上，觀秀者以機能跑鞋、概念感十足的厚底鞋，以及俐落的低筒鞋款，為整體造型奠定基調。跑鞋與越野鞋輪廓在街頭依然佔據一席之地。機能鞋款焦點包括「Wolf Grey」配色的 Nike Air Max Plus Tiempo 混合鞋款、Mizuno Wave Prophecy 1「Harbor Mist/Chinese Red/Black」配色，以及戰術風格的 Salomon XA Forces 8 GTX EN。聯乘跑鞋亦相當突出，例如 Awake NY x ASICS Gel Preleus「Cool Grey Silver」配色、AURALEE x New Balance 990v4 低調的「Dusty Blue」配色；此外還有 New Balance 2002R、ASICS GEL-Cumulus 16「Cinnamon/Pure Silver」配色、HOKA Speedgoat 2 TS 及 Satisfy TheROCKER 等常規鞋款。雕塑感與吸睛設計則為整體陣容注入實驗氣息。焦點鞋款包括 grounds Jewelry Loafer「Enamel Blood」配色、MIKIOSAKABE「Jewelry」Ark Whale、黑色厚底 Comme des Garçons x Salomon XT-Whisper Void，以及 Doublet 綠色 Dirty Spike Toe Cap Canvas Sneakers；後者採用仿舊鞋面，並綴以橡膠尖刺。低筒球場鞋與",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fbest-footwear-trends-tokyo-fashion-week-ss27-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/best-footwear-trends-tokyo-fashion-week-ss27",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS",
-    "ASICS",
-    "BALENCIAGA",
-    "HOKA",
-    "MIZUNO",
-    "NEW BALANCE",
-    "NIKE",
-    "PUMA",
-    "SALOMON"
-   ]
-  },
-  {
-   "id": 36,
+   "id": 39,
    "title": "Rick Owens and Dr. Martens Link Up Again for a Brutalist Quad Sole Collection",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -497,7 +523,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 40,
    "title": "Official Look at the Song for the Mute x adidas Adizero EVO SL “Dove Grey”",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -510,7 +536,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 41,
    "title": "Tomorrowland's WR1 Sneaker Is Built to Live Beyond the Festival",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -521,7 +547,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 39,
+   "id": 42,
    "title": "The Barefoot-Inspired KEEN Jasper Merko Arrives in Three Understated Colorways",
    "source": "Hypebeast",
    "date": "2026-09-10",
@@ -529,43 +555,6 @@ window.SNEAKER_DATA = {
    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F10%2Fkeen-jasper-merko-shoe-three-colorways-release-info-1.jpg?w=800&cbr=1&q=90&fit=max",
    "link": "https://hypebeast.com/2026/9/keen-jasper-merko-shoe-three-colorways-release-info",
    "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 40,
-   "title": "Larry June and adidas Originals Serve Up the Adistar Control 5 “Watermelon Smoothie”",
-   "source": "Hypebeast",
-   "date": "2026-09-10",
-   "content": "Name: adidas Originals Adistar Control 5 “Watermelon Smoothie\"Colorway: “Watermelon Smoothie\"SKU: TBCMSRP: $160 USDRelease Date: September 12Where to Buy: adidasadidas Originals and Bay Area artist Larry June continue their collaborative partnership with the release of the Adistar Control 5 “Watermelon Smoothie.” Serving as the second colorway following an exclusive Friends & Family drop, this iteration reimagines the early-2000s runner through a fresh lifestyle lens.Inspired by June's personal health and wellness routines - specifically his ritual of making a watermelon smoothie - the design translates his West Coast intentionality into aesthetic cues. The \"Watermelon Smoothie\" colorway features an open white mesh base paired with layered tonal overlays, establishing a clean, breathable foundation. Its standout design element is a vibrant gradient finish that transitions fluidly through",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F10%2Flarry-june-adidas-originals-adistar-control-5-watermelon-smoothie-official-images-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/larry-june-adidas-originals-adistar-control-5-watermelon-smoothie-official-images-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "Vans and SZA’s Debut “Vansza” Collaboration Adds a Split-Toe “Tabi Hiker” To the Lineup",
-   "source": "Hypebeast",
-   "date": "2026-09-10",
-   "content": "Name: Vans x SZA VanSZA LX Tabi Hiker, Vans x SZA VanSZA LX Knu Skool Mule, Vans x SZA VanSZA LX Knu Skool, Vans x SZA VanSZA Authentic KickdownColorway: Camo/Camo, Black/Red-Yellow, Blue/Orange-Green, Brown/Green-Purple, Black/White, Black/WhiteSKU: VN00115AWHT, VN00119WBA2, VN00116HBOC, VN00116HBLQ, VN00116HBLQ VN00111JCMAMSRP: TBCRelease Date: October 22 (Drop 1), April 8, 2027 (Drop 2)Where to Buy: VansVans and SZA are launching their debut collaboration with the Vansza collection, a two-part release that pairs outdoor-ready footwear with apparel drawn directly from SZA's personal style and everyday creative instincts. The partnership marks SZA's first full collection with Vans, spanning footwear, apparel, and lifestyle pieces built around her own aesthetic point of view.The Vansza LX Tabi Hiker leads the collection's footwear with a split-toe construction built around outdoor functi",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F10%2FVans-SZA-VanSZA-Collaboration-Collection-LX-Tabi-Hiker-Knu-Skool-Mule-Authentic-Kickdown-VN00115AWHT-VN00119WBA2-VN00116HBOC-VN00116HBLQ-VN00116HBLQ-VN00111JCMA-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/vans-sza-vansza-collaboration-collection-lx-tabi-hiker-knu-skool-mule-authentic-kickdown-vn00115awht-vn00119wba2-vn00116hboc-vn00116hblq-vn00116hblq-vn00111jcma-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 42,
-   "title": "The North Face x Engineered Garments 推出 VECTIV Forward",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-09",
-   "content": "摘要The North Face 與 Engineered Garments 推出 VECTIV Forward，這雙兼具日常風格與跑鞋機能的鞋款採用模組化設計，可在繫帶與套穿兩種穿法之間轉換。這雙海軍藍／黑色球鞋將於 2026 年 9 月 11 至 12 日推出，結合實用主義設計與 3D Pebax 板、DREAM 泡棉等性能科技。The North Face 與 Engineered Garments 首度聯乘，帶來用途多元的 VECTIV Forward 鞋型。這雙限量鞋款的核心在於其模組化設計，靈感來自設計師 Daiki Suzuki 的實用主義取向，以及這個戶外裝備品牌的性能專長。原為跑步而設的球鞋輪廓持續受到時尚界青睞，要同時兼顧機能與造型，正推動各種創新方案。這款融合日常風格與跑鞋機能的鞋款採用可變換的雙向設計：認真跑步時可使用傳統鞋帶；日常穿著時則可換上配套鞋舌罩，作套穿鞋款使用。鞋底配備 VECTIV 3D Pebax 及碳纖維板、DREAM 泡棉中底、搖桿結構，以及外底的高抓地力 SurfaceCTRL™，帶來推進力與穩定性。這雙鞋既適合高強度跑步，也適合悠閒散步，並以單色調「Easy Navy/TNF Black」配色登場，平衡性能與簡約風格。The North Face x Engineered Garments VECTIV Forward 將於 2026 年 9 月 11 日星期五率先在 THE NORTH FACE FOOTWEAR Shinsaibashi 及 ENGINEERED GARMENTS TOKYO 預售，並於 9 月 12 日星期六起在網上及全國發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fthe-north-face-engineered-garments-vectiv-forward-sneaker-release-date-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/the-north-face-engineered-garments-vectiv-forward-sneaker-release-date-info",
-   "lang": "zh",
    "relatedBrands": []
   }
  ]
