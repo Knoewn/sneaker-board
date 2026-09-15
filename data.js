@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-14 16:06",
+ "updatedAt": "2026-09-15 08:07",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,19 +16,43 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
+  "BIRKENSTOCK",
   "CONVERSE",
   "CROCS",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
   "TIMBERLAND",
-  "UGG",
-  "VANS"
+  "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Flower Mountain 攜手 Staple 推出 FW26 聯乘 Yamano 3",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-14",
+   "content": "摘要 Flower Mountain 正式攜手 Staple 推出 FW26 聯乘 Yamano 3 鞋款輪廓。設計將 Flower Mountain 標誌性的花卉圖案，與 Staple 經典 Staple Pigeon 標誌結合，體現在度身設計的品牌標誌與刺繡細節之上。機能配置包括可拆式抑菌天然軟木鞋墊，以及高抓地力戶外鞋底。 Flower Mountain 正式聯同街頭品牌 Staple 推出聯乘 Yamano 3。此聯乘鞋履系列將於 2026 秋冬季度發售，揉合專業戶外機能與 Staple 獨有的都市街頭底蘊。鞋款以 Flower Mountain 的標誌性 Yamano 3 輪廓為核心，為日常探索而設。鞋內配備可拆卸的天然軟木抗菌鞋墊，兼具透氣與持久舒適感；鞋底則採用高抓地力戶外大底，能應對不同地形並提供穩定抓地力。視覺細節同時呼應兩個品牌的美學。鞋面飾有側邊刺繡及特製鞋舌標誌，將 Flower Mountain 的標誌性花卉徽記與 Staple Pigeon 融合；鞋面各處亦低調點綴靈感源自紐約鴿子足印的圖案，並以 Staple 招牌的炭灰、霧珊瑚色及亮橙色細節呈現。Flower Mountain x Staple Yamano 3 將作為 2026 秋冬系列的一部分，於 網上及指定零售商發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fstaple-flower-mountain-yamano-3-fw26-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/staple-flower-mountain-yamano-3-fw26-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 2,
+   "title": "Nike Air Max Goadome「Black/Volt」以一枚 ACG 徽章打破全黑設計",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-14",
+   "content": "名稱：Nike Air Max Goadome「Black/Volt」配色：黑色／炭灰色／VoltSKU：IQ7198-001建議零售價：180 美元發售日期：2026 年秋季Nike 正為 Air Max Goadome 推出全新「Black/Volt」配色，魅力幾乎全在鞋面的材質處理。鞋面以兩種不同質感的黑色與炭灰色皮革拼接，光滑鞋面裁片與鞋側、鞋領的紋理部分形成對比，令同色調配搭依然富有層次。這是一雙值得近看細賞、而非從房間另一端一眼辨認的靴款。同色調的貫徹程度近乎徹底。鞋帶、鞋眼、鞋舌、車線與鞋底均採用同一色調，少了 Goadome 慣見、用以區分各部分的視覺分界。鞋面只有外側的小型銀色 Swoosh 帶來些微對比；其尺寸收斂得如同五金細節，而非品牌標誌。鞋底結構則成為焦點。後跟與前掌均設有可視 Air 氣墊，讓這個鞋型前後兩端均具備緩衝防護，而非只集中於後跟；外底則保留此鞋款標誌性的深刻紋路。全黑設計唯一刻意打破之處，是設於鞋底的 Volt 色 ACG 徽章，只有從特定角度才會看見這抹色彩。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftNike-Air-Max-Goadome-Black-Volt-IQ7198-001-Official-Images.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-air-max-goadome-black-volt-iq7198-001-official-images",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
    "title": "Zheng Qinwen Nike Zoom Vapor 12 PE 以三重紅與金色紀錄復出賽季",
    "source": "Hypebeast 中文",
    "date": "2026-09-14",
@@ -41,7 +65,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 4,
    "title": "J Balvin x Air Jordan 4「Lemonade」細節近賞",
    "source": "Hypebeast 中文",
    "date": "2026-09-14",
@@ -55,7 +79,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 5,
    "title": "Jordan Vail 生活休閒鞋率先曝光",
    "source": "Hypebeast 中文",
    "date": "2026-09-14",
@@ -68,7 +92,55 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 6,
+   "title": "Sound & Sole: Lost Frequencies, Miss Monique, and NOVAH Lace Up the Tomorrowland WR1",
+   "source": "Hypebeast",
+   "date": "2026-09-14",
+   "content": "There's a version of Tomorrowland that ends when the last set does — the grounds emptied, the stages struck, the weekend folded into memory. And then there's the version the festival has spent fifteen years building in the other direction: out past the gates, into fragrances and homeware and, now, footwear. The WR1 is the festival's first-ever sneaker, unveiled at Tomorrowland Belgium 2026 ahead of a global release this September. A sculptural, nature-referencing runner — its flowing lines and layered sole drawn from the geometry of a dragonfly's wing and the patterns inside a mushroom's gills — it's pitched less as merch than as something you carry with you long after the music stops. Which is a fitting brief for the three artists chosen to front it, all of whom spend their lives moving between worlds and trying to leave something behind in each one.For Lost Frequencies, the collaborati",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F08%2Fmiss-monique-novah-lost-frequencies-tomorrowland-wr1-sneaker-interview-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/miss-monique-novah-lost-frequencies-tomorrowland-wr1-sneaker-interview",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 7,
+   "title": "Flower Mountain and Staple Unveil Collaborative Yamano 3 for FW26",
+   "source": "Hypebeast",
+   "date": "2026-09-14",
+   "content": "Summary Flower Mountain has officially partnered with Staple on a collaborative Yamano 3 silhouette for FW26The design merges Flower Mountain's signature floral motif with the iconic Staple Pigeon across custom logos and embroideryTechnical specs feature a removable antibacterial natural cork insole alongside a high-grip outdoor outsole Flower Mountain has officially joined forces with streetwear label Staple to present the collaborative Yamano 3. Releasing for the Fall/Winter 2026 season, the collaborative footwear capsule blends technical outdoor performance with Staple's distinct urban heritage.Centered around Flower Mountain’s signature Yamano 3 silhouette, the model is engineered for everyday exploration. The shoe incorporates a removable antibacterial natural cork insole for breathability and lasting comfort, resting atop a high-grip outdoor outsole crafted for traction across vari",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F11%2Fstaple-flower-mountain-yamano-3-fw26-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/staple-flower-mountain-yamano-3-fw26-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 8,
+   "title": "The Nike Air Max Goadome \"Black/Volt\" Blacks Out Everything but a Single ACG Badge",
+   "source": "Hypebeast",
+   "date": "2026-09-14",
+   "content": "Name: Nike Air Max Goadome “Black/Volt”Colorway: Black/Anthracite-VoltSKU: IQ7198-001MSRP: $180 USDRelease Date: Fall 2026Nike is lining up a new \"Black/Volt\" treatment of the Air Max Goadome, and the appeal of this one is almost entirely in the surfaces. The boot's upper pairs black and Anthracite leather in two different finishes, setting smooth panels against textured sections around the sides and collar so the tonal palette still reads with depth. It is a build that asks to be examined up close rather than clocked from across a room.The commitment to tonality is close to total. Laces, eyelets, tongue, stitching and sole all sit in the same register, which leaves the boot without the usual visual breaks that separate a Goadome's component parts. Small silver Swooshes on the lateral sides are the only concession to contrast on the upper, and they are scaled down enough that they regist",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F14%2FftNike-Air-Max-Goadome-Black-Volt-IQ7198-001-Official-Images.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-air-max-goadome-black-volt-iq7198-001-official-images",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Zheng Qinwen’s Nike Zoom Vapor 12 PE Wraps a Comeback Season in Triple Red and Gold",
+   "source": "Hypebeast",
+   "date": "2026-09-14",
+   "content": "Name: Zheng Qinwen Nike Zoom Vapor 12 PEColorway: University Red/Tough Red-Picante Red-Metallic GoldSKU: IQ9093-600MSRP: TBCRelease Date: TBCNike has produced a Zoom Vapor 12 player exclusive for Zheng Qinwen, handed to the tennis player after her quarterfinal run at the 2026 US Open. The women's PE is built on a red base with gold accents, and every graphic on it is doing narrative work rather than sitting there for decoration. It arrives at a point in Zheng's career that the shoe is clearly designed to mark, following a previous season in which injuries kept her from building any real momentum.The color work is the first thing to register. Rather than settling on a single red, the PE layers University Red, Tough Red and Picante Red so the upper shifts in tone across its panels, and a gold Swoosh supplies the contrast. \"Qinwen\" branding appears at both the tongue and the heel, placing h",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F14%2FZheng-Qinwen-Nike-Zoom-Vapor-12-PE-IQ9093-600-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/zheng-qinwen-nike-zoom-vapor-12-pe-iq9093-600-official-images",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
    "title": "Closer Look at the J Balvin x Air Jordan 4 \"Lemonade\"",
    "source": "Hypebeast",
    "date": "2026-09-14",
@@ -82,7 +154,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 11,
    "title": "First Look at the Jordan Vail Lifestyle Sneaker",
    "source": "Hypebeast",
    "date": "2026-09-14",
@@ -96,7 +168,125 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 12,
+   "title": "Nike Air Bakin SP “OG” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-14",
+   "content": "Debuting in 1997, the Nike Air Bakin embodied the larger-than-life style of late-’90s basketball footwear, gaining added visibility on the… The post Nike Air Bakin SP “OG” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/imgi_1_snkrs-verified-september-2026-2-1-e1787148287656.jpeg",
+   "link": "https://www.nicekicks.com/nike-air-bakin-sp-og-iq5365-600/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Anthony Edwards x adidas Superstar II “Bliss Blue” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-14",
+   "content": "The Anthony Edwards x adidas Superstar II “Bliss Blue” is set to release on September 18, 2026, via adidas.com and… The post Anthony Edwards x adidas Superstar II “Bliss Blue” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_SUPERSTAR_II_SHOES_Blue_LA7828_15_hover_standard-1-e1789160676684.jpeg",
+   "link": "https://www.nicekicks.com/anthony-edwards-adidas-superstar-ii-bliss-blue-la7828/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "New Balance Made Nice \"Birkenstock\" Dad Clogs. Now, They're Back",
+   "source": "Highsnobiety",
+   "date": "2026-09-14",
+   "content": "New Balance brings back its Birkenstock-coded Rover clog in a new brown colorway for the Fall 2026 season.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-rover-clog-brown/",
+   "lang": "en",
+   "relatedBrands": [
+    "BIRKENSTOCK",
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "adidas’ Retro Running Sneaker Is Still Burning Hot",
+   "source": "Highsnobiety",
+   "date": "2026-09-14",
+   "content": "adidas' SL 72 PT sneaker lands in a \"Burnt Sienna\" colorway with hairy suede, resulting in a textural fall-worthy spin. The runner's still got it.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-sl-72-pt-brown-suede/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Yuto Horigome Made a New-Old Skate Banger Out of Nike’s Air Forces",
+   "source": "Highsnobiety",
+   "date": "2026-09-14",
+   "content": "Yuto Horigome's Nike SB Air Force 1 Low sneaker is finally here, bringing a seriously classic design to the skate park.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/yuto-horigome-nike-sb-air-force-1-low/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "A New York Label Made a Nike Tennis Sneaker as Chic as Its Clothes",
+   "source": "Highsnobiety",
+   "date": "2026-09-14",
+   "content": "Kallmeyer's first Nike sneaker is a minimalist suede Tennis Centre model featuring clean lines & luxurious details.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/kallmeyer-nike-tennis-centre/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Only Miu Miu Would Debut a New Balance Slipper at a Vinyl Club",
+   "source": "Highsnobiety",
+   "date": "2026-09-14",
+   "content": "Miu Miu's New Balance Ballerina Sneaker is a secret for record lovers only, having released as part of its Vinyl Club pop-up in Tokyo.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/miu-miu-new-balance-ballerina/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Nike's Getting Cozy Around This Campfire for Fall",
+   "source": "Highsnobiety",
+   "date": "2026-09-14",
+   "content": "Continuing to reinvent its classic low-top profile with warm seasonal palettes, the Swoosh presents the Nike Air Force 1 Low Campfire Orange.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-campfire-orange/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "Sole Food: Nike's Cactus Jack Collab Always Has Perfect Timing",
+   "source": "Highsnobiety",
+   "date": "2026-09-14",
+   "content": "Cactus Jack was Travis Scott's signature Nike shoes but now it's the Swoosh's do-anything, go-anywhere cool-shoe label, capable of even tennis collabs.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/cactus-jack-nike-collabs/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 21,
    "title": "率先預覽 Patta x Crocs Classic Clog 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-09-13",
@@ -109,7 +299,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 22,
    "title": "Victor Kan 率先預覽即將推出的 Timberland Euro Hiker GTX 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-09-13",
@@ -122,7 +312,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 23,
    "title": "Song for the Mute 與 adidas Originals 於 2026 秋冬重塑經典鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-09-13",
@@ -135,7 +325,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 24,
    "title": "Take a First Look at Patta and Crocs’ Classic Clog Collab",
    "source": "Hypebeast",
    "date": "2026-09-13",
@@ -149,7 +339,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 25,
    "title": "Victor Kan Offers a First Look at His Upcoming Timberland Euro Hiker GTX Collaboration",
    "source": "Hypebeast",
    "date": "2026-09-13",
@@ -163,7 +353,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 26,
    "title": "Song for the Mute and adidas Originals Revisit Heritage Icons for FW26",
    "source": "Hypebeast",
    "date": "2026-09-13",
@@ -176,7 +366,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 27,
    "title": "This Air Jordan 9 Returns for the Film’s 30th Anniversary",
    "source": "Nice Kicks",
    "date": "2026-09-13",
@@ -189,111 +379,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
-   "title": "Even With Cracked Leather, adidas’ Stan Smith Remains Timeless",
-   "source": "Highsnobiety",
-   "date": "2026-09-13",
-   "content": "adidas' famous Stan Smith sneaker is forever timeless, even with \"aged\" cracked leather uppers.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-stan-smith-white-orange/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 14,
-   "title": "Vans’ Harris Tweed Loafer Is Too Dapper for the Skate Park",
-   "source": "Highsnobiety",
-   "date": "2026-09-13",
-   "content": "Vans debuts a Harris Tweed Loafer 53 Shoe featuring jewels, safety pins, & loads of elderly swag. Here's everything on the release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-harris-tweed-loafer-53-shoe/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 15,
-   "title": "adidas’ Espresso-Flavored Sneaker Belongs in a Barista’s Rotation",
-   "source": "Highsnobiety",
-   "date": "2026-09-13",
-   "content": "Japan's emmi cooks up a coffee-like brown suede adidas Tokyo sneaker just in time for the fall season.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/emmi-adidas-tokyo-brown-sneakers/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 16,
-   "title": "Nike’s Swaggy Skate Forces Look Good Even on Gloomy Days",
-   "source": "Highsnobiety",
-   "date": "2026-09-13",
-   "content": "Nike SB's Force 58 \"Black/Light Iron Ore\" sneaker may be a gloomy spin but it looks good. Here's everything on the nice grey release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-sb-force-58-black-light-iron-ore/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "Nike’s Baddest Hiking Sneaker Is Here to Beautify the Trails",
-   "source": "Highsnobiety",
-   "date": "2026-09-13",
-   "content": "Nike's ACG Zegama Hike, its baddest trail runner, expands its collection with the release of a pretty \"Platinum Violet\" colorway.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-acg-zegama-hike-platinum-violet/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "Daewon's Latest adidas Is a Smooth Chocolate Affair",
-   "source": "Highsnobiety",
-   "date": "2026-09-13",
-   "content": "Continuing his long-standing partnership with the Three Stripes, Daewon Song puts his stamp on the adidas Originals x Daewon Glenburn.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-daewon-glenburn/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "Pharrell’s Latest adidas Is One Strange Looking Water Shoe",
-   "source": "Highsnobiety",
-   "date": "2026-09-13",
-   "content": "Pharrell Williams and adidas team up on the PW Water Moc, a futuristic take on the classic water shoe with a bold yellow, black, and silver colorway.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-pw-water-moc/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "adidas Made Slippers for Your Next Winter Hike",
-   "source": "Highsnobiety",
-   "date": "2026-09-13",
-   "content": "Engineered to tackle freezing conditions without sacrificing aesthetics, the outdoor division presents the adidas Terrex Winter Slip-On COLD.RDY Boots.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-terrex-winter-slip-on-cold-rdy-boots/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 21,
+   "id": 28,
    "title": "Nike Air Monarch 換上麖皮，推出兩款膠底節日配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-12",
@@ -306,7 +392,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 29,
    "title": "The Nike Air Monarch Trades Leather for Suede in Two Gum-Soled Holiday Colorways",
    "source": "Hypebeast",
    "date": "2026-09-12",
@@ -319,7 +405,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 30,
    "title": "Air Jordan 1 Low OG “Last Dance At The Garden” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-12",
@@ -332,7 +418,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 31,
    "title": "Where To Buy the Air Jordan 12 “Idols Become Rivals”",
    "source": "Nice Kicks",
    "date": "2026-09-12",
@@ -345,7 +431,20 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 32,
+   "title": "Disney Lightning McQueen x Crocs Classic Clog “Dinoco”",
+   "source": "Nice Kicks",
+   "date": "2026-09-12",
+   "content": "Interested fans and readers can expect the Disney Lightning McQueen x Crocs Classic Clog “Dinoco” to release on September 16,… The post Disney Lightning McQueen x Crocs Classic Clog “Dinoco” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/IMG_2591-e1787070715528.png",
+   "link": "https://www.nicekicks.com/disney-lightning-mcqueen-crocs-classic-clog-dinoco-213582-90h/",
+   "lang": "en",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 33,
    "title": "Merrell 與 YMC 再度合作推出 Moab 2 Slide",
    "source": "Hypebeast 中文",
    "date": "2026-09-11",
@@ -356,7 +455,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 26,
+   "id": 34,
    "title": "SUICOKE 推出 FW26 全新靴款及穆勒鞋",
    "source": "Hypebeast 中文",
    "date": "2026-09-11",
@@ -367,7 +466,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 27,
+   "id": 35,
    "title": "SUICOKE 與 Vibram Five Fingers 推出結合 Kohaze 扣具及 MEGAGRIP 鞋底的五趾麖皮鞋",
    "source": "Hypebeast 中文",
    "date": "2026-09-11",
@@ -378,20 +477,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 28,
-   "title": "Tyrrell Winston 與 adidas 推出足球鞋靈感 Climacool 4D",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-11",
-   "content": "摘要 Tyrell Winston 攜手 adidas 推出一雙以足球為靈感的 Climacool 4D 新作。鞋款以骨白色 3D 列印網格結構為基礎，點綴深紅細節，並搭配摺疊鞋舌設計。這次發售同時成為 Winston 全新 The Athlete 系列的核心，聚焦成長歷程與運動員的堅韌精神。 名稱：Tyrrell Winston x adidas Climacool 4D配色：Collegiate Red／Off White-Matte Gold產品編號：KJ7669建議零售價：180 美元發售日期：現已發售購買地點：adidasadidas 與當代藝術家 Tyrrell Winston 正式推出 Tyrrell Winston x adidas Climacool 4D。這個聯乘鞋履企劃以經典足球為視角，重新演繹這雙 3D 列印跑鞋；同時亦是 Winston「The Athlete」系列的核心作品。繼 2026 年 3 月推出 Lightblaze POD 後，Winston 為這雙機能鞋款作出結構上的改造，加入取材自經典足球靴的可翻折鞋舌。鞋面主體與標誌性的 3D 列印格狀中底均採用骨白色調，為 Three Stripes 標誌、鞋帶及鞋舌上的鮮明 Collegiate Red 點綴奠定中性色基調。此設計延續 Winston 一貫連繫運動文化與當代藝術的創作實踐。概念上，「The Athlete」系列探討運動不光鮮的一面，聚焦個人成長、克服挫折，以及堅持下去所需的紀律。Tyrrell Winston x adidas Climacool 4D 已於 2026 年 9 月 9 日正式發售，定價為 180 美元，可於 adidas 及指定零售商購買。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Ftyrrell-winston-adidas-cilmacool-4d-collegiate-red-KJ7669-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/tyrrell-winston-adidas-cilmacool-4d-collegiate-red-kj7669-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 29,
+   "id": 36,
    "title": "Merrell and YMC Reunite for the Moab 2 Slide",
    "source": "Hypebeast",
    "date": "2026-09-11",
@@ -402,7 +488,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 30,
+   "id": 37,
    "title": "Suicoke Readies More Boots and Mules for FW26",
    "source": "Hypebeast",
    "date": "2026-09-11",
@@ -415,44 +501,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
-   "title": "Aminé and New Balance Unveil the 992 \"Outdoor School\"",
-   "source": "Hypebeast",
-   "date": "2026-09-11",
-   "content": "Summary Aminé has partnered with New Balance on the 992 silhouette for his inaugural MADE in USA collaborationThe design draws inspiration from the rapper's sixth-grade trip to the MESD Outdoor School at Milk CreekEach pair includes a customized wooden hangtag decorative charms and tackle box packaging New Balance and Oregon rapper Aminé have officially announced the Aminé x New Balance 992 \"Outdoor School\". First reported by Mario Briguglio, the collaborative project marks the artist’s debut MADE in USA release, drawing direct inspiration from his nostalgic experience attending the MESD Outdoor School program as a sixth grader in Oregon.Constructed in rich shades of reddish brown, the upper combines breathable mesh, premium suede, and patent leather overlays. Custom branding appears throughout the silhouette, featuring Club Banana logos on the tongues, heel branding, and specialized gra",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F11%2Famine-new-balance-992-outdoor-school-first-look-revealed-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/amine-new-balance-992-outdoor-school-first-look-revealed-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "SUICOKE and Vibram Pair a \"Kohaze\" Closure With MEGAGRIP on a Five-Toe Suede Shoe",
-   "source": "Hypebeast",
-   "date": "2026-09-11",
-   "content": "Name: SUICOKE x Vibram Five Fingers Nin-Low SuedeColorway: Gray, BlackSKU: TBCMSRP: ¥40,700 JPY (approx. $265 USD)Release Date: Available nowWhere to Buy: SUICOKESUICOKE and Vibram have collaborated on a unisex take on the Vibram Five Fingers, built around a cow suede upper and a traditional Japanese fastening system. The shoe keeps the articulated five-toe construction that separates each toe into its own compartment, letting the foot splay naturally rather than compressing it inside a single toe box.The most notable change happens at the collar. Instead of a standard closure, the pair have fitted kohaze clasps, the hooked metal fasteners used on jikatabi work footwear, which hook into place along the opening. It is a functional borrow rather than a decorative one, and it pulls the silhouette toward a distinctly Japanese register.The upper itself is cow suede, and the entire shoe is fin",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F11%2FSUICOKE-Vibram-Five-Fingers-Nin-Low-Suede-gray-black-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/suicoke-vibram-five-fingers-nin-low-suede-gray-black-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 33,
-   "title": "Tyrell Winston and adidas Unveil the Soccer-Inspired Climacool 4D",
-   "source": "Hypebeast",
-   "date": "2026-09-11",
-   "content": "Summary Tyrell Winston has partnered with adidas to release a soccer-inspired iteration of the Climacool 4DThe design features a bone-toned 3D-printed lattice structure accented by deep red details and a folded tongueThe release anchors Winston's new The Athlete collection exploring growth and athletic resilience Name: Tyrrell Winston x adidas Climacool 4DColorway: Collegiate Red/Off White-Matte GoldSKU: KJ7669MSRP: $180 USDRelease Date: Available NowWhere to Buy: adidasadidas and contemporary artist Tyrrell Winston have officially released the Tyrrell Winston x adidas Climacool 4D. The collaborative footwear project reinterprets the 3D-printed running model through a heritage football lens, serving as a core component of Winston's \"The Athlete\" collection.Following his March 2026 Lightblaze POD release, Winston gives the technical silhouette a structural overhaul by adding a fold-over t",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F09%2Ftyrrell-winston-adidas-cilmacool-4d-collegiate-red-KJ7669-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/tyrrell-winston-adidas-cilmacool-4d-collegiate-red-kj7669-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 34,
+   "id": 38,
    "title": "MOWALOLA x Air Jordan 14 Mule SP “Metallic Silver” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -465,20 +514,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
-   "title": "Anthony Edwards x adidas Superstar II “Bliss Blue” September 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-11",
-   "content": "The Anthony Edwards x adidas Superstar II “Bliss Blue” is set to release on September 18, 2026, via adidas.com and… The post Anthony Edwards x adidas Superstar II “Bliss Blue” September 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_SUPERSTAR_II_SHOES_Blue_LA7828_15_hover_standard-1-e1789160676684.jpeg",
-   "link": "https://www.nicekicks.com/anthony-edwards-adidas-superstar-ii-bliss-blue-la7828/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 36,
+   "id": 39,
    "title": "adidas Anthony Edwards 3 “Cold Blooded” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -491,7 +527,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 40,
    "title": "Nike G.T. Future “Triple Black”",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -504,7 +540,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 41,
    "title": "Converse SHAI 001 Shroud “Shock” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -514,56 +550,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "CONVERSE"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "Converse SHAI 001 Shroud “Spark” September 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-11",
-   "content": "The Converse SHAI 001 Shroud “Spark” is releasing on September 24, 2026, via Converse, SNKRS, and select retailers for $140. Check out the… The post Converse SHAI 001 Shroud “Spark” September 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/a23976c-084-5-e1789157190615.jpg",
-   "link": "https://www.nicekicks.com/converse-shai-001-shroud-spark-a23976c/",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "The JAIDE x Air Jordan 11 “Fiberglass” Is Releasing Exclusively Through The Whitaker Group",
-   "source": "Nice Kicks",
-   "date": "2026-09-11",
-   "content": "JAIDE introduces its world through “Feelin’ It,” a campaign accompanying the arrival of its Air Jordan 11 collaboration. Set in… The post The JAIDE x Air Jordan 11 “Fiberglass” Is Releasing Exclusively Through The Whitaker Group appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_2_791586580_18119062397512701_3811132079199962764_n-1-scaled-e1788791889983.jpeg",
-   "link": "https://www.nicekicks.com/jaide-air-jordan-11-low-wmns-fiberglass-iw1882-300/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "Tomorrowland 首款 WR1 球鞋，將音樂節精神帶進日常",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-10",
-   "content": "Tomorrowland 正式發布首雙球鞋 WR1，讓遍布全球的社群成員可將一份音樂節記憑帶進日常生活。鞋款歷時逾一年開發，沒有一般音樂節周邊的感覺，反而更像你在平常星期二會隨手穿上的一雙鞋；柔和自然的線條，以及取法大自然形態的鞋底，正是設計核心。WR1 的標誌性設計藏在足下。雕塑感鞋底取材自蘑菇傘蓋底部細密、放射狀的菌褶，將自然紋理化為層層彎曲延展的結構，而非平坦鋪展。這份有機語彙亦延伸至整個鞋型：流動線條與疊加質感，令球鞋呈現柔和的雕塑感。設計沒有追逐季節潮流，而是採用經典輪廓，Tomorrowland 計劃年復一年持續推出。儘管細節豐富，這雙鞋本為日常而設，並非只供收藏的音樂節紀念品。無論日間在城市散步，還是深夜外出，都能自然配搭，亦不會張揚自己的出處。Tomorrowland 名稱低調融入設計之中，讓鞋型而非誇張標誌來傳達其身分。不過，WR1 的核心始終是穿上它的人。Tomorrowland 向來不止是一個音樂節，更是一個社群；數百萬擁躉在最後一組演出結束後，仍會帶著那份關於律動、連結與自我表達的共同精神。這雙鞋正是為這個社群而設，無論某一年能否前往比利時，也能將歸屬感留在身邊。鞋款亦提供多個版本，讓每個人按自己的節奏找到合適選擇，而非遵循單一既定風格。這正是多元選擇的意義：WR1 旨在融入每個人的生活，並與社群早已納入日常、作為彼此連結的個人小小提醒的香水、家居用品及設計作品並列。這雙球鞋為一段循序漸進、深思熟慮的發展畫上階段性句點。15 多年前，Tomorrowland 從印有標誌的 T 恤和帽款起步，如今已發展成涵蓋時裝、配飾、香水、健康生活、家居用品與設計的完整生活方式業務，過往合作夥伴包括 Grown Alchemist、Baobab Collection、Serax、Sarda 和 LOOP。由品牌內部團隊開發的 WR1，為 Tomorrowland 開啟全新的鞋履類別。它於 Tomorrowland Belgium 2026 首度亮相，音樂節參加者率先在特設店舖中認識並訂購這雙鞋；店舖以雕塑形式延伸鞋款設計。同時，由 Lost Frequencie",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Ftomorrowlands-wr1-sneaker-is-built-to-live-beyond-the-festival-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/tomorrowlands-wr1-sneaker-is-built-to-live-beyond-the-festival",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 42,
-   "title": "Rick Owens and Dr. Martens Link Up Again for a Brutalist Quad Sole Collection",
-   "source": "Hypebeast",
-   "date": "2026-09-10",
-   "content": "Summary Rick Owens and Dr. Martens reunite for the Fall/Winter 2026 Quad Sole collection.The Pull-On Boot, the Steel Toe Boot, and Megalace Mule continue the collaboration’s tradition of blending Rick Owens’ brutalist high-fashion aesthetic with Dr. Martens’ rugged, durable footwear.The collection launches in-store on Friday, September 18, and online on Saturday, September 19. This Fall/Winter season, Rick Owens and Dr. Martens reunite for their fifth collaboration, the Quad Sole collection. Since 2021, the pairing has reimagined Dr. Martens' utilitarian silhouettes through Rick Owens' brutalist lens, a fitting tribute to his youth spent wearing the brand, and to the 1990s, when his meteoric rise coincided with a grunge renaissance that defined Dr. Martens through deconstructed, boundary-defying style.The collection features the Pull-On Boot; a towering, slip-on silhouette built on the s",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F10%2FIMG_5562-2.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/rick-owens-and-dr-martens-link-up-again-for-a-brutalist-quad-sole-collection",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
    ]
   }
  ]
