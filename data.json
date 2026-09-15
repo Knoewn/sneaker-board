@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-15 08:07",
+ "updatedAt": "2026-09-15 16:06",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,7 +16,9 @@
  ],
  "brands": [
   "ADIDAS",
+  "ASICS",
   "BIRKENSTOCK",
+  "CLARKS",
   "CONVERSE",
   "CROCS",
   "JORDAN",
@@ -29,6 +31,113 @@
  "news": [
   {
    "id": 1,
+   "title": "VILLAGE PM 發表 2PM 鞋型，並於 2026 秋冬進軍美國市場",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-15",
+   "content": "摘要 VILLAGE PM 發布全新 2PM 鞋型，同步帶來多款全新 2026 秋冬配色。這個源自 Paris 的滑板品牌現正式進軍美國市場，推出專屬美國官方網站，並登陸多家頂級零售合作店鋪。由 Basile Lapray 與 Bram De Cleen 創立的品牌，把高性能攀岩鞋機能與前衛滑板設計融合在一起。 VILLAGE PM 正式宣布推出 2PM 鞋型，並將於 2026 秋冬首度進軍美國市場。品牌由 Basile Lapray 與 Bram De Cleen 於 2025 年 3 月在巴黎創立；憑藉旗艦鞋款 1PM 突圍而出後，這個風格前衛的滑板鞋履品牌正進一步擴展全球版圖。全新 2PM 鞋款延續品牌的核心設計理念，兼具快速磨合的舒適感與高度耐磨性。鞋身貼近地面，輪廓亦更具結構感，同時保留 VILLAGE PM 標誌性的黏性橡膠包覆，以及取材自技術型攀岩鞋的精準不對稱貼合設計。除了 2PM 鞋型外，2026 秋冬系列亦為 1PM 推出「Lime」配色、為 1PM MID 推出「Green」配色，並為 1.30PM 帶來「Olive」配色，同時補貨常規的「Chocolate」及「Black」版本。配合新系列登場，VILLAGE PM 終於進軍美國市場。當地將透過 MAXFIELD、UNION、Dover Street Market、NOTRE、FTC 及 LABOR 等指標性時尚與滑板零售商發售，品牌亦設立專屬美國網店，提供美國境內配送服務。VILLAGE PM 2026 秋冬系列及 2PM 鞋型，將首次透過指定美國零售商、品牌網店及專屬美國網站發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fvillage-pm-debuts-the-2pm-silhouette-marking-expansion-into-us-fall-winter-2026-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/village-pm-debuts-the-2pm-silhouette-marking-expansion-into-us-fall-winter-2026",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 2,
+   "title": "Nike Air Force 1 Low「Leopard」採用滿版印花帆布鞋面",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-15",
+   "content": "摘要 Nike 將於 2026 年秋季推出 Air Force 1 Low「Leopard」配色，採用印花帆布鞋面。設計以「Bucktan」與「Desert Ochre」為基調，點綴黑色豹紋斑點及黃色車線。黑色細節則覆蓋 Swooshes、鞋舌、後跟拉片以及同色橡膠鞋底組件。 名稱：Nike Air Force 1 Low「Leopard」配色：多色／Bucktan－Desert Ochre－黑色貨號：JA5714-900建議零售價：125 美元發售日期：2026 年秋季發售地點：NikeNike 正式將 Air Force 1 Low「Leopard」納入 2026 年秋季鞋履系列。這雙經典低筒鞋換上大膽圖案，呈現更新後的設計。鞋款採用 Bucktan、Desert Ochre 與黑色配色，鞋面大部分以印花帆布製成，捨棄傳統麖皮或馬毛材質，改用富質感的紡織面料作基底。暖啡色鞋面覆以黑色斑點，延伸至鞋頭、鞋身側面與後跟貼片；鞋面拼接縫線則以低調黃色車線點綴。黑色細節與搶眼圖案形成對比，Swoosh、後跟拉片、鞋舌、鞋帶及內襯均採用黑色。深色調亦延續至中底與外底，以全黑鞋底襯托上方的印花帆布結構。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-air-force-1-low-leopard-JA5714-900-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-air-force-1-low-leopard-ja5714-900-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Air Jordan 1 Low「Halloween」採用夜光鞋底設計",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-15",
+   "content": "摘要 Jordan Brand 正式把 Air Jordan 1 Low Halloween 納入其 2026 年秋季鞋款陣容。設計以黑色磨砂皮與皮革拼接鞋身為基調，配上 Scream Green 毛邊細節及 XXIII 車線點綴。夜光大底為低調配色增添亮點，同時不改鞋款原有的整體風格。 名稱：Air Jordan 1 Low「Halloween」配色：Black／Scream Green－Dark Smoke Grey貨號：IQ5494-001建議零售價：125 美元發售日期：2026 年秋季購買渠道：NikeJordan Brand 正式將 Air Jordan 1 Low「Halloween」納入 2026 年秋季即將推出的陣容。這雙季節限定鞋款亦屬於規模更大的節日主題系列，當中包括 Air Jordan 5、Book 2、Ja 4 及 Air Force 1 的主題版本。鞋款採用 Black、Scream Green 及 Anthracite 配色，鞋面以黑色磨砂皮革與皮革打造，鞋面覆片下方襯以柔軟布料。鮮亮的 Scream Green 勾勒出面板的原始切邊，並點綴鞋舌上的 Jumpman 標誌，以及鞋頭附近的「XXIII」刺繡。為呼應深色鞋面，鞋款搭載夜光外底，在維持俐落的黑綠色塊配置之餘，低調帶出主題氣息。整體設計不採用明顯的季節圖案，而是以原始切邊細節及含蓄的夜光元素作為重點。Air Jordan 1 Low「Halloween」預定於 2026 年秋季發售，售價為 125 美元。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fair-jordan-1-low-halloween-IQ5494-001-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/air-jordan-1-low-halloween-iq5494-001-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "意外成為潮流焦點：1950 年代足球鞋 adidas Samba 如何化身時尚界最受歡迎的畫布",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-15",
+   "content": "adidas Samba 堪稱無心插柳、卻成功蛻變的最佳範例。1950 年，adidas 的 Adi Dassler 為德國足球員而設計這雙鞋，以應付堅硬結冰的球場並提供抓地力；如今，它早已超越工具性的本色，成為 2020 年代最具代表性的時尚球鞋。Samba 自推出以來已售出逾 3,500 萬雙，從耐用的運動裝備走上時裝天橋，印證了次文化的自然採納與出色聯乘設計所帶來的力量。塑造現象級鞋款的關鍵里程碑Samba 從運動裝備成為隨處可見的街頭造型單品，並非由一場宣傳活動推動，而是在不同文化年代中逐漸獲得自然採納。它於 1950 年代面世時是一件純粹講求功能的裝備：Adi Dassler 採用袋鼠皮革，並配上創新的生膠鞋底，鞋底設有如吸盤般的凸粒，讓德國足球員在結冰的球場上站穩腳步。隨着足球運動演變，這雙鞋亦與時並進。到了 1970 年代，Samba 為主導室內足球及五人足球熱潮而重新推出，加入更強的多向抓地力、三區側面結構，以及經加固、可承受猛烈控球動作的麂皮 T 字鞋頭。Samba 從球場躍進街頭的轉折點，於 1980 年代在英國逐漸成形。被稱為 casuals 的死忠足球擁躉，將它納入非正式制服的必備單品；配襯名牌運動套裝、Stone Island 外套與 Fred Perry Polo 恤，這雙球鞋在球場看台上成為一種身分象徵，串連起運動服與次文化認同。1990 年代，滑板手亦自然被其出色的板感、低筒輪廓與耐穿皮革結構吸引。這股由草根社群帶動的滑板風潮影響深遠，最終促使 adidas 開發 Busenitz 和 Samba ADV 等專為滑板而設的鞋款。真正的高時尚復興則在 2020 年代來臨。在懷舊浪潮與「blokecore」美學推動下，Samba 一舉打入奢侈時尚圈。A$AP Rocky、Frank Ocean、Bella Hadid 與 Kendall Jenner 都曾穿上它，令這雙鞋從小眾復古之選，順利轉變為社交媒體演算法與全球時裝天橋上最具主導地位的鞋型。奠定其經典地位的 5 大聯乘經典白黑 OG 配色至今仍近乎完美無須改動，而一系列策略性合作則催化了",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fpitch-to-pavement-everything-you-need-to-know-about-the-adidas-samba-pharrell-williams-humanrace-sporty-rich-palace-wales-bonner-kith-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/how-adidas-samba-became-accidental-it-shoe-pharrell-williams-humanrace-sporty-rich-palace-wales-bonner-kith",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS",
+    "CLARKS"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Nike Air Force 1 Low \"Leopard\" Features All-Over Printed Canvas Upper",
+   "source": "Hypebeast",
+   "date": "2026-09-15",
+   "content": "Summary Nike is releasing an Air Force 1 Low Leopard colorway featuring a printed canvas upper for Fall 2026The design incorporates a Bucktan and Desert Ochre base accented by black spots and yellow stitchingBlack detailing extends across the Swooshes tongue heel tabs and matching rubber sole unit Name: Nike Air Force 1 Low \"Leopard\"Colorway: Multi-Color/Bucktan-Desert Ochre-BlackSKU: JA5714-900MSRP: $125 USDRelease Date: Fall 2026Where to Buy: NikeNike is officially introducing the Air Force 1 Low \"Leopard\" as part of its Fall 2026 footwear lineup. The updated silhouette brings a bold pattern treatment to the classic low-top model.Rendered in a Bucktan, Desert Ochre, and Black color scheme, the design utilizes printed canvas across most of the upper, opting for a textured textile base over traditional suede or pony hair materials. A warm brown foundation is covered with black spots span",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F14%2Fnike-air-force-1-low-leopard-JA5714-900-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-air-force-1-low-leopard-ja5714-900-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Air Jordan 1 Low \"Halloween\" Gets a Glow-in-the-Dark Finish",
+   "source": "Hypebeast",
+   "date": "2026-09-15",
+   "content": "Summary Jordan Brand has added the Air Jordan 1 Low Halloween to its Fall 2026 seasonal footwear lineupThe design pairs black nubuck and leather paneling with Scream Green raw edges and XXIII stitchingA glow-in-the-dark outsole highlights the low-key color scheme without altering its core aesthetic Name: Air Jordan 1 Low \"Halloween\"Colorway: Black/Scream Green-Dark Smoke GreySKU: IQ5494-001MSRP: $125 USDRelease Date: Fall 2026Where to Buy: NikeJordan Brand is officially releasing the Air Jordan 1 Low \"Halloween\" as part of its upcoming lineup for Fall 2026. The seasonal pair joins a wider holiday capsule that includes themed iterations of the Air Jordan 5, Book 2, Ja 4, and Air Force 1.Rendered in a Black, Scream Green, and Anthracite palette, the shoe features a black nubuck and leather upper accented by soft underlying fabrics beneath the overlays. Vibrant Scream Green hits outline the",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F14%2Fair-jordan-1-low-halloween-IQ5494-001-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/air-jordan-1-low-halloween-iq5494-001-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "The Accidental It-Shoe: How the adidas Samba, a 1950s Football Boot Became Fashion's Favorite Canvas",
+   "source": "Hypebeast",
+   "date": "2026-09-15",
+   "content": "The adidas Samba is a masterclass in unintentional reinvention. Originally engineered in 1950 by Adi Dassler at adidas to provide traction for German football players navigating rock-hard, frozen pitches, the silhouette has transcended its utilitarian roots to become the defining fashion sneaker of the 2020s. Selling over 35 million pairs since its inception, the Samba’s journey from a rugged athletic tool to a runway staple is a testament to the power of subcultural adoption and perfectly executed collaborative design.The Milestones That Shaped a PhenomenonThe trajectory of the Samba from sports gear to a ubiquitous street-style staple was driven by organic adoption across distinct cultural eras rather than a single marketing campaign. It began in the 1950s as a purely functional piece of equipment, engineered by Adi Dassler with kangaroo leather and an innovative gum sole equipped with",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F14%2Fpitch-to-pavement-everything-you-need-to-know-about-the-adidas-samba-pharrell-williams-humanrace-sporty-rich-palace-wales-bonner-kith-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/how-adidas-samba-became-accidental-it-shoe-pharrell-williams-humanrace-sporty-rich-palace-wales-bonner-kith",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "CLARKS",
+    "UGG"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Kids Get the Best Shoes. This Designer (and ASICS) \"Sculpted\" Them for Adults (EXCLUSIVE)",
+   "source": "Highsnobiety",
+   "date": "2026-09-15",
+   "content": "Camiel Fortgens turned ASICS dad shoes into \"luxurious\" grandad shoes, elevating running sneakers with handcraft & leather, he explained in interview.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/asics-camiel-fortgens-interview/",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 9,
    "title": "Flower Mountain 攜手 Staple 推出 FW26 聯乘 Yamano 3",
    "source": "Hypebeast 中文",
    "date": "2026-09-14",
@@ -39,7 +148,7 @@
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 10,
    "title": "Nike Air Max Goadome「Black/Volt」以一枚 ACG 徽章打破全黑設計",
    "source": "Hypebeast 中文",
    "date": "2026-09-14",
@@ -52,7 +161,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 11,
    "title": "Zheng Qinwen Nike Zoom Vapor 12 PE 以三重紅與金色紀錄復出賽季",
    "source": "Hypebeast 中文",
    "date": "2026-09-14",
@@ -65,7 +174,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 12,
    "title": "J Balvin x Air Jordan 4「Lemonade」細節近賞",
    "source": "Hypebeast 中文",
    "date": "2026-09-14",
@@ -79,7 +188,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 13,
    "title": "Jordan Vail 生活休閒鞋率先曝光",
    "source": "Hypebeast 中文",
    "date": "2026-09-14",
@@ -92,7 +201,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 14,
    "title": "Sound & Sole: Lost Frequencies, Miss Monique, and NOVAH Lace Up the Tomorrowland WR1",
    "source": "Hypebeast",
    "date": "2026-09-14",
@@ -103,7 +212,7 @@
    "relatedBrands": []
   },
   {
-   "id": 7,
+   "id": 15,
    "title": "Flower Mountain and Staple Unveil Collaborative Yamano 3 for FW26",
    "source": "Hypebeast",
    "date": "2026-09-14",
@@ -114,7 +223,7 @@
    "relatedBrands": []
   },
   {
-   "id": 8,
+   "id": 16,
    "title": "The Nike Air Max Goadome \"Black/Volt\" Blacks Out Everything but a Single ACG Badge",
    "source": "Hypebeast",
    "date": "2026-09-14",
@@ -127,7 +236,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 17,
    "title": "Zheng Qinwen’s Nike Zoom Vapor 12 PE Wraps a Comeback Season in Triple Red and Gold",
    "source": "Hypebeast",
    "date": "2026-09-14",
@@ -140,7 +249,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 18,
    "title": "Closer Look at the J Balvin x Air Jordan 4 \"Lemonade\"",
    "source": "Hypebeast",
    "date": "2026-09-14",
@@ -154,7 +263,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 19,
    "title": "First Look at the Jordan Vail Lifestyle Sneaker",
    "source": "Hypebeast",
    "date": "2026-09-14",
@@ -168,7 +277,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 20,
    "title": "Nike Air Bakin SP “OG” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-14",
@@ -181,7 +290,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 21,
    "title": "Anthony Edwards x adidas Superstar II “Bliss Blue” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-14",
@@ -194,7 +303,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 22,
    "title": "New Balance Made Nice \"Birkenstock\" Dad Clogs. Now, They're Back",
    "source": "Highsnobiety",
    "date": "2026-09-14",
@@ -208,7 +317,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 23,
    "title": "adidas’ Retro Running Sneaker Is Still Burning Hot",
    "source": "Highsnobiety",
    "date": "2026-09-14",
@@ -221,7 +330,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 24,
    "title": "Yuto Horigome Made a New-Old Skate Banger Out of Nike’s Air Forces",
    "source": "Highsnobiety",
    "date": "2026-09-14",
@@ -234,7 +343,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 25,
    "title": "A New York Label Made a Nike Tennis Sneaker as Chic as Its Clothes",
    "source": "Highsnobiety",
    "date": "2026-09-14",
@@ -247,7 +356,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 26,
    "title": "Only Miu Miu Would Debut a New Balance Slipper at a Vinyl Club",
    "source": "Highsnobiety",
    "date": "2026-09-14",
@@ -260,7 +369,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 27,
    "title": "Nike's Getting Cozy Around This Campfire for Fall",
    "source": "Highsnobiety",
    "date": "2026-09-14",
@@ -273,7 +382,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 28,
    "title": "Sole Food: Nike's Cactus Jack Collab Always Has Perfect Timing",
    "source": "Highsnobiety",
    "date": "2026-09-14",
@@ -286,7 +395,7 @@
    ]
   },
   {
-   "id": 21,
+   "id": 29,
    "title": "率先預覽 Patta x Crocs Classic Clog 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-09-13",
@@ -299,7 +408,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 30,
    "title": "Victor Kan 率先預覽即將推出的 Timberland Euro Hiker GTX 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-09-13",
@@ -312,7 +421,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 31,
    "title": "Song for the Mute 與 adidas Originals 於 2026 秋冬重塑經典鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-09-13",
@@ -325,7 +434,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 32,
    "title": "Take a First Look at Patta and Crocs’ Classic Clog Collab",
    "source": "Hypebeast",
    "date": "2026-09-13",
@@ -339,7 +448,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 33,
    "title": "Victor Kan Offers a First Look at His Upcoming Timberland Euro Hiker GTX Collaboration",
    "source": "Hypebeast",
    "date": "2026-09-13",
@@ -353,7 +462,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 34,
    "title": "Song for the Mute and adidas Originals Revisit Heritage Icons for FW26",
    "source": "Hypebeast",
    "date": "2026-09-13",
@@ -366,7 +475,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 35,
    "title": "This Air Jordan 9 Returns for the Film’s 30th Anniversary",
    "source": "Nice Kicks",
    "date": "2026-09-13",
@@ -379,33 +488,7 @@
    ]
   },
   {
-   "id": 28,
-   "title": "Nike Air Monarch 換上麖皮，推出兩款膠底節日配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-12",
-   "content": "名稱： Nike Air Monarch Suede Pack配色： Cacao Wow/Gum Medium Brown、Black/Gum Medium BrownSKU： IB2281-200、IB2281-001建議零售價： 100 美元發售日期： 2026 年節日季Nike 將於 2026 年節日季為 Air Monarch 換上全新材質，推出一組兩雙裝鞋款，以麖皮取代原本的皮革鞋面。套裝包括全啡色調的「Cacao Wow」及「Black」版本，兩者均採用膠色外底，取代此鞋款較常見的白色鞋底結構。兩款鞋的鞋面大部分均以麖皮覆蓋，帶來的視覺改變勝過重新編排任何鞋面裁片。皮革為鞋款帶來平滑而一致的光澤；麖皮絨面則會吸收光線，柔化覆面層次，令這雙本為機能而設的運動鞋，呈現更接近季節性靴款的質感。兩款鞋對色彩的處理各有不同。「Cacao Wow」由鞋面至中底貫徹啡色調，整雙鞋維持統一色調，直至下方的膠色鞋底才帶來變化。「Black」版本則保留深色鞋面與中底，讓 Gum Medium Brown 外底打破大面積深色，其對比亦較另一款更為鮮明。這組鞋款未有改動鞋型，Air Monarch 厚實、多層次的輪廓如實保留。今次發售延續這款鞋一向的比例，只透過材質帶出分別。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FNike-Air-Monarch-Suede-Pack-IB2281-200-IB2281-001-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-air-monarch-suede-pack-ib2281-200-ib2281-001-official-images",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "The Nike Air Monarch Trades Leather for Suede in Two Gum-Soled Holiday Colorways",
-   "source": "Hypebeast",
-   "date": "2026-09-12",
-   "content": "Name: Nike Air Monarch Suede PackColorway: Cacao Wow/Gum Medium Brown, Black/Gum Medium BrownSKU: IB2281-200, IB2281-001MSRP: $100 USDRelease Date: Holiday 2026Nike is giving the Air Monarch a material rework for Holiday 2026, rolling out a two-pair pack that moves the trainer from leather onto suede. The pack pairs a tonal brown “Cacao Wow” build with a “Black” version, and both sit on gum outsoles rather than the model's more familiar white tooling.Suede covers the majority of both uppers, which changes how the Monarch reads more than any panel reshuffle would. Where leather gives the shoe its slick, uniform sheen, the nap here absorbs light and softens the overlays, pushing a trainer built for function toward something closer to a seasonal boot finish.Colour is handled differently across the two. The Cacao Wow pair runs brown from the upper straight through the midsole, so the whole s",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F11%2FNike-Air-Monarch-Suede-Pack-IB2281-200-IB2281-001-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-air-monarch-suede-pack-ib2281-200-ib2281-001-official-images",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 30,
+   "id": 36,
    "title": "Air Jordan 1 Low OG “Last Dance At The Garden” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-12",
@@ -418,7 +501,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 37,
    "title": "Where To Buy the Air Jordan 12 “Idols Become Rivals”",
    "source": "Nice Kicks",
    "date": "2026-09-12",
@@ -431,7 +514,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 38,
    "title": "Disney Lightning McQueen x Crocs Classic Clog “Dinoco”",
    "source": "Nice Kicks",
    "date": "2026-09-12",
@@ -444,64 +527,7 @@
    ]
   },
   {
-   "id": 33,
-   "title": "Merrell 與 YMC 再度合作推出 Moab 2 Slide",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-11",
-   "content": "名稱：YMC x Merrell Moab 2 Slide配色：Dark Walnut、Black產品編號：待定建議零售價：150 美元發售日期：現已發售發售地點：YMCMerrell 再度與 YMC（You Must Create）攜手合作。今次雙方推出 Moab 2 Slide，備有 Dark Walnut 及 Black 兩種配色。鞋面採用觸感豐富的高級毛面麂皮，呈現柔軟而自然的質感。為應對不同環境並提升耐用度，鞋頭前方包覆黑色橡膠保護片；配以光滑皮革鞋床面層，帶來優質的足底觸感。鞋款後跟搭載 Merrell Air Cushion 氣墊，能吸收衝擊並增添穩定性；而 Vibram Ecostep Recycle 外底則由 30% 再生橡膠製成，無論乾濕地面均能提供可靠的全地形抓地力。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fftymc-merrell-moab-2-slide-dark-walnut-black-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/ymc-merrell-moab-2-slide-dark-walnut-black-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 34,
-   "title": "SUICOKE 推出 FW26 全新靴款及穆勒鞋",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-11",
-   "content": "名稱：SUICOKE FW26 靴款及穆勒鞋建議零售價：36,300 至 39,600 日圓（約 236 至 257 美元）發售日期：現已發售發售地點：SUICOKESUICOKE FW26 系列重點帶來一系列結實耐用的靴款與舒適穆勒鞋，兼顧實用結構與日常穿著的舒適感。陣容包括 STRIKE 及 BEETLE-LO 靴款，兩者均推出黑色版本，配備防水皮革鞋面、Suicoke SHERPA 內裡及 SOFTSTEP 緩震鞋墊。每雙靴均搭載 Vibram MEGAGRIP 鞋底，無論濕滑或乾燥地面均能提供可靠抓地力。這些鞋款著重耐用性與保護性能，同時保留俐落簡約的輪廓，適合城市及戶外穿著。與靴款相襯的還有兩款穆勒鞋：黑色 FL-MOC 及深灰褐色 POTON。FL-MOC 採用牛麂皮鞋面及 FLEXSTEP LEATHER 鞋底，兼具靈活度與一套即穿的便利，適合日常使用。POTON 則加入羊毛皮內裡增添暖意，搭配麂皮鞋面及同款靈活鞋底，呈現同色調、以日常生活為本的風格。整個 FW26 系列展現 SUICOKE 善於融合高性能物料與低調設計，帶來可由戶外測試自然過渡至日常穿著的百搭鞋履選擇。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fsuicoke-fw26-boots-mules-vibram-beetle-lo-strike-fl-moc-poton-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/suicoke-fw26-boots-mules-vibram-beetle-lo-strike-fl-moc-poton-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 35,
-   "title": "SUICOKE 與 Vibram Five Fingers 推出結合 Kohaze 扣具及 MEGAGRIP 鞋底的五趾麖皮鞋",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-11",
-   "content": "名稱：SUICOKE x Vibram Five Fingers Nin-Low Suede配色：灰色、黑色產品編號：待定建議零售價：40,700 日圓（約 265 美元）發售日期：現已發售發售渠道：SUICOKESUICOKE 與 Vibram 攜手推出中性版本的 Vibram Five Fingers，以牛麖皮鞋面結合日本傳統扣合系統製成。鞋款保留五趾各自獨立分隔的靈活結構，讓腳趾自然伸展，而非被擠在同一個鞋頭空間內。最大改動見於鞋領位置。鞋款未有採用標準扣合設計，改配地下足袋工鞋常見的 Kohaze 扣具：這種帶鈎的金屬扣會沿鞋口扣緊。此舉並非純粹裝飾，而是著重實用功能，亦令鞋型呈現鮮明的日式氣息。鞋面採用牛麖皮，全鞋則以單一灰色完成。單色處理將焦點放在質感之上：麖皮絨面與周邊較硬的表面呈現不同觀感，因此層次來自各種材質捕捉光線的方式，而非拼接色塊的對比。鞋底採用專為濕滑表面提供抓地力而研發的 Vibram MEGAGRIP 橡膠配方。它與赤足鞋式結構相當契合：薄而靈活的設計能將地面觸感直接傳至雙腳，橡膠鞋底則可應對濕滑岩石及濕瀝青路面。最終成就一雙兼顧城市日常穿著與遠足需要的鞋款，而非只為其中一種用途而設。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FSUICOKE-Vibram-Five-Fingers-Nin-Low-Suede-gray-black-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/suicoke-vibram-five-fingers-nin-low-suede-gray-black-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 36,
-   "title": "Merrell and YMC Reunite for the Moab 2 Slide",
-   "source": "Hypebeast",
-   "date": "2026-09-11",
-   "content": "Name: YMC x Merrell Moab 2 SlideColorway: Dark Walnut, BlackSKU: TBCMSRP: $150 USDRelease Date: Available NowWhere to Buy: YMCMerrell has once again joined forces with YMC (You Must Create) for a collaboration. This time, the two brands unveil the Moab 2 Slide, coming in Dark Walnut and Black colorways. Defined by its tactile, high-grade hairy suede upper that adds a plush, organic finish to the upper.For enhanced durability across varied environments, a protective black rubber toe cap wraps the front of the shoe, complemented by a smooth leather footbed cover that delivers a premium underfoot feel. The silhouette comes equipped with Merrell's Air Cushion in the heel, which absorbs shock and adds stability, while a Vibram Ecostep Recycle outsole - constructed with 30% recycled rubber - provides reliable all-terrain grip on both wet and dry surfaces.= Click here to view full gallery at Hy",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F11%2Fftymc-merrell-moab-2-slide-dark-walnut-black-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/ymc-merrell-moab-2-slide-dark-walnut-black-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 37,
-   "title": "Suicoke Readies More Boots and Mules for FW26",
-   "source": "Hypebeast",
-   "date": "2026-09-11",
-   "content": "Name: SUICOKE FW26 Boots & MulesMSRP: ¥36,300 - ¥39,600 JPY (approx. $236 - $257 USD)Release Date: Available NowWhere to Buy: SUICOKEHighlighted from Suicoke's FW26 offerings is a selection of rugged boots and cozy mules, designed to balance utilitarian construction with everyday comfort. The lineup includes the STRIKE and BEETLE‑LO boots, both offered in Black, featuring waterproof leather uppers, Suicoke SHERPA lining, and SOFTSTEP cushioned insoles. Each boot is finished with a Vibram MEGAGRIP outsole, ensuring reliable traction across wet and dry terrain. These models emphasize durability and protection while maintaining a sleek, minimal profile suited for urban and outdoor wear.Complementing the boots are two mule silhouettes: the FL‑MOC in Black and the POTON in Dark Taupe. The FL‑MOC features a cow suede upper with a FLEXSTEP LEATHER sole, offering flexibility and slip‑on ease for",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F11%2Fsuicoke-fw26-boots-mules-vibram-beetle-lo-strike-fl-moc-poton-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/suicoke-fw26-boots-mules-vibram-beetle-lo-strike-fl-moc-poton-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 38,
+   "id": 39,
    "title": "MOWALOLA x Air Jordan 14 Mule SP “Metallic Silver” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -514,7 +540,7 @@
    ]
   },
   {
-   "id": 39,
+   "id": 40,
    "title": "adidas Anthony Edwards 3 “Cold Blooded” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -527,7 +553,7 @@
    ]
   },
   {
-   "id": 40,
+   "id": 41,
    "title": "Nike G.T. Future “Triple Black”",
    "source": "Nice Kicks",
    "date": "2026-09-11",
@@ -540,7 +566,7 @@
    ]
   },
   {
-   "id": 41,
+   "id": 42,
    "title": "Converse SHAI 001 Shroud “Shock” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-11",
