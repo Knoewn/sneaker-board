@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-16 08:07",
+ "updatedAt": "2026-09-16 16:05",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -19,19 +19,175 @@ window.SNEAKER_DATA = {
   "ASICS",
   "CLARKS",
   "CONVERSE",
+  "CROCS",
   "JORDAN",
   "MIZUNO",
   "NEW BALANCE",
   "NIKE",
   "PUMA",
   "SALOMON",
-  "TIMBERLAND",
-  "UGG"
+  "TIMBERLAND"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Sneaker Politics 與 Timberland 推出南方風格 6-Inch Boot 聯乘系列",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-16",
+   "content": "摘要 Sneaker Politics 聯同 Timberland 帶來雙方首個合作企劃，主角鎖定品牌經典 6 吋鞋筒靴。此系列推出兩款帶有美國南部風格的配色，分別為以黑色荔枝紋皮革打造的「Outlaw」，以及採用深啡色鞋身並點綴牛紋鞋跟的「Rodeo」。兩款鞋將於 2026 年 9 月 24 日率先透過 Sneaker Politics 登場，其後在 2026 年 9 月 25 日於 Timberland 擴大發售，定價為每雙 225 美元。 Sneaker Politics 與 Timberland 正式宣布首次聯乘，以美國南方視角重新演繹經典 6-Inch Boot。此系列推出兩個版本——「Outlaw」及「Rodeo」——設計靈感源自這間精品店扎根 Louisiana 的背景及當地文化。「Outlaw」採用黑色荔枝紋皮革鞋面，配以鱷魚皮風格紋理鞋領；鞋頭及側面飾板綴以細緻的西部風格車線，為深色調注入含蓄的傳統韻味。有別於黑色版本，「Rodeo」以深啡色皮革鞋面呈現經典西部色調，後跟穩定片包覆牛紋材質，在不改變靴款經典輪廓的前提下，成為鮮明焦點。此企劃亦延續 Sneaker Politics 一直以來圍繞 Pelican State 的景色、音樂及河口沼澤風光設計系列的傳統。Sneaker Politics x Timberland「Outlaw」及「Rodeo」6-Inch Boots 將於 2026 年 9 月 24 日率先在 Sneaker Politics 實體店及透過 Sneaker Politics 網上發售；Timberland 則於翌日（2026 年 9 月 25 日）推出更廣泛發售，兩款售價均為 225 美元。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fsneaker-politics-timberland-southern-inspired-6-inch-boot-pack-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/sneaker-politics-timberland-southern-inspired-6-inch-boot-pack-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "TIMBERLAND"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Patta x Crocs 為 Classic EXP Clog「Almost White」及「Black」配色升級 Vibram 鞋底",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-16",
+   "content": "名稱： Patta x Crocs Classic EXP Clog「Black」、Patta x Crocs Classic EXP Clog「Almost White」配色：迷彩／黑色、黑色／黑色產品編號：212487-1CN、212487-001建議零售價：85 美元發售日期：9 月 18 日發售渠道：PattaPatta 與 Crocs 重新演繹 Classic EXP Clog，將這個 Amsterdam 品牌的設計美學注入一雙為舒適度與抓地力而設的日常鞋款。今回聯乘推出「Almost White」與「Black」兩款配色，以技術機能作基礎，亦保留 Patta 多數鞋履一貫具備的多變造型可能。鞋款的機能核心藏於足下。緩震 Vibram 鞋底帶來抓地力與支撐，取代標準 Crocs 鞋底，換上這種較常見於戶外機能鞋的組件。Black 配色由 90% 熱塑性 EVA 與 10% 織物織帶構成，既維持輕量，亦加強可調校的加墊踝帶，讓鞋履穩妥貼合雙腳。這條踝帶正是鞋款的機能標誌，穿者可在穩固的包跟穿法與較寬鬆的露跟拖鞋穿法之間切換。個人化同樣是設計概念的另一重核心。兩款鞋均隨附獨家 Jibbitz 鞋扣；Crocs 的文化影響力很大程度正是建基於這款可自由組合的配件，而 Patta 亦不只把它視作點綴。品牌將每雙 Clog 定位為可讓穿者按自身方式搭配及演繹的基礎，呼應其長久以來重視自我表達、多於既定設計框架的取向。配色亦延續這份克制。「Almost White」與「Black」均以刻意低調、易於搭配的同色調處理呈現，維持俐落輪廓，讓鞋款結構與鞋扣成為焦點，而非依賴搶眼圖案。這是一場較為內斂的聯乘：先是一雙日常鞋履，其次才是備受追捧的單品。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftPatta-Crocs-Classic-EXP-Clog-Black-Almost-White-212487-1CN-212487-001-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/patta-crocs-classic-exp-clog-black-almost-white-212487-1cn-212487-001-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Taller De Rafa 首款 Nike Air Max Goadome Low 以仿舊啡色皮革演繹車房美學",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-16",
+   "content": "名稱： Taller De Rafa x Nike Air Max Goadome Low配色： Mosswood Brown/Phantom-Metallic Silver貨號： IU4876-200建議零售價： 185 美元發售日期： 9 月 25 日發售渠道： SNKRSTaller De Rafa x Nike Air Max Goadome Low 是這個 Bronx 街頭品牌首度涉足鞋履之作，並將這雙源自靴款的鞋型化作品牌車房情結的畫布。TDR 由 Genesis 與 Rafael Valverde 兄弟於疫情期間創立，品牌形象深受汽車文化影響，這個主題也主導了鞋上幾乎所有物料與五金的取材。設計先從皮革著手。鞋面覆以啡色皮革，邊緣經磨損處理並刻意做舊，令鞋款初上架時已有穿舊感，而非一派嶄新模樣。鞋領以網布包覆，打破皮革的連貫性，亦為結構添上技術感；外露 Swoosh 與 TDR 徽章則置於後跟一帶。細節令車房主題更見具體。六角形鞋眼以螺栓頭般的輪廓，取代常見的圓形金屬鞋眼；快速扳手吊牌則猶如剛從工作枱取下的工具。鞋帶亦提供多種選擇，包括傳統靴帶、闊身雙色款與幼身皮革款，每一款都會為鞋履帶來不同個性。Taller De Rafa 更將概念延伸至鞋款以外的呈現方式。鞋盒採用油漬效果處理，把鞋面上磨舊、充滿機械感的敘事延續至包裝，令整個發售企劃呼應品牌名稱所指的工場美學。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftTaller-De-Rafa-Nike-Air-Max-Goadome-Low-IU4876-200-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/taller-de-rafa-nike-air-max-goadome-low-iu4876-200-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Supreme 與 Timberland 將於 2026 秋冬季度重新推出「Diamond Plate」6 吋靴款",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-16",
+   "content": "摘要 Supreme 與 Timberland 將於 2026 年秋冬季度重新推出雙方合作的 Diamond Plate 6-Inch Premium Waterproof Boot。今次回歸的重點，是參照 New York City 金屬表面而設計的壓紋皮革鞋身結構。是次鞋款將於 2026 年 9 月 17 日透過 Supreme 各門市及官方網店發售，並提供 Black 及 Wheat 兩款配色。 Supreme 與 Timberland 正式宣布，將於 2026 秋冬季度重新推出 Supreme x Timberland「Diamond Plate」6 吋 Premium Waterproof Boot。這亦是兩個品牌首次重新發行過往合作推出的鞋款輪廓。這款鞋最初於 2023 年 12 月推出，備有黑色、小麥色及粉紅色選擇，保留 Timberland 經典 6 吋工裝靴的輪廓。皮革鞋面壓印滿版菱形鋼板紋路，靈感來自紐約市隨處可見的工業金屬表面。2026 秋冬季度回歸之作將重推黑色及小麥色版本，原有的粉紅色配色則不在發售陣容之列。隨着二手市場需求多年來持續上升，這次復刻讓市場再有機會入手這雙備受追捧的鞋款。Supreme x Timberland「Diamond Plate」6 吋 Premium Waterproof Boot 將於 2026 年 9 月 17 日在 Supreme 實體店及 Supreme 官方網站發售。 View this post on InstagramA post shared by Supreme (@supremenewyork) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fsupreme-timberland-diamond-plate-6-inch-boot-reissue-fw26-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/supreme-timberland-diamond-plate-6-inch-boot-reissue-fw26-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "TIMBERLAND"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Union LA 與 Nike 再度推出可摺疊鞋跟 Dunk Low「Bamboo」配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-16",
+   "content": "摘要 Union Los Angeles 與 Nike 再度攜手，預計於 2026 年秋季推出兩雙組成的 Dunk Low 特別企劃。當中「Bamboo」配色採用橄欖綠麂皮鞋身，細節包括外露車線及可摺式鞋踭設計。此鞋款將提供男裝尺碼，定價為 135 美元，並透過 Union SNKRS 與指定零售店發售。 名稱：Union LA x Nike Dunk Low「Bamboo」配色：Bamboo／University Gold-Light Cream產品編號：IF7380-200建議零售價：135 美元發售日期：2026 年秋季發售渠道：NikeUnion LA 與 Nike 正式將 Dunk Low 帶回雙方 2026 年秋季的聯乘陣容。繼早前推出 Passport Pack 後，即將登場的「Bamboo」配色，是 Chris Gibbs 與 Union 團隊對這雙低筒鞋款的最新演繹。相比過往企劃，這雙鞋採取更低調的設計：全鞋以橄欖綠麂皮製成，鞋頭附近綴以外露車線，鞋面拼接處上方則固定了一枚小巧的黃色 Union 標籤。鞋款最大的設計變化落在後跟：可向下摺疊的結構，讓這雙球鞋能轉換成穆勒鞋。今次企劃亦會同步推出「Black」配色，組成兩款鞋的發售陣容；同時延續 Union 與 Nike 及 Jordan Brand 多款經典鞋型的豐富聯乘，包括 Air Jordan 1、Air Jordan 4、Cortez 及 Field General。Union LA x Nike Dunk Low「Bamboo」預計於 2026 年秋季發售，定價為 135 美元，將透過 Union Los Angeles、SNKRS 及指定零售商推出。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Funion-la-nike-dunk-low-bamboo-IF7380-200-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/union-la-nike-dunk-low-bamboo-if7380-200-first-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "New Balance 983「Yellow/Red」鮮明配色正式登場",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-16",
+   "content": "摘要 New Balance 正式發布一雙以復古跑鞋為靈感的 983，全新亮眼「Yellow Red」配色。鞋款採用橄欖綠網面鞋身，拼搭淡黃色及青檸色疊層細節，並配上紅色 ABZORB SBS 緩震模組。此款球鞋將於 2026 年 10 月 1 日正式發售，定價為 160 美元。 名稱：New Balance 983「Yellow/Red」配色：Yellow/Red-Grey產品編號：U9834EV0建議零售價：160 美元發售日期：2026 年 10 月 1 日購買途徑：New BalanceNew Balance 正式發布 New Balance 983「Yellow/Red」，為這款復古跑鞋輪廓注入亮眼配色。鞋款以多層結構呼應 2000 年代初的性能跑鞋美學，配上外露式緩震部件及高辨識度拼接面板。鞋面以橄欖綠網布為基底，其上疊加淺黃色及青檸綠結構覆片。鞋帶、內襯及反光「N」標誌均加入灰色點綴，平衡機能鞋面上的明亮色調；後跟穩定片亦延伸出銀白色反光細節，提升昏暗環境下的可見度。鞋底部分以紅色點綴後跟，並勾勒出嵌於鞋底單元的外露式 ABZORB SBS 緩震膠囊。雕塑感黃色雙密度中底提供結構支撐，下方則搭配深灰色橡膠外底，並飾以紅色紋路分區。New Balance 983「Yellow/Red」將於 2026 年 10 月 1 日透過 NewBalance.com 及指定零售商發售，定價為 160 美元。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnew-balance-983-yellow-red-U9834EV0-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/new-balance-983-yellow-red-u9834ev0-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Patta x Crocs Give the Classic EXP Clog a Vibram Upgrade in \"Almost White\" and \"Black\"",
+   "source": "Hypebeast",
+   "date": "2026-09-16",
+   "content": "Name: Patta x Crocs Classic EXP Clog “Black,” Patta x Crocs Classic EXP Clog “Almost White”Colorway: Camo/Black, Black/BlackSKU: 212487-1CN, 212487-001MSRP: $85 USDRelease Date: September 18Where to Buy: PattaPatta and Crocs have reworked the Classic EXP Clog, applying the Amsterdam label's design sensibility to an everyday silhouette engineered for comfort and grip. Offered in \"Almost White\" and \"Black,\" the collaboration pairs a technical foundation with the kind of styling flexibility Patta builds into much of its footwear.The engineering sits underfoot. A cushioned Vibram sole gives the clog its traction and support, upgrading the standard Crocs base with a component more often associated with performance outdoor footwear. The Black colorway breaks its makeup down to 90% thermoplastic EVA and 10% textile webbing, a split that keeps the shoe lightweight while reinforcing the adjustabl",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F16%2FftPatta-Crocs-Classic-EXP-Clog-Black-Almost-White-212487-1CN-212487-001-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/patta-crocs-classic-exp-clog-black-almost-white-212487-1cn-212487-001-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Taller De Rafa's First Nike Air Max Goadome Low Wraps a Garage in Distressed Brown Leather",
+   "source": "Hypebeast",
+   "date": "2026-09-16",
+   "content": "Name: Taller De Rafa x Nike Air Max Goadome LowColorway: Mosswood Brown/Phantom-Metallic SilverSKU: IU4876-200MSRP: $185 USDRelease Date: September 25Where to Buy: SNKRSThe Taller De Rafa x Nike Air Max Goadome Low marks the Bronx streetwear brand's first step into footwear, and it treats the boot-rooted silhouette as a canvas for the label's garage obsession. Founded during the pandemic by brothers Genesis and Rafael Valverde, TDR built its identity on a heavy automotive influence, and that theme drives nearly every material and hardware decision on the shoe.The starting point is the leather. Brown hide covers the upper, treated with worn edges and deliberate distressing so the pair arrives looking already broken in rather than fresh off the shelf. Mesh wraps the collar to interrupt the leather and add a technical break in the construction, while an exposed Swoosh and a TDR patch sit to",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F16%2FftTaller-De-Rafa-Nike-Air-Max-Goadome-Low-IU4876-200-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/taller-de-rafa-nike-air-max-goadome-low-iu4876-200-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "SOREL and NEEDLES Partner on Purple-Toned Ambler Footwear Collection",
+   "source": "Hypebeast",
+   "date": "2026-09-16",
+   "content": "Summary SOREL and Japanese brand NEEDLES have partnered on a collaborative footwear collection featuring the Ambler silhouetteThe release reimagines the clog and chukka boot in NEEDLES signature purple hue with waterproof full-grain nubuck leatherThe Ambler Waterproof Clog retails for $200 USD while the Ambler Chukka Waterproof Boot is priced at $250 USD SOREL has officially partnered with Keizo Shimizu's Japanese label NEEDLES to introduce the SOREL x NEEDLES Ambler Collection. Drawing core design inspiration from SOREL's iconic Caribou boot, the collaboration bridges weather-ready outdoor performance with NEEDLES' utilitarian design ethos.The capsule centers around the Ambler, an all-weather footwear silhouette offered in both a slide-on clog and a chukka boot. Both models are rendered in NEEDLES' signature purple color scheme and constructed from soft, full-grain nubuck leather uppers",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F15%2Fsorel-needles-collaboration-purple-toned-ambler-footwear-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/sorel-needles-collaboration-purple-toned-ambler-footwear-collection-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 10,
+   "title": "Supreme and Timberland Reissue \"Diamond Plate\" 6-Inch Boot for FW26",
+   "source": "Hypebeast",
+   "date": "2026-09-16",
+   "content": "Summary Supreme and Timberland are reissuing their collaborative Diamond Plate 6-Inch Premium Waterproof Boot for Fall/Winter 2026The release brings back the embossed leather upper construction inspired by New York City metal surfacesThe boots will launch on September 17, 2026 in Black and Wheat colorways via Supreme stores and online Supreme and Timberland are officially bringing back the Supreme x Timberland \"Diamond Plate\" 6″ Premium Waterproof Boot for Fall/Winter 2026. The release marks the first time both brands have reissued a previous collaborative footwear silhouette.Originally debuting in December 2023 across Black, Wheat, and Pink options, the silhouette maintains Timberland’s classic 6-inch work boot shape. The design is highlighted by a leather upper embossed with an all-over diamond plate pattern inspired by the industrial metal surfaces found throughout New York City.For t",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F15%2Fsupreme-timberland-diamond-plate-6-inch-boot-reissue-fw26-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/supreme-timberland-diamond-plate-6-inch-boot-reissue-fw26-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "TIMBERLAND"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Union LA and Nike Revisit the Dunk Low With a Collapsible \"Bamboo\" Colorway",
+   "source": "Hypebeast",
+   "date": "2026-09-16",
+   "content": "Summary Union Los Angeles and Nike are reuniting for a two-pair Dunk Low capsule scheduled for Fall 2026The Bamboo iteration features an olive suede upper detailed with exposed stitching and a collapsible heelThe sneaker will release in men's sizing for $135 USD via Union SNKRS and select stockists Name: Union LA x Nike Dunk Low \"Bamboo\"Colorway: Bamboo/University Gold-Light CreamSKU: IF7380-200MSRP: $135 USDRelease Date: Fall 2026Where to Buy: NikeUnion LA and Nike are officially bringing the Dunk Low back to their collaborative lineup for Fall 2026. The upcoming \"Bamboo\" colorway marks Chris Gibbs and the Union team's latest take on the low-top model following their earlier Passport Pack release.Adopting a more understated approach than previous projects, the pair features a full olive suede upper accented by exposed stitching near the toe box and a small yellow Union tag anchored just",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F15%2Funion-la-nike-dunk-low-bamboo-IF7380-200-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/union-la-nike-dunk-low-bamboo-if7380-200-first-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "New Balance 983 Debuts in Vibrant \"Yellow/Red\" Colorway",
+   "source": "Hypebeast",
+   "date": "2026-09-16",
+   "content": "Summary New Balance has unveiled a bright Yellow Red iteration of its retro-inspired 983 runnerThe design pairs an olive mesh upper with pale yellow and lime overlays alongside red ABZORB SBS cushioning podsThe sneaker will officially launch on October 1 2026 for a retail price of $160 USD Name: New Balance 983 \"Yellow/Red\"Colorway: Yellow/Red-GreySKU: U9834EV0MSRP: $160 USDRelease Date: October 1, 2026Where to Buy: New BalanceNew Balance has officially unveiled the New Balance 983 \"Yellow/Red\", bringing a vibrant color treatment to the retro-inspired running silhouette. The multi-layered pair leans into early-2000s performance aesthetics with exposed cushioning elements and high-visibility paneling.The upper is constructed with an olive mesh base layered beneath pale yellow and lime structural overlays. Grey accents land on the laces, inner lining, and reflective \"N\" logos, balancing th",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F15%2Fnew-balance-983-yellow-red-U9834EV0-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/new-balance-983-yellow-red-u9834ev0-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 13,
    "title": "DOE 與 KEEN 推出全黑 Jasper Zionic 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-09-15",
@@ -42,7 +198,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 14,
    "title": "Kith 與 Assouline 宣布推出《Kith: The Footwear Archive》，回顧品牌 15 年鞋履歷程",
    "source": "Hypebeast 中文",
    "date": "2026-09-15",
@@ -60,7 +216,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 15,
    "title": "Han Kjøbenhavn 與 Mizuno 再度聯乘，推出低調全黑 WAVE MUJIN TL",
    "source": "Hypebeast 中文",
    "date": "2026-09-15",
@@ -73,7 +229,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 16,
    "title": "Nike 正式發布 Caitlin Clark 首個 Caitlin 1 簽名鞋及服飾系列",
    "source": "Hypebeast 中文",
    "date": "2026-09-15",
@@ -86,7 +242,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 17,
    "title": "Salomon XT-WHISPER VOID 換上「Clearly Aqua」水感新色",
    "source": "Hypebeast 中文",
    "date": "2026-09-15",
@@ -99,7 +255,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 18,
    "title": "Nike Air Force 1 Low「Leopard」採用滿版印花帆布鞋面",
    "source": "Hypebeast 中文",
    "date": "2026-09-15",
@@ -112,35 +268,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
-   "title": "Air Jordan 1 Low「Halloween」採用夜光鞋底設計",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-15",
-   "content": "摘要 Jordan Brand 正式把 Air Jordan 1 Low Halloween 納入其 2026 年秋季鞋款陣容。設計以黑色磨砂皮與皮革拼接鞋身為基調，配上 Scream Green 毛邊細節及 XXIII 車線點綴。夜光大底為低調配色增添亮點，同時不改鞋款原有的整體風格。 名稱：Air Jordan 1 Low「Halloween」配色：Black／Scream Green－Dark Smoke Grey貨號：IQ5494-001建議零售價：125 美元發售日期：2026 年秋季購買渠道：NikeJordan Brand 正式將 Air Jordan 1 Low「Halloween」納入 2026 年秋季即將推出的陣容。這雙季節限定鞋款亦屬於規模更大的節日主題系列，當中包括 Air Jordan 5、Book 2、Ja 4 及 Air Force 1 的主題版本。鞋款採用 Black、Scream Green 及 Anthracite 配色，鞋面以黑色磨砂皮革與皮革打造，鞋面覆片下方襯以柔軟布料。鮮亮的 Scream Green 勾勒出面板的原始切邊，並點綴鞋舌上的 Jumpman 標誌，以及鞋頭附近的「XXIII」刺繡。為呼應深色鞋面，鞋款搭載夜光外底，在維持俐落的黑綠色塊配置之餘，低調帶出主題氣息。整體設計不採用明顯的季節圖案，而是以原始切邊細節及含蓄的夜光元素作為重點。Air Jordan 1 Low「Halloween」預定於 2026 年秋季發售，售價為 125 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fair-jordan-1-low-halloween-IQ5494-001-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/air-jordan-1-low-halloween-iq5494-001-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 8,
-   "title": "意外成為潮流焦點：1950 年代足球鞋 adidas Samba 如何化身時尚界最受歡迎的畫布",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-15",
-   "content": "adidas Samba 堪稱無心插柳、卻成功蛻變的最佳範例。1950 年，adidas 的 Adi Dassler 為德國足球員而設計這雙鞋，以應付堅硬結冰的球場並提供抓地力；如今，它早已超越工具性的本色，成為 2020 年代最具代表性的時尚球鞋。Samba 自推出以來已售出逾 3,500 萬雙，從耐用的運動裝備走上時裝天橋，印證了次文化的自然採納與出色聯乘設計所帶來的力量。塑造現象級鞋款的關鍵里程碑Samba 從運動裝備成為隨處可見的街頭造型單品，並非由一場宣傳活動推動，而是在不同文化年代中逐漸獲得自然採納。它於 1950 年代面世時是一件純粹講求功能的裝備：Adi Dassler 採用袋鼠皮革，並配上創新的生膠鞋底，鞋底設有如吸盤般的凸粒，讓德國足球員在結冰的球場上站穩腳步。隨着足球運動演變，這雙鞋亦與時並進。到了 1970 年代，Samba 為主導室內足球及五人足球熱潮而重新推出，加入更強的多向抓地力、三區側面結構，以及經加固、可承受猛烈控球動作的麂皮 T 字鞋頭。Samba 從球場躍進街頭的轉折點，於 1980 年代在英國逐漸成形。被稱為 casuals 的死忠足球擁躉，將它納入非正式制服的必備單品；配襯名牌運動套裝、Stone Island 外套與 Fred Perry Polo 恤，這雙球鞋在球場看台上成為一種身分象徵，串連起運動服與次文化認同。1990 年代，滑板手亦自然被其出色的板感、低筒輪廓與耐穿皮革結構吸引。這股由草根社群帶動的滑板風潮影響深遠，最終促使 adidas 開發 Busenitz 和 Samba ADV 等專為滑板而設的鞋款。真正的高時尚復興則在 2020 年代來臨。在懷舊浪潮與「blokecore」美學推動下，Samba 一舉打入奢侈時尚圈。A$AP Rocky、Frank Ocean、Bella Hadid 與 Kendall Jenner 都曾穿上它，令這雙鞋從小眾復古之選，順利轉變為社交媒體演算法與全球時裝天橋上最具主導地位的鞋型。奠定其經典地位的 5 大聯乘經典白黑 OG 配色至今仍近乎完美無須改動，而一系列策略性合作則催化了",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fpitch-to-pavement-everything-you-need-to-know-about-the-adidas-samba-pharrell-williams-humanrace-sporty-rich-palace-wales-bonner-kith-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/how-adidas-samba-became-accidental-it-shoe-pharrell-williams-humanrace-sporty-rich-palace-wales-bonner-kith",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS",
-    "CLARKS"
-   ]
-  },
-  {
-   "id": 9,
+   "id": 19,
    "title": "DOE and KEEN Deliver an All-Black Jasper Zionic",
    "source": "Hypebeast",
    "date": "2026-09-15",
@@ -151,7 +279,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 10,
+   "id": 20,
    "title": "Kith and Assouline Announce 'Kith: The Footwear Archive' Celebrating 15-Year History",
    "source": "Hypebeast",
    "date": "2026-09-15",
@@ -169,7 +297,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 21,
    "title": "Han Kjøbenhavn and Mizuno Reunite for a Stealthy WAVE MUJIN TL",
    "source": "Hypebeast",
    "date": "2026-09-15",
@@ -182,7 +310,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 22,
    "title": "Nike Officially Unveils Caitlin Clark's Debut Caitlin 1 Signature Collection",
    "source": "Hypebeast",
    "date": "2026-09-15",
@@ -195,7 +323,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 23,
    "title": "Salomon’s XT-WHISPER VOID Gets an Aquatic \"Clearly Aqua\" Update",
    "source": "Hypebeast",
    "date": "2026-09-15",
@@ -208,7 +336,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 24,
    "title": "Nike Air Force 1 Low \"Leopard\" Features All-Over Printed Canvas Upper",
    "source": "Hypebeast",
    "date": "2026-09-15",
@@ -221,36 +349,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
-   "title": "Air Jordan 1 Low \"Halloween\" Gets a Glow-in-the-Dark Finish",
-   "source": "Hypebeast",
-   "date": "2026-09-15",
-   "content": "Summary Jordan Brand has added the Air Jordan 1 Low Halloween to its Fall 2026 seasonal footwear lineupThe design pairs black nubuck and leather paneling with Scream Green raw edges and XXIII stitchingA glow-in-the-dark outsole highlights the low-key color scheme without altering its core aesthetic Name: Air Jordan 1 Low \"Halloween\"Colorway: Black/Scream Green-Dark Smoke GreySKU: IQ5494-001MSRP: $125 USDRelease Date: Fall 2026Where to Buy: NikeJordan Brand is officially releasing the Air Jordan 1 Low \"Halloween\" as part of its upcoming lineup for Fall 2026. The seasonal pair joins a wider holiday capsule that includes themed iterations of the Air Jordan 5, Book 2, Ja 4, and Air Force 1.Rendered in a Black, Scream Green, and Anthracite palette, the shoe features a black nubuck and leather upper accented by soft underlying fabrics beneath the overlays. Vibrant Scream Green hits outline the",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F14%2Fair-jordan-1-low-halloween-IQ5494-001-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/air-jordan-1-low-halloween-iq5494-001-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 16,
-   "title": "The Accidental It-Shoe: How the adidas Samba, a 1950s Football Boot Became Fashion's Favorite Canvas",
-   "source": "Hypebeast",
-   "date": "2026-09-15",
-   "content": "The adidas Samba is a masterclass in unintentional reinvention. Originally engineered in 1950 by Adi Dassler at adidas to provide traction for German football players navigating rock-hard, frozen pitches, the silhouette has transcended its utilitarian roots to become the defining fashion sneaker of the 2020s. Selling over 35 million pairs since its inception, the Samba’s journey from a rugged athletic tool to a runway staple is a testament to the power of subcultural adoption and perfectly executed collaborative design.The Milestones That Shaped a PhenomenonThe trajectory of the Samba from sports gear to a ubiquitous street-style staple was driven by organic adoption across distinct cultural eras rather than a single marketing campaign. It began in the 1950s as a purely functional piece of equipment, engineered by Adi Dassler with kangaroo leather and an innovative gum sole equipped with",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F14%2Fpitch-to-pavement-everything-you-need-to-know-about-the-adidas-samba-pharrell-williams-humanrace-sporty-rich-palace-wales-bonner-kith-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/how-adidas-samba-became-accidental-it-shoe-pharrell-williams-humanrace-sporty-rich-palace-wales-bonner-kith",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "CLARKS",
-    "UGG"
-   ]
-  },
-  {
-   "id": 17,
+   "id": 25,
    "title": "Sarah Burton’s Shark Pinch Boot Bites Back",
    "source": "Highsnobiety",
    "date": "2026-09-15",
@@ -261,7 +360,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 18,
+   "id": 26,
    "title": "adidas’ Trusty Hiking Sneaker Is Even Cooler as a Plush Slipper",
    "source": "Highsnobiety",
    "date": "2026-09-15",
@@ -274,7 +373,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 27,
    "title": "adidas’ Houndstooth Samba Has Elderly Fall Swag",
    "source": "Highsnobiety",
    "date": "2026-09-15",
@@ -287,7 +386,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 28,
    "title": "This Designer Label Helped Make On Cool. Next? Its Own Shoe",
    "source": "Highsnobiety",
    "date": "2026-09-15",
@@ -298,7 +397,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 21,
+   "id": 29,
    "title": "Nike’s Air Jordan Sneaker Looks Good in a “Chanel” Cardigan",
    "source": "Highsnobiety",
    "date": "2026-09-15",
@@ -312,7 +411,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 30,
    "title": "'Tis the Season for Nike's Freshest Outdoor Air Max Boot",
    "source": "Highsnobiety",
    "date": "2026-09-15",
@@ -325,7 +424,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 31,
    "title": "Nike’s Cinnamon-Coated Air Max Is a Luxe Leather Dessert",
    "source": "Highsnobiety",
    "date": "2026-09-15",
@@ -338,7 +437,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 32,
    "title": "From Converse to adidas, the Seven Best Sneakers to Cop This Week",
    "source": "Highsnobiety",
    "date": "2026-09-15",
@@ -350,105 +449,6 @@ window.SNEAKER_DATA = {
     "ADIDAS",
     "CONVERSE",
     "PUMA"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "Flower Mountain 攜手 Staple 推出 FW26 聯乘 Yamano 3",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-14",
-   "content": "摘要 Flower Mountain 正式攜手 Staple 推出 FW26 聯乘 Yamano 3 鞋款輪廓。設計將 Flower Mountain 標誌性的花卉圖案，與 Staple 經典 Staple Pigeon 標誌結合，體現在度身設計的品牌標誌與刺繡細節之上。機能配置包括可拆式抑菌天然軟木鞋墊，以及高抓地力戶外鞋底。 Flower Mountain 正式聯同街頭品牌 Staple 推出聯乘 Yamano 3。此聯乘鞋履系列將於 2026 秋冬季度發售，揉合專業戶外機能與 Staple 獨有的都市街頭底蘊。鞋款以 Flower Mountain 的標誌性 Yamano 3 輪廓為核心，為日常探索而設。鞋內配備可拆卸的天然軟木抗菌鞋墊，兼具透氣與持久舒適感；鞋底則採用高抓地力戶外大底，能應對不同地形並提供穩定抓地力。視覺細節同時呼應兩個品牌的美學。鞋面飾有側邊刺繡及特製鞋舌標誌，將 Flower Mountain 的標誌性花卉徽記與 Staple Pigeon 融合；鞋面各處亦低調點綴靈感源自紐約鴿子足印的圖案，並以 Staple 招牌的炭灰、霧珊瑚色及亮橙色細節呈現。Flower Mountain x Staple Yamano 3 將作為 2026 秋冬系列的一部分，於 網上及指定零售商發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fstaple-flower-mountain-yamano-3-fw26-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/staple-flower-mountain-yamano-3-fw26-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 26,
-   "title": "Nike Air Max Goadome「Black/Volt」以一枚 ACG 徽章打破全黑設計",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-14",
-   "content": "名稱：Nike Air Max Goadome「Black/Volt」配色：黑色／炭灰色／VoltSKU：IQ7198-001建議零售價：180 美元發售日期：2026 年秋季Nike 正為 Air Max Goadome 推出全新「Black/Volt」配色，魅力幾乎全在鞋面的材質處理。鞋面以兩種不同質感的黑色與炭灰色皮革拼接，光滑鞋面裁片與鞋側、鞋領的紋理部分形成對比，令同色調配搭依然富有層次。這是一雙值得近看細賞、而非從房間另一端一眼辨認的靴款。同色調的貫徹程度近乎徹底。鞋帶、鞋眼、鞋舌、車線與鞋底均採用同一色調，少了 Goadome 慣見、用以區分各部分的視覺分界。鞋面只有外側的小型銀色 Swoosh 帶來些微對比；其尺寸收斂得如同五金細節，而非品牌標誌。鞋底結構則成為焦點。後跟與前掌均設有可視 Air 氣墊，讓這個鞋型前後兩端均具備緩衝防護，而非只集中於後跟；外底則保留此鞋款標誌性的深刻紋路。全黑設計唯一刻意打破之處，是設於鞋底的 Volt 色 ACG 徽章，只有從特定角度才會看見這抹色彩。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftNike-Air-Max-Goadome-Black-Volt-IQ7198-001-Official-Images.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-air-max-goadome-black-volt-iq7198-001-official-images",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "Zheng Qinwen Nike Zoom Vapor 12 PE 以三重紅與金色紀錄復出賽季",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-14",
-   "content": "名稱：Zheng Qinwen Nike Zoom Vapor 12 PE配色：大學紅／強韌紅－辛香紅－金屬金貨號：IQ9093-600建議零售價：待定發售日期：待定Nike 為 Zheng Qinwen 打造 Zoom Vapor 12 球員專屬鞋款；她於 2026 年美國網球公開賽打入半準決賽後獲發此鞋。這雙女裝 PE 以紅色為基調，點綴金色細節；鞋上每項圖案均承載敘事意義，並非純粹裝飾。它推出的時機，顯然是為標記 Zheng 職業生涯的這個節點：此前一季，她受傷患所困，始終未能建立真正的比賽節奏。配色最先映入眼簾。這雙 PE 並非只採用一種紅色，而是疊加大學紅、強韌紅與辛香紅，讓鞋面各面板呈現深淺變化，再以金色 Swoosh 作對比。「Qinwen」標誌同時置於鞋舌及鞋跟，正好落在球員與轉播鏡頭最容易看見的位置。圖案分別以印刷及刺繡呈現，令各個圖騰在鞋上更具層次。皇冠、獎牌與一對翅膀貫穿設計；這 3 個符號與其說是泛泛的運動圖像，不如說是濃縮了過去兩個賽季對她的考驗。最後配上金色鳳凰吊牌，亦是鞋款最直接的表述；鳳凰象徵更新與重生，Nike 更明確將此意象連繫到她重返競技網球賽場。推出時機亦印證了這個解讀。Zheng 在 Flushing Meadows 打入半準決賽，期間擊敗兩名世界排名前 25 的球員；對一位從傷患中復出的球員而言，正是這類賽果足以重新定義外界的敘事。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FZheng-Qinwen-Nike-Zoom-Vapor-12-PE-IQ9093-600-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/zheng-qinwen-nike-zoom-vapor-12-pe-iq9093-600-official-images",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "J Balvin x Air Jordan 4「Lemonade」細節近賞",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-14",
-   "content": "摘要 J Balvin 攜手 Jordan Brand 打造亮眼的 Air Jordan 4「Lemonade」配色。球鞋以鱷魚紋理皮革為主軸，靈感來自 Medellín 的日落景致及 Caño Cristales 河流。鞋跟配上不對稱專屬標誌，並輔以雙語金屬鞋帶牌，完整呼應濃厚的哥倫比亞風格設計。 名稱：J Balvin x Air Jordan 4「Lemonade」配色：Lemonade／Lemonade產品編號：IW2872-700建議零售價：225 美元發售日期：2026 年 9 月 25 日發售渠道： NikeJordan Brand 與樂壇巨星 J Balvin 正式推出聯乘鞋款 Air Jordan 4「Lemonade」。這雙色彩鮮明的鞋款延續雙方合作，設計植根於 Balvin 的哥倫比亞文化背景。鞋面採用高級鱷魚紋皮革製成，鞋身各個裁片拼搭深淺不一的黃色。設計靈感來自 Medellín 的日落，以及哥倫比亞 Caño Cristales 河的繽紛色彩。鞋帶扣分別刻有「JUST DO IT.」及「SOLO HAZLO.」，為鞋款添上低調的敘事細節；左右鞋跟飾片亦不相同，左腳壓印 Nike Air 標誌，右腳則印上 Balvin 標誌性的倒轉笑臉圖案。Balvin 在 2026 年 FIFA 世界盃開幕典禮的演出舞台上，首度展示「Lemonade」配色。繼此前推出 Air Jordan 1、Air Jordan 2 及 Air Jordan 3 聯乘鞋款後，今次作品亦與另一雙不作公開發售的彩色 Air Jordan 4 樣品並列。J Balvin x Air Jordan 4「Lemonade」預計於 2026 年 9 月 25 日透過 SNKRS 及指定 Jordan Brand 零售商發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fj-balvin-air-jordan-4-lemonade-IW2872-700-closer-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/j-balvin-air-jordan-4-lemonade-iw2872-700-closer-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "Sound & Sole: Lost Frequencies, Miss Monique, and NOVAH Lace Up the Tomorrowland WR1",
-   "source": "Hypebeast",
-   "date": "2026-09-14",
-   "content": "There's a version of Tomorrowland that ends when the last set does — the grounds emptied, the stages struck, the weekend folded into memory. And then there's the version the festival has spent fifteen years building in the other direction: out past the gates, into fragrances and homeware and, now, footwear. The WR1 is the festival's first-ever sneaker, unveiled at Tomorrowland Belgium 2026 ahead of a global release this September. A sculptural, nature-referencing runner — its flowing lines and layered sole drawn from the geometry of a dragonfly's wing and the patterns inside a mushroom's gills — it's pitched less as merch than as something you carry with you long after the music stops. Which is a fitting brief for the three artists chosen to front it, all of whom spend their lives moving between worlds and trying to leave something behind in each one.For Lost Frequencies, the collaborati",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F08%2Fmiss-monique-novah-lost-frequencies-tomorrowland-wr1-sneaker-interview-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/miss-monique-novah-lost-frequencies-tomorrowland-wr1-sneaker-interview",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 30,
-   "title": "Flower Mountain and Staple Unveil Collaborative Yamano 3 for FW26",
-   "source": "Hypebeast",
-   "date": "2026-09-14",
-   "content": "Summary Flower Mountain has officially partnered with Staple on a collaborative Yamano 3 silhouette for FW26The design merges Flower Mountain's signature floral motif with the iconic Staple Pigeon across custom logos and embroideryTechnical specs feature a removable antibacterial natural cork insole alongside a high-grip outdoor outsole Flower Mountain has officially joined forces with streetwear label Staple to present the collaborative Yamano 3. Releasing for the Fall/Winter 2026 season, the collaborative footwear capsule blends technical outdoor performance with Staple's distinct urban heritage.Centered around Flower Mountain’s signature Yamano 3 silhouette, the model is engineered for everyday exploration. The shoe incorporates a removable antibacterial natural cork insole for breathability and lasting comfort, resting atop a high-grip outdoor outsole crafted for traction across vari",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F11%2Fstaple-flower-mountain-yamano-3-fw26-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/staple-flower-mountain-yamano-3-fw26-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 31,
-   "title": "The Nike Air Max Goadome \"Black/Volt\" Blacks Out Everything but a Single ACG Badge",
-   "source": "Hypebeast",
-   "date": "2026-09-14",
-   "content": "Name: Nike Air Max Goadome “Black/Volt”Colorway: Black/Anthracite-VoltSKU: IQ7198-001MSRP: $180 USDRelease Date: Fall 2026Nike is lining up a new \"Black/Volt\" treatment of the Air Max Goadome, and the appeal of this one is almost entirely in the surfaces. The boot's upper pairs black and Anthracite leather in two different finishes, setting smooth panels against textured sections around the sides and collar so the tonal palette still reads with depth. It is a build that asks to be examined up close rather than clocked from across a room.The commitment to tonality is close to total. Laces, eyelets, tongue, stitching and sole all sit in the same register, which leaves the boot without the usual visual breaks that separate a Goadome's component parts. Small silver Swooshes on the lateral sides are the only concession to contrast on the upper, and they are scaled down enough that they regist",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F14%2FftNike-Air-Max-Goadome-Black-Volt-IQ7198-001-Official-Images.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-air-max-goadome-black-volt-iq7198-001-official-images",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "Zheng Qinwen’s Nike Zoom Vapor 12 PE Wraps a Comeback Season in Triple Red and Gold",
-   "source": "Hypebeast",
-   "date": "2026-09-14",
-   "content": "Name: Zheng Qinwen Nike Zoom Vapor 12 PEColorway: University Red/Tough Red-Picante Red-Metallic GoldSKU: IQ9093-600MSRP: TBCRelease Date: TBCNike has produced a Zoom Vapor 12 player exclusive for Zheng Qinwen, handed to the tennis player after her quarterfinal run at the 2026 US Open. The women's PE is built on a red base with gold accents, and every graphic on it is doing narrative work rather than sitting there for decoration. It arrives at a point in Zheng's career that the shoe is clearly designed to mark, following a previous season in which injuries kept her from building any real momentum.The color work is the first thing to register. Rather than settling on a single red, the PE layers University Red, Tough Red and Picante Red so the upper shifts in tone across its panels, and a gold Swoosh supplies the contrast. \"Qinwen\" branding appears at both the tongue and the heel, placing h",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F14%2FZheng-Qinwen-Nike-Zoom-Vapor-12-PE-IQ9093-600-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/zheng-qinwen-nike-zoom-vapor-12-pe-iq9093-600-official-images",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
    ]
   },
   {
