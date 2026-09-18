@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-18 08:06",
+ "updatedAt": "2026-09-18 16:05",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,6 +17,7 @@
  "brands": [
   "ADIDAS",
   "ASICS",
+  "BALENCIAGA",
   "CONVERSE",
   "CROCS",
   "JORDAN",
@@ -30,6 +31,32 @@
  "news": [
   {
    "id": 1,
+   "title": "Balenciaga 攜手 J.M. Weston 打造 2026 冬季混合鞋履系列",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-18",
+   "content": "摘要 Balenciaga 攜手法國製鞋品牌 J.M. Weston 推出聯乘鞋履系列，於 Winter 26 系列中率先亮相。此膠囊系列重新演繹 brogues、d’Orsay 鞋款、mules 及 loafers，均以柔軟小牛皮與 Nappa 皮革精製而成。整個系列將於全球指定 Balenciaga 專門店及官方網上商店發售。 Balenciaga 與法國製鞋名家 J.M. Weston 正式發布雙方聯乘的 Balenciaga x J.M. Weston 鞋履系列。系列於 Pierpaolo Piccioli 名為《ClairObscur》的 2026 冬季系列中亮相，將 J.M. Weston 傳統的 Limoges 製鞋工藝，融入 Balenciaga 獨有的奢華設計語言。系列以柔軟小牛皮及 Nappa 皮革製作，透過混合手法重塑經典鞋型。經典繫帶翼紋雕花皮鞋換上帶有原始磨損感的邊緣、外露縫線，以及固定在鞋面各處的 Balenciaga Le City 金屬鉚釘。男裝不對稱 d’Orsay 鞋款則以翼紋穿孔在鞋頭勾勒出雙 B 標誌，鞋跟另以細小金屬釘頭標示鞋碼。系列亦重新演繹傳統輪廓：男裝套穿式穆勒鞋將雕花鞋襟向外翻折，鞋跟內襯則向內壓下，展現皮革天然的內層質感與色調。此外，中性樂福鞋配備可摺疊的雙層鞋舌，上層翻片低調壓印 Balenciaga 標誌，底面則印有 J.M. Weston 標誌。每款鞋均採用柔軟的天然小牛皮內裡，並燙印金色箔製聯乘標誌作結。Balenciaga x J.M. Weston 系列將隨 2026 冬季系列推出，於全球指定 Balenciaga 專門店及網上渠道發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fbalenciaga-j-m-weston-hybrid-footwear-winter-2026-collaboration-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/balenciaga-j-m-weston-hybrid-footwear-winter-2026-collaboration-collection-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "BALENCIAGA"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Balenciaga and J.M. Weston Team up on Hybrid Footwear Collection for Winter 2026",
+   "source": "Hypebeast",
+   "date": "2026-09-18",
+   "content": "Summary Balenciaga has partnered with French shoemaker J.M. Weston on a collaborative footwear range debuted in the Winter 26 collectionThe capsule features reimagined brogues d Orsay shoes mules and loafers crafted from soft calf and Nappa leatherThe lineup will be available at select Balenciaga stores worldwide and online Balenciaga and French master shoemaker J.M. Weston have officially revealed their collaborative Balenciaga x J.M. Weston footwear collection. Introduced within Pierpaolo Piccioli's Winter 26 collection, titled ClairObscur, the range merges J.M. Weston's traditional Limoges craftsmanship with Balenciaga's distinct luxury design codes.Crafted from soft calf and Nappa leather, the collection reimagines classic silhouettes through a hybrid lens. The classic lace-up wingtip brogue is updated with raw, worn edges, visible threading, and metal Balenciaga Le City studs fixed ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fbalenciaga-j-m-weston-hybrid-footwear-winter-2026-collaboration-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/balenciaga-j-m-weston-hybrid-footwear-winter-2026-collaboration-collection-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "BALENCIAGA"
+   ]
+  },
+  {
+   "id": 3,
    "title": "Kiko Kostadinov 與 ASICS 以 LYASA FF II 為 Tabi 鞋履系列作結",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -42,7 +69,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 4,
    "title": "S’YTE x MOONSTAR 001 揭開 Yohji Yamamoto 旗下品牌的鞋履新篇章",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -53,7 +80,7 @@
    "relatedBrands": []
   },
   {
-   "id": 3,
+   "id": 5,
    "title": "KAMIYA 為 BROTHER BRIDGE HENRY 靴注入復古磨損質感",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -64,7 +91,7 @@
    "relatedBrands": []
   },
   {
-   "id": 4,
+   "id": 6,
    "title": "adidas 攜手 Asphalt 推出「Cannoli」Samba 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -77,7 +104,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 7,
    "title": "Caitlin Clark 預告 Nike Caitlin 1「3x Black」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -90,7 +117,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 8,
    "title": "Shareef O’Neal 於紐約時裝週首度發布 Shareef by Shaq 系列",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -101,7 +128,7 @@
    "relatedBrands": []
   },
   {
-   "id": 7,
+   "id": 9,
    "title": "Kiko Kostadinov and ASICS Close Out Their Tabi Sneaker Series With the LYASA FF II",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -114,7 +141,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 10,
    "title": "The S’YTE x MOONSTAR 001 Marks a New Footwear Chapter for Yohji Yamamoto’s Label",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -125,7 +152,7 @@
    "relatedBrands": []
   },
   {
-   "id": 9,
+   "id": 11,
    "title": "KAMIYA Brings a Worn-In Edge to BROTHER BRIDGE’s HENRY Boot",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -138,7 +165,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 12,
    "title": "adidas and Asphalt Serve Up a Cannoli-Inspired Samba",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -151,7 +178,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 13,
    "title": "Caitlin Clark Teases the Nike Caitlin 1 \"3x Black\"",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -164,7 +191,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 14,
    "title": "Shareef O’Neal Debuts First-Ever Shareef by Shaq Collection",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -175,7 +202,7 @@
    "relatedBrands": []
   },
   {
-   "id": 13,
+   "id": 15,
    "title": "Air Jordan 1 Low OG “Howard” (IX8478-410) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-17",
@@ -188,7 +215,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 16,
    "title": "1997 Called, They Said Their Nike Ball Shoes Are Better Than Ours",
    "source": "Highsnobiety",
    "date": "2026-09-17",
@@ -201,7 +228,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 17,
    "title": "The Seven Best adidas Sneaker Releases This Week",
    "source": "Highsnobiety",
    "date": "2026-09-17",
@@ -214,7 +241,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 18,
    "title": "Two Decades of Studying Feet Went Into These Shoes",
    "source": "Highsnobiety",
    "date": "2026-09-17",
@@ -225,7 +252,7 @@
    "relatedBrands": []
   },
   {
-   "id": 17,
+   "id": 19,
    "title": "Fall Has Found Its Perfect Suede Dad Sneaker, It's New Balance (Obviously)",
    "source": "Highsnobiety",
    "date": "2026-09-17",
@@ -238,7 +265,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 20,
    "title": "New Balance Issues an All-American Cotton Candy Classic",
    "source": "Highsnobiety",
    "date": "2026-09-17",
@@ -251,7 +278,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 21,
    "title": "Vansza’s Obscure Knu Skool Misses the Forest for the Trees",
    "source": "Highsnobiety",
    "date": "2026-09-17",
@@ -264,7 +291,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 22,
    "title": "WORKSOUT 為 Vans Premium Authentic 注入滿版卡通圖案",
    "source": "Hypebeast 中文",
    "date": "2026-09-16",
@@ -277,7 +304,7 @@
    ]
   },
   {
-   "id": 21,
+   "id": 23,
    "title": "Timberland 與日本饒舌歌手 Kohjiya 聯乘推出升級版 Field Boot",
    "source": "Hypebeast 中文",
    "date": "2026-09-16",
@@ -290,7 +317,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 24,
    "title": "Sneaker Politics 與 Timberland 推出南方風格 6-Inch Boot 聯乘系列",
    "source": "Hypebeast 中文",
    "date": "2026-09-16",
@@ -303,7 +330,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 25,
    "title": "Patta x Crocs 為 Classic EXP Clog「Almost White」及「Black」配色升級 Vibram 鞋底",
    "source": "Hypebeast 中文",
    "date": "2026-09-16",
@@ -316,7 +343,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 26,
    "title": "Taller De Rafa 首款 Nike Air Max Goadome Low 以仿舊啡色皮革演繹車房美學",
    "source": "Hypebeast 中文",
    "date": "2026-09-16",
@@ -329,20 +356,7 @@
    ]
   },
   {
-   "id": 25,
-   "title": "Supreme 與 Timberland 將於 2026 秋冬季度重新推出「Diamond Plate」6 吋靴款",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-16",
-   "content": "摘要 Supreme 與 Timberland 將於 2026 年秋冬季度重新推出雙方合作的 Diamond Plate 6-Inch Premium Waterproof Boot。今次回歸的重點，是參照 New York City 金屬表面而設計的壓紋皮革鞋身結構。是次鞋款將於 2026 年 9 月 17 日透過 Supreme 各門市及官方網店發售，並提供 Black 及 Wheat 兩款配色。 Supreme 與 Timberland 正式宣布，將於 2026 秋冬季度重新推出 Supreme x Timberland「Diamond Plate」6 吋 Premium Waterproof Boot。這亦是兩個品牌首次重新發行過往合作推出的鞋款輪廓。這款鞋最初於 2023 年 12 月推出，備有黑色、小麥色及粉紅色選擇，保留 Timberland 經典 6 吋工裝靴的輪廓。皮革鞋面壓印滿版菱形鋼板紋路，靈感來自紐約市隨處可見的工業金屬表面。2026 秋冬季度回歸之作將重推黑色及小麥色版本，原有的粉紅色配色則不在發售陣容之列。隨着二手市場需求多年來持續上升，這次復刻讓市場再有機會入手這雙備受追捧的鞋款。Supreme x Timberland「Diamond Plate」6 吋 Premium Waterproof Boot 將於 2026 年 9 月 17 日在 Supreme 實體店及 Supreme 官方網站發售。 View this post on InstagramA post shared by Supreme (@supremenewyork) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fsupreme-timberland-diamond-plate-6-inch-boot-reissue-fw26-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/supreme-timberland-diamond-plate-6-inch-boot-reissue-fw26-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "TIMBERLAND"
-   ]
-  },
-  {
-   "id": 26,
+   "id": 27,
    "title": "StreetSnaps: Brooklyn’s Jorge \"Gitoo\" Wright Masters the Art of Proportion and Earth Tones",
    "source": "Hypebeast",
    "date": "2026-09-16",
@@ -356,7 +370,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 28,
    "title": "WORKSOUT Puts Its All-over Cartoon Graphics on the Vans Premium Authentic",
    "source": "Hypebeast",
    "date": "2026-09-16",
@@ -369,7 +383,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 29,
    "title": "Sneaker Politics and Timberland Partner on Southern-Inspired 6-Inch Boot Pack",
    "source": "Hypebeast",
    "date": "2026-09-16",
@@ -382,7 +396,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 30,
    "title": "VILLAGE PM Debuts the 2PM Silhouette, Marking Expansion Into the US for FW26",
    "source": "Hypebeast",
    "date": "2026-09-16",
@@ -391,19 +405,6 @@
    "link": "https://hypebeast.com/2026/9/village-pm-debuts-the-2pm-silhouette-marking-expansion-into-us-fall-winter-2026",
    "lang": "en",
    "relatedBrands": []
-  },
-  {
-   "id": 30,
-   "title": "Patta x Crocs Give the Classic EXP Clog a Vibram Upgrade in \"Almost White\" and \"Black\"",
-   "source": "Hypebeast",
-   "date": "2026-09-16",
-   "content": "Name: Patta x Crocs Classic EXP Clog “Black,” Patta x Crocs Classic EXP Clog “Almost White”Colorway: Camo/Black, Black/BlackSKU: 212487-1CN, 212487-001MSRP: $85 USDRelease Date: September 18Where to Buy: PattaPatta and Crocs have reworked the Classic EXP Clog, applying the Amsterdam label's design sensibility to an everyday silhouette engineered for comfort and grip. Offered in \"Almost White\" and \"Black,\" the collaboration pairs a technical foundation with the kind of styling flexibility Patta builds into much of its footwear.The engineering sits underfoot. A cushioned Vibram sole gives the clog its traction and support, upgrading the standard Crocs base with a component more often associated with performance outdoor footwear. The Black colorway breaks its makeup down to 90% thermoplastic EVA and 10% textile webbing, a split that keeps the shoe lightweight while reinforcing the adjustabl",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F16%2FftPatta-Crocs-Classic-EXP-Clog-Black-Almost-White-212487-1CN-212487-001-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/patta-crocs-classic-exp-clog-black-almost-white-212487-1cn-212487-001-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CROCS"
-   ]
   },
   {
    "id": 31,
