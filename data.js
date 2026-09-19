@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-18 16:05",
+ "updatedAt": "2026-09-19 08:07",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -19,18 +19,80 @@ window.SNEAKER_DATA = {
   "ASICS",
   "BALENCIAGA",
   "CONVERSE",
-  "CROCS",
+  "HOKA",
   "JORDAN",
-  "NEW BALANCE",
   "NIKE",
-  "TIMBERLAND",
-  "UGG",
-  "VANS"
+  "SALOMON",
+  "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Kith x On 推出全新 K-Tech 3，擴展 K-Tech 系列",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-18",
+   "content": "名稱：Kith K-Tech 2026 年秋季系列建議零售價：180 至 190 美元發售日期：現已發售購買地點：KithKith 與 On 將於 2026 年秋季擴展雙方的鞋履合作，推出 K-Tech 3——二人首款專為日常生活而設的鞋型。承接過往作品的基礎，K-Tech 3 採用技術編織網布製成的豐富紋理鞋面，並疊加優質麂皮覆片。兩款配色呈現截然不同的處理：Ivory/Storm 以奶油色網布及淺色麂皮層疊，鞋跟周邊與標誌點綴黃綠色細節，再配上對比鮮明的青綠色中底邊緣；Black/Black 則走低調路線，運用同色調黑色網布、啞面麂皮及配套鞋底結構，讓材質紋理的差異成為鞋款重點。鞋舌、鞋墊及外側均飾有雙方標誌，內側則加入 K&K 圖案。今次新品亦為較早推出的 K-Tech 1 與 K-Tech 2 帶來全新季度設計。著重性能的 K-Tech 1 推出 Shark/Ox 配色，結合冷灰色、隱約帶紫調的技術網布鞋面、深色覆片，以及近乎黑色的雕塑感 CloudTec® 鞋底；鞋底下方配備雙密度 Helion™ 泡棉中底、Speedboard® 及 Kith Monogram 鞋底紋路，延續其跑步規格。日常取向的 K-Tech 2 則推出 Grain/Taiga 與 Ruby/Ox 配色：前者以米白色開放式網布，搭配柔和橄欖綠、淺藍灰及啡色麂皮，襯托深色鞋底結構；後者換上酒紅色網布、灰粉色麂皮及深莓果色點綴，營造更豐富的同色調效果。兩款 K-Tech 2 均保留性能鞋履平台採用的分段式 CloudTec® 鞋底結構及雙密度 Helion™ 泡棉。鞋履系列亦配合 K-Tech 更完整的 2026 年秋季服裝系列，包括輕量外套、吸濕排汗上衣、機能長褲與短褲，以及配飾。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fkith-on-k-tech-3-k-tech-2-k-tech-1-sneaker-collaboration-fall-2026-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/kith-on-k-tech-3-k-tech-2-k-tech-1-sneaker-collaboration-fall-2026-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 2,
+   "title": "URBAN RESEARCH 為 Salomon XA PRO 3D GTX 換上大地色調",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-18",
+   "content": "名稱：URBAN RESEARCH x Salomon XA PRO 3D GTX「Brown」配色：「Brown」產品編號：待定建議零售價：23,100 日圓（約 147 美元）發售日期：2026 年 10 月URBAN RESEARCH 再度與 Salomon 合作，為 XA PRO 3D GTX 帶來另一款獨家配色，今次採用低調的「Brown」色調。目前公布的版本僅此一款，這雙源自越野鞋的鞋型以深啡至酒紅色網布構成鞋身基調，配上亮面黑色結構覆片；冷調石板藍與灰色面板則為深色鞋面添上含蓄對比。鞋身角狀支架及後跟周邊加入帶反光效果的飾邊，令多層次結構更見輪廓；黑色 Quicklace 式鞋帶、保護性鞋頭結構及以黑色為主的鞋底單元亦相互呼應。後跟橫跨鞋面的 Salomon 大型標誌，是其中一項最鮮明的圖案點綴，為這款大地色設計注入明確的技術感。XA PRO 3D GTX 延續其戶外基因，功能配置亦以此為本：具支撐力的加固鞋面配合 GORE-TEX 全天候防護，以及厚實、專為越野而設的外底，在多變環境下維持穩定性與抓地力。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Ffturban-research-salomon-xa-pro-3d-gtx-brown-official-images-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/urban-research-salomon-xa-pro-3d-gtx-brown-official-images-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "LeBron James 預覽 Nike LeBron 24「Chosen 1s」",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-18",
+   "content": "摘要 LeBron James 早前在訓練期間，率先上腳曝光即將登場的 Nike LeBron 24「Chosen 1s」。這雙球鞋採用醒目的 Tour Yellow 鞋身，並以 Metallic Gold 與 Midnight Navy 細節點綴。此配色預計將於 2026 年 12 月發售，定價為 200 美元。 名稱： Nike LeBron 24「Chosen 1s」配色： Tour Yellow／Metallic Gold-Midnight Navy產品編號： IO8201-700建議零售價： 200 美元發售日期： 2026 年 12 月發售渠道： NikeNike 與 LeBron James 率先公開 Nike LeBron 24「Chosen 1s」。Mario Briguglio 最先報道此消息，這位 NBA 超級球星其後在與訓練師 Chris Johnson 的訓練環節中，首次穿上這款鮮黃色配色。鞋面及鞋底組件以「Tour Yellow」為主調，並點綴 Metallic Gold 與 Midnight Navy。雖然早期訓練片段仍未能看清完整的設計細節，但明亮的同色調美學已令鞋款在球場上相當搶眼。「Chosen 1s」之名直接取自 2002 年 《Sports Illustrated》 的封面專題；該報道在 James 高中最後一年時便將他推上矚目位置。此主題版本致敬他從高中天才球員躍升為 NBA 歷來得分王及 4 屆冠軍的職業軌跡，而 Nike 預計會在完成版中融入更多歷史細節。Nike LeBron 24「Chosen 1s」預計於 2026 年 12 月經 Nike 及指定零售商發售，售價為 200 美元。 View this post on InstagramA post shared by Chris Johnson (@chrisjohnsonhoops) View this post on InstagramA post shared by Chris Johnson (@chrisjohnsonhoops) Click here to",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-lebron-24-chosen-1s-IO8201-700-first-look-revealed-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-lebron-24-chosen-1s-io8201-700-first-look-revealed-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "HOKA 為 TOR SUMMIT LEATHER TP 換上全黑設計",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-18",
+   "content": "名稱： HOKA TOR SUMMIT LEATHER TP「Black」配色： Black／BlackSKU： 1182950-BBLC建議零售價： 40,700 日圓（約 259 美元）發售日期： 現已發售購買地點： HOKAHOKA 為戶外機能休閒鞋履系列添上 TOR SUMMIT LEATHER TP「Black」配色。鞋身近乎全黑，皮革的細緻光澤為寬闊鞋頭與側幅勾勒輪廓；同色調繩狀鞋帶、黑色金屬鞋眼及低調的鞋跟標誌，則延續一體化的單色設計。編織鞋舌與加厚鞋領在單一色調中帶來不同質感，令鞋面更具層次，同時不破壞其克制簡約的觀感。鞋型亦延續對傳統登山鞋的參考，於厚實的登山鞋輪廓與 HOKA 較現代的生活風格定位之間取得平衡。實用機能仍是設計核心：保護性橡膠擋泥邊包覆鞋面下半部，厚實的緩震中底則強化 HOKA 一貫的厚底腳感。下方搭載 Vibram® Megagrip 外底，以明顯鞋齒紋路在濕、乾地面提供抓地力；高度紋理化的鞋底，亦與上方相對幼滑的皮革形成觸感上的對比。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fhoka-tor-summit-leather-tp-black-1182950-bblc-release-info-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/hoka-tor-summit-leather-tp-black-1182950-bblc-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "HOKA"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Nike SHAI 002 預計於 2027 年 2 月推出",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-18",
+   "content": "摘要 據報道，Shai Gilgeous-Alexander 的下一雙個人簽名球鞋款式 Nike SHAI 002 有望在 2027 年 2 月正式亮相。根據 brandon1an 的消息，首發配色將會採用 Hot Curry、Dark Team Red 及 Orange Chalk 組成的色調。這雙球鞋預計將於 NBA 全明星週末期間在 Phoenix 發售，男裝尺碼定價為 145 美元。 名稱：Nike SHAI 002配色：咖喱黃／深隊紅／橙粉筆色貨號：JU1175-800建議零售價：145 美元發售日期：2027 年 2 月發售渠道： Nike據報 Nike 正與 Oklahoma City Thunder 球星 Shai Gilgeous-Alexander 籌備推出 Nike SHAI 002。消息最先由 @brandon1an 報道；這雙即將登場的鞋款是 Gilgeous-Alexander 的第 2 款簽名鞋，亦意味其簽名鞋系列將由 Converse 轉至 Nike 主線籃球產品陣容。據報，首發配色為「咖喱黃／深隊紅／橙粉筆色」。傳聞鞋款將於 2027 年 2 月面世，正好配合在 Phoenix 舉行的 NBA 全明星周末；這亦延續其首雙簽名鞋 Converse SHAI 001 於 2025 年 2 月推出的時間安排。鞋款設計細節尚未獲確認，但簽名鞋系列轉至 Nike，標誌着一次架構上的轉變；至於品牌轉換的具體原因，暫時仍未公開。Nike SHAI 002 預計於 2027 年 2 月透過 Nike 及指定 Nike Basketball 零售商發售；男裝尺碼售價為 145 美元，學童尺碼則為 120 美元。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-shai-002-expected-to-release-in-february-2027-reports-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-shai-002-expected-to-release-in-february-2027-reports",
+   "lang": "zh",
+   "relatedBrands": [
+    "CONVERSE",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
    "title": "Balenciaga 攜手 J.M. Weston 打造 2026 冬季混合鞋履系列",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -43,7 +105,72 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 7,
+   "title": "Kith x On Expands the K-Tech Line With the New K-Tech 3",
+   "source": "Hypebeast",
+   "date": "2026-09-18",
+   "content": "Name: Kith K-Tech Fall 2026MSRP: $180- 190 USDRelease Date: Available NowWhere to Buy: KithKith and On are expanding their collaborative footwear partnership for Fall 2026 with the introduction of the K-Tech 3, the duo’s first dedicated lifestyle silhouette. Building upon the foundation of their previous releases, the new K-Tech 3 features a highly textured upper crafted from technical woven mesh and layered with premium suede overlays.Two colorways offer markedly different treatments: Ivory/Storm layers creamy mesh and pale suede with yellow-green detailing around the heel and branding, finished by a contrasting teal-toned midsole edge, while Black/Black takes a more understated approach with tonal black mesh, matte suede and matching tooling that lets the differences in texture define the shoe. Co-branding appears across the tongue, footbed and lateral side, with K&K artwork placed med",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fkith-on-k-tech-3-k-tech-2-k-tech-1-sneaker-collaboration-fall-2026-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/kith-on-k-tech-3-k-tech-2-k-tech-1-sneaker-collaboration-fall-2026-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 8,
+   "title": "URBAN RESEARCH Reworks the Salomon XA PRO 3D GTX in Earthy Tones",
+   "source": "Hypebeast",
+   "date": "2026-09-18",
+   "content": "Name: URBAN RESEARCH × Salomon XA PRO 3D GTX “Brown”Colorway: “Brown”SKU: TBCMSRP: ¥23,100 JPY (approx. $147 USD)Release Date: October 2026URBAN RESEARCH reunites with Salomon for another exclusive color treatment, this time applying a subdued “Brown” palette to the XA PRO 3D GTX. Currently announced as a single colorway, the trail-derived silhouette combines a deep brown-to-burgundy mesh base with glossy black structural overlays, while cool slate-blue and grey panels cut through the darker upper for a subtle contrast.Reflective-looking trim around the angular cage and heel brings additional definition to the layered construction, complemented by black Quicklace-style lacing, a protective toe structure and a predominantly black sole unit. Large Salomon branding across the heel provides one of the clearest graphic accents, giving the otherwise earthy treatment a distinctly technical fini",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Ffturban-research-salomon-xa-pro-3d-gtx-brown-official-images-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/urban-research-salomon-xa-pro-3d-gtx-brown-official-images-info",
+   "lang": "en",
+   "relatedBrands": [
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "LeBron James Previews the Nike LeBron 24 \"Chosen 1s\"",
+   "source": "Hypebeast",
+   "date": "2026-09-18",
+   "content": "Summary LeBron James has debuted a first look at the upcoming Nike LeBron 24 \"Chosen 1s\" during a workout sessionThe silhouette features a bold Tour Yellow upper accented by hits of Metallic Gold and Midnight NavyThe colorway is expected to release in December 2026 with a retail price tag of $200 USD Name: Nike LeBron 24 \"Chosen 1s\"Colorway: Tour Yellow/Metallic Gold-Midnight NavySKU: IO8201-700MSRP: $200 USDRelease Date: December 2026Where to Buy: NikeNike and LeBron James have offered an early look at the Nike LeBron 24 \"Chosen 1s\". First reported by Mario Briguglio, the NBA superstar debuted the vibrant colorway during a workout session with trainer Chris Johnson.Drenched predominantly in \"Tour Yellow\" across the upper and sole unit, the design incorporates minor accents of Metallic Gold and Midnight Navy. While complete design nuances remain obscured in the early workout footage, the",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fnike-lebron-24-chosen-1s-IO8201-700-first-look-revealed-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-lebron-24-chosen-1s-io8201-700-first-look-revealed-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "HOKA Gives the TOR SUMMIT LEATHER TP an All-Black Finish",
+   "source": "Hypebeast",
+   "date": "2026-09-18",
+   "content": "Name: HOKA TOR SUMMIT LEATHER TP “Black”Colorway: Black/BlackSKU: 1182950-BBLCMSRP: ¥40,700 JPY (approx. $259 USD)Release Date: Available NowWhere to Buy: HOKAHOKA expands its rugged lifestyle offering with the TOR SUMMIT LEATHER TP in a tonal “Black” colorway. Rendered almost entirely in black, the shoe uses the leather’s subtle sheen to bring definition to its broad toe and side panels, while tonal rope laces, black metal eyelets and understated heel branding preserve the monochromatic finish.A woven tongue and padded collar introduce contrasting textures within the single-color palette, giving the upper greater visual depth without disrupting its restrained look. The silhouette itself continues to reference traditional mountaineering footwear, balancing a substantial hiking-shoe profile with HOKA’s more contemporary lifestyle positioning.Utility remains central to the design, with a p",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fhoka-tor-summit-leather-tp-black-1182950-bblc-release-info-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/hoka-tor-summit-leather-tp-black-1182950-bblc-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "HOKA",
+    "UGG"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Nike SHAI 002 Expected to Release in February 2027",
+   "source": "Hypebeast",
+   "date": "2026-09-18",
+   "content": "Summary Shai Gilgeous-Alexander's next signature model the Nike SHAI 002 is reportedly expected to debut in February 2027According to reports from brandon1an the initial colorway is listed in a Hot Curry Dark Team Red and Orange Chalk paletteThe sneaker is slated to launch around NBA All-Star Weekend in Phoenix with men's sizing priced at $145 USD Name: Nike SHAI 002Colorway: Hot Curry/Dark Team Red-Orange ChalkSKU: JU1175-800MSRP: $145 USDRelease Date: February 2027Where to Buy: NikeNike and Oklahoma City Thunder star Shai Gilgeous-Alexander are reportedly preparing the launch of the Nike SHAI 002. First reported by @brandon1an, the upcoming sneaker marks Gilgeous-Alexander's second signature model, shifting from Converse to Nike's mainline basketball roster.According to reports, the inaugural pair is listed in a \"Hot Curry/Dark Team Red/Orange Chalk\" color scheme. The rumored February ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fnike-shai-002-expected-to-release-in-february-2027-reports-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-shai-002-expected-to-release-in-february-2027-reports",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 12,
    "title": "Balenciaga and J.M. Weston Team up on Hybrid Footwear Collection for Winter 2026",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -56,7 +183,151 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 13,
+   "title": "MOWALOLA x Air Jordan 14 Mule SP “Metallic Silver” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-18",
+   "content": "Mowalola takes the Air Jordan 14 into unexpected territory, transforming the Ferrari-inspired model into a backless, laceless mule that debuted… The post MOWALOLA x Air Jordan 14 Mule SP “Metallic Silver” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_9_Mule_Shoe_05_b3d40ccf-7c32-4a16-b768-df6cb8ab3212-1-scaled-e1789772980292.jpeg",
+   "link": "https://www.nicekicks.com/mowalola-air-jordan-14-mule-sp-metallic-silver-ir0908-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "MOWALOLA x Air Jordan 14 SP “Burnt Red” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-18",
+   "content": "Unveiled during Paris Fashion Week, Mowalola’s Air Jordan 14 collaboration brings her provocative design language to the Ferrari-inspired silhouette with… The post MOWALOLA x Air Jordan 14 SP “Burnt Red” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_9_Hightop_Shoe_08_fac97d48-a99a-4852-b555-56557d13dc92-1-scaled-e1789772773492.jpeg",
+   "link": "https://www.nicekicks.com/mowalola-air-jordan-14-sp-burnt-red-iq5708-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-18",
+   "content": "The Bad Bunny x adidas BadBo 1.0 “Night Navy” is releasing on September 26, 2026, via adidas CONFIRMED and select… The post Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/LB5996_6-1-e1789771255677.jpg",
+   "link": "https://www.nicekicks.com/bad-bunny-adidas-badbo-1-0-night-navy-lb5996/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "adidas Anthony Edwards 3 “Snow Camo”",
+   "source": "Nice Kicks",
+   "date": "2026-09-18",
+   "content": "The adidas Anthony Edwards 3 “Snow Camo” is set to release on October 9, 2026, via adidas.com and select retailers… The post adidas Anthony Edwards 3 “Snow Camo” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/KH8542_1-1-e1789770776994.jpg",
+   "link": "https://www.nicekicks.com/adidas-anthony-edwards-3-snow-camo-kh8542/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Tom Sachs x NikeCraft General Purpose Shoe “Demerits”",
+   "source": "Nice Kicks",
+   "date": "2026-09-18",
+   "content": "The Tom Sachs x NikeCraft General Purpose Shoe “Demerits” is releasing with an all leather upper on September 30, 2026, via… The post Tom Sachs x NikeCraft General Purpose Shoe “Demerits” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/02/IMG_8866.png",
+   "link": "https://www.nicekicks.com/tom-sachs-nikecraft-general-purpose-shoe-demerits-fz1363-002/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Ant-Man Iced Out adidas' Iconic Court Classic",
+   "source": "Highsnobiety",
+   "date": "2026-09-18",
+   "content": "Translating his on-court style onto a 1970s court classic, the Anthony Edwards x adidas Superstar Cold Blooded lands on September 18.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/anthony-edwards-adidas-superstar-cold-blooded/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "A Century-Old Shoemaker Helped Balenciaga Find Its Freak Again",
+   "source": "Highsnobiety",
+   "date": "2026-09-18",
+   "content": "A line of JM Weston x Balenciaga oxfords comes dotted with silver studs and crushed heels, signaling the French fashion house can still get freaky.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/balenciaga-jm-weston/",
+   "lang": "en",
+   "relatedBrands": [
+    "BALENCIAGA"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "adidas’ Tough Hiking Sneaker Is One Rugged Little Number",
+   "source": "Highsnobiety",
+   "date": "2026-09-18",
+   "content": "adidas’ Terrex Free Hiker 3 Low GORE-TEX brings a tough, trail-ready build to a low-top hiking sneaker made for fall’s wetter days.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-terrex-freehiker-3-low-gore-tex-hiking-shoes/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "UGG"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "This Heavyweight Nike Classic Is the Literal Blueprint",
+   "source": "Highsnobiety",
+   "date": "2026-09-18",
+   "content": "Offering a subtle, blueprint-inspired spin, the Swoosh introduces the Nike Air Max 95 Pencil Point/Cobblestone.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-95-pencil-point-cobblestone/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Brain Dead's Approach Shoe Might Never Even See A Rockface",
+   "source": "Highsnobiety",
+   "date": "2026-09-18",
+   "content": "Kyle Ng's Los Angeles label joins forces with the Three Stripes' outdoor division to drop the Brain Dead x adidas Five Ten Guide Tennie Approach Shoe.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-brain-dead-five-ten-guide-tennie-approach-shoe/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "This Heated Nike Slide Is a Major Winter WFH Essential",
+   "source": "Highsnobiety",
+   "date": "2026-09-18",
+   "content": "Transforming thermal recovery into everyday footwear, the Swoosh introduces the Hyperice x Nike Air Zoom Hyperslide which will retail at $350.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-hyperice-air-zoom-hyperslide/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 24,
    "title": "Kiko Kostadinov 與 ASICS 以 LYASA FF II 為 Tabi 鞋履系列作結",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -69,7 +340,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 25,
    "title": "S’YTE x MOONSTAR 001 揭開 Yohji Yamamoto 旗下品牌的鞋履新篇章",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -80,7 +351,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 5,
+   "id": 26,
    "title": "KAMIYA 為 BROTHER BRIDGE HENRY 靴注入復古磨損質感",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -91,7 +362,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 27,
    "title": "adidas 攜手 Asphalt 推出「Cannoli」Samba 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -104,7 +375,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 28,
    "title": "Caitlin Clark 預告 Nike Caitlin 1「3x Black」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -117,7 +388,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 29,
    "title": "Shareef O’Neal 於紐約時裝週首度發布 Shareef by Shaq 系列",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -128,7 +399,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 9,
+   "id": 30,
    "title": "Kiko Kostadinov and ASICS Close Out Their Tabi Sneaker Series With the LYASA FF II",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -141,7 +412,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 31,
    "title": "The S’YTE x MOONSTAR 001 Marks a New Footwear Chapter for Yohji Yamamoto’s Label",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -152,7 +423,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 11,
+   "id": 32,
    "title": "KAMIYA Brings a Worn-In Edge to BROTHER BRIDGE’s HENRY Boot",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -165,7 +436,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 33,
    "title": "adidas and Asphalt Serve Up a Cannoli-Inspired Samba",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -178,7 +449,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 34,
    "title": "Caitlin Clark Teases the Nike Caitlin 1 \"3x Black\"",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -191,7 +462,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 35,
    "title": "Shareef O’Neal Debuts First-Ever Shareef by Shaq Collection",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -202,7 +473,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 15,
+   "id": 36,
    "title": "Air Jordan 1 Low OG “Howard” (IX8478-410) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-17",
@@ -215,310 +486,52 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
-   "title": "1997 Called, They Said Their Nike Ball Shoes Are Better Than Ours",
-   "source": "Highsnobiety",
-   "date": "2026-09-17",
-   "content": "Returning to its fiery roots, the Swoosh revives the high-octane 90s classic in its truest form with the Nike Air Bakin OG Varsity Red.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-bakin-varsity-red/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "The Seven Best adidas Sneaker Releases This Week",
-   "source": "Highsnobiety",
-   "date": "2026-09-17",
-   "content": "In this iteration of our weekly round-up of adidas' best releases, find teddy-fur Stella McCartneys, a shreddingly good skate sneaker, & the slimmest Samba ever",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-sneaker-releases-september-week-3/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "Two Decades of Studying Feet Went Into These Shoes",
-   "source": "Highsnobiety",
-   "date": "2026-09-17",
-   "content": "Footworks is a Japanese footwear label overseen by a designer of insoles. Yes, insoles; these gorgeous leather shoes are actually good for your feet.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/footworks-brand-interview/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 19,
-   "title": "Fall Has Found Its Perfect Suede Dad Sneaker, It's New Balance (Obviously)",
-   "source": "Highsnobiety",
-   "date": "2026-09-17",
-   "content": "The New Balance Made in UK 991v1 Luxe Suede gets a rich brown suede makeover, making it the perfect dad sneaker for fall.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-made-in-uk-991v1-luxe-suede/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "New Balance Issues an All-American Cotton Candy Classic",
-   "source": "Highsnobiety",
-   "date": "2026-09-17",
-   "content": "Continuing the Made in USA legacy, the brand delivers the New Balance Made in USA 990v4 Grey Violet/Timberwolf/Black.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-990v4-grey-violet/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "Vansza’s Obscure Knu Skool Misses the Forest for the Trees",
-   "source": "Highsnobiety",
-   "date": "2026-09-17",
-   "content": "Vansza's camo-colored Knu Skool is the perfect representation of where the future of Vans fashion is going",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vansza-knu-skool-camoflauge/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "WORKSOUT 為 Vans Premium Authentic 注入滿版卡通圖案",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-16",
-   "content": "名稱：WORKSOUT x Vans Premium Authentic「WORKGU SAN？」配色：白色、藍色產品編號：待定建議零售價：待定發售日期：9 月 17 日購買地點：WORKSOUT南韓選貨店 WORKSOUT 與 Vans 攜手合作，為 Premium Authentic 鞋型帶來一款玩味十足的聯乘設計，並正式命名為「WORKGU SAN？」系列。這次合作將於 2026 年 9 月 17 日率先在日本 WORKSOUT Aoyama 獨家發售，以充滿童趣的視角重新演繹這雙經典帆布鞋。設計圍繞「在沉悶日常中偶遇意想不到的樂趣」的主題，為這款經典鞋型注入輕鬆而富當代感的變奏。鞋款充分展現 WORKSOUT 獨特的品牌個性，將 Vans 升級 Premium 系列的製作規格，與這個南韓品牌標誌性的玩味活力自然融合。鞋款備有清爽的白色及深藍色兩款配色，帆布鞋面均印上度身設計的滿版圖案；WORKSOUT 的卡通小狗吉祥物「WORKGU」與特色字樣及品牌標誌交織其中。細節方面，鞋款配上穿過同色白色鞋眼的粗白色繩狀鞋帶，鞋側標籤及後跟飾片則保留傳統 Vans 品牌標誌。白色經典硫化橡膠中底之下，是半透明外底，底部清晰展示 WORKSOUT 品牌標誌，為這雙細緻講究的鞋款作結。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fftworksout-vans-premium-authentic-workgu-san-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/worksout-puts-its-all-over-cartoon-graphics-on-the-vans-premium-authentic",
-   "lang": "zh",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "Timberland 與日本饒舌歌手 Kohjiya 聯乘推出升級版 Field Boot",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-16",
-   "content": "名稱：Timberland x Kohjiya 防水 Field Boots配色：待定產品編號：待定建議零售價：30,800 日圓（約 199 美元）發售日期：9 月 26 日發售地點：TimberlandTimberland 與日本藝術家 Kohjiya 合作推出限量版防水 Field Boot，將於 2026 年 9 月 26 日在 Timberland Boutique Tokyo 及 Timberland Shibuya PARCO 發售。這款高級版本保留 Field Boot 堅固耐用、足以應對各種天氣的結構，並以高度個人化的訂製細節，為標準鞋型增添新意。靴跟刻有細緻雕刻，向藝術家的根源致意：包括靈感來自其個人項鏈吊飾的招牌「KJ」標誌，以及象徵其家鄉長崎的白鴿圖案。為進一步突顯鞋款的紀念意義，原裝吊牌印上「TIMELESS」字樣，呼應 Kohjiya 於 2026 年 4 月推出的首張個人全長專輯《TIMELESS》。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Ftimberland-kohjiya-waterproof-field-boots-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/timberland-kohjiya-waterproof-field-boots-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "TIMBERLAND"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "Sneaker Politics 與 Timberland 推出南方風格 6-Inch Boot 聯乘系列",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-16",
-   "content": "摘要 Sneaker Politics 聯同 Timberland 帶來雙方首個合作企劃，主角鎖定品牌經典 6 吋鞋筒靴。此系列推出兩款帶有美國南部風格的配色，分別為以黑色荔枝紋皮革打造的「Outlaw」，以及採用深啡色鞋身並點綴牛紋鞋跟的「Rodeo」。兩款鞋將於 2026 年 9 月 24 日率先透過 Sneaker Politics 登場，其後在 2026 年 9 月 25 日於 Timberland 擴大發售，定價為每雙 225 美元。 Sneaker Politics 與 Timberland 正式宣布首次聯乘，以美國南方視角重新演繹經典 6-Inch Boot。此系列推出兩個版本——「Outlaw」及「Rodeo」——設計靈感源自這間精品店扎根 Louisiana 的背景及當地文化。「Outlaw」採用黑色荔枝紋皮革鞋面，配以鱷魚皮風格紋理鞋領；鞋頭及側面飾板綴以細緻的西部風格車線，為深色調注入含蓄的傳統韻味。有別於黑色版本，「Rodeo」以深啡色皮革鞋面呈現經典西部色調，後跟穩定片包覆牛紋材質，在不改變靴款經典輪廓的前提下，成為鮮明焦點。此企劃亦延續 Sneaker Politics 一直以來圍繞 Pelican State 的景色、音樂及河口沼澤風光設計系列的傳統。Sneaker Politics x Timberland「Outlaw」及「Rodeo」6-Inch Boots 將於 2026 年 9 月 24 日率先在 Sneaker Politics 實體店及透過 Sneaker Politics 網上發售；Timberland 則於翌日（2026 年 9 月 25 日）推出更廣泛發售，兩款售價均為 225 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fsneaker-politics-timberland-southern-inspired-6-inch-boot-pack-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/sneaker-politics-timberland-southern-inspired-6-inch-boot-pack-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "TIMBERLAND"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "Patta x Crocs 為 Classic EXP Clog「Almost White」及「Black」配色升級 Vibram 鞋底",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-16",
-   "content": "名稱： Patta x Crocs Classic EXP Clog「Black」、Patta x Crocs Classic EXP Clog「Almost White」配色：迷彩／黑色、黑色／黑色產品編號：212487-1CN、212487-001建議零售價：85 美元發售日期：9 月 18 日發售渠道：PattaPatta 與 Crocs 重新演繹 Classic EXP Clog，將這個 Amsterdam 品牌的設計美學注入一雙為舒適度與抓地力而設的日常鞋款。今回聯乘推出「Almost White」與「Black」兩款配色，以技術機能作基礎，亦保留 Patta 多數鞋履一貫具備的多變造型可能。鞋款的機能核心藏於足下。緩震 Vibram 鞋底帶來抓地力與支撐，取代標準 Crocs 鞋底，換上這種較常見於戶外機能鞋的組件。Black 配色由 90% 熱塑性 EVA 與 10% 織物織帶構成，既維持輕量，亦加強可調校的加墊踝帶，讓鞋履穩妥貼合雙腳。這條踝帶正是鞋款的機能標誌，穿者可在穩固的包跟穿法與較寬鬆的露跟拖鞋穿法之間切換。個人化同樣是設計概念的另一重核心。兩款鞋均隨附獨家 Jibbitz 鞋扣；Crocs 的文化影響力很大程度正是建基於這款可自由組合的配件，而 Patta 亦不只把它視作點綴。品牌將每雙 Clog 定位為可讓穿者按自身方式搭配及演繹的基礎，呼應其長久以來重視自我表達、多於既定設計框架的取向。配色亦延續這份克制。「Almost White」與「Black」均以刻意低調、易於搭配的同色調處理呈現，維持俐落輪廓，讓鞋款結構與鞋扣成為焦點，而非依賴搶眼圖案。這是一場較為內斂的聯乘：先是一雙日常鞋履，其次才是備受追捧的單品。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftPatta-Crocs-Classic-EXP-Clog-Black-Almost-White-212487-1CN-212487-001-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/patta-crocs-classic-exp-clog-black-almost-white-212487-1cn-212487-001-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "CROCS"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Taller De Rafa 首款 Nike Air Max Goadome Low 以仿舊啡色皮革演繹車房美學",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-16",
-   "content": "名稱： Taller De Rafa x Nike Air Max Goadome Low配色： Mosswood Brown/Phantom-Metallic Silver貨號： IU4876-200建議零售價： 185 美元發售日期： 9 月 25 日發售渠道： SNKRSTaller De Rafa x Nike Air Max Goadome Low 是這個 Bronx 街頭品牌首度涉足鞋履之作，並將這雙源自靴款的鞋型化作品牌車房情結的畫布。TDR 由 Genesis 與 Rafael Valverde 兄弟於疫情期間創立，品牌形象深受汽車文化影響，這個主題也主導了鞋上幾乎所有物料與五金的取材。設計先從皮革著手。鞋面覆以啡色皮革，邊緣經磨損處理並刻意做舊，令鞋款初上架時已有穿舊感，而非一派嶄新模樣。鞋領以網布包覆，打破皮革的連貫性，亦為結構添上技術感；外露 Swoosh 與 TDR 徽章則置於後跟一帶。細節令車房主題更見具體。六角形鞋眼以螺栓頭般的輪廓，取代常見的圓形金屬鞋眼；快速扳手吊牌則猶如剛從工作枱取下的工具。鞋帶亦提供多種選擇，包括傳統靴帶、闊身雙色款與幼身皮革款，每一款都會為鞋履帶來不同個性。Taller De Rafa 更將概念延伸至鞋款以外的呈現方式。鞋盒採用油漬效果處理，把鞋面上磨舊、充滿機械感的敘事延續至包裝，令整個發售企劃呼應品牌名稱所指的工場美學。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftTaller-De-Rafa-Nike-Air-Max-Goadome-Low-IU4876-200-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/taller-de-rafa-nike-air-max-goadome-low-iu4876-200-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "StreetSnaps: Brooklyn’s Jorge \"Gitoo\" Wright Masters the Art of Proportion and Earth Tones",
-   "source": "Hypebeast",
-   "date": "2026-09-16",
-   "content": "There’s a science to street-level dressing in New York City, where the line between effortless daily wear and a well-thought out silhouette plays out on brownstone stoops. In this installment of StreetSnaps, model, host, and casting director Jorge \"Gitoo\" Wright demonstrates a masterclass in relaxed proportion and tonal harmony against a classic Brooklyn backdrop. Posing amidst the cast-iron railings and warm brickwork of his neighborhood, Gitoo turns a straightforward outfit into an unmistakable lesson in modern New York streetwear culture. View this post on InstagramA post shared by HYPEBEAST (@hypebeast) At the core of Gitoo’s look is a deliberate interplay of volumes anchored by earth-toned neutrals. Up top, he wears an oversized, dark brown long-sleeve Timberland shirt featuring a subtle waffle texture and a slight crew neckline. The piece drops naturally at his shoulders and wrist,",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F08%2F28%2Ftimberland-gitoo-streetsnaps-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/streetsnaps-gitoo-timberland",
-   "lang": "en",
-   "relatedBrands": [
-    "TIMBERLAND",
-    "UGG"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "WORKSOUT Puts Its All-over Cartoon Graphics on the Vans Premium Authentic",
-   "source": "Hypebeast",
-   "date": "2026-09-16",
-   "content": "Name: WORKSOUT x Vans Premium Authentic “WORKGU SAN?”Colorway: White, BlueSKU: TBCMSRP: TBCRelease Date: September 17Where to Buy: WORKSOUTSouth Korean select shop WORKSOUT is teaming up with Vans to release a playful, collaborative take on the Premium Authentic silhouette, officially dubbed the \"WORKGU SAN?\" pack. Scheduled to launch exclusively at WORKSOUT Aoyama in Japan on September 17, 2026, this partnership reimagines the classic canvas sneaker through a whimsical lens.Built around the thematic concept of finding \"unexpected fun encountered in a boring everyday life,\" the design brings a lighthearted, contemporary twist to the heritage footwear model. The release draws heavily on WORKSOUT's distinct brand identity, seamlessly merging Vans' elevated Premium series construction with the Korean label's signature playful energy.Coming in crisp white and navy blue colorways, both iterat",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F16%2Fftworksout-vans-premium-authentic-workgu-san-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/worksout-puts-its-all-over-cartoon-graphics-on-the-vans-premium-authentic",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "Sneaker Politics and Timberland Partner on Southern-Inspired 6-Inch Boot Pack",
-   "source": "Hypebeast",
-   "date": "2026-09-16",
-   "content": "Summary Sneaker Politics and Timberland have teamed up for their debut collaboration on the classic 6-Inch BootThe collection features two Southern-inspired colorways titled the Outlaw in black pebbled leather and the Rodeo in dark brown with cow-print heelsBoth pairs launch September 24 2026 via Sneaker Politics followed by a wider Timberland release on September 25, 2026 for $225 USD each Sneaker Politics and Timberland have officially announced their debut collaboration, customizing the iconic 6-Inch Boot through a Southern lens. FThe release introduces two distinct iterations—the \"Outlaw\" and \"Rodeo\"—drawing design inspiration from the boutique's Louisiana roots and regional culture.The \"Outlaw\" iteration features a black pebbled leather upper paired with a crocodile-style textured collar. Detailed Western stitching is applied across the toe box and side panels, giving the dark color",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F16%2Fsneaker-politics-timberland-southern-inspired-6-inch-boot-pack-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/sneaker-politics-timberland-southern-inspired-6-inch-boot-pack-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "TIMBERLAND"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "VILLAGE PM Debuts the 2PM Silhouette, Marking Expansion Into the US for FW26",
-   "source": "Hypebeast",
-   "date": "2026-09-16",
-   "content": "Summary VILLAGE PM has introduced its new 2PM silhouette alongside fresh Fall/Winter 2026 colorwaysThe Paris-founded skate brand is officially entering the US market with a dedicated domestic website and premier retail stockistsFounded by Basile Lapray and Bram De Cleen the label merges high-performance climbing shoe functionality with progressive skate design VILLAGE PM has officially announced the launch of its 2PM silhouette alongside its debut expansion into the United States for the Fall/Winter 2026 season. Founded in Paris in March 2025 by Basile Lapray and Bram De Cleen, the progressive skate footwear label expands its global footprint following the breakout success of its flagship 1PM model.The new 2PM model evolves the brand's core design ethos, combining rapid break-in comfort with high abrasion resistance. Engineered closer to the ground with a more structured profile, the sho",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F15%2Fvillage-pm-debuts-the-2pm-silhouette-marking-expansion-into-us-fall-winter-2026-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/village-pm-debuts-the-2pm-silhouette-marking-expansion-into-us-fall-winter-2026",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 31,
-   "title": "The adidas Adizero EVO SL Zip Takes Performance Style to the Streets",
-   "source": "Nice Kicks",
-   "date": "2026-09-16",
-   "content": "The line between performance footwear and everyday style continues to disappear, and the adidas Adizero EVO SL Zip is built… The post The adidas Adizero EVO SL Zip Takes Performance Style to the Streets appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/IMG_3243.png",
-   "link": "https://www.nicekicks.com/the-adidas-adizero-evo-sl-zip-takes-performance-style-to-the-streets/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "Air Jordan 6 Low WMNS “Metamorphosis” September 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-15",
-   "content": "The Air Jordan 6 Low WMNS “Metamorphosis” is releasing on September 16, 2026, via Nike.com and select retailers for $205. Check out… The post Air Jordan 6 Low WMNS “Metamorphosis” September 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/08/ix5195-001-5-e1788467462163.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-6-low-wmns-metamorphosis-ix5195-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Disney Lightning McQueen x Crocs Classic Clog “Dinoco”",
-   "source": "Nice Kicks",
-   "date": "2026-09-15",
-   "content": "Interested fans and readers can expect the Disney Lightning McQueen x Crocs Classic Clog “Dinoco” to release on September 16,… The post Disney Lightning McQueen x Crocs Classic Clog “Dinoco” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/08/IMG_2591-e1787070715528.png",
-   "link": "https://www.nicekicks.com/disney-lightning-mcqueen-crocs-classic-clog-dinoco-213582-90h/",
-   "lang": "en",
-   "relatedBrands": [
-    "CROCS"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "Nike Caitlin 1 “Caitlin Blue” October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-14",
-   "content": "The Nike Caitlin 1 “Caitlin Blue” has finally been debuted and is set to release on October 1, 2026, via SNKRS and… The post Nike Caitlin 1 “Caitlin Blue” October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/06/IMG_1350.png",
-   "link": "https://www.nicekicks.com/nike-caitlin-1-caitlin-blue-ih7423-400/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "Palmes x Converse Jack Purcell PDM “Parisian Night”",
-   "source": "Nice Kicks",
-   "date": "2026-09-14",
-   "content": "The Palmes x Converse Jack Purcell PDM “Parisian Night” is releasing on September 15, 2026, via Converse, SNKRS, and select retailers for $100.… The post Palmes x Converse Jack Purcell PDM “Parisian Night” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/a24786c-400-5-1-e1789479111314.jpg",
-   "link": "https://www.nicekicks.com/palmes-converse-jack-purcell-pdm-parisian-night-a24786c/",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "Palmes x Converse Jack Purcell PDM “Mountain View”",
-   "source": "Nice Kicks",
-   "date": "2026-09-14",
-   "content": "The Palmes x Converse Jack Purcell PDM “Mountain View” is releasing on September 15, 2026, via Converse, SNKRS, and select retailers for $100.… The post Palmes x Converse Jack Purcell PDM “Mountain View” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/a24756c-347-5-e1789478903627.jpg",
-   "link": "https://www.nicekicks.com/palmes-converse-jack-purcell-pdm-mountain-view-a24756c/",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
    "id": 37,
-   "title": "Nike Kobe 3 Protro “Black/White”",
+   "title": "adidas Anthony Edwards 3 “Cold Blooded” September 2026 Release Date & Info",
    "source": "Nice Kicks",
-   "date": "2026-09-14",
-   "content": "The Nike Kobe 3 Protro “Black/White” is set to release on September 26, 2026, via SNKRS and select retailers for… The post Nike Kobe 3 Protro “Black/White” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/iq5340-001-5-e1789489945258.jpg",
-   "link": "https://www.nicekicks.com/nike-kobe-3-protro-black-white-iq5340-001/",
+   "date": "2026-09-17",
+   "content": "The adidas Anthony Edwards 3 “Cold Blooded” is set to release on September 18, 2026, via adidas.com and select retailers… The post adidas Anthony Edwards 3 “Cold Blooded” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_Anthony_Edwards_3_Shoes_Blue_KH8537_15_hover_standard-1-e1789159774775.jpeg",
+   "link": "https://www.nicekicks.com/adidas-anthony-edwards-3-cold-blooded-kh8537-2026/",
    "lang": "en",
    "relatedBrands": [
-    "NIKE"
+    "ADIDAS"
    ]
   },
   {
    "id": 38,
-   "title": "Nike Caitlin 1 “Purple Venom” December 2026 Release Date & Info",
+   "title": "The JAIDE x Air Jordan 11 “Fiberglass” Is Releasing Exclusively Through The Whitaker Group",
    "source": "Nice Kicks",
-   "date": "2026-09-14",
-   "content": "The Nike Caitlin 1 “Purple Venom” is set to release on December 12, 2026, via SNKRS and select retailers for $140.… The post Nike Caitlin 1 “Purple Venom” December 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/nike-caitlin-1-purple-venom-1-scaled-e1789499024738.jpg",
-   "link": "https://www.nicekicks.com/nike-caitlin-1-purple-venom-ih7423-500/",
+   "date": "2026-09-17",
+   "content": "JAIDE introduces its world through “Feelin’ It,” a campaign accompanying the arrival of its Air Jordan 11 collaboration. Set in… The post The JAIDE x Air Jordan 11 “Fiberglass” Is Releasing Exclusively Through The Whitaker Group appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_2_791586580_18119062397512701_3811132079199962764_n-1-scaled-e1788791889983.jpeg",
+   "link": "https://www.nicekicks.com/jaide-air-jordan-11-low-wmns-fiberglass-iw1882-300/",
    "lang": "en",
    "relatedBrands": [
-    "NIKE"
+    "JORDAN"
    ]
   },
   {
    "id": 39,
-   "title": "Nike Caitlin 1 “Ice Cold” December 2026 Release Date & Info",
+   "title": "This Air Jordan 9 Returns for the Film’s 30th Anniversary",
    "source": "Nice Kicks",
-   "date": "2026-09-14",
-   "content": "The Nike Caitlin 1 “Ice Cold” is set to release on December 1, 2026, via SNKRS and select retailers for $140.… The post Nike Caitlin 1 “Ice Cold” December 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/nike-caitlin-1-ice-cold-1-scaled-e1789498875856.jpg",
-   "link": "https://www.nicekicks.com/nike-caitlin-1-ice-cold-ih7423-100/",
+   "date": "2026-09-17",
+   "content": "Jordan 9 OG Space Jam: The Origin of the Colorway The Air Jordan 9 holds a place in sneaker history… The post This Air Jordan 9 Returns for the Film’s 30th Anniversary appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/ix6179-100-5-e1788618017484.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-9-og-space-jam-ix6179-100-drop/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 40,
+   "title": "Nike LeBron 23 PE “Laser” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-17",
+   "content": "The Nike LeBron 23 “Laser” looks back to one of the earliest moments of LeBron James’ signature sneaker journey, drawing… The post Nike LeBron 23 PE “Laser” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/im5125-100-5-1-e1788965292473.jpg",
+   "link": "https://www.nicekicks.com/nike-lebron-23-pe-laser-im5125-100/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
