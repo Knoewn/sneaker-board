@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-19 16:05",
+ "updatedAt": "2026-09-20 08:07",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -21,6 +21,7 @@
   "CONVERSE",
   "HOKA",
   "JORDAN",
+  "NEW BALANCE",
   "NIKE",
   "SALOMON",
   "UGG"
@@ -55,6 +56,19 @@
   },
   {
    "id": 3,
+   "title": "New Balance Swaps Suede for Leather and Nubuck on the 990v4 Made in USA \"Navy/Meteorite\"",
+   "source": "Hypebeast",
+   "date": "2026-09-19",
+   "content": "Summary New Balance is introducing a dark \"Navy/Meteorite\" colorway to its Made in USA 990v4 seriesThe updated design replaces traditional soft suede with a durable leather and nubuck constructionThe pair is scheduled to release on September 24 2026 for a retail price of $195 USD Name: New Balance 990v4 Made in USA \"Navy/Meteorite\"Colorway: NB Navy/Meteorite-KombuSKU: U990BG4MSRP: $195 USDRelease Date: September 24, 2026Where to Buy: New BalanceNew Balance has officially revealed the upcoming New Balance 990v4 Made in USA \"Navy/Meteorite\". The seasonal release trades in the brand's traditional soft suede for a darker leather and nubuck build tailored for fall.Diverging from standard 990v4 releases, this iteration incorporates a sturdy leather and nubuck construction across the upper. Rendered primarily in New Balance Navy, the deep blue hue spans the underlying mesh base, structural pane",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fnew-balance-990v4-made-in-usa-navy-meteorite-U990BG4-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/new-balance-990v4-made-in-usa-navy-meteorite-u990bg4-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 4,
    "title": "Bad Bunny and adidas Unveil the Badbo 1.0 \"Puerto Rican Night\"",
    "source": "Hypebeast",
    "date": "2026-09-19",
@@ -67,7 +81,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 5,
    "title": "The atmos x adidas Tobacco “KOYO” Arrives in Two Fall-Inspired Colorways",
    "source": "Hypebeast",
    "date": "2026-09-19",
@@ -80,7 +94,111 @@
    ]
   },
   {
-   "id": 5,
+   "id": 6,
+   "title": "Nike Air Force 1 Low “Black Rat”",
+   "source": "Nice Kicks",
+   "date": "2026-09-19",
+   "content": "The Nike Air Force 1 Low “Black Rat” embraces New York City’s gritty character with a playful design inspired by… The post Nike Air Force 1 Low “Black Rat” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/iv4884-200-1-1-e1789839312344.jpg",
+   "link": "https://www.nicekicks.com/nike-air-force-1-low-black-rat-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-19",
+   "content": "The Air Jordan 3 “Fireside” (Style Code: CK9246-200) drops in a chocolate like borwn color with other hues of brown… The post Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/ck9246-200-5-1-e1789833654816.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Where To Buy the Air Jordan 9 OG “Space Jam”",
+   "source": "Nice Kicks",
+   "date": "2026-09-19",
+   "content": "Jordan 9 OG Space Jam: The Origin of the Colorway The Air Jordan 9 holds a place in sneaker history… The post Where To Buy the Air Jordan 9 OG “Space Jam” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/ix6179-100-5-e1788618017484.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-9-og-space-jam-ix6179-100-drop/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Nike’s Running Sneaker Has No Business Looking This Fast",
+   "source": "Highsnobiety",
+   "date": "2026-09-19",
+   "content": "Nike’s Structure Plus SP brings serious performance energy to a fashion-friendly running sneaker, with ZoomX and ReactX cushioning.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-structure-plus-sp/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Stella McCartney's Latest adidas Runner Is a Fluffy Winter Wonder",
+   "source": "Highsnobiety",
+   "date": "2026-09-19",
+   "content": "Channeling the spirit of the 1976 Montreal Olympics through a contemporary lens, the ongoing collaboration unveils the adidas by Stella McCartney Sportswear 76.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-stella-mccartney-76-teddy-grey/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Oogie Boogie Just Got His Own Nike Court Shoe",
+   "source": "Highsnobiety",
+   "date": "2026-09-19",
+   "content": "For the autumn basketball season, Phoenix’s star guard gets his second signature shoe prepped for the holidays with the Nike Book 2 Halloween.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-book-2-halloween-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "SKIMS' Latest Split-Toe Sneakers Are a Slimline Chocolate Treat",
+   "source": "Highsnobiety",
+   "date": "2026-09-19",
+   "content": "For its Fall 2026 Edit 01 collection, SKIMS expands its footwear catalog with the NikeSKIMS Rift Mesh Cave Stone.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nikeskims-rift-mesh-cave-stone/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "New Balance’s Retro Dad Shoe Is Serving Something Salty",
+   "source": "Highsnobiety",
+   "date": "2026-09-19",
+   "content": "New Balance’s 204L retro dad shoe arrives in a Sea Salt colorway, giving the runner-inspired silhouette a soft, understated finish.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-204l-sneaker-sea-salt/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 14,
    "title": "Kith x On 推出全新 K-Tech 3，擴展 K-Tech 系列",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -91,7 +209,7 @@
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 15,
    "title": "URBAN RESEARCH 為 Salomon XA PRO 3D GTX 換上大地色調",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -104,7 +222,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 16,
    "title": "LeBron James 預覽 Nike LeBron 24「Chosen 1s」",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -117,7 +235,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 17,
    "title": "HOKA 為 TOR SUMMIT LEATHER TP 換上全黑設計",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -130,7 +248,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 18,
    "title": "Nike SHAI 002 預計於 2027 年 2 月推出",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -144,7 +262,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 19,
    "title": "Balenciaga 攜手 J.M. Weston 打造 2026 冬季混合鞋履系列",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -157,7 +275,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 20,
    "title": "Kith x On Expands the K-Tech Line With the New K-Tech 3",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -168,7 +286,7 @@
    "relatedBrands": []
   },
   {
-   "id": 12,
+   "id": 21,
    "title": "URBAN RESEARCH Reworks the Salomon XA PRO 3D GTX in Earthy Tones",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -181,7 +299,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 22,
    "title": "LeBron James Previews the Nike LeBron 24 \"Chosen 1s\"",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -194,7 +312,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 23,
    "title": "HOKA Gives the TOR SUMMIT LEATHER TP an All-Black Finish",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -208,7 +326,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 24,
    "title": "Nike SHAI 002 Expected to Release in February 2027",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -222,7 +340,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 25,
    "title": "Balenciaga and J.M. Weston Team up on Hybrid Footwear Collection for Winter 2026",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -235,7 +353,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 26,
    "title": "MOWALOLA x Air Jordan 14 Mule SP “Metallic Silver” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -248,7 +366,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 27,
    "title": "MOWALOLA x Air Jordan 14 SP “Burnt Red” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -261,7 +379,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 28,
    "title": "Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -274,7 +392,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 29,
    "title": "adidas Anthony Edwards 3 “Snow Camo”",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -287,7 +405,7 @@
    ]
   },
   {
-   "id": 21,
+   "id": 30,
    "title": "Tom Sachs x NikeCraft General Purpose Shoe “Demerits”",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -300,86 +418,20 @@
    ]
   },
   {
-   "id": 22,
-   "title": "Ant-Man Iced Out adidas' Iconic Court Classic",
-   "source": "Highsnobiety",
+   "id": 31,
+   "title": "Nike Kobe 8 Protro “Mambacurial” September 2026 Release & Info",
+   "source": "Nice Kicks",
    "date": "2026-09-18",
-   "content": "Translating his on-court style onto a 1970s court classic, the Anthony Edwards x adidas Superstar Cold Blooded lands on September 18.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/anthony-edwards-adidas-superstar-cold-blooded/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "A Century-Old Shoemaker Helped Balenciaga Find Its Freak Again",
-   "source": "Highsnobiety",
-   "date": "2026-09-18",
-   "content": "A line of JM Weston x Balenciaga oxfords comes dotted with silver studs and crushed heels, signaling the French fashion house can still get freaky.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/balenciaga-jm-weston/",
-   "lang": "en",
-   "relatedBrands": [
-    "BALENCIAGA"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "adidas’ Tough Hiking Sneaker Is One Rugged Little Number",
-   "source": "Highsnobiety",
-   "date": "2026-09-18",
-   "content": "adidas’ Terrex Free Hiker 3 Low GORE-TEX brings a tough, trail-ready build to a low-top hiking sneaker made for fall’s wetter days.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-terrex-freehiker-3-low-gore-tex-hiking-shoes/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "UGG"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "This Heavyweight Nike Classic Is the Literal Blueprint",
-   "source": "Highsnobiety",
-   "date": "2026-09-18",
-   "content": "Offering a subtle, blueprint-inspired spin, the Swoosh introduces the Nike Air Max 95 Pencil Point/Cobblestone.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-95-pencil-point-cobblestone/",
+   "content": "Originally released in 2013, the Nike Kobe 8 “Mambacurial” fused Kobe Bryant’s love of basketball and soccer, drawing directly from… The post Nike Kobe 8 Protro “Mambacurial” September 2026 Release & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/io6253-500-5-1-e1788905673546.jpg",
+   "link": "https://www.nicekicks.com/nike-kobe-8-protro-mambacurial-io6253-500/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
    ]
   },
   {
-   "id": 26,
-   "title": "Brain Dead's Approach Shoe Might Never Even See A Rockface",
-   "source": "Highsnobiety",
-   "date": "2026-09-18",
-   "content": "Kyle Ng's Los Angeles label joins forces with the Three Stripes' outdoor division to drop the Brain Dead x adidas Five Ten Guide Tennie Approach Shoe.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-brain-dead-five-ten-guide-tennie-approach-shoe/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "This Heated Nike Slide Is a Major Winter WFH Essential",
-   "source": "Highsnobiety",
-   "date": "2026-09-18",
-   "content": "Transforming thermal recovery into everyday footwear, the Swoosh introduces the Hyperice x Nike Air Zoom Hyperslide which will retail at $350.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-hyperice-air-zoom-hyperslide/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
+   "id": 32,
    "title": "Kiko Kostadinov 與 ASICS 以 LYASA FF II 為 Tabi 鞋履系列作結",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -392,7 +444,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 33,
    "title": "S’YTE x MOONSTAR 001 揭開 Yohji Yamamoto 旗下品牌的鞋履新篇章",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -403,7 +455,7 @@
    "relatedBrands": []
   },
   {
-   "id": 30,
+   "id": 34,
    "title": "KAMIYA 為 BROTHER BRIDGE HENRY 靴注入復古磨損質感",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -414,7 +466,7 @@
    "relatedBrands": []
   },
   {
-   "id": 31,
+   "id": 35,
    "title": "adidas 攜手 Asphalt 推出「Cannoli」Samba 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -427,7 +479,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 36,
    "title": "Kiko Kostadinov and ASICS Close Out Their Tabi Sneaker Series With the LYASA FF II",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -440,7 +492,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 37,
    "title": "The S’YTE x MOONSTAR 001 Marks a New Footwear Chapter for Yohji Yamamoto’s Label",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -451,7 +503,7 @@
    "relatedBrands": []
   },
   {
-   "id": 34,
+   "id": 38,
    "title": "KAMIYA Brings a Worn-In Edge to BROTHER BRIDGE’s HENRY Boot",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -464,20 +516,7 @@
    ]
   },
   {
-   "id": 35,
-   "title": "adidas and Asphalt Serve Up a Cannoli-Inspired Samba",
-   "source": "Hypebeast",
-   "date": "2026-09-17",
-   "content": "Name: adidas x Asphalt SambaColorway: “Cannoli”SKU: TBCMSRP: $130 USDRelease Date: September 25Where to Buy: Asphaltadidas has teamed up with Staten Island-born retailer Asphalt for a limited-edition Samba inspired by one of New York City’s most recognizable bakery staples: the cannoli.The collaboration dresses the classic low-top silhouette in a dessert-informed palette of warm wheat, rich chocolate brown and playful pink, translating the pastry’s golden shell, chocolate chips and colorful bakery-counter presentation into the sneaker’s material and color story. Contrasting accents add depth to the otherwise earthy base, while a removable cannoli charm and illustrated footbed make the culinary reference more explicit.To emphasize personal style, the sneaker is highly customizable, featuring three interchangeable Velcro tongue options - which can also be removed entirely - alongside three",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F17%2Fadidas-asphalt-samba-cannoli-collaboration-limited-ediiton-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/adidas-asphalt-samba-cannoli-collaboration-limited-ediiton-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 36,
+   "id": 39,
    "title": "Air Jordan 1 Low OG “Howard” (IX8478-410) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-17",
@@ -487,58 +526,6 @@
    "lang": "en",
    "relatedBrands": [
     "JORDAN"
-   ]
-  },
-  {
-   "id": 37,
-   "title": "adidas Anthony Edwards 3 “Cold Blooded” September 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-17",
-   "content": "The adidas Anthony Edwards 3 “Cold Blooded” is set to release on September 18, 2026, via adidas.com and select retailers… The post adidas Anthony Edwards 3 “Cold Blooded” September 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_Anthony_Edwards_3_Shoes_Blue_KH8537_15_hover_standard-1-e1789159774775.jpeg",
-   "link": "https://www.nicekicks.com/adidas-anthony-edwards-3-cold-blooded-kh8537-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "The JAIDE x Air Jordan 11 “Fiberglass” Is Releasing Exclusively Through The Whitaker Group",
-   "source": "Nice Kicks",
-   "date": "2026-09-17",
-   "content": "JAIDE introduces its world through “Feelin’ It,” a campaign accompanying the arrival of its Air Jordan 11 collaboration. Set in… The post The JAIDE x Air Jordan 11 “Fiberglass” Is Releasing Exclusively Through The Whitaker Group appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_2_791586580_18119062397512701_3811132079199962764_n-1-scaled-e1788791889983.jpeg",
-   "link": "https://www.nicekicks.com/jaide-air-jordan-11-low-wmns-fiberglass-iw1882-300/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "This Air Jordan 9 Returns for the Film’s 30th Anniversary",
-   "source": "Nice Kicks",
-   "date": "2026-09-17",
-   "content": "Jordan 9 OG Space Jam: The Origin of the Colorway The Air Jordan 9 holds a place in sneaker history… The post This Air Jordan 9 Returns for the Film’s 30th Anniversary appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/08/ix6179-100-5-e1788618017484.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-9-og-space-jam-ix6179-100-drop/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Nike LeBron 23 PE “Laser” September 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-17",
-   "content": "The Nike LeBron 23 “Laser” looks back to one of the earliest moments of LeBron James’ signature sneaker journey, drawing… The post Nike LeBron 23 PE “Laser” September 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/im5125-100-5-1-e1788965292473.jpg",
-   "link": "https://www.nicekicks.com/nike-lebron-23-pe-laser-im5125-100/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
    ]
   }
  ]
