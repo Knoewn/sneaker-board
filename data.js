@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-20 16:05",
+ "updatedAt": "2026-09-21 08:07",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -81,6 +81,45 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 5,
+   "title": "This Grandpa Chic adidas Sneaker Is Looking Dapper as Hell",
+   "source": "Highsnobiety",
+   "date": "2026-09-20",
+   "content": "The adidas Italia 70s gets a dapper update in brown-and-beige houndstooth, pairing its retro football-inspired silhouette with a classic gum sole.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-italia-70s-brown/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "This GR Samba Is Wales Bonner-Coded",
+   "source": "Highsnobiety",
+   "date": "2026-09-20",
+   "content": "Returning to the pure, unaltered 1950s indoor football blueprint, the Three Stripes delivers the adidas Samba OG Aurora Coffee/Off White.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-samba-og-aurora-coffee/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Nike and Kallmeyer Turned a Tennis Shoe Into an Everyday Essential",
+   "source": "Highsnobiety",
+   "date": "2026-09-20",
+   "content": "Nike and Kallmeyer rework the Tennis Centre with a fashion-forward take on the classic tennis sneaker, designed for life beyond the court.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-tennis-centre-x-kallmeyer-travertine/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 8,
    "title": "New Balance's All-Black 991 Is Surprisingly Colorful",
    "source": "Highsnobiety",
    "date": "2026-09-20",
@@ -90,45 +129,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 6,
-   "title": "Nike’s Running Sneaker Has No Business Looking This Fast",
-   "source": "Highsnobiety",
-   "date": "2026-09-20",
-   "content": "Nike’s Structure Plus SP brings serious performance energy to a fashion-friendly running sneaker, with ZoomX and ReactX cushioning.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-structure-plus-sp/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 7,
-   "title": "Oogie Boogie Just Got His Own Nike Court Shoe",
-   "source": "Highsnobiety",
-   "date": "2026-09-20",
-   "content": "For the autumn basketball season, Phoenix’s star guard gets his second signature shoe prepped for the holidays with the Nike Book 2 Halloween.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-book-2-halloween-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 8,
-   "title": "SKIMS' Latest Split-Toe Sneakers Are a Slimline Chocolate Treat",
-   "source": "Highsnobiety",
-   "date": "2026-09-20",
-   "content": "For its Fall 2026 Edit 01 collection, SKIMS expands its footwear catalog with the NikeSKIMS Rift Mesh Cave Stone.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nikeskims-rift-mesh-cave-stone/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
    ]
   },
   {
@@ -237,32 +237,6 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 17,
-   "title": "Stella McCartney's Latest adidas Runner Is a Fluffy Winter Wonder",
-   "source": "Highsnobiety",
-   "date": "2026-09-19",
-   "content": "Channeling the spirit of the 1976 Montreal Olympics through a contemporary lens, the ongoing collaboration unveils the adidas by Stella McCartney Sportswear 76.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-stella-mccartney-76-teddy-grey/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "New Balance’s Retro Dad Shoe Is Serving Something Salty",
-   "source": "Highsnobiety",
-   "date": "2026-09-19",
-   "content": "New Balance’s 204L retro dad shoe arrives in a Sea Salt colorway, giving the runner-inspired silhouette a soft, understated finish.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-204l-sneaker-sea-salt/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 19,
    "title": "Kith x On 推出全新 K-Tech 3，擴展 K-Tech 系列",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -273,7 +247,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 20,
+   "id": 18,
    "title": "URBAN RESEARCH 為 Salomon XA PRO 3D GTX 換上大地色調",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -286,7 +260,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 19,
    "title": "LeBron James 預覽 Nike LeBron 24「Chosen 1s」",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -299,7 +273,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 20,
    "title": "HOKA 為 TOR SUMMIT LEATHER TP 換上全黑設計",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -312,7 +286,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 21,
    "title": "Nike SHAI 002 預計於 2027 年 2 月推出",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -326,7 +300,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 22,
    "title": "Balenciaga 攜手 J.M. Weston 打造 2026 冬季混合鞋履系列",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -339,7 +313,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 23,
    "title": "Kith x On Expands the K-Tech Line With the New K-Tech 3",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -350,7 +324,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 26,
+   "id": 24,
    "title": "URBAN RESEARCH Reworks the Salomon XA PRO 3D GTX in Earthy Tones",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -363,7 +337,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 25,
    "title": "LeBron James Previews the Nike LeBron 24 \"Chosen 1s\"",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -376,7 +350,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 26,
    "title": "HOKA Gives the TOR SUMMIT LEATHER TP an All-Black Finish",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -390,7 +364,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 27,
    "title": "Nike SHAI 002 Expected to Release in February 2027",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -404,7 +378,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 28,
    "title": "Balenciaga and J.M. Weston Team up on Hybrid Footwear Collection for Winter 2026",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -417,7 +391,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 29,
    "title": "MOWALOLA x Air Jordan 14 Mule SP “Metallic Silver” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -430,7 +404,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 30,
    "title": "MOWALOLA x Air Jordan 14 SP “Burnt Red” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -443,7 +417,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 31,
    "title": "Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -456,7 +430,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 32,
    "title": "adidas Anthony Edwards 3 “Snow Camo”",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -469,7 +443,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 33,
    "title": "Tom Sachs x NikeCraft General Purpose Shoe “Demerits”",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -482,7 +456,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 34,
    "title": "Nike Kobe 8 Protro “Mambacurial” September 2026 Release & Info",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -495,7 +469,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 35,
    "title": "Kiko Kostadinov 與 ASICS 以 LYASA FF II 為 Tabi 鞋履系列作結",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -508,7 +482,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 36,
    "title": "S’YTE x MOONSTAR 001 揭開 Yohji Yamamoto 旗下品牌的鞋履新篇章",
    "source": "Hypebeast 中文",
    "date": "2026-09-17",
@@ -519,7 +493,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 39,
+   "id": 37,
    "title": "Kiko Kostadinov and ASICS Close Out Their Tabi Sneaker Series With the LYASA FF II",
    "source": "Hypebeast",
    "date": "2026-09-17",
@@ -532,7 +506,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 38,
    "title": "Air Jordan 1 Low OG “Howard” (IX8478-410) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-17",
