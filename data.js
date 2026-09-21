@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-21 08:07",
+ "updatedAt": "2026-09-21 16:06",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,7 +17,6 @@ window.SNEAKER_DATA = {
  "brands": [
   "ADIDAS",
   "ASICS",
-  "BALENCIAGA",
   "CONVERSE",
   "HOKA",
   "JORDAN",
@@ -31,6 +30,98 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Nike Air Max 95「I-95」系列以工靴機能重塑跑鞋美學",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-21",
+   "content": "摘要 Nike 將於 2026 年年底假日檔期重新推出帶有靴款風格的 Air Max 95 I-95 Pack，並帶來「Medium Olive」與「Wheat」兩款配色。整體設計捨棄傳統分層鞋身，改用一體成型外殼鞋面，並以金屬 D-ring 鞋孔和繩狀鞋帶作點綴。兩雙鞋款預計透過 Nike 及指定全球零售店發售，定價各為 200 美元。 鞋名： Nike Air Max 95「I-95」配色： Medium Olive/Sequoia-Black、Wheat/Muslin-Gum Medium Brown貨號： IX4106-222、IX4106-790建議零售價： 200 美元發售日期： 2026 年假日季度發售地點： NikeNike 即將推出 Air Max 95「I-95」系列，進一步擴展其工靴靈感鞋履陣容。這款改良輪廓將於 2026 年假日季度回歸，帶來「Medium Olive」及「Wheat」配色，呼應州際公路走廊，以及 Baltimore 長久以來對 Nike 工靴的偏好。系列以機能風格重新演繹這雙經典跑鞋，將標誌性的多層鞋面換成無縫模塑鞋殼，同時保留原版壓印的波浪側線。工靴元素包括銀色或金色金屬 D 形鞋眼、粗繩鞋帶，以及鞋舌上的壓印「95」標誌；鞋底單元則保留前掌及後跟可見的 Air 緩震氣墊。「Medium Olive」鞋款採用深橄欖綠鞋面，配搭鮮橙色繩鞋帶、銀色五金、深色中底，以及鞋底帶有橙色點綴的黑色外底。「Wheat」版本則配備淺啡色鞋面、深紅色繩鞋帶、金色五金、米白色中底，以及搭載染色 Air 氣墊的啡色外底。Nike Air Max 95「I-95」系列預計於 2026 年假日季度發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-air-max-95-i-95-medium-olive-IX4106-222-wheat-IX4106-790-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-air-max-95-i-95-medium-olive-ix4106-222-wheat-ix4106-790-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "New Balance ABZORB 2000「White/Navy」將於 2026 年秋季回歸基本配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-21",
+   "content": "摘要 New Balance 進一步擴充鞋履陣容，帶來一款配色俐落的 ABZORB 2000「White Navy」新作。設計以白色網布鞋身為基礎，搭配淺灰色層疊細節、navy 滾邊，以及點綴銀色細節的 N 標誌。分段式 ABZORB 中底加入 navy 與亮藍色緩震膠囊組合，並置於灰色橡膠外底之上。 名稱：New Balance ABZORB 2000「White/Navy」配色：白色／海軍藍產品編號：U20008SW建議零售價：待定發售日期：2026 年秋季發售渠道：New BalanceNew Balance 發布了 New Balance ABZORB 2000「White/Navy」。這款帶有復古氣息的跑鞋以經典撞色設計回歸，預計於 2026 年秋季登場。鞋款採用白色網布鞋面，淺灰色覆片勾勒鞋頭、鞋帶孔片及後跟飾片。海軍藍滾邊沿著網布面板外圍延伸，形成視覺對比；鞋身中段的經典海軍藍「N」標誌則點綴低調銀色細節。灰色鞋領內襯、白色鞋帶，以及鞋舌和後跟的標準 New Balance 標誌，為鞋面畫上完整句號。鞋底方面，白色中底內嵌分段式 ABZORB 緩震結構，海軍藍與亮藍色緩震膠囊置於各中底區塊之間；灰色橡膠外底配備海軍藍抓地力嵌片，提供支撐。New Balance 2000「White/Navy」將於 2026 年秋季透過 NewBalance.com 及全球指定零售商發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnew-balance-abzorb-2000-white-navy-u20008sw-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/new-balance-abzorb-2000-white-navy-u20008sw-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Nike Air Max Plus「Premier」以 Tiempo 元素皮革拼片取代標誌性 TPU 支架",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-21",
+   "content": "摘要 Nike 推出 Air Max Plus Premier，為品牌的足球靈感鞋履陣容再添一款全新鞋型。這款新鞋大膽捨棄昔日標誌性的 TPU 支撐框架，改用壓紋皮革全面包覆鞋身，重新演繹 Nike Tiempo 足球靴的經典設計語彙。此鞋款預計於 2026 年 F/W 季度透過 Nike 官方渠道及指定零售商發售。 鞋款：Nike Air Max Plus「Premier」配色：黑色／黑色／中啡色／螢光綠／白色款式編號：IQ6607-001建議零售價：待公布發售日期：2026 年秋季發售地點：NikeNike 以 Air Max Plus「Premier」擴展其足球靈感鞋履陣容。新作將經典 Air Max Plus 跑鞋輪廓，結合傳統足球裝備的細節。鞋身標誌性的模塑 TPU 支架改以光滑皮革拼片呈現；帶有紋理的皮革令人聯想起 Nike Tiempo 足球靴的獨特縫線，同時保留原版 Air Max Plus 的波浪線條。鮮明的紫色與綠色點綴，延續 Nike 自 2025 年初以來在多個足球相關企劃中探索的主題。鞋舌中央的「Premier」徽章，為這雙跨界設計畫上句號。Nike Air Max Plus「Premier」預計於 2026 年秋冬季度透過 Nike.com 及指定零售商發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-air-max-plus-premier-IQ6607-001-official-look-release-info-000-1-1-2-1-2-2-1-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-air-max-plus-premier-iq6607-001-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Nike Air Max 95 \"I-95\" Pack Trades Running Aesthetics for Workboot Utility",
+   "source": "Hypebeast",
+   "date": "2026-09-21",
+   "content": "Summary Nike is reintroducing the boot-styled Air Max 95 I-95 Pack in \"Medium Olive\" and \"Wheat\" colorways for Holiday 2026The design swaps traditional layered paneling for a molded shell upper accented by metal D-ring eyelets and rope lacesBoth pairs are scheduled to launch through Nike and select global stockists for $200 USD each Name: Nike Air Max 95 \"I-95\"Colorway: Medium Olive/Sequoia-Black, Wheat/Muslin-Gum Medium BrownSKU: IX4106-222, IX4106-790MSRP: $200 USDRelease Date: Holiday 2026Where to Buy: NikeNike is expanding its boot-inspired footwear lineup with the upcoming Air Max 95 \"I-95\" Pack. The modified silhouette returns for Holiday 2026 in \"Medium Olive\" and \"Wheat\" colorways, referencing the interstate corridor and Baltimore's historical affinity for Nike boots.Reimagining the classic runner through a utilitarian lens, the pack replaces the silhouette's signature layered up",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F20%2Fnike-air-max-95-i-95-medium-olive-IX4106-222-wheat-IX4106-790-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-air-max-95-i-95-medium-olive-ix4106-222-wheat-ix4106-790-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "New Balance ABZORB 2000 \"White/Navy\" Returns to Basics for Fall 2026",
+   "source": "Hypebeast",
+   "date": "2026-09-21",
+   "content": "Summary New Balance is expanding its footwear catalog with a crisp White Navy iteration of the ABZORB 2000 silhouetteThe design pairs a white mesh base with light grey overlays navy piping and silver-accented N logosA segmented ABZORB midsole integrates navy and bright blue cushioning pods above a grey rubber outsole Name: New Balance ABZORB 2000 \"White/Navy\"Colorway: White/NavySKU: U20008SWMSRP: TBDRelease Date: Fall 2026Where to Buy: New BalanceNew Balance has unveiled the New Balance ABZORB 2000 \"White/Navy\". The retro-inspired running model returns with a classic color-blocked presentation scheduled to arrive in Fall 2026.Built with a white mesh upper, the model features light grey overlays framing the toe box, eyestays, and heel panel. Navy piping traces the perimeter of the mesh paneling to deliver visual contrast, while classic navy \"N\" logos at the midfoot incorporate subtle silv",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F20%2Fnew-balance-abzorb-2000-white-navy-u20008sw-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/new-balance-abzorb-2000-white-navy-u20008sw-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS",
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Nike Air Max Plus \"Premier\" Replaces Signature TPU Cage With Tiempo-Inspired Leather Tooling",
+   "source": "Hypebeast",
+   "date": "2026-09-21",
+   "content": "Summary Nike is expanding its soccer-inspired footwear lineup with the Air Max Plus PremierThe upcoming model replaces its traditional TPU cage with ridged leather panels reminiscent of Nike Tiempo bootsThe pair is expected to release during Fall/Winter 2026 through Nike and select retailers Name: Nike Air Max Plus \"Premier\"Colorway: Black/Gum Medium Brown-Volt-WhiteSKU: IQ6607-001MSRP: TBDRelease Date: Fall 2026Where to Buy: NikeNike is expanding its football-influenced footwear catalog with the upcoming Air Max Plus \"Premier\". The new iteration merges the iconic Air Max Plus running shape with distinct aesthetic cues borrowed from classic pitch performance gear.The release is highlighted by a structural update along the upper, replacing the silhouette's signature raised TPU overlay with pronounced leather sectioning. The ridged leather paneling mimics the distinctive stitching found on",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F20%2Fnike-air-max-plus-premier-IQ6607-001-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-air-max-plus-premier-iq6607-001-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Nike’s Security-Inspired Boot Doesn’t Need Clearance",
+   "source": "Highsnobiety",
+   "date": "2026-09-21",
+   "content": "Public School New York's Air Max Goadome High boot is a high-security stomper that serves in several ways.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/public-school-new-york-nike-air-max-goadome-high-boot/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 8,
    "title": "NN.07 與 Fracap 再度合作推出第 3 款 M127 靴款",
    "source": "Hypebeast 中文",
    "date": "2026-09-20",
@@ -41,7 +132,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 9,
    "title": "Harris Tweed x Vans Premium 完整系列官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-09-20",
@@ -54,7 +145,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 10,
    "title": "NN.07 and Fracap Reunite for a Third M127 Boot Collaboration",
    "source": "Hypebeast",
    "date": "2026-09-20",
@@ -67,7 +158,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 11,
    "title": "An Official Look at the Complete Harris Tweed X Vans Premium Collection",
    "source": "Hypebeast",
    "date": "2026-09-20",
@@ -80,7 +171,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 12,
    "title": "This Grandpa Chic adidas Sneaker Is Looking Dapper as Hell",
    "source": "Highsnobiety",
    "date": "2026-09-20",
@@ -93,7 +184,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 13,
    "title": "This GR Samba Is Wales Bonner-Coded",
    "source": "Highsnobiety",
    "date": "2026-09-20",
@@ -106,7 +197,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 14,
    "title": "Nike and Kallmeyer Turned a Tennis Shoe Into an Everyday Essential",
    "source": "Highsnobiety",
    "date": "2026-09-20",
@@ -119,7 +210,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 15,
    "title": "New Balance's All-Black 991 Is Surprisingly Colorful",
    "source": "Highsnobiety",
    "date": "2026-09-20",
@@ -132,7 +223,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 16,
    "title": "Bad Bunny 與 adidas 發佈 Badbo 1.0「Puerto Rican Night」",
    "source": "Hypebeast 中文",
    "date": "2026-09-19",
@@ -145,7 +236,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 17,
    "title": "atmos x adidas Tobacco「KOYO」推出兩款秋日配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-19",
@@ -158,7 +249,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 18,
    "title": "New Balance Swaps Leather for Suede and Nubuck on the 990v4 Made in USA \"Navy/Meteorite\"",
    "source": "Hypebeast",
    "date": "2026-09-19",
@@ -171,7 +262,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 19,
    "title": "Bad Bunny and adidas Unveil the Badbo 1.0 \"Puerto Rican Night\"",
    "source": "Hypebeast",
    "date": "2026-09-19",
@@ -184,7 +275,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 20,
    "title": "The atmos x adidas Tobacco “KOYO” Arrives in Two Fall-Inspired Colorways",
    "source": "Hypebeast",
    "date": "2026-09-19",
@@ -197,7 +288,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 21,
    "title": "Nike Air Force 1 Low “Black Rat”",
    "source": "Nice Kicks",
    "date": "2026-09-19",
@@ -210,7 +301,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 22,
    "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-19",
@@ -223,7 +314,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 23,
    "title": "Where To Buy the Air Jordan 9 OG “Space Jam”",
    "source": "Nice Kicks",
    "date": "2026-09-19",
@@ -236,7 +327,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 24,
    "title": "Kith x On 推出全新 K-Tech 3，擴展 K-Tech 系列",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -247,7 +338,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 18,
+   "id": 25,
    "title": "URBAN RESEARCH 為 Salomon XA PRO 3D GTX 換上大地色調",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -260,7 +351,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 26,
    "title": "LeBron James 預覽 Nike LeBron 24「Chosen 1s」",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -273,7 +364,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 27,
    "title": "HOKA 為 TOR SUMMIT LEATHER TP 換上全黑設計",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -286,7 +377,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 28,
    "title": "Nike SHAI 002 預計於 2027 年 2 月推出",
    "source": "Hypebeast 中文",
    "date": "2026-09-18",
@@ -300,20 +391,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
-   "title": "Balenciaga 攜手 J.M. Weston 打造 2026 冬季混合鞋履系列",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-18",
-   "content": "摘要 Balenciaga 攜手法國製鞋品牌 J.M. Weston 推出聯乘鞋履系列，於 Winter 26 系列中率先亮相。此膠囊系列重新演繹 brogues、d’Orsay 鞋款、mules 及 loafers，均以柔軟小牛皮與 Nappa 皮革精製而成。整個系列將於全球指定 Balenciaga 專門店及官方網上商店發售。 Balenciaga 與法國製鞋名家 J.M. Weston 正式發布雙方聯乘的 Balenciaga x J.M. Weston 鞋履系列。系列於 Pierpaolo Piccioli 名為《ClairObscur》的 2026 冬季系列中亮相，將 J.M. Weston 傳統的 Limoges 製鞋工藝，融入 Balenciaga 獨有的奢華設計語言。系列以柔軟小牛皮及 Nappa 皮革製作，透過混合手法重塑經典鞋型。經典繫帶翼紋雕花皮鞋換上帶有原始磨損感的邊緣、外露縫線，以及固定在鞋面各處的 Balenciaga Le City 金屬鉚釘。男裝不對稱 d’Orsay 鞋款則以翼紋穿孔在鞋頭勾勒出雙 B 標誌，鞋跟另以細小金屬釘頭標示鞋碼。系列亦重新演繹傳統輪廓：男裝套穿式穆勒鞋將雕花鞋襟向外翻折，鞋跟內襯則向內壓下，展現皮革天然的內層質感與色調。此外，中性樂福鞋配備可摺疊的雙層鞋舌，上層翻片低調壓印 Balenciaga 標誌，底面則印有 J.M. Weston 標誌。每款鞋均採用柔軟的天然小牛皮內裡，並燙印金色箔製聯乘標誌作結。Balenciaga x J.M. Weston 系列將隨 2026 冬季系列推出，於全球指定 Balenciaga 專門店及網上渠道發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fbalenciaga-j-m-weston-hybrid-footwear-winter-2026-collaboration-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/balenciaga-j-m-weston-hybrid-footwear-winter-2026-collaboration-collection-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "BALENCIAGA"
-   ]
-  },
-  {
-   "id": 23,
+   "id": 29,
    "title": "Kith x On Expands the K-Tech Line With the New K-Tech 3",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -324,7 +402,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 24,
+   "id": 30,
    "title": "URBAN RESEARCH Reworks the Salomon XA PRO 3D GTX in Earthy Tones",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -337,7 +415,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 31,
    "title": "LeBron James Previews the Nike LeBron 24 \"Chosen 1s\"",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -350,7 +428,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 32,
    "title": "HOKA Gives the TOR SUMMIT LEATHER TP an All-Black Finish",
    "source": "Hypebeast",
    "date": "2026-09-18",
@@ -364,34 +442,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
-   "title": "Nike SHAI 002 Expected to Release in February 2027",
-   "source": "Hypebeast",
-   "date": "2026-09-18",
-   "content": "Summary Shai Gilgeous-Alexander's next signature model the Nike SHAI 002 is reportedly expected to debut in February 2027According to reports from brandon1an the initial colorway is listed in a Hot Curry Dark Team Red and Orange Chalk paletteThe sneaker is slated to launch around NBA All-Star Weekend in Phoenix with men's sizing priced at $145 USD Name: Nike SHAI 002Colorway: Hot Curry/Dark Team Red-Orange ChalkSKU: JU1175-800MSRP: $145 USDRelease Date: February 2027Where to Buy: NikeNike and Oklahoma City Thunder star Shai Gilgeous-Alexander are reportedly preparing the launch of the Nike SHAI 002. First reported by @brandon1an, the upcoming sneaker marks Gilgeous-Alexander's second signature model, shifting from Converse to Nike's mainline basketball roster.According to reports, the inaugural pair is listed in a \"Hot Curry/Dark Team Red/Orange Chalk\" color scheme. The rumored February ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fnike-shai-002-expected-to-release-in-february-2027-reports-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-shai-002-expected-to-release-in-february-2027-reports",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "Balenciaga and J.M. Weston Team up on Hybrid Footwear Collection for Winter 2026",
-   "source": "Hypebeast",
-   "date": "2026-09-18",
-   "content": "Summary Balenciaga has partnered with French shoemaker J.M. Weston on a collaborative footwear range debuted in the Winter 26 collectionThe capsule features reimagined brogues d Orsay shoes mules and loafers crafted from soft calf and Nappa leatherThe lineup will be available at select Balenciaga stores worldwide and online Balenciaga and French master shoemaker J.M. Weston have officially revealed their collaborative Balenciaga x J.M. Weston footwear collection. Introduced within Pierpaolo Piccioli's Winter 26 collection, titled ClairObscur, the range merges J.M. Weston's traditional Limoges craftsmanship with Balenciaga's distinct luxury design codes.Crafted from soft calf and Nappa leather, the collection reimagines classic silhouettes through a hybrid lens. The classic lace-up wingtip brogue is updated with raw, worn edges, visible threading, and metal Balenciaga Le City studs fixed ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fbalenciaga-j-m-weston-hybrid-footwear-winter-2026-collaboration-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/balenciaga-j-m-weston-hybrid-footwear-winter-2026-collaboration-collection-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "BALENCIAGA"
-   ]
-  },
-  {
-   "id": 29,
+   "id": 33,
    "title": "MOWALOLA x Air Jordan 14 Mule SP “Metallic Silver” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -404,7 +455,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 34,
    "title": "MOWALOLA x Air Jordan 14 SP “Burnt Red” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -417,7 +468,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 35,
    "title": "Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -430,7 +481,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 36,
    "title": "adidas Anthony Edwards 3 “Snow Camo”",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -443,7 +494,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 37,
    "title": "Tom Sachs x NikeCraft General Purpose Shoe “Demerits”",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -456,7 +507,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 38,
    "title": "Nike Kobe 8 Protro “Mambacurial” September 2026 Release & Info",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -469,44 +520,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
-   "title": "Kiko Kostadinov 與 ASICS 以 LYASA FF II 為 Tabi 鞋履系列作結",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-17",
-   "content": "名稱：Kiko Kostadinov x ASICS LYASA FF II配色：黏土灰／碧玉綠、紅啡色／ASICS 藍產品編號：待定建議零售價：待定發售日期：9 月 19 日發售地點：Kiko KostadinovKiko Kostadinov 與 ASICS 為歷時 4 款的 Tabi 鞋履系列作結，推出 LYASA FF II Tabi。這雙混種鞋型由 Laura 與 Deanna Fanning 設計，首次亮相於 Kiko Kostadinov Womenswear 2026 秋冬時裝展。鞋款將兩種看似相反的鞋履語言融為一體：前掌採用傳統雕花皮鞋的精緻元素，後跟則結合越野鞋的機能結構。分趾輪廓仍是視覺焦點，配以立體裁片、金屬 ASICS 條紋，以及帶有雲石紋效果的厚實鞋底單元。鞋款提供兩款配色：「黏土灰／碧玉綠」以低調灰色為基調，點綴粉紅及紫色網布，鞋底則綴以亮綠色；「紅啡色／ASICS 藍」則以大地啡色皮革搭配對比鮮明的藍色網布細節。兩個版本均以亮面與金屬元素，對照富質感的網布及皮革表面，突顯正裝鞋的精緻感與戶外機能之間的張力。LYASA FF II Tabi 同時是藝術家 Ryan Trecartin「BUCKLE YUP」企劃的最終鞋履發售；其結篇《Ghost Tracks》將作為企劃此前 3 個篇章的尾聲。Trecartin 獲全權主導選角、導演及剪輯，並將廣告形式視為實驗媒介；這也延續他與 Kiko Kostadinov 的合作關係，過去他曾為品牌位於 Tokyo、Los Angeles 及 London 的旗艦店策劃介入式創作。Kiko Kostadinov x ASICS LYASA FF II 將於 9 月 19 日率先在 Kiko Kostadinov 位於 London、Los Angeles 及 Tokyo 的網店和實體店發售，隨後於全球更廣泛推出。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fkiko-kostadinov-asics-lyasa-ff-ii-tabi-act-4-ghost-tracks-collaboration-clay-grey-jasper-green-reddish-brown-asics-blue-release-info-0-00.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/kiko-kostadinov-asics-lyasa-ff-ii-tabi-act-4-ghost-tracks-collaboration-clay-grey-jasper-green-reddish-brown-asics-blue-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "S’YTE x MOONSTAR 001 揭開 Yohji Yamamoto 旗下品牌的鞋履新篇章",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-17",
-   "content": "名稱：S’YTE x MOONSTAR 標誌棉帆布球鞋 GC/001配色：黑／白產品編號：待定建議零售價：29,700 日圓（約 191 美元）發售日期：9 月 19 日發售地點：YOHJI YAMAMOTO秉持「Anti-Mode」理念的 Yohji Yamamoto 旗下品牌 S’YTE，現以 S’YTE x MOONSTAR 001 踏足鞋履領域。這雙聯乘球鞋以 MOONSTAR 的經典 GYM CLASSIC 為藍本打造。這款低筒鞋於日本以耐穿棉帆布製成，保留原版源自運動鞋的寬鬆鞋型比例，並在鞋舌加入 S’YTE 專屬刺繡，鞋跟則綴有品牌標籤。鞋款透過 MOONSTAR 的 FINE VULCANIZED 系列製作，採用硫化工藝將橡膠鞋底與鞋面貼合，兼具柔韌與耐用特性；鞋面亦以傳統「tsurikomi」工序人手套楦，貼合鞋墊定型。黑、白兩款配色皆延續 S’YTE 一貫鮮明的極簡色調，並將對比位置互換。黑色版本採用深黑帆布鞋面，配以同色橡膠鞋頭與鞋底，再以潔白鞋帶及白色 S’YTE 鞋舌刺繡點綴；鞋跟設有同色黑色標籤，飾以對比鮮明的「BLACK IS MODEST」字樣。白色版本則反轉設計，採用天然米白色帆布，搭配黑色鞋帶、黑色圍條及鞋頭保護層；鞋跟由上而下飾有一道醒目的垂直黑色條紋，呈現圖像感與實用風格。作為 S’YTE 鞋履系列的「001」起點，這雙球鞋將於 9 月 19 日發售，並於 THE SHOP YOHJI YAMAMOTO，以及指定 S’YTE、WILDSIDE YOHJI YAMAMOTO 和 Ground Y 店舖上架。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fftyohji-yamamoto-syte-moonstar-logo-cotton-canvas-sneakers-gc-001-black-white-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/yohji-yamamoto-syte-moonstar-logo-cotton-canvas-sneakers-gc-001-black-white-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 37,
-   "title": "Kiko Kostadinov and ASICS Close Out Their Tabi Sneaker Series With the LYASA FF II",
-   "source": "Hypebeast",
-   "date": "2026-09-17",
-   "content": "Name: Kiko Kostadinov x ASICS LYASA FF IIColorway: Clay Grey/Jasper Green, Reddish Brown/ASICS BlueSKU: TBCMSRP: TBCRelease Date: September 19Where to Buy: Kiko KostadinovKiko Kostadinov and ASICS are closing out their four-part tabi footwear series with the LYASA FF II Tabi, a hybrid silhouette designed by Laura and Deanna Fanning and first shown during Kiko Kostadinov Womenswear’s Fall/Winter 2026 runway presentation. The sneaker brings two seemingly opposing footwear languages together, combining the refined cues of a traditional brogue at the forefoot with the more technical construction of a trail shoe toward the heel. Its split-toe profile remains the visual anchor, complemented by sculpted paneling, metallic ASICS stripes and a substantial sole unit with a marbled effect.Two colorways are offered: “Clay Grey/Jasper Green” sets a muted grey foundation against flashes of pink and pu",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F17%2Fkiko-kostadinov-asics-lyasa-ff-ii-tabi-act-4-ghost-tracks-collaboration-clay-grey-jasper-green-reddish-brown-asics-blue-release-info-0-00.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/kiko-kostadinov-asics-lyasa-ff-ii-tabi-act-4-ghost-tracks-collaboration-clay-grey-jasper-green-reddish-brown-asics-blue-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 38,
+   "id": 39,
    "title": "Air Jordan 1 Low OG “Howard” (IX8478-410) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-17",
