@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-22 08:07",
+ "updatedAt": "2026-09-22 16:05",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -23,13 +23,155 @@ window.SNEAKER_DATA = {
   "NIKE",
   "PRADA",
   "REEBOK",
-  "UGG",
   "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Nike 為 Air Force 1 Low 注入蛇紋與 3 枚金色吊飾",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-22",
+   "content": "名稱：Nike Air Force 1 Low「Gold Charms」配色：白色／金屬金／白色貨號：IZ8908-100建議零售價：125 美元發售日期：待定Air Force 1 Low 成為 Nike 日益著迷於吊飾設計的最新畫布：鞋款將標誌性的全白皮革，配上蛇皮紋理 Swoosh 及一組可拆卸的金色小吊飾。表面看來是一次克制的更新，卻讓配飾成為主角。鞋款基礎忠於 AF1 的原有設計，採用令這個型號成為衣櫥常備之選的簡潔白色皮革鞋面。改動落在 Swoosh 上：其以啡褐色處理，覆以蛇皮紋理，在不破壞中性色調的前提下，添上具觸感、略帶異域感的質感。整體效果刻意低調，為較搶眼的金屬配件鋪墊。金屬配件才是真正焦點。鞋帶上垂墜著 3 枚金色吊飾，分別是迷你 Swoosh、星形及 Air Force 1 徽章。吊飾組以龍蝦扣固定，可扣在任何合適位置，亦可完全拆下，用來點綴鞋履以外的物品。這個小細節帶來極大的靈活性，讓原本固定的設計元素可隨穿者心意重新排列。這種吊飾設計亦呼應 Nike 的更大趨勢：品牌近年愈來愈常在女裝鞋履上加入可拆卸配飾，作為輕鬆實現個人化的方法。Air Force 1 天生適合這種做法——簡潔而寬闊的結構，為裝飾細節留下充足空間，卻不致顯得雜亂，令額外配件看來是有意為之，而非繁複堆砌。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FNike-Air-Force-1-Low-Gold-Charms-IZ8908-100-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-air-force-1-low-gold-charms-iz8908-100-official-images",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Jacquemus x Nike Moon Shoe「Emerald Rise」現已發售",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-22",
+   "content": "名稱：Jacquemus x Nike Moon Shoe「Emerald Rise」配色：Emerald Rise／Blue Cap-Ghost-Pale Ivory貨號：HV8547-300建議零售價：180 美元發售日期：現已發售購買地點：JacquemusJacquemus 與 Nike 再度合作，為 Moon Shoe 跑鞋經典帶來全新演繹，推出靈感源自 Miami 的「Emerald Rise」配色。這次聯乘延續 Simon Porte Jacquemus 對此鞋型的持續重塑，以海岸色彩為這雙已成標誌性的芭蕾舞鞋風格輪廓添上新意。這雙鞋的核心，依然是 Jacquemus 所詮釋的 Moon Shoe。設計保留褶皺尼龍鞋面，帶來柔軟的收褶質感；配搭 Nike Grind 外底，既呼應品牌的可持續發展理念，也向其深厚的跑步傳統致意。整體造型傾向現代芭蕾舞鞋風格，將可追溯至 Nike 最早期競速跑鞋的輪廓，演繹得更纖巧、更具高度。今次的焦點盡在配色。「Emerald Rise」揉合一系列直接取材自 Miami 的藍調，從城市水域與光線的明亮色彩，延伸至著名 Art Deco 建築外牆的柔和粉彩。這種處理刻意緊扣地方特色，既連繫這雙鞋最先發售的城市，也令這次聯乘不只是另一款隨季換色，而是更具所在地的印記。這份 Miami 連繫亦融入發售安排之中。此配色先於 Jacquemus 位於 Miami Design District 的專門店亮相，之後才登上品牌網站，令今次推出既是一款產品，也標誌著品牌在這座城市日益擴展的足跡。這個聯乘系列一直把 Moon Shoe 視作重新演繹的畫布；「Emerald Rise」則以深深植根於特定地域感的外觀，延續這股步伐。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FJacquemus-Nike-Moon-Shoe-Emerald-Rise-HV8547-300-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/jacquemus-nike-moon-shoe-emerald-rise-hv8547-300-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "New Balance 發布 991v2 Made in UK 最新「Elevated Neutrals／Turbulence」配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-22",
+   "content": "摘要 New Balance 正準備推出 991v2 Made in UK「Elevated Neutrals Turbulence」配色。這次升級鞋款換上拼接物料鞋身，以 nubuck 皮革配搭網布打造。這雙球鞋預計將於品牌 2026 年秋季系列中正式發售。 名稱：New Balance 991v2 Made in UK「Elevated Neutrals／Turbulence」配色：Elevated Neutrals／Turbulence產品編號：U991EC2建議零售價：270 美元發售日期：2026 年秋季發售渠道： New BalanceNew Balance 即將擴展其 Made in UK 鞋履系列，推出 New Balance 991v2 Made in UK「Elevated Neutrals／Turbulence」。此鞋款源自 2001 年面世的初代 991；後者是 990 系列的第 8 款作品。是次更新版本為這雙經典跑鞋作出細微調整。鞋面採用優質磨砂皮革、皮革及透氣網布裁片拼接而成。v2 版本調整了側身裁片，並將鞋跟標誌移至新位置；鞋款亦保留了當初奠定此系列特色的外露式 ABZORB 緩震科技中底。New Balance 991v2 Made in UK「Elevated Neutrals／Turbulence」預計於 2026 年秋季發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnew-balance-991v2-elevated-neutrals-turbulence-U991EC2-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/new-balance-991v2-elevated-neutrals-turbulence-u991ec2-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "ASICS 與 Camiel Fortgens 將 GEL-CUMULUS 16 重塑為 Mary Jane 與 VELCRO 鞋型",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-22",
+   "content": "摘要 ASICS SportStyle 攜手 Camiel Fortgens，為 GEL-CUMULUS 16 推出首個 Crafts for Mind 企劃。是次合作將這款具備技術性能的跑鞋輪廓，重新演繹為帶有原始質感的 Mary Jane 及 VELCRO 魔術貼款式，靈感來自童鞋設計。綠色配色將於 2026 年 9 月 24 日率先在 Amsterdam 登場，啡色版本則預計於 10 月跟上發售。 ASICS SportStyle 與 Camiel Fortgens 正式發布首個 GEL-CUMULUS 16 聯乘鞋款，作為品牌 Crafts for Mind 計劃的一部分。此企劃建基於反覆嘗試的工藝精神與刻意保留的不完美感，在技術鞋履傳承與原始手作美學之間建立連結。此企劃把大家熟悉的性能跑鞋輪廓轉化為兩種版本：靈感來自 Mary Jane 鞋的款式，以及 VELCRO 鞋型。兩款設計均從童鞋的簡約感汲取靈感，於 ASICS 標誌性的側條紋上加入層疊皮革貼片、不規則縫線及手工裁剪覆片。鞋款提供綠色與啡色配色，既呈現 Fortgens 不加修飾的設計理念，亦保留原有的核心技術結構。Crafts for Mind 計劃源自 ASICS「Sound Mind, Sound Body」理念，是一項透過創意支援心理健康的非牟利企劃。是次發售的部分收益將捐贈予 FFort Foundation，資助接受癌症治療後的青年透過藝術與敘事計劃獲得支援。系列同時推出由導演 Patrick Louwerse 與攝影師 Pieter Numan 於 Amsterdam 拍攝的宣傳企劃，記錄城市各處的日常生活片段。綠色版 Camiel Fortgens x ASICS SportStyle GEL-CUMULUS™ 16 將於 2026 年 9 月 24 日在 Amsterdam 的 Tillatec 發售。啡色配色則會於 2026 年 10 月起，僅在 Dover Street Market London 及位於 Amsterdam 的 Camiel Fortgens 旗艦店推出。 Cl",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fcamiel-fortgens-asics-sportstyle-gel-cumulus-16-mary-jane-velcro-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/camiel-fortgens-asics-sportstyle-gel-cumulus-16-mary-jane-velcro-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Nike Dresses Up This Air Force 1 Low in Snakeskin and a Trio of Gold Charms",
+   "source": "Hypebeast",
+   "date": "2026-09-22",
+   "content": "Name: Nike Air Force 1 Low “Gold Charms”Colorway: White/Metallic Gold/WhiteSKU: IZ8908-100MSRP: $125 USDRelease Date: TBCThe Air Force 1 Low is the latest canvas for Nike’s growing charm obsession, pairing the silhouette's signature all-white leather with a snakeskin-textured Swoosh and a set of removable golden trinkets. It's a restrained update on paper that leans on its accessories to do the talking.The foundation stays true to the AF1 blueprint, built on the clean white leather upper that made the model a wardrobe staple. The tweak comes at the Swoosh, rendered here in a tan finish and wrapped in a snakeskin texture that adds a tactile, slightly exotic edge without disrupting the neutral palette. The effect is deliberately understated, setting a quiet base for the flashier hardware.That hardware is the real hook. A trio of golden charms dangles from the laces, made up of a miniature ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F22%2FNike-Air-Force-1-Low-Gold-Charms-IZ8908-100-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-air-force-1-low-gold-charms-iz8908-100-official-images",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "ASICS SportStyle and 8ON8 Unveil the GEL-SAFARI M Collaboration",
+   "source": "Hypebeast",
+   "date": "2026-09-22",
+   "content": "ASICS SportStyle has teamed up with Chinese designer brand 8ON8 on a new collaboration centered on the GEL-SAFARI M. Accompanied by a Head-to-Toe (H2T) collection spanning footwear, apparel, and accessories, the release brings the style codes and design thinking of golf culture into everyday urban life. From the shoes to the clothing, the collection is united by a cohesive visual language, layering low-saturation shades of bamboo green, lavender purple, deep olive, and cream white while reimagining golf-inspired silhouettes for contemporary daily wear. At the heart of the collection, the GEL-SAFARI M carries forward the design language of the ASICS archive, pairing it with 8ON8’s ongoing exploration of retrofuturism to give a classic silhouette a fresh visual expression.The shoe retains the GEL-SAFARI M’s lightweight outdoor DNA, naturally extending it to settings such as golf greens and",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F11-scaled-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/asics-sportstyle-8on8-gel-safari-m",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "The Jacquemus x Nike Moon Shoe \"Emerald Rise\" Is Out Now",
+   "source": "Hypebeast",
+   "date": "2026-09-22",
+   "content": "Name: Jacquemus x Nike Moon Shoe “Emerald Rise”Colorway: Emerald Rise/Blue Cap-Ghost-Pale IvorySKU: HV8547-300MSRP: $180 USDRelease Date: Available nowWhere to Buy: JacquemusJacquemus and Nike are back with a new take on the Moon Shoe, wrapping the running icon in a Miami-inspired \"Emerald Rise\" colorway. The collaboration continues Simon Porte Jacquemus's ongoing rework of the silhouette, layering a coastal color story over the model's now-signature ballet-adjacent build.At its core, this remains the Moon Shoe as Jacquemus has come to interpret it. The design holds onto the ruched nylon upper that gives the shoe its soft, gathered texture, paired with a Nike Grind outsole that nods to the brand's sustainability efforts and its deep running lineage. The overall shape leans into a modern, ballet-inspired look, a slimmed and elevated read on a silhouette that traces back to Nike's earliest",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F22%2FJacquemus-Nike-Moon-Shoe-Emerald-Rise-HV8547-300-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/jacquemus-nike-moon-shoe-emerald-rise-hv8547-300-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "New Balance Unveils the 991v2 Made in UK \"Elevated Neutrals/Turbulence\"",
+   "source": "Hypebeast",
+   "date": "2026-09-22",
+   "content": "Summary New Balance is preparing to release the 991v2 Made in UK in an Elevated Neutrals Turbulence colorwayThe updated silhouette incorporates a mixed-material upper constructed from nubuck leather and meshThe sneaker is scheduled to drop as part of the brand's Fall 2026 lineup Name: New Balance 991v2 Made in UK \"Elevated Neutrals/Turbulence\"Colorway: Elevated Neutrals/TurbulenceSKU: U991EC2MSRP: $270 USDRelease Date: Fall 2026Where to Buy: New BalanceNew Balance is preparing to expand its Made in UK footwear range with the New Balance 991v2 Made in UK \"Elevated Neutrals/Turbulence\". Tracing its lineage back to the original 991 model that debuted in 2001 as the eighth entry in the 990 series, this updated iteration brings subtle design tweaks to the classic runner.The shoe features an upper constructed from a mix of premium nubuck, leather, and breathable mesh paneling. Design updates o",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F21%2Fnew-balance-991v2-elevated-neutrals-turbulence-U991EC2-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/new-balance-991v2-elevated-neutrals-turbulence-u991ec2-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Vans and Harris Tweed Unite Punk Attitude With Skate Culture in a New Collection",
+   "source": "Hypebeast",
+   "date": "2026-09-22",
+   "content": "Vans has unveiled a collaborative collection with Harris Tweed, the maker of traditional Scottish tweed fabric.The collection brings together Scottish craftsmanship and Vans’ Off The Wall spirit. Drawing on London punk and Southern California skate culture, it pairs traditional materials with iconic silhouettes.The four-piece lineup includes the Premium Old Skool 36, Premium Classic Slip-On 98, Premium Loafer 53, and Vans x Harris Tweed® Strapback. The shoes feature Harris Tweed uppers and vintage-inspired distressed sidewalls adorned with DIY-style embellishments, including jewels, spikes, metal rings, and peace-sign charms. Leopard-print insoles add another distinctive touch.The cap is made with Harris Tweed fabric and finished with tartan details and metal hardware, while its lining features a leopard print.The Vans x Harris Tweed collaboration launches Thursday, September 24, via the",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fvans-harris-tweed-collabo-new-collection-release-info-01-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/vans-harris-tweed-collabo-new-collection-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "ASICS and Camiel Fortgens Reconstruct the GEL-CUMULUS 16 Into Mary Jane and Velcro Silhouettes",
+   "source": "Hypebeast",
+   "date": "2026-09-22",
+   "content": "Summary ASICS SportStyle has teamed up with Camiel Fortgens for its inaugural Crafts for Mind project on the GEL-CUMULUS 16The collaboration reinterprets the technical silhouette into raw Mary Jane and VELCRO styles inspired by children's footwearThe green colorways launch September 24, 2026 in Amsterdam followed by an October release for the brown pairs ASICS SportStyle and Camiel Fortgens have officially revealed their debut GEL-CUMULUS 16 collaboration as part of the brand's Crafts for Mind initiative. Grounded in trial-and-error craftsmanship and intentional imperfections, the project bridges technical footwear heritage with a raw, hand-crafted aesthetic.The project transforms the familiar performance running shape into two distinct formats: a Mary Jane-inspired model and a VELCRO silhouette. Drawing design cues from the simplicity of children's shoes, both pairs feature layered leat",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F21%2Fcamiel-fortgens-asics-sportstyle-gel-cumulus-16-mary-jane-velcro-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/camiel-fortgens-asics-sportstyle-gel-cumulus-16-mary-jane-velcro-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "adidas Adizero Adios Pro 5 Brings Sub-2 Tech to the Masses",
+   "source": "Nice Kicks",
+   "date": "2026-09-22",
+   "content": "adidas just pulled the cover off the Adizero Adios Pro 5, and the pitch is simple: take the innovations that… The post adidas Adizero Adios Pro 5 Brings Sub-2 Tech to the Masses appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/adidas-Adizero-Adios-Pro-5_10.jpeg",
+   "link": "https://www.nicekicks.com/adidas-adizero-adios-pro-5-release-date-price/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 12,
    "title": "Miu Miu x New Balance 530 SL 推出「White」與「Cinnamon」芭蕾平底鞋版本",
    "source": "Hypebeast 中文",
    "date": "2026-09-21",
@@ -43,7 +185,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 13,
    "title": "Nike 以「NYC Rat」細節重新演繹 Air Force 1 Low",
    "source": "Hypebeast 中文",
    "date": "2026-09-21",
@@ -56,7 +198,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 14,
    "title": "Nike 推出 Mind 001「Purple Smoke」套穿鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-09-21",
@@ -69,7 +211,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 15,
    "title": "adidas Originals 與 VegNonVeg 將 Samba 重塑為兩款 Jutti 靈感穆勒鞋",
    "source": "Hypebeast 中文",
    "date": "2026-09-21",
@@ -82,7 +224,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 16,
    "title": "Pendleton x Crocs 為「Nehalem」及「Tucson」木屐鞋注入抓毛絨與初剪羊毛",
    "source": "Hypebeast 中文",
    "date": "2026-09-21",
@@ -95,7 +237,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 17,
    "title": "Nike Mind 002「Palest Purple」配色以穿孔設計覆蓋鞋面至鞋跟",
    "source": "Hypebeast 中文",
    "date": "2026-09-21",
@@ -108,7 +250,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 18,
    "title": "Kylian Mbappé 在 Real Madrid 訓練中首度著用 On 首款足球鞋",
    "source": "Hypebeast 中文",
    "date": "2026-09-21",
@@ -121,7 +263,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 19,
    "title": "Nike Air Max 95「I-95」系列以工靴機能重塑跑鞋美學",
    "source": "Hypebeast 中文",
    "date": "2026-09-21",
@@ -134,33 +276,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
-   "title": "New Balance ABZORB 2000「White/Navy」將於 2026 年秋季回歸基本配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-21",
-   "content": "摘要 New Balance 進一步擴充鞋履陣容，帶來一款配色俐落的 ABZORB 2000「White Navy」新作。設計以白色網布鞋身為基礎，搭配淺灰色層疊細節、navy 滾邊，以及點綴銀色細節的 N 標誌。分段式 ABZORB 中底加入 navy 與亮藍色緩震膠囊組合，並置於灰色橡膠外底之上。 名稱：New Balance ABZORB 2000「White/Navy」配色：白色／海軍藍產品編號：U20008SW建議零售價：待定發售日期：2026 年秋季發售渠道：New BalanceNew Balance 發布了 New Balance ABZORB 2000「White/Navy」。這款帶有復古氣息的跑鞋以經典撞色設計回歸，預計於 2026 年秋季登場。鞋款採用白色網布鞋面，淺灰色覆片勾勒鞋頭、鞋帶孔片及後跟飾片。海軍藍滾邊沿著網布面板外圍延伸，形成視覺對比；鞋身中段的經典海軍藍「N」標誌則點綴低調銀色細節。灰色鞋領內襯、白色鞋帶，以及鞋舌和後跟的標準 New Balance 標誌，為鞋面畫上完整句號。鞋底方面，白色中底內嵌分段式 ABZORB 緩震結構，海軍藍與亮藍色緩震膠囊置於各中底區塊之間；灰色橡膠外底配備海軍藍抓地力嵌片，提供支撐。New Balance 2000「White/Navy」將於 2026 年秋季透過 NewBalance.com 及全球指定零售商發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnew-balance-abzorb-2000-white-navy-u20008sw-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/new-balance-abzorb-2000-white-navy-u20008sw-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 10,
-   "title": "Nike Air Max Plus「Premier」以 Tiempo 元素皮革拼片取代標誌性 TPU 支架",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-21",
-   "content": "摘要 Nike 推出 Air Max Plus Premier，為品牌的足球靈感鞋履陣容再添一款全新鞋型。這款新鞋大膽捨棄昔日標誌性的 TPU 支撐框架，改用壓紋皮革全面包覆鞋身，重新演繹 Nike Tiempo 足球靴的經典設計語彙。此鞋款預計於 2026 年 F/W 季度透過 Nike 官方渠道及指定零售商發售。 鞋款：Nike Air Max Plus「Premier」配色：黑色／黑色／中啡色／螢光綠／白色款式編號：IQ6607-001建議零售價：待公布發售日期：2026 年秋季發售地點：NikeNike 以 Air Max Plus「Premier」擴展其足球靈感鞋履陣容。新作將經典 Air Max Plus 跑鞋輪廓，結合傳統足球裝備的細節。鞋身標誌性的模塑 TPU 支架改以光滑皮革拼片呈現；帶有紋理的皮革令人聯想起 Nike Tiempo 足球靴的獨特縫線，同時保留原版 Air Max Plus 的波浪線條。鮮明的紫色與綠色點綴，延續 Nike 自 2025 年初以來在多個足球相關企劃中探索的主題。鞋舌中央的「Premier」徽章，為這雙跨界設計畫上句號。Nike Air Max Plus「Premier」預計於 2026 年秋冬季度透過 Nike.com 及指定零售商發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-air-max-plus-premier-IQ6607-001-official-look-release-info-000-1-1-2-1-2-2-1-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-air-max-plus-premier-iq6607-001-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 11,
+   "id": 20,
    "title": "The Miu Miu x New Balance 530 SL Is Now a Ballet Flat in \"White\" and \"Cinnamon\"",
    "source": "Hypebeast",
    "date": "2026-09-21",
@@ -174,7 +290,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 21,
    "title": "Nike Reimagines the Air Force 1 Low With Gritty \"NYC Rat\" Details",
    "source": "Hypebeast",
    "date": "2026-09-21",
@@ -187,7 +303,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 22,
    "title": "Nike Debuts the Mind 001 Slip-On In \"Purple Smoke\"",
    "source": "Hypebeast",
    "date": "2026-09-21",
@@ -200,7 +316,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 23,
    "title": "adidas Originals and VegNonVeg Reshape the Samba Into Two Jutti-Inspired Mules",
    "source": "Hypebeast",
    "date": "2026-09-21",
@@ -213,7 +329,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 24,
    "title": "Pendleton and Crocs Wrap the \"Nehalem\" and \"Tucson\" Clogs in Fleece and Virgin Wool",
    "source": "Hypebeast",
    "date": "2026-09-21",
@@ -226,7 +342,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 25,
    "title": "Nike Perforates the Mind 002 From Toe to Heel in \"Palest Purple\"",
    "source": "Hypebeast",
    "date": "2026-09-21",
@@ -239,60 +355,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
-   "title": "Kylian Mbappé Debuts On's First-Ever Football Boot in Real Madrid Training",
-   "source": "Hypebeast",
-   "date": "2026-09-21",
-   "content": "Summary Kylian Mbappé has been spotted wearing On's first-ever football boot during a Real Madrid training sessionThe French star officially left Nike to become the flagship athlete for Swiss brand On's new football divisionMbappé will actively participate in the development and testing of future performance footwear and apparel On and Kylian Mbappé have taken the pitch together as the French forward debuted the Swiss sportswear brand's first-ever football boot during a Real Madrid training session. The training appearance marks the debut look at On Football's upcoming boot line following Mbappé's departure from Nike.The on-pitch sighting offers a first glimpse at On's inaugural football silhouette as Mbappé trained with Real Madrid. Following the announcement of his move to On, the World Cup champion steps in as the primary face of the brand's newly formed On Football division.Mbappé is",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F21%2Fkylian-mbappe-debuts-on-first-ever-football-boot-real-madrid-training-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/kylian-mbappe-debuts-on-first-ever-football-boot-real-madrid-training",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "Nike Air Max 95 \"I-95\" Pack Trades Running Aesthetics for Workboot Utility",
-   "source": "Hypebeast",
-   "date": "2026-09-21",
-   "content": "Summary Nike is reintroducing the boot-styled Air Max 95 I-95 Pack in \"Medium Olive\" and \"Wheat\" colorways for Holiday 2026The design swaps traditional layered paneling for a molded shell upper accented by metal D-ring eyelets and rope lacesBoth pairs are scheduled to launch through Nike and select global stockists for $200 USD each Name: Nike Air Max 95 \"I-95\"Colorway: Medium Olive/Sequoia-Black, Wheat/Muslin-Gum Medium BrownSKU: IX4106-222, IX4106-790MSRP: $200 USDRelease Date: Holiday 2026Where to Buy: NikeNike is expanding its boot-inspired footwear lineup with the upcoming Air Max 95 \"I-95\" Pack. The modified silhouette returns for Holiday 2026 in \"Medium Olive\" and \"Wheat\" colorways, referencing the interstate corridor and Baltimore's historical affinity for Nike boots.Reimagining the classic runner through a utilitarian lens, the pack replaces the silhouette's signature layered up",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F20%2Fnike-air-max-95-i-95-medium-olive-IX4106-222-wheat-IX4106-790-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-air-max-95-i-95-medium-olive-ix4106-222-wheat-ix4106-790-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "New Balance ABZORB 2000 \"White/Navy\" Returns to Basics for Fall 2026",
-   "source": "Hypebeast",
-   "date": "2026-09-21",
-   "content": "Summary New Balance is expanding its footwear catalog with a crisp White Navy iteration of the ABZORB 2000 silhouetteThe design pairs a white mesh base with light grey overlays navy piping and silver-accented N logosA segmented ABZORB midsole integrates navy and bright blue cushioning pods above a grey rubber outsole Name: New Balance ABZORB 2000 \"White/Navy\"Colorway: White/NavySKU: U20008SWMSRP: TBDRelease Date: Fall 2026Where to Buy: New BalanceNew Balance has unveiled the New Balance ABZORB 2000 \"White/Navy\". The retro-inspired running model returns with a classic color-blocked presentation scheduled to arrive in Fall 2026.Built with a white mesh upper, the model features light grey overlays framing the toe box, eyestays, and heel panel. Navy piping traces the perimeter of the mesh paneling to deliver visual contrast, while classic navy \"N\" logos at the midfoot incorporate subtle silv",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F20%2Fnew-balance-abzorb-2000-white-navy-u20008sw-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/new-balance-abzorb-2000-white-navy-u20008sw-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS",
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "Nike Air Max Plus \"Premier\" Replaces Signature TPU Cage With Tiempo-Inspired Leather Tooling",
-   "source": "Hypebeast",
-   "date": "2026-09-21",
-   "content": "Summary Nike is expanding its soccer-inspired footwear lineup with the Air Max Plus PremierThe upcoming model replaces its traditional TPU cage with ridged leather panels reminiscent of Nike Tiempo bootsThe pair is expected to release during Fall/Winter 2026 through Nike and select retailers Name: Nike Air Max Plus \"Premier\"Colorway: Black/Gum Medium Brown-Volt-WhiteSKU: IQ6607-001MSRP: TBDRelease Date: Fall 2026Where to Buy: NikeNike is expanding its football-influenced footwear catalog with the upcoming Air Max Plus \"Premier\". The new iteration merges the iconic Air Max Plus running shape with distinct aesthetic cues borrowed from classic pitch performance gear.The release is highlighted by a structural update along the upper, replacing the silhouette's signature raised TPU overlay with pronounced leather sectioning. The ridged leather paneling mimics the distinctive stitching found on",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F20%2Fnike-air-max-plus-premier-IQ6607-001-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-air-max-plus-premier-iq6607-001-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 21,
+   "id": 26,
    "title": "Jacquemus x Nike Moon Shoe WMNS “Miami”",
    "source": "Nice Kicks",
    "date": "2026-09-21",
@@ -305,7 +368,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 27,
    "title": "PSG x Nike KD 6 “Metallic Silver”",
    "source": "Nice Kicks",
    "date": "2026-09-21",
@@ -318,7 +381,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 28,
    "title": "adidas’ Samba Mary Jane Is the Leader of the Herd",
    "source": "Highsnobiety",
    "date": "2026-09-21",
@@ -331,7 +394,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 29,
    "title": "The adidas Superstar Went From Shell Toes to Twinkle (Square) Toes",
    "source": "Highsnobiety",
    "date": "2026-09-21",
@@ -344,7 +407,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 30,
    "title": "How to Make a 30-Year-Old Air Max Better? Waterproof It",
    "source": "Highsnobiety",
    "date": "2026-09-21",
@@ -357,7 +420,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 31,
    "title": "Nike’s Skate-Ready Tennis Sneaker Returns to Chunk-tastic Form",
    "source": "Highsnobiety",
    "date": "2026-09-21",
@@ -370,7 +433,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 32,
    "title": "Nike’s *Other* Chocolate Air Max Loafer Is Extra Dapper, Equally Delicious",
    "source": "Highsnobiety",
    "date": "2026-09-21",
@@ -383,7 +446,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 33,
    "title": "Sole Food: Reebok Is Killing It. Is It Enough to Break Through?",
    "source": "Highsnobiety",
    "date": "2026-09-21",
@@ -396,7 +459,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 34,
    "title": "The North Face Takes a Walk on the Wild Side",
    "source": "Highsnobiety",
    "date": "2026-09-21",
@@ -407,7 +470,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 30,
+   "id": 35,
    "title": "Guidi’s Engineer Boots Are Amazing — And Amazingly Rare (EXCLUSIVE)",
    "source": "Highsnobiety",
    "date": "2026-09-21",
@@ -418,7 +481,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 31,
+   "id": 36,
    "title": "Nike’s Greasiest Sneaker Is Low-Key Its Greatest",
    "source": "Highsnobiety",
    "date": "2026-09-21",
@@ -431,7 +494,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 37,
    "title": "Nike’s Security-Inspired Boot Doesn’t Need Clearance",
    "source": "Highsnobiety",
    "date": "2026-09-21",
@@ -444,57 +507,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
-   "title": "NN.07 與 Fracap 再度合作推出第 3 款 M127 靴款",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-20",
-   "content": "名稱：NN.07 x Fracap M127 靴款建議零售價：450 美元發售日期：9 月 24 日發售地點：NN.07NN.07 與 Fracap 合作推出雙方第 3 款聯乘鞋履。M127 靴款配備厚實耐用的 Vibram 鞋底，帶來理想抓地力；鞋型保留登山靴不可或缺的元素，包括耐用縫線、堅固繫帶系統及可應對各種天氣的結構，同時以俐落線條和簡約比例修飾鞋面，剪裁克制如同訂製皮鞋。成品既能從容應對山路急彎，也適合穿梭城市行人路。3 種材質處理為同一結構帶來不同特質。「啡色皮革」最直接取材自 Fracap 的檔案，新聞稿形容其表面帶有穿舊後的質感，真實自然，突顯靴款傳統的高山風格。「黑色皮革」則以更深沉、俐落的方式重塑鞋型，讓它更適合城市穿著；單色鞋面令鞋型與五金細節更見鮮明。質感最突出的「深灰色馬毛」以觸感豐富、紋理方向清晰的表面取代光滑皮革；炭灰色調令整體配色保持低調，而出人意表的材質則為硬朗鞋型注入更偏向時裝的質感。第 3 款 NN.07 x Fracap M127 靴款將於 9 月 24 日透過 NN07.com 及全球指定零售商發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnn-07-fracap-third-collaboration-boots-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nn-07-fracap-third-collaboration-m127-boots-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 34,
-   "title": "Harris Tweed x Vans Premium 完整系列官方照片釋出",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-20",
-   "content": "名稱：Harris Tweed x Vans Premium 系列建議零售價：120 至 140 美元發售日期：9 月 24 日發售地點：VansHarris Tweed 與 Vans 將合作延伸至 Vans Premium 三款鞋型系列，為 Old Skool 36、Classic Slip-On 98 及 Loafer 53 注入這家蘇格蘭紡織商手工織製的羊毛面料。此膠囊系列以今年初夏率先亮相的 Old Skool 為基礎：鞋面採用藍調格紋，隱約透出淡紫、綠及啡色，配搭深海軍藍覆面、鑲水晶的 Sidestripe，以及珠寶般的尖釘、寶石與飾針。整個系列刻意以 Harris Tweed 粗獷而富立體感的質感，對比 Vans 的硫化鞋身結構與亮面側牆；細緻的油蠟處理與仿舊飾面，令鞋款帶有淡淡歲月感，而非一派簇新的正裝皮鞋風格。Premium Classic Slip-On 98 特別著重面料表現，為 Vans 無鞋帶鞋型覆上「Tweed Red／Blue」配色。此版本以暖調大地色格紋為主，點綴較冷的藍色；不規則的羊毛織法令表面更顯豐富，近乎帶有復古典藏感。寶石、飾針與鉚釘打破傳統紡織面料的規整感，透出金屬光澤；撞色車線和輕微油蠟處理，進一步突顯其穿舊質感。Premium Loafer 53 則將概念帶向更正式的方向，把 Harris Tweed 融入 Vans 受滑板文化啟發的便士樂福鞋輪廓。鞋款採用「Tweed Brown」配色，呈現低調的秋日質感；毛絨織羊毛與較平滑的皮革元素，配襯深色硫化鞋底，交織傳統剪裁與次文化風格。鞋舌飾有鉚釘，而可拆卸的金屬吊飾——包括安全別針及寶石般的點綴——則延續系列其他鞋款的叛逆裝飾；細緻的油蠟處理再次添上微微風化的效果。Loafer 53 最後配備加厚鞋領、亮面側牆、華夫格外底及 Sola Foam ADC 鞋墊。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fharris-tweed-vans-premium-slip-on-tweed-red-blue-vn000e96bjn-premium-loafer-53-tweed-brown-vn000y8mcyl-premium-old-skool-36-tweed-navy-blue-vn000e8vbip-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/harris-tweed-vans-premium-slip-on-tweed-red-blue-vn000e96bjn-premium-loafer-53-tweed-brown-vn000y8mcyl-premium-old-skool-36-tweed-navy-blue-vn000e8vbip-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "NN.07 and Fracap Reunite for a Third M127 Boot Collaboration",
-   "source": "Hypebeast",
-   "date": "2026-09-20",
-   "content": "Name: NN.07 x Fracap M127 BootsMSRP: $450 USDRelease Date: September 24Where to Buy: NN.07NN.07 has teamed up with Fracap for their third collaborative footwear release. Built on heavy-duty Vibram soles for optimal grip, the rugged M127 boot silhouette preserves essential mountain features - including durable stitching, robust lacing systems, and weather-ready construction - while refining the upper with clean lines and pared-back proportions cut with the restraint of a tailored shoe. The result is a versatile boot that navigates switchbacks and city sidewalks with equal ease.Three material treatments give the same construction distinct qualities. Brown Leather draws most directly from Fracap’s archive, with the press release describing its finish as worn-in and honest, emphasizing the boot’s traditional alpine character. Black Leather recasts the silhouette in a darker, cleaner treatmen",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F20%2Fnn-07-fracap-third-collaboration-boots-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nn-07-fracap-third-collaboration-m127-boots-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "An Official Look at the Complete Harris Tweed X Vans Premium Collection",
-   "source": "Hypebeast",
-   "date": "2026-09-20",
-   "content": "Name: Harris Tweed x Vans Premium CollectionMSRP: $120 - $140 USDRelease Date: September 24Where to Buy: VansHarris Tweed and Vans extend their partnership into a three-model Vans Premium collection, applying the Scottish textile maker’s handwoven wool to the Old Skool 36, Classic Slip-On 98 and Loafer 53. The capsule builds on the Old Skool first previewed earlier this summer, where a blue-toned plaid upper with lilac, green and brown undertones was paired with deep navy overlays, a crystal-studded Sidestripe and jewelry-like spikes, stones and pins.Across the wider range, Harris Tweed’s coarse, dimensional texture is deliberately contrasted with Vans’ vulcanized construction and glossy sidewalls, while subtle greasing and distressed finishes give the shoes a lightly aged character rather than a pristine dress-shoe treatment.The Premium Classic Slip-On 98 places particular emphasis on t",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fharris-tweed-vans-premium-slip-on-tweed-red-blue-vn000e96bjn-premium-loafer-53-tweed-brown-vn000y8mcyl-premium-old-skool-36-tweed-navy-blue-vn000e8vbip-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/harris-tweed-vans-premium-slip-on-tweed-red-blue-vn000e96bjn-premium-loafer-53-tweed-brown-vn000y8mcyl-premium-old-skool-36-tweed-navy-blue-vn000e8vbip-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 37,
+   "id": 38,
    "title": "Nike Air Force 1 Low “Black Rat”",
    "source": "Nice Kicks",
    "date": "2026-09-19",
@@ -507,7 +520,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 39,
    "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-19",
@@ -520,7 +533,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 40,
    "title": "Where To Buy the Air Jordan 9 OG “Space Jam”",
    "source": "Nice Kicks",
    "date": "2026-09-19",
@@ -533,7 +546,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 41,
    "title": "MOWALOLA x Air Jordan 14 Mule SP “Metallic Silver” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -546,7 +559,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 41,
+   "id": 42,
    "title": "MOWALOLA x Air Jordan 14 SP “Burnt Red” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -559,7 +572,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 42,
+   "id": 43,
    "title": "Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -572,7 +585,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 43,
+   "id": 44,
    "title": "adidas Anthony Edwards 3 “Snow Camo”",
    "source": "Nice Kicks",
    "date": "2026-09-18",
@@ -582,19 +595,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
-   ]
-  },
-  {
-   "id": 44,
-   "title": "Tom Sachs x NikeCraft General Purpose Shoe “Demerits”",
-   "source": "Nice Kicks",
-   "date": "2026-09-18",
-   "content": "The Tom Sachs x NikeCraft General Purpose Shoe “Demerits” is releasing with an all leather upper on September 30, 2026, via… The post Tom Sachs x NikeCraft General Purpose Shoe “Demerits” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/02/IMG_8866.png",
-   "link": "https://www.nicekicks.com/tom-sachs-nikecraft-general-purpose-shoe-demerits-fz1363-002/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
    ]
   }
  ]
