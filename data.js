@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-23 08:07",
+ "updatedAt": "2026-09-23 16:05",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,16 +17,191 @@ window.SNEAKER_DATA = {
  "brands": [
   "ADIDAS",
   "ASICS",
+  "CLARKS",
+  "CONVERSE",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
-  "PRADA",
-  "VANS"
+  "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Mbappé 已轉投 On，Nike 球靴卻未有跟上",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-23",
+   "content": "名稱：Nike Mercurial Superfly 11 Elite By You配色：白色／白色貨號：IU4441-100建議零售價：325 美元發售日期：現已發售發售地點：NikeNike 透過其 By You 度身訂製平台推出全白色 Mercurial Superfly 11 Elite，推出時機格外引人注目。Kylian Mbappé 近日與 On 簽約，並在宣布轉投後首場代表 Real Madrid 上陣的比賽中，穿上一雙近乎相同的白色 Superfly 11；這項選項正是在其後不久上線。Mbappé 轉投 On，意味著一段始於他童年的合作關係告終。他自 2006 年、8 歲起便已與 Nike 簽約。Mbappé 在個人網站公布新合作時表示，他看見了「一起打造全新事物的機會」。不過，On 的球靴尚未準備好投入比賽。Mbappé 已被拍到穿著採用品牌 LightSpray 技術打造的 On 原型球靴操練，但在 Real Madrid 周日的賽事中，他重穿 Mercurial Superfly 11——這也是他在 Nike 合約期滿前出戰世界盃時所穿的同款球靴。全白鞋面令 Swoosh 幾乎隱沒，但並非完全看不見；而 Real Madrid 的球衣由 adidas 贊助，因此其球衣上的另一個標誌來自 Three Stripes，而非 On。Nike 的後續動作相當低調。品牌在 Nike By You 將一款相近的全白版本設為預設選項，並標示「最新上架」，卻未直接提及 Mbappé。不過，Nike 並未公開將兩者連繫起來。這雙球靴本身是 Nike 旗下的頂級速度型鞋款。Mercurial Superfly 11 Elite By You 為低筒硬地球靴，專為乾燥的天然草地球場而設。前掌 Air Zoom 氣墊帶來回彈靈敏的腳感；Nike 表示，首次應用於其足球靴的 ZoomX 泡棉，則提供品牌最高的能量回饋。鞋面採用 FlyWeave Ultra 物料，從後跟延伸至鞋頭，於重點部位編織而成，帶來貼合且穩固的包覆；人字形鞋釘則有助球員抓穩場地並迅速變向。 View ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fkylian-mbappe-nike-mercurial-superfly-11-elite-by-you-taped-football-boot-iu4441-100-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/kylian-mbappe-nike-mercurial-superfly-11-elite-by-you-taped-football-boot-iu4441-100-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "A.P.C. x Clarks Originals Desert Boot 與 Weaver 鞋款以羅紋麂皮配搭亮面皮革",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-23",
+   "content": "名稱：A.P.C. x Clarks Originals Desert Boots、A.P.C. x Clarks Originals Weaver配色：焦糖色、深啡色產品編號：PXCEM-M53005、PXCEL-M53004建議零售價：190 美元、210 美元發售日期：現已發售購買地點：A.P.C.A.P.C. 與 Clarks Originals 合作推出全新 Interaction 系列，聚焦這個英國鞋履品牌兩款最具代表性的鞋型：Desert Boot 與 Weaver。兩款鞋均為中性設計，捨棄一貫的表面處理，改以呼應 A.P.C. 牛仔布根源的材質，以及亮面皮革製作。材質是這次聯乘的重點。首款採用帶有羅紋表面的紋理麂皮，旨在呈現牛仔布的視覺效果，備有駝色及海軍藍兩種選擇；A.P.C. 稱之為羅紋剖層皮革。另一款則以光滑亮面的啡色皮革製成，為整個系列帶來較斯文的對比。兩款均採用中性鞋型剪裁。Desert Boot 保留 Clarks 於 1950 年代推出的簡約設計：俐落線條、簡單的綁帶設計，以及正宗天然橡膠生膠鞋底。這個鞋型與次文化淵源深厚，多年來一直深受垮掉派、摩登族及 Britpop 世代穿著。A.P.C. 的版本加入金屬圓環，並配上印有 A.P.C. 品牌標誌的皮革飾片。Weaver 的結構細節更為豐富。它由 Clarks Wallabee 演變而來，加入方框縫線及更流線的輪廓，後來亦成為 Clarks 系列中的經典鞋款。此鞋將於 2027 年迎來 50 週年。A.P.C. 版本保留 Weaver 的經典鞋型，並加入同色系扁鞋帶、壓印於鞋身兩側的 A.P.C. 標誌，以及生膠鞋底。每雙鞋均附有一枚以同款鞋面材質製成的可拆式吊飾，與所選的鞋款表面處理相互呼應。兩個品牌皆以耐穿性作為系列重點，指出皮革與生膠鞋底會隨穿著時間而更見質感。隨附的宣傳企劃亦呼應這個概念，場景設於一間充滿生活痕跡的睡房，當中有未整理的床鋪，以及隨意踢下後留在原地的鞋履。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FA-P-C-Clarks-Originals-Desert-Boots-Weaver-Collaboration-PXCEM-M53005-PXCEL-M53004-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/a-p-c-clarks-originals-desert-boots-weaver-collaboration-pxcem-m53005-pxcel-m53004-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CLARKS"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Buffer x Converse All Star Hi「BOMBING」圖案黑色鞋面正式登場",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-23",
+   "content": "名稱：Buffer x Converse All Star Hi配色：待定產品編號：待定建議零售價：待定發售日期：9 月 26 日發售地點：Buffer由創意總監西山徹主理的新品牌 Buffer，與 Converse 攜手推出系列，主打印有「BOMBING」圖案的黑色 All Star Hi。膠囊系列以這雙高筒鞋為核心，配搭一系列精簡的服裝及配飾；整體設計取材自街頭的視覺雜訊，再以 Buffer 的設計觀點重新演繹。鞋款無疑是系列焦點。Converse All Star Hi 以黑色為基調，為「BOMBING」印花襯托出深色背景，令圖案更為突出清晰。這次聯乘沒有推出新鞋型或重塑鞋身結構，而是保留這雙高筒鞋一貫的輪廓，讓表面圖案擔當主角，將鞋身視作一面等待塗寫的空白牆壁。這套圖像語言源自一組明確的參考素材：青少年放學回家途中可能會看到的畫面，包括牆上的噴漆塗鴉標記、店面與街角招牌，以及隨手買來的日常產品包裝。Buffer 隨後將這些素材重新拼組成自家的構圖，令原本不經意的雜亂元素化為有意識的設計。系列其餘單品亦將同一概念延伸至更多形式。服裝方面以運動衫和連帽衛衣為主，配飾則包括冷帽及肩帶，另備有一套貼紙，讓穿者可親手貼上，呼應塗鴉概念。Buffer 將完整系列定位為一種適合隨性時光的新式制服：無論在城市漫遊、與朋友相聚，還是偶然發現新的場景時，都可隨手穿上。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FBuffer-Converse-All-Star-Hi-Collaboration-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/buffer-converse-all-star-hi-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "adidas Forum SQ Trainer 以方頭設計重塑經典籃球鞋輪廓",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-23",
+   "content": "名稱：adidas Forum SQ Trainer「Core Black」配色：Core Black／Cream White／Core Black款式編號：KK3757建議零售價：15,400 日圓（約 100 美元）發售日期：9 月 25 日發售地點：adidas Japanadidas Originals 推出 Forum SQ Trainer，重新演繹 1984 年面世的 Forum，捨棄這雙球場鞋款熟悉的輪廓，改以方頭和角度鮮明的杯式鞋底示人。首發的黑色版本，將此鞋款定位為商務休閒穿搭之選；現代而富建築感的結構下，仍清楚保留其籃球血統。最明顯的改動在鞋頭。adidas 將鞋頭壓平，塑造成方正輪廓，並配上邊緣硬朗、線條分明的橡膠杯式鞋底，令 Forum 呈現幾何感姿態，與原版籃球鞋的圓頭設計截然不同。杯式鞋底向上包覆鞋面底部，勾勒出新造型，從各個角度都進一步突顯其方正輪廓。鞋面採用優質皮革，以解構式手法打造，淡化傳統球場鞋面工整精緻的觀感，改為更原始、隨性的氣質。品牌標誌直接壓印於皮革上，並非縫製或印刷，讓全黑配色保持同色調，交由材質紋理帶出視覺層次。成品更接近可配搭正裝的運動鞋，而非復刻傳統籃球鞋。鞋底方面，adidas 結合耐磨的釘紋橡膠外底與熱塑性聚氨酯（TPU）組件。釘紋設計令鞋底更厚實、更具侵略感，同時提供可靠抓地力；TPU 則為整個鞋底結構增添支撐。這項實用細節，以日常所需的耐用度平衡鞋面的精緻感。這次更新承載著 Forum 深厚的歷史。此鞋型於 1984 年首度推出，定位為高階籃球鞋；高筒版本則憑藉可在球場上穩固足踝的 X 形踝帶而廣為人知。作為長年備受青睞的日常鞋款後，它在 2020 年代再次成為焦點，Bad Bunny 的 Forum 聯乘鞋款功不可沒。SQ Trainer 為這份傳承開闢新方向。近幾季，方頭設計已廣泛見於設計師鞋履與男裝之中，adidas 如今將這種比例帶到旗下最具辨識度的球場鞋型之一。品牌將此鞋定位為 Forum 傳統籃球根源與當代設計手法的交匯，為希望運動鞋也能襯托更俐落、正式造型的穿者而設。 Click here to ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fadidas-Forum-SQ-Trainer-Core-Black-KK3757-Official-Images-Japan-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/adidas-forum-sq-trainer-core-black-kk3757-official-images-japan-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Air Jordan 16「Black Pack」正式定於 10 月發售",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-23",
+   "content": "摘要 Jordan Brand 將於 Holiday 2026 檔期推出一套低調「Black Pack」，共 4 雙鞋款。當中的 Air Jordan 16 採用壓紋黑色皮革，點綴亮面漆皮細節，並配備同色系鞋罩設計。此鞋款將於 2026 年 10 月 3 日經指定 NBHD 店舖獨家發售，定價 245 美元。 名稱：Air Jordan 16「Black Pack」配色：Black/Off Noir產品編號：IZ2586-001建議零售價：245 美元發售日期：2026 年 10 月 3 日發售渠道：NikeJordan Brand 將推出 Air Jordan 16「Black Pack」，為 2026 年假日季度陣容增添新作。這款全黑版本與 Air Jordan 14 Low、Air Jordan 15 及 Air Jordan 17 Low 同屬一個涵蓋 4 款鞋型的復刻系列。鞋款採用同色調的「Black/Off Noir」配色，透過材質對比提升單色造型的層次。鞋面主要以優質黑色摔紋皮革製成，鞋舌及鞋領位置則配以透氣網布面料。鞋款保留此鞋型的標誌性實用細節，搭載經典可拆式鞋罩，可隨意轉換造型。鞋頭採用亮面漆皮，向 2001 年原版設計致敬；下方以全黑中底及外底組合，完成俐落輪廓。Air Jordan 16「Black Pack」預定於 2026 年 10 月 3 日發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fair-jordan-16-black-pack-iz2586-001-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/air-jordan-16-black-pack-iz2586-001-first-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Pharrell 與 adidas 推出 Adistar Jellyfish「Core Black/Multicolor」新配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-23",
+   "content": "摘要 Pharrell 聯同 adidas 準備發布全新 Adistar Jellyfish「Core Black」及「Multicolor」配色版本。此鞋款採用份量感十足的網布鞋面，搭配厚實覆層，疊加深灰、黑色、淡藍及亮螢光綠等色調。這雙聯乘鞋款預計於 2026 年 11 月推出，定價 300 美元。 名稱： Pharrell x adidas Adistar Jellyfish「Core Black/Multi-Color」配色： Core Black/Multicolor貨號： KH6727建議零售價： 300 美元發售日期： 2026 年 11 月發售渠道： adidasPharrell 與 adidas 正準備推出雙方聯乘鞋款 Pharrell x adidas Adistar Jellyfish「Core Black/Multicolor」的另一款大膽新作。這雙即將登場的鞋款突破傳統跑鞋設計，以厚實、多層次的輪廓，結合深色調與鮮明螢光色彩。鞋款呈現厚重而繁複的視覺感，透氣網布鞋面覆以厚實的合成材質飾片及模壓面板。深灰色覆蓋大部分鞋面，鞋身中段的三間標誌及周邊位置則以黑色細節襯托。淺藍色在層疊面板間若隱若現，為厚實鞋型增添層次。為平衡較深沉的配色，後跟及厚實、線條凌厲的鞋底單元集中加入亮眼螢光綠點綴。Adistar Jellyfish 雖然源自 adidas 的經典跑鞋設計，Pharrell 的重新演繹卻大幅改造了原有結構。更新後的鞋款採用誇張鞋底與加大飾片，呈現鮮明的當代生活風格取向，與其原本的性能定位相去甚遠。Pharrell x adidas Adistar Jellyfish「Core Black/Multicolor」預計於 2026 年 11 月透過 adidas.com 及指定零售商發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fpharrell-adidas-adistar-jellyfish-core-black-multicolor-KH6727-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/pharrell-adidas-adistar-jellyfish-core-black-multicolor-kh6727-first-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Mbappé Is With On Now, But His Boots Didn't Get the Memo",
+   "source": "Hypebeast",
+   "date": "2026-09-23",
+   "content": "Name: Nike Mercurial Superfly 11 Elite By YouColorway: White/WhiteSKU: IU4441-100MSRP: $325 USDRelease Date: Available nowWhere to Buy: NikeNike has made an all-white Mercurial Superfly 11 Elite available through its By You customization platform, and the timing is hard to miss. The option went live just after Kylian Mbappé, who recently signed with On, wore a nearly identical white Superfly 11 in his first Real Madrid match since announcing the switch.Mbappé's move to On marks the end of a partnership that started when he was a child. He had been signed to Nike since 2006, when he was eight years old. Announcing the new deal on his website, Mbappé said he saw \"opportunity to build something entirely new together.\"On's boot, however, isn't quite ready for match day. Mbappé has already been seen training in an On prototype built with the brand's LightSpray technology, but for Real Madrid'",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2Fkylian-mbappe-nike-mercurial-superfly-11-elite-by-you-taped-football-boot-iu4441-100-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/kylian-mbappe-nike-mercurial-superfly-11-elite-by-you-taped-football-boot-iu4441-100-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "The A.P.C. x Clarks Originals Desert Boot and Weaver Pair Ribbed Suede With Glossy Leather",
+   "source": "Hypebeast",
+   "date": "2026-09-23",
+   "content": "Name: A.P.C. x Clarks Originals Desert Boots, A.P.C. x Clarks Originals WeaverColorway: Caramel, Dark BrownSKU: PXCEM-M53005, PXCEL-M53004MSRP: $190 USD, $210 USDRelease Date: Available nowWhere to Buy: A.P.C.A.P.C. has teamed up with Clarks Originals on a new Interaction built around two of the British shoemaker's most recognizable silhouettes, the Desert Boot and the Weaver. Offered as unisex styles, both models trade their usual finishes for materials that echo A.P.C.'s denim roots and a polished leather option.The materials drive the collaboration. The first option is a textured suede with a ribbed surface meant to recall the look of denim, offered in camel and navy. A.P.C. describes it as ribbed split leather. The second is a smooth brown leather with a glossy finish, giving the lineup a dressier counterpoint. Both styles are cut as unisex models.The Desert Boot keeps the stripped-b",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2FA-P-C-Clarks-Originals-Desert-Boots-Weaver-Collaboration-PXCEM-M53005-PXCEL-M53004-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/a-p-c-clarks-originals-desert-boots-weaver-collaboration-pxcem-m53005-pxcel-m53004-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CLARKS"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "The Buffer x Converse All Star Hi Tags a Black Upper With \"BOMBING\" Graphics",
+   "source": "Hypebeast",
+   "date": "2026-09-23",
+   "content": "Name: Buffer x Converse All Star HiColorway: TBCSKU: TBCMSRP: TBCRelease Date: September 26Where to Buy: BufferBuffer, the new label led by creative director Tetsu Nishiyama, has partnered with Converse on a collection built around a black All Star Hi printed with \"BOMBING\" graphics. The capsule pairs the high-top with a compact run of apparel and accessories, all developed from the visual noise of the street and filtered through Buffer's own design sensibility.The footwear is the clear centerpiece. Converse's All Star Hi arrives in a black base, giving the \"BOMBING\" print a dark backdrop that lets the graphic read loud and clear. Rather than introducing a new silhouette or reworked construction, the collaboration keeps the high-top's familiar profile intact and lets surface graphics do the heavy lifting, treating the shoe as a blank wall ready to be marked up.That graphic language comes",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2FBuffer-Converse-All-Star-Hi-Collaboration-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/buffer-converse-all-star-hi-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Square Toes Take Over the adidas Forum With the New SQ Trainer",
+   "source": "Hypebeast",
+   "date": "2026-09-23",
+   "content": "Name: adidas Forum SQ Trainer “Core Black”Colorway: Core Black/Cream White/Core BlackSKU: KK3757MSRP: ¥15,400 JPY (approx. $100 USD)Release Date: September 25Where to Buy: adidas Japanadidas Originals has introduced the Forum SQ Trainer, a reworked take on the 1984 Forum that trades the court shoe's familiar shape for a squared toe and a sharply angled cupsole. The first colorway arrives in black, positioning the silhouette as a smart-casual option that keeps its basketball bloodline visible beneath a more modern, architectural build.The most immediate change is at the front of the shoe. adidas has flattened the toe into a boxy, squared profile and set it on a rubber cupsole with hard, angular edges, giving the Forum a geometric stance quite unlike the rounded toe of the original basketball model. The cupsole wraps up around the base of the upper, framing the new shape and reinforcing it",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2Fadidas-Forum-SQ-Trainer-Core-Black-KK3757-Official-Images-Japan-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/adidas-forum-sq-trainer-core-black-kk3757-official-images-japan-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "UGG"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Air Jordan 16 \"Black Pack\" Receives an Official October Release Date",
+   "source": "Hypebeast",
+   "date": "2026-09-23",
+   "content": "Summary Jordan Brand is introducing a stealthy four-pair \"Black Pack\" for the Holiday 2026 seasonThe Air Jordan 16 entry incorporates tumbled black leather patent leather accents and a matching shroudThe pair drops October 3 2026 exclusively through select NBHD retailers for 245 USD Name: Air Jordan 16 \"Black Pack\"Colorway: Black/Off NoirSKU: IZ2586-001MSRP: $245 USDRelease Date: October 3, 2026Where to Buy: NikeJordan Brand is expanding its Holiday 2026 lineup with the upcoming Air Jordan 16 \"Black Pack.\" The blackout iteration forms part of a broader four-shoe retro collection alongside the Air Jordan 14 Low, Air Jordan 15, and Air Jordan 17 Low.Constructed with a tonal \"Black/Off Noir\" palette, the silhouette relies on material contrast to elevate its monochromatic look. The upper is built primarily from premium tumbled black leather, complemented by breathable mesh paneling along the",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F22%2Fair-jordan-16-black-pack-iz2586-001-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/air-jordan-16-black-pack-iz2586-001-first-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Pharrell and adidas Expand the Adistar Jellyfish Lineup With a \"Core Black/Multicolor\" Edition",
+   "source": "Hypebeast",
+   "date": "2026-09-23",
+   "content": "Summary Pharrell and adidas are gearing up to release a new Core Black and Multicolor iteration of the Adistar JellyfishThe sneaker features a bulky mesh upper with thick overlays layered in dark grey black pale blue and bright voltThe collaborative silhouette is slated to drop in November 2026 for a retail price of 300 USD Name: Pharrell x adidas Adistar Jellyfish \"Core Black/Multi-Color\"Colorway: Core Black/MulticolorSKU: KH6727MSRP: $300 USDRelease Date: November 2026Where to Buy: adidasPharrell and adidas are preparing to release another bold iteration of their collaborative sneaker with the Pharrell x adidas Adistar Jellyfish \"Core Black/Multicolor\". The upcoming pair pushes the boundaries of traditional running designs, introducing a bulky, heavily layered silhouette dressed in a mix of dark tones and vibrant neon pops.Delivering a heavy, complex aesthetic, the shoe begins with a b",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F22%2Fpharrell-adidas-adistar-jellyfish-core-black-multicolor-KH6727-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/pharrell-adidas-adistar-jellyfish-core-black-multicolor-kh6727-first-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "adidas' Climbing Samba Reaches a New Peak",
+   "source": "Highsnobiety",
+   "date": "2026-09-23",
+   "content": "adidas' Five Ten Samba sneaker takes a treasured flat shoe & turns it into a mountain-ready climber.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-five-ten-samba-sneaker/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 14,
    "title": "Nike 與 Zellerfeld 發布 3D 打印 AIRMAX 1000.3「Stone/Burgundy Crush」",
    "source": "Hypebeast 中文",
    "date": "2026-09-22",
@@ -39,7 +214,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 15,
    "title": "Nike LeBron 24「Chosen 1s」近賞",
    "source": "Hypebeast 中文",
    "date": "2026-09-22",
@@ -52,7 +227,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 16,
    "title": "Nike 以 Caitlin 1「Chiefs」致敬 Caitlin Clark 的 Kansas City Chiefs 擁躉身分",
    "source": "Hypebeast 中文",
    "date": "2026-09-22",
@@ -65,7 +240,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 17,
    "title": "Nike Air Max Dolce「Electric Blue」配色亮相",
    "source": "Hypebeast 中文",
    "date": "2026-09-22",
@@ -78,7 +253,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 18,
    "title": "Nike 為 Air Force 1 Low 注入蛇紋與 3 枚金色吊飾",
    "source": "Hypebeast 中文",
    "date": "2026-09-22",
@@ -91,7 +266,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 19,
    "title": "Jacquemus x Nike Moon Shoe「Emerald Rise」現已發售",
    "source": "Hypebeast 中文",
    "date": "2026-09-22",
@@ -104,33 +279,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
-   "title": "New Balance 發布 991v2 Made in UK 最新「Elevated Neutrals／Turbulence」配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-22",
-   "content": "摘要 New Balance 正準備推出 991v2 Made in UK「Elevated Neutrals Turbulence」配色。這次升級鞋款換上拼接物料鞋身，以 nubuck 皮革配搭網布打造。這雙球鞋預計將於品牌 2026 年秋季系列中正式發售。 名稱：New Balance 991v2 Made in UK「Elevated Neutrals／Turbulence」配色：Elevated Neutrals／Turbulence產品編號：U991EC2建議零售價：270 美元發售日期：2026 年秋季發售渠道： New BalanceNew Balance 即將擴展其 Made in UK 鞋履系列，推出 New Balance 991v2 Made in UK「Elevated Neutrals／Turbulence」。此鞋款源自 2001 年面世的初代 991；後者是 990 系列的第 8 款作品。是次更新版本為這雙經典跑鞋作出細微調整。鞋面採用優質磨砂皮革、皮革及透氣網布裁片拼接而成。v2 版本調整了側身裁片，並將鞋跟標誌移至新位置；鞋款亦保留了當初奠定此系列特色的外露式 ABZORB 緩震科技中底。New Balance 991v2 Made in UK「Elevated Neutrals／Turbulence」預計於 2026 年秋季發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnew-balance-991v2-elevated-neutrals-turbulence-U991EC2-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/new-balance-991v2-elevated-neutrals-turbulence-u991ec2-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 8,
-   "title": "ASICS 與 Camiel Fortgens 將 GEL-CUMULUS 16 重塑為 Mary Jane 與 VELCRO 鞋型",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-22",
-   "content": "摘要 ASICS SportStyle 攜手 Camiel Fortgens，為 GEL-CUMULUS 16 推出首個 Crafts for Mind 企劃。是次合作將這款具備技術性能的跑鞋輪廓，重新演繹為帶有原始質感的 Mary Jane 及 VELCRO 魔術貼款式，靈感來自童鞋設計。綠色配色將於 2026 年 9 月 24 日率先在 Amsterdam 登場，啡色版本則預計於 10 月跟上發售。 ASICS SportStyle 與 Camiel Fortgens 正式發布首個 GEL-CUMULUS 16 聯乘鞋款，作為品牌 Crafts for Mind 計劃的一部分。此企劃建基於反覆嘗試的工藝精神與刻意保留的不完美感，在技術鞋履傳承與原始手作美學之間建立連結。此企劃把大家熟悉的性能跑鞋輪廓轉化為兩種版本：靈感來自 Mary Jane 鞋的款式，以及 VELCRO 鞋型。兩款設計均從童鞋的簡約感汲取靈感，於 ASICS 標誌性的側條紋上加入層疊皮革貼片、不規則縫線及手工裁剪覆片。鞋款提供綠色與啡色配色，既呈現 Fortgens 不加修飾的設計理念，亦保留原有的核心技術結構。Crafts for Mind 計劃源自 ASICS「Sound Mind, Sound Body」理念，是一項透過創意支援心理健康的非牟利企劃。是次發售的部分收益將捐贈予 FFort Foundation，資助接受癌症治療後的青年透過藝術與敘事計劃獲得支援。系列同時推出由導演 Patrick Louwerse 與攝影師 Pieter Numan 於 Amsterdam 拍攝的宣傳企劃，記錄城市各處的日常生活片段。綠色版 Camiel Fortgens x ASICS SportStyle GEL-CUMULUS™ 16 將於 2026 年 9 月 24 日在 Amsterdam 的 Tillatec 發售。啡色配色則會於 2026 年 10 月起，僅在 Dover Street Market London 及位於 Amsterdam 的 Camiel Fortgens 旗艦店推出。 Cl",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fcamiel-fortgens-asics-sportstyle-gel-cumulus-16-mary-jane-velcro-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/camiel-fortgens-asics-sportstyle-gel-cumulus-16-mary-jane-velcro-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 9,
+   "id": 20,
    "title": "Nike and Zellerfeld Unveil the 3D-Printed AIRMAX 1000.3 \"Stone/Burgundy Crush\"",
    "source": "Hypebeast",
    "date": "2026-09-22",
@@ -143,7 +292,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 21,
    "title": "Closer Look at the Nike LeBron 24 \"Chosen 1s\"",
    "source": "Hypebeast",
    "date": "2026-09-22",
@@ -156,7 +305,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 22,
    "title": "Nike Honors Caitlin Clark’s Kansas City Fandom With the Caitlin 1 \"Chiefs\"",
    "source": "Hypebeast",
    "date": "2026-09-22",
@@ -169,7 +318,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 23,
    "title": "The Nike Air Max Dolce Appears in “Electric Blue”",
    "source": "Hypebeast",
    "date": "2026-09-22",
@@ -182,7 +331,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 24,
    "title": "Nike Dresses Up This Air Force 1 Low in Snakeskin and a Trio of Gold Charms",
    "source": "Hypebeast",
    "date": "2026-09-22",
@@ -195,7 +344,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 25,
    "title": "ASICS SportStyle and 8ON8 Unveil the GEL-SAFARI M Collaboration",
    "source": "Hypebeast",
    "date": "2026-09-22",
@@ -208,59 +357,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
-   "title": "The Jacquemus x Nike Moon Shoe \"Emerald Rise\" Is Out Now",
-   "source": "Hypebeast",
-   "date": "2026-09-22",
-   "content": "Name: Jacquemus x Nike Moon Shoe “Emerald Rise”Colorway: Emerald Rise/Blue Cap-Ghost-Pale IvorySKU: HV8547-300MSRP: $180 USDRelease Date: Available nowWhere to Buy: JacquemusJacquemus and Nike are back with a new take on the Moon Shoe, wrapping the running icon in a Miami-inspired \"Emerald Rise\" colorway. The collaboration continues Simon Porte Jacquemus's ongoing rework of the silhouette, layering a coastal color story over the model's now-signature ballet-adjacent build.At its core, this remains the Moon Shoe as Jacquemus has come to interpret it. The design holds onto the ruched nylon upper that gives the shoe its soft, gathered texture, paired with a Nike Grind outsole that nods to the brand's sustainability efforts and its deep running lineage. The overall shape leans into a modern, ballet-inspired look, a slimmed and elevated read on a silhouette that traces back to Nike's earliest",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F22%2FJacquemus-Nike-Moon-Shoe-Emerald-Rise-HV8547-300-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/jacquemus-nike-moon-shoe-emerald-rise-hv8547-300-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 16,
-   "title": "New Balance Unveils the 991v2 Made in UK \"Elevated Neutrals/Turbulence\"",
-   "source": "Hypebeast",
-   "date": "2026-09-22",
-   "content": "Summary New Balance is preparing to release the 991v2 Made in UK in an Elevated Neutrals Turbulence colorwayThe updated silhouette incorporates a mixed-material upper constructed from nubuck leather and meshThe sneaker is scheduled to drop as part of the brand's Fall 2026 lineup Name: New Balance 991v2 Made in UK \"Elevated Neutrals/Turbulence\"Colorway: Elevated Neutrals/TurbulenceSKU: U991EC2MSRP: $270 USDRelease Date: Fall 2026Where to Buy: New BalanceNew Balance is preparing to expand its Made in UK footwear range with the New Balance 991v2 Made in UK \"Elevated Neutrals/Turbulence\". Tracing its lineage back to the original 991 model that debuted in 2001 as the eighth entry in the 990 series, this updated iteration brings subtle design tweaks to the classic runner.The shoe features an upper constructed from a mix of premium nubuck, leather, and breathable mesh paneling. Design updates o",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F21%2Fnew-balance-991v2-elevated-neutrals-turbulence-U991EC2-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/new-balance-991v2-elevated-neutrals-turbulence-u991ec2-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "Vans and Harris Tweed Unite Punk Attitude With Skate Culture in a New Collection",
-   "source": "Hypebeast",
-   "date": "2026-09-22",
-   "content": "Vans has unveiled a collaborative collection with Harris Tweed, the maker of traditional Scottish tweed fabric.The collection brings together Scottish craftsmanship and Vans’ Off The Wall spirit. Drawing on London punk and Southern California skate culture, it pairs traditional materials with iconic silhouettes.The four-piece lineup includes the Premium Old Skool 36, Premium Classic Slip-On 98, Premium Loafer 53, and Vans x Harris Tweed® Strapback. The shoes feature Harris Tweed uppers and vintage-inspired distressed sidewalls adorned with DIY-style embellishments, including jewels, spikes, metal rings, and peace-sign charms. Leopard-print insoles add another distinctive touch.The cap is made with Harris Tweed fabric and finished with tartan details and metal hardware, while its lining features a leopard print.The Vans x Harris Tweed collaboration launches Thursday, September 24, via the",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fvans-harris-tweed-collabo-new-collection-release-info-01-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/vans-harris-tweed-collabo-new-collection-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "ASICS and Camiel Fortgens Reconstruct the GEL-CUMULUS 16 Into Mary Jane and Velcro Silhouettes",
-   "source": "Hypebeast",
-   "date": "2026-09-22",
-   "content": "Summary ASICS SportStyle has teamed up with Camiel Fortgens for its inaugural Crafts for Mind project on the GEL-CUMULUS 16The collaboration reinterprets the technical silhouette into raw Mary Jane and VELCRO styles inspired by children's footwearThe green colorways launch September 24, 2026 in Amsterdam followed by an October release for the brown pairs ASICS SportStyle and Camiel Fortgens have officially revealed their debut GEL-CUMULUS 16 collaboration as part of the brand's Crafts for Mind initiative. Grounded in trial-and-error craftsmanship and intentional imperfections, the project bridges technical footwear heritage with a raw, hand-crafted aesthetic.The project transforms the familiar performance running shape into two distinct formats: a Mary Jane-inspired model and a VELCRO silhouette. Drawing design cues from the simplicity of children's shoes, both pairs feature layered leat",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F21%2Fcamiel-fortgens-asics-sportstyle-gel-cumulus-16-mary-jane-velcro-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/camiel-fortgens-asics-sportstyle-gel-cumulus-16-mary-jane-velcro-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 19,
+   "id": 26,
    "title": "Bad Bunny x adidas BadBo 1.1 “Chalk White” September Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-22",
@@ -273,7 +370,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 27,
    "title": "Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-22",
@@ -286,7 +383,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 28,
    "title": "Nike Air Force 1 Low Cracked Leather “Black”",
    "source": "Nice Kicks",
    "date": "2026-09-22",
@@ -299,7 +396,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 29,
    "title": "adidas Adizero Adios Pro 5 Brings Sub-2 Tech to the Masses",
    "source": "Nice Kicks",
    "date": "2026-09-22",
@@ -312,7 +409,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 30,
    "title": "atmos Made the Literal adidas Sneaker of the Season",
    "source": "Highsnobiety",
    "date": "2026-09-22",
@@ -325,7 +422,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 31,
    "title": "adidas’ Most Beautiful Samba Slipper Is Straight from India",
    "source": "Highsnobiety",
    "date": "2026-09-22",
@@ -338,7 +435,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 32,
    "title": "Jordan’s Black Leather Dad Shoe Is the Slickest Yet",
    "source": "Highsnobiety",
    "date": "2026-09-22",
@@ -351,7 +448,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 33,
    "title": "Nike’s Techy Mary Jane Sneaker Enters Its Plush Era",
    "source": "Highsnobiety",
    "date": "2026-09-22",
@@ -364,7 +461,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 34,
    "title": "Nike's Most Textural Moon Shoe Is a Charming Lil' Thing",
    "source": "Highsnobiety",
    "date": "2026-09-22",
@@ -377,7 +474,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 35,
    "title": "From New Balance to Merrell, the Seven Best Sneakers to Cop This Week",
    "source": "Highsnobiety",
    "date": "2026-09-22",
@@ -391,7 +488,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 36,
    "title": "Jane Wade & KEEN Get Their Feet Wet For SS27",
    "source": "Highsnobiety",
    "date": "2026-09-22",
@@ -402,87 +499,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 30,
-   "title": "Mowalola 2027 春夏系列「The Hunger」帶來 3 款漆皮 Air Jordan 14",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-21",
-   "content": "摘要 Mowalola 的 SS27 系列「The Hunger」，透過貼膚剪裁、肌膚色調配色，以及 snakeskin、suede 與覆有閃粉塗層帆布等素材，回歸她的核心語彙——自主、感性與自我解放。女裝把慾望化為力量，男裝則朝向臣服的姿態，最終以一襲由碎裂塑膠碟拼接而成的禮服作結，並與 Tô Genesis 攜手打造。同場於天橋上率先亮相的，還有 3 款全新 patent leather Air Jordan 14 拖鞋式鞋款配色（黑色、深紅色、深藍色），延續 Jordan Brand x Mowalola 的合作。 Mowalola 2027 春夏系列「The Hunger」將內衣演繹成辦公室穿搭，剪裁則維持極簡風格。今季 London Fashion Week 上，設計師兼創意總監 Mowalola Ogunlesi 再次聚焦於奠定品牌起點的核心語彙：自主性、感官魅力，以及徹底的自我解放。女性身體是本系列的核心。貼膚雪紡與線條俐落的皮革，賦予其近乎超凡的力量；肌膚色調的配色，亦模糊了身體與服裝之間的界線。質感與物料跟輪廓同樣重要：低腰歐根紗鉛筆裙配上蛇皮腰帶、麂皮內衣搭襯亮澤皮革。透過不同質感與物料的交織，柔美因緊貼力量而更見突出，真實映照女性經驗的多重面向。「The Hunger」亦帶來覆上亮粉的帆布胸衣與鰻魚皮連身裙，並以一襲由打碎塑膠碟子碎片拼成的禮服作結。這件作品與澳洲升級再造配飾及珠寶品牌 Tô Genesis 合作打造，以物料直接呈現 Mowalola 對破壞與慾望的感受。系列從兩個面向探索慾望：在女裝中，慾望化為力量；在男裝中，則化為臣服——兩者同樣被帶進誘惑的世界。男裝以輪廓為根基，卻藉表面質感、光澤與肌膚元素加以扭轉；啞面蛇皮從亮澤打蠟棉恤衫的衣領與袖口下若隱若現，令男性魅力變得更柔和，也更顯脆弱。 在「The Hunger」之中，Air Jordan 14 悄然成為貫穿 Mowalola 世界的重複線索。除了酒紅色麂皮 Air Jordan 14 Retro SP 與銀色 Air Jordan 14 Mule，Mowalola 上周亦在天橋上",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2F006104F5-71BB-44E2-ABAF-A5E25213CEE0-2.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/mowalola-ss27-collection-the-hunger-lfw-runway",
-   "lang": "zh",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "Miu Miu x New Balance 530 SL 推出「White」與「Cinnamon」芭蕾平底鞋版本",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-21",
-   "content": "名稱：Miu Miu x New Balance 530 SL「Deco Leather Ballerinas」、Miu Miu x New Balance 530 SL「Delave Suede Ballerinas」配色：白色、肉桂色產品編號：5F846E_Z5O_F0401_F_005、5F846E_3F33_F0009_F_005建議零售價：1,170 美元發售日期：現已發售購買地點：Miu MiuMiu Miu 與 New Balance 將兩個品牌聯乘核心鞋款 530 SL 改造成芭蕾平底鞋。品牌將此設計定位為 530 SL 的運動結構與芭蕾舞鞋柔和線條的交匯，並推出兩種處理版本：採用「White」Deco' 皮革，以及「Cinnamon」Délavé 麖皮。鞋履的運動鞋基因，主要保留在結構之中。這雙平底鞋沒有直接換上一體式的簡潔便鞋鞋面，而是沿用綁帶鞋面，保留其源自跑鞋的繫帶方式與輪廓。鞋底配備印有 New Balance 標誌的橡膠外底，內裡則設有可拆式布面鞋墊——這項細節直接取自性能運動鞋。Miu Miu 在鞋面、鞋跟領口和鞋墊三處絲網印上標誌，毋須任何金屬配件，品牌識別已貫穿全鞋。兩款均以小牛皮為基底，分別在於表面處理：品牌以帶有磨損復古感的 Deco' 皮革演繹「White」，「Cinnamon」則採用經水洗處理的 Délavé 麖皮，呈現褪色的同色調啡色。這次推出的新作，亦延續 Miu Miu 多年來逐步建立的脈絡。在 Miuccia Prada 主理下，品牌近數季持續將芭蕾平底鞋帶回時尚討論的核心，並視之為其中一個標誌性輪廓。同時，Miu Miu 與 New Balance 的合作已推出多個系列，透過 Miu Miu 的設計語言重新演繹這個運動品牌的跑鞋。如今將 530 SL 改造成平底鞋，正是把這兩條脈絡交織起來：將聯乘的代表性運動鞋，重塑成品牌最為人熟悉、並一直致力復興的鞋型。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftMiu-Miu-New-Balance-530-SL-Deco-Leather-Delave-Suede-Ballerinas-5F846E-Z5O-F0401-F-005-5F846E-3F33-F0009-F-005-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/miu-miu-new-balance-530-sl-deco-leather-delave-suede-ballerinas-5f846e-z5o-f0401-f-005-5f846e-3f33-f0009-f-005-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE",
-    "PRADA"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "Nike 以「NYC Rat」細節重新演繹 Air Force 1 Low",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-21",
-   "content": "摘要 Nike 將推出一雙以 New York City 老鼠為靈感的 Air Force 1 Low。這款鞋型採用深灰色皮革鞋身，並在 Swoosh 標誌的鞋領及後跟位置拼接啡色人造毛髮材質。此鞋款作為 New York City 主題雙鞋組合其中一員登場，另一雙則是呼應 MTA MetroCard 設計的版本。 名稱：Nike Air Force 1 Low「NYC Rat」配色：Baroque Brown／Black-Terra Red貨號：IV4884-200建議零售價：140 美元發售日期：2026 年 10 月 23 日發售渠道：NikeNike 正式公開即將推出的 Air Force 1 Low「NYC Rat」。新作以這雙經典籃球鞋為藍本，從紐約市最著名的城市居民之一汲取設計靈感，注入粗獷而富角色感的演繹。鞋款採用深灰色皮革鞋面，Swoosh 標誌、鞋領及鞋跟穩定片均拼接啡色人造毛皮。毛絨鞋帶與富質感的鞋面互相呼應，鞋舌標籤則印有專屬「NYC」標誌。鞋跟的人造毛皮下暗藏低調的紅色眼睛細節，呼應以齧齒動物為靈感的主題。鞋底部分以印有啡色「AIR」字樣的黑色中底，配搭低調粉紅色半透明外底完成；前掌綴以金屬鞋帶飾片，為深色調造型收結。此鞋款將與「MTA MetroCard」配色一同組成兩雙一組的 Air Force 1 膠囊系列。Nike Air Force 1 Low「NYC Rat」預計於 2026 年 10 月發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-air-force-1-low-nyc-rat-IV4884-200-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-air-force-1-low-nyc-rat-iv4884-200-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Nike 推出 Mind 001「Purple Smoke」套穿鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-21",
-   "content": "名稱：Nike Mind 001「Purple Smoke」配色：Purple Smoke／Silver Lilac-Vast Grey貨號：HQ4307-500建議零售價：95 美元發售日期：2026 秋冬Nike 將於 2026 秋冬推出 Mind 001「Purple Smoke」套穿鞋款。淺米白色鞋面定下基調，底下層疊的煙燻紫色為低筒輪廓添上層次，亦呼應其命名。鞋面先以低調設計示人，再由細節成為焦點。側面排列細小穿孔，腳背中央則設有較大的穿孔面板；透氣結構同時構成鞋款最主要的視覺紋理。兩個位置均嵌有金屬 Swoosh 標誌，低調的紫色亦延伸至鞋墊，其內印有 Nike Mind 與 Mind Science Department 品牌標誌。色彩主要集中於鞋底。圓形凸點分佈在外底各處，嵌於奶油色底座之中，當中數個從側面微微露出，讓人一瞥鞋底結構。鞋底前掌印有 Nike Mind 品牌標誌，近鞋跟處則有 Mind Science Department 品牌標誌，令這雙套穿鞋款與其他 Mind 系列鞋款相互呼應。最終呈現出此系列以圓形凸點為核心平台的簡約版本：捨棄鞋帶與繁複結構，改以方便直接穿上的設計，同時貫徹煙燻紫色調。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftNike-Mind-001-Purple-Smoke-HQ4307-500-Official-Images.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-mind-001-purple-smoke-hq4307-500-official-images",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "Mowalola SS27 ‘The Hunger’ Reveals Three Patent Leather Air Jordan 14s",
-   "source": "Hypebeast",
-   "date": "2026-09-21",
-   "content": "Summary Mowalola's SS27 collection 'The Hunger' returns to her core codes — autonomy, sensuality, and self-liberation — through second-skin silhouettes, skin-tonal palettes, and materials like snakeskin, suede, and glitter-coated canvas.Womenswear channels desire as power, while menswear leans into surrender, with the show closing on a gown made from shattered plastic plates in collaboration with Tô Genesis.Three new patent leather Air Jordan 14 mule colorways (black, dark red, dark blue) debuted on the runway, continuing the Jordan Brand x Mowalola partnership. For Mowalola’s Spring/Summer 2027 collection ‘The Hunger’, lingerie reads as office-wear and tailoring stays hyper-minimalist. This season, during London Fashion Week, designer and creative director Mowalola Ogunlesi showed us that she's laser-focused on the codes that first defined her brand’s inception: autonomy, sensuality, an",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F21%2F006104F5-71BB-44E2-ABAF-A5E25213CEE0-2.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/mowalola-ss27-collection-the-hunger-lfw-runway",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "The Miu Miu x New Balance 530 SL Is Now a Ballet Flat in \"White\" and \"Cinnamon\"",
-   "source": "Hypebeast",
-   "date": "2026-09-21",
-   "content": "Name: Miu Miu x New Balance 530 SL “Deco Leather Ballerinas,” Miu Miu x New Balance 530 SL “Delave Suede Ballerinas”Colorway: White, CinnamonSKU: 5F846E_Z5O_F0401_F_005, 5F846E_3F33_F0009_F_005MSRP: $1,170 USDRelease Date: Available nowWhere to Buy: Miu MiuMiu Miu and New Balance have reshaped the 530 SL, the sneaker at the center of the two brands' collaboration, into a ballet flat. The house frames the design as a meeting of the 530 SL's athletic build and the softer lines of a ballerina, and releases it in two treatments: a \"White\" deco' leather and a \"Cinnamon\" délavé suede.The construction is where the sneaker DNA survives the transfer. Rather than swap in a clean slipper, the flat keeps a laced upper up top, retaining the closure and profile of the running shoe it descends from. Underfoot sits a rubber sole carrying New Balance branding, and inside is a removable fabric-covered ins",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F21%2FftMiu-Miu-New-Balance-530-SL-Deco-Leather-Delave-Suede-Ballerinas-5F846E-Z5O-F0401-F-005-5F846E-3F33-F0009-F-005-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/miu-miu-new-balance-530-sl-deco-leather-delave-suede-ballerinas-5f846e-z5o-f0401-f-005-5f846e-3f33-f0009-f-005-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE",
-    "PRADA"
-   ]
-  },
-  {
-   "id": 36,
+   "id": 37,
    "title": "Pokémon x adidas Handball Spezial “Mewtwo”",
    "source": "Nice Kicks",
    "date": "2026-09-21",
@@ -495,7 +512,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 38,
    "title": "Pokémon x adidas Megaride F50 “Rayquaza”",
    "source": "Nice Kicks",
    "date": "2026-09-21",
@@ -508,7 +525,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 39,
    "title": "Pokémon x adidas Superstar “Pikachu Yellow”",
    "source": "Nice Kicks",
    "date": "2026-09-21",
@@ -521,7 +538,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 40,
    "title": "Pokémon x adidas Superstar Vintage “Charizard”",
    "source": "Nice Kicks",
    "date": "2026-09-21",
@@ -534,7 +551,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 41,
    "title": "Pokémon x adidas Superstar II “Charmaleon”",
    "source": "Nice Kicks",
    "date": "2026-09-21",
@@ -547,7 +564,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 41,
+   "id": 42,
    "title": "Pokémon x adidas Superstar “Charmander”",
    "source": "Nice Kicks",
    "date": "2026-09-21",
