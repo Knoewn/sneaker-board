@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-23 16:05",
+ "updatedAt": "2026-09-24 08:06",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,17 +17,72 @@ window.SNEAKER_DATA = {
  "brands": [
   "ADIDAS",
   "ASICS",
+  "BIRKENSTOCK",
   "CLARKS",
   "CONVERSE",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
-  "UGG"
+  "PUMA",
+  "UGG",
+  "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "J. Cole 推出首款獨立球鞋 Dreamer Indie 5000",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-23",
+   "content": "摘要 J. Cole 將推出他首款獨立運作的鞋款設計，命名為 Dreamer Indie 5000。此鞋於意大利製造，以復古籃球鞋為靈感，鞋身及中底皆覆以合成物料拼接層次。這雙球鞋將於 9 月 23 日在 North Carolina 的 Fayetteville 正式發售，售價資訊有待公布。 J. Cole 與其 Dreamer 品牌正式推出 Dreamer Indie 5000，這是這位饒舌歌手首款獨立發佈的球鞋。這個鞋款延續他此前與 PUMA 的合作，亦是多年來獨立開發鞋履的成果。球鞋於意大利製造，從復古籃球鞋汲取視覺設計靈感，呈現經典多片式運動鞋的美學。鞋面以合成材質覆片在基底結構上交錯延伸，稜角分明的拼片設計亦直接貫穿鞋底單元。此番發佈緊隨 J. Cole 與 PUMA 的首輪合作於 2021 年結束後離開品牌。全面轉為獨立營運後，Dreamer Indie 5000 在其個人品牌旗下，著重歐洲製造及直接掌控創意主導權。J. Cole x Dreamer Indie 5000 將於 2026 年 9 月 23 日在 North Carolina 州 Fayetteville 發售；售價及更廣泛的發售資訊目前尚待公布。 View this post on InstagramA post shared by Cole World (@realcoleworld) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fj-cole-his-first-independent-sneaker-silhouette-dreamer-indie-5000-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/j-cole-his-first-independent-sneaker-silhouette-dreamer-indie-5000-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "PUMA"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "New Balance 2010 注入亮面「Firecracker／Sea Salt」配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-23",
+   "content": "摘要 New Balance 正式發布 2010 全新配色「Firecracker」與「Sea Salt」。這雙 lifestyle 跑鞋以亮澤黑色覆面配搭偏淺的 Sea Salt 紋理物料，並點綴醒目鮮紅細節，形成鮮明對比。目前此鞋款已率先於海外上架，美國地區則預定於 2026 年秋冬季發售。 名稱：New Balance 2010「Firecracker／Sea Salt」配色：Firecracker／Sea Salt產品編號：U20101Z0建議零售價：145 美元發售日期：2026 秋冬季度發售渠道： New BalanceNew Balance 正式發布 New Balance 2010「Firecracker／Sea Salt」，為這雙帶復古跑鞋風格的鞋型注入高對比配色。深色鞋款以鮮紅細節、亮面覆片及淺色紡織鞋面基底組成。鞋面以多重質感物料打造，鞋頭、中足及後跟位置均採用外露的 Sea Salt 網布。大部分鞋面裁片覆以亮面黑色飾片，為透氣鞋面增添視覺層次。Firecracker Red 細節勾勒出標誌性的黑色「N」標誌，並延伸至鞋舌、鞋領內襯、鞋帶及鞋頭部分。鞋底方面，厚實的黑色中底在後跟附近加入深紅色緩震膠囊，呼應配色的主調細節。全黑單色外底則讓視線集中於鞋面鮮明的色塊拼接。New Balance 2010「Firecracker／Sea Salt」現已於指定海外零售商發售，美國市場預計將於 2026 秋冬季度迎來更廣泛的上市。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnew-balance-2010-firecracker-sea-salt-u20101z0-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/new-balance-2010-firecracker-sea-salt-u20101z0-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Nike 為 Ja Morant Twelve Time 推出「Halloween」配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-23",
+   "content": "摘要 Nike Basketball 將 Ja Morant 的 Twelve Time 鞋款換上帶點詭異氣氛的 Halloween 配色。整體設計以 Iron Grey 鞋身配搭深色覆面、亮橙色細節點綴，並加入金屬銀色品牌標誌。這雙應景節日主題籃球鞋預計將於 2026 年秋冬季度發售，定價 95 美元。 名稱：Nike Twelve Time「Halloween」配色：黑色／淡象牙白／鐵灰／金屬銀貨號：IM4164-002建議零售價：95 美元發售日期：2026 年秋冬季發售地點：NikeNike 與 Ja Morant 為萬聖節檔期揭曉 Nike Twelve Time「Halloween」。這款即將推出的鞋款，以深沉的節日靈感配色演繹這位 NBA 球星的簽名實戰鞋。鞋款採用「黑色／淡象牙白／鐵灰／金屬銀」配色，以鐵灰鞋面為基調，鞋舌、鞋帶、鞋頭及中底則配上深黑色拼接。Swoosh、內襯和鞋帶扣環點綴亮橙色，為低調基調添上應節對比，卻不顯喧賓奪主。鞋身多處加入辨識度十足的品牌細節：鞋舌及鞋跟飾有金屬銀色點綴，當中的立體面板展示重複排列的 Twelve Time 圖案。Morant 的標誌性「1MT」標誌置於靠近外底的位置，而重複圖案亦延伸至中底後段。鞋底採用黑色橡膠外底，配備經典人字形抓地紋及前掌加大的標誌，為設計畫上句號。Nike Twelve Time「Halloween」預計將於 2026 年秋冬季透過 Nike 發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-twelve-time-halloween-IM4164-002-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-twelve-time-halloween-im4164-002-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Nike 為 Air Force 1 Low「Ghostface」推出全黑配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-23",
+   "content": "摘要 Nike 推出一款低調「全黑」版本，呼應其以《Scream》為靈感打造的 Air Force 1 Low Ghostface。整體設計配備磨砂灰色 Swoosh、銀色電話造型鞋帶扣，並在鞋舌位置加入《Scream》風格標誌。現已率先發售，更廣泛的上市時間則定於 2026 年假日檔期。 名稱：Nike Air Force 1 Low「Ghostface Black」配色：黑色／Gym Red－Summit White產品編號：IZ1207-010建議零售價：125 美元發售日期：2026 年假日季購買途徑： NikeNike 推出 Air Force 1 Low「Ghostface Black」，擴展其以《Scream》為靈感的鞋履陣容。這款較深沉的版本承接早前曝光的白色配色，為這雙經典低筒鞋注入帶有電影感的陰森氣息。鞋面以黑色皮革為主，拼接邊緣及車線帶有灰色仿舊刷漆效果。標誌性的 Swoosh 採用粗獷的灰色刷紋處理，營造磨損質感；鞋舌標籤、最上方鞋眼及鞋跟部分則以低調的 Gym Red 勾邊，為深色基調帶來對比。鞋身各處融入電影元素，其中鞋舌標籤的字體便仿照《Scream》電影系列的風格。銀色電話造型鞋帶扣向該系列經典的來電場面致意，鞋底則以深藍色半透明外底收結全鞋設計。Nike Air Force 1 Low「Ghostface Black」預定於 2026 年假日季，透過 Nike.com 及指定零售商作較廣泛發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-air-force-1-low-ghostface-black-IZ1207-010-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-air-force-1-low-ghostface-black-iz1207-010-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
    "title": "Mbappé 已轉投 On，Nike 球靴卻未有跟上",
    "source": "Hypebeast 中文",
    "date": "2026-09-23",
@@ -41,7 +96,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 6,
    "title": "A.P.C. x Clarks Originals Desert Boot 與 Weaver 鞋款以羅紋麂皮配搭亮面皮革",
    "source": "Hypebeast 中文",
    "date": "2026-09-23",
@@ -54,7 +109,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 7,
    "title": "Buffer x Converse All Star Hi「BOMBING」圖案黑色鞋面正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-09-23",
@@ -67,7 +122,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 8,
    "title": "adidas Forum SQ Trainer 以方頭設計重塑經典籃球鞋輪廓",
    "source": "Hypebeast 中文",
    "date": "2026-09-23",
@@ -80,7 +135,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 9,
    "title": "Air Jordan 16「Black Pack」正式定於 10 月發售",
    "source": "Hypebeast 中文",
    "date": "2026-09-23",
@@ -94,7 +149,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 10,
    "title": "Pharrell 與 adidas 推出 Adistar Jellyfish「Core Black/Multicolor」新配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-23",
@@ -107,7 +162,59 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 11,
+   "title": "J. Cole Unveils His First Independent Sneaker Silhouette, the Dreamer Indie 5000",
+   "source": "Hypebeast",
+   "date": "2026-09-23",
+   "content": "Summary J. Cole is releasing his first independent footwear silhouette dubbed the Dreamer Indie 5000Crafted in Italy the retro basketball-inspired design features synthetic overlays across the upper and sole unitThe sneaker launches on September 23 in Fayetteville North Carolina with pricing details currently TBA J. Cole and his Dreamer label have officially introduced the Dreamer Indie 5000, marking the rapper's first independent sneaker release. Tthe silhouette follows Cole's previous partnership with PUMA and represents several years of independent footwear development.Crafted in Italy, the sneaker draws visual design cues from retro basketball footwear, featuring an aesthetic reminiscent of classic multi-panel trainers. The upper utilizes synthetic overlays that zig and zag across the base construction, with the angular paneling carrying through directly into the design of the sole u",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2Fj-cole-his-first-independent-sneaker-silhouette-dreamer-indie-5000-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/j-cole-his-first-independent-sneaker-silhouette-dreamer-indie-5000-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "PUMA"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "New Balance Ignites the 2010 Silhouette With a Glossy \"Firecracker/Sea Salt\" Colorway",
+   "source": "Hypebeast",
+   "date": "2026-09-23",
+   "content": "Summary New Balance has unveiled the 2010 in a bold Firecracker and Sea Salt color schemeThe lifestyle runner features glossy black overlays contrasting against lighter Sea Salt textiles and bright red accentsThe pair is currently available overseas with a stateside release scheduled for Fall/Winter 2026 Name: New Balance 2010 \"Firecracker/Sea Salt\"Colorway: Firecracker/Sea SaltSKU: U20101Z0MSRP: $145 USDRelease Date: Fall/Winter 2026Where to Buy: New BalanceNew Balance has officially unveiled the New Balance 2010 \"Firecracker/Sea Salt\", applying a high-contrast palette to the retro-inspired running silhouette. The dark iteration combines vibrant red detailing with glossy overlays and a light textile foundation.Constructed with a multi-textured upper, the shoe utilizes exposed Sea Salt mesh across the toe box, midfoot, and heel area. Glossy black overlays wrap the majority of the panelin",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2Fnew-balance-2010-firecracker-sea-salt-u20101z0-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/new-balance-2010-firecracker-sea-salt-u20101z0-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Nike Prepares Ja Morant's Twelve Time Silhouette for \"Halloween\"",
+   "source": "Hypebeast",
+   "date": "2026-09-23",
+   "content": "Summary Nike Basketball is dressing Ja Morant's Twelve Time silhouette in a spooky Halloween color schemeThe design pairs an Iron Grey upper with dark overlays bright orange accents and metallic silver brandingThe holiday-themed basketball shoe is slated to drop during the Fall/Winter 2026 season for 95 USD Name: Nike Twelve Time \"Halloween\"Colorway: Black/Pale Ivory-Iron Grey-Metallic SilverSKU: IM4164-002MSRP: $95 USDRelease Date: Fall/Winter 2026Where to Buy: NikeNike and Ja Morant are gearing up for the spooky season with the reveal of the Nike Twelve Time \"Halloween.\" The upcoming release applies a dark, holiday-inspired palette to the NBA star's signature performance model. Dressed in a \"Black/Pale Ivory/Iron Grey/Metallic Silver\" color scheme, the sneaker utilizes an Iron Grey upper surrounded by deep black paneling across the tongue, laces, toe box, and midsole. Bright orange hit",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2Fnike-twelve-time-halloween-IM4164-002-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-twelve-time-halloween-im4164-002-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Nike Darkens the Air Force 1 Low \"Ghostface\" With an All-Black Colorway",
+   "source": "Hypebeast",
+   "date": "2026-09-23",
+   "content": "Summary Nike has introduced a stealthy black counterpart to its Scream-inspired Air Force 1 Low GhostfaceThe design incorporates brushed grey Swooshes silver phone lace dubraes and Scream-styled tongue brandingAvailable now with a wider release scheduled for Holiday 2026 Name: Nike Air Force 1 Low \"Ghostface Black\"Colorway: Black/Gym Red-Summit WhiteSKU: IZ1207-010MSRP: $125 USDRelease Date: Holiday 2026Where to Buy: NikeNike has expanded its Scream-inspired footwear offerings with the release of the Air Force 1 Low \"Ghostface Black.\" The darker alternative follows the previously revealed white colorway, bringing a sinister, cinema-inspired execution to the iconic low-top model.Dressed in a predominantly black leather upper, the pair features grey painted distressing along panel edges and stitching. The signature Swoosh receives a rough, brushed grey treatment to evoke a worn-in texture,",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2Fnike-air-force-1-low-ghostface-black-IZ1207-010-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-air-force-1-low-ghostface-black-iz1207-010-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 15,
    "title": "Mbappé Is With On Now, But His Boots Didn't Get the Memo",
    "source": "Hypebeast",
    "date": "2026-09-23",
@@ -121,7 +228,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 16,
    "title": "The A.P.C. x Clarks Originals Desert Boot and Weaver Pair Ribbed Suede With Glossy Leather",
    "source": "Hypebeast",
    "date": "2026-09-23",
@@ -134,7 +241,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 17,
    "title": "The Buffer x Converse All Star Hi Tags a Black Upper With \"BOMBING\" Graphics",
    "source": "Hypebeast",
    "date": "2026-09-23",
@@ -147,7 +254,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 18,
    "title": "Square Toes Take Over the adidas Forum With the New SQ Trainer",
    "source": "Hypebeast",
    "date": "2026-09-23",
@@ -161,7 +268,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 19,
    "title": "Air Jordan 16 \"Black Pack\" Receives an Official October Release Date",
    "source": "Hypebeast",
    "date": "2026-09-23",
@@ -175,7 +282,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 20,
    "title": "Pharrell and adidas Expand the Adistar Jellyfish Lineup With a \"Core Black/Multicolor\" Edition",
    "source": "Hypebeast",
    "date": "2026-09-23",
@@ -188,20 +295,160 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
-   "title": "adidas' Climbing Samba Reaches a New Peak",
-   "source": "Highsnobiety",
+   "id": 21,
+   "title": "Nike Air Force 1 Low ’01 “Subway Rat” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
    "date": "2026-09-23",
-   "content": "adidas' Five Ten Samba sneaker takes a treasured flat shoe & turns it into a mountain-ready climber.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-five-ten-samba-sneaker/",
+   "content": "New York’s most infamous commuter takes over the Nike Air Force 1 ’01 with the aptly nicknamed “Subway Rat.” The… The post Nike Air Force 1 Low ’01 “Subway Rat” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/iv6999-001-5-1-e1790189346924.jpg",
+   "link": "https://www.nicekicks.com/nike-air-force-1-low-01-subway-rat-iv6999-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Kids Air Jordan 6 Low “Fearless” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-23",
+   "content": "The Kids Air Jordan 6 Low “Fearless” is releasing on October 2, 2026, via Nike.com and select retailers for $155. Check out the photo… The post Kids Air Jordan 6 Low “Fearless” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/768878-001-5-e1790183930484.jpg",
+   "link": "https://www.nicekicks.com/kids-air-jordan-6-low-fearless-768878-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Anthony Edwards x adidas Adifoam Mule “Bliss Blue” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-23",
+   "content": "The Anthony Edwards x adidas Adifoam Mule “Bliss Blue” is set to release on October 1, 2026, via adidas.com and… The post Anthony Edwards x adidas Adifoam Mule “Bliss Blue” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/KZ9165_1-1-e1790182726991.jpg",
+   "link": "https://www.nicekicks.com/anthony-edwards-adidas-adifoam-mule-bliss-blue-kz9165/",
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
    ]
   },
   {
-   "id": 14,
+   "id": 24,
+   "title": "Tom Sachs x NikeCraft General Purpose Shoe “Demerits”",
+   "source": "Nice Kicks",
+   "date": "2026-09-23",
+   "content": "The Tom Sachs x NikeCraft General Purpose Shoe “Demerits” is releasing on September 30, 2026, via Store.TomSachs.com . A global release… The post Tom Sachs x NikeCraft General Purpose Shoe “Demerits” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/02/IMG_8866.png",
+   "link": "https://www.nicekicks.com/tom-sachs-nikecraft-general-purpose-shoe-demerits-fz1363-002/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Even the Most Basic of Basics Look Better Patchworked",
+   "source": "Highsnobiety",
+   "date": "2026-09-23",
+   "content": "The resurgence of patchwork takes on classic pieces from New Era, Birkenstock, and Vans proves that clothing brands are firmly in their fun era.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-era-birkenstock-patchwork/",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS",
+    "BIRKENSTOCK",
+    "VANS"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "This Air Max Is Cosplaying As Retro Outdoor Gear",
+   "source": "Highsnobiety",
+   "date": "2026-09-23",
+   "content": "Without an official cross-line branding stamp, the Swoosh unleashes the Nike Air Max 95 ACG. AKA. the Nike Air Max 95 Surprise Cocoa/Infinite Black Panther/Tropical Teal.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-95-acg-cacao-wow/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 27,
+   "title": "Ralph Lauren Turned the Loafer Into a Slipper",
+   "source": "Highsnobiety",
+   "date": "2026-09-23",
+   "content": "The new Polo Loafer by Ralph Lauren understands that less is more, giving the simple slipper a running-sneaker vibe without creating another hybrid shoe.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/polo-ralph-lauren-slippers/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 28,
+   "title": "Natalia Leckey and Austin Smith Are Better Together",
+   "source": "Highsnobiety",
+   "date": "2026-09-23",
+   "content": "Putting the performance sneakers to the test, the couple laced up for a run through Brooklyn while reflecting on moving through life in stride with one another.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/natalia-leckey-and-austin-smith-adidas-adizero-evo-sl-exo/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 29,
+   "title": "The Best adidas Sneaker Releases This Week",
+   "source": "Highsnobiety",
+   "date": "2026-09-23",
+   "content": "In this iteration of our weekly adidas round-up, find everything from Pokémon runners to nostalgic skate shoes. Oh, and some regular sneakers, too.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-sneaker-releases-september-week-4/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 30,
+   "title": "The Future Looks Bright In Nike's Airelons",
+   "source": "Highsnobiety",
+   "date": "2026-09-23",
+   "content": "A staple of their '90s athletic eyewear designs, Nike have relaunched their Airelon collection for the modern consumer.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/the-future-looks-bright-in-nikes-airelons/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 31,
+   "title": "Onitsuka Tiger’s Most Popular Sneaker Tips the Scales",
+   "source": "Highsnobiety",
+   "date": "2026-09-23",
+   "content": "Onitsuka Tiger's scale-covered Mexico 66 Square sneaker makes quite the stylish little reptile.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/onitsuka-tiger-mexico-66-square/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 32,
+   "title": "adidas' Sprinkled Samba Gets Its Just Desserts",
+   "source": "Highsnobiety",
+   "date": "2026-09-23",
+   "content": "Asphalt just baked adidas' sweetest Samba sneaker & the results are a whole new type of decadent.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/asphalt-adidas-superstar-cannoli-sneaker/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 33,
    "title": "Nike 與 Zellerfeld 發布 3D 打印 AIRMAX 1000.3「Stone/Burgundy Crush」",
    "source": "Hypebeast 中文",
    "date": "2026-09-22",
@@ -214,7 +461,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 34,
    "title": "Nike LeBron 24「Chosen 1s」近賞",
    "source": "Hypebeast 中文",
    "date": "2026-09-22",
@@ -227,59 +474,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
-   "title": "Nike 以 Caitlin 1「Chiefs」致敬 Caitlin Clark 的 Kansas City Chiefs 擁躉身分",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-22",
-   "content": "摘要 Caitlin Clark 率先曝光其即將推出的 Nike Caitlin 1「Chiefs」個人簽名配色。這雙球鞋採用鮮紅色鞋身，配以金色中底點綴，並搭配加大黑色 Swoosh 標誌。此鞋款預計於 2026 年 12 月 21 日發售，定價 140 美元。 名稱：Nike Caitlin 1「Chiefs」配色：大學紅／白色－大學金－黑色－金屬銀－賽車藍貨號：IH7423-601建議零售價：140 美元發售日期：2026 年 12 月 21 日發售渠道： NikeNike 與籃球球星 Caitlin Clark 將推出 Nike Caitlin 1「Chiefs」，擴展她首個簽名鞋系列。9 月 20 日，Indiana Pacers 對陣 Washington Mystics 時，Clark 已率先穿上這款新配色上陣，並預覽此鞋。設計靈感取自 Kansas City Chiefs——這位運動員多年來一直公開支持的球隊。鞋款以鮮紅色鞋面為主，並於中底及外底融入金色細節。鞋身中段的特大黑色 Swoosh 形成對比，鞋舌標籤則以金屬質感點綴 Clark 的個人標誌。設計沿用 Kansas City 的傳統球隊色彩，卻未使用 NFL 官方標誌或聯盟標記。此配色源自 Clark 多年來對球隊的支持——包括親身入場觀賽，以及與外接手 Rashee Rice 交換球衣——亦反映 Nike 為 Caitlin 1 注入個人故事的手法。Nike 亦預計推出另一個以友誼手鏈為靈感的版本，呼應她與長居 Kansas City 的 Taylor Swift 的友誼，進一步延伸其個人連結。Nike Caitlin 1「Chiefs」預計於 2026 年 12 月 21 日發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-caitlin-1-chiefs-IH7423-601-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-caitlin-1-chiefs-ih7423-601-first-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "Nike Air Max Dolce「Electric Blue」配色亮相",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-22",
-   "content": "名稱：Nike Air Max Dolce「Electric Blue」配色：Old Royal／Black-Old Royal貨號：IB4527-400建議零售價：170 美元發售日期：2026 年秋冬Nike Air Max Dolce 再度以一般發售形式回歸，今次換上大膽的「Electric Blue」配色，幾乎覆蓋整雙鞋。樂福鞋與運動鞋揉合而成的輪廓，以直接鮮明的配色思路，讓亮藍色鞋面成為焦點。Dolce 的吸引力始於其不尋常的結構：它結合樂福鞋低筒、方便套穿的輪廓，並加入 Air Max 緩震設計。這種混合設計令鞋身結構頗為複雜，或許正因如此，Nike 今次刻意維持簡潔的配色。亮藍色幾乎延伸至整個鞋身外部，讓鞋型本身的線條成為主角，而非再疊加對比色鞋面裁片。為平衡飽和的鞋面色調，內襯與下方厚底均採用黑色。藍黑兩色清晰分明，既收斂藍色的強烈感，亦為鞋款勾勒出明確的基調。這種色塊處理相當克制；考慮到此鞋型的複雜結構，Nike 很可能會在本輪其餘發售配色中沿用同一簡約公式。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FNike-Air-Max-Dolce-Electric-Blue-IB4527-400-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-air-max-dolce-electric-blue-ib4527-400-official-images",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "Nike 為 Air Force 1 Low 注入蛇紋與 3 枚金色吊飾",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-22",
-   "content": "名稱：Nike Air Force 1 Low「Gold Charms」配色：白色／金屬金／白色貨號：IZ8908-100建議零售價：125 美元發售日期：待定Air Force 1 Low 成為 Nike 日益著迷於吊飾設計的最新畫布：鞋款將標誌性的全白皮革，配上蛇皮紋理 Swoosh 及一組可拆卸的金色小吊飾。表面看來是一次克制的更新，卻讓配飾成為主角。鞋款基礎忠於 AF1 的原有設計，採用令這個型號成為衣櫥常備之選的簡潔白色皮革鞋面。改動落在 Swoosh 上：其以啡褐色處理，覆以蛇皮紋理，在不破壞中性色調的前提下，添上具觸感、略帶異域感的質感。整體效果刻意低調，為較搶眼的金屬配件鋪墊。金屬配件才是真正焦點。鞋帶上垂墜著 3 枚金色吊飾，分別是迷你 Swoosh、星形及 Air Force 1 徽章。吊飾組以龍蝦扣固定，可扣在任何合適位置，亦可完全拆下，用來點綴鞋履以外的物品。這個小細節帶來極大的靈活性，讓原本固定的設計元素可隨穿者心意重新排列。這種吊飾設計亦呼應 Nike 的更大趨勢：品牌近年愈來愈常在女裝鞋履上加入可拆卸配飾，作為輕鬆實現個人化的方法。Air Force 1 天生適合這種做法——簡潔而寬闊的結構，為裝飾細節留下充足空間，卻不致顯得雜亂，令額外配件看來是有意為之，而非繁複堆砌。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FNike-Air-Force-1-Low-Gold-Charms-IZ8908-100-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-air-force-1-low-gold-charms-iz8908-100-official-images",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "Jacquemus x Nike Moon Shoe「Emerald Rise」現已發售",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-22",
-   "content": "名稱：Jacquemus x Nike Moon Shoe「Emerald Rise」配色：Emerald Rise／Blue Cap-Ghost-Pale Ivory貨號：HV8547-300建議零售價：180 美元發售日期：現已發售購買地點：JacquemusJacquemus 與 Nike 再度合作，為 Moon Shoe 跑鞋經典帶來全新演繹，推出靈感源自 Miami 的「Emerald Rise」配色。這次聯乘延續 Simon Porte Jacquemus 對此鞋型的持續重塑，以海岸色彩為這雙已成標誌性的芭蕾舞鞋風格輪廓添上新意。這雙鞋的核心，依然是 Jacquemus 所詮釋的 Moon Shoe。設計保留褶皺尼龍鞋面，帶來柔軟的收褶質感；配搭 Nike Grind 外底，既呼應品牌的可持續發展理念，也向其深厚的跑步傳統致意。整體造型傾向現代芭蕾舞鞋風格，將可追溯至 Nike 最早期競速跑鞋的輪廓，演繹得更纖巧、更具高度。今次的焦點盡在配色。「Emerald Rise」揉合一系列直接取材自 Miami 的藍調，從城市水域與光線的明亮色彩，延伸至著名 Art Deco 建築外牆的柔和粉彩。這種處理刻意緊扣地方特色，既連繫這雙鞋最先發售的城市，也令這次聯乘不只是另一款隨季換色，而是更具所在地的印記。這份 Miami 連繫亦融入發售安排之中。此配色先於 Jacquemus 位於 Miami Design District 的專門店亮相，之後才登上品牌網站，令今次推出既是一款產品，也標誌著品牌在這座城市日益擴展的足跡。這個聯乘系列一直把 Moon Shoe 視作重新演繹的畫布；「Emerald Rise」則以深深植根於特定地域感的外觀，延續這股步伐。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FJacquemus-Nike-Moon-Shoe-Emerald-Rise-HV8547-300-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/jacquemus-nike-moon-shoe-emerald-rise-hv8547-300-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 20,
+   "id": 35,
    "title": "Nike and Zellerfeld Unveil the 3D-Printed AIRMAX 1000.3 \"Stone/Burgundy Crush\"",
    "source": "Hypebeast",
    "date": "2026-09-22",
@@ -292,72 +487,20 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
-   "title": "Closer Look at the Nike LeBron 24 \"Chosen 1s\"",
-   "source": "Hypebeast",
+   "id": 36,
+   "title": "Nike Air Max 1000 “Stone/Burgundy Crush”",
+   "source": "Nice Kicks",
    "date": "2026-09-22",
-   "content": "Summary LeBron James has debuted an early look at the upcoming Nike LeBron 24 \"Chosen 1s\" during a workout sessionThe performance silhouette features a commanding Tour Yellow upper paired with Metallic Gold and Midnight Navy accentsThe pair is scheduled to release in December 2026 for $190 USD Name: Nike LeBron 24 \"Chosen 1s\"Colorway: Tour Yellow/Midnight Navy-White-Metallic GoldSKU: IO8201-700MSRP: $190 USDRelease Date: December 1, 2026Where to Buy: NikeNike and LeBron James have provided a first look at the LeBron 24 \"Chosen 1s\". The basketball icon debuted the bold, vibrant colorway during an off-season training session alongside trainer Chris Johnson.Dressed predominantly in a monochromatic Tour Yellow hue, the upper and sole unit dominate the design's overall footprint. Subdued hits of Metallic Gold and Midnight Navy deliver structural contrast across secondary accent zones. While f",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F21%2Fnike-lebron-24-chosen-1s-IO8201-700-closer-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-lebron-24-chosen-1s-io8201-700-closer-look-release-info",
+   "content": "Manufactured by Zellerfeld, the Nike Air Max 1000 reimagines the iconic Air Max 1 silhouette and reinvents what Nike Air… The post Nike Air Max 1000 “Stone/Burgundy Crush” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/NIKE_AM1000.3_STONE-BUR_LEFTLATERAL_STILL_V2_1080x1440-e1790182311137.png",
+   "link": "https://www.nicekicks.com/nike-air-max-1000-stone-burgundy-crush-jv2916-001/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
    ]
   },
   {
-   "id": 22,
-   "title": "Nike Honors Caitlin Clark’s Kansas City Fandom With the Caitlin 1 \"Chiefs\"",
-   "source": "Hypebeast",
-   "date": "2026-09-22",
-   "content": "Summary Caitlin Clark has provided an early look at her upcoming Nike Caitlin 1 \"Chiefs\" signature colorwayThe sneaker pairs a bright red upper with gold midsole accents and an oversized black SwooshThe pair is scheduled to release on December 21, 2026 for $140 USD Name: Nike Caitlin 1 \"Chiefs\"Colorway: University Red/White-University Gold-Black-Metallic Silver-Racer BlueSKU: IH7423-601MSRP: $140 USDRelease Date: December 21, 2026Where to Buy: NikeNike and basketball star Caitlin Clark are expanding her inaugural signature line with the Nike Caitlin 1 \"Chiefs\". Clark provided an early look at the pair before taking to the court in the new colorway on September 20 when the Indiana Pacers faced off against the Washington Mystics. The sneaker draws design cues from the Kansas City Chiefs, a team the athlete has publicly supported for years.The silhouette comes dressed predominantly in a bri",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F21%2Fnike-caitlin-1-chiefs-IH7423-601-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-caitlin-1-chiefs-ih7423-601-first-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "The Nike Air Max Dolce Appears in “Electric Blue”",
-   "source": "Hypebeast",
-   "date": "2026-09-22",
-   "content": "Name: Nike Air Max Dolce “Electric Blue”Colorway: Old Royal/Black-Old RoyalSKU: IB4527-400MSRP: $170 USDRelease Date: Fall/Winter 2026Nike's Air Max Dolce returns for another general-release run, this time drenched in a bold \"Electric Blue\" finish that covers almost the whole shoe. The loafer-meets-sneaker silhouette leans into a straightforward color story that puts the vibrant upper front and center.The Dolce's appeal starts with its unusual build, a hybrid that borrows the low, slip-ready profile of a loafer and grafts it onto Air Max cushioning. That blend makes for a fairly involved construction, which is likely why Nike keeps the palette uncomplicated here. The bright blue runs across essentially the entire exterior, letting the silhouette's shape do the heavy lifting rather than layering in extra contrast panels.Balancing out the saturated upper, the inner lining and the platform ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F22%2FNike-Air-Max-Dolce-Electric-Blue-IB4527-400-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-air-max-dolce-electric-blue-ib4527-400-official-images",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "Nike Dresses Up This Air Force 1 Low in Snakeskin and a Trio of Gold Charms",
-   "source": "Hypebeast",
-   "date": "2026-09-22",
-   "content": "Name: Nike Air Force 1 Low “Gold Charms”Colorway: White/Metallic Gold/WhiteSKU: IZ8908-100MSRP: $125 USDRelease Date: TBCThe Air Force 1 Low is the latest canvas for Nike’s growing charm obsession, pairing the silhouette's signature all-white leather with a snakeskin-textured Swoosh and a set of removable golden trinkets. It's a restrained update on paper that leans on its accessories to do the talking.The foundation stays true to the AF1 blueprint, built on the clean white leather upper that made the model a wardrobe staple. The tweak comes at the Swoosh, rendered here in a tan finish and wrapped in a snakeskin texture that adds a tactile, slightly exotic edge without disrupting the neutral palette. The effect is deliberately understated, setting a quiet base for the flashier hardware.That hardware is the real hook. A trio of golden charms dangles from the laces, made up of a miniature ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F22%2FNike-Air-Force-1-Low-Gold-Charms-IZ8908-100-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-air-force-1-low-gold-charms-iz8908-100-official-images",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "ASICS SportStyle and 8ON8 Unveil the GEL-SAFARI M Collaboration",
-   "source": "Hypebeast",
-   "date": "2026-09-22",
-   "content": "ASICS SportStyle has teamed up with Chinese designer brand 8ON8 on a new collaboration centered on the GEL-SAFARI M. Accompanied by a Head-to-Toe (H2T) collection spanning footwear, apparel, and accessories, the release brings the style codes and design thinking of golf culture into everyday urban life. From the shoes to the clothing, the collection is united by a cohesive visual language, layering low-saturation shades of bamboo green, lavender purple, deep olive, and cream white while reimagining golf-inspired silhouettes for contemporary daily wear. At the heart of the collection, the GEL-SAFARI M carries forward the design language of the ASICS archive, pairing it with 8ON8’s ongoing exploration of retrofuturism to give a classic silhouette a fresh visual expression.The shoe retains the GEL-SAFARI M’s lightweight outdoor DNA, naturally extending it to settings such as golf greens and",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F11-scaled-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/asics-sportstyle-8on8-gel-safari-m",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 26,
+   "id": 37,
    "title": "Bad Bunny x adidas BadBo 1.1 “Chalk White” September Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-22",
@@ -370,7 +513,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 38,
    "title": "Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-22",
@@ -383,7 +526,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 39,
    "title": "Nike Air Force 1 Low Cracked Leather “Black”",
    "source": "Nice Kicks",
    "date": "2026-09-22",
@@ -396,184 +539,29 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
-   "title": "adidas Adizero Adios Pro 5 Brings Sub-2 Tech to the Masses",
-   "source": "Nice Kicks",
-   "date": "2026-09-22",
-   "content": "adidas just pulled the cover off the Adizero Adios Pro 5, and the pitch is simple: take the innovations that… The post adidas Adizero Adios Pro 5 Brings Sub-2 Tech to the Masses appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/adidas-Adizero-Adios-Pro-5_10.jpeg",
-   "link": "https://www.nicekicks.com/adidas-adizero-adios-pro-5-release-date-price/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "atmos Made the Literal adidas Sneaker of the Season",
-   "source": "Highsnobiety",
-   "date": "2026-09-22",
-   "content": "atmos returns with another adidas Tobacco sneaker collaboration inspired by the fall leaves. The brand ultimately ends up with the shoe of the season.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/atmos-adidas-tobacco-sneakers-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "adidas’ Most Beautiful Samba Slipper Is Straight from India",
-   "source": "Highsnobiety",
-   "date": "2026-09-22",
-   "content": "VegNonVeg debuts its adidas Samba Mule collaboration, which sees the classic sneaker reimagined as a traditional Indian slipper.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vegnonveg-adidas-samba-mule/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "Jordan’s Black Leather Dad Shoe Is the Slickest Yet",
-   "source": "Highsnobiety",
-   "date": "2026-09-22",
-   "content": "The Air Jordan Ultra dadcore sneaker is back in a new all-black leather look. Here's everything on the slickest release yet.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-ultra-coal-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Nike’s Techy Mary Jane Sneaker Enters Its Plush Era",
-   "source": "Highsnobiety",
-   "date": "2026-09-22",
-   "content": "Nike's Shox Z Calistra lands with velvet uppers, resulting in the plushest version of the Mary Jane sneaker yet.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-shox-z-calistra-velvet/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "Nike's Most Textural Moon Shoe Is a Charming Lil' Thing",
-   "source": "Highsnobiety",
-   "date": "2026-09-22",
-   "content": "Nike's original Moon Shoe gets its most textural update yet, complete with floral details, mesh, & fuzzy suede.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-moon-shoe-coconut-milk/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "From New Balance to Merrell, the Seven Best Sneakers to Cop This Week",
-   "source": "Highsnobiety",
-   "date": "2026-09-22",
-   "content": "From a heritage Merrell collab to a 3-D printed Nike Air Max, find here the seven best sneakers of the week.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/sneaker-releases-2026-september-week-4/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "Jane Wade & KEEN Get Their Feet Wet For SS27",
-   "source": "Highsnobiety",
-   "date": "2026-09-22",
-   "content": "Taking us from the runway to the river, Jane Wade debuted an SS27 collection inspired by her outdoor upbringing, featuring a collaborative Keen watershoe.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jane-wade-keen-ss27/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 37,
-   "title": "Pokémon x adidas Handball Spezial “Mewtwo”",
-   "source": "Nice Kicks",
-   "date": "2026-09-21",
-   "content": "The Pokémon x adidas Handball Spezial “Mewtwo” is set to release on September 22, 2026, via adidas CONFIRMED and select retailers for… The post Pokémon x adidas Handball Spezial “Mewtwo” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_ADIDAS_Pokemon_HANDBALL_SPEZIAL_SHOES_Purple_KI8213_14_hover_standard-1-e1790089935120.jpeg",
-   "link": "https://www.nicekicks.com/pokemon-adidas-handball-spezial-mewtwo-ki8213/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "Pokémon x adidas Megaride F50 “Rayquaza”",
-   "source": "Nice Kicks",
-   "date": "2026-09-21",
-   "content": "The Pokémon x adidas Megaride F50 “Rayquaza” is expected to release on September 23, 2026, via adidas CONFIRMED and select retailers for… The post Pokémon x adidas Megaride F50 “Rayquaza” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/KI5325_1-1-e1790089015670.jpg",
-   "link": "https://www.nicekicks.com/pokemon-adidas-megaride-f50-rayquaza-ki5325/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "Pokémon x adidas Superstar “Pikachu Yellow”",
-   "source": "Nice Kicks",
-   "date": "2026-09-21",
-   "content": "The Pokémon x adidas Superstar “Pikachu Yellow” is set to release on September 22, 2026,, via adidas CONFIRMED and select retailers for… The post Pokémon x adidas Superstar “Pikachu Yellow” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_ADIDAS_Pokemon_SUPERSTAR_II_SHOES_Yellow_KI2858_14_hover_standard-1-e1790089659560.jpeg",
-   "link": "https://www.nicekicks.com/pokemon-adidas-superstar-pikachu-yellow-ki2858/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
    "id": 40,
-   "title": "Pokémon x adidas Superstar Vintage “Charizard”",
+   "title": "Nike G.T. Future “Varsity Red”",
    "source": "Nice Kicks",
-   "date": "2026-09-21",
-   "content": "The Pokémon x adidas Superstar Vintage “Charizard” is set to release on September 22, 2026, via adidas CONFIRMED and select retailers for… The post Pokémon x adidas Superstar Vintage “Charizard” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_ADIDAS_Pokemon_SUPERSTAR_VINTAGE_SHOES_Orange_KI2861_14_hover_standard-1-e1790088449190.jpeg",
-   "link": "https://www.nicekicks.com/pokemon-adidas-superstar-vintage-charizard-ki2861/",
+   "date": "2026-09-22",
+   "content": "The Nike G.T. Future “Varsity Red” is releasing on September 8, 2026, via select retailers. A global launch will take place on… The post Nike G.T. Future “Varsity Red” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/fz5590-603-5-e1788874012997.jpg",
+   "link": "https://www.nicekicks.com/nike-g-t-future-varsity-red-fz5590-603/",
    "lang": "en",
    "relatedBrands": [
-    "ADIDAS"
+    "NIKE"
    ]
   },
   {
    "id": 41,
-   "title": "Pokémon x adidas Superstar II “Charmaleon”",
+   "title": "Nike G.T. Future EYBL Unseen Hours “Peach Jam”",
    "source": "Nice Kicks",
-   "date": "2026-09-21",
-   "content": "The Pokémon x adidas Superstar II “Charmaleon” is set to release on September 22, 2026, via adidas CONFIRMED and select retailers for… The post Pokémon x adidas Superstar II “Charmaleon” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_ADIDAS_Pokemon_SUPERSTAR_II_SHOES_Red_KI2856_14_hover_standard-1-e1790088145327.jpeg",
-   "link": "https://www.nicekicks.com/pokemon-adidas-superstar-ii-charmaleon-ki2856/",
+   "date": "2026-09-22",
+   "content": "The Nike G.T. Future EYBL Unseen Hours “Peach Jam” is releasing on September 23, 2026, via Nike.com and select retailers for $200.… The post Nike G.T. Future EYBL Unseen Hours “Peach Jam” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/ix5229-700-5-1-e1789568006265.jpg",
+   "link": "https://www.nicekicks.com/nike-g-t-future-eybl-unseen-hours-peach-jam-ix5229-700/",
    "lang": "en",
    "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 42,
-   "title": "Pokémon x adidas Superstar “Charmander”",
-   "source": "Nice Kicks",
-   "date": "2026-09-21",
-   "content": "The Pokémon x adidas Superstar “Charmander” is set to release on September 22, 2026,, via adidas CONFIRMED and select retailers for $110.… The post Pokémon x adidas Superstar “Charmander” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_ADIDAS_Pokemon_SUPERSTAR_II_SHOES_White_KI2855_14_hover_standard-1-e1790087564464.jpeg",
-   "link": "https://www.nicekicks.com/pokemon-adidas-superstar-charmander-ki2855/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
+    "NIKE"
    ]
   }
  ]
