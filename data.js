@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-24 16:05",
+ "updatedAt": "2026-09-25 08:07",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,14 +16,13 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
-  "ASICS",
-  "BIRKENSTOCK",
   "CLARKS",
   "CONVERSE",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
   "PUMA",
+  "SALOMON",
   "UGG",
   "VANS"
  ],
@@ -31,6 +30,32 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "從城市公路延伸至碎石小徑：Salomon 正式發佈全新 Aero Glide 4 GRVL 與 Aero Blaze 4 GRVL GTX 兩大極致性能新作",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-24",
+   "content": "Salomon 今個秋冬季度持續拓展路野跑（Gravel Running）領域，正式帶來全新升級的 Gravel 跑鞋家族系列。今季設計以「從公路到礫石，從此無界」為核心概念，突破傳統城市馬拉松與山野越野跑的單一場景界線，重點帶來 Aero Glide 4 GRVL 與搭載防水科技的 Aero Blaze 4 GRVL GTX 兩款性能作品，為追求多地形轉換的當代跑者提供全方位的足下支援。作為主打長距離緩震的旗艦鞋型，全新 Aero Glide 4 GRVL 相較前代版本重量大幅減輕 10%，在保留極致舒適度的同時顯著提升長途奔跑的靈活度。中底採用 100% TPU 材質構成的 optiFOAM² 科技，結合品牌標誌性的 Reverse Camber 弧形幾何結構，帶來流暢的滾動推進感與高效衝擊吸收能力；外底搭載 Gravel Contagrip® 配合 Chevron 齒紋設計，無論在碎石路面或濕滑柏油路均展現可靠抓地力。鞋面則選用結合 endoFIT™ 內襯技術的 3D 網眼材質，配搭全新 quickLACE™ neo 快速綁帶系統，實現精準包覆與便利穿脫體驗。專為日常多變天候與混合路況訓練設計的 Aero Blaze 4 GRVL GTX，則聚焦於輕量靈敏的腳感回饋。鞋身載入 GORE-TEX® 防水透氣防護，配置採用 100% TPU 的 optiFOAM® 緩震中底，提供更為直接且具彈性的步頻轉換能力。外底設計靈感汲取自礫石單車（Gravel Bike）輪胎，採用專屬橡膠配方確保在柏油路與碎石小徑間順暢切換。鞋面透過工程網布與 sensiFIT™ 支撐結構如安全帶般貼合雙足，兼顧透氣性與包覆穩定度。為完整詮釋 Gravel 系列的街頭實戰性能，Salomon Gravel 無固定路線挑戰賽上海站於日前在上海新天地地標正式開跑。賽事打破常規比賽的固定賽道設定，要求跑者在 2 小時內自由規劃路線並完成 16 個散落於老弄堂、石庫門、Bistro 酒館與濱江步道等城市的點位打卡，將純粹的速度比拼轉化為考驗探索膽量與城市觀察力的趣味體驗。今次上海站活動匯聚了來自世界各",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2F25%2Fsalomon-2026fw-aero-glide-4-grvl-collection-02-scaled.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/salomon-2026fw-aero-glide-4-grvl-collection",
+   "lang": "zh",
+   "relatedBrands": [
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Nike 為 Air Force 1 Low Workboot「Shadow Brown」注入繩索鞋帶與金色五金元素",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-24",
+   "content": "名稱：Nike Air Force 1 Low「Shadow Brown」配色：Shadow Brown/Gum Medium Brown-Light Armory Blue-Baroque Brown貨號：IZ4702-235建議零售價：待定發售日期：2026 年秋冬Nike Air Force 1 Low Workboot「Shadow Brown」將於 2026 年秋冬登場，為這雙 Nike 經典低筒鞋注入粗獷物料與戶外風格五金配件。官方圖片顯示，鞋面主要以帆布和麂皮製成，細節更取材自工靴而非球場鞋款。Shadow Brown 帆布構成鞋面基底，覆蓋鞋頭、鞋身側面及後跟。較深的 Baroque Brown 麂皮則疊加於鞋頭、Swoosh、後跟拉片及鞋眼位置。鞋帶區周圍的麂皮採用鋸齒邊緣，為鞋帶橫跨鞋面之處增添質感。鞋帶和五金配件最能突顯工靴風格。Light Armory Blue 繩索鞋帶打破啡色調，並穿過金色金屬鞋帶環，而非常見的沖孔鞋眼。鞋帶上方配有橢圓形鞋帶扣，其復古戶外風格的造型與其他五金配件相襯。部分細節藏於鞋內。棕綠格紋襯裡帶來近似法蘭絨的質感，繫好鞋帶後幾乎不會露出。鞋底採用 Gum Medium Brown 橡膠外底，將鞋面的泥土色調一路延續至鞋底，為鞋款收結於同樣深沉溫暖的色調。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FNike-Air-Force-1-Low-Shadow-Brown-IZ4702-235-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-air-force-1-low-shadow-brown-iz4702-235-official-images",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
    "title": "Nike Air Max Goadome Low 以鱷魚壓紋「Black」及「Midnight Navy」配色展現高級質感",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -43,7 +68,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 4,
    "title": "Nike 以 Air Max 95「ACG」向復古戶外風格致敬",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -56,7 +81,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 5,
    "title": "CPFM 與 Nike 將曾擱置的 Flea 1 鞋型以「Barley」配色重新推出",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -69,7 +94,21 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 6,
+   "title": "Nike Toughens Up the Air Force 1 Low Workboot \"Shadow Brown\" With Rope Laces and Gold Hardware",
+   "source": "Hypebeast",
+   "date": "2026-09-24",
+   "content": "Name: Nike Air Force 1 Low “Shadow Brown”Colorway: Shadow Brown/Gum Medium Brown-Light Armory Blue-Baroque BrownSKU: IZ4702-235MSRP: TBCRelease Date: Fall/Winter 2026The Nike Air Force 1 Low Workboot \"Shadow Brown\" is set to bring rugged materials and outdoor-inspired hardware to Nike's classic low-top this Fall/Winter 2026. Official images show an upper made mostly of canvas and suede, with details borrowed more from work boots than from the court.Shadow Brown canvas forms the base of the upper, covering the toe box, quarter panels, and heel. Darker Baroque Brown suede is layered on top at the toe, Swoosh, heel tab, and eyelets. Around the lacing area, the suede has serrated edges that add texture where the laces cross the upper.The laces and hardware carry most of the workboot feel. Light Armory Blue rope laces break up the brown palette and run through metallic gold lace loops rather ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F24%2FNike-Air-Force-1-Low-Shadow-Brown-IZ4702-235-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-air-force-1-low-shadow-brown-iz4702-235-official-images",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 7,
    "title": "The Nike Air Max Goadome Low Goes Upscale in Croc-Embossed \"Black\" and \"Midnight Navy\"",
    "source": "Hypebeast",
    "date": "2026-09-24",
@@ -83,7 +122,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 8,
    "title": "Nike Pays Homage to Retro Outdoor Heritage With the Air Max 95 \"ACG\"",
    "source": "Hypebeast",
    "date": "2026-09-24",
@@ -97,7 +136,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 9,
    "title": "New Balance Introduces the ABZORB 2000 Luxe",
    "source": "Hypebeast",
    "date": "2026-09-24",
@@ -110,7 +149,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 10,
    "title": "CPFM and Nike Revive the Scrapped Flea 1 Silhouette in \"Barley\"",
    "source": "Hypebeast",
    "date": "2026-09-24",
@@ -123,7 +162,73 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 11,
+   "title": "J Balvin x Air Jordan 4 “Amazonas” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-24",
+   "content": "J Balvin continues his run with Jordan Brand by bringing his colorful vision to the Air Jordan 4 with the… The post J Balvin x Air Jordan 4 “Amazonas” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_2_sneakers-air-jordan-x-j-balvin-4-retro-lemonade-iw2872-700-5-1-e1790277409883.jpeg",
+   "link": "https://www.nicekicks.com/j-balvin-air-jordan-4-amazonas-iw2872-700/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Pokémon x adidas Megaride F50 “Pikachu”",
+   "source": "Nice Kicks",
+   "date": "2026-09-24",
+   "content": "The Pokémon x adidas Megaride F50 “Pikachu” is expected to release on September 24, 2026, via adidas.com, adidas CONFIRMED and select retailers… The post Pokémon x adidas Megaride F50 “Pikachu” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/KH6544_6-1-e1790265391211.jpg",
+   "link": "https://www.nicekicks.com/pokemon-adidas-megaride-f50-pikachu-kh6544/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Jordan Tatum 5 “Sunrise”",
+   "source": "Nice Kicks",
+   "date": "2026-09-24",
+   "content": "The Jordan Tatum 5 is built around Jayson Tatum’s controlled style of play, combining a lightweight feel with a utility… The post Jordan Tatum 5 “Sunrise” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/jordan-brand-tatum-5-sunrise-kids-1-scaled-e1788995342490.jpg",
+   "link": "https://www.nicekicks.com/jordan-tatum-5-sunrise-io1746-401/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Dagger's Destroyed Vans Aren't \"Something to Be Coveted\" (Exclusive)",
+   "source": "Highsnobiety",
+   "date": "2026-09-24",
+   "content": "We talked to Luke Rainey, the founder of Berlin-based skatewear brand Dagger, about the custom Vans and new short film at his Dover Street Market Paris pop-up.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/dagger-vans/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Nike Takes Its Best Ballet Shoe Into the Jungle",
+   "source": "Highsnobiety",
+   "date": "2026-09-24",
+   "content": "Nike's Air Jordan Pointe SE is a dainty ballet sneaker gunning for the top of the hybrid shoe hierarchy.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-jordan-pointe-se-leopard-sneaker/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 16,
    "title": "New Balance’s Decadent Dad Shoe Comes Straight From the Bakery",
    "source": "Highsnobiety",
    "date": "2026-09-24",
@@ -136,7 +241,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 17,
    "title": "These Very Spezial adidas Prove the Power of the Archive",
    "source": "Highsnobiety",
    "date": "2026-09-24",
@@ -149,7 +254,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 18,
    "title": "The Seven Best Nike Sneaker Releases This Week",
    "source": "Highsnobiety",
    "date": "2026-09-24",
@@ -162,7 +267,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 19,
    "title": "J. Cole 推出首款獨立球鞋 Dreamer Indie 5000",
    "source": "Hypebeast 中文",
    "date": "2026-09-23",
@@ -175,7 +280,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 20,
    "title": "New Balance 2010 注入亮面「Firecracker／Sea Salt」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-23",
@@ -188,7 +293,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 21,
    "title": "Nike 為 Ja Morant Twelve Time 推出「Halloween」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-23",
@@ -201,7 +306,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 22,
    "title": "Nike 為 Air Force 1 Low「Ghostface」推出全黑配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-23",
@@ -214,7 +319,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 23,
    "title": "Mbappé 已轉投 On，Nike 球靴卻未有跟上",
    "source": "Hypebeast 中文",
    "date": "2026-09-23",
@@ -228,7 +333,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 24,
    "title": "A.P.C. x Clarks Originals Desert Boot 與 Weaver 鞋款以羅紋麂皮配搭亮面皮革",
    "source": "Hypebeast 中文",
    "date": "2026-09-23",
@@ -241,7 +346,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 25,
    "title": "Buffer x Converse All Star Hi「BOMBING」圖案黑色鞋面正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-09-23",
@@ -254,34 +359,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
-   "title": "adidas Forum SQ Trainer 以方頭設計重塑經典籃球鞋輪廓",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-23",
-   "content": "名稱：adidas Forum SQ Trainer「Core Black」配色：Core Black／Cream White／Core Black款式編號：KK3757建議零售價：15,400 日圓（約 100 美元）發售日期：9 月 25 日發售地點：adidas Japanadidas Originals 推出 Forum SQ Trainer，重新演繹 1984 年面世的 Forum，捨棄這雙球場鞋款熟悉的輪廓，改以方頭和角度鮮明的杯式鞋底示人。首發的黑色版本，將此鞋款定位為商務休閒穿搭之選；現代而富建築感的結構下，仍清楚保留其籃球血統。最明顯的改動在鞋頭。adidas 將鞋頭壓平，塑造成方正輪廓，並配上邊緣硬朗、線條分明的橡膠杯式鞋底，令 Forum 呈現幾何感姿態，與原版籃球鞋的圓頭設計截然不同。杯式鞋底向上包覆鞋面底部，勾勒出新造型，從各個角度都進一步突顯其方正輪廓。鞋面採用優質皮革，以解構式手法打造，淡化傳統球場鞋面工整精緻的觀感，改為更原始、隨性的氣質。品牌標誌直接壓印於皮革上，並非縫製或印刷，讓全黑配色保持同色調，交由材質紋理帶出視覺層次。成品更接近可配搭正裝的運動鞋，而非復刻傳統籃球鞋。鞋底方面，adidas 結合耐磨的釘紋橡膠外底與熱塑性聚氨酯（TPU）組件。釘紋設計令鞋底更厚實、更具侵略感，同時提供可靠抓地力；TPU 則為整個鞋底結構增添支撐。這項實用細節，以日常所需的耐用度平衡鞋面的精緻感。這次更新承載著 Forum 深厚的歷史。此鞋型於 1984 年首度推出，定位為高階籃球鞋；高筒版本則憑藉可在球場上穩固足踝的 X 形踝帶而廣為人知。作為長年備受青睞的日常鞋款後，它在 2020 年代再次成為焦點，Bad Bunny 的 Forum 聯乘鞋款功不可沒。SQ Trainer 為這份傳承開闢新方向。近幾季，方頭設計已廣泛見於設計師鞋履與男裝之中，adidas 如今將這種比例帶到旗下最具辨識度的球場鞋型之一。品牌將此鞋定位為 Forum 傳統籃球根源與當代設計手法的交匯，為希望運動鞋也能襯托更俐落、正式造型的穿者而設。 Click here to ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fadidas-Forum-SQ-Trainer-Core-Black-KK3757-Official-Images-Japan-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/adidas-forum-sq-trainer-core-black-kk3757-official-images-japan-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "Air Jordan 16「Black Pack」正式定於 10 月發售",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-23",
-   "content": "摘要 Jordan Brand 將於 Holiday 2026 檔期推出一套低調「Black Pack」，共 4 雙鞋款。當中的 Air Jordan 16 採用壓紋黑色皮革，點綴亮面漆皮細節，並配備同色系鞋罩設計。此鞋款將於 2026 年 10 月 3 日經指定 NBHD 店舖獨家發售，定價 245 美元。 名稱：Air Jordan 16「Black Pack」配色：Black/Off Noir產品編號：IZ2586-001建議零售價：245 美元發售日期：2026 年 10 月 3 日發售渠道：NikeJordan Brand 將推出 Air Jordan 16「Black Pack」，為 2026 年假日季度陣容增添新作。這款全黑版本與 Air Jordan 14 Low、Air Jordan 15 及 Air Jordan 17 Low 同屬一個涵蓋 4 款鞋型的復刻系列。鞋款採用同色調的「Black/Off Noir」配色，透過材質對比提升單色造型的層次。鞋面主要以優質黑色摔紋皮革製成，鞋舌及鞋領位置則配以透氣網布面料。鞋款保留此鞋型的標誌性實用細節，搭載經典可拆式鞋罩，可隨意轉換造型。鞋頭採用亮面漆皮，向 2001 年原版設計致敬；下方以全黑中底及外底組合，完成俐落輪廓。Air Jordan 16「Black Pack」預定於 2026 年 10 月 3 日發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fair-jordan-16-black-pack-iz2586-001-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/air-jordan-16-black-pack-iz2586-001-first-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 20,
+   "id": 26,
    "title": "J. Cole Unveils His First Independent Sneaker Silhouette, the Dreamer Indie 5000",
    "source": "Hypebeast",
    "date": "2026-09-23",
@@ -294,7 +372,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 27,
    "title": "New Balance Ignites the 2010 Silhouette With a Glossy \"Firecracker/Sea Salt\" Colorway",
    "source": "Hypebeast",
    "date": "2026-09-23",
@@ -307,7 +385,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 28,
    "title": "Nike Prepares Ja Morant's Twelve Time Silhouette for \"Halloween\"",
    "source": "Hypebeast",
    "date": "2026-09-23",
@@ -320,7 +398,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 29,
    "title": "Nike Darkens the Air Force 1 Low \"Ghostface\" With an All-Black Colorway",
    "source": "Hypebeast",
    "date": "2026-09-23",
@@ -333,7 +411,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 30,
    "title": "Mbappé Is With On Now, But His Boots Didn't Get the Memo",
    "source": "Hypebeast",
    "date": "2026-09-23",
@@ -347,7 +425,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 31,
    "title": "The A.P.C. x Clarks Originals Desert Boot and Weaver Pair Ribbed Suede With Glossy Leather",
    "source": "Hypebeast",
    "date": "2026-09-23",
@@ -360,20 +438,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
-   "title": "The Buffer x Converse All Star Hi Tags a Black Upper With \"BOMBING\" Graphics",
-   "source": "Hypebeast",
-   "date": "2026-09-23",
-   "content": "Name: Buffer x Converse All Star HiColorway: TBCSKU: TBCMSRP: TBCRelease Date: September 26Where to Buy: BufferBuffer, the new label led by creative director Tetsu Nishiyama, has partnered with Converse on a collection built around a black All Star Hi printed with \"BOMBING\" graphics. The capsule pairs the high-top with a compact run of apparel and accessories, all developed from the visual noise of the street and filtered through Buffer's own design sensibility.The footwear is the clear centerpiece. Converse's All Star Hi arrives in a black base, giving the \"BOMBING\" print a dark backdrop that lets the graphic read loud and clear. Rather than introducing a new silhouette or reworked construction, the collaboration keeps the high-top's familiar profile intact and lets surface graphics do the heavy lifting, treating the shoe as a blank wall ready to be marked up.That graphic language comes",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2FBuffer-Converse-All-Star-Hi-Collaboration-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/buffer-converse-all-star-hi-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 27,
+   "id": 32,
    "title": "Nike Air Force 1 Low ’01 “Subway Rat” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-23",
@@ -386,7 +451,34 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 33,
+   "title": "Oregon Ducks x Nike Air Foamposite One “Black Mummy” November 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-23",
+   "content": "The Oregon Ducks x Nike Air Foamposite One “Black Mummy” is expected to release on November 9, 2026, via SNKRS… The post Oregon Ducks x Nike Air Foamposite One “Black Mummy” November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/iz7806-001-1-1-e1790257575446.jpg",
+   "link": "https://www.nicekicks.com/oregon-ducks-nike-air-foamposite-one-black-mummy-iz7806-001-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 34,
+   "title": "Air Jordan 5 WMNS “Sunset” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-23",
+   "content": "The 2006 Air Jordan 5 WMNS “Sunset” is set to make a retro comeback on September 25, 2026, via Nike.com… The post Air Jordan 5 WMNS “Sunset” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/iv5678-102-5-e1789176676753.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-5-wmns-sunset-iv5678-102/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 35,
    "title": "Kids Air Jordan 6 Low “Fearless” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-23",
@@ -400,7 +492,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 36,
    "title": "Anthony Edwards x adidas Adifoam Mule “Bliss Blue” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-23",
@@ -413,86 +505,10 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
-   "title": "Tom Sachs x NikeCraft General Purpose Shoe “Demerits”",
-   "source": "Nice Kicks",
-   "date": "2026-09-23",
-   "content": "The Tom Sachs x NikeCraft General Purpose Shoe “Demerits” is releasing on September 30, 2026, via Store.TomSachs.com . A global release… The post Tom Sachs x NikeCraft General Purpose Shoe “Demerits” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/02/IMG_8866.png",
-   "link": "https://www.nicekicks.com/tom-sachs-nikecraft-general-purpose-shoe-demerits-fz1363-002/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "Even the Most Basic of Basics Look Better Patchworked",
-   "source": "Highsnobiety",
-   "date": "2026-09-23",
-   "content": "The resurgence of patchwork takes on classic pieces from New Era, Birkenstock, and Vans proves that clothing brands are firmly in their fun era.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-era-birkenstock-patchwork/",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS",
-    "BIRKENSTOCK",
-    "VANS"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "This Air Max Is Cosplaying As Retro Outdoor Gear",
-   "source": "Highsnobiety",
-   "date": "2026-09-23",
-   "content": "Without an official cross-line branding stamp, the Swoosh unleashes the Nike Air Max 95 ACG. AKA. the Nike Air Max 95 Surprise Cocoa/Infinite Black Panther/Tropical Teal.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-95-acg-cacao-wow/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Ralph Lauren Turned the Loafer Into a Slipper",
-   "source": "Highsnobiety",
-   "date": "2026-09-23",
-   "content": "The new Polo Loafer by Ralph Lauren understands that less is more, giving the simple slipper a running-sneaker vibe without creating another hybrid shoe.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/polo-ralph-lauren-slippers/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 34,
-   "title": "Natalia Leckey and Austin Smith Are Better Together",
-   "source": "Highsnobiety",
-   "date": "2026-09-23",
-   "content": "Putting the performance sneakers to the test, the couple laced up for a run through Brooklyn while reflecting on moving through life in stride with one another.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/natalia-leckey-and-austin-smith-adidas-adizero-evo-sl-exo/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 35,
-   "title": "The Best adidas Sneaker Releases This Week",
-   "source": "Highsnobiety",
-   "date": "2026-09-23",
-   "content": "In this iteration of our weekly adidas round-up, find everything from Pokémon runners to nostalgic skate shoes. Oh, and some regular sneakers, too.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-sneaker-releases-september-week-4/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 36,
+   "id": 37,
    "title": "Nike Air Max 1000 “Stone/Burgundy Crush”",
    "source": "Nice Kicks",
-   "date": "2026-09-22",
+   "date": "2026-09-23",
    "content": "Manufactured by Zellerfeld, the Nike Air Max 1000 reimagines the iconic Air Max 1 silhouette and reinvents what Nike Air… The post Nike Air Max 1000 “Stone/Burgundy Crush” appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/09/NIKE_AM1000.3_STONE-BUR_LEFTLATERAL_STILL_V2_1080x1440-e1790182311137.png",
    "link": "https://www.nicekicks.com/nike-air-max-1000-stone-burgundy-crush-jv2916-001/",
@@ -502,65 +518,13 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
-   "title": "Bad Bunny x adidas BadBo 1.1 “Chalk White” September Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-22",
-   "content": "The Bad Bunny x adidas BadBo 1.1 “Chalk White” is set to release on September 26, 2026, via adidas CONFIRMED… The post Bad Bunny x adidas BadBo 1.1 “Chalk White” September Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/LC5466_6-1-e1788806087550.jpg",
-   "link": "https://www.nicekicks.com/bad-bunny-adidas-badbo-1-1-chalk-white-lc5466/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
    "id": 38,
-   "title": "Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info",
+   "title": "Tom Sachs x NikeCraft General Purpose Shoe “Demerits”",
    "source": "Nice Kicks",
-   "date": "2026-09-22",
-   "content": "The Bad Bunny x adidas BadBo 1.0 “Night Navy” is releasing on September 26, 2026, via adidas CONFIRMED and select… The post Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/LB5996_6-1-e1789771255677.jpg",
-   "link": "https://www.nicekicks.com/bad-bunny-adidas-badbo-1-0-night-navy-lb5996/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "Nike Air Force 1 Low Cracked Leather “Black”",
-   "source": "Nice Kicks",
-   "date": "2026-09-22",
-   "content": "The Nike Air Force 1 Low Cracked Leather “Black” is set to release in late Fall of 2026, via select… The post Nike Air Force 1 Low Cracked Leather “Black” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_snkrs-verified-september-2026-5-e1788994458129.jpeg",
-   "link": "https://www.nicekicks.com/nike-air-force-1-low-cracked-leather-black-ja0248-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Nike G.T. Future “Varsity Red”",
-   "source": "Nice Kicks",
-   "date": "2026-09-22",
-   "content": "The Nike G.T. Future “Varsity Red” is releasing on September 8, 2026, via select retailers. A global launch will take place on… The post Nike G.T. Future “Varsity Red” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/fz5590-603-5-e1788874012997.jpg",
-   "link": "https://www.nicekicks.com/nike-g-t-future-varsity-red-fz5590-603/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "Nike G.T. Future EYBL Unseen Hours “Peach Jam”",
-   "source": "Nice Kicks",
-   "date": "2026-09-22",
-   "content": "The Nike G.T. Future EYBL Unseen Hours “Peach Jam” is releasing on September 23, 2026, via Nike.com and select retailers for $200.… The post Nike G.T. Future EYBL Unseen Hours “Peach Jam” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/ix5229-700-5-1-e1789568006265.jpg",
-   "link": "https://www.nicekicks.com/nike-g-t-future-eybl-unseen-hours-peach-jam-ix5229-700/",
+   "date": "2026-09-23",
+   "content": "The Tom Sachs x NikeCraft General Purpose Shoe “Demerits” is releasing on September 30, 2026, via Store.TomSachs.com . A global release… The post Tom Sachs x NikeCraft General Purpose Shoe “Demerits” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/02/IMG_8866.png",
+   "link": "https://www.nicekicks.com/tom-sachs-nikecraft-general-purpose-shoe-demerits-fz1363-002/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
