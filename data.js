@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-25 08:07",
+ "updatedAt": "2026-09-25 16:05",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,8 +16,7 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
-  "CLARKS",
-  "CONVERSE",
+  "ASICS",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
@@ -30,6 +29,175 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Action Bronson 與 New Balance 為 2811 系列新增「Blackjacques」及「The Whisperer」配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-25",
+   "content": "摘要 Action Bronson 與 New Balance 即將推出 2811 鞋款的兩款全新配色，命名為「Blackjacques」與「The Whisperer」。這款標誌性鞋型以原創鞋身結合 New Balance 2010 的大底配置。兩款配色將於 9 月 25 日透過 Action Bronson 官方網店獨家發售。 Action Bronson 與 New Balance 正式公布 New Balance 2811 的兩款新配色，分別命名為「Blackjacques」及「The Whisperer」。這次同步推出兩款新作，為這位饒舌歌手於今年較早時首度亮相的簽名鞋型擴充陣容。2811 是 Bronson 與品牌合作的首款簽名鞋，原創鞋面結構配搭 New Balance 2010 現有的鞋底單元。「Blackjacques」採用深色調設計，Bronson 曾在鞋款正式公布前穿著它現身場邊；「The Whisperer」則以白、黑為基調，帶來截然不同的外觀。兩款鞋均點綴低調的紅、藍細節，延續這位藝術家的 Baklava 設計風格。「The Whisperer」推出前，Bronson 曾回應社交媒體上有關庫存外流的報道，指出遭竊的鞋款已流入供應鏈，並以低於零售價的價格出現在轉售平台。儘管出現配銷問題，兩款鞋仍將如期正式發售。Action Bronson x New Balance 2811「Blackjacques」及「The Whisperer」將於 2026 年 9 月 25 日僅透過網上發售。 View this post on InstagramA post shared by Action Bronson (@bambambaklava) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Faction-bronson-baklava-new-balance-2811-blackjacques-the-whisperer-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/action-bronson-baklava-new-balance-2811-blackjacques-the-whisperer-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Nike First Sight Shadow 2026 秋冬近乎全海軍藍配色登場",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-25",
+   "content": "名稱：Nike First Sight Shadow「Gridiron」配色：黑色／金屬深灰色貨號：HQ2410-003建議零售價：145 美元發售日期：待定Nike First Sight Shadow 將於 2026 年秋冬推出全新海軍藍配色，據報名為「Gridiron」。這雙鞋延續 First Sight 女裝專屬系列先前的款式，以單一主色突顯鞋型的雕塑感結構。設計由外殼展開。First Sight Shadow 的鞋面以一體成型方式製作，無縫的雕塑感處理令人聯想到 Nike Foamposite。此番鞋面幾乎全數覆以海軍藍，視線自然落在輪廓線條，而非色塊拼接。僅有的對比藏在細節之中。細小的黑色 Swoosh 設於鞋頭附近，取代常見的鞋面中央位置；沿鞋身兩側排列的立體橢圓開口，則透出下方的金屬銀色。外殼其餘部分維持深色，令銀色點綴成為全鞋焦點。外殼下方設有黑色尼龍內靴，鞋領位置向上延伸成 V 字形，帶來如襪套般的穿著入口；同樣的黑色亦延伸至外底，從上下襯托海軍藍鞋面。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftNike-First-Sight-Shadow-Gridiron-HQ2410-003-Official-Images.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-first-sight-shadow-gridiron-hq2410-003-official-images",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Kith 15 週年展覽完整展出 Ronnie Fieg 收藏的 1,849 雙鞋履檔案",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-25",
+   "content": "摘要 Kith 首度把 Ronnie Fieg 鞋履檔案中全部 1,849 對聯乘鞋款公開同場展出。所有鞋款會按品牌分類，並依照新書索引及時間順序逐頁編排。是次展覽將於 Kith 15 週年前夕及新書全球發行前數日在 Brooklyn 舉行。 為慶祝品牌成立 15 週年，Kith 推出由 Assouline 出版的新書《Kith: The Footwear Archive》，並於 Brooklyn 舉行展覽，完整展出 Ronnie Fieg 所有聯乘鞋履檔案。9 月 25 日至 27 日，Kith 過去 15 年與合作品牌推出的全部 1,849 雙鞋履，將首度一同公開展出。Kith 並非精選代表作展出，而是呈現每一雙鞋履。每個合作品牌均設有獨立部分，當中鞋款按推出時間順序排列，並完全依照書中的索引編排。訪客穿梭檔案的方式，正如讀者翻閱書本一樣；因此，這個空間既是展廊，也可視為索引的實體版本。這本書同樣呼應如此規模。《Classic》版本共 444 頁，書中索引列明展場內每一雙鞋履的排列次序。Assouline 最為人熟悉的是出版時尚、設計及奢侈品牌的大開本咖啡桌書籍，因此十分適合製作這樣規模的圖錄。書籍正式全球發售前，展覽現場將率先發售。這批檔案的規模，反映 Fieg 在鞋履領域走過的路。2011 年創立 Kith 前，他在 New York 零售商 David Z. 打響名堂；早期與 ASICS 合作的 GEL-Lyte III 鞋款，奠定了他作為零售商主導球鞋聯乘代表人物的地位。15 年後，這些企劃已延伸至眾多合作品牌、逾 1,800 雙鞋履；今次展覽亦是它們首度齊集一室。《Kith: The Footwear Archive》展覽將於 9 月 25 日至 27 日，在 Brooklyn 25 Kent Avenue 舉行。全書 444 頁的《Classic》版本，則將於 9 月 30 日、亦即 Kith 的週年紀念日，在所有 Kith 店舖、網上及 Kith App 全球推出。 Click here to view full gallery at Hypebeas",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FFTKith-the-Footwear-Archive-Exhibit-15th-anniversary-Announcement-Opening-book-release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/kith-the-footwear-archive-exhibit-15th-anniversary-announcement-opening-book-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Yeat 在《TËNNIS》音樂錄像中預告未發售 Nike Air Max Goadome「Camo」",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-25",
+   "content": "摘要 Yeat 在全新歌曲《TËNNIS》的音樂錄像中曝光了一雙尚未發售的 Nike Air Max Goadome。預告片段中，球鞋採用米色與啡色 desert-camo 迷彩鞋身，搭配黑色 Air 緩震鞋底。至於這次潛在聯乘的正式發售資訊，暫時仍未獲確認。 饒舌歌手 Yeat 在其歌曲《TËNNIS》的官方音樂錄像中，預告一雙疑似即將推出的 Nike Air Max Goadome「Camo」。音樂錄像於瑞士取景拍攝，除了展示這雙尚未發售的鞋款，亦收錄了他驚喜推出的 COCOON 企劃歌曲。有別於其首個 Nike 鞋履企劃中採用鉚釘元素的全黑版本，這雙預覽鞋款換上啡色與棕色調的沙漠迷彩鞋面。鞋底則保留 Goadome 的經典配置，搭載黑色 Air 氣墊鞋底單元；鞋面各處均以啡色與棕色的沙漠迷彩拼接呈現。這雙沙漠迷彩配色隨 Yeat 驚喜推出、收錄 7 首歌曲的 COCOON 企劃亮相，目前僅見於音樂錄像中，尚未公布任何官方發售詳情。Nike 亦未確認這雙鞋究竟是獨一無二的度身訂製款，還是會作更廣泛的零售發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fyeat-unreleased-nike-air-max-goadome-low-camo-tennis-music-video-preview-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/yeat-unreleased-nike-air-max-goadome-low-camo-tennis-music-video-preview",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "The Whitaker Group 與 New Balance 以「Ostrich」皮革重塑 2010",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-25",
+   "content": "摘要 The Whitaker Group 攜手 New Balance 打造 2010 鞋型的鴕鳥紋新版本。設計以鋼灰色鴕鳥紋皮革結合淺米色網布，並在腳跟穩定片和鞋舌標上點綴低調紫色細節。這款合作球鞋將於 9 月 25 日發售，提供男女同款尺碼，定價 155 美元。 名稱：The Whitaker Group x New Balance 2010「Ostrich」配色：鴕鳥色／米色／灰色貨號：U2010GR1建議零售價：155 美元發售日期：2026 年 9 月 25 日發售地點：New BalanceThe Whitaker Group 與 New Balance 正式發布 The Whitaker Group x New Balance 2010「Ostrich」。這款聯乘鞋作以講究的材質紋理與低調配色，為跑鞋輪廓帶來新演繹。鞋頭及鞋側下方飾以鋼灰色皮革覆片，並壓印鴕鳥皮紋；其餘鞋面及鞋舌則採用淺米色網布。鞋側配上灰色「N」標誌，並以同色系米色中底呼應。鮮明的紫色點綴落在鞋舌標籤及 ABZORB 後跟緩震膠囊上，為中性色調增添對比。鞋款在紋理皮革與透氣網布之間取得平衡，同時維持含蓄的美學。The Whitaker Group x New Balance 2010「Ostrich」將於 2026 年 9 月 25 日發售，提供男女同款尺碼。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fthe-whitaker-group-new-balance-2010-ostrich-U2010GR1-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/the-whitaker-group-new-balance-2010-ostrich-u2010gr1-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Action Bronson and New Balance Expand the 2811 Lineup With \"Blackjacques\" and \"The Whisperer\"",
+   "source": "Hypebeast",
+   "date": "2026-09-25",
+   "content": "Summary ction Bronson and New Balance are releasing two new colorways of the 2811 silhouette titled Blackjacques and The WhispererThe signature model combines an original upper with the sole unit from the New Balance 2010Both iterations release on September 25 exclusively through Action Bronson's webstore Action Bronson and New Balance have officially announced two new colorways of the New Balance 2811, dubbed \"Blackjacques\" and \"The Whisperer.\" The dual drop expands the rapper's signature silhouette following its debut earlier this year.Serving as Bronson’s first signature model with the brand, the 2811 pairs an original upper construction with the existing sole unit of the New Balance 2010. The \"Blackjacques\" iteration adopts a dark palette—first spotted when Bronson wore them courtside ahead of the model's official announcement—while \"The Whisperer\" provides a contrasting look with a ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F24%2Faction-bronson-baklava-new-balance-2811-blackjacques-the-whisperer-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/action-bronson-baklava-new-balance-2811-blackjacques-the-whisperer-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "The Nike First Sight Shadow Goes Almost All-Navy for Fall/Winter 2026",
+   "source": "Hypebeast",
+   "date": "2026-09-25",
+   "content": "Name: Nike First Sight Shadow “Gridiron”Colorway: Black/Metallic Dark GreySKU: HQ2410-003MSRP: $145 USDRelease Date: TBCThe Nike First Sight Shadow is getting a new navy colorway for Fall/Winter 2026, reportedly called \"Gridiron.\" The pair follows the model's earlier releases in the women's-exclusive First Sight line and uses one dominant tone to put the focus on the silhouette's sculpted construction.The shell is where the design starts. The First Sight Shadow's upper is a single molded piece with a seamless, sculpted finish that recalls Nike's Foamposite. Here it is coated almost entirely in navy, so the eye goes to the contours rather than to any color blocking.What little contrast there is sits in the details. Small black Swooshes are placed near the toe instead of in the usual midfoot spot. The raised ovals along each side open up to show Metallic Silver underneath. With the rest of",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F25%2FftNike-First-Sight-Shadow-Gridiron-HQ2410-003-Official-Images.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-first-sight-shadow-gridiron-hq2410-003-official-images",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Kith's 15th Anniversary Exhibition Puts Ronnie Fieg's Full 1,849-Pair Archive on Display",
+   "source": "Hypebeast",
+   "date": "2026-09-25",
+   "content": "Summary Kith is showing all 1,849 collaborative pairs from Ronnie Fieg's footwear archive together in public for the first timeThe pairs are grouped by brand and arranged chronologically, following the index of the new book page by pageThe exhibition runs in Brooklyn in the days leading up to Kith's 15th anniversary and the book's global release Kith is marking its 15th anniversary with Kith: The Footwear Archive, a new book published by Assouline, and a Brooklyn exhibition that puts Ronnie Fieg's entire collaborative footwear archive on display. From September 25 to September 27, all 1,849 pairs Kith has produced with partner brands over its 15 years will be shown together in public for the first time.Rather than a curated greatest-hits edit, Kith is showing every pair. Each partner brand gets its own section, the releases within it run chronologically, and the sequence follows the book",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F25%2FFTKith-the-Footwear-Archive-Exhibit-15th-anniversary-Announcement-Opening-book-release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/kith-the-footwear-archive-exhibit-15th-anniversary-announcement-opening-book-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Air Jordan 1 Low OG “Garden” Set for Release",
+   "source": "Hypebeast",
+   "date": "2026-09-25",
+   "content": "Jordan Brand is releasing the Air Jordan 1 Low OG in a new “Garden” colorway.The low-top model pairs a black base with red accents and metallic-gold details. Premium materials and a contemporary take on a classic color palette are complemented by floral motifs throughout—an homage to Chicago, a city that holds special meaning for Jordan. Special packaging will also be available.The model draws inspiration from Michael Jordan’s final game as a Chicago Bull, played at New York’s storied arena. Although the Air Jordan 13 was his latest signature model at the time, Jordan took the court in the Air Jordan 1 “Chicago,” his first signature shoe. The floral pattern pays homage to that game at Madison Square Garden.The Air Jordan 1 Low OG “Garden” goes on sale via SNKRS at 9:00 a.m. on Saturday, September 26. It is priced at ¥22,550, including tax. Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fair-jordan-1-low-og-garden-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/air-jordan-1-low-og-garden-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Yeat Teases Unreleased Nike Air Max Goadome “Camo” in \"TËNNIS\" Visual",
+   "source": "Hypebeast",
+   "date": "2026-09-25",
+   "content": "Summary Yeat previewed an unreleased Nike Air Max Goadome in his new TËNNIS music videoThe teaser features a tan and brown desert-camo upper set atop a black Air-cushioned soleOfficial release details for the potential collaboration have not been confirmed Rapper Yeat has teased what appears to be an upcoming Nike Air Max Goadome \"Camo\", spotted in the official music video for his track \"TËNNIS.\" Filmed on location in Switzerland, the visual showcases the unreleased footwear alongside tracks from his surprise COCOON project.Departing from the studded all-black execution tied to his initial Nike footwear project, the previewed boot features a tan and brown desert-camo upper. Underfoot, the silhouette maintains the traditional Goadome setup, resting atop a black Air-cushioned sole unit. The newly previewed iteration features tan and brown desert-camouflage paneling across the upper. Surfac",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F25%2Fyeat-unreleased-nike-air-max-goadome-low-camo-tennis-music-video-preview-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/yeat-unreleased-nike-air-max-goadome-low-camo-tennis-music-video-preview",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "The Whitaker Group and New Balance Reframe the 2010 With \"Ostrich\" Leather",
+   "source": "Hypebeast",
+   "date": "2026-09-25",
+   "content": "Summary The Whitaker Group has teamed up with New Balance on an ostrich-print iteration of the 2010 silhouetteThe design pairs steel grey ostrich-textured leather and light beige mesh with subtle purple hits on the heel pods and tongue tagThe collaborative sneaker launches on September 25 in unisex sizing for 155 USD Name: The Whitaker Group x New Balance 2010 \"Ostrich\"Colorway: Ostrich/Beige/GreySKU: U2010GR1MSRP: $155 USDRelease Date: September 25, 2026Where to Buy: New BalanceThe Whitaker Group and New Balance have officially unveiled The Whitaker Group x New Balance 2010 \"Ostrich\". The collaborative release transforms the runner silhouette with elevated material textures and a muted color palette.The upper is anchored by steel grey leather overlays detailing the toe box and lower side panels, finished with an ostrich-print pattern. Light beige mesh covers the remainder of the upper a",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F24%2Fthe-whitaker-group-new-balance-2010-ostrich-U2010GR1-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/the-whitaker-group-new-balance-2010-ostrich-u2010gr1-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Nike’s Rodent-Inspired Air Force 1 Sneaker Beats the Rat Race",
+   "source": "Highsnobiety",
+   "date": "2026-09-25",
+   "content": "Nike's rat-fur Air Force 1 sneaker is a grimy ode to the unsung members of the New York City scene",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-nyc-rat-air-force-1-sneaker/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "This Chocolatey Skateboard Dunk Feels Like It's Straight Out of 2006",
+   "source": "Highsnobiety",
+   "date": "2026-09-25",
+   "content": "The SB Dunk Low continues to master the art of color blocking with the Nike SB Dunk Low Filbert/Light Chocolate.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-sb-dunk-low-filbert-light-chocolate/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 14,
    "title": "從城市公路延伸至碎石小徑：Salomon 正式發佈全新 Aero Glide 4 GRVL 與 Aero Blaze 4 GRVL GTX 兩大極致性能新作",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -42,7 +210,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 15,
    "title": "Nike 為 Air Force 1 Low Workboot「Shadow Brown」注入繩索鞋帶與金色五金元素",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -55,7 +223,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 16,
    "title": "Nike Air Max Goadome Low 以鱷魚壓紋「Black」及「Midnight Navy」配色展現高級質感",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -68,7 +236,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 17,
    "title": "Nike 以 Air Max 95「ACG」向復古戶外風格致敬",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -81,7 +249,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 18,
    "title": "CPFM 與 Nike 將曾擱置的 Flea 1 鞋型以「Barley」配色重新推出",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -94,7 +262,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 19,
    "title": "Nike Toughens Up the Air Force 1 Low Workboot \"Shadow Brown\" With Rope Laces and Gold Hardware",
    "source": "Hypebeast",
    "date": "2026-09-24",
@@ -108,7 +276,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 20,
    "title": "The Nike Air Max Goadome Low Goes Upscale in Croc-Embossed \"Black\" and \"Midnight Navy\"",
    "source": "Hypebeast",
    "date": "2026-09-24",
@@ -122,7 +290,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 21,
    "title": "Nike Pays Homage to Retro Outdoor Heritage With the Air Max 95 \"ACG\"",
    "source": "Hypebeast",
    "date": "2026-09-24",
@@ -136,7 +304,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 22,
    "title": "New Balance Introduces the ABZORB 2000 Luxe",
    "source": "Hypebeast",
    "date": "2026-09-24",
@@ -149,7 +317,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 23,
    "title": "CPFM and Nike Revive the Scrapped Flea 1 Silhouette in \"Barley\"",
    "source": "Hypebeast",
    "date": "2026-09-24",
@@ -162,7 +330,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 24,
    "title": "J Balvin x Air Jordan 4 “Amazonas” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -175,7 +343,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 25,
    "title": "Pokémon x adidas Megaride F50 “Pikachu”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -188,7 +356,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 26,
    "title": "Jordan Tatum 5 “Sunrise”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -201,7 +369,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 27,
    "title": "Dagger's Destroyed Vans Aren't \"Something to Be Coveted\" (Exclusive)",
    "source": "Highsnobiety",
    "date": "2026-09-24",
@@ -214,7 +382,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 28,
    "title": "Nike Takes Its Best Ballet Shoe Into the Jungle",
    "source": "Highsnobiety",
    "date": "2026-09-24",
@@ -228,46 +396,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
-   "title": "New Balance’s Decadent Dad Shoe Comes Straight From the Bakery",
-   "source": "Highsnobiety",
-   "date": "2026-09-24",
-   "content": "New Balance's Made in USA 990v4 dad shoe is a red velvet stunner with serious dad shoe swag.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-990-v4-monarch-burgundy-sneaker/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "These Very Spezial adidas Prove the Power of the Archive",
-   "source": "Highsnobiety",
-   "date": "2026-09-24",
-   "content": "Proving that the best designs remain timelessly uncomplicated, the Three Stripes presents the adidas Gazelle SPZL FC Black/White.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-gazelle-spzl-fc-black-white/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "The Seven Best Nike Sneaker Releases This Week",
-   "source": "Highsnobiety",
-   "date": "2026-09-24",
-   "content": "This week, Nike is injecting a little weird into the familiar favourites, and we are here for it.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-sneaker-releases-september-week-4/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
+   "id": 29,
    "title": "J. Cole 推出首款獨立球鞋 Dreamer Indie 5000",
    "source": "Hypebeast 中文",
    "date": "2026-09-23",
@@ -280,7 +409,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 30,
    "title": "New Balance 2010 注入亮面「Firecracker／Sea Salt」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-23",
@@ -293,152 +422,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
-   "title": "Nike 為 Ja Morant Twelve Time 推出「Halloween」配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-23",
-   "content": "摘要 Nike Basketball 將 Ja Morant 的 Twelve Time 鞋款換上帶點詭異氣氛的 Halloween 配色。整體設計以 Iron Grey 鞋身配搭深色覆面、亮橙色細節點綴，並加入金屬銀色品牌標誌。這雙應景節日主題籃球鞋預計將於 2026 年秋冬季度發售，定價 95 美元。 名稱：Nike Twelve Time「Halloween」配色：黑色／淡象牙白／鐵灰／金屬銀貨號：IM4164-002建議零售價：95 美元發售日期：2026 年秋冬季發售地點：NikeNike 與 Ja Morant 為萬聖節檔期揭曉 Nike Twelve Time「Halloween」。這款即將推出的鞋款，以深沉的節日靈感配色演繹這位 NBA 球星的簽名實戰鞋。鞋款採用「黑色／淡象牙白／鐵灰／金屬銀」配色，以鐵灰鞋面為基調，鞋舌、鞋帶、鞋頭及中底則配上深黑色拼接。Swoosh、內襯和鞋帶扣環點綴亮橙色，為低調基調添上應節對比，卻不顯喧賓奪主。鞋身多處加入辨識度十足的品牌細節：鞋舌及鞋跟飾有金屬銀色點綴，當中的立體面板展示重複排列的 Twelve Time 圖案。Morant 的標誌性「1MT」標誌置於靠近外底的位置，而重複圖案亦延伸至中底後段。鞋底採用黑色橡膠外底，配備經典人字形抓地紋及前掌加大的標誌，為設計畫上句號。Nike Twelve Time「Halloween」預計將於 2026 年秋冬季透過 Nike 發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-twelve-time-halloween-IM4164-002-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-twelve-time-halloween-im4164-002-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "Nike 為 Air Force 1 Low「Ghostface」推出全黑配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-23",
-   "content": "摘要 Nike 推出一款低調「全黑」版本，呼應其以《Scream》為靈感打造的 Air Force 1 Low Ghostface。整體設計配備磨砂灰色 Swoosh、銀色電話造型鞋帶扣，並在鞋舌位置加入《Scream》風格標誌。現已率先發售，更廣泛的上市時間則定於 2026 年假日檔期。 名稱：Nike Air Force 1 Low「Ghostface Black」配色：黑色／Gym Red－Summit White產品編號：IZ1207-010建議零售價：125 美元發售日期：2026 年假日季購買途徑： NikeNike 推出 Air Force 1 Low「Ghostface Black」，擴展其以《Scream》為靈感的鞋履陣容。這款較深沉的版本承接早前曝光的白色配色，為這雙經典低筒鞋注入帶有電影感的陰森氣息。鞋面以黑色皮革為主，拼接邊緣及車線帶有灰色仿舊刷漆效果。標誌性的 Swoosh 採用粗獷的灰色刷紋處理，營造磨損質感；鞋舌標籤、最上方鞋眼及鞋跟部分則以低調的 Gym Red 勾邊，為深色基調帶來對比。鞋身各處融入電影元素，其中鞋舌標籤的字體便仿照《Scream》電影系列的風格。銀色電話造型鞋帶扣向該系列經典的來電場面致意，鞋底則以深藍色半透明外底收結全鞋設計。Nike Air Force 1 Low「Ghostface Black」預定於 2026 年假日季，透過 Nike.com 及指定零售商作較廣泛發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-air-force-1-low-ghostface-black-IZ1207-010-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-air-force-1-low-ghostface-black-iz1207-010-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "Mbappé 已轉投 On，Nike 球靴卻未有跟上",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-23",
-   "content": "名稱：Nike Mercurial Superfly 11 Elite By You配色：白色／白色貨號：IU4441-100建議零售價：325 美元發售日期：現已發售發售地點：NikeNike 透過其 By You 度身訂製平台推出全白色 Mercurial Superfly 11 Elite，推出時機格外引人注目。Kylian Mbappé 近日與 On 簽約，並在宣布轉投後首場代表 Real Madrid 上陣的比賽中，穿上一雙近乎相同的白色 Superfly 11；這項選項正是在其後不久上線。Mbappé 轉投 On，意味著一段始於他童年的合作關係告終。他自 2006 年、8 歲起便已與 Nike 簽約。Mbappé 在個人網站公布新合作時表示，他看見了「一起打造全新事物的機會」。不過，On 的球靴尚未準備好投入比賽。Mbappé 已被拍到穿著採用品牌 LightSpray 技術打造的 On 原型球靴操練，但在 Real Madrid 周日的賽事中，他重穿 Mercurial Superfly 11——這也是他在 Nike 合約期滿前出戰世界盃時所穿的同款球靴。全白鞋面令 Swoosh 幾乎隱沒，但並非完全看不見；而 Real Madrid 的球衣由 adidas 贊助，因此其球衣上的另一個標誌來自 Three Stripes，而非 On。Nike 的後續動作相當低調。品牌在 Nike By You 將一款相近的全白版本設為預設選項，並標示「最新上架」，卻未直接提及 Mbappé。不過，Nike 並未公開將兩者連繫起來。這雙球靴本身是 Nike 旗下的頂級速度型鞋款。Mercurial Superfly 11 Elite By You 為低筒硬地球靴，專為乾燥的天然草地球場而設。前掌 Air Zoom 氣墊帶來回彈靈敏的腳感；Nike 表示，首次應用於其足球靴的 ZoomX 泡棉，則提供品牌最高的能量回饋。鞋面採用 FlyWeave Ultra 物料，從後跟延伸至鞋頭，於重點部位編織而成，帶來貼合且穩固的包覆；人字形鞋釘則有助球員抓穩場地並迅速變向。 View ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fkylian-mbappe-nike-mercurial-superfly-11-elite-by-you-taped-football-boot-iu4441-100-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/kylian-mbappe-nike-mercurial-superfly-11-elite-by-you-taped-football-boot-iu4441-100-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "A.P.C. x Clarks Originals Desert Boot 與 Weaver 鞋款以羅紋麂皮配搭亮面皮革",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-23",
-   "content": "名稱：A.P.C. x Clarks Originals Desert Boots、A.P.C. x Clarks Originals Weaver配色：焦糖色、深啡色產品編號：PXCEM-M53005、PXCEL-M53004建議零售價：190 美元、210 美元發售日期：現已發售購買地點：A.P.C.A.P.C. 與 Clarks Originals 合作推出全新 Interaction 系列，聚焦這個英國鞋履品牌兩款最具代表性的鞋型：Desert Boot 與 Weaver。兩款鞋均為中性設計，捨棄一貫的表面處理，改以呼應 A.P.C. 牛仔布根源的材質，以及亮面皮革製作。材質是這次聯乘的重點。首款採用帶有羅紋表面的紋理麂皮，旨在呈現牛仔布的視覺效果，備有駝色及海軍藍兩種選擇；A.P.C. 稱之為羅紋剖層皮革。另一款則以光滑亮面的啡色皮革製成，為整個系列帶來較斯文的對比。兩款均採用中性鞋型剪裁。Desert Boot 保留 Clarks 於 1950 年代推出的簡約設計：俐落線條、簡單的綁帶設計，以及正宗天然橡膠生膠鞋底。這個鞋型與次文化淵源深厚，多年來一直深受垮掉派、摩登族及 Britpop 世代穿著。A.P.C. 的版本加入金屬圓環，並配上印有 A.P.C. 品牌標誌的皮革飾片。Weaver 的結構細節更為豐富。它由 Clarks Wallabee 演變而來，加入方框縫線及更流線的輪廓，後來亦成為 Clarks 系列中的經典鞋款。此鞋將於 2027 年迎來 50 週年。A.P.C. 版本保留 Weaver 的經典鞋型，並加入同色系扁鞋帶、壓印於鞋身兩側的 A.P.C. 標誌，以及生膠鞋底。每雙鞋均附有一枚以同款鞋面材質製成的可拆式吊飾，與所選的鞋款表面處理相互呼應。兩個品牌皆以耐穿性作為系列重點，指出皮革與生膠鞋底會隨穿著時間而更見質感。隨附的宣傳企劃亦呼應這個概念，場景設於一間充滿生活痕跡的睡房，當中有未整理的床鋪，以及隨意踢下後留在原地的鞋履。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FA-P-C-Clarks-Originals-Desert-Boots-Weaver-Collaboration-PXCEM-M53005-PXCEL-M53004-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/a-p-c-clarks-originals-desert-boots-weaver-collaboration-pxcem-m53005-pxcel-m53004-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "CLARKS"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "Buffer x Converse All Star Hi「BOMBING」圖案黑色鞋面正式登場",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-23",
-   "content": "名稱：Buffer x Converse All Star Hi配色：待定產品編號：待定建議零售價：待定發售日期：9 月 26 日發售地點：Buffer由創意總監西山徹主理的新品牌 Buffer，與 Converse 攜手推出系列，主打印有「BOMBING」圖案的黑色 All Star Hi。膠囊系列以這雙高筒鞋為核心，配搭一系列精簡的服裝及配飾；整體設計取材自街頭的視覺雜訊，再以 Buffer 的設計觀點重新演繹。鞋款無疑是系列焦點。Converse All Star Hi 以黑色為基調，為「BOMBING」印花襯托出深色背景，令圖案更為突出清晰。這次聯乘沒有推出新鞋型或重塑鞋身結構，而是保留這雙高筒鞋一貫的輪廓，讓表面圖案擔當主角，將鞋身視作一面等待塗寫的空白牆壁。這套圖像語言源自一組明確的參考素材：青少年放學回家途中可能會看到的畫面，包括牆上的噴漆塗鴉標記、店面與街角招牌，以及隨手買來的日常產品包裝。Buffer 隨後將這些素材重新拼組成自家的構圖，令原本不經意的雜亂元素化為有意識的設計。系列其餘單品亦將同一概念延伸至更多形式。服裝方面以運動衫和連帽衛衣為主，配飾則包括冷帽及肩帶，另備有一套貼紙，讓穿者可親手貼上，呼應塗鴉概念。Buffer 將完整系列定位為一種適合隨性時光的新式制服：無論在城市漫遊、與朋友相聚，還是偶然發現新的場景時，都可隨手穿上。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FBuffer-Converse-All-Star-Hi-Collaboration-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/buffer-converse-all-star-hi-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "J. Cole Unveils His First Independent Sneaker Silhouette, the Dreamer Indie 5000",
-   "source": "Hypebeast",
-   "date": "2026-09-23",
-   "content": "Summary J. Cole is releasing his first independent footwear silhouette dubbed the Dreamer Indie 5000Crafted in Italy the retro basketball-inspired design features synthetic overlays across the upper and sole unitThe sneaker launches on September 23 in Fayetteville North Carolina with pricing details currently TBA J. Cole and his Dreamer label have officially introduced the Dreamer Indie 5000, marking the rapper's first independent sneaker release. Tthe silhouette follows Cole's previous partnership with PUMA and represents several years of independent footwear development.Crafted in Italy, the sneaker draws visual design cues from retro basketball footwear, featuring an aesthetic reminiscent of classic multi-panel trainers. The upper utilizes synthetic overlays that zig and zag across the base construction, with the angular paneling carrying through directly into the design of the sole u",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2Fj-cole-his-first-independent-sneaker-silhouette-dreamer-indie-5000-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/j-cole-his-first-independent-sneaker-silhouette-dreamer-indie-5000-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "PUMA"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "New Balance Ignites the 2010 Silhouette With a Glossy \"Firecracker/Sea Salt\" Colorway",
-   "source": "Hypebeast",
-   "date": "2026-09-23",
-   "content": "Summary New Balance has unveiled the 2010 in a bold Firecracker and Sea Salt color schemeThe lifestyle runner features glossy black overlays contrasting against lighter Sea Salt textiles and bright red accentsThe pair is currently available overseas with a stateside release scheduled for Fall/Winter 2026 Name: New Balance 2010 \"Firecracker/Sea Salt\"Colorway: Firecracker/Sea SaltSKU: U20101Z0MSRP: $145 USDRelease Date: Fall/Winter 2026Where to Buy: New BalanceNew Balance has officially unveiled the New Balance 2010 \"Firecracker/Sea Salt\", applying a high-contrast palette to the retro-inspired running silhouette. The dark iteration combines vibrant red detailing with glossy overlays and a light textile foundation.Constructed with a multi-textured upper, the shoe utilizes exposed Sea Salt mesh across the toe box, midfoot, and heel area. Glossy black overlays wrap the majority of the panelin",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2Fnew-balance-2010-firecracker-sea-salt-u20101z0-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/new-balance-2010-firecracker-sea-salt-u20101z0-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "Nike Prepares Ja Morant's Twelve Time Silhouette for \"Halloween\"",
-   "source": "Hypebeast",
-   "date": "2026-09-23",
-   "content": "Summary Nike Basketball is dressing Ja Morant's Twelve Time silhouette in a spooky Halloween color schemeThe design pairs an Iron Grey upper with dark overlays bright orange accents and metallic silver brandingThe holiday-themed basketball shoe is slated to drop during the Fall/Winter 2026 season for 95 USD Name: Nike Twelve Time \"Halloween\"Colorway: Black/Pale Ivory-Iron Grey-Metallic SilverSKU: IM4164-002MSRP: $95 USDRelease Date: Fall/Winter 2026Where to Buy: NikeNike and Ja Morant are gearing up for the spooky season with the reveal of the Nike Twelve Time \"Halloween.\" The upcoming release applies a dark, holiday-inspired palette to the NBA star's signature performance model. Dressed in a \"Black/Pale Ivory/Iron Grey/Metallic Silver\" color scheme, the sneaker utilizes an Iron Grey upper surrounded by deep black paneling across the tongue, laces, toe box, and midsole. Bright orange hit",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2Fnike-twelve-time-halloween-IM4164-002-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-twelve-time-halloween-im4164-002-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "Nike Darkens the Air Force 1 Low \"Ghostface\" With an All-Black Colorway",
-   "source": "Hypebeast",
-   "date": "2026-09-23",
-   "content": "Summary Nike has introduced a stealthy black counterpart to its Scream-inspired Air Force 1 Low GhostfaceThe design incorporates brushed grey Swooshes silver phone lace dubraes and Scream-styled tongue brandingAvailable now with a wider release scheduled for Holiday 2026 Name: Nike Air Force 1 Low \"Ghostface Black\"Colorway: Black/Gym Red-Summit WhiteSKU: IZ1207-010MSRP: $125 USDRelease Date: Holiday 2026Where to Buy: NikeNike has expanded its Scream-inspired footwear offerings with the release of the Air Force 1 Low \"Ghostface Black.\" The darker alternative follows the previously revealed white colorway, bringing a sinister, cinema-inspired execution to the iconic low-top model.Dressed in a predominantly black leather upper, the pair features grey painted distressing along panel edges and stitching. The signature Swoosh receives a rough, brushed grey treatment to evoke a worn-in texture,",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2Fnike-air-force-1-low-ghostface-black-IZ1207-010-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-air-force-1-low-ghostface-black-iz1207-010-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Mbappé Is With On Now, But His Boots Didn't Get the Memo",
-   "source": "Hypebeast",
-   "date": "2026-09-23",
-   "content": "Name: Nike Mercurial Superfly 11 Elite By YouColorway: White/WhiteSKU: IU4441-100MSRP: $325 USDRelease Date: Available nowWhere to Buy: NikeNike has made an all-white Mercurial Superfly 11 Elite available through its By You customization platform, and the timing is hard to miss. The option went live just after Kylian Mbappé, who recently signed with On, wore a nearly identical white Superfly 11 in his first Real Madrid match since announcing the switch.Mbappé's move to On marks the end of a partnership that started when he was a child. He had been signed to Nike since 2006, when he was eight years old. Announcing the new deal on his website, Mbappé said he saw \"opportunity to build something entirely new together.\"On's boot, however, isn't quite ready for match day. Mbappé has already been seen training in an On prototype built with the brand's LightSpray technology, but for Real Madrid'",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2Fkylian-mbappe-nike-mercurial-superfly-11-elite-by-you-taped-football-boot-iu4441-100-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/kylian-mbappe-nike-mercurial-superfly-11-elite-by-you-taped-football-boot-iu4441-100-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "NIKE"
-   ]
-  },
-  {
    "id": 31,
-   "title": "The A.P.C. x Clarks Originals Desert Boot and Weaver Pair Ribbed Suede With Glossy Leather",
-   "source": "Hypebeast",
-   "date": "2026-09-23",
-   "content": "Name: A.P.C. x Clarks Originals Desert Boots, A.P.C. x Clarks Originals WeaverColorway: Caramel, Dark BrownSKU: PXCEM-M53005, PXCEL-M53004MSRP: $190 USD, $210 USDRelease Date: Available nowWhere to Buy: A.P.C.A.P.C. has teamed up with Clarks Originals on a new Interaction built around two of the British shoemaker's most recognizable silhouettes, the Desert Boot and the Weaver. Offered as unisex styles, both models trade their usual finishes for materials that echo A.P.C.'s denim roots and a polished leather option.The materials drive the collaboration. The first option is a textured suede with a ribbed surface meant to recall the look of denim, offered in camel and navy. A.P.C. describes it as ribbed split leather. The second is a smooth brown leather with a glossy finish, giving the lineup a dressier counterpoint. Both styles are cut as unisex models.The Desert Boot keeps the stripped-b",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2FA-P-C-Clarks-Originals-Desert-Boots-Weaver-Collaboration-PXCEM-M53005-PXCEL-M53004-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/a-p-c-clarks-originals-desert-boots-weaver-collaboration-pxcem-m53005-pxcel-m53004-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CLARKS"
-   ]
-  },
-  {
-   "id": 32,
    "title": "Nike Air Force 1 Low ’01 “Subway Rat” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-23",
@@ -451,7 +435,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 32,
    "title": "Oregon Ducks x Nike Air Foamposite One “Black Mummy” November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-23",
@@ -464,7 +448,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 33,
    "title": "Air Jordan 5 WMNS “Sunset” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-23",
@@ -478,7 +462,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 34,
    "title": "Kids Air Jordan 6 Low “Fearless” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-23",
@@ -492,7 +476,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 35,
    "title": "Anthony Edwards x adidas Adifoam Mule “Bliss Blue” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-23",
@@ -505,7 +489,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 36,
    "title": "Nike Air Max 1000 “Stone/Burgundy Crush”",
    "source": "Nice Kicks",
    "date": "2026-09-23",
@@ -518,7 +502,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 37,
    "title": "Tom Sachs x NikeCraft General Purpose Shoe “Demerits”",
    "source": "Nice Kicks",
    "date": "2026-09-23",
