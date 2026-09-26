@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-26 08:06",
+ "updatedAt": "2026-09-26 16:06",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -29,6 +29,41 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "LOEWE Double L Loafer 將品牌標誌融入皮革之中",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-26",
+   "content": "名稱：LOEWE Double L Loafer配色：黑色、深朱古力色、深紫色、焦糖拿鐵色貨號：LOVL290X03-1100、LOVL290X02-9517、LOVL290X02-6417、LOVL290X02-0315建議零售價：1,150 美元發售日期：現已發售購買地點：LOEWELOEWE Double L Loafer 以柔軟質感為核心。柔韌皮革在鞋面打褶，並順著圓頭鞋楦塑形，視覺上更接近隨性的套穿鞋，而非硬挺、輪廓分明的樂福鞋。女裝款備有麂皮小牛皮及柔軟小牛皮選擇，每個版本均採用相同結構細節。打褶結構是這雙鞋的設計重點。LOEWE 並非把平整皮革覆於硬質鞋楦上，而是在鞋面將皮革收褶，令樂福鞋呈現柔和皺褶與富彈性的腳感。圓頭設計亦延續這種取向，避開傳統便士樂福鞋或馬銜扣樂福鞋較為銳利的鞋頭輪廓。品牌標誌的處理方式亦不尋常。LOEWE 沒有採用金屬扣飾或縫製徽章，而是以高頻工藝將 Double L 標誌壓於鞋面，讓標誌與皮革表面齊平，焦點因而落在材質與鞋型輪廓，而非五金配件。鞋履內外均以舒適度為考量：鞋墊附有襯墊，鞋內則全面鋪設納帕皮革，貼膚感格外柔軟。皮革外底嵌入一塊橡膠防滑片，在保留簡潔皮革底座的同時增加抓地力。10 毫米低跟令整體輪廓更貼近地面。不同配色採用不同皮革。當中 3 款以麂皮小牛皮製作，分別為深朱古力色、濃郁的深紫色及溫暖的焦糖拿鐵色；第 4 款則採用黑色光滑柔軟小牛皮，是系列中最百搭的選擇。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Floewe-double-l-loafer-suede-soft-calfskin-black-dark-chocolate-caramet-latte-deep-purple-lovl290x02-6417-9517-0315-lovl290x03-1100-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/loewe-double-l-loafer-suede-soft-calfskin-black-dark-chocolate-caramet-latte-deep-purple-lovl290x02-6417-9517-0315-lovl290x03-1100-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 2,
+   "title": "The LOEWE Double L Loafer Makes Its Logo Part of the Leather",
+   "source": "Hypebeast",
+   "date": "2026-09-26",
+   "content": "Name: LOEWE Double L LoaferColorway: Black, Dark Chocolate, Deep Purple, Caramel LatteSKU: LOVL290X03-1100, LOVL290X02-9517, LOVL290X02-6417, LOVL290X02-0315MSRP: $1,150 USDRelease Date: Available nowWhere to Buy: LOEWEThe LOEWE Double L Loafer is built around softness. Its supple leather is gathered at the upper and shaped around a rounded toe, so it looks closer to a relaxed slip-on than to a stiff, structured loafer. The women's style is available in suede calfskin and soft calfskin, and every version carries the same construction details.The gathered construction defines the shoe. Rather than stretching a flat panel over a hard last, LOEWE gathers the leather across the upper, which gives the loafer soft folds and a flexible feel. The rounded toe continues that approach, avoiding the sharper profile of a traditional penny or horsebit loafer.The branding is applied in an unusual way. ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F24%2Floewe-double-l-loafer-suede-soft-calfskin-black-dark-chocolate-caramet-latte-deep-purple-lovl290x02-6417-9517-0315-lovl290x03-1100-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/loewe-double-l-loafer-suede-soft-calfskin-black-dark-chocolate-caramet-latte-deep-purple-lovl290x02-6417-9517-0315-lovl290x03-1100-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 3,
+   "title": "adidas' Bejeweled Superstar Is the Belle of the Ball",
+   "source": "Highsnobiety",
+   "date": "2026-09-26",
+   "content": "adidas just took its all-black Superstar sneaker to the jeweler & totally iced it out.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-superstar-jewel-sneaker/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 4,
    "title": "Nike 透過 AirWorks 計劃發表 3D 打印 Air Max Link",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -41,7 +76,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 5,
    "title": "J Balvin 與 Jordan Brand 以 Air Jordan 4「Amazonas」致敬哥倫比亞野生動物",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -55,7 +90,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 6,
    "title": "Action Bronson 與 New Balance 為 2811 系列新增「Blackjacques」及「The Whisperer」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -68,7 +103,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 7,
    "title": "Nike First Sight Shadow 2026 秋冬近乎全海軍藍配色登場",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -81,7 +116,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 8,
    "title": "Kith 15 週年展覽完整展出 Ronnie Fieg 收藏的 1,849 雙鞋履檔案",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -94,7 +129,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 9,
    "title": "Yeat 在《TËNNIS》音樂錄像中預告未發售 Nike Air Max Goadome「Camo」",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -107,7 +142,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 10,
    "title": "The Whitaker Group 與 New Balance 以「Ostrich」皮革重塑 2010",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -120,7 +155,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 11,
    "title": "Nike Unveils the 3D-Printed Air Max Link via AirWorks Program",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -133,7 +168,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 12,
    "title": "J Balvin and Jordan Brand Honor Colombian Wildlife With the Air Jordan 4 \"Amazonas\"",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -147,7 +182,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 13,
    "title": "Action Bronson and New Balance Expand the 2811 Lineup With \"Blackjacques\" and \"The Whisperer\"",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -160,7 +195,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 14,
    "title": "The Nike First Sight Shadow Goes Almost All-Navy for Fall/Winter 2026",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -173,7 +208,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 15,
    "title": "Kith's 15th Anniversary Exhibition Puts Ronnie Fieg's Full 1,849-Pair Archive on Display",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -186,7 +221,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 16,
    "title": "Air Jordan 1 Low OG “Garden” Set for Release",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -199,7 +234,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 17,
    "title": "Yeat Teases Unreleased Nike Air Max Goadome “Camo” in \"TËNNIS\" Visual",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -212,7 +247,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 18,
    "title": "The Whitaker Group and New Balance Reframe the 2010 With \"Ostrich\" Leather",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -225,7 +260,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 19,
    "title": "Ronnie Fieg Knows He's Him (EXCLUSIVE)",
    "source": "Highsnobiety",
    "date": "2026-09-25",
@@ -236,7 +271,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 17,
+   "id": 20,
    "title": "Blue Croc Leather Boots Never Looked This Rugged",
    "source": "Highsnobiety",
    "date": "2026-09-25",
@@ -250,7 +285,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 21,
    "title": "Bad Bunny’s Latest adidas Sneaker Is Embracing the Bulk",
    "source": "Highsnobiety",
    "date": "2026-09-25",
@@ -263,33 +298,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
-   "title": "Nike’s Rodent-Inspired Air Force 1 Sneaker Beats the Rat Race",
-   "source": "Highsnobiety",
-   "date": "2026-09-25",
-   "content": "Nike's rat-fur Air Force 1 sneaker is a grimy ode to the unsung members of the New York City scene",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-nyc-rat-air-force-1-sneaker/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "This Chocolatey Skateboard Dunk Feels Like It's Straight Out of 2006",
-   "source": "Highsnobiety",
-   "date": "2026-09-25",
-   "content": "The SB Dunk Low continues to master the art of color blocking with the Nike SB Dunk Low Filbert/Light Chocolate.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-sb-dunk-low-filbert-light-chocolate/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 21,
+   "id": 22,
    "title": "從城市公路延伸至碎石小徑：Salomon 正式發佈全新 Aero Glide 4 GRVL 與 Aero Blaze 4 GRVL GTX 兩大極致性能新作",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -302,7 +311,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 23,
    "title": "Nike 為 Air Force 1 Low Workboot「Shadow Brown」注入繩索鞋帶與金色五金元素",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -315,7 +324,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 24,
    "title": "Nike Air Max Goadome Low 以鱷魚壓紋「Black」及「Midnight Navy」配色展現高級質感",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -328,26 +337,13 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 25,
    "title": "Nike 以 Air Max 95「ACG」向復古戶外風格致敬",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
    "content": "摘要 Nike 正為即將登場的 Air Max 95 新作注入復古 All Conditions Gear 美學。此鞋款以 Infinite Sable 和 Cacao Wow 麂皮拼接為基底，點綴鮮明的 Tropical Teal 與 Hot Pink 細節。這雙戶外風格球鞋預計於 2026 年秋冬季度發售，定價 190 美元。 名稱：Nike Air Max 95「ACG」配色：Surprise Cocoa／Black-Infinite Black Panther-Tropical TealSKU：IX6347-200建議零售價：190 美元發售日期：2026 年秋冬季度發售渠道： NikeNike 即將推出的 Air Max 95「ACG」，從品牌豐富的越野鞋檔案中汲取靈感。全新配色將 All Conditions Gear 的經典風格、復古拼色與耐用物料，融入這雙標誌性跑鞋輪廓。鞋面採用多層麂皮構成，上方側面飾以「Infinite Sable」，下方則過渡至深邃的「Cacao Wow」色調。鞋舌、後跟及中底加入黑色細節，令亮眼的越野風格點綴更為突出。向復古戶外鞋款致敬的「Tropical Teal」色調，點綴鞋帶系統——以耐用帆布環取代此鞋款慣用的幼布帶——並覆蓋鞋底可見的 Air 氣墊單元。搶眼的「Hot Pink」則點綴鞋舌與後跟標誌，亦見於深色橡膠外底的部分位置。Nike Air Max 95「ACG」預定於 2026 年秋冬季度推出。 Click here to view full gallery at Hypebeast",
    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-air-max-95-acg-IX6347-200-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
    "link": "https://hypebeast.com/zh/2026/9/nike-air-max-95-acg-ix6347-200-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "CPFM 與 Nike 將曾擱置的 Flea 1 鞋型以「Barley」配色重新推出",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-24",
-   "content": "摘要 Cactus Plant Flea Market 與 Nike 正式宣佈將於 2026 年 Holiday 季節帶回原本被腰斬的 Flea 1 鞋型。「Barley」配色採用帶苔綠感的絎縫鞋身，搭配份量感十足、外擴誇張的鞋底，並以不對稱 Swoosh 標誌點綴。此鞋款預計在 2026 年 Holiday 季節發售，定價 180 美元，並會同步推出「Black」及「Sail」兩個配色版本。 名稱：CPFM x Nike Flea 1「Barley」配色：Barley／Sail－Desert Moss－Brown Basalt產品編號：IU5238-700建議零售價：180 美元發售日期：2026 年假日季發售地點： NikeCactus Plant Flea Market 與 Nike 將重新推出一款此前未曾發售的鞋型，並帶來 Nike CPFM Flea 1「Barley」的實物近賞。這雙質感豐富的鞋款，原本的樣品因尺碼偏差而被擱置，如今終於回歸。鞋款以苔蘚綠色的「Barley」色調呈現，配上絎縫織物鞋面，並調整了品牌標誌的位置。鞋身外側中足位置設有縮短版 Swoosh，鞋領附近則點綴一枚較小的倒置 Swoosh。鞋面下方搭載厚重、彷如蔓生般延展的鞋底單元，突顯鞋型誇張的比例與觸感美學。Travis Scott 最近公開表示支持這款鞋後，品牌亦計劃在首發配色以外，同步推出「Black／Sail」配色。CPFM x Nike Flea 1「Barley」預計於 2026 年假日季發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fcpfm-cactus-plant-flea-market-nike-flea-1-barley-IU5238-700-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/cpfm-cactus-plant-flea-market-nike-flea-1-barley-iu5238-700-first-look-release-info",
    "lang": "zh",
    "relatedBrands": [
     "NIKE"
@@ -369,20 +365,6 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 27,
-   "title": "The Nike Air Max Goadome Low Goes Upscale in Croc-Embossed \"Black\" and \"Midnight Navy\"",
-   "source": "Hypebeast",
-   "date": "2026-09-24",
-   "content": "Name: Nike Air Max Goadome Low “Navy Croc,” Nike Air Max Goadome Low “Black Croc”Colorway: Midnight Navy/Black, BlackSKU: IV4517-400, IV4517-001MSRP: $175 USDRelease Date: October 6Where to Buy: SNKRSThe Nike Air Max Goadome Low is getting a more upscale look this fall with two croc-embossed leather colorways: one fully black and one in \"Midnight Navy.\" The Low is a sleeker, more streamlined take on its outdoor boot that keeps the rugged details underneath. These new pairs push that idea further by using a leather treatment normally associated with dress shoes.The croc embossing is what sets these pairs apart. The pattern covers nearly the entire upper, but it isn't uniform. The scale pattern gets bigger and heavier across the side panels and heel, then becomes tighter or smoother near the toe. That keeps the texture from looking flat. Perforations along the sides and collar add ventilat",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F24%2FftNike-Air-Max-Goadome-Low-Navy-Croc-Black-Croc-IV4517-400-IV4517-001-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-air-max-goadome-low-navy-croc-black-croc-iv4517-400-iv4517-001-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 28,
    "title": "The Nike Ja 4 “Deep Water” Has Officially Surfaced",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -395,7 +377,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 28,
    "title": "Nike Kobe 3 Protro “Ocra”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -408,7 +390,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 29,
    "title": "J Balvin x Air Jordan 4 “Amazonas” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -421,7 +403,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 30,
    "title": "Air Jordan 4014 “Ferrari” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -434,7 +416,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 31,
    "title": "Pokémon x adidas Megaride F50 “Pikachu”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -447,7 +429,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 32,
    "title": "Air Jordan 1 Low OG “Last Dance At The Garden” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -460,7 +442,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 33,
    "title": "PUMA MB.06 “Shooting Star” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -473,7 +455,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 34,
    "title": "Billionaire Boys Club x Reebok Club C 85 “Grey”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -486,7 +468,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 35,
    "title": "Jordan Tatum 5 “Sunrise”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -499,7 +481,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 36,
    "title": "Nike Air Force 1 Low ’01 “Subway Rat” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-23",
