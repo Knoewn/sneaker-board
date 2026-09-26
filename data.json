@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-25 16:05",
+ "updatedAt": "2026-09-26 08:06",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -21,14 +21,41 @@
   "NEW BALANCE",
   "NIKE",
   "PUMA",
+  "REEBOK",
   "SALOMON",
-  "UGG",
-  "VANS"
+  "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Nike 透過 AirWorks 計劃發表 3D 打印 Air Max Link",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-25",
+   "content": "Nike 正式推出 Nike Air Max Link，這是品牌創新 AirWorks 計劃孕育出的最新 3D 打印概念鞋款。這雙充滿未來感的鞋款由常駐北京的設計師 Marc Su 創作，旨在透過設計連結社群與文化。Su 形容這雙鞋是「由北京出發，為社群連結至我們的未來」，其結構與 Air Max 1000 有相似之處，同時借鑑 Nike 在 90 年代末 Alpha Project 時期的設計語言。鞋款以雕塑感中底為主軸，向上延伸並環繞鞋跟，後方則由層疊式結構支撐。平滑鞋面裁片由鞋跟一路延伸至鞋頭，配以尖角鞋面覆片及鞋領開口。為呼應 AirWorks 的核心理念，前掌直接嵌入兩個可見 Air 氣墊單元。繼 Motoi Hatsuki 早前的 AirWorks 項目後，Nike 預計會在 2027 年 Air Max Day 前，為親友小規模推出 Nike Air Max Link；至於更大規模的公開發售安排，目前尚未確認。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-air-max-link-3d-printed-via-airworks-program-new-silhouette-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-air-max-link-3d-printed-via-airworks-program-new-silhouette-revealed",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "J Balvin 與 Jordan Brand 以 Air Jordan 4「Amazonas」致敬哥倫比亞野生動物",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-25",
+   "content": "摘要 J Balvin 聯同 Jordan Brand 公布最新聯乘企劃，選用 Air Jordan 4 鞋型，並以「Amazonas」為題。設計以黃色鱷魚紋理皮革鞋身為焦點，配以雙語鞋帶扣飾與標誌性品牌細節。此鞋款將於 9 月 28 日率先登陸 J Balvin 網店，隨後在 10 月 2 日作更大規模發售，定價為 225 美元。 鞋名：J Balvin x Air Jordan 4「Amazonas」配色：Lemonade／Lemonade產品編號：IW2872-700建議零售價：225 美元發售日期：2026 年 9 月 28 日、2026 年 10 月 2 日購買渠道：J Balvin、NikeJordan Brand 與 J Balvin 正式揭曉 Air Jordan 4「Amazonas」，繼先前的 Air Jordan 1、2 及 3 企劃後，將持續合作延伸至第 4 款簽名鞋型。新配色直接取材自亞馬遜地區的野生動物與自然環境。鞋面採用黃色鱷魚紋皮革，從鞋頭至鞋跟均呈現亮面質感。為配合富紋理的鞋面，鞋款配備同色黃色網布、TPU 支撐翼、鞋帶及中底，令配色分佈更一致。當中的爬蟲類紋路，特別呼應棲息於亞馬遜的黃色鱷魚。鞋身各處加入專屬細節，包括不對稱鞋帶扣：一隻鞋印有「Just Do It」，另一隻則寫上「Solo Hazlo」。鞋跟位置印有 J Balvin 與 Jumpman 雙方標誌，鞋面亦融入壓印細節，突顯聯乘身分。J Balvin x Air Jordan 4「Amazonas」將於 2026 年 9 月 28 日率先透過 J Balvin 的網站發售，其後於 10 月 2 日全球廣泛推出，售價為 225 美元。 View this post on InstagramA post shared by J Balvin (@jbalvin) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fj-balvin-air-jordan-4-amazonas-iw2872-700-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/j-balvin-air-jordan-4-amazonas-iw2872-700-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
    "title": "Action Bronson 與 New Balance 為 2811 系列新增「Blackjacques」及「The Whisperer」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -41,7 +68,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 4,
    "title": "Nike First Sight Shadow 2026 秋冬近乎全海軍藍配色登場",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -54,7 +81,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 5,
    "title": "Kith 15 週年展覽完整展出 Ronnie Fieg 收藏的 1,849 雙鞋履檔案",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -67,7 +94,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 6,
    "title": "Yeat 在《TËNNIS》音樂錄像中預告未發售 Nike Air Max Goadome「Camo」",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -80,7 +107,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 7,
    "title": "The Whitaker Group 與 New Balance 以「Ostrich」皮革重塑 2010",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -93,7 +120,34 @@
    ]
   },
   {
-   "id": 6,
+   "id": 8,
+   "title": "Nike Unveils the 3D-Printed Air Max Link via AirWorks Program",
+   "source": "Hypebeast",
+   "date": "2026-09-25",
+   "content": "Nike has officially introduced the Nike Air Max Link, the latest 3D-printed concept emerging from the brand’s innovative AirWorks program. The futuristic model was created by Beijing-based designer Marc Su as a design concept connecting community and culture.Described by Su as a \"link from Beijing for community to our Future,\" the sneaker shares structural similarities with the Air Max 1000 while referencing design codes from Nike’s late-’90s Alpha Project era. The silhouette is defined by a sculpted midsole that rises and curves around the heel, supported by a layered backpiece. Smooth paneling extends from the heel toward the toe, accompanied by pointed upper overlays and collar openings. Anchoring the design to the core AirWorks ethos, two visible Air units are integrated directly into the forefoot.Following a prior AirWorks project by Motoi Hatsuki, a small family-and-friends run of ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F25%2Fnike-air-max-link-3d-printed-via-airworks-program-new-silhouette-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-air-max-link-3d-printed-via-airworks-program-new-silhouette-revealed",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "J Balvin and Jordan Brand Honor Colombian Wildlife With the Air Jordan 4 \"Amazonas\"",
+   "source": "Hypebeast",
+   "date": "2026-09-25",
+   "content": "Summary J Balvin and Jordan Brand have announced their latest collaboration on the Air Jordan 4 silhouette titled \"Amazonas\"The design features yellow crocodile-textured leather uppers accompanied by bilingual lace dubraes and signature brandingThe pair releases September 28 on J Balvin's webstore followed by a wider release on October 2 for $225 USD Name: J Balvin x Air Jordan 4 \"Amazonas\"Colorway: Lemonade/LemonadeSKU: IW2872-700MSRP: $225 USDRelease Date: September 28, 2026, October 2, 2026Where to Buy: J Balvin, NikeJordan Brand and J Balvin have officially revealed the Air Jordan 4 \"Amazonas\", moving their ongoing partnership to the fourth signature silhouette following previous Air Jordan 1, 2, and 3 projects. The new colorway draws direct inspiration from the wildlife and natural surroundings of the Amazon region.The construction is anchored by a yellow croc-textured leather upper",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F25%2Fj-balvin-air-jordan-4-amazonas-iw2872-700-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/j-balvin-air-jordan-4-amazonas-iw2872-700-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
    "title": "Action Bronson and New Balance Expand the 2811 Lineup With \"Blackjacques\" and \"The Whisperer\"",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -106,7 +160,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 11,
    "title": "The Nike First Sight Shadow Goes Almost All-Navy for Fall/Winter 2026",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -119,7 +173,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 12,
    "title": "Kith's 15th Anniversary Exhibition Puts Ronnie Fieg's Full 1,849-Pair Archive on Display",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -132,7 +186,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 13,
    "title": "Air Jordan 1 Low OG “Garden” Set for Release",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -145,7 +199,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 14,
    "title": "Yeat Teases Unreleased Nike Air Max Goadome “Camo” in \"TËNNIS\" Visual",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -158,7 +212,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 15,
    "title": "The Whitaker Group and New Balance Reframe the 2010 With \"Ostrich\" Leather",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -171,7 +225,45 @@
    ]
   },
   {
-   "id": 12,
+   "id": 16,
+   "title": "Ronnie Fieg Knows He's Him (EXCLUSIVE)",
+   "source": "Highsnobiety",
+   "date": "2026-09-25",
+   "content": "As Kith turns 15, Ronnie Fieg is taking a well-deserved look back on his unimpeachable archive of nearly 2,000 collaborative shoes.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/kith-ronnie-fieg-15th-anniversary-interview/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 17,
+   "title": "Blue Croc Leather Boots Never Looked This Rugged",
+   "source": "Highsnobiety",
+   "date": "2026-09-25",
+   "content": "Continuing a massive year-long resurgence for the rugged silhouette, Nike drops a luxurious, low-profile iteration with the Nike Air Max Goadome Low Navy Croc.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-midnight-navy-croc/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Bad Bunny’s Latest adidas Sneaker Is Embracing the Bulk",
+   "source": "Highsnobiety",
+   "date": "2026-09-25",
+   "content": "The adidas BadBo 1.1 by Bad Bunny arrives in Chalk White, Grey Two, and Pink, bringing a chunky profile and layered materials to the latest collaboration.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-badbo-11/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 19,
    "title": "Nike’s Rodent-Inspired Air Force 1 Sneaker Beats the Rat Race",
    "source": "Highsnobiety",
    "date": "2026-09-25",
@@ -184,7 +276,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 20,
    "title": "This Chocolatey Skateboard Dunk Feels Like It's Straight Out of 2006",
    "source": "Highsnobiety",
    "date": "2026-09-25",
@@ -197,7 +289,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 21,
    "title": "從城市公路延伸至碎石小徑：Salomon 正式發佈全新 Aero Glide 4 GRVL 與 Aero Blaze 4 GRVL GTX 兩大極致性能新作",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -210,7 +302,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 22,
    "title": "Nike 為 Air Force 1 Low Workboot「Shadow Brown」注入繩索鞋帶與金色五金元素",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -223,7 +315,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 23,
    "title": "Nike Air Max Goadome Low 以鱷魚壓紋「Black」及「Midnight Navy」配色展現高級質感",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -236,7 +328,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 24,
    "title": "Nike 以 Air Max 95「ACG」向復古戶外風格致敬",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -249,7 +341,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 25,
    "title": "CPFM 與 Nike 將曾擱置的 Flea 1 鞋型以「Barley」配色重新推出",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -262,7 +354,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 26,
    "title": "Nike Toughens Up the Air Force 1 Low Workboot \"Shadow Brown\" With Rope Laces and Gold Hardware",
    "source": "Hypebeast",
    "date": "2026-09-24",
@@ -276,7 +368,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 27,
    "title": "The Nike Air Max Goadome Low Goes Upscale in Croc-Embossed \"Black\" and \"Midnight Navy\"",
    "source": "Hypebeast",
    "date": "2026-09-24",
@@ -290,47 +382,33 @@
    ]
   },
   {
-   "id": 21,
-   "title": "Nike Pays Homage to Retro Outdoor Heritage With the Air Max 95 \"ACG\"",
-   "source": "Hypebeast",
+   "id": 28,
+   "title": "The Nike Ja 4 “Deep Water” Has Officially Surfaced",
+   "source": "Nice Kicks",
    "date": "2026-09-24",
-   "content": "Summary Nike is channeling vintage All Conditions Gear aesthetics for an upcoming Air Max 95 releaseThe silhouette combines Infinite Sable and Cacao Wow suede paneling with vibrant Tropical Teal and Hot Pink detailingThe outdoor-inspired sneaker is scheduled to drop during the Fall/Winter 2026 season for 190 USD Name: Nike Air Max 95 \"ACG\"Colorway: Surprise Cocoa/Black-Infinite Black Panther-Tropical TealSKU: IX6347-200MSRP: $190 USDRelease Date: Fall/Winter 2026Where to Buy: NikeNike is drawing from its rich trail archives for the upcoming Air Max 95 \"ACG.\" The new colorway applies classic All Conditions Gear styling, retro color blocking, and rugged materials to the iconic running silhouette.Constructed with a multi-layered suede upper, the design features \"Infinite Sable\" along the top side panels before transitioning into a deep \"Cacao Wow\" shade underneath. Black detailing grounds t",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2Fnike-air-max-95-acg-IX6347-200-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-air-max-95-acg-ix6347-200-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "New Balance Introduces the ABZORB 2000 Luxe",
-   "source": "Hypebeast",
-   "date": "2026-09-24",
-   "content": "New Balance is set to introduce the ABZORB 2000 Luxe, a new addition to its ABZORB 2000 lifestyle sneaker lineup.The ABZORB 2000 reimagines ABZORB, the cushioning technology introduced in 1993, for today. Drawing on the brand’s running heritage, the model pairs a futuristic yet classic design with a stitched upper combining synthetic leather and mesh, finished with its distinctive sole unit.The new release arrives in two colorways: the brown-based U20004E Y and the gray-based U20001 D3. Both pair understated uppers with contrasting materials and stitching, creating a chic finish that highlights the dimensional quality of the sculptural sole unit. Underfoot, full-length ABZORB foam and ABZORB SBS gel pods provide excellent shock absorption and durability for a comfortable ride.New Balance’s ABZORB 2000 Luxe U20004E Y and U20001 D3 are scheduled to be available for ¥24,200, including tax, ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fnew-balance-abzorb-2000-brown-new-color-release-info-001-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/new-balance-abzorb-2000-brown-new-color-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "CPFM and Nike Revive the Scrapped Flea 1 Silhouette in \"Barley\"",
-   "source": "Hypebeast",
-   "date": "2026-09-24",
-   "content": "Summary Cactus Plant Flea Market and Nike are officially bringing back the previously scrapped Flea 1 silhouette for Holiday 2026The Barley colorway features a mossy green quilted upper alongside a bulky overgrown sole and asymmetrical Swoosh brandingThe pair is scheduled to release during the Holiday 2026 season for 180 USD alongside an upcoming Black and Sail iteration Name: CPFM x Nike Flea 1 \"Barley\"Colorway: Barley/Sail-Desert Moss-Brown BasaltSKU: IU5238-700MSRP: $180 USDRelease Date: Holiday 2026Where to Buy: NikeCactus Plant Flea Market and Nike are reviving a previously unreleased silhouette with an in-hand look at the Nike CPFM Flea 1 \"Barley\". The heavily textured model returns after original sample runs were shelved due to sizing discrepancies.Rendered in a mossy green \"Barley\" hue, the sneaker utilizes a quilted textile upper paired with modified branding placements. A short",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F23%2Fcpfm-cactus-plant-flea-market-nike-flea-1-barley-IU5238-700-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/cpfm-cactus-plant-flea-market-nike-flea-1-barley-iu5238-700-first-look-release-info",
+   "content": "The Nike Ja 4 “Deep Water” is set to release on September 25, 2026, via exclusively at FootLocker.com for $140. Ja Morant… The post The Nike Ja 4 “Deep Water” Has Officially Surfaced appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/ja9742-400-5-1-e1789134539115.jpg",
+   "link": "https://www.nicekicks.com/nike-ja-4-deep-water-ja9742-400/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
    ]
   },
   {
-   "id": 24,
+   "id": 29,
+   "title": "Nike Kobe 3 Protro “Ocra”",
+   "source": "Nice Kicks",
+   "date": "2026-09-24",
+   "content": "The Nike Kobe 3 Protro “Ocra” is set to release on September 26, 2026, via SNKRS and select retailers for… The post Nike Kobe 3 Protro “Ocra” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_kobe-3-protro-black-and-white-iq5340-001-release-date-3-1-e1789742543471.jpeg",
+   "link": "https://www.nicekicks.com/nike-kobe-3-protro-ocra-iq5340-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 30,
    "title": "J Balvin x Air Jordan 4 “Amazonas” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -343,7 +421,20 @@
    ]
   },
   {
-   "id": 25,
+   "id": 31,
+   "title": "Air Jordan 4014 “Ferrari” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-24",
+   "content": "The Air Jordan 4014 “Ferrari” is expected to release on September 26, 2026, via SNKRS and select retailers at the retail of… The post Air Jordan 4014 “Ferrari” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2025/10/ir2082-600-5-e1765977206486.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-4014-ferrari-ir2082-600/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 32,
    "title": "Pokémon x adidas Megaride F50 “Pikachu”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -356,7 +447,46 @@
    ]
   },
   {
-   "id": 26,
+   "id": 33,
+   "title": "Air Jordan 1 Low OG “Last Dance At The Garden” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-24",
+   "content": "Michael Jordan’s final season in Chicago produced another memorable moment on March 8, 1998, when he laced up an original… The post Air Jordan 1 Low OG “Last Dance At The Garden” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_air-jordan-1-low-og-garden-ir0088-001-release-date-3-e1789742697894.jpeg",
+   "link": "https://www.nicekicks.com/air-jordan-1-low-og-last-dance-at-the-garden-ir0088-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 34,
+   "title": "PUMA MB.06 “Shooting Star” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-24",
+   "content": "The PUMA MB.06 “Shooting Star” is releasing on September 25, 2026, via PUMA.com and select retailers for $130. Check out the… The post PUMA MB.06 “Shooting Star” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/26AW_BB_MB06_Shooting-Star_Product_1037_RGB-1-scaled-e1787858351704.jpg",
+   "link": "https://www.nicekicks.com/puma-mb-06-shooting-star-313624-01/",
+   "lang": "en",
+   "relatedBrands": [
+    "PUMA"
+   ]
+  },
+  {
+   "id": 35,
+   "title": "Billionaire Boys Club x Reebok Club C 85 “Grey”",
+   "source": "Nice Kicks",
+   "date": "2026-09-24",
+   "content": "The Karol G x Reebok Club C 85 Vintage “Born Classic. Worn Together” is releasing exclusively online on September 18, 2026 via bbcicecream.com. A… The post Billionaire Boys Club x Reebok Club C 85 “Grey” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/FW26_BBCCLUBC85_organic-9-1-scaled-e1788882100581.png",
+   "link": "https://www.nicekicks.com/billionaire-boys-club-reebok-club-c-85-grey-100285332/",
+   "lang": "en",
+   "relatedBrands": [
+    "REEBOK"
+   ]
+  },
+  {
+   "id": 36,
    "title": "Jordan Tatum 5 “Sunrise”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -369,146 +499,13 @@
    ]
   },
   {
-   "id": 27,
-   "title": "Dagger's Destroyed Vans Aren't \"Something to Be Coveted\" (Exclusive)",
-   "source": "Highsnobiety",
-   "date": "2026-09-24",
-   "content": "We talked to Luke Rainey, the founder of Berlin-based skatewear brand Dagger, about the custom Vans and new short film at his Dover Street Market Paris pop-up.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/dagger-vans/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "Nike Takes Its Best Ballet Shoe Into the Jungle",
-   "source": "Highsnobiety",
-   "date": "2026-09-24",
-   "content": "Nike's Air Jordan Pointe SE is a dainty ballet sneaker gunning for the top of the hybrid shoe hierarchy.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-jordan-pointe-se-leopard-sneaker/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "J. Cole 推出首款獨立球鞋 Dreamer Indie 5000",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-23",
-   "content": "摘要 J. Cole 將推出他首款獨立運作的鞋款設計，命名為 Dreamer Indie 5000。此鞋於意大利製造，以復古籃球鞋為靈感，鞋身及中底皆覆以合成物料拼接層次。這雙球鞋將於 9 月 23 日在 North Carolina 的 Fayetteville 正式發售，售價資訊有待公布。 J. Cole 與其 Dreamer 品牌正式推出 Dreamer Indie 5000，這是這位饒舌歌手首款獨立發佈的球鞋。這個鞋款延續他此前與 PUMA 的合作，亦是多年來獨立開發鞋履的成果。球鞋於意大利製造，從復古籃球鞋汲取視覺設計靈感，呈現經典多片式運動鞋的美學。鞋面以合成材質覆片在基底結構上交錯延伸，稜角分明的拼片設計亦直接貫穿鞋底單元。此番發佈緊隨 J. Cole 與 PUMA 的首輪合作於 2021 年結束後離開品牌。全面轉為獨立營運後，Dreamer Indie 5000 在其個人品牌旗下，著重歐洲製造及直接掌控創意主導權。J. Cole x Dreamer Indie 5000 將於 2026 年 9 月 23 日在 North Carolina 州 Fayetteville 發售；售價及更廣泛的發售資訊目前尚待公布。 View this post on InstagramA post shared by Cole World (@realcoleworld) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fj-cole-his-first-independent-sneaker-silhouette-dreamer-indie-5000-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/j-cole-his-first-independent-sneaker-silhouette-dreamer-indie-5000-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "PUMA"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "New Balance 2010 注入亮面「Firecracker／Sea Salt」配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-23",
-   "content": "摘要 New Balance 正式發布 2010 全新配色「Firecracker」與「Sea Salt」。這雙 lifestyle 跑鞋以亮澤黑色覆面配搭偏淺的 Sea Salt 紋理物料，並點綴醒目鮮紅細節，形成鮮明對比。目前此鞋款已率先於海外上架，美國地區則預定於 2026 年秋冬季發售。 名稱：New Balance 2010「Firecracker／Sea Salt」配色：Firecracker／Sea Salt產品編號：U20101Z0建議零售價：145 美元發售日期：2026 秋冬季度發售渠道： New BalanceNew Balance 正式發布 New Balance 2010「Firecracker／Sea Salt」，為這雙帶復古跑鞋風格的鞋型注入高對比配色。深色鞋款以鮮紅細節、亮面覆片及淺色紡織鞋面基底組成。鞋面以多重質感物料打造，鞋頭、中足及後跟位置均採用外露的 Sea Salt 網布。大部分鞋面裁片覆以亮面黑色飾片，為透氣鞋面增添視覺層次。Firecracker Red 細節勾勒出標誌性的黑色「N」標誌，並延伸至鞋舌、鞋領內襯、鞋帶及鞋頭部分。鞋底方面，厚實的黑色中底在後跟附近加入深紅色緩震膠囊，呼應配色的主調細節。全黑單色外底則讓視線集中於鞋面鮮明的色塊拼接。New Balance 2010「Firecracker／Sea Salt」現已於指定海外零售商發售，美國市場預計將於 2026 秋冬季度迎來更廣泛的上市。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnew-balance-2010-firecracker-sea-salt-u20101z0-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/new-balance-2010-firecracker-sea-salt-u20101z0-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 31,
+   "id": 37,
    "title": "Nike Air Force 1 Low ’01 “Subway Rat” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-23",
    "content": "New York’s most infamous commuter takes over the Nike Air Force 1 ’01 with the aptly nicknamed “Subway Rat.” The… The post Nike Air Force 1 Low ’01 “Subway Rat” October 2026 Release Date & Info appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/09/iv6999-001-5-1-e1790189346924.jpg",
    "link": "https://www.nicekicks.com/nike-air-force-1-low-01-subway-rat-iv6999-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "Oregon Ducks x Nike Air Foamposite One “Black Mummy” November 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-23",
-   "content": "The Oregon Ducks x Nike Air Foamposite One “Black Mummy” is expected to release on November 9, 2026, via SNKRS… The post Oregon Ducks x Nike Air Foamposite One “Black Mummy” November 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/iz7806-001-1-1-e1790257575446.jpg",
-   "link": "https://www.nicekicks.com/oregon-ducks-nike-air-foamposite-one-black-mummy-iz7806-001-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Air Jordan 5 WMNS “Sunset” September 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-23",
-   "content": "The 2006 Air Jordan 5 WMNS “Sunset” is set to make a retro comeback on September 25, 2026, via Nike.com… The post Air Jordan 5 WMNS “Sunset” September 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/iv5678-102-5-e1789176676753.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-5-wmns-sunset-iv5678-102/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "Kids Air Jordan 6 Low “Fearless” October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-23",
-   "content": "The Kids Air Jordan 6 Low “Fearless” is releasing on October 2, 2026, via Nike.com and select retailers for $155. Check out the photo… The post Kids Air Jordan 6 Low “Fearless” October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/768878-001-5-e1790183930484.jpg",
-   "link": "https://www.nicekicks.com/kids-air-jordan-6-low-fearless-768878-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "Anthony Edwards x adidas Adifoam Mule “Bliss Blue” October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-23",
-   "content": "The Anthony Edwards x adidas Adifoam Mule “Bliss Blue” is set to release on October 1, 2026, via adidas.com and… The post Anthony Edwards x adidas Adifoam Mule “Bliss Blue” October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/KZ9165_1-1-e1790182726991.jpg",
-   "link": "https://www.nicekicks.com/anthony-edwards-adidas-adifoam-mule-bliss-blue-kz9165/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "Nike Air Max 1000 “Stone/Burgundy Crush”",
-   "source": "Nice Kicks",
-   "date": "2026-09-23",
-   "content": "Manufactured by Zellerfeld, the Nike Air Max 1000 reimagines the iconic Air Max 1 silhouette and reinvents what Nike Air… The post Nike Air Max 1000 “Stone/Burgundy Crush” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/NIKE_AM1000.3_STONE-BUR_LEFTLATERAL_STILL_V2_1080x1440-e1790182311137.png",
-   "link": "https://www.nicekicks.com/nike-air-max-1000-stone-burgundy-crush-jv2916-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 37,
-   "title": "Tom Sachs x NikeCraft General Purpose Shoe “Demerits”",
-   "source": "Nice Kicks",
-   "date": "2026-09-23",
-   "content": "The Tom Sachs x NikeCraft General Purpose Shoe “Demerits” is releasing on September 30, 2026, via Store.TomSachs.com . A global release… The post Tom Sachs x NikeCraft General Purpose Shoe “Demerits” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/02/IMG_8866.png",
-   "link": "https://www.nicekicks.com/tom-sachs-nikecraft-general-purpose-shoe-demerits-fz1363-002/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
