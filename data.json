@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-27 08:07",
+ "updatedAt": "2026-09-27 16:05",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -23,12 +23,25 @@
   "PUMA",
   "REEBOK",
   "SALOMON",
-  "UGG"
+  "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Nike’s Colorful Retro Runner Is Screaming Serious Vintage Track Energy",
+   "source": "Highsnobiety",
+   "date": "2026-09-27",
+   "content": "Nike’s ACG LDV returns in a fresh blue and yellow colorway, bringing a retro running silhouette a more unexpected look with pops of color throughout.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-acg-ldv-hyper-royal/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
    "title": "Nike 以 Air Force 1 Low ’01「Subway Rat」致敬紐約市文化",
    "source": "Hypebeast 中文",
    "date": "2026-09-26",
@@ -41,7 +54,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 3,
    "title": "LOEWE Double L Loafer 將品牌標誌融入皮革之中",
    "source": "Hypebeast 中文",
    "date": "2026-09-26",
@@ -52,7 +65,7 @@
    "relatedBrands": []
   },
   {
-   "id": 3,
+   "id": 4,
    "title": "Nike Pays Homage to NYC Culture With the Air Force 1 Low ’01 \"Subway Rat\"",
    "source": "Hypebeast",
    "date": "2026-09-26",
@@ -65,7 +78,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 5,
    "title": "The LOEWE Double L Loafer Makes Its Logo Part of the Leather",
    "source": "Hypebeast",
    "date": "2026-09-26",
@@ -76,7 +89,7 @@
    "relatedBrands": []
   },
   {
-   "id": 5,
+   "id": 6,
    "title": "Where To Buy the Air Jordan 1 Low OG “Last Dance At The Garden”",
    "source": "Nice Kicks",
    "date": "2026-09-26",
@@ -89,7 +102,72 @@
    ]
   },
   {
-   "id": 6,
+   "id": 7,
+   "title": "Vans’ Waterproof Skate Boot Is Winter's Strongest Solider",
+   "source": "Highsnobiety",
+   "date": "2026-09-26",
+   "content": "Vans' SK8-Hi GORE-TEX Insulated MTE \"Autumn Brown\" sneaker-boot can handle winter's worst with stylish ease.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-sk8-hi-gore-tex-insulated-mte-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "This adidas Samba Mary Jane Is Doing the Most (Complimentary)",
+   "source": "Highsnobiety",
+   "date": "2026-09-26",
+   "content": "TTT MSW remixes the adidas Samba Jane sneaker with a variety of fabrics & prints for an absolutely extra 2026 collaboration.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/ttt-msw-adidas-samba-jane/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Nike’s Black Italian Air Max Dress Shoe Is Straight From 2002",
+   "source": "Highsnobiety",
+   "date": "2026-09-26",
+   "content": "Nike's dressy Air Max Dolce sneakers lands in the original \"Black/Sport Red\" colorway from 2002 for an upcoming release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-dolce-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Nike’s Slick Air Force 1 Boot Is Ready for Alien Combat",
+   "source": "Highsnobiety",
+   "date": "2026-09-26",
+   "content": "Nike's futuristic Air Force 1 Sage Hi boots are back in all-black for the Fall 2026 season. It's ready for battle again.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-sage-hi-boots/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Nike’s Best-Looking Hiking Sneaker Brings Cookies & Cream to the Trails",
+   "source": "Highsnobiety",
+   "date": "2026-09-26",
+   "content": "Nike's ACG Zegama Hike sneaker goes cookies & cream mode with its newest \"Black/Cream II\" colorway. Here's everything on the simple, tasty release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-acg-zegama-hike-black-cream/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 12,
    "title": "New Balance’s Clean-Cut Skate Shoe Just Got a Nice Update",
    "source": "Highsnobiety",
    "date": "2026-09-26",
@@ -102,7 +180,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 13,
    "title": "adidas' Bejeweled Superstar Is the Belle of the Ball",
    "source": "Highsnobiety",
    "date": "2026-09-26",
@@ -115,7 +193,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 14,
    "title": "Nike 透過 AirWorks 計劃發表 3D 打印 Air Max Link",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -128,7 +206,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 15,
    "title": "J Balvin 與 Jordan Brand 以 Air Jordan 4「Amazonas」致敬哥倫比亞野生動物",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -142,7 +220,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 16,
    "title": "Action Bronson 與 New Balance 為 2811 系列新增「Blackjacques」及「The Whisperer」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -155,7 +233,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 17,
    "title": "Nike First Sight Shadow 2026 秋冬近乎全海軍藍配色登場",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -168,7 +246,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 18,
    "title": "Kith 15 週年展覽完整展出 Ronnie Fieg 收藏的 1,849 雙鞋履檔案",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -181,7 +259,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 19,
    "title": "Yeat 在《TËNNIS》音樂錄像中預告未發售 Nike Air Max Goadome「Camo」",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -194,7 +272,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 20,
    "title": "The Whitaker Group 與 New Balance 以「Ostrich」皮革重塑 2010",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -207,7 +285,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 21,
    "title": "Nike Unveils the 3D-Printed Air Max Link via AirWorks Program",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -220,7 +298,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 22,
    "title": "J Balvin and Jordan Brand Honor Colombian Wildlife With the Air Jordan 4 \"Amazonas\"",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -234,7 +312,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 23,
    "title": "Action Bronson and New Balance Expand the 2811 Lineup With \"Blackjacques\" and \"The Whisperer\"",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -247,7 +325,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 24,
    "title": "The Nike First Sight Shadow Goes Almost All-Navy for Fall/Winter 2026",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -260,7 +338,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 25,
    "title": "Kith's 15th Anniversary Exhibition Puts Ronnie Fieg's Full 1,849-Pair Archive on Display",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -273,7 +351,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 26,
    "title": "Air Jordan 1 Low OG “Garden” Set for Release",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -286,7 +364,7 @@
    ]
   },
   {
-   "id": 21,
+   "id": 27,
    "title": "Yeat Teases Unreleased Nike Air Max Goadome “Camo” in \"TËNNIS\" Visual",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -299,7 +377,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 28,
    "title": "The Whitaker Group and New Balance Reframe the 2010 With \"Ostrich\" Leather",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -312,7 +390,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 29,
    "title": "Bad Bunny x adidas BadBo 1.1 “Chalk White” September Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-25",
@@ -325,7 +403,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 30,
    "title": "Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-25",
@@ -338,32 +416,7 @@
    ]
   },
   {
-   "id": 25,
-   "title": "Ronnie Fieg Knows He's Him (EXCLUSIVE)",
-   "source": "Highsnobiety",
-   "date": "2026-09-25",
-   "content": "As Kith turns 15, Ronnie Fieg is taking a well-deserved look back on his unimpeachable archive of nearly 2,000 collaborative shoes.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/kith-ronnie-fieg-15th-anniversary-interview/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 26,
-   "title": "Blue Croc Leather Boots Never Looked This Rugged",
-   "source": "Highsnobiety",
-   "date": "2026-09-25",
-   "content": "Continuing a massive year-long resurgence for the rugged silhouette, Nike drops a luxurious, low-profile iteration with the Nike Air Max Goadome Low Navy Croc.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-midnight-navy-croc/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 27,
+   "id": 31,
    "title": "從城市公路延伸至碎石小徑：Salomon 正式發佈全新 Aero Glide 4 GRVL 與 Aero Blaze 4 GRVL GTX 兩大極致性能新作",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -376,7 +429,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 32,
    "title": "Nike 為 Air Force 1 Low Workboot「Shadow Brown」注入繩索鞋帶與金色五金元素",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -389,7 +442,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 33,
    "title": "Nike Air Max Goadome Low 以鱷魚壓紋「Black」及「Midnight Navy」配色展現高級質感",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -402,7 +455,7 @@
    ]
   },
   {
-   "id": 30,
+   "id": 34,
    "title": "The Nike Ja 4 “Deep Water” Has Officially Surfaced",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -415,7 +468,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 35,
    "title": "Nike Kobe 3 Protro “Ocra”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -428,7 +481,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 36,
    "title": "J Balvin x Air Jordan 4 “Amazonas” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -441,7 +494,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 37,
    "title": "Air Jordan 4014 “Ferrari” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -454,7 +507,7 @@
    ]
   },
   {
-   "id": 34,
+   "id": 38,
    "title": "Pokémon x adidas Megaride F50 “Pikachu”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -467,7 +520,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 39,
    "title": "PUMA MB.06 “Shooting Star” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -480,7 +533,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 40,
    "title": "Billionaire Boys Club x Reebok Club C 85 “Grey”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
