@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-26 16:06",
+ "updatedAt": "2026-09-27 08:07",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -29,6 +29,19 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Nike 以 Air Force 1 Low ’01「Subway Rat」致敬紐約市文化",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-26",
+   "content": "摘要 Nike 即將推出一雙以 New York City 標誌性地鐵老鼠為靈感的 Air Force 1 Low ’01。這雙球鞋採用 College Grey 長絨麂皮鞋身，並以 Pink Glaze 細節點綴，鞋跟更延伸出仿「老鼠尾」設計。主題細節包括印有薄餅切片圖案的鞋墊、MetroCard 吊牌，以及繡上 NYC 字樣的客製鞋舌刺繡。 名稱：Nike Air Force 1 '01「Subway Rat」配色：College Grey／Pink Glaze貨號：IV6999-001建議零售價：美元 150 元發售日期：2026 年 10 月 7 日發售渠道：NikeNike 透過 Air Force 1 Low ’01「Subway Rat」，向紐約市粗獷文化中極具代表性的存在致敬。這雙即將推出的鞋款為經典輪廓注入呼應大都會風貌的主題細節，包括薄餅圖案與取材自交通系統的五金配件。鞋款採用「College Grey」與「Pink Glaze」配色，鞋頭、鞋身側面、Swoosh、鞋舌均以富觸感的長毛麂皮打造。柔和粉紅色點綴 Swoosh 標誌、中底與半透明橡膠外底；一條幼細粉紅飾條則從鞋跟後方延伸而出，模仿老鼠尾巴。鞋舌背面繡有「NYC」字樣，並由小型 Swoosh 貫穿，直接呼應紐約市次文化；左右鞋墊拼在一起後，會呈現一整片薄餅圖案。鞋款另附一枚仿黃色 MetroCard 的吊牌，其上配有醒目的藍色 Swoosh，以及一對額外的粉紅色替換鞋帶。Nike Air Force 1 Low ’01「Subway Rat」將於 2026 年 10 月 7 日發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-air-force-1-01-low-subway-rat-iv6999-001-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-air-force-1-01-low-subway-rat-iv6999-001-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
    "title": "LOEWE Double L Loafer 將品牌標誌融入皮革之中",
    "source": "Hypebeast 中文",
    "date": "2026-09-26",
@@ -39,7 +52,20 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 3,
+   "title": "Nike Pays Homage to NYC Culture With the Air Force 1 Low ’01 \"Subway Rat\"",
+   "source": "Hypebeast",
+   "date": "2026-09-26",
+   "content": "Summary Nike is releasing an Air Force 1 Low ’01 inspired by New York City’s iconic subway ratThe sneaker features College Grey shaggy suede uppers accented by Pink Glaze detailing and a rat tail heel extensionKey thematic details include pizza slice insoles a MetroCard hangtag and custom NYC tongue embroidery Name: Nike Air Force 1 '01 \"Subway Rat\"Colorway: College Grey/Pink GlazeSKU: IV6999-001MSRP: $150 USDRelease Date: October 7, 2026Where to Buy: NikeNike is celebrating an iconic fixture of New York City grit with the Air Force 1 Low ’01 \"Subway Rat\". The upcoming release transforms the classic silhouette with thematic details nodding to the metropolis, complete with pizza graphics and transit-inspired hardware. Dressed in a \"College Grey\" and \"Pink Glaze\" colorway, the upper is constructed from tactile shaggy suede across the toe boxes, quarter panels, Swooshes, and tongue. Soft pi",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F24%2Fnike-air-force-1-01-low-subway-rat-iv6999-001-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-air-force-1-01-low-subway-rat-iv6999-001-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
    "title": "The LOEWE Double L Loafer Makes Its Logo Part of the Leather",
    "source": "Hypebeast",
    "date": "2026-09-26",
@@ -50,7 +76,33 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 3,
+   "id": 5,
+   "title": "Where To Buy the Air Jordan 1 Low OG “Last Dance At The Garden”",
+   "source": "Nice Kicks",
+   "date": "2026-09-26",
+   "content": "Michael Jordan’s final season in Chicago produced another memorable moment on March 8, 1998, when he laced up an original… The post Where To Buy the Air Jordan 1 Low OG “Last Dance At The Garden” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_air-jordan-1-low-og-garden-ir0088-001-release-date-3-e1789742697894.jpeg",
+   "link": "https://www.nicekicks.com/air-jordan-1-low-og-last-dance-at-the-garden-ir0088-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "New Balance’s Clean-Cut Skate Shoe Just Got a Nice Update",
+   "source": "Highsnobiety",
+   "date": "2026-09-26",
+   "content": "The New Balance Numeric Brandon Westgate 508 arrives in Reflection with Fairweather Blue, pairing a clean, understated base with subtle hits of blue.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-numeric-brandon-westgate-508/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 7,
    "title": "adidas' Bejeweled Superstar Is the Belle of the Ball",
    "source": "Highsnobiety",
    "date": "2026-09-26",
@@ -63,7 +115,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 8,
    "title": "Nike 透過 AirWorks 計劃發表 3D 打印 Air Max Link",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -76,7 +128,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 9,
    "title": "J Balvin 與 Jordan Brand 以 Air Jordan 4「Amazonas」致敬哥倫比亞野生動物",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -90,7 +142,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 10,
    "title": "Action Bronson 與 New Balance 為 2811 系列新增「Blackjacques」及「The Whisperer」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -103,7 +155,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 11,
    "title": "Nike First Sight Shadow 2026 秋冬近乎全海軍藍配色登場",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -116,7 +168,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 12,
    "title": "Kith 15 週年展覽完整展出 Ronnie Fieg 收藏的 1,849 雙鞋履檔案",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -129,7 +181,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 13,
    "title": "Yeat 在《TËNNIS》音樂錄像中預告未發售 Nike Air Max Goadome「Camo」",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -142,7 +194,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 14,
    "title": "The Whitaker Group 與 New Balance 以「Ostrich」皮革重塑 2010",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -155,7 +207,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 15,
    "title": "Nike Unveils the 3D-Printed Air Max Link via AirWorks Program",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -168,7 +220,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 16,
    "title": "J Balvin and Jordan Brand Honor Colombian Wildlife With the Air Jordan 4 \"Amazonas\"",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -182,7 +234,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 17,
    "title": "Action Bronson and New Balance Expand the 2811 Lineup With \"Blackjacques\" and \"The Whisperer\"",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -195,7 +247,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 18,
    "title": "The Nike First Sight Shadow Goes Almost All-Navy for Fall/Winter 2026",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -208,7 +260,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 19,
    "title": "Kith's 15th Anniversary Exhibition Puts Ronnie Fieg's Full 1,849-Pair Archive on Display",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -221,7 +273,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 20,
    "title": "Air Jordan 1 Low OG “Garden” Set for Release",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -234,7 +286,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 21,
    "title": "Yeat Teases Unreleased Nike Air Max Goadome “Camo” in \"TËNNIS\" Visual",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -247,7 +299,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 22,
    "title": "The Whitaker Group and New Balance Reframe the 2010 With \"Ostrich\" Leather",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -260,7 +312,33 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 23,
+   "title": "Bad Bunny x adidas BadBo 1.1 “Chalk White” September Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-25",
+   "content": "The Bad Bunny x adidas BadBo 1.1 “Chalk White” is set to release on September 26, 2026, via adidas CONFIRMED… The post Bad Bunny x adidas BadBo 1.1 “Chalk White” September Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/LC5466_6-1-e1788806087550.jpg",
+   "link": "https://www.nicekicks.com/bad-bunny-adidas-badbo-1-1-chalk-white-lc5466/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-25",
+   "content": "The Bad Bunny x adidas BadBo 1.0 “Night Navy” is releasing on September 26, 2026, via adidas CONFIRMED and select… The post Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/LB5996_6-1-e1789771255677.jpg",
+   "link": "https://www.nicekicks.com/bad-bunny-adidas-badbo-1-0-night-navy-lb5996/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 25,
    "title": "Ronnie Fieg Knows He's Him (EXCLUSIVE)",
    "source": "Highsnobiety",
    "date": "2026-09-25",
@@ -271,7 +349,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 20,
+   "id": 26,
    "title": "Blue Croc Leather Boots Never Looked This Rugged",
    "source": "Highsnobiety",
    "date": "2026-09-25",
@@ -285,20 +363,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
-   "title": "Bad Bunny’s Latest adidas Sneaker Is Embracing the Bulk",
-   "source": "Highsnobiety",
-   "date": "2026-09-25",
-   "content": "The adidas BadBo 1.1 by Bad Bunny arrives in Chalk White, Grey Two, and Pink, bringing a chunky profile and layered materials to the latest collaboration.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-badbo-11/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 22,
+   "id": 27,
    "title": "從城市公路延伸至碎石小徑：Salomon 正式發佈全新 Aero Glide 4 GRVL 與 Aero Blaze 4 GRVL GTX 兩大極致性能新作",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -311,7 +376,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 28,
    "title": "Nike 為 Air Force 1 Low Workboot「Shadow Brown」注入繩索鞋帶與金色五金元素",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -324,7 +389,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 29,
    "title": "Nike Air Max Goadome Low 以鱷魚壓紋「Black」及「Midnight Navy」配色展現高級質感",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -337,34 +402,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
-   "title": "Nike 以 Air Max 95「ACG」向復古戶外風格致敬",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-24",
-   "content": "摘要 Nike 正為即將登場的 Air Max 95 新作注入復古 All Conditions Gear 美學。此鞋款以 Infinite Sable 和 Cacao Wow 麂皮拼接為基底，點綴鮮明的 Tropical Teal 與 Hot Pink 細節。這雙戶外風格球鞋預計於 2026 年秋冬季度發售，定價 190 美元。 名稱：Nike Air Max 95「ACG」配色：Surprise Cocoa／Black-Infinite Black Panther-Tropical TealSKU：IX6347-200建議零售價：190 美元發售日期：2026 年秋冬季度發售渠道： NikeNike 即將推出的 Air Max 95「ACG」，從品牌豐富的越野鞋檔案中汲取靈感。全新配色將 All Conditions Gear 的經典風格、復古拼色與耐用物料，融入這雙標誌性跑鞋輪廓。鞋面採用多層麂皮構成，上方側面飾以「Infinite Sable」，下方則過渡至深邃的「Cacao Wow」色調。鞋舌、後跟及中底加入黑色細節，令亮眼的越野風格點綴更為突出。向復古戶外鞋款致敬的「Tropical Teal」色調，點綴鞋帶系統——以耐用帆布環取代此鞋款慣用的幼布帶——並覆蓋鞋底可見的 Air 氣墊單元。搶眼的「Hot Pink」則點綴鞋舌與後跟標誌，亦見於深色橡膠外底的部分位置。Nike Air Max 95「ACG」預定於 2026 年秋冬季度推出。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-air-max-95-acg-IX6347-200-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-air-max-95-acg-ix6347-200-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Nike Toughens Up the Air Force 1 Low Workboot \"Shadow Brown\" With Rope Laces and Gold Hardware",
-   "source": "Hypebeast",
-   "date": "2026-09-24",
-   "content": "Name: Nike Air Force 1 Low “Shadow Brown”Colorway: Shadow Brown/Gum Medium Brown-Light Armory Blue-Baroque BrownSKU: IZ4702-235MSRP: TBCRelease Date: Fall/Winter 2026The Nike Air Force 1 Low Workboot \"Shadow Brown\" is set to bring rugged materials and outdoor-inspired hardware to Nike's classic low-top this Fall/Winter 2026. Official images show an upper made mostly of canvas and suede, with details borrowed more from work boots than from the court.Shadow Brown canvas forms the base of the upper, covering the toe box, quarter panels, and heel. Darker Baroque Brown suede is layered on top at the toe, Swoosh, heel tab, and eyelets. Around the lacing area, the suede has serrated edges that add texture where the laces cross the upper.The laces and hardware carry most of the workboot feel. Light Armory Blue rope laces break up the brown palette and run through metallic gold lace loops rather ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F24%2FNike-Air-Force-1-Low-Shadow-Brown-IZ4702-235-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-air-force-1-low-shadow-brown-iz4702-235-official-images",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 27,
+   "id": 30,
    "title": "The Nike Ja 4 “Deep Water” Has Officially Surfaced",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -377,7 +415,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 31,
    "title": "Nike Kobe 3 Protro “Ocra”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -390,7 +428,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 32,
    "title": "J Balvin x Air Jordan 4 “Amazonas” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -403,7 +441,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 33,
    "title": "Air Jordan 4014 “Ferrari” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -416,7 +454,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 34,
    "title": "Pokémon x adidas Megaride F50 “Pikachu”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -429,20 +467,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
-   "title": "Air Jordan 1 Low OG “Last Dance At The Garden” September 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-24",
-   "content": "Michael Jordan’s final season in Chicago produced another memorable moment on March 8, 1998, when he laced up an original… The post Air Jordan 1 Low OG “Last Dance At The Garden” September 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_air-jordan-1-low-og-garden-ir0088-001-release-date-3-e1789742697894.jpeg",
-   "link": "https://www.nicekicks.com/air-jordan-1-low-og-last-dance-at-the-garden-ir0088-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 33,
+   "id": 35,
    "title": "PUMA MB.06 “Shooting Star” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -455,7 +480,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 36,
    "title": "Billionaire Boys Club x Reebok Club C 85 “Grey”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -465,32 +490,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "REEBOK"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "Jordan Tatum 5 “Sunrise”",
-   "source": "Nice Kicks",
-   "date": "2026-09-24",
-   "content": "The Jordan Tatum 5 is built around Jayson Tatum’s controlled style of play, combining a lightweight feel with a utility… The post Jordan Tatum 5 “Sunrise” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/jordan-brand-tatum-5-sunrise-kids-1-scaled-e1788995342490.jpg",
-   "link": "https://www.nicekicks.com/jordan-tatum-5-sunrise-io1746-401/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "Nike Air Force 1 Low ’01 “Subway Rat” October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-23",
-   "content": "New York’s most infamous commuter takes over the Nike Air Force 1 ’01 with the aptly nicknamed “Subway Rat.” The… The post Nike Air Force 1 Low ’01 “Subway Rat” October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/iv6999-001-5-1-e1790189346924.jpg",
-   "link": "https://www.nicekicks.com/nike-air-force-1-low-01-subway-rat-iv6999-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
    ]
   }
  ]
