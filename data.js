@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-28 08:08",
+ "updatedAt": "2026-09-28 16:07",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -29,6 +29,90 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Dr. Martens x Sage Nation Launch First-Ever Collaboration",
+   "source": "Hypebeast",
+   "date": "2026-09-28",
+   "content": "Dr. Martens and Sage Nation have unveiled their first-ever collaboration, sparking a dialogue through their distinct yet shared philosophies on contemporary craftsmanship. This partnership marks the second release in the Dr. Martens \"Statements in Craft\" series.The Made in England collection reimagines the classic Dr. Martens 1461 shoe through Sage Nation's distinct design language. Each pair reflects a mutual commitment to craft and quality, constructed from Classic Calf full-grain leather finished with natural oil and wax to develop a subtle, vintage pull-up effect over time. Sourced from the esteemed British tannery C.F. Stead, the leather upper is detailed with double welt stitching that splits through the front of the toe, echoing Sage Nation's signature Box Pleat trousers.The 3-eye silhouette is accented with tonal stitching, a single brushed silver eyelet, and matching flat waxed ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fdr-martens-x-sage-nation-collab-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/dr-martens-x-sage-nation-collab-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 2,
+   "title": "SSZ and WTAPS® Collaborate for the Second Time in Five Years",
+   "source": "Hypebeast",
+   "date": "2026-09-28",
+   "content": "SSZ, which conveys the mood of the moment through music, art, and messages rooted in surf and skate culture, has announced its second collaboration with WTAPS®—the first in five years. Following their initial partnership in 2021, this latest endeavor celebrates the 30th anniversary of WTAPS® and the 10th anniversary of SSZ.This collection features seven pieces centered around the mood of the “good old Japanese businessman.” With shirts based on the silhouette of a classic dress shirt and straight-leg trousers, the lineup incorporates nostalgic elements while proposing a style that blurs the lines between formal and casual.The lineup includes the white SHIRT 01 (27,500 yen) and brown checked SHIRT 02 (30,800 yen), TROUSERS in gray and black (36,300 yen), as well as a TEE (16,500 yen), FOOTWEAR (49,500 yen), BELT (16,500 yen), and BANDANNA (4,400 yen).The SSZ x WTAPS® collaboration items w",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fssz-wtaps-second-time-in-five-years-collaboration-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/ssz-wtaps-second-time-in-five-years-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 3,
+   "title": "PLATEAU STUDIO and SUBU Debut Their First Collaboration: the Lace-Up F-LINE",
+   "source": "Hypebeast",
+   "date": "2026-09-28",
+   "content": "Taiwanese rising brand PLATEAU STUDIO has released its first collaborative shoe with SUBU, the Japanese winter-sandal brand celebrating its 10th anniversary this year.The collaboration introduces the PLATEAU x SUBU LACE UP SLIPPER, which reimagines SUBU’s F-LINE through PLATEAU STUDIO’s distinctive sensibility. Its defining feature is a lace-up construction—the first of its kind for SUBU.The deep brown upper is paired with asymmetrically colored laces, adding details reminiscent of sneakers and outdoor footwear. Color flecks made from recycled materials are scattered throughout the off-white outsole, while shades that echo the laces lend it a vintage-inspired finish.SUBU embroidery appears at the side, while the PLATEAU STUDIO logo is placed on the footbed. Each pair also comes with a dedicated drawstring bag in the same material as the upper, finished with the PLATEAU STUDIO logo.The PL",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fimgi_86_150214-51-c2355c9d6c9251d617a2f8cd0981a5b0-3900x2600-1-scaled-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/plateau-studio-subu-collabo-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 4,
+   "title": "How to Wear KEEN’s Jasper Merko: Stylist Ryota Yamada’s Take",
+   "source": "Hypebeast",
+   "date": "2026-09-28",
+   "content": "KEEN’s Jasper Merko reworks the brand’s signature Jasper—a hybrid of climbing and comfort shoe—with a more minimal, lightweight design. Its low-profile sole, inspired by contour lines, gives the shoe a distinctive presence while creating a feel that is closer to being barefoot. A classic upper meets a modern sole, and that quiet contrast defines this pair’s character.Ryota Yamada styles the Jasper Merko in a way that feels true to his own sensibility. For this shoot, he chose a tonal-gray pair. He offset a statement top with deliberately worn-in sweats, avoiding an overly polished head-to-toe look. He also swapped out the shoelaces for a different pair and retied them himself before the shoot. Leaving just a little undone is one of the balances he values in his everyday styling, too.What stood out most when he tried them on, he says, was the distinctive feel of the sole. Rather than sink",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fkeen-jasper-merko-ryota-yamada-style-interviews-ft.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/keen-jasper-merko-ryota-yamada-style-interviews",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 5,
+   "title": "The Air Jordan 1 High OG “Royal” Makes Its Long-Awaited Return",
+   "source": "Hypebeast",
+   "date": "2026-09-28",
+   "content": "Jordan Brand is bringing back the Air Jordan 1 High “Royal.”First released in 1985, “Royal” is one of the Air Jordan 1’s original colorways. Unlike “Bred” and “Chicago,” it was frequently seen not only on the court but off it as well. At a time when wearing basketball shoes as everyday footwear was far from common, it became a defining colorway of the Air Jordan 1’s presence on the streets.The upper is crafted entirely from leather, with a black base accented by “Varsity Royal” at the ankle, heel counter, and toe box. The familiar Wings logo—a basketball with wings—appears at the collar. Nike’s proprietary Air technology is built into the midsole for cushioning and responsiveness.The Air Jordan 1 High “Royal” goes on sale October 10 at 9 a.m. via SNKRS and other retailers. It is priced at ¥26,730, including tax. Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fair-jordan-1-high-og-royal-revival-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/air-jordan-1-high-og-royal-revival-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "LM.RT Launches the New Balance 2010 Inspired by the Myth of Icarus",
+   "source": "Hypebeast",
+   "date": "2026-09-28",
+   "content": "New Balance and LM.RT, the label led by Liam Maher, have unveiled the 2010 Designed by LM.RT collaboration.Rooted in the tailoring and manufacturing traditions passed down through Maher’s family, LM.RT is a brand that values material texture and craftsmanship. For this New Balance 2010, the design draws on the Greek myth of Daedalus and Icarus, interpreting the theme of “balance.”The upper layers dark brown suede, mesh, and warm brown leather, with a warm orange logo as an accent. An aged finish recreates the look of scuffs and fraying for a worn-in feel. Underfoot, the midsole features ABZORB cushioning. The shoe also comes with custom packaging adorned with mythological motifs including wax, wings, and flames.The New Balance 2010 Designed by LM.RT is priced at ¥26,400, including tax. It is available now through LM.RT’s official online store, New Balance’s official channels, GR8, and NU",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fnew-balance-lm-rt-2010-release-info-00.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/new-balance-lm-rt-2010-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Nike’s Sleekest Original Sneaker Has Gone Into Night Mode",
+   "source": "Highsnobiety",
+   "date": "2026-09-28",
+   "content": "Nike’s Moon Shoe OG gets a darker makeover in a Black/Sail colorway, bringing the sleek original runner a stealthier look.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-moon-shoe-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 8,
    "title": "New Balance Built a Handsome Hiking Dad Sneaker for the Streets",
    "source": "Highsnobiety",
    "date": "2026-09-27",
@@ -41,7 +125,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 9,
    "title": "adidas' Next-Up Mary Jane Is a Triple Threat",
    "source": "Highsnobiety",
    "date": "2026-09-27",
@@ -54,7 +138,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 10,
    "title": "Nike’s Croc Air Max Sneaker Is a Rugged Classic With a Bite",
    "source": "Highsnobiety",
    "date": "2026-09-27",
@@ -68,7 +152,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 11,
    "title": "Nike's Sophisticated Air Max Loafer Stands on Business",
    "source": "Highsnobiety",
    "date": "2026-09-27",
@@ -81,7 +165,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 12,
    "title": "Nike’s All-Orange WNBA Forces Are Perfect",
    "source": "Highsnobiety",
    "date": "2026-09-27",
@@ -94,7 +178,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 13,
    "title": "Salomon's Whimsical GORE-TEX XT-6 Sneaker Is Still Super Sturdy",
    "source": "Highsnobiety",
    "date": "2026-09-27",
@@ -107,7 +191,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 14,
    "title": "A Humble Court Classic Becomes the Literal Jewel in the adidas Crown",
    "source": "Highsnobiety",
    "date": "2026-09-27",
@@ -120,20 +204,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
-   "title": "Nike’s Colorful Retro Runner Is Screaming Serious Vintage Track Energy",
-   "source": "Highsnobiety",
-   "date": "2026-09-27",
-   "content": "Nike’s ACG LDV returns in a fresh blue and yellow colorway, bringing a retro running silhouette a more unexpected look with pops of color throughout.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-acg-ldv-hyper-royal/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 9,
+   "id": 15,
    "title": "Nike 以 Air Force 1 Low ’01「Subway Rat」致敬紐約市文化",
    "source": "Hypebeast 中文",
    "date": "2026-09-26",
@@ -146,7 +217,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 16,
    "title": "LOEWE Double L Loafer 將品牌標誌融入皮革之中",
    "source": "Hypebeast 中文",
    "date": "2026-09-26",
@@ -157,7 +228,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 11,
+   "id": 17,
    "title": "Nike Pays Homage to NYC Culture With the Air Force 1 Low ’01 \"Subway Rat\"",
    "source": "Hypebeast",
    "date": "2026-09-26",
@@ -170,7 +241,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 18,
    "title": "The LOEWE Double L Loafer Makes Its Logo Part of the Leather",
    "source": "Hypebeast",
    "date": "2026-09-26",
@@ -181,7 +252,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 13,
+   "id": 19,
    "title": "Where To Buy the Air Jordan 1 Low OG “Last Dance At The Garden”",
    "source": "Nice Kicks",
    "date": "2026-09-26",
@@ -194,7 +265,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 20,
    "title": "Nike 透過 AirWorks 計劃發表 3D 打印 Air Max Link",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -207,7 +278,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 21,
    "title": "J Balvin 與 Jordan Brand 以 Air Jordan 4「Amazonas」致敬哥倫比亞野生動物",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -221,7 +292,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 22,
    "title": "Action Bronson 與 New Balance 為 2811 系列新增「Blackjacques」及「The Whisperer」配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -234,7 +305,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 23,
    "title": "Nike First Sight Shadow 2026 秋冬近乎全海軍藍配色登場",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -247,7 +318,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 24,
    "title": "Kith 15 週年展覽完整展出 Ronnie Fieg 收藏的 1,849 雙鞋履檔案",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -260,7 +331,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 25,
    "title": "Yeat 在《TËNNIS》音樂錄像中預告未發售 Nike Air Max Goadome「Camo」",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -273,7 +344,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 26,
    "title": "The Whitaker Group 與 New Balance 以「Ostrich」皮革重塑 2010",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -286,7 +357,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 27,
    "title": "Nike Unveils the 3D-Printed Air Max Link via AirWorks Program",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -299,7 +370,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 28,
    "title": "J Balvin and Jordan Brand Honor Colombian Wildlife With the Air Jordan 4 \"Amazonas\"",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -313,7 +384,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 29,
    "title": "Action Bronson and New Balance Expand the 2811 Lineup With \"Blackjacques\" and \"The Whisperer\"",
    "source": "Hypebeast",
    "date": "2026-09-25",
@@ -326,72 +397,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
-   "title": "The Nike First Sight Shadow Goes Almost All-Navy for Fall/Winter 2026",
-   "source": "Hypebeast",
-   "date": "2026-09-25",
-   "content": "Name: Nike First Sight Shadow “Gridiron”Colorway: Black/Metallic Dark GreySKU: HQ2410-003MSRP: $145 USDRelease Date: TBCThe Nike First Sight Shadow is getting a new navy colorway for Fall/Winter 2026, reportedly called \"Gridiron.\" The pair follows the model's earlier releases in the women's-exclusive First Sight line and uses one dominant tone to put the focus on the silhouette's sculpted construction.The shell is where the design starts. The First Sight Shadow's upper is a single molded piece with a seamless, sculpted finish that recalls Nike's Foamposite. Here it is coated almost entirely in navy, so the eye goes to the contours rather than to any color blocking.What little contrast there is sits in the details. Small black Swooshes are placed near the toe instead of in the usual midfoot spot. The raised ovals along each side open up to show Metallic Silver underneath. With the rest of",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F25%2FftNike-First-Sight-Shadow-Gridiron-HQ2410-003-Official-Images.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-first-sight-shadow-gridiron-hq2410-003-official-images",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "Kith's 15th Anniversary Exhibition Puts Ronnie Fieg's Full 1,849-Pair Archive on Display",
-   "source": "Hypebeast",
-   "date": "2026-09-25",
-   "content": "Summary Kith is showing all 1,849 collaborative pairs from Ronnie Fieg's footwear archive together in public for the first timeThe pairs are grouped by brand and arranged chronologically, following the index of the new book page by pageThe exhibition runs in Brooklyn in the days leading up to Kith's 15th anniversary and the book's global release Kith is marking its 15th anniversary with Kith: The Footwear Archive, a new book published by Assouline, and a Brooklyn exhibition that puts Ronnie Fieg's entire collaborative footwear archive on display. From September 25 to September 27, all 1,849 pairs Kith has produced with partner brands over its 15 years will be shown together in public for the first time.Rather than a curated greatest-hits edit, Kith is showing every pair. Each partner brand gets its own section, the releases within it run chronologically, and the sequence follows the book",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F25%2FFTKith-the-Footwear-Archive-Exhibit-15th-anniversary-Announcement-Opening-book-release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/kith-the-footwear-archive-exhibit-15th-anniversary-announcement-opening-book-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Air Jordan 1 Low OG “Garden” Set for Release",
-   "source": "Hypebeast",
-   "date": "2026-09-25",
-   "content": "Jordan Brand is releasing the Air Jordan 1 Low OG in a new “Garden” colorway.The low-top model pairs a black base with red accents and metallic-gold details. Premium materials and a contemporary take on a classic color palette are complemented by floral motifs throughout—an homage to Chicago, a city that holds special meaning for Jordan. Special packaging will also be available.The model draws inspiration from Michael Jordan’s final game as a Chicago Bull, played at New York’s storied arena. Although the Air Jordan 13 was his latest signature model at the time, Jordan took the court in the Air Jordan 1 “Chicago,” his first signature shoe. The floral pattern pays homage to that game at Madison Square Garden.The Air Jordan 1 Low OG “Garden” goes on sale via SNKRS at 9:00 a.m. on Saturday, September 26. It is priced at ¥22,550, including tax. Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fair-jordan-1-low-og-garden-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/air-jordan-1-low-og-garden-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "Yeat Teases Unreleased Nike Air Max Goadome “Camo” in \"TËNNIS\" Visual",
-   "source": "Hypebeast",
-   "date": "2026-09-25",
-   "content": "Summary Yeat previewed an unreleased Nike Air Max Goadome in his new TËNNIS music videoThe teaser features a tan and brown desert-camo upper set atop a black Air-cushioned soleOfficial release details for the potential collaboration have not been confirmed Rapper Yeat has teased what appears to be an upcoming Nike Air Max Goadome \"Camo\", spotted in the official music video for his track \"TËNNIS.\" Filmed on location in Switzerland, the visual showcases the unreleased footwear alongside tracks from his surprise COCOON project.Departing from the studded all-black execution tied to his initial Nike footwear project, the previewed boot features a tan and brown desert-camo upper. Underfoot, the silhouette maintains the traditional Goadome setup, resting atop a black Air-cushioned sole unit. The newly previewed iteration features tan and brown desert-camouflage paneling across the upper. Surfac",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F25%2Fyeat-unreleased-nike-air-max-goadome-low-camo-tennis-music-video-preview-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/yeat-unreleased-nike-air-max-goadome-low-camo-tennis-music-video-preview",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "The Whitaker Group and New Balance Reframe the 2010 With \"Ostrich\" Leather",
-   "source": "Hypebeast",
-   "date": "2026-09-25",
-   "content": "Summary The Whitaker Group has teamed up with New Balance on an ostrich-print iteration of the 2010 silhouetteThe design pairs steel grey ostrich-textured leather and light beige mesh with subtle purple hits on the heel pods and tongue tagThe collaborative sneaker launches on September 25 in unisex sizing for 155 USD Name: The Whitaker Group x New Balance 2010 \"Ostrich\"Colorway: Ostrich/Beige/GreySKU: U2010GR1MSRP: $155 USDRelease Date: September 25, 2026Where to Buy: New BalanceThe Whitaker Group and New Balance have officially unveiled The Whitaker Group x New Balance 2010 \"Ostrich\". The collaborative release transforms the runner silhouette with elevated material textures and a muted color palette.The upper is anchored by steel grey leather overlays detailing the toe box and lower side panels, finished with an ostrich-print pattern. Light beige mesh covers the remainder of the upper a",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F24%2Fthe-whitaker-group-new-balance-2010-ostrich-U2010GR1-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/the-whitaker-group-new-balance-2010-ostrich-u2010gr1-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 29,
+   "id": 30,
    "title": "Bad Bunny x adidas BadBo 1.1 “Chalk White” September Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-25",
@@ -404,7 +410,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 31,
    "title": "Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-25",
@@ -417,7 +423,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 32,
    "title": "從城市公路延伸至碎石小徑：Salomon 正式發佈全新 Aero Glide 4 GRVL 與 Aero Blaze 4 GRVL GTX 兩大極致性能新作",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -430,7 +436,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 33,
    "title": "Nike 為 Air Force 1 Low Workboot「Shadow Brown」注入繩索鞋帶與金色五金元素",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -443,7 +449,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 34,
    "title": "Nike Air Max Goadome Low 以鱷魚壓紋「Black」及「Midnight Navy」配色展現高級質感",
    "source": "Hypebeast 中文",
    "date": "2026-09-24",
@@ -456,7 +462,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 35,
    "title": "The Nike Ja 4 “Deep Water” Has Officially Surfaced",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -469,7 +475,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 36,
    "title": "Nike Kobe 3 Protro “Ocra”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -482,7 +488,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 37,
    "title": "J Balvin x Air Jordan 4 “Amazonas” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -495,7 +501,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 38,
    "title": "Air Jordan 4014 “Ferrari” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -508,7 +514,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 39,
    "title": "Pokémon x adidas Megaride F50 “Pikachu”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -521,7 +527,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 40,
    "title": "PUMA MB.06 “Shooting Star” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-24",
@@ -534,7 +540,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 41,
    "title": "Billionaire Boys Club x Reebok Club C 85 “Grey”",
    "source": "Nice Kicks",
    "date": "2026-09-24",
