@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-27 16:05",
+ "updatedAt": "2026-09-28 08:08",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -23,12 +23,104 @@ window.SNEAKER_DATA = {
   "PUMA",
   "REEBOK",
   "SALOMON",
-  "VANS"
+  "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "New Balance Built a Handsome Hiking Dad Sneaker for the Streets",
+   "source": "Highsnobiety",
+   "date": "2026-09-27",
+   "content": "New Balance debuts the TL900, a genuinely cool hiking-style sneaker with street swag. Here's everything on the \"Sport Green\" release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-tl900-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "adidas' Next-Up Mary Jane Is a Triple Threat",
+   "source": "Highsnobiety",
+   "date": "2026-09-27",
+   "content": "adidas' Samba Ballet is the brand's newest Mary Jane sneaker hybrid featuring three straps. It's a literal triple threat.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-samba-ballet-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Nike’s Croc Air Max Sneaker Is a Rugged Classic With a Bite",
+   "source": "Highsnobiety",
+   "date": "2026-09-27",
+   "content": "Nike's Air Max Goadome Low sneaker-boot gets a black croc skin makeover for the Fall 2026 season. It's truly off the scales.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-black-croc-skin/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Nike's Sophisticated Air Max Loafer Stands on Business",
+   "source": "Highsnobiety",
+   "date": "2026-09-27",
+   "content": "Nike's Air Max Phenomena loafer gets a \"Shadow Brown\" makeover, resulting in an extremely classy & undoubtedly fall-ready take on the dress shoe hybrid.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-phenomena-shadow-brown/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Nike’s All-Orange WNBA Forces Are Perfect",
+   "source": "Highsnobiety",
+   "date": "2026-09-27",
+   "content": "The WNBA gets its own all-orange, all-suede Air Force 1 Low Jewel sneaker, a.k.a the perfect league sneaker. Here's everything on the release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/wnba-nike-air-force-1-sneakers-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Salomon's Whimsical GORE-TEX XT-6 Sneaker Is Still Super Sturdy",
+   "source": "Highsnobiety",
+   "date": "2026-09-27",
+   "content": "OFFSPRING added a level of wearable whimsy to Salomon's GORE-TEX XT-6 sneaker.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/salomon-gore-tex-xt-6-sneaker/",
+   "lang": "en",
+   "relatedBrands": [
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "A Humble Court Classic Becomes the Literal Jewel in the adidas Crown",
+   "source": "Highsnobiety",
+   "date": "2026-09-27",
+   "content": "Tapping into one of the most prevalent hardware trends in the scene right now, the Three Stripes elevates its shell-toe titan with the adidas Superstar Jewel.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-superstar-jewel/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 8,
    "title": "Nike’s Colorful Retro Runner Is Screaming Serious Vintage Track Energy",
    "source": "Highsnobiety",
    "date": "2026-09-27",
@@ -41,7 +133,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 9,
    "title": "Nike 以 Air Force 1 Low ’01「Subway Rat」致敬紐約市文化",
    "source": "Hypebeast 中文",
    "date": "2026-09-26",
@@ -54,7 +146,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 10,
    "title": "LOEWE Double L Loafer 將品牌標誌融入皮革之中",
    "source": "Hypebeast 中文",
    "date": "2026-09-26",
@@ -65,7 +157,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 4,
+   "id": 11,
    "title": "Nike Pays Homage to NYC Culture With the Air Force 1 Low ’01 \"Subway Rat\"",
    "source": "Hypebeast",
    "date": "2026-09-26",
@@ -78,7 +170,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 12,
    "title": "The LOEWE Double L Loafer Makes Its Logo Part of the Leather",
    "source": "Hypebeast",
    "date": "2026-09-26",
@@ -89,7 +181,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 13,
    "title": "Where To Buy the Air Jordan 1 Low OG “Last Dance At The Garden”",
    "source": "Nice Kicks",
    "date": "2026-09-26",
@@ -99,97 +191,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "JORDAN"
-   ]
-  },
-  {
-   "id": 7,
-   "title": "Vans’ Waterproof Skate Boot Is Winter's Strongest Solider",
-   "source": "Highsnobiety",
-   "date": "2026-09-26",
-   "content": "Vans' SK8-Hi GORE-TEX Insulated MTE \"Autumn Brown\" sneaker-boot can handle winter's worst with stylish ease.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-sk8-hi-gore-tex-insulated-mte-sneakers/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 8,
-   "title": "This adidas Samba Mary Jane Is Doing the Most (Complimentary)",
-   "source": "Highsnobiety",
-   "date": "2026-09-26",
-   "content": "TTT MSW remixes the adidas Samba Jane sneaker with a variety of fabrics & prints for an absolutely extra 2026 collaboration.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/ttt-msw-adidas-samba-jane/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 9,
-   "title": "Nike’s Black Italian Air Max Dress Shoe Is Straight From 2002",
-   "source": "Highsnobiety",
-   "date": "2026-09-26",
-   "content": "Nike's dressy Air Max Dolce sneakers lands in the original \"Black/Sport Red\" colorway from 2002 for an upcoming release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-dolce-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 10,
-   "title": "Nike’s Slick Air Force 1 Boot Is Ready for Alien Combat",
-   "source": "Highsnobiety",
-   "date": "2026-09-26",
-   "content": "Nike's futuristic Air Force 1 Sage Hi boots are back in all-black for the Fall 2026 season. It's ready for battle again.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-force-1-sage-hi-boots/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 11,
-   "title": "Nike’s Best-Looking Hiking Sneaker Brings Cookies & Cream to the Trails",
-   "source": "Highsnobiety",
-   "date": "2026-09-26",
-   "content": "Nike's ACG Zegama Hike sneaker goes cookies & cream mode with its newest \"Black/Cream II\" colorway. Here's everything on the simple, tasty release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-acg-zegama-hike-black-cream/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 12,
-   "title": "New Balance’s Clean-Cut Skate Shoe Just Got a Nice Update",
-   "source": "Highsnobiety",
-   "date": "2026-09-26",
-   "content": "The New Balance Numeric Brandon Westgate 508 arrives in Reflection with Fairweather Blue, pairing a clean, understated base with subtle hits of blue.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-numeric-brandon-westgate-508/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 13,
-   "title": "adidas' Bejeweled Superstar Is the Belle of the Ball",
-   "source": "Highsnobiety",
-   "date": "2026-09-26",
-   "content": "adidas just took its all-black Superstar sneaker to the jeweler & totally iced it out.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-superstar-jewel-sneaker/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
    ]
   },
   {
