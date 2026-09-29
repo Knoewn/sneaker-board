@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-28 16:07",
+ "updatedAt": "2026-09-29 08:08",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,19 +16,254 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
-  "ASICS",
+  "CONVERSE",
+  "HOKA",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
-  "PUMA",
-  "REEBOK",
   "SALOMON",
+  "SAUCONY",
   "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "JJJJound x New Balance 990v3 最新啡色麂皮鞋款曝光",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-28",
+   "content": "總結2026 秋冬 JJJJound x New Balance 990v3 鞋款採用一體成型的啡色麂皮鞋面，配以鮮明的黑色點綴，捨棄了以往的網眼底層。這雙美國製造的鞋款採用低調的品牌標誌設計，目前尚未公布官方發售日期與零售定價。在 2026 秋冬系列中，JJJJound 與 New Balance 再次帶來 New Balance 990v3 的全新版本。自雙方合作初期以來，這款鞋型已被多次重新演繹。990v3 不僅是 2018 年首款登場的 JJJJ x NB 鞋型，此後更陸續推出了四款作品。如今，JJJJound x New Balance 990v3 以熟悉的色調回歸，以俐落的設計手法呼應首款合作鞋款的色彩。設計採用全啡色麂皮鞋面，並以側面的黑色 N 字標誌和全黑鞋底營造對比效果。鞋舌上印有「New Balance USA」字樣，彰顯其源自製鞋商 New England 生產線的美國製造血統。JJJJound 的標誌性圖案僅出現在黑色鞋墊上，貫徹這家 Montreal 品牌一向低調的作風。值得留意的是，這雙鞋借鑑了 2018 年 JJJJ x NB 990v3 的部分細節，包括啡色麂皮鞋面設計及黑色 N 字標誌。然而在 2026 年版本中，JJJJound 捨棄了同色系細節與網眼底層，改以一體成型的外觀呈現，僅以少數搶眼的黑色細節作點綴。截至撰文之時，JJJJound 尚未公布這款最新 New Balance 990v3 鞋作的官方發售日期與零售定價。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fjjjjound-new-balance-990v3-release-date-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/jjjjound-new-balance-990v3-release-date-fw26-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Willy Chavarria 與 adidas Originals 攜手為 2026 秋季重塑 Megaride 鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-28",
+   "content": "名稱： Willy Chavarria x adidas Originals Mega Willy Low、Willy Chavarria x adidas Originals Willy Mega Mid配色： Black 與 Agave、BlackSKU： 有待公佈建議零售價： $230 美元、$280 美元發售日期： 10 月 3 日購買點： adidas、CONFIRMED 應用程式adidas Originals 與 Willy Chavarria 以 Megaride 企劃為核心打造 2026 秋季系列，帶來 Black 與 Agave 配色的 Mega Willy Low，以及 Black 版本的 Willy Mega Mid。這個 10 月登場的系列汲取了 90 年代運動服飾的靈感，並將 adidas 的經典輪廓按比例放大，延續設計師在比例、身份認同及其自身文化根源上的持續探索。鞋款提供兩種筒高選擇。低筒 Mega Willy Low 備有 Black 及 Agave 兩種配色，而 Willy Mega Mid 則將鞋領提升至中筒設計，僅提供 Black 版本。這三對鞋款共同為雙方聯乘的 Megaride 陣容注入俐落的日常造型與中筒選擇。服飾方面同樣遵循比例放大的設計邏輯。整體輪廓呈現出寬鬆且刻意營造的 Oversized 剪裁，借鑒了復古運動服的剪裁並專為層次穿搭而設。Chavarria Track Jacket 與 Track Pant 構成系列的主打套裝，並輔以 Chavarria Dazzle Short 與 Dazzle LS Jersey。紅色的三間條紋成為整個系列的核心點綴，為 adidas 最具標誌性的細節帶來色彩變化。Chavarria 的個人符號主導了系列中的圖案設計。Dark Rose Tee 採用了他作品中反覆出現的玫瑰圖案。而 Chavarria Chicano Sweatshirt 則運用了取自墨西哥國旗的紅、白、綠三色點綴，直接向設計師的墨西哥裔美國人根源致敬。無論是鞋款還是服飾，熟悉的 adidas 經典輪廓皆透過 Ch",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FWilly-Chavarria-adidas-Originals-fall-winter-2026-FW26-Collaboration-collection-Mega-Willy-Low-Willy-Mega-Mid-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/willy-chavarria-adidas-originals-fall-winter-2026-fw26-collaboration-collection-mega-willy-low-willy-mega-mid-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "率先預覽 Bad Bunny x adidas Gazelle Indoor「Solar Gold」官方圖片",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-28",
+   "content": "鞋款名稱： Bad Bunny x adidas Gazelle Indoor「Solar Gold」配色： Solar Gold/Core Black款式編號： KI2592建議售價： $140 美元發售日期： 10 月 17 日發售點： adidasBad Bunny x adidas Gazelle Indoor「Solar Gold」官方圖片曝光，讓人一睹這位藝術家與這款復古鞋型聯乘系列的最新一員，鞋款預計將於 2026 年 10 月發售。設計建立在強烈的對比之上。金黃色覆蓋了從鞋頭到鞋跟的整個鞋面，側面的黑色三間條紋帶來最大的對比效果，成為這雙鞋最具辨識度的特徵。這次的色調是此聯乘系列一次明顯的轉變。早前的 Bad Bunny Gazelle Indoor 鞋款偏好褪色與大地色調，而「Solar Gold」則使用了更明亮、更飽和的色彩和更銳利的對比。這種雙色調設計也引起了關於其背後含義的討論。因為黃色和黑色讓人聯想到紐約市的士，有人將這雙鞋與 Bad Bunny 的「NUEVAYoL」時期聯繫起來，儘管 adidas 和 Bad Bunny 雙方均未證實此說法。媒體亦指出，雙方合作早期的鞋款都有與波多黎各地名相關的暱稱。目前，「Solar Gold」是這雙鞋的唯一名稱，官方宣傳活動可能會再為其命名。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FBad-Bunny-adidas-Gazelle-Indoor-Solar-Gold-KI2592-Official-Images-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/bad-bunny-adidas-gazelle-indoor-solar-gold-ki2592-official-images-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Nike Air Max 95 Big Bubble「Cow Print」捨棄印花改用真牛毛材質",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-28",
+   "content": "名稱： Nike Air Max 95 Big Bubble「Cow Print」配色： Phantom/Metallic Gold-Cacao Wow-Gum Medium BrownSKU： IR5113-001建議售價： $200 美元發售日期： 2026 年假日季Nike 這次以動物為靈感，為女裝 Air Max 95 Big Bubble 帶來全新「Cow Print」配色，鞋身覆蓋著真實的啡白雙色牛毛。品牌摒棄了傳統印花，改以真實毛髮打造牛皮圖案，令鞋款憑藉獨特質感而非平面圖案脫穎而出。牛毛材質覆蓋了 Air Max 95 標誌性的層次感側邊面板，完美展示出這款獨特圖案。底部的奶油色基調讓整體色調保持柔和，突顯出啡白相間的斑塊。鞋面其餘部分則以皮革與網眼材質填充，透過熟悉的面料來平衡牛毛的視覺效果。許多微小細節同樣採用了相近色調。啡色織帶穿過鞋帶孔，將綁帶區域與牛毛上的啡色巧妙呼應。側邊帶有爬行動物風格的紋理，增添了另一層動物元素。鞋跟處點綴了小巧的 Metallic Gold 金色 Swoosh 標誌，為原本充滿大地氣息的配色增添了一抹亮點。鞋面下方，這款鞋採用了近期 Air Max 95 常見的 Big Bubble 配置。中底配備可見式 Air 緩震系統，並搭配啡色橡膠外底，將鞋底與鞋面色調完美結合。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftNike-Air-Max-95-Big-Bubble-Cow-Print-IR5113-001-Official-Images.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-air-max-95-big-bubble-cow-print-ir5113-001-official-images",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Saucony 推出包含五款鞋履的全新「Space Cowboy」系列",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-28",
+   "content": "名稱： Saucony「Space Cowboy」系列建議售價： 待定發售日期： 10 月 2 日發售點： SauconySaucony 在其豐富的全新「Space Cowboy」系列中，將未來主義跑鞋美學與美式風情融為一體。此系列將經典西部圖案演繹於五款鞋型上，涵蓋典藏跑鞋、休閒鞋款及現代機能型號，焦點包括 Progrid Triumph 4、Progrid V2、586i、Endorphin Elite 3 及 Endorphin Azura 等鞋款。ProGrid Triumph 4「Space Cowboy」帶來此系列中最鮮明的未來感詮釋，將焦橙色網眼與皮革、高光澤電鍍覆面及 Saucony 標誌層疊結合。啡白相間的乳牛紋毛料覆蓋鞋頭與鞋跟部分，而黑色點綴與斑點繩索狀鞋帶則為這極具層次感的設計增添更多對比。ProGrid V2 採用較為溫暖的風格，將白色網眼與飾有西部風格裝飾縫線的干邑色皮革面料相配。鞋頭與鞋跟周圍的電鍍部分提供金屬質感作對比，而鞋領周圍的乳牛紋毛料點綴則進一步強化牧場主題。586i「Space Cowboy」摒棄動物紋理處理，轉而採用更直接借鑒傳統西部靴的細節。其以黑色為主的皮革鞋面飾有顯眼的白色對比縫線，包括鞋頭和側面的刺繡圖案，而黑白編織鞋帶則提升了視覺效果。由金屬鉚釘固定的寬大流蘇鞋舌成為標誌性特徵，帶來令人聯想到西部皮革工藝的流蘇飾面。半透明的啡色橡膠鞋底柔化了原本單調的色彩配置，與金屬感較重的 ProGrid 型號相比，賦予這款低筒鞋型更溫暖、復古的特質。Elite 3 在其黑色科技網眼鞋面上，於鞋舌及鞋領周圍點綴啡色仿麂皮細節，而一條乳牛紋飾帶環繞於其誇張的鏡面銀色中底上方，創造出此系列中西部質感與太空時代光澤之間最強烈的碰撞。Endorphin Azura 則反轉這種平衡，採用以白色為主的工程網眼鞋面，搭配黑色與電鍍細節及溫暖的啡色點綴，而乳牛紋圖案則包裹住其厚實的雕塑感中底部分。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fsaucony-space-cowboy-collection-saucony-progrid-triumph-4-s101200-1002-progrid-v2-s101247-1003-586i-s101246-1001-endorphin-elite-3-s100981-1018-endorphin-azura-s101348-1004-official-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/saucony-space-cowboy-collection-saucony-progrid-triumph-4-s101200-1002-progrid-v2-s101247-1003-586i-s101246-1001-endorphin-elite-3-s100981-1018-endorphin-azura-s101348-1004-official",
+   "lang": "zh",
+   "relatedBrands": [
+    "SAUCONY"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "SUGARHILL 與 Converse 聯乘 ALL STAR LGCY HI 展現歲月痕跡",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-28",
+   "content": "名稱： SUGARHILL x Converse ALL STAR LGCY HI配色： NaturalSKU： 31319080220建議零售價： ¥19,800 JPY（約 $125 USD）發售日期： 10 月 2 日購買點： Converse Japan日本男裝品牌 SUGARHILL 與 Converse 攜手合作，為 ALL STAR LGCY HI 帶來充滿質感與復古氣息的全新版本。這款聯乘高筒鞋以低調的「Natural」配色登場，重新演繹經典鞋型，並強調隨年月變化的物料質感。鞋面採用 SUGARHILL 原創的棉質斜紋布製成，並以特殊的 E*Denim 線編織，讓隱約的靛藍色透過紋理布料顯露出來。這種獨特的紡織工藝專為隨時間改變外觀而設計，讓鞋款在日常穿著中發展出自然的色彩變化與極具個人特色的穿著痕跡。這種復古氣息亦延伸至借鑒自舊版運動鞋的細節，包括高光澤金屬鞋帶孔與半透明生膠外底。其溫暖的琥珀色調與米色鞋面互相輝映，呈現出獨特的復古檔案風格。厚實的原色鞋帶讓鞋款初步展現出內斂氣質，而備用的薄荷灰鞋帶則帶來較冷色調的替換選擇。 View this post on Instagram A post shared by SUGARHILL (@sugarhill_tokyo) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fftsugarhill-converse-all-star-lgcy-hi-collaboration-natural-31319080220-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/sugarhill-converse-all-star-lgcy-hi-collaboration-natural-31319080220-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Nike Moon Shoe OG Leather SP 迎來 3 款復古風格配色回歸",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-28",
+   "content": "名稱： Nike Moon Shoe OG Leather SP建議零售價： 18,700 日圓（約 119 美元）發售日期： 10 月 1 日發售點： NikeNike 透過 Moon Shoe OG Leather SP 重塑其早期經典跑鞋輪廓，將鞋款傳統的輕巧尼龍結構替換為全皮革鞋面，為 2026 年秋季帶來更厚實且具結構感的設計。是次發行將早前預覽的皮革系列擴展至 3 款配色：「Black」、「Flax」與「University Red」。「Black」版本採用最具視覺張力的設計，以光滑黑色皮革搭配「Yellow Ochre」Swoosh 標誌與鞋跟品牌字樣，最後配以淺色生膠大底。「Flax」則傾向溫暖的復古色調，鞋面採用金啡色皮革，點綴「Pale Ivory」Swoosh 標誌與細微的「Malachite」細節；而「University Red」則以飽和的紅色皮革覆蓋低筒輪廓，與極大的黑色 Swoosh 標誌形成強烈對比。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-moon-shoes-sep-28-featured-image.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/nike-moon-shoe-og-leather-sp-black-yellow-ochre-gum-light-brown-iu3162-001-flax-pale-ivory-gum-med-brown-malachite-iu3162-200-university-red-black-gum-light-brown-iu3162-600-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "HOKA ORA PRIMO 以搶眼「Tidal Wave」配色回歸",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-28",
+   "content": "名稱：HOKA Ora Primo「Tidal Wave」配色：「Tidal Wave」型號：1141570-TWVB定價：¥18,700 JPY（約 $119 USD）發售日期：10 月 1 日購買渠道：HOKAHOKA 為其主打恢復功能的 ORA PRIMO 系列推出全新「Tidal Wave」配色，為這款具備未來感的套穿式鞋款注入更飽和的冷色調。深藍綠色調延伸至填充尼龍鞋身、鞋領及繩索狀彈性鞋帶，同色系縫線則勾勒出鞋款的絎縫裁片與弧形覆面。黑色包覆鞋頭防護檔板與下方立體中底，為鮮艷的鞋面奠定穩重的視覺基礎；側邊標誌、鞋帶環及鞋跟周圍的反光細節，則在光線照射下呈現微妙的視覺變化。柔軟的填充尼龍、紋理覆面與啞光黑色橡膠之間的對比，進一步突顯 ORA PRIMO 誇張、近乎戶外拖鞋般的輪廓比例。ORA PRIMO 最初作為 HOKA ORA 恢復系列的包趾延伸款式而誕生，透過輕量且具備出色緩震效果的鞋底，延續該系列強調跑後舒適度的焦點，同時提供比品牌恢復拖鞋更佳的保護與包覆性。填充鞋面以縫線加強結構，並在腳背處搭配粗大的繩索狀鞋帶；大底則採用 30% 回收橡膠製成，為日常戶外使用增添抓地力。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fhoka-ora-primo-tidal-wave-1141570-twvb-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/hoka-ora-primo-tidal-wave-1141570-twvb-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "HOKA"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Salomon 重新推出 SNOWCLOG OG 帶來三款冬季配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-28",
+   "content": "名稱： Salomon SNOWCLOG OG建議零售價： $125 美元發售日期： 現已發售發售點： SalomonSalomon 重新翻開其冬季檔案，帶回 SNOWCLOG OG，這款堅固耐穿的 Slip-on 鞋款完美平衡了戶外實用性與日常舒適感。為應對季節交替而生，是次回歸的鞋款帶來三種截然不同的配色：俐落的純色「Black」、搶眼高能見度的「Cyber Yellow」，以及大地色系的中性「Safari」。豐富的色彩選擇能滿足多樣化的造型偏好，無論是低調的城市機能風、引人注目的亮色穿搭，還是經典的 Gorpcore 戶外美學，都能輕鬆駕馭。SNOWCLOG OG 專為於濕滑街道與輕度越野路面之間無縫切換而設計，鞋面採用耐用抗候的材質，提供必備的保暖效果與防護性能以抵禦惡劣天氣。無鞋帶的 Slip-on 結構帶來輕鬆穿脫的體驗，而厚實且配備深坑紋的橡膠外底則為鞋款奠定基礎，在結冰或崎嶇不平的路面上提供出色的抓地力。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fsalomon-snowclog-og-black-l45389900-cyber-yellow-l45390000-safari-l45390100-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/salomon-snowclog-og-black-l45389900-cyber-yellow-l45390000-safari-l45390100-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "JJJJound x New Balance 990v3 Revealed in Tan Suede",
+   "source": "Hypebeast",
+   "date": "2026-09-28",
+   "content": "SummaryThe FW26 JJJJound x New Balance 990v3 features a monolithic tan suede upper with contrasting black accents, dropping the previous mesh base.The USA-made shoe includes discreet branding, though an official release date and retail price have not yet been announced.For FW26, JJJJound and New Balance are delivering yet another variant of the New Balance 990v3, a silhouette the collaborators have reimagined time and time again since the very start of their partnership. The 990v3 is not only the first JJJJ x NB silhouette, debuting in 2018, but also the subject of four more releases since then. Now the JJJJound x New Balance 990v3 returns in a familiar palette, echoing the hues of their debut shoe with a streamlined executionComposed of full tan suede uppers, the design gets contrast from a black N logo on the lateral and an all-black sole. Across the tongue, “New Balance USA” calls out",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F28%2Fjjjjound-new-balance-990v3-release-date-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/jjjjound-new-balance-990v3-release-date-fw26-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Willy Chavarria and adidas Originals Rework the Megaride for Fall 2026",
+   "source": "Hypebeast",
+   "date": "2026-09-28",
+   "content": "Name: Willy Chavarria x adidas Originals Mega Willy Low, Willy Chavarria x adidas Originals Willy Mega MidColorway: Black and Agave, BlackSKU: TBCMSRP: $230 USD, $280 USDRelease Date: October 3Where to Buy: adidas, CONFIRMED appadidas Originals and Willy Chavarria have built their Fall 2026 collection around the Megaride franchise, pairing the Mega Willy Low in Black and Agave with a Black Willy Mega Mid. The October capsule draws on '90s sportswear and scales up archival adidas shapes, continuing the designer's ongoing work with scale, identity and his own heritage.The footwear comes in two heights. The low-top Mega Willy Low arrives in two colorways, a Black pair and an Agave option, while the Willy Mega Mid raises the collar to a mid-cut and comes in Black only. Together the three pairs give the partnership's Megaride lineup both a sleek everyday profile and a higher-cut option.The ap",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F28%2FWilly-Chavarria-adidas-Originals-fall-winter-2026-FW26-Collaboration-collection-Mega-Willy-Low-Willy-Mega-Mid-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/willy-chavarria-adidas-originals-fall-winter-2026-fw26-collaboration-collection-mega-willy-low-willy-mega-mid-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Check Out Official Images of the Bad Bunny x adidas Gazelle Indoor \"Solar Gold\"",
+   "source": "Hypebeast",
+   "date": "2026-09-28",
+   "content": "Name: Bad Bunny x adidas Gazelle Indoor “Solar Gold”Colorway: Solar Gold/Core BlackSKU: KI2592MSRP: $140 USDRelease Date: October 17Where to Buy: adidasOfficial images of the Bad Bunny x adidas Gazelle Indoor \"Solar Gold\" offer a full look at the next pair in the artist’s run with the terrace silhouette, which is set for October 2026.The design is built on strong contrast. Golden yellow covers the upper from toe to heel, and black Three Stripes on the side panels provide most of the contrast, giving the pair its most recognizable feature.The palette is a clear change for the collaboration. Earlier Bad Bunny Gazelle Indoor releases favored faded and earth-toned colorways, while \"Solar Gold\" uses brighter, more saturated color and sharper contrast.The two-tone scheme has also sparked talk about what it might reference. Because yellow and black recall a New York City taxi, some have linked ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F28%2FBad-Bunny-adidas-Gazelle-Indoor-Solar-Gold-KI2592-Official-Images-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/bad-bunny-adidas-gazelle-indoor-solar-gold-ki2592-official-images-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "The Nike Air Max 95 Big Bubble \"Cow Print\" Swaps Printed Graphics for Real Calf Hair",
+   "source": "Hypebeast",
+   "date": "2026-09-28",
+   "content": "Name: Nike Air Max 95 Big Bubble “Cow Print”Colorway: Phantom/Metallic Gold-Cacao Wow-Gum Medium BrownSKU: IR5113-001MSRP: $200 USDRelease Date: Holiday 2026Nike is taking the Air Max 95 Big Bubble in an animal-inspired direction with \"Cow Print,\" a women's release covered in real brown and white calf hair. Nike builds the cowhide pattern from actual hair rather than printing it on, so the pair gets its look from texture instead of graphics.The calf hair covers the Air Max 95's layered side panels, which makes the shoe's signature layering the main showcase for the pattern. Underneath, a cream base keeps the rest of the palette muted so the brown and white patches stand out. Leather and mesh fill in the remaining sections of the upper, balancing the calf hair with more familiar materials.The smaller details work in the same tones. Brown webbing is threaded through the eyelets, tying the ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F28%2FftNike-Air-Max-95-Big-Bubble-Cow-Print-IR5113-001-Official-Images.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-air-max-95-big-bubble-cow-print-ir5113-001-official-images",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Saucony Goes Full “Space Cowboy” With a Five-Shoe Collection",
+   "source": "Hypebeast",
+   "date": "2026-09-28",
+   "content": "Name: Saucony “Space Cowboy” CollectionMSRP: TBCRelease Date: October 2Where to Buy: SauconySaucony is merging futuristic runner aesthetics with Americana in its expansive new \"Space Cowboy\" Collection. Translating classic Western motifs across five silhouettes that span archival runners, lifestyle footwear and modern performance models, this release spotlights the Progrid Triumph 4, Progrid V2, 586i, Endorphin Elite 3 and Endorphin Azura silhouettes.The ProGrid Triumph 4 “Space Cowboy” delivers the collection’s most overtly futuristic interpretation, layering burnt-orange mesh and leather with high-shine chrome overlays and Saucony branding. Brown-and-white cow-print hair covers portions of the toe and heel, while black accents and speckled rope-style laces add further contrast to the heavily layered design. The ProGrid V2 takes a warmer approach, pairing white mesh with cognac-toned le",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F28%2Fsaucony-space-cowboy-collection-saucony-progrid-triumph-4-s101200-1002-progrid-v2-s101247-1003-586i-s101246-1001-endorphin-elite-3-s100981-1018-endorphin-azura-s101348-1004-official-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/saucony-space-cowboy-collection-saucony-progrid-triumph-4-s101200-1002-progrid-v2-s101247-1003-586i-s101246-1001-endorphin-elite-3-s100981-1018-endorphin-azura-s101348-1004-official",
+   "lang": "en",
+   "relatedBrands": [
+    "SAUCONY"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "SUGARHILL and Converse’s ALL STAR LGCY HI Is Built To Age Over Time",
+   "source": "Hypebeast",
+   "date": "2026-09-28",
+   "content": "Name: SUGARHILL x Converse ALL STAR LGCY HIColorway: NaturalSKU: 31319080220MSRP: ¥19,800 JPY (approx. $125 USD)Release Date: October 2Where to Buy: Converse JapanJapanese menswear label SUGARHILL has teamed up with Converse for a textured, vintage-inspired take on the ALL STAR LGCY HI. Arriving in a subtle \"Natural\" colorway, the collaborative high-top reimagines the premium legacy silhouette with an emphasis on aging and distinct material evolution. The upper is constructed from SUGARHILL's original cotton twill, woven with special E*Denim thread that allows faint glimpses of indigo blue to peek through the textured fabric. This unique textile approach is specifically designed to change expression over time, allowing the sneaker to develop natural color variations and a deeply personalized, lived-in character with everyday wear.The aged character continues through details borrowed from",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F28%2Fftsugarhill-converse-all-star-lgcy-hi-collaboration-natural-31319080220-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/sugarhill-converse-all-star-lgcy-hi-collaboration-natural-31319080220-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Nike’s Moon Shoe OG Leather SP Returns in Three Vintage-Inspired Colorways",
+   "source": "Hypebeast",
+   "date": "2026-09-28",
+   "content": "Name: Nike Moon Shoe OG Leather SPMSRP: ￥18,700 JPY (approx. $119 USD)Release Date: October 1Where to Buy: NikeNike revisits one of its earliest running silhouettes with the Moon Shoe OG Leather SP, replacing the model’s traditionally lightweight nylon construction with a full leather upper for a denser, more structured Fall 2026 treatment. The release expands the previously previewed leather pack to three colorways: \"Black,\" \"Flax\" and \"University Red.\"The \"Black\" variant takes the most graphic approach, pairing smooth black leather with \"Yellow Ochre\" swooshes and heel branding before finishing the shoe with a light gum outsole. \"Flax\" leans into warmer vintage tones, dressing the upper in golden-brown leather with \"Pale Ivory\" swooshes and subtle \"Malachite\" detailing, while \"University Red\" covers the low-slung silhouette in saturated red leather, sharply contrasted by oversized blac",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F28%2Fnike-moon-shoes-sep-28-featured-image.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/nike-moon-shoe-og-leather-sp-black-yellow-ochre-gum-light-brown-iu3162-001-flax-pale-ivory-gum-med-brown-malachite-iu3162-200-university-red-black-gum-light-brown-iu3162-600-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "HOKA’s ORA PRIMO Returns in a Bold “Tidal Wave” Colorway",
+   "source": "Hypebeast",
+   "date": "2026-09-28",
+   "content": "Name: HOKA Ora Primo “Tidal Wave”Colorway: “Tidal Wave”SKU: 1141570-TWVBMSRP: ¥18,700 JPY (approx. $119 USD)Release Date: October 1Where to Buy: HOKAHOKA expands its recovery-focused ORA PRIMO lineup with a new “Tidal Wave” colorway, bringing a cooler, more saturated treatment to the silhouette’s futuristic slip-on construction. The upper is rendered in a deep teal-blue shade that extends across the padded nylon body, collar and rope-style elastic lacing, while tonal stitching traces the shoe’s quilted paneling and curved overlays.Black takes over the protective toe bumper and sculpted tooling underneath, giving the vivid upper a heavier visual base, while reflective details around the side logo, lace loops and heel subtly shift in appearance when hit by light. The contrast between softly padded nylon, textured overlays and matte-black rubber further emphasizes the ORA PRIMO’s exaggerate",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F28%2Fhoka-ora-primo-tidal-wave-1141570-twvb-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/hoka-ora-primo-tidal-wave-1141570-twvb-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "HOKA"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Salomon Revives the SNOWCLOG OG in Three Winter-Ready Colorways",
+   "source": "Hypebeast",
+   "date": "2026-09-28",
+   "content": "Name: Salomon SNOWCLOG OGMSRP: $125 USDRelease Date: Available NowWhere to Buy: SalomonSalomon is dipping back into its winter-ready archives with the revival of the SNOWCLOG OG, a rugged slip-on silhouette that perfectly balances outdoor utility with casual, everyday comfort. Built to tackle the shifting seasons, the returning model drops in a trio of distinct colorways: a sleek, monochromatic “Black,” a bold and highly visible “Cyber Yellow,” and an earthy, neutral “Safari.” This diverse palette ensures the release caters to a variety of styling preferences, from stealthy urban techwear and vibrant statement pieces to classic, trail-inspired gorpcore aesthetics.Designed for seamless transitions between slick pavements and light trails, the SNOWCLOG OG features a durable, weather-resistant upper that provides essential warmth and protection against the elements. Its laceless, slip-on co",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F28%2Fsalomon-snowclog-og-black-l45389900-cyber-yellow-l45390000-safari-l45390100-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/salomon-snowclog-og-black-l45389900-cyber-yellow-l45390000-safari-l45390100-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "SALOMON",
+    "UGG"
+   ]
+  },
+  {
+   "id": 19,
    "title": "Dr. Martens x Sage Nation Launch First-Ever Collaboration",
    "source": "Hypebeast",
    "date": "2026-09-28",
@@ -39,7 +274,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 20,
    "title": "SSZ and WTAPS® Collaborate for the Second Time in Five Years",
    "source": "Hypebeast",
    "date": "2026-09-28",
@@ -50,7 +285,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 3,
+   "id": 21,
    "title": "PLATEAU STUDIO and SUBU Debut Their First Collaboration: the Lace-Up F-LINE",
    "source": "Hypebeast",
    "date": "2026-09-28",
@@ -61,150 +296,46 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 4,
-   "title": "How to Wear KEEN’s Jasper Merko: Stylist Ryota Yamada’s Take",
-   "source": "Hypebeast",
+   "id": 22,
+   "title": "Willy Chavarria x adidas Megaride Low “Bones”",
+   "source": "Nice Kicks",
    "date": "2026-09-28",
-   "content": "KEEN’s Jasper Merko reworks the brand’s signature Jasper—a hybrid of climbing and comfort shoe—with a more minimal, lightweight design. Its low-profile sole, inspired by contour lines, gives the shoe a distinctive presence while creating a feel that is closer to being barefoot. A classic upper meets a modern sole, and that quiet contrast defines this pair’s character.Ryota Yamada styles the Jasper Merko in a way that feels true to his own sensibility. For this shoot, he chose a tonal-gray pair. He offset a statement top with deliberately worn-in sweats, avoiding an overly polished head-to-toe look. He also swapped out the shoelaces for a different pair and retied them himself before the shoot. Leaving just a little undone is one of the balances he values in his everyday styling, too.What stood out most when he tried them on, he says, was the distinctive feel of the sole. Rather than sink",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fkeen-jasper-merko-ryota-yamada-style-interviews-ft.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/keen-jasper-merko-ryota-yamada-style-interviews",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 5,
-   "title": "The Air Jordan 1 High OG “Royal” Makes Its Long-Awaited Return",
-   "source": "Hypebeast",
-   "date": "2026-09-28",
-   "content": "Jordan Brand is bringing back the Air Jordan 1 High “Royal.”First released in 1985, “Royal” is one of the Air Jordan 1’s original colorways. Unlike “Bred” and “Chicago,” it was frequently seen not only on the court but off it as well. At a time when wearing basketball shoes as everyday footwear was far from common, it became a defining colorway of the Air Jordan 1’s presence on the streets.The upper is crafted entirely from leather, with a black base accented by “Varsity Royal” at the ankle, heel counter, and toe box. The familiar Wings logo—a basketball with wings—appears at the collar. Nike’s proprietary Air technology is built into the midsole for cushioning and responsiveness.The Air Jordan 1 High “Royal” goes on sale October 10 at 9 a.m. via SNKRS and other retailers. It is priced at ¥26,730, including tax. Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fair-jordan-1-high-og-royal-revival-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/air-jordan-1-high-og-royal-revival-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 6,
-   "title": "LM.RT Launches the New Balance 2010 Inspired by the Myth of Icarus",
-   "source": "Hypebeast",
-   "date": "2026-09-28",
-   "content": "New Balance and LM.RT, the label led by Liam Maher, have unveiled the 2010 Designed by LM.RT collaboration.Rooted in the tailoring and manufacturing traditions passed down through Maher’s family, LM.RT is a brand that values material texture and craftsmanship. For this New Balance 2010, the design draws on the Greek myth of Daedalus and Icarus, interpreting the theme of “balance.”The upper layers dark brown suede, mesh, and warm brown leather, with a warm orange logo as an accent. An aged finish recreates the look of scuffs and fraying for a worn-in feel. Underfoot, the midsole features ABZORB cushioning. The shoe also comes with custom packaging adorned with mythological motifs including wax, wings, and flames.The New Balance 2010 Designed by LM.RT is priced at ¥26,400, including tax. It is available now through LM.RT’s official online store, New Balance’s official channels, GR8, and NU",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fnew-balance-lm-rt-2010-release-info-00.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/new-balance-lm-rt-2010-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 7,
-   "title": "Nike’s Sleekest Original Sneaker Has Gone Into Night Mode",
-   "source": "Highsnobiety",
-   "date": "2026-09-28",
-   "content": "Nike’s Moon Shoe OG gets a darker makeover in a Black/Sail colorway, bringing the sleek original runner a stealthier look.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-moon-shoe-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 8,
-   "title": "New Balance Built a Handsome Hiking Dad Sneaker for the Streets",
-   "source": "Highsnobiety",
-   "date": "2026-09-27",
-   "content": "New Balance debuts the TL900, a genuinely cool hiking-style sneaker with street swag. Here's everything on the \"Sport Green\" release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-tl900-sneakers/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 9,
-   "title": "adidas' Next-Up Mary Jane Is a Triple Threat",
-   "source": "Highsnobiety",
-   "date": "2026-09-27",
-   "content": "adidas' Samba Ballet is the brand's newest Mary Jane sneaker hybrid featuring three straps. It's a literal triple threat.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-samba-ballet-sneakers/",
+   "content": "The Willy Chavarria x adidas Megaride Low “Bones” is releasing on October 3, 2026, via adidas.com and select retailers for… The post Willy Chavarria x adidas Megaride Low “Bones” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_Willy_Chavarria_Megaride_Bones_Green_LA6162_14_hover_standard-1-e1790606059328.jpeg",
+   "link": "https://www.nicekicks.com/willy-chavarria-adidas-megaride-low-bones-la6162/",
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
    ]
   },
   {
-   "id": 10,
-   "title": "Nike’s Croc Air Max Sneaker Is a Rugged Classic With a Bite",
-   "source": "Highsnobiety",
-   "date": "2026-09-27",
-   "content": "Nike's Air Max Goadome Low sneaker-boot gets a black croc skin makeover for the Fall 2026 season. It's truly off the scales.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-black-croc-skin/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 11,
-   "title": "Nike's Sophisticated Air Max Loafer Stands on Business",
-   "source": "Highsnobiety",
-   "date": "2026-09-27",
-   "content": "Nike's Air Max Phenomena loafer gets a \"Shadow Brown\" makeover, resulting in an extremely classy & undoubtedly fall-ready take on the dress shoe hybrid.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-phenomena-shadow-brown/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 12,
-   "title": "Nike’s All-Orange WNBA Forces Are Perfect",
-   "source": "Highsnobiety",
-   "date": "2026-09-27",
-   "content": "The WNBA gets its own all-orange, all-suede Air Force 1 Low Jewel sneaker, a.k.a the perfect league sneaker. Here's everything on the release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/wnba-nike-air-force-1-sneakers-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 13,
-   "title": "Salomon's Whimsical GORE-TEX XT-6 Sneaker Is Still Super Sturdy",
-   "source": "Highsnobiety",
-   "date": "2026-09-27",
-   "content": "OFFSPRING added a level of wearable whimsy to Salomon's GORE-TEX XT-6 sneaker.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/salomon-gore-tex-xt-6-sneaker/",
-   "lang": "en",
-   "relatedBrands": [
-    "SALOMON"
-   ]
-  },
-  {
-   "id": 14,
-   "title": "A Humble Court Classic Becomes the Literal Jewel in the adidas Crown",
-   "source": "Highsnobiety",
-   "date": "2026-09-27",
-   "content": "Tapping into one of the most prevalent hardware trends in the scene right now, the Three Stripes elevates its shell-toe titan with the adidas Superstar Jewel.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-superstar-jewel/",
+   "id": 23,
+   "title": "Willy Chavarria x adidas Megaride Low “Wolf”",
+   "source": "Nice Kicks",
+   "date": "2026-09-28",
+   "content": "The Willy Chavarria x adidas Megaride Low “Wolf” is releasing on October 3, 2026, via adidas.com and select retailers for… The post Willy Chavarria x adidas Megaride Low “Wolf” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/KJ2033_6-1-e1790606385923.jpg",
+   "link": "https://www.nicekicks.com/willy-chavarria-adidas-megaride-low-wolf-kj2033/",
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
    ]
   },
   {
-   "id": 15,
+   "id": 24,
+   "title": "Willy Chavarria x adidas Megaride Mid “Wolf”",
+   "source": "Nice Kicks",
+   "date": "2026-09-28",
+   "content": "The Willy Chavarria x adidas Megaride Mid “Wolf” is releasing on October 3, 2026, via adidas.com and select retailers for… The post Willy Chavarria x adidas Megaride Mid “Wolf” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_Willy_Chavarria_Megaride_Wolf_Black_KJ2034_14_hover_standard-1-e1790606617448.jpeg",
+   "link": "https://www.nicekicks.com/willy-chavarria-adidas-megaride-mid-wolf-kj2034/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 25,
    "title": "Nike 以 Air Force 1 Low ’01「Subway Rat」致敬紐約市文化",
    "source": "Hypebeast 中文",
    "date": "2026-09-26",
@@ -217,7 +348,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 26,
    "title": "LOEWE Double L Loafer 將品牌標誌融入皮革之中",
    "source": "Hypebeast 中文",
    "date": "2026-09-26",
@@ -228,31 +359,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 17,
-   "title": "Nike Pays Homage to NYC Culture With the Air Force 1 Low ’01 \"Subway Rat\"",
-   "source": "Hypebeast",
-   "date": "2026-09-26",
-   "content": "Summary Nike is releasing an Air Force 1 Low ’01 inspired by New York City’s iconic subway ratThe sneaker features College Grey shaggy suede uppers accented by Pink Glaze detailing and a rat tail heel extensionKey thematic details include pizza slice insoles a MetroCard hangtag and custom NYC tongue embroidery Name: Nike Air Force 1 '01 \"Subway Rat\"Colorway: College Grey/Pink GlazeSKU: IV6999-001MSRP: $150 USDRelease Date: October 7, 2026Where to Buy: NikeNike is celebrating an iconic fixture of New York City grit with the Air Force 1 Low ’01 \"Subway Rat\". The upcoming release transforms the classic silhouette with thematic details nodding to the metropolis, complete with pizza graphics and transit-inspired hardware. Dressed in a \"College Grey\" and \"Pink Glaze\" colorway, the upper is constructed from tactile shaggy suede across the toe boxes, quarter panels, Swooshes, and tongue. Soft pi",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F24%2Fnike-air-force-1-01-low-subway-rat-iv6999-001-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-air-force-1-01-low-subway-rat-iv6999-001-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "The LOEWE Double L Loafer Makes Its Logo Part of the Leather",
-   "source": "Hypebeast",
-   "date": "2026-09-26",
-   "content": "Name: LOEWE Double L LoaferColorway: Black, Dark Chocolate, Deep Purple, Caramel LatteSKU: LOVL290X03-1100, LOVL290X02-9517, LOVL290X02-6417, LOVL290X02-0315MSRP: $1,150 USDRelease Date: Available nowWhere to Buy: LOEWEThe LOEWE Double L Loafer is built around softness. Its supple leather is gathered at the upper and shaped around a rounded toe, so it looks closer to a relaxed slip-on than to a stiff, structured loafer. The women's style is available in suede calfskin and soft calfskin, and every version carries the same construction details.The gathered construction defines the shoe. Rather than stretching a flat panel over a hard last, LOEWE gathers the leather across the upper, which gives the loafer soft folds and a flexible feel. The rounded toe continues that approach, avoiding the sharper profile of a traditional penny or horsebit loafer.The branding is applied in an unusual way. ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F24%2Floewe-double-l-loafer-suede-soft-calfskin-black-dark-chocolate-caramet-latte-deep-purple-lovl290x02-6417-9517-0315-lovl290x03-1100-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/loewe-double-l-loafer-suede-soft-calfskin-black-dark-chocolate-caramet-latte-deep-purple-lovl290x02-6417-9517-0315-lovl290x03-1100-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 19,
+   "id": 27,
    "title": "Where To Buy the Air Jordan 1 Low OG “Last Dance At The Garden”",
    "source": "Nice Kicks",
    "date": "2026-09-26",
@@ -265,7 +372,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 28,
    "title": "Nike 透過 AirWorks 計劃發表 3D 打印 Air Max Link",
    "source": "Hypebeast 中文",
    "date": "2026-09-25",
@@ -278,126 +385,59 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
-   "title": "J Balvin 與 Jordan Brand 以 Air Jordan 4「Amazonas」致敬哥倫比亞野生動物",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-25",
-   "content": "摘要 J Balvin 聯同 Jordan Brand 公布最新聯乘企劃，選用 Air Jordan 4 鞋型，並以「Amazonas」為題。設計以黃色鱷魚紋理皮革鞋身為焦點，配以雙語鞋帶扣飾與標誌性品牌細節。此鞋款將於 9 月 28 日率先登陸 J Balvin 網店，隨後在 10 月 2 日作更大規模發售，定價為 225 美元。 鞋名：J Balvin x Air Jordan 4「Amazonas」配色：Lemonade／Lemonade產品編號：IW2872-700建議零售價：225 美元發售日期：2026 年 9 月 28 日、2026 年 10 月 2 日購買渠道：J Balvin、NikeJordan Brand 與 J Balvin 正式揭曉 Air Jordan 4「Amazonas」，繼先前的 Air Jordan 1、2 及 3 企劃後，將持續合作延伸至第 4 款簽名鞋型。新配色直接取材自亞馬遜地區的野生動物與自然環境。鞋面採用黃色鱷魚紋皮革，從鞋頭至鞋跟均呈現亮面質感。為配合富紋理的鞋面，鞋款配備同色黃色網布、TPU 支撐翼、鞋帶及中底，令配色分佈更一致。當中的爬蟲類紋路，特別呼應棲息於亞馬遜的黃色鱷魚。鞋身各處加入專屬細節，包括不對稱鞋帶扣：一隻鞋印有「Just Do It」，另一隻則寫上「Solo Hazlo」。鞋跟位置印有 J Balvin 與 Jumpman 雙方標誌，鞋面亦融入壓印細節，突顯聯乘身分。J Balvin x Air Jordan 4「Amazonas」將於 2026 年 9 月 28 日率先透過 J Balvin 的網站發售，其後於 10 月 2 日全球廣泛推出，售價為 225 美元。 View this post on InstagramA post shared by J Balvin (@jbalvin) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fj-balvin-air-jordan-4-amazonas-iw2872-700-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/j-balvin-air-jordan-4-amazonas-iw2872-700-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "Action Bronson 與 New Balance 為 2811 系列新增「Blackjacques」及「The Whisperer」配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-25",
-   "content": "摘要 Action Bronson 與 New Balance 即將推出 2811 鞋款的兩款全新配色，命名為「Blackjacques」與「The Whisperer」。這款標誌性鞋型以原創鞋身結合 New Balance 2010 的大底配置。兩款配色將於 9 月 25 日透過 Action Bronson 官方網店獨家發售。 Action Bronson 與 New Balance 正式公布 New Balance 2811 的兩款新配色，分別命名為「Blackjacques」及「The Whisperer」。這次同步推出兩款新作，為這位饒舌歌手於今年較早時首度亮相的簽名鞋型擴充陣容。2811 是 Bronson 與品牌合作的首款簽名鞋，原創鞋面結構配搭 New Balance 2010 現有的鞋底單元。「Blackjacques」採用深色調設計，Bronson 曾在鞋款正式公布前穿著它現身場邊；「The Whisperer」則以白、黑為基調，帶來截然不同的外觀。兩款鞋均點綴低調的紅、藍細節，延續這位藝術家的 Baklava 設計風格。「The Whisperer」推出前，Bronson 曾回應社交媒體上有關庫存外流的報道，指出遭竊的鞋款已流入供應鏈，並以低於零售價的價格出現在轉售平台。儘管出現配銷問題，兩款鞋仍將如期正式發售。Action Bronson x New Balance 2811「Blackjacques」及「The Whisperer」將於 2026 年 9 月 25 日僅透過網上發售。 View this post on InstagramA post shared by Action Bronson (@bambambaklava) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Faction-bronson-baklava-new-balance-2811-blackjacques-the-whisperer-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/action-bronson-baklava-new-balance-2811-blackjacques-the-whisperer-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "Nike First Sight Shadow 2026 秋冬近乎全海軍藍配色登場",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-25",
-   "content": "名稱：Nike First Sight Shadow「Gridiron」配色：黑色／金屬深灰色貨號：HQ2410-003建議零售價：145 美元發售日期：待定Nike First Sight Shadow 將於 2026 年秋冬推出全新海軍藍配色，據報名為「Gridiron」。這雙鞋延續 First Sight 女裝專屬系列先前的款式，以單一主色突顯鞋型的雕塑感結構。設計由外殼展開。First Sight Shadow 的鞋面以一體成型方式製作，無縫的雕塑感處理令人聯想到 Nike Foamposite。此番鞋面幾乎全數覆以海軍藍，視線自然落在輪廓線條，而非色塊拼接。僅有的對比藏在細節之中。細小的黑色 Swoosh 設於鞋頭附近，取代常見的鞋面中央位置；沿鞋身兩側排列的立體橢圓開口，則透出下方的金屬銀色。外殼其餘部分維持深色，令銀色點綴成為全鞋焦點。外殼下方設有黑色尼龍內靴，鞋領位置向上延伸成 V 字形，帶來如襪套般的穿著入口；同樣的黑色亦延伸至外底，從上下襯托海軍藍鞋面。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftNike-First-Sight-Shadow-Gridiron-HQ2410-003-Official-Images.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-first-sight-shadow-gridiron-hq2410-003-official-images",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "Kith 15 週年展覽完整展出 Ronnie Fieg 收藏的 1,849 雙鞋履檔案",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-25",
-   "content": "摘要 Kith 首度把 Ronnie Fieg 鞋履檔案中全部 1,849 對聯乘鞋款公開同場展出。所有鞋款會按品牌分類，並依照新書索引及時間順序逐頁編排。是次展覽將於 Kith 15 週年前夕及新書全球發行前數日在 Brooklyn 舉行。 為慶祝品牌成立 15 週年，Kith 推出由 Assouline 出版的新書《Kith: The Footwear Archive》，並於 Brooklyn 舉行展覽，完整展出 Ronnie Fieg 所有聯乘鞋履檔案。9 月 25 日至 27 日，Kith 過去 15 年與合作品牌推出的全部 1,849 雙鞋履，將首度一同公開展出。Kith 並非精選代表作展出，而是呈現每一雙鞋履。每個合作品牌均設有獨立部分，當中鞋款按推出時間順序排列，並完全依照書中的索引編排。訪客穿梭檔案的方式，正如讀者翻閱書本一樣；因此，這個空間既是展廊，也可視為索引的實體版本。這本書同樣呼應如此規模。《Classic》版本共 444 頁，書中索引列明展場內每一雙鞋履的排列次序。Assouline 最為人熟悉的是出版時尚、設計及奢侈品牌的大開本咖啡桌書籍，因此十分適合製作這樣規模的圖錄。書籍正式全球發售前，展覽現場將率先發售。這批檔案的規模，反映 Fieg 在鞋履領域走過的路。2011 年創立 Kith 前，他在 New York 零售商 David Z. 打響名堂；早期與 ASICS 合作的 GEL-Lyte III 鞋款，奠定了他作為零售商主導球鞋聯乘代表人物的地位。15 年後，這些企劃已延伸至眾多合作品牌、逾 1,800 雙鞋履；今次展覽亦是它們首度齊集一室。《Kith: The Footwear Archive》展覽將於 9 月 25 日至 27 日，在 Brooklyn 25 Kent Avenue 舉行。全書 444 頁的《Classic》版本，則將於 9 月 30 日、亦即 Kith 的週年紀念日，在所有 Kith 店舖、網上及 Kith App 全球推出。 Click here to view full gallery at Hypebeas",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FFTKith-the-Footwear-Archive-Exhibit-15th-anniversary-Announcement-Opening-book-release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/kith-the-footwear-archive-exhibit-15th-anniversary-announcement-opening-book-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "Yeat 在《TËNNIS》音樂錄像中預告未發售 Nike Air Max Goadome「Camo」",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-25",
-   "content": "摘要 Yeat 在全新歌曲《TËNNIS》的音樂錄像中曝光了一雙尚未發售的 Nike Air Max Goadome。預告片段中，球鞋採用米色與啡色 desert-camo 迷彩鞋身，搭配黑色 Air 緩震鞋底。至於這次潛在聯乘的正式發售資訊，暫時仍未獲確認。 饒舌歌手 Yeat 在其歌曲《TËNNIS》的官方音樂錄像中，預告一雙疑似即將推出的 Nike Air Max Goadome「Camo」。音樂錄像於瑞士取景拍攝，除了展示這雙尚未發售的鞋款，亦收錄了他驚喜推出的 COCOON 企劃歌曲。有別於其首個 Nike 鞋履企劃中採用鉚釘元素的全黑版本，這雙預覽鞋款換上啡色與棕色調的沙漠迷彩鞋面。鞋底則保留 Goadome 的經典配置，搭載黑色 Air 氣墊鞋底單元；鞋面各處均以啡色與棕色的沙漠迷彩拼接呈現。這雙沙漠迷彩配色隨 Yeat 驚喜推出、收錄 7 首歌曲的 COCOON 企劃亮相，目前僅見於音樂錄像中，尚未公布任何官方發售詳情。Nike 亦未確認這雙鞋究竟是獨一無二的度身訂製款，還是會作更廣泛的零售發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fyeat-unreleased-nike-air-max-goadome-low-camo-tennis-music-video-preview-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/yeat-unreleased-nike-air-max-goadome-low-camo-tennis-music-video-preview",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "The Whitaker Group 與 New Balance 以「Ostrich」皮革重塑 2010",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-25",
-   "content": "摘要 The Whitaker Group 攜手 New Balance 打造 2010 鞋型的鴕鳥紋新版本。設計以鋼灰色鴕鳥紋皮革結合淺米色網布，並在腳跟穩定片和鞋舌標上點綴低調紫色細節。這款合作球鞋將於 9 月 25 日發售，提供男女同款尺碼，定價 155 美元。 名稱：The Whitaker Group x New Balance 2010「Ostrich」配色：鴕鳥色／米色／灰色貨號：U2010GR1建議零售價：155 美元發售日期：2026 年 9 月 25 日發售地點：New BalanceThe Whitaker Group 與 New Balance 正式發布 The Whitaker Group x New Balance 2010「Ostrich」。這款聯乘鞋作以講究的材質紋理與低調配色，為跑鞋輪廓帶來新演繹。鞋頭及鞋側下方飾以鋼灰色皮革覆片，並壓印鴕鳥皮紋；其餘鞋面及鞋舌則採用淺米色網布。鞋側配上灰色「N」標誌，並以同色系米色中底呼應。鮮明的紫色點綴落在鞋舌標籤及 ABZORB 後跟緩震膠囊上，為中性色調增添對比。鞋款在紋理皮革與透氣網布之間取得平衡，同時維持含蓄的美學。The Whitaker Group x New Balance 2010「Ostrich」將於 2026 年 9 月 25 日發售，提供男女同款尺碼。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fthe-whitaker-group-new-balance-2010-ostrich-U2010GR1-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/the-whitaker-group-new-balance-2010-ostrich-u2010gr1-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "Nike Unveils the 3D-Printed Air Max Link via AirWorks Program",
-   "source": "Hypebeast",
-   "date": "2026-09-25",
-   "content": "Nike has officially introduced the Nike Air Max Link, the latest 3D-printed concept emerging from the brand’s innovative AirWorks program. The futuristic model was created by Beijing-based designer Marc Su as a design concept connecting community and culture.Described by Su as a \"link from Beijing for community to our Future,\" the sneaker shares structural similarities with the Air Max 1000 while referencing design codes from Nike’s late-’90s Alpha Project era. The silhouette is defined by a sculpted midsole that rises and curves around the heel, supported by a layered backpiece. Smooth paneling extends from the heel toward the toe, accompanied by pointed upper overlays and collar openings. Anchoring the design to the core AirWorks ethos, two visible Air units are integrated directly into the forefoot.Following a prior AirWorks project by Motoi Hatsuki, a small family-and-friends run of ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F25%2Fnike-air-max-link-3d-printed-via-airworks-program-new-silhouette-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-air-max-link-3d-printed-via-airworks-program-new-silhouette-revealed",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "J Balvin and Jordan Brand Honor Colombian Wildlife With the Air Jordan 4 \"Amazonas\"",
-   "source": "Hypebeast",
-   "date": "2026-09-25",
-   "content": "Summary J Balvin and Jordan Brand have announced their latest collaboration on the Air Jordan 4 silhouette titled \"Amazonas\"The design features yellow crocodile-textured leather uppers accompanied by bilingual lace dubraes and signature brandingThe pair releases September 28 on J Balvin's webstore followed by a wider release on October 2 for $225 USD Name: J Balvin x Air Jordan 4 \"Amazonas\"Colorway: Lemonade/LemonadeSKU: IW2872-700MSRP: $225 USDRelease Date: September 28, 2026, October 2, 2026Where to Buy: J Balvin, NikeJordan Brand and J Balvin have officially revealed the Air Jordan 4 \"Amazonas\", moving their ongoing partnership to the fourth signature silhouette following previous Air Jordan 1, 2, and 3 projects. The new colorway draws direct inspiration from the wildlife and natural surroundings of the Amazon region.The construction is anchored by a yellow croc-textured leather upper",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F25%2Fj-balvin-air-jordan-4-amazonas-iw2872-700-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/j-balvin-air-jordan-4-amazonas-iw2872-700-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
    "id": 29,
-   "title": "Action Bronson and New Balance Expand the 2811 Lineup With \"Blackjacques\" and \"The Whisperer\"",
-   "source": "Hypebeast",
+   "title": "Air Jordan 17 Low “Black Pack” (IZ2638-001) November 2026 Release Date & Info",
+   "source": "Nice Kicks",
    "date": "2026-09-25",
-   "content": "Summary ction Bronson and New Balance are releasing two new colorways of the 2811 silhouette titled Blackjacques and The WhispererThe signature model combines an original upper with the sole unit from the New Balance 2010Both iterations release on September 25 exclusively through Action Bronson's webstore Action Bronson and New Balance have officially announced two new colorways of the New Balance 2811, dubbed \"Blackjacques\" and \"The Whisperer.\" The dual drop expands the rapper's signature silhouette following its debut earlier this year.Serving as Bronson’s first signature model with the brand, the 2811 pairs an original upper construction with the existing sole unit of the New Balance 2010. The \"Blackjacques\" iteration adopts a dark palette—first spotted when Bronson wore them courtside ahead of the model's official announcement—while \"The Whisperer\" provides a contrasting look with a ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F24%2Faction-bronson-baklava-new-balance-2811-blackjacques-the-whisperer-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/action-bronson-baklava-new-balance-2811-blackjacques-the-whisperer-release-info",
+   "content": "The Air Jordan 14 “Black Pack” is set to release on October 3, 2026, via SNKRS and select retailers for… The post Air Jordan 17 Low “Black Pack” (IZ2638-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/06/imgi_35_828364030_18646116229030324_710414725007600442_n-e1790623041700.jpeg",
+   "link": "https://www.nicekicks.com/air-jordan-17-low-black-pack-iz2638-001/",
    "lang": "en",
    "relatedBrands": [
-    "NEW BALANCE"
+    "JORDAN"
    ]
   },
   {
    "id": 30,
+   "title": "Air Jordan 16 “Black Pack” (IZ2586-001) October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-25",
+   "content": "The Air Jordan 16 “Black Pack” is set to release on October 3, 2026, via SNKRS and select retailers for… The post Air Jordan 16 “Black Pack” (IZ2586-001) October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_34_829602615_18646116166030324_358974023672437061_n-1-e1790622453152.jpeg",
+   "link": "https://www.nicekicks.com/air-jordan-16-black-pack-iz2586-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 31,
+   "title": "Air Jordan 15 “Black Pack” (IZ2585-001) November 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-25",
+   "content": "The Air Jordan 14 “Black Pack” is set to release on November 7, 2026, via SNKRS and select retailers for… The post Air Jordan 15 “Black Pack” (IZ2585-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/06/imgi_33_829310811_18646116175030324_4916537866787683471_n-e1790622698834.jpeg",
+   "link": "https://www.nicekicks.com/air-jordan-15-black-pack-iz2585-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 32,
+   "title": "Air Jordan 14 “Black Pack” (IZ3884-001) October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-25",
+   "content": "The Air Jordan 14 “Black Pack” is set to release on October 3, 2026, via SNKRS and select retailers for… The post Air Jordan 14 “Black Pack” (IZ3884-001) October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_34_829725932_18646116157030324_3986284087064619821_n-1-e1790622556280.jpeg",
+   "link": "https://www.nicekicks.com/air-jordan-14-black-pack-iz3884-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 33,
    "title": "Bad Bunny x adidas BadBo 1.1 “Chalk White” September Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-25",
@@ -410,7 +450,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 34,
    "title": "Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-25",
@@ -420,136 +460,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "從城市公路延伸至碎石小徑：Salomon 正式發佈全新 Aero Glide 4 GRVL 與 Aero Blaze 4 GRVL GTX 兩大極致性能新作",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-24",
-   "content": "Salomon 今個秋冬季度持續拓展路野跑（Gravel Running）領域，正式帶來全新升級的 Gravel 跑鞋家族系列。今季設計以「從公路到礫石，從此無界」為核心概念，突破傳統城市馬拉松與山野越野跑的單一場景界線，重點帶來 Aero Glide 4 GRVL 與搭載防水科技的 Aero Blaze 4 GRVL GTX 兩款性能作品，為追求多地形轉換的當代跑者提供全方位的足下支援。作為主打長距離緩震的旗艦鞋型，全新 Aero Glide 4 GRVL 相較前代版本重量大幅減輕 10%，在保留極致舒適度的同時顯著提升長途奔跑的靈活度。中底採用 100% TPU 材質構成的 optiFOAM² 科技，結合品牌標誌性的 Reverse Camber 弧形幾何結構，帶來流暢的滾動推進感與高效衝擊吸收能力；外底搭載 Gravel Contagrip® 配合 Chevron 齒紋設計，無論在碎石路面或濕滑柏油路均展現可靠抓地力。鞋面則選用結合 endoFIT™ 內襯技術的 3D 網眼材質，配搭全新 quickLACE™ neo 快速綁帶系統，實現精準包覆與便利穿脫體驗。專為日常多變天候與混合路況訓練設計的 Aero Blaze 4 GRVL GTX，則聚焦於輕量靈敏的腳感回饋。鞋身載入 GORE-TEX® 防水透氣防護，配置採用 100% TPU 的 optiFOAM® 緩震中底，提供更為直接且具彈性的步頻轉換能力。外底設計靈感汲取自礫石單車（Gravel Bike）輪胎，採用專屬橡膠配方確保在柏油路與碎石小徑間順暢切換。鞋面透過工程網布與 sensiFIT™ 支撐結構如安全帶般貼合雙足，兼顧透氣性與包覆穩定度。為完整詮釋 Gravel 系列的街頭實戰性能，Salomon Gravel 無固定路線挑戰賽上海站於日前在上海新天地地標正式開跑。賽事打破常規比賽的固定賽道設定，要求跑者在 2 小時內自由規劃路線並完成 16 個散落於老弄堂、石庫門、Bistro 酒館與濱江步道等城市的點位打卡，將純粹的速度比拼轉化為考驗探索膽量與城市觀察力的趣味體驗。今次上海站活動匯聚了來自世界各",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2F25%2Fsalomon-2026fw-aero-glide-4-grvl-collection-02-scaled.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/salomon-2026fw-aero-glide-4-grvl-collection",
-   "lang": "zh",
-   "relatedBrands": [
-    "SALOMON"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Nike 為 Air Force 1 Low Workboot「Shadow Brown」注入繩索鞋帶與金色五金元素",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-24",
-   "content": "名稱：Nike Air Force 1 Low「Shadow Brown」配色：Shadow Brown/Gum Medium Brown-Light Armory Blue-Baroque Brown貨號：IZ4702-235建議零售價：待定發售日期：2026 年秋冬Nike Air Force 1 Low Workboot「Shadow Brown」將於 2026 年秋冬登場，為這雙 Nike 經典低筒鞋注入粗獷物料與戶外風格五金配件。官方圖片顯示，鞋面主要以帆布和麂皮製成，細節更取材自工靴而非球場鞋款。Shadow Brown 帆布構成鞋面基底，覆蓋鞋頭、鞋身側面及後跟。較深的 Baroque Brown 麂皮則疊加於鞋頭、Swoosh、後跟拉片及鞋眼位置。鞋帶區周圍的麂皮採用鋸齒邊緣，為鞋帶橫跨鞋面之處增添質感。鞋帶和五金配件最能突顯工靴風格。Light Armory Blue 繩索鞋帶打破啡色調，並穿過金色金屬鞋帶環，而非常見的沖孔鞋眼。鞋帶上方配有橢圓形鞋帶扣，其復古戶外風格的造型與其他五金配件相襯。部分細節藏於鞋內。棕綠格紋襯裡帶來近似法蘭絨的質感，繫好鞋帶後幾乎不會露出。鞋底採用 Gum Medium Brown 橡膠外底，將鞋面的泥土色調一路延續至鞋底，為鞋款收結於同樣深沉溫暖的色調。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FNike-Air-Force-1-Low-Shadow-Brown-IZ4702-235-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-air-force-1-low-shadow-brown-iz4702-235-official-images",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "Nike Air Max Goadome Low 以鱷魚壓紋「Black」及「Midnight Navy」配色展現高級質感",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-24",
-   "content": "鞋名：Nike Air Max Goadome Low「Navy Croc」、Nike Air Max Goadome Low「Black Croc」配色：Midnight Navy／Black、Black貨號：IV4517-400、IV4517-001建議零售價：175 美元發售日期：10 月 6 日發售渠道：SNKRSNike Air Max Goadome Low 今秋以兩款鱷魚壓紋皮革配色展現更高級的質感，分別為全黑及「Midnight Navy」。Low 版本將戶外靴款的輪廓收窄得更俐落流線，同時保留鞋底的硬朗細節。新作進一步延伸此一概念，採用通常見於正裝鞋履的皮革處理。鱷魚壓紋正是這兩款鞋的焦點。圖案幾乎覆蓋整個鞋面，卻非一成不變：側面鞋身與後跟的鱗片紋理更大、更厚重，靠近鞋頭則變得更細密或平滑，令整體質感不顯單調。鞋側及鞋領加入穿孔，既提升透氣度，亦打破壓紋的連續感。黑色版本從頭到尾維持同色調，鞋帶、車線及內襯均與鞋面一致；後跟附近的小型 Swoosh 融入皮革之中，唯一帶有立體感的品牌標誌，是中底上模塑而成的 ACG 標誌。「Midnight Navy」版本則採取不同做法，海軍藍鞋帶與鞋舌呼應鞋面，外側後跟的小型金屬 Swoosh 成為唯一的亮點。黑色內襯與鞋底不再融入鞋面，而是與藍色皮革形成對比。兩款鞋均搭載同一套耐用鞋底。黑色中底在後跟及前掌位置內置可視 Air 緩震，厚實的深紋橡膠外底則提供抓地力。Nike 可追溯至 1987 年，當時 Air Max 系列首度展示其緩震系統；Goadome 則將這項技術帶到它原本並非為此而設的地形。Goadome 於 1990 年代末首度以 ACG 行山靴身份推出，至今一直擁有一批忠實擁躉。Low 版本降低鞋領高度，同時保留靴款適合戶外活動的結構。這兩款鞋是 Goadome Low 今秋推出的最新作品。Taller De Rafa x Nike Air Max Goadome Low 將於 9 月 25 日以仿舊啡色皮革登場，也再次帶動外界對低筒版本的關注。約兩星期後，兩款鱷魚壓紋配色將會推出，以更乾淨、精緻的外",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftNike-Air-Max-Goadome-Low-Navy-Croc-Black-Croc-IV4517-400-IV4517-001-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-air-max-goadome-low-navy-croc-black-croc-iv4517-400-iv4517-001-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "The Nike Ja 4 “Deep Water” Has Officially Surfaced",
-   "source": "Nice Kicks",
-   "date": "2026-09-24",
-   "content": "The Nike Ja 4 “Deep Water” is set to release on September 25, 2026, via exclusively at FootLocker.com for $140. Ja Morant… The post The Nike Ja 4 “Deep Water” Has Officially Surfaced appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/ja9742-400-5-1-e1789134539115.jpg",
-   "link": "https://www.nicekicks.com/nike-ja-4-deep-water-ja9742-400/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "Nike Kobe 3 Protro “Ocra”",
-   "source": "Nice Kicks",
-   "date": "2026-09-24",
-   "content": "The Nike Kobe 3 Protro “Ocra” is set to release on September 26, 2026, via SNKRS and select retailers for… The post Nike Kobe 3 Protro “Ocra” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_kobe-3-protro-black-and-white-iq5340-001-release-date-3-1-e1789742543471.jpeg",
-   "link": "https://www.nicekicks.com/nike-kobe-3-protro-ocra-iq5340-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 37,
-   "title": "J Balvin x Air Jordan 4 “Amazonas” September 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-24",
-   "content": "J Balvin continues his run with Jordan Brand by bringing his colorful vision to the Air Jordan 4 with the… The post J Balvin x Air Jordan 4 “Amazonas” September 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_2_sneakers-air-jordan-x-j-balvin-4-retro-lemonade-iw2872-700-5-1-e1790277409883.jpeg",
-   "link": "https://www.nicekicks.com/j-balvin-air-jordan-4-amazonas-iw2872-700/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "Air Jordan 4014 “Ferrari” September 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-24",
-   "content": "The Air Jordan 4014 “Ferrari” is expected to release on September 26, 2026, via SNKRS and select retailers at the retail of… The post Air Jordan 4014 “Ferrari” September 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2025/10/ir2082-600-5-e1765977206486.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-4014-ferrari-ir2082-600/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "Pokémon x adidas Megaride F50 “Pikachu”",
-   "source": "Nice Kicks",
-   "date": "2026-09-24",
-   "content": "The Pokémon x adidas Megaride F50 “Pikachu” is expected to release on September 24, 2026, via adidas.com, adidas CONFIRMED and select retailers… The post Pokémon x adidas Megaride F50 “Pikachu” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/KH6544_6-1-e1790265391211.jpg",
-   "link": "https://www.nicekicks.com/pokemon-adidas-megaride-f50-pikachu-kh6544/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "PUMA MB.06 “Shooting Star” September 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-24",
-   "content": "The PUMA MB.06 “Shooting Star” is releasing on September 25, 2026, via PUMA.com and select retailers for $130. Check out the… The post PUMA MB.06 “Shooting Star” September 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/08/26AW_BB_MB06_Shooting-Star_Product_1037_RGB-1-scaled-e1787858351704.jpg",
-   "link": "https://www.nicekicks.com/puma-mb-06-shooting-star-313624-01/",
-   "lang": "en",
-   "relatedBrands": [
-    "PUMA"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "Billionaire Boys Club x Reebok Club C 85 “Grey”",
-   "source": "Nice Kicks",
-   "date": "2026-09-24",
-   "content": "The Karol G x Reebok Club C 85 Vintage “Born Classic. Worn Together” is releasing exclusively online on September 18, 2026 via bbcicecream.com. A… The post Billionaire Boys Club x Reebok Club C 85 “Grey” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/FW26_BBCCLUBC85_organic-9-1-scaled-e1788882100581.png",
-   "link": "https://www.nicekicks.com/billionaire-boys-club-reebok-club-c-85-grey-100285332/",
-   "lang": "en",
-   "relatedBrands": [
-    "REEBOK"
    ]
   }
  ]
