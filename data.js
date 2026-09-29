@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-09-29 08:08",
+ "updatedAt": "2026-09-29 16:07",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -29,6 +29,94 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Shai Gilgeous-Alexander 率先上腳未發布之 Virgil Abloh Archive x Nike Air Force 1 Low",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-29",
+   "content": "摘要 Shai Gilgeous-Alexander 在 Oklahoma City Thunder 媒體日當天，穿上一雙尚未發佈的橙色 Virgil Abloh Archive x Nike Air Force 1 Low。 Oklahoma City Thunder 球星 Shai Gilgeous-Alexander 在球隊近期的媒體日上，被發現穿著一雙未發布的 Virgil Abloh Archive x Nike Air Force 1 Low。這次亮相突顯了這位運動員在由 Converse 轉投 Nike 後，獲得了接觸未曝光鞋款的獨家機會。Gilgeous-Alexander 並沒有選擇預覽他即將推出的 SHAI 002 簽名鞋款或穿著 SHAI 001，而是選擇展示這款經典輪廓的大膽同色系版本。根據提供的圖片，這雙運動鞋延續了早前 Virgil Abloh 企劃（之前以 Off-White 名義發布）中常見的既定設計語言，並應用在與其 Thunder 球衣完美相襯的醒目橙色基調上。這次亮相暗示 Gilgeous-Alexander 或許會利用他新的 Nike Basketball 合作關係，來展示引人注目的未發布企劃。目前尚未清楚這款鮮橙色配色是純粹的球員專屬樣本，還是會迎來更廣泛的發布。 View this post on InstagramA post shared by Oklahoma City Thunder (@okcthunder) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fshai-gilgeous-alexander-debuts-unreleased-virgil-abloh-archive-nike-air-force-1-low-orange-nba-okc-media-day-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/shai-gilgeous-alexander-debuts-unreleased-virgil-abloh-archive-nike-air-force-1-low-orange-nba-okc-media-day",
+   "lang": "zh",
+   "relatedBrands": [
+    "CONVERSE",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Diemme x Rayon Vert 將庫存軟呢重塑為高山戶外鞋款 Grappa Verde",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-29",
+   "content": "名稱：Diemme x Rayon Vert Grappa Verde配色：橄欖綠／沙色軟呢、綠／藍色軟呢、灰色尼龍、栗色／奶油色軟呢SKU：待定建議零售價：待定發售日期：9 月 30 日發售點：DiemmeDiemme 與 Rayon Vert 共同發表 Grappa Verde，這款以 Diemme 經典 Grappa 輪廓為基礎的鞋作，專為戶外日常穿著而設計，共推出四款設計。作為雙方的首次聯乘，此鞋款捨棄了現代科技布料，轉而選用 Diemme 庫存的羊毛軟呢，靈感源自過去「Alpini」在山區穿著的服飾布料。整個系列分為三款軟呢選擇（橄欖綠／沙色軟呢、綠／藍色軟呢及栗色／奶油色軟呢），以及一款灰色尼龍版本。選用軟呢不僅出於懷舊情懷，更具備實際功能。其緻密的羊毛編織數世紀以來一直被視作機能布料，能抵禦寒風與濕氣，同時保持透氣、溫暖及耐用，即使長時間處於寒冷環境中亦能保持硬挺。這項設計概念回溯到合成塗層普及前的時代，當時的高山服裝全憑纖維與製作工藝來展現強韌度。灰色尼龍版本則以現代物料革新這一理念，同時追求防護與舒適的相同平衡。這裡提到的 Alpini 是意大利的精銳山地步兵，該部隊成立於 1870 年代，負責保衛國家的阿爾卑斯山邊界。他們以羊毛為主的裝備，賦予了 Grappa Verde 在材質上的合理性，以及其柔和、適合戶外著用的色調。結構方面在關鍵部位對鞋面提供了支撐。意大利製的麂皮裁片強化了易磨損區域，內部則採用皮革內襯，並於 Diemme 的標準乳膠底座上配備了定製插畫鞋墊。鞋底部分，鞋面與鞋底的接縫處以手工包裹橡膠邊條，而 Vibram HIKER 大底則為不平坦的地面提供抓地力與穩定性。最後配以機能感十足的綁帶金屬配件完成整體設計。這種對高山的關注源於品牌的發源地。Diemme 創立於 1992 年，總部設於 Asolo，從工廠車間就能眺望 Dolomites，這種近距離的接觸塑造了 Grappa Verde 適合日常及全天候穿著的定位。是次企劃亦將這條脈絡延伸至國界之外。由 Theodor Guelat 掌鏡的宣傳大片在瑞士 Graubünden（靠近",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftDiemme-Rayon-Vert-Grappa-Verde-Olive-Sand-Tweed-Green-Blue-Tweed-Grey-Nylon-Maroon-Cream-Tweed-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/diemme-rayon-vert-grappa-verde-olive-sand-tweed-green-blue-tweed-grey-nylon-maroon-cream-tweed-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 3,
+   "title": "Jordan Spizike Low Utility 最新「Spruce Fog」配色官方照片釋出",
+   "source": "Hypebeast 中文",
+   "date": "2026-09-29",
+   "content": "鞋款：Jordan Spizike Low Utility「Spruce Fog」配色：Spruce Fog/Black-Reflect Silver-Newsprint型號：IU8042-300定價：$175 美元發售日期：2026 年Jordan Brand 準備推出 Spizike Low Utility 最新「Spruce Fog」配色，這是該混血鞋款首度採用 Utility 機能導向設計，透過更具保護性的物料結構，將熟悉的輪廓改造成適合潮濕冬季環境。此鞋款以「Spruce Fog」、「Black」、「Reflect Silver」及「Newsprint」色調為主，採用低調的鼠尾草灰色防彈尼龍鞋面，其細緻的抗撕裂網格紋理，相比起傳統的麂皮與皮革，賦予鞋面更強悍、更具科技感的表面質感。同色系的 Spruce Fog 覆蓋層與模製鞋眼組件令鞋面保持低調，而側面網眼、結構側翼、內襯及帶有反光斑點的鞋帶則採用黑色，形成更鮮明的對比。亮面黑色鞋帶扣與細微的反光點綴，在原本啞面、具機能性的色調中增添了少許光澤。這款鞋最大的更新在於其進階物料結構。有別於傳統常用的麂皮與皮革，現在鞋面大部分採用耐用的防彈尼龍製成。為進一步強化鞋履抵禦惡劣天氣的能力，標準擋泥板已替換為底部堅固如橡膠般的防護罩。這種保護性包裹特別針對最容易接觸雨水、泥濘及濕滑路面的區域，在不犧牲其標誌性輪廓的情況下，提升了鞋款的抗候性能。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fjordan-spizike-low-utility-spruce-fog-black-reflect-silver-newsprint-iu8042-300-official-images-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/9/jordan-spizike-low-utility-spruce-fog-black-reflect-silver-newsprint-iu8042-300-official-images",
+   "lang": "zh",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Shai Gilgeous-Alexander Debuts Unreleased Virgil Abloh Archive x Nike Air Force 1 Low",
+   "source": "Hypebeast",
+   "date": "2026-09-29",
+   "content": "Summary Shai Gilgeous-Alexander wore an unreleased orange Virgil Abloh Archive x Nike Air Force 1 Low during the Oklahoma City Thunder media dayThe sneaker features familiar design cues from previous Off-White collaborations bathed in a vibrant tonal execution matching his team uniformOfficial release details remain unknown as it is unclear if the pair will ever see a public retail launch Oklahoma City Thunder star Shai Gilgeous-Alexander was spotted wearing an unreleased Virgil Abloh Archive x Nike Air Force 1 Low during the team's recent media day. The sighting highlights the athlete's exclusive access to vaulted footwear following his transition from Converse to Nike.Rather than previewing his upcoming SHAI 002 signature model or wearing the SHAI 001, Gilgeous-Alexander opted to showcase a bold tonal iteration of the classic silhouette. According to the provided imagery, the sneaker f",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F29%2Fshai-gilgeous-alexander-debuts-unreleased-virgil-abloh-archive-nike-air-force-1-low-orange-nba-okc-media-day-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/shai-gilgeous-alexander-debuts-unreleased-virgil-abloh-archive-nike-air-force-1-low-orange-nba-okc-media-day",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE",
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Diemme x Rayon Vert Turn Deadstock Tweed Into an Alpine-Ready Grappa Verde",
+   "source": "Hypebeast",
+   "date": "2026-09-29",
+   "content": "Name: Diemme x Rayon Vert Grappa VerdeColorway: Olive / Sand Tweed, Green / Blue Tweed, Grey Nylon, Maroon / Cream TweedSKU: TBCMSRP: TBCRelease Date: September 30Where to Buy: DiemmeDiemme and Rayon Vert have unveiled the Grappa Verde, a four-piece take on Diemme's Grappa silhouette designed for daily wear in the outdoors. Marking the first collaboration between the two, the shoe skips modern technical textiles in favor of wool tweeds pulled from Diemme's deadstock, drawing on the fabrics once worn by the \"Alpini\" in the mountains.The lineup splits into three tweed options, Olive/Sand Tweed, Green/Blue Tweed and Maroon/Cream Tweed, plus a Grey Nylon version. The tweed choice is functional as much as it is nostalgic. Its dense wool weave has served as a performance fabric for centuries, holding off wind and moisture while staying breathable, warm and durable, and it keeps its shape throu",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F29%2FftDiemme-Rayon-Vert-Grappa-Verde-Olive-Sand-Tweed-Green-Blue-Tweed-Grey-Nylon-Maroon-Cream-Tweed-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/diemme-rayon-vert-grappa-verde-olive-sand-tweed-green-blue-tweed-grey-nylon-maroon-cream-tweed-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 6,
+   "title": "Tomo & Co. and REGAL Shoe & Co. Launch New Collaboration Line, Tomo & Shoe & Co.",
+   "source": "Hypebeast",
+   "date": "2026-09-29",
+   "content": "Tomo & Shoe & Co., a collaboration line between Tomo & Co. and REGAL Shoe & Co., has officially launched. To celebrate the debut, a pop-up tour will visit four cities—Fukuoka, Osaka, Tokyo, and Nagoya—starting in Fukuoka on Saturday, October 3.The collaborative project by Tomo & Co. will unfold starting in 2025, driven by the concepts of \"movement\" and \"travel.\" The campaign visuals feature Shinobu Okumura, owner of Mingei Okumura, who has traveled extensively throughout Japan and abroad, experiencing regional folk arts, craftsmanship, and local manufacturing. The encounters with people and craftsmanship that emerge through travel and movement are layered onto the world view of the project.For this collection, the focus was placed on the comfort walking shoes introduced by REGAL in the 1980s, which prioritized walkability and lightness. Based on the extensive archives REGAL has cultivate",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Ftomoco-regal-shoeco-tomo-shoe-co-new-line-release-info-01-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/tomoco-regal-shoeco-tomo-shoe-co-new-line-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 7,
+   "title": "Official Look at the Jordan Spizike Low Utility in “Spruce Fog”",
+   "source": "Hypebeast",
+   "date": "2026-09-29",
+   "content": "Name: Jordan Spizike Low Utility “Spruce Fog”Colorway: Spruce Fog/Black-Reflect Silver-NewsprintSKU: IU8042-300MSRP: $175 USDRelease Date: 2026Jordan Brand is preparing the Spizike Low Utility in “Spruce Fog,” the first Utility-oriented take on the hybrid silhouette, adapting its familiar shape for wetter winter conditions through a more protective material build. Dressed in \"Spruce Fog,\" \"Black,\" \"Reflect Silver\" and \"Newsprint,\" the sneaker centers on a muted sage-grey ballistic nylon upper, its fine ripstop-like grid lending the surface a tougher, more technical finish than the suede and leather typically associated with the model. Tonal Spruce Fog overlays and molded eyelet components keep the upper subdued, while black takes over the side netting, structural wings, lining and reflective-flecked laces for a sharper contrast. A glossy black lace lock and subtle reflective touches add ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F28%2Fjordan-spizike-low-utility-spruce-fog-black-reflect-silver-newsprint-iu8042-300-official-images-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/9/jordan-spizike-low-utility-spruce-fog-black-reflect-silver-newsprint-iu8042-300-official-images",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 8,
    "title": "JJJJound x New Balance 990v3 最新啡色麂皮鞋款曝光",
    "source": "Hypebeast 中文",
    "date": "2026-09-28",
@@ -41,7 +129,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 9,
    "title": "Willy Chavarria 與 adidas Originals 攜手為 2026 秋季重塑 Megaride 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-09-28",
@@ -54,7 +142,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 10,
    "title": "率先預覽 Bad Bunny x adidas Gazelle Indoor「Solar Gold」官方圖片",
    "source": "Hypebeast 中文",
    "date": "2026-09-28",
@@ -67,7 +155,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 11,
    "title": "Nike Air Max 95 Big Bubble「Cow Print」捨棄印花改用真牛毛材質",
    "source": "Hypebeast 中文",
    "date": "2026-09-28",
@@ -80,7 +168,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 12,
    "title": "Saucony 推出包含五款鞋履的全新「Space Cowboy」系列",
    "source": "Hypebeast 中文",
    "date": "2026-09-28",
@@ -93,7 +181,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 13,
    "title": "SUGARHILL 與 Converse 聯乘 ALL STAR LGCY HI 展現歲月痕跡",
    "source": "Hypebeast 中文",
    "date": "2026-09-28",
@@ -106,7 +194,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 14,
    "title": "Nike Moon Shoe OG Leather SP 迎來 3 款復古風格配色回歸",
    "source": "Hypebeast 中文",
    "date": "2026-09-28",
@@ -119,7 +207,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 15,
    "title": "HOKA ORA PRIMO 以搶眼「Tidal Wave」配色回歸",
    "source": "Hypebeast 中文",
    "date": "2026-09-28",
@@ -132,7 +220,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 16,
    "title": "Salomon 重新推出 SNOWCLOG OG 帶來三款冬季配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-28",
@@ -145,7 +233,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 17,
    "title": "JJJJound x New Balance 990v3 Revealed in Tan Suede",
    "source": "Hypebeast",
    "date": "2026-09-28",
@@ -158,7 +246,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 18,
    "title": "Willy Chavarria and adidas Originals Rework the Megaride for Fall 2026",
    "source": "Hypebeast",
    "date": "2026-09-28",
@@ -171,7 +259,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 19,
    "title": "Check Out Official Images of the Bad Bunny x adidas Gazelle Indoor \"Solar Gold\"",
    "source": "Hypebeast",
    "date": "2026-09-28",
@@ -184,7 +272,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 20,
    "title": "The Nike Air Max 95 Big Bubble \"Cow Print\" Swaps Printed Graphics for Real Calf Hair",
    "source": "Hypebeast",
    "date": "2026-09-28",
@@ -197,7 +285,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 21,
    "title": "Saucony Goes Full “Space Cowboy” With a Five-Shoe Collection",
    "source": "Hypebeast",
    "date": "2026-09-28",
@@ -210,7 +298,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 22,
    "title": "SUGARHILL and Converse’s ALL STAR LGCY HI Is Built To Age Over Time",
    "source": "Hypebeast",
    "date": "2026-09-28",
@@ -223,7 +311,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 23,
    "title": "Nike’s Moon Shoe OG Leather SP Returns in Three Vintage-Inspired Colorways",
    "source": "Hypebeast",
    "date": "2026-09-28",
@@ -236,7 +324,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 24,
    "title": "HOKA’s ORA PRIMO Returns in a Bold “Tidal Wave” Colorway",
    "source": "Hypebeast",
    "date": "2026-09-28",
@@ -249,54 +337,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
-   "title": "Salomon Revives the SNOWCLOG OG in Three Winter-Ready Colorways",
-   "source": "Hypebeast",
-   "date": "2026-09-28",
-   "content": "Name: Salomon SNOWCLOG OGMSRP: $125 USDRelease Date: Available NowWhere to Buy: SalomonSalomon is dipping back into its winter-ready archives with the revival of the SNOWCLOG OG, a rugged slip-on silhouette that perfectly balances outdoor utility with casual, everyday comfort. Built to tackle the shifting seasons, the returning model drops in a trio of distinct colorways: a sleek, monochromatic “Black,” a bold and highly visible “Cyber Yellow,” and an earthy, neutral “Safari.” This diverse palette ensures the release caters to a variety of styling preferences, from stealthy urban techwear and vibrant statement pieces to classic, trail-inspired gorpcore aesthetics.Designed for seamless transitions between slick pavements and light trails, the SNOWCLOG OG features a durable, weather-resistant upper that provides essential warmth and protection against the elements. Its laceless, slip-on co",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F28%2Fsalomon-snowclog-og-black-l45389900-cyber-yellow-l45390000-safari-l45390100-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/salomon-snowclog-og-black-l45389900-cyber-yellow-l45390000-safari-l45390100-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "SALOMON",
-    "UGG"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "Dr. Martens x Sage Nation Launch First-Ever Collaboration",
-   "source": "Hypebeast",
-   "date": "2026-09-28",
-   "content": "Dr. Martens and Sage Nation have unveiled their first-ever collaboration, sparking a dialogue through their distinct yet shared philosophies on contemporary craftsmanship. This partnership marks the second release in the Dr. Martens \"Statements in Craft\" series.The Made in England collection reimagines the classic Dr. Martens 1461 shoe through Sage Nation's distinct design language. Each pair reflects a mutual commitment to craft and quality, constructed from Classic Calf full-grain leather finished with natural oil and wax to develop a subtle, vintage pull-up effect over time. Sourced from the esteemed British tannery C.F. Stead, the leather upper is detailed with double welt stitching that splits through the front of the toe, echoing Sage Nation's signature Box Pleat trousers.The 3-eye silhouette is accented with tonal stitching, a single brushed silver eyelet, and matching flat waxed ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fdr-martens-x-sage-nation-collab-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/dr-martens-x-sage-nation-collab-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 20,
-   "title": "SSZ and WTAPS® Collaborate for the Second Time in Five Years",
-   "source": "Hypebeast",
-   "date": "2026-09-28",
-   "content": "SSZ, which conveys the mood of the moment through music, art, and messages rooted in surf and skate culture, has announced its second collaboration with WTAPS®—the first in five years. Following their initial partnership in 2021, this latest endeavor celebrates the 30th anniversary of WTAPS® and the 10th anniversary of SSZ.This collection features seven pieces centered around the mood of the “good old Japanese businessman.” With shirts based on the silhouette of a classic dress shirt and straight-leg trousers, the lineup incorporates nostalgic elements while proposing a style that blurs the lines between formal and casual.The lineup includes the white SHIRT 01 (27,500 yen) and brown checked SHIRT 02 (30,800 yen), TROUSERS in gray and black (36,300 yen), as well as a TEE (16,500 yen), FOOTWEAR (49,500 yen), BELT (16,500 yen), and BANDANNA (4,400 yen).The SSZ x WTAPS® collaboration items w",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fssz-wtaps-second-time-in-five-years-collaboration-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/ssz-wtaps-second-time-in-five-years-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 21,
-   "title": "PLATEAU STUDIO and SUBU Debut Their First Collaboration: the Lace-Up F-LINE",
-   "source": "Hypebeast",
-   "date": "2026-09-28",
-   "content": "Taiwanese rising brand PLATEAU STUDIO has released its first collaborative shoe with SUBU, the Japanese winter-sandal brand celebrating its 10th anniversary this year.The collaboration introduces the PLATEAU x SUBU LACE UP SLIPPER, which reimagines SUBU’s F-LINE through PLATEAU STUDIO’s distinctive sensibility. Its defining feature is a lace-up construction—the first of its kind for SUBU.The deep brown upper is paired with asymmetrically colored laces, adding details reminiscent of sneakers and outdoor footwear. Color flecks made from recycled materials are scattered throughout the off-white outsole, while shades that echo the laces lend it a vintage-inspired finish.SUBU embroidery appears at the side, while the PLATEAU STUDIO logo is placed on the footbed. Each pair also comes with a dedicated drawstring bag in the same material as the upper, finished with the PLATEAU STUDIO logo.The PL",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2Fimgi_86_150214-51-c2355c9d6c9251d617a2f8cd0981a5b0-3900x2600-1-scaled-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/plateau-studio-subu-collabo-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 22,
+   "id": 25,
    "title": "Willy Chavarria x adidas Megaride Low “Bones”",
    "source": "Nice Kicks",
    "date": "2026-09-28",
@@ -309,7 +350,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 26,
    "title": "Willy Chavarria x adidas Megaride Low “Wolf”",
    "source": "Nice Kicks",
    "date": "2026-09-28",
@@ -322,7 +363,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 27,
    "title": "Willy Chavarria x adidas Megaride Mid “Wolf”",
    "source": "Nice Kicks",
    "date": "2026-09-28",
@@ -335,31 +376,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
-   "title": "Nike 以 Air Force 1 Low ’01「Subway Rat」致敬紐約市文化",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-26",
-   "content": "摘要 Nike 即將推出一雙以 New York City 標誌性地鐵老鼠為靈感的 Air Force 1 Low ’01。這雙球鞋採用 College Grey 長絨麂皮鞋身，並以 Pink Glaze 細節點綴，鞋跟更延伸出仿「老鼠尾」設計。主題細節包括印有薄餅切片圖案的鞋墊、MetroCard 吊牌，以及繡上 NYC 字樣的客製鞋舌刺繡。 名稱：Nike Air Force 1 '01「Subway Rat」配色：College Grey／Pink Glaze貨號：IV6999-001建議零售價：美元 150 元發售日期：2026 年 10 月 7 日發售渠道：NikeNike 透過 Air Force 1 Low ’01「Subway Rat」，向紐約市粗獷文化中極具代表性的存在致敬。這雙即將推出的鞋款為經典輪廓注入呼應大都會風貌的主題細節，包括薄餅圖案與取材自交通系統的五金配件。鞋款採用「College Grey」與「Pink Glaze」配色，鞋頭、鞋身側面、Swoosh、鞋舌均以富觸感的長毛麂皮打造。柔和粉紅色點綴 Swoosh 標誌、中底與半透明橡膠外底；一條幼細粉紅飾條則從鞋跟後方延伸而出，模仿老鼠尾巴。鞋舌背面繡有「NYC」字樣，並由小型 Swoosh 貫穿，直接呼應紐約市次文化；左右鞋墊拼在一起後，會呈現一整片薄餅圖案。鞋款另附一枚仿黃色 MetroCard 的吊牌，其上配有醒目的藍色 Swoosh，以及一對額外的粉紅色替換鞋帶。Nike Air Force 1 Low ’01「Subway Rat」將於 2026 年 10 月 7 日發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-air-force-1-01-low-subway-rat-iv6999-001-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-air-force-1-01-low-subway-rat-iv6999-001-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "LOEWE Double L Loafer 將品牌標誌融入皮革之中",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-26",
-   "content": "名稱：LOEWE Double L Loafer配色：黑色、深朱古力色、深紫色、焦糖拿鐵色貨號：LOVL290X03-1100、LOVL290X02-9517、LOVL290X02-6417、LOVL290X02-0315建議零售價：1,150 美元發售日期：現已發售購買地點：LOEWELOEWE Double L Loafer 以柔軟質感為核心。柔韌皮革在鞋面打褶，並順著圓頭鞋楦塑形，視覺上更接近隨性的套穿鞋，而非硬挺、輪廓分明的樂福鞋。女裝款備有麂皮小牛皮及柔軟小牛皮選擇，每個版本均採用相同結構細節。打褶結構是這雙鞋的設計重點。LOEWE 並非把平整皮革覆於硬質鞋楦上，而是在鞋面將皮革收褶，令樂福鞋呈現柔和皺褶與富彈性的腳感。圓頭設計亦延續這種取向，避開傳統便士樂福鞋或馬銜扣樂福鞋較為銳利的鞋頭輪廓。品牌標誌的處理方式亦不尋常。LOEWE 沒有採用金屬扣飾或縫製徽章，而是以高頻工藝將 Double L 標誌壓於鞋面，讓標誌與皮革表面齊平，焦點因而落在材質與鞋型輪廓，而非五金配件。鞋履內外均以舒適度為考量：鞋墊附有襯墊，鞋內則全面鋪設納帕皮革，貼膚感格外柔軟。皮革外底嵌入一塊橡膠防滑片，在保留簡潔皮革底座的同時增加抓地力。10 毫米低跟令整體輪廓更貼近地面。不同配色採用不同皮革。當中 3 款以麂皮小牛皮製作，分別為深朱古力色、濃郁的深紫色及溫暖的焦糖拿鐵色；第 4 款則採用黑色光滑柔軟小牛皮，是系列中最百搭的選擇。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Floewe-double-l-loafer-suede-soft-calfskin-black-dark-chocolate-caramet-latte-deep-purple-lovl290x02-6417-9517-0315-lovl290x03-1100-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/loewe-double-l-loafer-suede-soft-calfskin-black-dark-chocolate-caramet-latte-deep-purple-lovl290x02-6417-9517-0315-lovl290x03-1100-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 27,
+   "id": 28,
    "title": "Where To Buy the Air Jordan 1 Low OG “Last Dance At The Garden”",
    "source": "Nice Kicks",
    "date": "2026-09-26",
@@ -369,19 +386,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "JORDAN"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "Nike 透過 AirWorks 計劃發表 3D 打印 Air Max Link",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-25",
-   "content": "Nike 正式推出 Nike Air Max Link，這是品牌創新 AirWorks 計劃孕育出的最新 3D 打印概念鞋款。這雙充滿未來感的鞋款由常駐北京的設計師 Marc Su 創作，旨在透過設計連結社群與文化。Su 形容這雙鞋是「由北京出發，為社群連結至我們的未來」，其結構與 Air Max 1000 有相似之處，同時借鑑 Nike 在 90 年代末 Alpha Project 時期的設計語言。鞋款以雕塑感中底為主軸，向上延伸並環繞鞋跟，後方則由層疊式結構支撐。平滑鞋面裁片由鞋跟一路延伸至鞋頭，配以尖角鞋面覆片及鞋領開口。為呼應 AirWorks 的核心理念，前掌直接嵌入兩個可見 Air 氣墊單元。繼 Motoi Hatsuki 早前的 AirWorks 項目後，Nike 預計會在 2027 年 Air Max Day 前，為親友小規模推出 Nike Air Max Link；至於更大規模的公開發售安排，目前尚未確認。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fnike-air-max-link-3d-printed-via-airworks-program-new-silhouette-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/nike-air-max-link-3d-printed-via-airworks-program-new-silhouette-revealed",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
    ]
   },
   {
@@ -438,25 +442,25 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 33,
+   "title": "Nike Air Bakin SP “OG” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-09-25",
+   "content": "Debuting in 1997, the Nike Air Bakin embodied the larger-than-life style of late-’90s basketball footwear, gaining added visibility on the… The post Nike Air Bakin SP “OG” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/imgi_1_snkrs-verified-september-2026-2-1-e1787148287656.jpeg",
+   "link": "https://www.nicekicks.com/nike-air-bakin-sp-og-iq5365-600/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 34,
    "title": "Bad Bunny x adidas BadBo 1.1 “Chalk White” September Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-25",
    "content": "The Bad Bunny x adidas BadBo 1.1 “Chalk White” is set to release on September 26, 2026, via adidas CONFIRMED… The post Bad Bunny x adidas BadBo 1.1 “Chalk White” September Release Date & Info appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/09/LC5466_6-1-e1788806087550.jpg",
    "link": "https://www.nicekicks.com/bad-bunny-adidas-badbo-1-1-chalk-white-lc5466/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-09-25",
-   "content": "The Bad Bunny x adidas BadBo 1.0 “Night Navy” is releasing on September 26, 2026, via adidas CONFIRMED and select… The post Bad Bunny x adidas BadBo 1.0 “Night Navy” September 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/LB5996_6-1-e1789771255677.jpg",
-   "link": "https://www.nicekicks.com/bad-bunny-adidas-badbo-1-0-night-navy-lb5996/",
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
