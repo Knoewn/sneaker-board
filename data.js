@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-01 16:07",
+ "updatedAt": "2026-10-02 08:07",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,21 +17,56 @@ window.SNEAKER_DATA = {
  "brands": [
   "ADIDAS",
   "ASICS",
-  "CONVERSE",
-  "CROCS",
-  "HOKA",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
-  "PUMA",
+  "ON RUNNING",
   "SALOMON",
-  "UGG",
-  "VANS"
+  "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Feid 與 Salomon 共同發布 ACS NEXXT「The Green Star」",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-01",
+   "content": "摘要 Salomon 與品牌大使 Feid 正式發布聯乘鞋款 ACS NEXXT 「The Green Star by Feid」這款機能輪廓加入 Feid 招牌「Ferxxo」綠色的乳牛紋大底、幻彩金屬感細節，以及他的手繪簽名在 10 月 10 日全球發售之前，將於 10 月 2 日至 10 月 4 日期間在 Queens 舉行快閃活動 Salomon 與榮獲拉丁格林美獎的歌手 Feid 正式發布 Salomon ACS NEXXT: The Green Star by Feid，標誌著雙方合作邁入新階段。這個前衛的鞋履企劃將 Salomon 的戶外機能傳統與這位哥倫比亞音樂人的標誌性視覺世界完美融合。ACS NEXXT 延續了 ACS PRO 的設計基礎，保留品牌標誌性的 Agile Chassis System 與極具辨識度的網狀鞋面，同時為日常休閒風格受眾重新演繹該系列。設計上，外底採用 Feid 標誌性的「Ferxxo」綠色牛紋圖案，與鞋面上的幻彩鍍鉻細節形成鮮明對比。為增添個人色彩，編織鞋舌標籤上更直接繡有 Feid 的手繪簽名。為慶祝此鞋款登場，Salomon 將於 10 月 2 日（星期五）至 10 月 4 日（星期日）期間，在 New York 的 Queens 舉辦期間限定活動。當地顧客可於美東時間 10 月 1 日（星期四）中午 12 時前透過 Salomon.com 參與網上抽籤，中籤者可於網上購買此鞋款，並親身前往 Queens 的活動場地取貨。Feid x Salomon ACS NEXXT: The Green Star by Feid 將於 2026 年 10 月 10 日透過 Salomon 官方網站及指定 Salomon 零售店作全球發售，定價為 150 美元。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Ffeid-salomon-acs-nexxt-the-green-star-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/feid-salomon-acs-nexxt-the-green-star-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Nike 正式發佈 Apex 馬拉松競速跑鞋",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-01",
+   "content": "摘要 Nike 正式發佈 Apex 馬拉松跑鞋，旨在為比賽日提供極致的效能與速度此鞋款於前掌位置搭載雙層 Air Zoom 氣墊，並配合 ZoomX LT 泡棉及 40mm 的零足差平台此鞋款將於 2027 年 1 月透過 Nike 及指定零售商在全球正式發售 Nike 正式推出 Nike Apex，標誌著品牌在馬拉松比賽日創新技術上的巔峰之作。這款輕量化競速系統專為分秒必爭的競賽跑者而生，旨在提供前所未有的能量回饋與向前推進力。Apex 是 Nike 首款搭載四個 Air Zoom 氣墊的競速跑鞋，前掌採用兩組雙層配置，成為 Swoosh 跑鞋史上注入最多 Air 氣墊的型號。此系統專為壓縮、儲存及回饋能量而設計，能比 Alphafly 3 提供高達 40% 的額外能量回饋，同時重量減輕超過 10%。鞋款採用平衡的 40 毫米零足跟差（zero-drop）中底平台，由腳跟到腳尖提供一致的支撐、緩震與回彈力。包覆在 Air Zoom 系統周圍的是全新 ZoomX LT 中底泡棉，設計比傳統 ZoomX 更柔軟、更輕盈且更具回彈性。凸起的反向波浪碳纖維 Flyplate 將壓力直接傳導至雙層 Air 氣墊中，配合加寬的外底與搖桿幾何輪廓，維持跑速的穩定性。上方採用透氣的 Flyknit X 鞋面，結合貼合的針織鞋領與無鞋墊結構，打造極簡且如手套般緊密貼合的腳感，最後由鞋底的 GOATEK 與 Fast Shot 抓地設計完美作結。Nike Apex 將於 2027 年 1 月透過 Nike 及指定零售商正式發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-apex-marathon-racing-shoe-official-announcement-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-apex-marathon-racing-shoe-official-announcement",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "New Balance 推出 204L「Truffle Salt」 結合 70 年代修長輪廓與 2000 年代科技美學",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-01",
+   "content": "摘要 New Balance 推出全新 204L 鞋型，並帶來「Truffle Salt」配色這款低筒鞋型結合了 70 年代跑鞋的纖細輪廓、2000 年代的科技質感以及室內足球鞋的設計元素此休閒運動鞋將於 2026 年 10 月 1 日經由 New Balance 官方正式發售 名稱： New Balance 204L「Truffle Salt」配色： Truffle Salt/Fast Track貨號： U204L8WR建議售價： 120 美元發售日期： 現已發售購買渠道： New BalanceNew Balance 官方正式推出 204L「Truffle Salt/Fast Track」，這款全新低筒鞋型以街頭風格為基礎。這款百搭鞋履從室內足球鞋、70 年代田徑跑鞋與 2000 年代科技美學中汲取設計靈感，將於 2026 年 10 月 1 日發售。鞋款採用由優質「Truffle Salt」麂皮、網眼、牛皮及漆皮點綴構成的多層次鞋面。壓花覆面上飾有弧線點綴，鞋面中段融入網印圖案，側邊則配備雙層麂皮與反光物料製成的「N」字標誌。在鞋底方面，這款低筒鞋型配備 EVA 外底，結合了 2000 年代風格的受力軌跡與受 70 年代啟發的坑紋設計。整體結構巧妙平衡了修長的比例、科技質感與日常穿著的實用性。New Balance 204L「Truffle Salt」將於 2026 年 10 月 1 日正式發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnew-balance-204l-truffle-salt-U204L8WR-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/new-balance-204l-truffle-salt-u204l8wr-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 4,
    "title": "LISA 與 Nike 攜手讓經典 Moon Shoe 跑鞋重返軌道",
    "source": "Hypebeast 中文",
    "date": "2026-10-01",
@@ -44,7 +79,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 5,
    "title": "Nike 釋出 LeBron 24 最新「Greater China」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-01",
@@ -57,7 +92,59 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 6,
+   "title": "JD and Nike Are Dedicating This Year’s 1.10 Day to Liverpool",
+   "source": "Hypebeast",
+   "date": "2026-10-01",
+   "content": "JD has joined forces with Nike for the brand’s second annual 1.10 Day. A celebration of the staple Air Max 95, this year it revolves around the silhouette’s long-standing home of Liverpool, UK.Every sneakerhead knows Liverpool’s connection with the Air Max 95 goes back decades. But for those less familiar, the city’s obsession with the silhouette began in the ‘90s when football fans adopted it as part of their uniforms. It wasn’t until the retail price rose to £110 GBP that it continued to grow as a cultural icon, becoming widely known in the North of England as the 110. Honoring its enduring presence in the city, the sportswear retailer recently enlisted a lineup of local trailblazers for its dedicated 1.10 Day campaign. Headed by Liverpool F.C. footballer Dominik Szoboszlai, former Everton player Duncan Ferguson, rapper Kasst 8, and host Still Ryan as well as a wider cast of Ben Harris",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F25%2Fjd-nike-110-day-liverpool-campaign-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/jd-nike-110-day-liverpool-campaign-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Feid and Salomon Unveil the ACS NEXXT \"The Green Star\"",
+   "source": "Hypebeast",
+   "date": "2026-10-01",
+   "content": "Summary Salomon and brand ambassador Feid have officially announced the ACS NEXXT The Green Star by FeidThe technical silhouette incorporates a cow-pattern outsole in Feid's signature Ferxxo green iridescent chrome details and his hand-drawn signatureA Queens pop-up runs October 2 through October 4 ahead of the global October 10 launch Salomon and Latin GRAMMY-winning artist Feid have officially unveiled the Salomon ACS NEXXT: The Green Star by Feid, marking the next phase of their ongoing partnership. The progressive footwear project fuses Salomon's technical outdoor heritage with the Colombian musician's signature visual universe.Evolving from the foundation laid by the ACS PRO, the ACS NEXXT retains the brand's trademark Agile Chassis System and recognizable caged upper while reinterpreting the franchise for a lifestyle audience. The design features a cow-pattern outsole executed in F",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F30%2Ffeid-salomon-acs-nexxt-the-green-star-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/feid-salomon-acs-nexxt-the-green-star-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Joel Lyall Is Flipping His Daily Routine to Stay Ahead of the Fashion Game",
+   "source": "Hypebeast",
+   "date": "2026-10-01",
+   "content": "“When everyone else has gone to bed, it always comes back to why I started this,” shares Joel Lyall. The stylist and founder of vintage streetwear boutique Bythepeace is busy unloading fresh stock from his car outside his studio in West London. “Six years ago, I was working from my brother’s room at night, staying motivated to get things done. Now, this time of day is a reminder to keep pushing and persevering.”Hypebeast links up with Lyall at the start of the evening for a new campaign with UGG. As the pace of the city slows down, he lets us into what he considers the peak of his working day. From ideating streetwear looks to preparing vintage garments for sale, the visuals capture how the stylist seizes new opportunities at nightfall, while kitted out in the brand’s functional yet fashion-forward Fall 2026 collection. \"This time of day is a reminder to keep pushing and persevering.\"Sur",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F28%2Fugg-fall-2026-joel-lyall-hypebeast-campaign-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/ugg-fall-2026-joel-lyall-hypebeast-campaign-info",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Nike Officially Introduces the Apex Marathon Racing Shoe",
+   "source": "Hypebeast",
+   "date": "2026-10-01",
+   "content": "Summary Nike has unveiled the Apex marathon shoe built for peak race-day efficiency and speedThe silhouette introduces double-stacked Air Zoom units in the forefoot paired with ZoomX LT foam and a 40mm zero-drop platformThe shoe officially launches globally in January 2027 via Nike and select stockists Nike has officially introduced the Nike Apex, marking its pinnacle expression of marathon race-day innovation. Built for competitive runners chasing every possible second, the lightweight racing system is engineered to deliver unprecedented energy return and forward propulsion.The Apex stands as Nike’s first racing shoe to incorporate four Air Zoom units configured in two double-stacked pairs under the forefoot—the most Air ever applied to a Swoosh running model. Designed to compress, store, and return energy, the system delivers up to 40% more energy return than the Alphafly 3 while weigh",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F01%2Fnike-apex-marathon-racing-shoe-official-announcement-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-apex-marathon-racing-shoe-official-announcement",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
    "title": "New Balance Debuts the 204L in \"Truffle Salt\" Blending '70s Slimness and 2000s Tech Aesthetics",
    "source": "Hypebeast",
    "date": "2026-10-01",
@@ -70,7 +157,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 11,
    "title": "LISA and Nike Bring the Archival Moon Shoe Back Into Orbit",
    "source": "Hypebeast",
    "date": "2026-10-01",
@@ -83,7 +170,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 12,
    "title": "Nike Decorates the LeBron 24 \"Greater China\" in Auspicious Cloud Motifs",
    "source": "Hypebeast",
    "date": "2026-10-01",
@@ -96,7 +183,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 13,
    "title": "J Balvin and Jordan Brand Reveal the Latest Collab Air Jordan 4 \"Amazonas\"",
    "source": "Hypebeast",
    "date": "2026-10-01",
@@ -109,7 +196,200 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 14,
+   "title": "Oregon Ducks x Nike Air Force 1 Low Luxe SE “Triple Black”",
+   "source": "Nice Kicks",
+   "date": "2026-10-01",
+   "content": "The Oregon Ducks x Nike Air Force 1 Low Luxe SE “Triple Black” is set to release on October 5,… The post Oregon Ducks x Nike Air Force 1 Low Luxe SE “Triple Black” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/IMG_3498.png",
+   "link": "https://www.nicekicks.com/oregon-ducks-nike-air-force-1-low-luxe-se-triple-black-jf5453-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-01",
+   "content": "The Air Jordan 3 “Fireside” (Style Code: CK9246-200) drops in a chocolate like borwn color with other hues of brown… The post Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/ck9246-200-5-1-e1789833654816.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Marvel x adidas Superstar “Doctor Doom”",
+   "source": "Nice Kicks",
+   "date": "2026-10-01",
+   "content": "The Marvel x adidas Superstar “Doctor Doom” channels the iconic villain with a stealthy black leather build and metallic silver… The post Marvel x adidas Superstar “Doctor Doom” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/LA8469_1-1-e1790879181282.jpg",
+   "link": "https://www.nicekicks.com/marvel-adidas-superstar-doctor-doom-la8469/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Marvel x adidas Superstar “Black Panther”",
+   "source": "Nice Kicks",
+   "date": "2026-10-01",
+   "content": "The Marvel x adidas Superstar “Black Panther” channels Wakanda with a stealthy black build accented by regal gold studs and… The post Marvel x adidas Superstar “Black Panther” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/LA8473_1-1-e1790875672864.jpg",
+   "link": "https://www.nicekicks.com/marvel-adidas-superstar-black-panther-la8473/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Marvel x adidas Superstar “Ant-Man”",
+   "source": "Nice Kicks",
+   "date": "2026-10-01",
+   "content": "The Marvel x adidas Superstar “Ant-Man” brings the size-shifting Avenger to the shell-toe classic with a bold red and black… The post Marvel x adidas Superstar “Ant-Man” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/LA8472_1-1-e1790874559333.jpg",
+   "link": "https://www.nicekicks.com/marvel-adidas-superstar-ant-man-la8472/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Nike Caitlin 1 “Midnight Fever” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-01",
+   "content": "The Nike Caitlin 1 “Midnight Fever” is set to release on October 14, 2026, via SNKRS and select retailers for $140.… The post Nike Caitlin 1 “Midnight Fever” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/nike-caitlin-1-midnight-fever-1-scaled-e1789498495579.jpg",
+   "link": "https://www.nicekicks.com/nike-caitlin-1-midnight-fever-ih7423-600/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "Nike Air Force 1 Low Cracked Leather “Menta”",
+   "source": "Nice Kicks",
+   "date": "2026-10-01",
+   "content": "The Nike Air Force 1 Low Cracked Leather “Menta” is set to release on October 1, 2026, via select retailers… The post Nike Air Force 1 Low Cracked Leather “Menta” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_snkrs-verified-september-2026-1-2-e1788994582707.jpeg",
+   "link": "https://www.nicekicks.com/nike-air-force-1-low-cracked-leather-menta-ja0248-300/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "Nike Air Force 1 Low Cracked Leather “Black”",
+   "source": "Nice Kicks",
+   "date": "2026-10-01",
+   "content": "The Nike Air Force 1 Low Cracked Leather “Black” is set to release on October 1, 2026, via select retailers… The post Nike Air Force 1 Low Cracked Leather “Black” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_snkrs-verified-september-2026-5-e1788994458129.jpeg",
+   "link": "https://www.nicekicks.com/nike-air-force-1-low-cracked-leather-black-ja0248-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "One Designer, Two Collabs, Three Perfect Leather Shoes",
+   "source": "Highsnobiety",
+   "date": "2026-10-01",
+   "content": "British-Japanese designer Sage Toda-Nation is on a saucy streak this week, releasing three killer leather shoes through collabs at Sage Nation and YMC.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/ymc-sage-nation/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 23,
+   "title": "The Seven Best adidas Sneaker Releases This Week",
+   "source": "Highsnobiety",
+   "date": "2026-10-01",
+   "content": "In this iteration of our weekly round-up of adidas' best releases, find cow-print Taekwondos, Pokémon Sambas and much more.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/the-seven-best-adidas-sneaker-releases-this-week-4/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "How to Run Like a Local in: Rome",
+   "source": "Highsnobiety",
+   "date": "2026-10-01",
+   "content": "Welcome to RUN LIKE A LOCAL—a series powered by Zalando which brings you the insiders' take on running in three European metropolises.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/zalando-run-like-a-local-rome/",
+   "lang": "en",
+   "relatedBrands": [
+    "ON RUNNING"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Feid Loves Salomon Shoes so Much He Made His Own (EXCLUSIVE)",
+   "source": "Highsnobiety",
+   "date": "2026-10-01",
+   "content": "Feid debuts his Salomon ACS NEXXT \"Green Star\" sneaker, an all-new model bursting with his signature green color.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/feid-salomon-acs-nexxt-green-star/",
+   "lang": "en",
+   "relatedBrands": [
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Nike’s Dalmatian Sneaker Is a Purebred Stunner",
+   "source": "Highsnobiety",
+   "date": "2026-10-01",
+   "content": "Nike's Classic CS PRM sneaker is a GAT-coded stunner that literally has that dog in it.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-classic-cs-prm-dalmatian-sneaker/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 27,
+   "title": "Winter Be Damned, Bad Bunny's Latest Gazelle Is Drenched In Sun",
+   "source": "Highsnobiety",
+   "date": "2026-10-01",
+   "content": "While some divide opinions, the latest feels like one of the most wearable yet: The Bad Bunny x adidas Gazelle Indoor Solar Gold",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/bad-bunny-adidas-gazelle-solar-gold/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 28,
+   "title": "Nike’s Bargain Retro Runner Has a Pink Streak",
+   "source": "Highsnobiety",
+   "date": "2026-10-01",
+   "content": "With a design built mostly on shades of gray, the pink Swoosh-accentuations in this style of Nike AL8 really pop.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nikes-bargain-retro-runner-has-a-pink-streak/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 29,
    "title": "The Seven Best Nike Sneaker Releases This Week",
    "source": "Highsnobiety",
    "date": "2026-10-01",
@@ -122,20 +402,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
-   "title": "This Bottega-fied ASICS Runner Is Woven to Perfection",
-   "source": "Highsnobiety",
-   "date": "2026-10-01",
-   "content": "Sydney’s Above The Clouds reunites with the Japanese sportswear The duo introduces the Above The Clouds x ASICS GEL-SD Lyte.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/above-the-cloud-asics-gel-sd-lyte-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 9,
+   "id": 30,
    "title": "率先預覽 Nike Caitlin 1 至今曝光的所有配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-30",
@@ -148,7 +415,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 31,
    "title": "Salomon for Ray BEAMS XT-WHISPER 全新「CHERRY CAKE PARTY」配色登場",
    "source": "Hypebeast 中文",
    "date": "2026-09-30",
@@ -161,7 +428,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 32,
    "title": "遇水即變色：Erling Haaland 專屬全新 Nike Phantom 6 Low Elite 登場",
    "source": "Hypebeast 中文",
    "date": "2026-09-30",
@@ -174,7 +441,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 33,
    "title": "Nike Moon Shoe OG 注入花卉圖案並搭載原版 Waffle 鞋底",
    "source": "Hypebeast 中文",
    "date": "2026-09-30",
@@ -187,7 +454,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 34,
    "title": "ASICS 推出全新 GEL-TRANSCEND FJ 兩款大地配色",
    "source": "Hypebeast 中文",
    "date": "2026-09-30",
@@ -200,7 +467,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 35,
    "title": "率先預覽 Nike Caitlin 1「Halloween」夜光細節曝光",
    "source": "Hypebeast 中文",
    "date": "2026-09-30",
@@ -213,7 +480,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 36,
    "title": "Devin Booker 於 Phoenix Suns 媒體日率先曝光 Futura x Nike Book 2",
    "source": "Hypebeast 中文",
    "date": "2026-09-30",
@@ -226,34 +493,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
-   "title": "Shai Gilgeous-Alexander 率先著用橙色 Nike SHAI 002 簽名鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-30",
-   "content": "摘要 Shai Gilgeous-Alexander 率先展示了掛上 Nike 標誌的 Shai 001 運動鞋版本從更衣室曝光的圖片中可見，這款低筒設計保留了原始結構，並在鞋跟位置加入了 Nike 標誌這款全橙配色預計將於 2027 年 SHAI 002 推出前在球場上亮相 Nike 與 Shai Gilgeous-Alexander 率先展示了一款帶有 Nike 標誌的 Nike SHAI 002。透過 @twoshai 發布的更衣室照片，這次預覽確認了 Nike 在該名球員從 Converse 轉會後，計劃維持其簽名鞋款的設計。這雙鞋款被發現與一雙未發布的 Virgil Abloh Archive x Nike Air Force 1 放在一起，更新後的輪廓保留了其原來的 Converse 前作之俐落鞋面及低筒結構。設計採用了充滿活力的全橙色塗裝搭配同色系鞋帶，而主要的結構性更新則是在鞋跟處印上了 Nike 標誌。Nike 似乎選擇保留已確立的 Shai 001 輪廓，而非立即完全重新設計其鞋款系列。Gilgeous-Alexander 預計將在即將到來的 NBA 賽季開幕時穿上這款更新的鞋款，隨後再於 2027 年推出 SHAI 002。 View this post on InstagramA post shared by twoshai (@twoshai) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fshai-gilgeous-alexander-previews-nike-shai-002-orange-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/shai-gilgeous-alexander-previews-nike-shai-002-orange",
-   "lang": "zh",
-   "relatedBrands": [
-    "CONVERSE",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "Vans x MLB 攜手為 Los Angeles Dodgers 推出 Sk8-Hi 及 Era 聯乘鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-30",
-   "content": "名稱： Los Angeles Dodgers x Vans Sk8-Hi、Los Angeles Dodgers x Vans Era配色： 「Dodgers Classic Blue/White」SKU： VN0014YQ45K、VN00152S45K建議零售價： $140 美元、$120 美元發售日期： 10 月 9 日購買點： VansVans 與 MLB 將 Los Angeles Dodgers 的元素注入兩款經典鞋型 Sk8-Hi 與 Era 中，均採用「Dodgers Classic Blue/White」配色。Vans 將此次聯乘定調於南加州文化、社區與藝術。細節設計巧妙融合了球隊的標誌性元素與品牌自身的傳統。Dodgers 藍色主導了整體的色彩呈現，並以專屬的 Checkerboard 細節作點綴，將 Vans 最具代表性的圖案融入球隊的經典色調之中。Dodgers 標誌貫穿鞋面並延伸至大底，即使從鞋底也能展現與球隊的連結。獨特的表面處理讓這兩款鞋履脫穎而出。兩款鞋並非以嶄新潔淨的狀態出廠，而是刻意經過仿舊處理，賦予它們猶如已被穿著過的破舊質感。紅色縫線貫穿鞋面，直接呼應棒球元素。在球隊細節之下，鞋款結構保留了 Vans 的原汁原味。兩種款式皆採用帆布鞋面搭配硫化結構，橡膠側邊飾有品牌的經典護條。自 1966 年沿用至今的 Vans 標誌性窩夫格紋大底提供抓地力，而標準的繫帶設計則方便調節貼合度。兩款鞋型採用相同的設計手法，因此選擇僅取決於鞋筒高度。Era 以低筒輪廓呈現 Dodgers 風格，而 Sk8-Hi 則將其延伸至高筒設計。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2FftLos-Angeles-Dodgers-Vans-sk8-hi-era-Collaboration-VN0014YQ45K-VN00152S45K-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/los-angeles-dodgers-vans-sk8-hi-era-collaboration-vn0014yq45k-vn00152s45k-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 18,
+   "id": 37,
    "title": "Every Nike Caitlin 1 Colorway Teased So Far",
    "source": "Hypebeast",
    "date": "2026-09-30",
@@ -266,7 +506,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 38,
    "title": "Salomon for Ray BEAMS XT-WHISPER Goes Sweet in “CHERRY CAKE PARTY”",
    "source": "Hypebeast",
    "date": "2026-09-30",
@@ -279,7 +519,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 39,
    "title": "Erling Haaland's New Nike Phantom 6 Low Elite Only Shows Its True Colors When It Gets Wet",
    "source": "Hypebeast",
    "date": "2026-09-30",
@@ -292,7 +532,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 40,
    "title": "The Nike Moon Shoe OG Blooms With Florals Atop the Original Waffle Sole",
    "source": "Hypebeast",
    "date": "2026-09-30",
@@ -305,279 +545,29 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
-   "title": "ASICS Debuts the GEL-TRANSCEND FJ in two Earthy Hues",
-   "source": "Hypebeast",
-   "date": "2026-09-30",
-   "content": "Name: ASICS GEL-TRANSCEND FJColorway: Ash Green/Graphite Grey, Black Coffee/Graphite GreySKU: 1203B050.300, 1203B050.200MSRP: $150 USDRelease Date: Available NowWhere to Buy: ASICSASICS introduces the GEL-TRANSCEND FJ, a new silhouette that draws from the brand’s archive of 1990s hiking and walking footwear. The upper combines references from the TRANSCEND, GEL-ODYSSEY and GEL-RADIUS series, bringing together rugged leather paneling, perforated detailing, contrast stitching and dimensional ASICS Stripes within a substantial low-top profile.Two colorways lead the debut: “Ash Green/Graphite Grey” covers much of the upper in a pale, muted sage with a softly brushed finish, offset by dark grey mesh around the tongue and collar, patterned rope laces and a black midsole. “Black Coffee/Graphite Grey” takes a richer approach, using deep chocolate-brown leather throughout the upper with black tex",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F30%2Ffeaasics-gel-transcend-fj-1203b050-300-ash-green-graphite-grey-1203b050-200-black-coffee-graphite-grey-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/asics-gel-transcend-fj-1203b050-300-ash-green-graphite-grey-1203b050-200-black-coffee-graphite-grey-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS",
-    "UGG"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "First Look at the Nike Caitlin 1 \"Halloween\" Reveals Glow-in-the-Dark Details",
-   "source": "Hypebeast",
-   "date": "2026-09-30",
-   "content": "Summary Nike has revealed the first holiday-themed iteration of Caitlin Clark's debut signature model, the Nike Caitlin 1The Halloween-themed sneaker features a black base complemented by glow-in-the-dark outsoles and brandingThe pair is scheduled for a retail launch in October Name: Nike Caitlin 1 \"Halloween\"Colorway: Black/Ghost Green-Mint Foam-Racer BlueSKU: JA4290-001MSRP: $150 USDRelease Date: October 23, 2026Where to Buy: NikeNike has unveiled an early look at the Nike Caitlin 1 \"Halloween\", marking the first holiday-centric release for Caitlin Clark's debut signature silhouette. The colorway made its debut in a Nike social media clip showcasing the pair's luminous design accents.The model arrives dressed primarily in a sleek black palette, incorporating an official color scheme listed as Black, Ghost Green, Mint Foam, and Racer Blue. Maintaining a straightforward seasonal executio",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F30%2Fnike-caitlin-1-halloween-JA4290-001-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/nike-caitlin-1-halloween-ja4290-001-first-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "Devin Booker Reveals First Look at Futura x Nike Book 2 at Phoenix Suns Media Day",
-   "source": "Hypebeast",
-   "date": "2026-09-30",
-   "content": "Summary Devin Booker debuted a Futura x Nike Book 2 collaboration during the Phoenix Suns 2026 Media DayThe pair features custom abstract atom-like graphics and handwritten tongue branding by artist FuturaOfficial release information and retail pricing for the collaborative model have not been announced Nike and Devin Booker have offered a first look at the Futura x Nike Book 2, spotted during the Phoenix Suns' 2026 Media Day. Booker debuted the unreleased footwear alongside his new No. 15 jersey for the upcoming NBA seasonThe pair covers the upper in a vibrant mix of colors and abstract atom-like graphics designed by legendary New York graffiti artist Futura. According to source reports, the artwork was created specifically for Booker, stemming from a personal friendship built between the two over the years. Additional detailing includes \"BOOK\" written across the tongue in Futura's sign",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F30%2Fdevin-booker-futura-nike-book-2-first-look-phoenix-suns-media-day-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/devin-booker-futura-nike-book-2-first-look-phoenix-suns-media-day",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "Did HOKA Just Drop a Trail-Bound Bus Stop Outside Shibuya PARCO?!",
-   "source": "Hypebeast",
-   "date": "2026-09-30",
-   "content": "Did HOKA just drop a \"trail-bound\" bus stop right in front of Shibuya PARCO? The brand is hosting \"Meet the Speedgoat,\" a limited-time pop-up space exploring the roots of its beloved Speedgoat trail running shoes, open from Wednesday, September 30, to Sunday, October 4.Suddenly appearing in the middle of the city is a lone bus stop where ultra-runner Karl Meltzer sits. Known by his nickname \"Speedgoat\" for his ability to navigate rugged, technical trails with the effortless agility of a mountain goat, Meltzer takes center stage as the pop-up dives into the history behind the shoe franchise that debuted in his honor in 2015.The venue also showcases the Speedgoat 7, the latest iteration of HOKA's signature trail running line. Set against the backdrop of the bus stop featuring Meltzer holding the newest colorway, visitors can pick up a complimentary booklet detailing the shoe's design specs",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F30I5121-1-scaled-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/9/hoka-speedgoat-limited-time-pop-up-shibuya-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "HOKA",
-    "UGG"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Nike Air Force 1 Low Cracked Leather “Menta”",
+   "id": 41,
+   "title": "Air Jordan 16 “Black Pack” (IZ2586-001) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-09-30",
-   "content": "The Nike Air Force 1 Low Cracked Leather “Menta” is set to release on October 1, 2026, via select retailers… The post Nike Air Force 1 Low Cracked Leather “Menta” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_snkrs-verified-september-2026-1-2-e1788994582707.jpeg",
-   "link": "https://www.nicekicks.com/nike-air-force-1-low-cracked-leather-menta-ja0248-300/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "Nike Air Force 1 Low Cracked Leather “Black”",
-   "source": "Nice Kicks",
-   "date": "2026-09-30",
-   "content": "The Nike Air Force 1 Low Cracked Leather “Black” is set to release on October 1, 2026, via select retailers… The post Nike Air Force 1 Low Cracked Leather “Black” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_snkrs-verified-september-2026-5-e1788994458129.jpeg",
-   "link": "https://www.nicekicks.com/nike-air-force-1-low-cracked-leather-black-ja0248-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "STREET FIGHTER x PUMA Suede “Chun-Li”",
-   "source": "Nice Kicks",
-   "date": "2026-09-30",
-   "content": "The STREET FIGHTER x PUMA Suede “Chun-Li” is releasing on October 9, 2026, via PUMA.com and select retailers for $120. Check… The post STREET FIGHTER x PUMA Suede “Chun-Li” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_59_PUMA-x-STREET-FIGHTER-Suede-Chun-Li-Sneakers-1-e1790728380236.jpeg",
-   "link": "https://www.nicekicks.com/street-fighter-puma-suede-chun-li-410648-01/",
-   "lang": "en",
-   "relatedBrands": [
-    "PUMA"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "STREET FIGHTER x PUMA Suede “Ken”",
-   "source": "Nice Kicks",
-   "date": "2026-09-30",
-   "content": "The STREET FIGHTER x PUMA Suede “Ken” is releasing on October 9, 2026, via PUMA.com and select retailers for $120. Check… The post STREET FIGHTER x PUMA Suede “Ken” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_61_PUMA-x-STREET-FIGHTER-Suede-Ken-Sneakers-1-e1790727817315.jpeg",
-   "link": "https://www.nicekicks.com/street-fighter-puma-suede-ken-410646-01/",
-   "lang": "en",
-   "relatedBrands": [
-    "PUMA"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Salomon Takes Its Chunky Trail Shoe up Space Mountain",
-   "source": "Highsnobiety",
-   "date": "2026-09-30",
-   "content": "Salomon's extra chunky XT-4 sneaker is looking to take the XT-6's fashion throne.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/salomon-xt-4-sneaker-gray/",
-   "lang": "en",
-   "relatedBrands": [
-    "SALOMON"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "J Balvin's New Nike Drop Is Lurking Under the Surface",
-   "source": "Highsnobiety",
-   "date": "2026-09-30",
-   "content": "The Colombian star reunites with Jordan Brand for the J Balvin x Air Jordan 4 Amazonas.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/j-balvins-nike-air-jordan-4-amazonas/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "What if Nike’s Shattered Backboard Sneaker 3.0 Was a Dunk?",
-   "source": "Highsnobiety",
-   "date": "2026-09-30",
-   "content": "Nike's \"Campfire Orange\" Dunk Low sneaker is basically a slimmed-down iteration of the Shattered Backboard 3.0 AJ 1.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-dunk-low-campfire-orange-sneaker/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Miu Miu’s Sporty Crocodile New Balance Is Stylish Beyond the Swamp",
-   "source": "Highsnobiety",
-   "date": "2026-09-30",
-   "content": "Miu Miu's crocodile-coated New Balance 530 SL sneaker is luxe-meets-leisure Swamp style.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-miu-mius-530-sl-crocodile-sneaker/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "Crocs’ Trail Racer Gives the Clog Brand a Gorpy Detour",
-   "source": "Highsnobiety",
-   "date": "2026-09-30",
-   "content": "Crocs’ Quick Trail Racer V2 Cordura brings a gorpy, trail-ready edge to the brand’s sneaker lineup, arriving in a sleek Black/Carbon colorway.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/crocs-quick-trail-racer-v2-cordura/",
-   "lang": "en",
-   "relatedBrands": [
-    "CROCS"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "This Hybrid Jordan Tank Is More Than Prepped for Winter",
-   "source": "Highsnobiety",
-   "date": "2026-09-30",
-   "content": "Re-engineering the low-top variation with a gorped-out, weather-ready spin, Jordan Brand introduces the Jordan Spizike Low Utility Spruce Fog.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-jordan-spizike-low-utility-spruce-fog/",
+   "content": "The Air Jordan 16 “Black Pack” is set to release on October 3, 2026, via SNKRS and select retailers for… The post Air Jordan 16 “Black Pack” (IZ2586-001) October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/iz2586-001-5-1-e1790788640591.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-16-black-pack-iz2586-001/",
    "lang": "en",
    "relatedBrands": [
     "JORDAN"
    ]
   },
   {
-   "id": 36,
-   "title": "Kader Sylla 攜手 adidas Skateboarding 發表首款個人簽名鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-09-29",
-   "content": "重點摘要Kader Sylla 首款 adidas 簽名鞋款「Kader」定價為 $110 美元，將 90 年代籃球風格與耐用滑板性能完美結合。這款百搭的麂皮運動鞋於今日正式推出兩種配色，同時為其全球巡迴活動的北美站揭開序幕。職業滑板選手 Kader Sylla 攜手 adidas Skateboarding，推出個人首款專屬簽名運動鞋：The Kader。今日正式登場的 The Kader 帶來兩種配色，不僅向 adidas 的歷史檔案致敬，更以非傳統方式演繹品牌的經典細節。Kader 在官方聲明中表示：「我希望創造出一雙能代表我個人風格，並且讓我想每天穿著的鞋款。」他補充道：「我們參考了許多不同資料，不斷嘗試直到感覺完美為止。它是為滑板而生，但其穿著體驗並不局限於滑板場。我非常期待大家親身體驗，穿著它走到任何地方。」這款中筒鞋款的設計靈感源自 90 年代 adidas Equipment 籃球鞋輪廓，專為街頭與滑板場等多場景而設。The Kader 提供啡色麂皮配黃色蛇紋三間，以及黑色麂皮配紫色斑點三間兩個版本，透過將標誌性的三間設計直接融入鞋帶系統，重新詮釋經典，並將品牌元素與實用細節完美結合。為應對強烈衝擊力，此鞋款配備耐用的包邊外底、全長 Lightmotion 中底、Adituff 底層結構及優質麂皮鞋面。為慶祝鞋款發佈，Kader 將帶著他的新作展開盛大的全球巡迴活動。北美站將於明日（10 月 1 日）正式展開，由 Minneapolis 橫跨至 Los Angeles，為各地社區帶來滑板示範及滑板店見面活動。Kader Sylla 的 adidas Skateboarding 簽名鞋款現已於 adidas 官方網站發售，定價為 $110 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F09%2Fkader-sylla-adidas-skateboarding-signature-shoe-the-kader-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/9/kader-sylla-adidas-skateboarding-signature-shoe-the-kader",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 37,
-   "title": "STREET FIGHTER x PUMA Suede “Ryu”",
-   "source": "Nice Kicks",
-   "date": "2026-09-29",
-   "content": "The STREET FIGHTER x PUMA Suede “Ryu” is releasing on October 9, 2026, via PUMA.com and select retailers for $120. Check… The post STREET FIGHTER x PUMA Suede “Ryu” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_PUMA-x-STREET-FIGHTER-Suede-Ryu-Sneakers-1-1-e1790725710483.jpeg",
-   "link": "https://www.nicekicks.com/street-fighter-puma-suede-ryu-410647-01/",
-   "lang": "en",
-   "relatedBrands": [
-    "PUMA"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "Nike Ja 4 “Phantom”",
-   "source": "Nice Kicks",
-   "date": "2026-09-29",
-   "content": "The Nike Ja 4 “Phantom” is set to release on October 1, 2026, via Nike.com and select retailers for $130. Check out the… The post Nike Ja 4 “Phantom” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/im4135-100-5-1-e1790702892302.jpg",
-   "link": "https://www.nicekicks.com/nike-ja-4-phantom-im4135-100/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "Aminé x New Balance Made In USA 992 “Outdoor School”",
-   "source": "Nice Kicks",
-   "date": "2026-09-29",
-   "content": "The New Balance ABZORB 2000 LUXE “Thunder Brown” is releasing on October 1, 2026, via NewBalance.com and select retailers for $160. Check out the… The post Aminé x New Balance Made In USA 992 “Outdoor School” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/u992ne_NB_05_I-e1790700138837.webp",
-   "link": "https://www.nicekicks.com/amine-new-balance-made-in-usa-992-outdoor-school-u992ne/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "New Balance And Tyerese Maxey Unveil the Maxey v1",
-   "source": "Nice Kicks",
-   "date": "2026-09-29",
-   "content": "Tyrese Maxey continues to carve out his lane with New Balance, introducing a signature model that bridges performance basketball with… The post New Balance And Tyerese Maxey Unveil the Maxey v1 appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/04/IMG_3450.png",
-   "link": "https://www.nicekicks.com/new-balance-maxey-v1-umax2nk/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "New Balance ABZORB 2000 LUXE “Thunder Brown”",
-   "source": "Nice Kicks",
-   "date": "2026-09-29",
-   "content": "The New Balance ABZORB 2000 LUXE “Thunder Brown” is releasing on October 1, 2026, via NewBalance.com and select retailers for… The post New Balance ABZORB 2000 LUXE “Thunder Brown” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/u20004ey_NB_05_I-e1790698226942.webp",
-   "link": "https://www.nicekicks.com/new-balance-abzorb-2000-luxe-thunder-brown-u20004ey/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
    "id": 42,
-   "title": "New Balance ABZORB 2000 LUXE “Horizon Grey”",
+   "title": "Air Jordan 14 “Black Pack” (IZ3884-001) October 2026 Release Date & Info",
    "source": "Nice Kicks",
-   "date": "2026-09-29",
-   "content": "The New Balance ABZORB 2000 LUXE “Horizon Grey” is releasing on October 1, 2026, via NewBalance.com and select retailers for… The post New Balance ABZORB 2000 LUXE “Horizon Grey” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/u20001d3_NB_05_I-e1790697976142.webp",
-   "link": "https://www.nicekicks.com/new-balance-abzorb-2000-luxe-horizon-grey-u20001d3/",
+   "date": "2026-09-30",
+   "content": "The Air Jordan 14 “Black Pack” is set to release on October 3, 2026, via SNKRS and select retailers for… The post Air Jordan 14 “Black Pack” (IZ3884-001) October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/iz3884-001-2-e1790781828952.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-14-black-pack-iz3884-001/",
    "lang": "en",
    "relatedBrands": [
-    "NEW BALANCE"
+    "JORDAN"
    ]
   }
  ]
