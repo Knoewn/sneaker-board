@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03 08:08",
+ "updatedAt": "2026-10-03 16:05",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -21,7 +21,6 @@
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
-  "REEBOK",
   "SALOMON",
   "UGG"
  ],
@@ -29,6 +28,59 @@
  "news": [
   {
    "id": 1,
+   "title": "Nike 為 Vomero 5 換上「Camo Green」Cordura 材質對抗寒冬",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-03",
+   "content": "名稱：Nike Zoom Vomero 5 Cordura「Camo Green」配色：待定型號：IQ0380-300建議售價：$170 美元發售日期：2026 年冬季Nike Zoom Vomero 5 Cordura「Camo Green」準備於 2026 年冬季登場，這似乎是該鞋型首次採用 Cordura 材質。這次升級為跑鞋經典的拼接設計帶來更堅韌的物料，為鞋迷提供更耐磨的禦寒選擇，同時保留了令此鞋款成為街頭大熱的經典外型。Cordura 成為這次升級的焦點。這種高強度尼龍以耐磨見稱，長期應用於軍用裝備、背包及工作服中；在此鞋款上，它基本上被配置於 Vomero 5 夏季版本相同的結構位置。此舉在寒冷潮濕的日子提供了額外的保暖與防護，而鞋面的覆疊設計、立體中底以及整體比例仍保留了 Vomero 標誌性的風格。配色方面以低調沉穩為主軸。「Camo Green」與「Neutral Olive」這種充滿戶外氣息的大地色調覆蓋了大部分鞋面，而 Anthracite 和 Black 也被列入完整的配色名稱中。在這柔和的基調上，鞋帶孔及刺繡標誌上的亮眼橙色成為整雙鞋最突出的色彩點綴，為深色調注入鮮明俐落的實用感。Cordura 版本同時填補了 Vomero 5 在冬季鞋款選擇上的空白。在 2024 年底，Nike 推出了 Vomero 5 Roam 衍生型號，這款鞋全面採用全天候設計，包括尼龍基底、包裹鞋身的橡膠防護層以及強化的抓地力。這種設計大幅改變了鞋款的外觀。而這次的全新版本則介乎兩者之間，僅透過物料選擇來增加防護性，同時完好保留了原版鞋型的設計語言。對於一雙已成為 Nike 網眼跑鞋風潮代表作之一的鞋款來說，這是一個合理的策略。Vomero 5 原本是 2000 年代末期的專業跑鞋，後來作為日常穿搭必備單品重新回歸，並發展成 Swoosh 最具辨識度的鞋型之一。Cordura 鞋面讓這股日常受歡迎的熱潮得以延續至寒冷月份，而不必將這雙鞋束之高閣等待春天的到來。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FNike-Zoom-Vomero-5-Cordura-Camo-Green-IQ0380-300-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-zoom-vomero-5-cordura-camo-green-iq0380-300-official-images",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "adidas Originals GAZELLE OG 迎來俐落「Charcoal Gray」麂皮配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-03",
+   "content": "名稱： adidas Originals for green label relaxing GAZELLE OG「Charcoal Gray」配色： Charcoal Gray款式代碼： LC2631建議售價： ¥15,400 日圓（約 $98 美元）發售日期： 10 月 9 日發售點： UNITED ARROWSadidas Originals 與 UNITED ARROWS 旗下品牌 green label relaxing 再次為 GAZELLE OG 推出專屬「Charcoal Gray」配色，為這款經典輪廓注入更柔和的大地氣息。此鞋款採用單一配色，鞋面以帶有微妙橄欖色調的深炭灰色麂皮包覆，使顏色在不同光線下於冷灰色與暗綠色之間變換。啡色細節進一步為整體色調增添暖意，而麂皮柔軟的絨面則為內斂的飾面增添層次感。鞋底採用經典啡色生膠外底，不僅強化了 Gazelle 的復古特色，更與深色鞋面形成自然的色調過渡，而非強烈的對比。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fadidas-originals-for-green-label-relaxing-gazelle-og-charcoal-gray-lc2631-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/adidas-originals-for-green-label-relaxing-gazelle-og-charcoal-gray-lc2631-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Nike Toughens Up the Vomero 5 for Winter With a Cordura \"Camo Green\" Build",
+   "source": "Hypebeast",
+   "date": "2026-10-03",
+   "content": "Name: Nike Zoom Vomero 5 Cordura “Camo Green”Colorway: TBCSKU: IQ0380-300MSRP: $170 USDRelease Date: Holiday 2026The Nike Zoom Vomero 5 Cordura \"Camo Green\" is gearing up for Holiday 2026, marking what looks to be the silhouette's first outing in Cordura. The update brings a more rugged material to the runner's well-known panel layout, giving fans a tougher cold-weather option without changing the shape that made the shoe a street favorite.Cordura is the headline upgrade. The textile is a high-tenacity nylon prized for abrasion resistance and long used in military gear, packs and workwear, and here it is mapped onto essentially the same layout the Vomero 5 uses in its warm-weather versions. The result is added insulation and resilience for wet, cold days, while the overlays, sculpted midsole and overall proportions stay recognizably Vomero.The colorway keeps things grounded. \"Camo Green\"",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F02%2FNike-Zoom-Vomero-5-Cordura-Camo-Green-IQ0380-300-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-zoom-vomero-5-cordura-camo-green-iq0380-300-official-images",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "The adidas Originals GAZELLE OG Arrives in a Sleek \"Charcoal Gray\" Suede",
+   "source": "Hypebeast",
+   "date": "2026-10-03",
+   "content": "Name: adidas Originals for green label relaxing GAZELLE OG “Charcoal Gray”Colorway: Charcoal GraySKU: LC2631MSRP: ¥15,400 JPY (approx. $98 USD)Release Date: October 9Where to Buy: UNITED ARROWSadidas Originals and UNITED ARROWS’ green label relaxing revisit the GAZELLE OG with an exclusive “Charcoal Gray” treatment that gives the archival silhouette a softer, earthier character.Offered as a single colorway, the sneaker covers its upper in deep charcoal-grey suede carrying a subtle olive undertone, allowing the shade to shift between cool grey and muted green depending on the light. Brown nuances further warm the palette, while the suede’s softly brushed surface adds depth to the otherwise restrained finish. Underfoot, a classic brown gum-rubber sole reinforces the vintage character of the Gazelle, creating a natural tonal transition from the dark upper rather than a stark contrast. Click",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F30%2Fadidas-originals-for-green-label-relaxing-gazelle-og-charcoal-gray-lc2631-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/adidas-originals-for-green-label-relaxing-gazelle-og-charcoal-gray-lc2631-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 5,
    "title": "Mr. Bailey 推出面向未來的全新「Terracotta」鞋款系列",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -39,7 +91,7 @@
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 6,
    "title": "Havaianas 與 Zellerfeld 發布 3D 打印 Top Toe Mule 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -50,7 +102,7 @@
    "relatedBrands": []
   },
   {
-   "id": 3,
+   "id": 7,
    "title": "ERL 發布全新 Vamps「Chocolate Brown」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -61,7 +113,7 @@
    "relatedBrands": []
   },
   {
-   "id": 4,
+   "id": 8,
    "title": "Nike Dunk Low 最新「Shibuya Halloween」配色鞋跟暗藏「鬼眼」細節",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -74,7 +126,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 9,
    "title": "Tyler, the Creator 與 Converse GOLF le FLEUR* 預告聯乘 1908 Bronco Boot Low 三款全新配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -87,7 +139,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 10,
    "title": "NIGO x J-Hope x Nike Air Force 1 '01「Burnt Sunrise」",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -100,7 +152,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 11,
    "title": "Pharrell Williams 疑似率先著用 adidas Adistar Jellyfish V2 新鞋款？",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -114,7 +166,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 12,
    "title": "Mr. Bailey Launches Terracotta Collection That's Built For The Future",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -125,7 +177,7 @@
    "relatedBrands": []
   },
   {
-   "id": 9,
+   "id": 13,
    "title": "Havaianas and Zellerfeld Unveil the 3D-Printed Top Toe Mule",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -136,7 +188,7 @@
    "relatedBrands": []
   },
   {
-   "id": 10,
+   "id": 14,
    "title": "ERL Unveils the Vamps Silhouette in \"Chocolate Brown\"",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -147,7 +199,7 @@
    "relatedBrands": []
   },
   {
-   "id": 11,
+   "id": 15,
    "title": "The Nike Dunk Low \"Shibuya Halloween\" Has Eyes in the Back of Its Head",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -160,7 +212,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 16,
    "title": "Tyler, the Creator and Converse GOLF le FLEUR* Tease Collaborative 1908 Bronco Boot Low in Three New Colorways",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -174,7 +226,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 17,
    "title": "NIGO x J-Hope x Nike Air Force 1 '01 \"Burnt Sunrise\"",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -187,7 +239,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 18,
    "title": "ROA and fragment Unveil First Collaboration — Reconstructing Hybrid Boots in Black and Blue",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -200,7 +252,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 19,
    "title": "Did Pharrell Williams Just Tease the adidas Adistar Jellyfish V2?",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -214,7 +266,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 20,
    "title": "Nike CEO Announces Supply Restrictions for Air Jordan Retro Models",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -228,7 +280,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 21,
    "title": "Converse SHAI 001 Shroud “Spark” Fall 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -241,7 +293,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 22,
    "title": "Converse SHAI 001 Shroud “Shock” Fall 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -254,7 +306,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 23,
    "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -267,7 +319,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 24,
    "title": "Brain Dead x adidas Samba Bowling “Snakeskin”",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -280,7 +332,7 @@
    ]
   },
   {
-   "id": 21,
+   "id": 25,
    "title": "Brain Dead x adidas Samba Bowling “Cheetah”",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -293,7 +345,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 26,
    "title": "Aminé x New Balance Made In USA 992 “Outdoor School”",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -306,7 +358,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 27,
    "title": "Anthony Edwards x adidas Superstar II “Stone”",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -319,7 +371,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 28,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -332,7 +384,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 29,
    "title": "Nike Mind 001 “Solar Red”",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -345,7 +397,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 30,
    "title": "Air Jordan 3 “Middle East” Gets a Refined Regional Makeover",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -358,123 +410,7 @@
    ]
   },
   {
-   "id": 27,
-   "title": "When Did Veja's Shoes Get so Good?",
-   "source": "Highsnobiety",
-   "date": "2026-10-02",
-   "content": "Veja, the famous maker of eco-friendly but rather snoozey sneakers, is turning out some seriously suave shoes these days — out of nowhere!",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/veja-best-sneakers/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 28,
-   "title": "Converse’s Square-Toe Sneaker Is Surprisingly Hiking-Coded",
-   "source": "Highsnobiety",
-   "date": "2026-10-02",
-   "content": "Converse Japan debuts the All Star Square-Toe DR LE OX, a hiking-style sneaker with formal-shoe flair.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/converse-all-star-square-toe-dr-le-ox/",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "Maxey’s Debut New Balance Basketball Sneaker Has Places to Be",
-   "source": "Highsnobiety",
-   "date": "2026-10-02",
-   "content": "Tyrese Maxey’s debut New Balance Maxey V1 brings a sleek, speed-focused basketball sneaker to the court.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-maxey-v1/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Nike’s All-Leather Air Max Makes the Blues Look Good",
-   "source": "Highsnobiety",
-   "date": "2026-10-02",
-   "content": "Nike's leather Air Max 90 \"Dark Smoke Grey/University Blue\" appears with blue gradients, resulting in a dreamy & luxe version of the model.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-90-dark-smoke-grey-university-blue/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
    "id": 31,
-   "title": "An Everyday Jordan Dad Shoe Becomes an Ultra-Cool PSG Sneaker",
-   "source": "Highsnobiety",
-   "date": "2026-10-02",
-   "content": "Paris Saint-Germain reveals its Jordan Ultra sneaker collaboration, featuring a nice faded design & stylish textures.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/paris-saint-germain-jordan-ultra/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "This Is adidas' Most Elegant Japan Sneaker",
-   "source": "Highsnobiety",
-   "date": "2026-10-02",
-   "content": "The Whitaker Group returns with a new adidas release: an insanely elegant square-toe Japan sneaker for Atlanta Fashion Week.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/whitaker-group-adidas-japan-square-toe/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Nike's Lazy Skate-y Sneaker Is a Real Trip",
-   "source": "Highsnobiety",
-   "date": "2026-10-02",
-   "content": "Nike's Blazy sneaker is back (& leaning back) in a new vibrant tie-dye look. It's easily the trippiest version of the lazy Blazer yet.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-blazy-tie-dye/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "Sole Food: Why Are We So Obsessed With Shoes Named After Food?",
-   "source": "Highsnobiety",
-   "date": "2026-10-02",
-   "content": "From Angel Reese's Reebok x Reese's collab to Cannoli-inspired adidas Sambas, food-themed sneakers are taking over the menu.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/food-sneakers-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "REEBOK"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "Courtney Kenefick Goes Behind the Stripes at adidas HQ",
-   "source": "Highsnobiety",
-   "date": "2026-10-02",
-   "content": "Courtney Kenefick goes inside the labs at adidas Home of Innovation before taking on the Berlin Marathon's famous 42 km.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/snob-diaries-courtney-kenefick-adidas/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 36,
    "title": "Feid 與 Salomon 共同發布 ACS NEXXT「The Green Star」",
    "source": "Hypebeast 中文",
    "date": "2026-10-01",
@@ -487,7 +423,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 32,
    "title": "Nike 正式發佈 Apex 馬拉松競速跑鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-01",
@@ -500,7 +436,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 33,
    "title": "New Balance 推出 204L「Truffle Salt」 結合 70 年代修長輪廓與 2000 年代科技美學",
    "source": "Hypebeast 中文",
    "date": "2026-10-01",
@@ -513,55 +449,54 @@
    ]
   },
   {
-   "id": 39,
-   "title": "LISA 與 Nike 攜手讓經典 Moon Shoe 跑鞋重返軌道",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-01",
-   "content": "摘要 BLACKPINK 成員 LISA 出演 Nike Moon Shoe 重新面世後的官方全球廣告這款檔案級跑鞋由 Bill Bowerman 於 1971 年最初開發原型，搭載標誌性的 Waffle 鞋底這款歷史悠久的輪廓將於 10 月 1 日正式回歸，並搭配紅色的色塊風格設計 Nike 與 BLACKPINK 成員 LISA 正式攜手，重新推出極具歷史意義的 Nike Moon Shoe。這位超級巨星讓品牌歷史最悠久的經典跑鞋之一重返軌道，巧妙連繫 1971 年的田徑傳統與現代生活魅力。Moon Shoe 的原型於 1971 年面世，專為田徑場上的速度而生，堪稱 Nike 運動裝備歷史上的奠基之作。鞋款以標誌性的窩夫大底為特色，這項突破性的抓地力設計源自品牌聯合創辦人 Bill Bowerman 早期的鞋履實驗。如今經過重新構想，並專為日常穿搭而設計，這款跑鞋成功從昔日的競技運動本源，蛻變成現代必備的鞋履單品。在最新釋出的企劃照片中，LISA 以一身搶眼的紅色拼色造型搭配這款經典波鞋。造型突顯了鞋款的低筒輪廓、外露的坑紋細節以及經典復古美學。透過將 1971 年的設計語言重新帶回大眾視野，此企劃成功將深厚的田徑傳統與現代文化完美交融。Nike Moon Shoe 將於 2026 年 10 月 1 日透過 Nike 全球發售。 View this post on InstagramA post shared by Nike Sportswear (@nsw) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fblackpink-lisa-nike-moon-shoe-red-campaign-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/blackpink-lisa-nike-moon-shoe-red-campaign-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Nike 釋出 LeBron 24 最新「Greater China」配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-01",
-   "content": "摘要 Nike 正式發佈為慶祝農曆新年而打造的 LeBron 24 大中華區限定配色率先預覽圖設計採用米色的 Kingknit 網眼鞋面，飾以紅色點綴以及傳統的祥雲圖案這款實戰鞋型預計於 2026 年 10 月 9 日在大中華區市場獨佔發售 鞋款名稱： Nike LeBron 24「Greater China」配色： Light Khaki/Metallic-Phantom Grey-Sail型號： IX5105-200建議售價： $190 美元發售日期： 2026 年 10 月 9 日發售地點： NikeNike 與 LeBron James 率先釋出 Nike LeBron 24「Greater China」的官方圖片，這款以農曆新年為主題的鞋款是 James 第 24 代簽名鞋的最新版本。在即將到來的 NBA 賽季前，這款特別版配色融入了傳統文化圖案。鞋身採用米色 Kingknit 網眼材質製成，並搭配邊緣飾有鮮紅色線條的白色 Swoosh 標誌，以及貫穿中軸的紅色鞋帶，形成強烈對比。前掌與鞋側印有傳統祥雲圖案，鞋舌頂部則以一排小方形點綴。外底紋理更直接壓印了中文字樣。LeBron 24 進一步昇華該系列的標誌性美學，延續上一代以皇冠為靈感的幾何設計，將精緻的皇冠細節巧妙融入中足穩定片、鞋跟穩定器、鞋頭與頂部鞋帶孔。Nike LeBron 24「Greater China」將於 2026 年 10 月 9 日正式發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-lebron-24-greater-china-ix5105-200-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/nike-lebron-24-greater-china-ix5105-200-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "JD and Nike Are Dedicating This Year’s 1.10 Day to Liverpool",
-   "source": "Hypebeast",
-   "date": "2026-10-01",
-   "content": "JD has joined forces with Nike for the brand’s second annual 1.10 Day. A celebration of the staple Air Max 95, this year it revolves around the silhouette’s long-standing home of Liverpool, UK.Every sneakerhead knows Liverpool’s connection with the Air Max 95 goes back decades. But for those less familiar, the city’s obsession with the silhouette began in the ‘90s when football fans adopted it as part of their uniforms. It wasn’t until the retail price rose to £110 GBP that it continued to grow as a cultural icon, becoming widely known in the North of England as the 110. Honoring its enduring presence in the city, the sportswear retailer recently enlisted a lineup of local trailblazers for its dedicated 1.10 Day campaign. Headed by Liverpool F.C. footballer Dominik Szoboszlai, former Everton player Duncan Ferguson, rapper Kasst 8, and host Still Ryan as well as a wider cast of Ben Harris",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F25%2Fjd-nike-110-day-liverpool-campaign-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/jd-nike-110-day-liverpool-campaign-info",
+   "id": 34,
+   "title": "New Balance’s Clean-Cut Skate Shoe Just Got a Nice Update",
+   "source": "Highsnobiety",
+   "date": "2026-09-26",
+   "content": "The New Balance Numeric Brandon Westgate 508 arrives in Reflection with Fairweather Blue, pairing a clean, understated base with subtle hits of blue.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-numeric-brandon-westgate-508/",
    "lang": "en",
    "relatedBrands": [
-    "NIKE"
+    "NEW BALANCE"
    ]
   },
   {
-   "id": 42,
-   "title": "Feid and Salomon Unveil the ACS NEXXT \"The Green Star\"",
-   "source": "Hypebeast",
-   "date": "2026-10-01",
-   "content": "Summary Salomon and brand ambassador Feid have officially announced the ACS NEXXT The Green Star by FeidThe technical silhouette incorporates a cow-pattern outsole in Feid's signature Ferxxo green iridescent chrome details and his hand-drawn signatureA Queens pop-up runs October 2 through October 4 ahead of the global October 10 launch Salomon and Latin GRAMMY-winning artist Feid have officially unveiled the Salomon ACS NEXXT: The Green Star by Feid, marking the next phase of their ongoing partnership. The progressive footwear project fuses Salomon's technical outdoor heritage with the Colombian musician's signature visual universe.Evolving from the foundation laid by the ACS PRO, the ACS NEXXT retains the brand's trademark Agile Chassis System and recognizable caged upper while reinterpreting the franchise for a lifestyle audience. The design features a cow-pattern outsole executed in F",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F30%2Ffeid-salomon-acs-nexxt-the-green-star-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/feid-salomon-acs-nexxt-the-green-star-release-info",
+   "id": 35,
+   "title": "adidas' Bejeweled Superstar Is the Belle of the Ball",
+   "source": "Highsnobiety",
+   "date": "2026-09-26",
+   "content": "adidas just took its all-black Superstar sneaker to the jeweler & totally iced it out.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-superstar-jewel-sneaker/",
    "lang": "en",
    "relatedBrands": [
-    "SALOMON"
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 36,
+   "title": "Ronnie Fieg Knows He's Him (EXCLUSIVE)",
+   "source": "Highsnobiety",
+   "date": "2026-09-25",
+   "content": "As Kith turns 15, Ronnie Fieg is taking a well-deserved look back on his unimpeachable archive of nearly 2,000 collaborative shoes.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/kith-ronnie-fieg-15th-anniversary-interview/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 37,
+   "title": "Blue Croc Leather Boots Never Looked This Rugged",
+   "source": "Highsnobiety",
+   "date": "2026-09-25",
+   "content": "Continuing a massive year-long resurgence for the rugged silhouette, Nike drops a luxurious, low-profile iteration with the Nike Air Max Goadome Low Navy Croc.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-midnight-navy-croc/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
    ]
   }
  ]
