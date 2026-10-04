@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-03 16:05",
+ "updatedAt": "2026-10-04 11:03",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -81,6 +81,19 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 5,
+   "title": "Air Jordan 5 “Halloween” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-03",
+   "content": "Interested readers can expect the Air Jordan 5 “Halloween” to release on October 17, 2026, via SNKRS and select retailers… The post Air Jordan 5 “Halloween” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/sz_809079_a-1-scaled-e1787316326927.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-5-halloween-hq7978-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 6,
    "title": "Mr. Bailey 推出面向未來的全新「Terracotta」鞋款系列",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -91,7 +104,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 7,
    "title": "Havaianas 與 Zellerfeld 發布 3D 打印 Top Toe Mule 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -102,7 +115,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 7,
+   "id": 8,
    "title": "ERL 發布全新 Vamps「Chocolate Brown」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -113,7 +126,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 8,
+   "id": 9,
    "title": "Nike Dunk Low 最新「Shibuya Halloween」配色鞋跟暗藏「鬼眼」細節",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -126,7 +139,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 10,
    "title": "Tyler, the Creator 與 Converse GOLF le FLEUR* 預告聯乘 1908 Bronco Boot Low 三款全新配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -139,7 +152,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 11,
    "title": "NIGO x J-Hope x Nike Air Force 1 '01「Burnt Sunrise」",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -152,7 +165,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 12,
    "title": "Pharrell Williams 疑似率先著用 adidas Adistar Jellyfish V2 新鞋款？",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -166,7 +179,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 13,
    "title": "Mr. Bailey Launches Terracotta Collection That's Built For The Future",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -177,7 +190,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 13,
+   "id": 14,
    "title": "Havaianas and Zellerfeld Unveil the 3D-Printed Top Toe Mule",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -188,7 +201,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 14,
+   "id": 15,
    "title": "ERL Unveils the Vamps Silhouette in \"Chocolate Brown\"",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -199,7 +212,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 15,
+   "id": 16,
    "title": "The Nike Dunk Low \"Shibuya Halloween\" Has Eyes in the Back of Its Head",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -212,7 +225,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 17,
    "title": "Tyler, the Creator and Converse GOLF le FLEUR* Tease Collaborative 1908 Bronco Boot Low in Three New Colorways",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -226,7 +239,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 18,
    "title": "NIGO x J-Hope x Nike Air Force 1 '01 \"Burnt Sunrise\"",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -239,7 +252,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 19,
    "title": "ROA and fragment Unveil First Collaboration — Reconstructing Hybrid Boots in Black and Blue",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -252,7 +265,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 20,
    "title": "Did Pharrell Williams Just Tease the adidas Adistar Jellyfish V2?",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -266,7 +279,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 21,
    "title": "Nike CEO Announces Supply Restrictions for Air Jordan Retro Models",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -280,7 +293,33 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 22,
+   "title": "Air Jordan 16 “Black Pack” (IZ2586-001) October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-02",
+   "content": "The Air Jordan 16 “Black Pack” is set to release on October 3, 2026, via SNKRS and select retailers for… The post Air Jordan 16 “Black Pack” (IZ2586-001) October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/iz2586-001-5-1-e1790788640591.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-16-black-pack-iz2586-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Air Jordan 14 “Black Pack” (IZ3884-001) October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-02",
+   "content": "The Air Jordan 14 “Black Pack” is set to release on October 3, 2026, via SNKRS and select retailers for… The post Air Jordan 14 “Black Pack” (IZ3884-001) October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/iz3884-001-2-e1790781828952.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-14-black-pack-iz3884-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 24,
    "title": "Converse SHAI 001 Shroud “Spark” Fall 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -293,7 +332,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 25,
    "title": "Converse SHAI 001 Shroud “Shock” Fall 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -306,7 +345,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 26,
    "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -319,7 +358,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 27,
    "title": "Brain Dead x adidas Samba Bowling “Snakeskin”",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -332,7 +371,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 28,
    "title": "Brain Dead x adidas Samba Bowling “Cheetah”",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -345,7 +384,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 29,
    "title": "Aminé x New Balance Made In USA 992 “Outdoor School”",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -358,7 +397,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 30,
    "title": "Anthony Edwards x adidas Superstar II “Stone”",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -368,45 +407,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
-   "source": "Nice Kicks",
-   "date": "2026-10-02",
-   "content": "Originally released in 2011 the Nike Air Griffey Max 1 “Cincinnati Reds” pays tribute to Ken Griffey Jr.’s time with… The post Nike Air Griffey Max 1 “Cincinnati Reds” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ja1091-100-5-e1790954267782.jpg",
-   "link": "https://www.nicekicks.com/nike-air-griffey-max-1-cincinnati-reds-ja1091-100/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "Nike Mind 001 “Solar Red”",
-   "source": "Nice Kicks",
-   "date": "2026-10-02",
-   "content": "Look for the Nike Mind 001 “Solar Red” to restock on October 15, 2026, via Nike for $95. Check out the photos… The post Nike Mind 001 “Solar Red” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2025/10/hq4307-600-1-1-e1761226356597.jpg",
-   "link": "https://www.nicekicks.com/nike-mind-001-solar-red-hq4307-600/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Air Jordan 3 “Middle East” Gets a Refined Regional Makeover",
-   "source": "Nice Kicks",
-   "date": "2026-10-02",
-   "content": "The Air Jordan 3 “Middle East” brings a refined finish to the iconic silhouette with a Soft Pearl leather upper… The post Air Jordan 3 “Middle East” Gets a Refined Regional Makeover appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/IMG_ME-e1790949580225.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-3-middle-east-ix6986-047/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
    ]
   },
   {
