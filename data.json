@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-04 11:03",
+ "updatedAt": "2026-10-04 23:25",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -22,12 +22,98 @@
   "NEW BALANCE",
   "NIKE",
   "SALOMON",
-  "UGG"
+  "UGG",
+  "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "KEEN 將雙繩 UNEEK 改造為奢華皮革穆勒鞋",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-04",
+   "content": "名稱： KEEN UNEEK Mule WK配色： 黑色貨號： 1033311建議零售價： $195 美元發售日期： 10 月 2 日購買地點： KeenKEEN 藉著中性款 UNEEK Mule WK，將其極具辨識度的設計推向更精緻的境界。此鞋款將品牌標誌性的雙繩運動鞋轉化為極致奢華的穆勒鞋，並採用符合道德採購標準的皮革以手工製作，最後以純黑配色呈現。核心概念在於外型的轉變。新款保留了 UNEEK 標誌性的雙繩結構，但原本包覆的運動鞋變成了穆勒鞋，敞開的鞋後跟讓穿脫更為方便。保留編繩並移除鞋跟，意味著鞋款即使轉變為更休閒的輪廓，依然具備極高的辨識度。材質的改變同樣舉足輕重。有別於原版鞋款的機能構造，這款穆勒鞋採用符合道德採購標準的皮革以手工製成。這種材質選擇與手工技藝，成功將 UNEEK 從帶有越野色彩的奇特鞋款，昇華至 KEEN 此次瞄準的高級領域。全黑外觀讓視覺焦點集中在皮革質感與編繩工藝上，而非色彩變化。此舉亦呼應了 UNEEK 的發展歷史。這款鞋型於 2014 年首度問世，其開放式的編繩設計，一直與 KEEN 旗下主打的行山靴及水上涼鞋截然不同。這種破格的特質，助其吸引了一班戶外圈以外的擁躉。這款皮革穆勒鞋正是順應這一定位，將 UNEEK 呈現為一件設計單品，其次才是戶外裝備。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FKeen-UNEEK-Mule-WK-Black-1033311-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/keen-uneek-mule-wk-black-1033311-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 2,
+   "title": "KEEN Turns Its Two-Cord UNEEK Into a Luxury Leather Mule",
+   "source": "Hypebeast",
+   "date": "2026-10-04",
+   "content": "Name: KEEN UNEEK Mule WKColorway: BlackSKU: 1033311MSRP: $195 USDRelease Date: October 2Where to Buy: KeenKEEN is taking its most recognizable design in a more refined direction with the All Gender UNEEK Mule WK. The shoe converts the brand's iconic two-cord sneaker into an ultra-premium mule, handcrafted in ethically sourced leather and finished in black.The core idea is a change in form. The UNEEK's defining two-cord construction carries over, but the closed sneaker becomes a mule, with the back opened up for an easy slip-on fit. Keeping the cords while removing the heel means the silhouette stays instantly recognizable even as it moves into a more relaxed shape.The material shift is just as significant. Instead of the technical build associated with the original model, the mule is handcrafted from ethically sourced leather. That choice, together with the handwork, is what moves the UN",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F30%2FKeen-UNEEK-Mule-WK-Black-1033311-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/keen-uneek-mule-wk-black-1033311-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 3,
+   "title": "A Rare New Balance Runner Becomes Miu Miu's Newest Muse (EXCLUSIVE)",
+   "source": "Highsnobiety",
+   "date": "2026-10-04",
+   "content": "Miu Miu debuts its latest New Balance RC150 sneaker collaboration for Spring/Summer 2027. Here's your first look at the brand-new shoe.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/miu-miu-new-balance-rc150-collab/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Nike’s Stealthy Racing Shoe Has the Long-Ass Run Covered",
+   "source": "Highsnobiety",
+   "date": "2026-10-04",
+   "content": "Nike’s Zoom Rival Waffle 7 is a lightweight road and cross-country racing shoe made for long runs, with a grippy waffle outsole and streamlined profile.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-zoom-rival-waffle-7/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "adidas' Wafer-Thin Gazelle Is Fresh From the Biscuit Tin",
+   "source": "Highsnobiety",
+   "date": "2026-10-04",
+   "content": "This adidas Gazelle Lo Pro asks for a cup of tea. The flattened classic has the pleasing palette of a biscuit: sandy suede, off-white stripes.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-gazelle-lo-pro-khaki/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "New Balance’s Red Hot Lifestyle Runner Is Not Here to Blend In",
+   "source": "Highsnobiety",
+   "date": "2026-10-04",
+   "content": "New Balance’s 1890P makes a statement in vibrant red, with playful pops of pink across the layered runner for a bold, standout finish.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-1890-red/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Up Close With Courrèges' Incredible Shoes & Insane Hats",
+   "source": "Highsnobiety",
+   "date": "2026-10-04",
+   "content": "Here's an up-close & personal look at the details from Drew Henry's debut Courrèges SS27 collection. Funky hats included.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/courreges-ss27-details/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 8,
    "title": "Nike 為 Vomero 5 換上「Camo Green」Cordura 材質對抗寒冬",
    "source": "Hypebeast 中文",
    "date": "2026-10-03",
@@ -40,7 +126,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 9,
    "title": "adidas Originals GAZELLE OG 迎來俐落「Charcoal Gray」麂皮配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-03",
@@ -53,7 +139,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 10,
    "title": "Nike Toughens Up the Vomero 5 for Winter With a Cordura \"Camo Green\" Build",
    "source": "Hypebeast",
    "date": "2026-10-03",
@@ -67,7 +153,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 11,
    "title": "The adidas Originals GAZELLE OG Arrives in a Sleek \"Charcoal Gray\" Suede",
    "source": "Hypebeast",
    "date": "2026-10-03",
@@ -80,7 +166,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 12,
    "title": "Air Jordan 5 “Halloween” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-03",
@@ -93,7 +179,86 @@
    ]
   },
   {
-   "id": 6,
+   "id": 13,
+   "title": "London's Favorite Radio Station Deserves a Victory Lap",
+   "source": "Highsnobiety",
+   "date": "2026-10-03",
+   "content": "Celebrating its rise to the global stage, Nike has partnered with the station for the Victory Lap Radio x Nike Air Force 1 Low Pine Green.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-victory-lap-pine-green/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Vans’ Latest Skate Loafer Is Further Proof They Make a Great Pair",
+   "source": "Highsnobiety",
+   "date": "2026-10-03",
+   "content": "Vans’ Horsebit Skate Loafer arrives in Black, pairing a suede upper and polished horsebit detail with the brand’s skate-ready rubber waffle sole.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-skate-loafer-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "adidas Made a Dressy Ripple-Soled Sneaker on Its Own",
+   "source": "Highsnobiety",
+   "date": "2026-10-03",
+   "content": "adidas releases a Superstar II Ripple sneaker with sawtooth soles. But this one's CLOT-free.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-superstar-ii-ripple/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Nike’s Killer Cordura Air Maxes Are Built to Last",
+   "source": "Highsnobiety",
+   "date": "2026-10-03",
+   "content": "Nike's Air Max Cordura sneaker returns for fall in a new all-black colorway. Here's everything on the quiet yet tough model.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-plus-cordura-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Nike’s Sculpted Air Maxes Belong on the Trails",
+   "source": "Highsnobiety",
+   "date": "2026-10-03",
+   "content": "Nike brings back the ruggedized Air Max 95 \"I-95\" sneakers in new colorways like \"Medium Olive\" & \"Wheat.\" It's even more outdoorsy the second time around.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-95-i-95-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Nike’s Suave Suede Skate Shoe Is Ready for Fall Sessions",
+   "source": "Highsnobiety",
+   "date": "2026-10-03",
+   "content": "Nike SB's Zoom Blazer Mid skate shoe gets the perfect fall makeover, landing in a \"Black Spruce\" colorway & creamy suede.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-sb-blazer-mid-black-spruce/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 19,
    "title": "Mr. Bailey 推出面向未來的全新「Terracotta」鞋款系列",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -104,7 +269,7 @@
    "relatedBrands": []
   },
   {
-   "id": 7,
+   "id": 20,
    "title": "Havaianas 與 Zellerfeld 發布 3D 打印 Top Toe Mule 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -115,7 +280,7 @@
    "relatedBrands": []
   },
   {
-   "id": 8,
+   "id": 21,
    "title": "ERL 發布全新 Vamps「Chocolate Brown」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -126,7 +291,7 @@
    "relatedBrands": []
   },
   {
-   "id": 9,
+   "id": 22,
    "title": "Nike Dunk Low 最新「Shibuya Halloween」配色鞋跟暗藏「鬼眼」細節",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -139,7 +304,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 23,
    "title": "Tyler, the Creator 與 Converse GOLF le FLEUR* 預告聯乘 1908 Bronco Boot Low 三款全新配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -152,7 +317,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 24,
    "title": "NIGO x J-Hope x Nike Air Force 1 '01「Burnt Sunrise」",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -165,7 +330,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 25,
    "title": "Pharrell Williams 疑似率先著用 adidas Adistar Jellyfish V2 新鞋款？",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -179,7 +344,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 26,
    "title": "Mr. Bailey Launches Terracotta Collection That's Built For The Future",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -190,7 +355,7 @@
    "relatedBrands": []
   },
   {
-   "id": 14,
+   "id": 27,
    "title": "Havaianas and Zellerfeld Unveil the 3D-Printed Top Toe Mule",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -201,7 +366,7 @@
    "relatedBrands": []
   },
   {
-   "id": 15,
+   "id": 28,
    "title": "ERL Unveils the Vamps Silhouette in \"Chocolate Brown\"",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -212,7 +377,7 @@
    "relatedBrands": []
   },
   {
-   "id": 16,
+   "id": 29,
    "title": "The Nike Dunk Low \"Shibuya Halloween\" Has Eyes in the Back of Its Head",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -225,7 +390,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 30,
    "title": "Tyler, the Creator and Converse GOLF le FLEUR* Tease Collaborative 1908 Bronco Boot Low in Three New Colorways",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -239,7 +404,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 31,
    "title": "NIGO x J-Hope x Nike Air Force 1 '01 \"Burnt Sunrise\"",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -252,7 +417,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 32,
    "title": "ROA and fragment Unveil First Collaboration — Reconstructing Hybrid Boots in Black and Blue",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -265,7 +430,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 33,
    "title": "Did Pharrell Williams Just Tease the adidas Adistar Jellyfish V2?",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -279,21 +444,7 @@
    ]
   },
   {
-   "id": 21,
-   "title": "Nike CEO Announces Supply Restrictions for Air Jordan Retro Models",
-   "source": "Hypebeast",
-   "date": "2026-10-02",
-   "content": "During Nike's Q1 FY2027 earnings call on October 1, CEO Elliott Hill announced a plan to significantly reduce the supply of Retro models from the iconic Air Jordan series, the hallmark of Jordan Brand.The Air Jordan series once sparked fierce competition on every release date, with pairs trading at premium prices on the secondary market. As of 2026, however, it has become commonplace to see store shelves lined with various retro models, with some even sitting on discount racks. Addressing this decline in brand value, Hill officially acknowledged that the company had \"oversupplied the market with iconic retro products\" and declared a forthcoming reduction in supply.According to published data, Jordan Brand released an average of about 10 Retro models per month over the past 12 months, from October 2025 to September 2026. In February 2026 alone (the month of the NBA All-Star Game), a stagg",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2Fnike-to-limit-air-jordan-retro-supply-moving-forward-ft.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nike-to-limit-air-jordan-retro-supply-moving-forward",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 22,
+   "id": 34,
    "title": "Air Jordan 16 “Black Pack” (IZ2586-001) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -306,7 +457,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 35,
    "title": "Air Jordan 14 “Black Pack” (IZ3884-001) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -319,7 +470,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 36,
    "title": "Converse SHAI 001 Shroud “Spark” Fall 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -332,7 +483,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 37,
    "title": "Converse SHAI 001 Shroud “Shock” Fall 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -345,7 +496,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 38,
    "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -358,7 +509,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 39,
    "title": "Brain Dead x adidas Samba Bowling “Snakeskin”",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -371,7 +522,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 40,
    "title": "Brain Dead x adidas Samba Bowling “Cheetah”",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -384,7 +535,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 41,
    "title": "Aminé x New Balance Made In USA 992 “Outdoor School”",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -397,7 +548,7 @@
    ]
   },
   {
-   "id": 30,
+   "id": 42,
    "title": "Anthony Edwards x adidas Superstar II “Stone”",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -410,7 +561,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 43,
    "title": "Feid 與 Salomon 共同發布 ACS NEXXT「The Green Star」",
    "source": "Hypebeast 中文",
    "date": "2026-10-01",
@@ -423,7 +574,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 44,
    "title": "Nike 正式發佈 Apex 馬拉松競速跑鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-01",
@@ -433,70 +584,6 @@
    "lang": "zh",
    "relatedBrands": [
     "NIKE"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "New Balance 推出 204L「Truffle Salt」 結合 70 年代修長輪廓與 2000 年代科技美學",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-01",
-   "content": "摘要 New Balance 推出全新 204L 鞋型，並帶來「Truffle Salt」配色這款低筒鞋型結合了 70 年代跑鞋的纖細輪廓、2000 年代的科技質感以及室內足球鞋的設計元素此休閒運動鞋將於 2026 年 10 月 1 日經由 New Balance 官方正式發售 名稱： New Balance 204L「Truffle Salt」配色： Truffle Salt/Fast Track貨號： U204L8WR建議售價： 120 美元發售日期： 現已發售購買渠道： New BalanceNew Balance 官方正式推出 204L「Truffle Salt/Fast Track」，這款全新低筒鞋型以街頭風格為基礎。這款百搭鞋履從室內足球鞋、70 年代田徑跑鞋與 2000 年代科技美學中汲取設計靈感，將於 2026 年 10 月 1 日發售。鞋款採用由優質「Truffle Salt」麂皮、網眼、牛皮及漆皮點綴構成的多層次鞋面。壓花覆面上飾有弧線點綴，鞋面中段融入網印圖案，側邊則配備雙層麂皮與反光物料製成的「N」字標誌。在鞋底方面，這款低筒鞋型配備 EVA 外底，結合了 2000 年代風格的受力軌跡與受 70 年代啟發的坑紋設計。整體結構巧妙平衡了修長的比例、科技質感與日常穿著的實用性。New Balance 204L「Truffle Salt」將於 2026 年 10 月 1 日正式發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnew-balance-204l-truffle-salt-U204L8WR-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/new-balance-204l-truffle-salt-u204l8wr-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "New Balance’s Clean-Cut Skate Shoe Just Got a Nice Update",
-   "source": "Highsnobiety",
-   "date": "2026-09-26",
-   "content": "The New Balance Numeric Brandon Westgate 508 arrives in Reflection with Fairweather Blue, pairing a clean, understated base with subtle hits of blue.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-numeric-brandon-westgate-508/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "adidas' Bejeweled Superstar Is the Belle of the Ball",
-   "source": "Highsnobiety",
-   "date": "2026-09-26",
-   "content": "adidas just took its all-black Superstar sneaker to the jeweler & totally iced it out.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-superstar-jewel-sneaker/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "Ronnie Fieg Knows He's Him (EXCLUSIVE)",
-   "source": "Highsnobiety",
-   "date": "2026-09-25",
-   "content": "As Kith turns 15, Ronnie Fieg is taking a well-deserved look back on his unimpeachable archive of nearly 2,000 collaborative shoes.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/kith-ronnie-fieg-15th-anniversary-interview/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 37,
-   "title": "Blue Croc Leather Boots Never Looked This Rugged",
-   "source": "Highsnobiety",
-   "date": "2026-09-25",
-   "content": "Continuing a massive year-long resurgence for the rugged silhouette, Nike drops a luxurious, low-profile iteration with the Nike Air Max Goadome Low Navy Croc.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-midnight-navy-croc/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
    ]
   }
  ]
