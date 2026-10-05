@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-05 08:08",
+ "updatedAt": "2026-10-05 16:08",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,19 +16,176 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
+  "ASICS",
   "CONVERSE",
-  "DIOR",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
-  "SALOMON",
-  "UGG",
-  "VANS"
+  "PUMA",
+  "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Nike Dunk Low 最新「Jade Stone/Old Royal」配色結合柔和綠色與鮮豔藍調",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-05",
+   "content": "鞋款名稱： Nike Dunk Low「Jade Stone/Old Royal」配色： Jade Stone/Light Khaki-Gum Light Brown-Old Royal款式編號： IM4414-301建議零售價： $120 美元發售日期： 2026 年Nike 在來季為 Dunk Low 注入出人意表的大地氣息，推出全新「Jade Stone/Old Royal」配色。「Jade Stone」於透氣鞋頭、鞋舌及後跟部分奠定柔和的綠色基礎，而 Light Khaki 則透過側身裁片、鞋領與中性鞋帶柔化整體視覺效果。最強烈的對比來自 Old Royal，這種飽和的鈷藍色麂皮包覆鞋頭、延伸至鞋眼，並點綴 Swoosh 標誌及後跟拉環。其柔軟的刷毛潤飾，令藍色部分在周圍較為平滑的材質襯托下更具深度，使原本經典的 Dunk 結構展現出更多樣化的紋理層次。色彩的配搭延伸至鞋底，溫暖的 Gum Light Brown 中底在鞋面與鮮明的 Old Royal 橡膠外底之間，呈現出獨特的大地色過渡效果。藍色麂皮後跟拉環繡有 Light Khaki 色的「NIKE」字樣，而鞋舌標籤與鞋墊上亦飾有相呼應的品牌標誌，巧妙地將對比鮮明的色調連繫起來。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fftnike-dunk-low-jade-stone-light-khaki-gum-light-brown-old-royal-im4414-301-official-images.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-dunk-low-jade-stone-light-khaki-gum-light-brown-old-royal-im4414-301-official-images",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Brooks Brothers x Converse 全新聯乘 All Star Aged Hi 及 Ox 鞋款，以 50 年代摔角鞋為靈感",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-05",
+   "content": "名稱： Brooks Brothers x Converse All Star Aged Ox、Brooks Brothers x Converse All Star Aged Hi配色： 白色、深藍色型號： 有待確認定價： ¥16,500 JPY（約 $105 USD）、¥15,400 JPY（約 $100 USD）發售日期： 10 月 14 日發售點： Brooks BrothersBrooks Brothers 與 Converse 再度迎來第二波合作，將 All Star Aged 重塑為兩款男女皆宜的聯乘運動鞋。繼 2025 年春季首度聯乘並迅速售罄後，這兩個美國品牌為這款復古鞋型賦予了更簡潔的輪廓。雙方從 Converse 約於 1950 年代生產的摔角鞋中汲取靈感，並融入各自品牌的標誌性細節。今次最大的設計改變在於「減法」。通常環繞 All Star 鞋底的護條線被移除，留下平滑、一體成型的側邊，帶來更精緻的視覺效果。鞋面方面，與一般版 All Star Aged 相比，鞋帶孔多了一個，且所有鞋帶孔均採用銀色飾面，取代了標準的色調。Brooks Brothers 的品牌元素主要集中於金屬配件與標籤上。鞋帶上的金屬鞋帶扣印有品牌長久以來的象徵 Golden Fleece。鞋墊、鞋舌標籤及鞋跟標籤均印有深藍色的雙方品牌標誌，這是專為今次聯乘打造的雙重命名設計。外底同樣採用深藍色，這也是最能代表 Brooks Brothers 的顏色。整個系列以兩種配色作結。高筒款式 Hi 採用柔和的米白色，而低筒款式 Ox 則選用較深的深藍色。這恰好與首次合作相反，當時 All Star LGCY 的配搭是褪色深藍色高筒配以白色低筒。由於上一回的設計已使用了深藍色鞋跟標籤和外底，因此第二波合作便在此基礎上發展，並改變了原有的鞋身輪廓。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FBrooks-Brothers-Converse-All-Star-Aged-Ox-Hi-Release-Info-0-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/brooks-brothers-converse-all-star-aged-ox-hi-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Grand Collection x New Balance 聯乘升級 770 及 508 鞋款，專為紐約街頭滑板而設",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-05",
+   "content": "名稱： Grand Collection x New Balance 770、Grand x New Balance 580配色：「Black/Duffel Bag」型號： UN770NGD、UN508GRN-5定價： $125 美元、$100 美元發布日期： 現已發售發售點： Grand、New BalanceGrand Collection 與 New Balance 再度攜手展開第二次聯乘，由經過重新設計、專為滑板運動而設的 770 及 508 鞋款領軍。繼去年秋季的首度合作後，今次每件單品均圍繞三大重點打造：滑板實用性、精細做工以及經得起時間考驗的外觀。此外，系列亦備有完整的服飾單品，並同步釋出一部以紐約為背景的滑板影片，展現實裝表現。鞋款為整個系列定下基調。770 與 508 均提供黑色及深森林色選擇，並採用優質皮革配搭磨砂麂皮。品牌標誌保持低調，捨棄搶眼圖案，僅以含蓄的壓印細節點綴。更重要的改變在於結構：兩款輪廓均經過強化，帶來更佳的穩定性、更強的抗衝擊保護及更長久的耐用度，這對於需要每天在水泥地和石壆上承受磨損的滑板鞋來說至關重要。外套單品亦秉承相同理念。外套以 Taslan 尼龍剪裁而成，內襯抓毛絨以提供保暖效果，衣身飾有 Grand 標誌性的滾邊，並以刺繡品牌標誌作為點綴。下擺設有可調校抽繩，讓穿著者能收緊衣身以阻擋強風。插手口袋隱藏於接縫處並配備 YKK 拉鏈，確保在滑板運動時保持平坦貼合，不會妨礙活動。運動衛衣則專為更高強度的穿著而設。它採用 520gsm 的 100% 全棉抓毛絨製成，配以拼色設計，正面設有可雙向開合的拉鏈。接縫處設有拉鏈口袋，刺繡品牌標誌與系列其他單品互相呼應，配搭同款長褲即可構成完整套裝。輕盈的層次單品令系列更為豐富。柔軟的 100% 全棉十字交叉編織牛津紡恤衫提供更簡潔的選擇，而雙方聯乘的全棉 T 恤則滿足了基本穿搭需求。伴隨發布的影片展示了單品的實際穿著效果。影片於紐約街頭拍攝，記錄了 Grand 與 New Balance 旗下滑板手 Brian Reid、Spencer Hamilton 及 Brandon Westg",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FGrand-Collection-New-Balance-770-508-apparel-UN770NGD-UN508GRN-5-Collaboration-Release-Info-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/grand-collection-new-balance-770-508-apparel-un770ngd-un508grn-5-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "A Ma Maniére x adidas 推出亮面皮革 Japan SQ 聯乘鞋款 以方頭設計重塑纖細跑鞋",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-05",
+   "content": "鞋款名稱： adidas DND Japan Square Toe配色： 黑色 / 啡色 / 金屬金色產品編號： KZ9541建議零售價： $160 美元發售日期： 現已發售（A Ma Maniére）、10 月 9 日（adidas）購買渠道： A Ma Maniére、adidasadidas Japan SQ 是 A Ma Maniére 為 Atlanta Fashion Week 打造的「Do Not Duplicate」別注系列之核心。它以方頭設計重塑了品牌其中一款最纖細的 Originals 輪廓。這款為女性推出的黑色低筒鞋保留了 Japan 貼近地面的輪廓，並加入亮面皮革、對比色縫線與金屬配件細節，使其擺脫運動跑道的框架，邁向更具質感的精緻衣櫥。方頭設計是此鞋款最顯著的改變。Japan 的輪廓通常會在鞋頭收窄成柔和的圓弧形。而 SQ 則將鞋頭壓平為方形輪廓並加入沖孔設計，相同的沖孔圖案亦延伸至兩側飾板。鞋面採用亮面皮革，透過對比色縫線將多層次結構連接起來，而內部則全面配備皮革內襯。這層內襯賦予它比一般復古跑鞋更精緻的質感。其餘結構均與原版保持一致。加厚鞋領與正面鞋帶設計帶來貼合腳感，而 adidas 亦將此鞋款列為標準剪裁。三間標誌以覆面形式呈現於兩側飾板，並以對比色 Z 字形縫線勾勒輪廓。adidas Japan 標誌點綴於鞋身外側，鞋舌與鞋跟處均飾有品牌標誌。掛在鞋帶孔上的金屬吊牌彰顯了這雙鞋的聯乘身分。在底部，低調的中底配搭橡膠外底，確保更俐落的鞋頭不會增加笨重感。相比起大多方頭實驗設計，SQ 擁有更豐富的歷史背景。Japan 起初是一款與 1964 年東京奧運籌備工作息息相關的經典跑鞋。它在 adidas 近期推出的一系列纖細、低底盤復古型號中回歸，並成為品牌的首選低調款式之一。方頭設計使其更接近樂福鞋或芭蕾舞鞋的輪廓。這正完美契合一個為時裝週而非田徑跑道而誕生的別注系列。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FftA-Ma-Maniere-adidas-DND-Japan-Square-Toe-KZ9541-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/a-ma-maniere-adidas-dnd-japan-square-toe-kz9541-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Nike Dunk Low “Jade Stone/Old Royal” Mixes Muted Greens With Vivid Blue",
+   "source": "Hypebeast",
+   "date": "2026-10-05",
+   "content": "Name: Nike Dunk Low “Jade Stone/Old Royal”Colorway: Jade Stone/Light Khaki-Gum Light Brown-Old RoyalSKU: IM4414-301MSRP: $120 USDRelease Date: 2026Nike gives the Dunk Low an unexpectedly earthy jolt this upcoming season with the new “Jade Stone/Old Royal” colorway. \"Jade Stone\" establishes the muted green foundation across the perforated toe box, tongue and rear sections, while Light Khaki softens the look through the side panels, collar and neutral laces. The strongest contrast comes from Old Royal, a saturated cobalt-blue suede that wraps the toe, climbs the eyestays and returns across the Swooshes and heel tabs. Its softly brushed finish gives the blue sections added depth against the smoother surrounding materials, turning an otherwise classic Dunk construction into a more texturally varied proposition.The color story continues underfoot, where a warm Gum Light Brown midsole introduc",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F05%2Fftnike-dunk-low-jade-stone-light-khaki-gum-light-brown-old-royal-im4414-301-official-images.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-dunk-low-jade-stone-light-khaki-gum-light-brown-old-royal-im4414-301-official-images",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Brooks Brothers x Converse Rework the All Star Aged Hi and Ox Around a ‘50s Wrestling Shoe",
+   "source": "Hypebeast",
+   "date": "2026-10-05",
+   "content": "Name: Brooks Brothers x Converse All Star Aged Ox, Brooks Brothers x Converse All Star Aged HiColorway: White, NavySKU: TBCMSRP: ¥16,500 JPY (approx. $105 USD), ¥15,400 JPY (approx. $100 USD)Release Date: October 14Where to Buy: Brooks BrothersBrooks Brothers and Converse are back for round two, reworking the All Star Aged into a pair of unisex collaborative sneakers. Following their first team-up in spring 2025, which sold out immediately, the two American labels have given the vintage-style silhouette a cleaner profile. They took cues from wrestling shoes Converse produced around the 1950s and finished the result in each brand's signature details.The biggest design change is a removal. The foxing tape line that usually runs around the base of an All Star is gone, leaving a smooth, uninterrupted sidewall with a more polished look. Up top, the lacing gets an extra eyelet compared with th",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F05%2FBrooks-Brothers-Converse-All-Star-Aged-Ox-Hi-Release-Info-0-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/brooks-brothers-converse-all-star-aged-ox-hi-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Grand Collection x New Balance Reinforce the 770 and 508 for New York Street Skating",
+   "source": "Hypebeast",
+   "date": "2026-10-05",
+   "content": "Name: Grand Collection x New Balance 770, Grand x New Balance 580Colorway: Black/Duffel BagSKU: UN770NGD, UN508GRN-5MSRP: $125 USD, $100 USDRelease Date: Available nowWhere to Buy: Grand, New BalanceGrand Collection and New Balance have reunited for a second collaboration, led by reworked takes on the 770 and 508 designed to hold up under skateboarding. The follow-up to last fall's debut team-up builds every piece around three priorities: use on the board, careful construction, and a look that won't date quickly. A full apparel offering rounds out the range, along with a New York skate video that puts it all to work.The footwear sets the tone. Both the 770 and 508 are offered in black and deep forest, and each pairs premium leather with brushed suede. Branding stays low-key, limited to subtle debossed hits instead of louder logo treatments. The more important changes are structural: both",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F05%2FGrand-Collection-New-Balance-770-508-apparel-UN770NGD-UN508GRN-5-Collaboration-Release-Info-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/grand-collection-new-balance-770-508-apparel-un770ngd-un508grn-5-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS",
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "A Ma Maniére x adidas Japan SQ Squares Off the Slim Runner in Glossy Leather",
+   "source": "Hypebeast",
+   "date": "2026-10-05",
+   "content": "Name: adidas DND Japan Square ToeColorway: Core Black/Mesa/Gold MetallicSKU: KZ9541MSRP: $160 USDRelease Date: Available now (A Ma Maniére), October 9 (adidas)Where to Buy: A Ma Maniére, adidasThe adidas Japan SQ is the centerpiece of A Ma Maniére's \"Do Not Duplicate\" capsule for Atlanta Fashion Week. It reshapes one of the brand's slimmest Originals silhouettes with a squared-off toe. Offered in black for women, the low-top keeps the Japan's close-to-the-ground stance and adds glossy leather, contrast stitching and hardware details that move it off the track and toward a more tailored wardrobe.The square toe is the defining change. The Japan silhouette typically narrows into a soft, rounded point. The SQ flattens the toe box into a squared profile and perforates it, with the same perforation pattern repeated along the side panels. The upper is built from glossy leather in stacked layers",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F05%2FftA-Ma-Maniere-adidas-DND-Japan-Square-Toe-KZ9541-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/a-ma-maniere-adidas-dnd-japan-square-toe-kz9541-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "PUMA and MASU Release Third Capsule Collection",
+   "source": "Hypebeast",
+   "date": "2026-10-05",
+   "content": "MASU, the label directed by Shinpei Goto, is launching its third capsule collection with PUMA.The latest collection revolves around the theme of \"PUMA before PUMA existed,\" reinterpreting the T7 and SUEDE from the PUMA archives. It incorporates decorative details often found on Victorian jackets into a track jacket and sneakers, alongside socks featuring an angel motif.The \"PUMA x MASU CURIO SUEDE\" takes inspiration from the CRACK, the root of the PUMA SUEDE introduced in 1968. The exterior and lining of a Victorian jacket are represented using suede and canvas, finished with a design incorporating speed hooks. The lace tag features a foil-stamped angel and a distressed finish. Available in \"IVORYxBLACK,\" sizes range from 22.5 to 30.0 cm, priced at 22,000 yen.The \"PUMA x MASU T7 CURIO TRACK JACKET\" is a track jacket based on the T7, which debuted in 1968, incorporating Victorian jacket m",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2Fpuma-masu-third-capsel-collection-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/puma-masu-third-capsel-collection-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "PUMA"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "This Dunk Glows in the Dark Like Shibuya",
+   "source": "Highsnobiety",
+   "date": "2026-10-05",
+   "content": "Revisiting one of sneaker culture's most legendary subcultural epicenters, Nike drops the Nike Dunk Low Shibuya Halloween.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-dunk-low-shibuya-halloween/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Raye and Zalando Prepare to Take Over Berlin",
+   "source": "Highsnobiety",
+   "date": "2026-10-05",
+   "content": "Introducing Access All Areas, Zalando’s festival celebrating the very best in fashion, music, and culture. Join brands like Nike, Calvin Klein, and adidas and chart-topping pop diva Raye for an unforgettable Berlin weekend from 25-27 April 2027.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/zalando-aaa-raye-berlin/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "adidas' Ultra-Flat Sneaker Is a Full-Fat Oreo Milkshake",
+   "source": "Highsnobiety",
+   "date": "2026-10-05",
+   "content": "adidas' new Japan rendition is in a good moo-d! In full cow pattern, this Oreo-hued beauty goes all in on fashion's animal print obsession.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-japan-cow-print/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 13,
    "title": "KEEN 將雙繩 UNEEK 改造為奢華皮革穆勒鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-04",
@@ -39,7 +196,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 14,
    "title": "KEEN Turns Its Two-Cord UNEEK Into a Luxury Leather Mule",
    "source": "Hypebeast",
    "date": "2026-10-04",
@@ -50,7 +207,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 3,
+   "id": 15,
    "title": "Nike's Famously Chromed-Out Cleats Are Sleek Sneakers Now",
    "source": "Highsnobiety",
    "date": "2026-10-04",
@@ -63,7 +220,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 16,
    "title": "Nike's Blacked-Out Skate Shoe Is Pure & Perfect",
    "source": "Highsnobiety",
    "date": "2026-10-04",
@@ -76,7 +233,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 17,
    "title": "adidas’ Silky Sneaker Is One Step Closer to Its Ballerina Dreams",
    "source": "Highsnobiety",
    "date": "2026-10-04",
@@ -89,7 +246,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 18,
    "title": "Nike Made Its Own \"Burberry\" Dunks",
    "source": "Highsnobiety",
    "date": "2026-10-04",
@@ -102,7 +259,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 19,
    "title": "A Rare New Balance Runner Becomes Miu Miu's Newest Muse (EXCLUSIVE)",
    "source": "Highsnobiety",
    "date": "2026-10-04",
@@ -115,7 +272,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 20,
    "title": "Nike’s Stealthy Racing Shoe Has the Long-Ass Run Covered",
    "source": "Highsnobiety",
    "date": "2026-10-04",
@@ -128,7 +285,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 21,
    "title": "adidas' Wafer-Thin Gazelle Is Fresh From the Biscuit Tin",
    "source": "Highsnobiety",
    "date": "2026-10-04",
@@ -141,20 +298,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
-   "title": "New Balance’s Red Hot Lifestyle Runner Is Not Here to Blend In",
-   "source": "Highsnobiety",
-   "date": "2026-10-04",
-   "content": "New Balance’s 1890P makes a statement in vibrant red, with playful pops of pink across the layered runner for a bold, standout finish.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-1890-red/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 11,
+   "id": 22,
    "title": "Nike 為 Vomero 5 換上「Camo Green」Cordura 材質對抗寒冬",
    "source": "Hypebeast 中文",
    "date": "2026-10-03",
@@ -167,7 +311,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 23,
    "title": "adidas Originals GAZELLE OG 迎來俐落「Charcoal Gray」麂皮配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-03",
@@ -180,7 +324,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 24,
    "title": "Nike Toughens Up the Vomero 5 for Winter With a Cordura \"Camo Green\" Build",
    "source": "Hypebeast",
    "date": "2026-10-03",
@@ -194,7 +338,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 25,
    "title": "The adidas Originals GAZELLE OG Arrives in a Sleek \"Charcoal Gray\" Suede",
    "source": "Hypebeast",
    "date": "2026-10-03",
@@ -207,7 +351,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 26,
    "title": "Air Jordan 5 “Halloween” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-03",
@@ -220,59 +364,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
-   "title": "London's Favorite Radio Station Deserves a Victory Lap",
-   "source": "Highsnobiety",
-   "date": "2026-10-03",
-   "content": "Celebrating its rise to the global stage, Nike has partnered with the station for the Victory Lap Radio x Nike Air Force 1 Low Pine Green.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-force-1-victory-lap-pine-green/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "Vans’ Latest Skate Loafer Is Further Proof They Make a Great Pair",
-   "source": "Highsnobiety",
-   "date": "2026-10-03",
-   "content": "Vans’ Horsebit Skate Loafer arrives in Black, pairing a suede upper and polished horsebit detail with the brand’s skate-ready rubber waffle sole.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-skate-loafer-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "adidas Made a Dressy Ripple-Soled Sneaker on Its Own",
-   "source": "Highsnobiety",
-   "date": "2026-10-03",
-   "content": "adidas releases a Superstar II Ripple sneaker with sawtooth soles. But this one's CLOT-free.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-superstar-ii-ripple/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "Nike’s Killer Cordura Air Maxes Are Built to Last",
-   "source": "Highsnobiety",
-   "date": "2026-10-03",
-   "content": "Nike's Air Max Cordura sneaker returns for fall in a new all-black colorway. Here's everything on the quiet yet tough model.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-plus-cordura-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 20,
+   "id": 27,
    "title": "Mr. Bailey 推出面向未來的全新「Terracotta」鞋款系列",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -283,7 +375,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 21,
+   "id": 28,
    "title": "Havaianas 與 Zellerfeld 發布 3D 打印 Top Toe Mule 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -294,7 +386,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 22,
+   "id": 29,
    "title": "ERL 發布全新 Vamps「Chocolate Brown」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -305,7 +397,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 23,
+   "id": 30,
    "title": "Nike Dunk Low 最新「Shibuya Halloween」配色鞋跟暗藏「鬼眼」細節",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -318,7 +410,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 31,
    "title": "Tyler, the Creator 與 Converse GOLF le FLEUR* 預告聯乘 1908 Bronco Boot Low 三款全新配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
@@ -331,34 +423,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
-   "title": "NIGO x J-Hope x Nike Air Force 1 '01「Burnt Sunrise」",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-02",
-   "content": "名稱： NIGO x J-Hope x Nike Air Force 1 '01「Burnt Sunrise」配色： Burnt Sunrise/Metallic Gold-TaupeSKU： IO8766-800建議售價： $150 美元發售日期： 2026 年 10 月 22 日發售地點： NikeNike、NIGO 與 J-Hope 官方宣布攜手推出 Nike Air Force 1 Low「Burnt Sunrise」。這款三方聯乘鞋履企劃最初於東京 Human Made 旗艦店曝光，亦標誌著這位日本設計師與國際音樂偶像之間的首次波鞋聯乘合作。鞋款保留了經典 Air Force 1 ’01 的基礎輪廓與拼接設計，同時注入溫暖的多層次色調美學。鞋面採用豐富的暖啡色、金色與銅色調交織而成，其材質展現出獨特的飾面效果，會隨光線變化而產生微妙的色彩轉變。為提升聯乘設計的細節，後跟拉環上的傳統 Nike Air 標誌被換上了特別設計的專屬圖案。雖然此企劃是兩人首次共同推出的波鞋作品，但 NIGO 與 J-Hope 早於 2025 年便透過 Human Made 合作推出過「HUMAN HOPE」系列。這次即將登場的 Nike 新作不僅進一步深化了雙方的創作關係，更為 NIGO 與該品牌持續擴展的合作陣容增添了一大里程碑。NIGO x J-Hope x Nike Air Force 1 ’01「Burnt Sunrise」將於 2026 年 10 月 22 日正式發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnigo-j-hope-nike-air-force-1-burnt-sunrise-closer-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/nigo-j-hope-nike-air-force-1-burnt-sunrise-closer-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Pharrell Williams 疑似率先著用 adidas Adistar Jellyfish V2 新鞋款？",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-02",
-   "content": "摘要 Pharrell Williams 在 Paris Fashion Week 期間，穿上一雙疑似尚未發佈的 adidas Adistar Jellyfish V2 首次亮相這款鞋型在 Dior SS27 女裝展中現身，當時他正出席支持 Jonathan Anderson；該鞋款採用了簡約的鞋面設計這款更新後的設計減少了沉重的 TPU 面板，預計將於 2027 年期間陸續推出多種配色 在巴黎時裝周期間，Pharrell Williams 被發現穿著疑似即將推出的 adidas Adistar Jellyfish V2。這位藝術家似乎在 Dior 2027 年春夏女裝發布會上首次亮相這款未發布的鞋履型號，以支持創意總監 Jonathan Anderson。這個更新版本保留了定義初代輪廓的超大、以跑步為靈感的形狀，同時提供明顯更簡潔的鞋面。Pharrell 展示的這雙鞋採用主要為灰色的網眼結構，並在整個設計中點綴綠色細節。與首款 Adistar Jellyfish 相比，側板看起來更簡約，大幅減少了初代型號上使用的沉重 TPU 細節。雖然 adidas 尚未正式確認這款運動鞋為 Adistar Jellyfish V2，但該企劃緊隨 Pharrell 與該品牌今年多個聯乘發布，包括 Flat Earther 和 Water Moc。繼 3 月發現了早期的黑白版本後，預計這款更新輪廓的多種配色將於明年推出。Pharrell x adidas Adistar Jellyfish V2 預計將於 2027 年內發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fpharrell-williams-tease-adidas-adistar-jellyfish-v2-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/pharrell-williams-tease-adidas-adistar-jellyfish-v2-first-look",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS",
-    "DIOR"
-   ]
-  },
-  {
-   "id": 27,
+   "id": 32,
    "title": "Mr. Bailey Launches Terracotta Collection That's Built For The Future",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -369,7 +434,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 28,
+   "id": 33,
    "title": "Havaianas and Zellerfeld Unveil the 3D-Printed Top Toe Mule",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -380,7 +445,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 29,
+   "id": 34,
    "title": "ERL Unveils the Vamps Silhouette in \"Chocolate Brown\"",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -389,73 +454,6 @@ window.SNEAKER_DATA = {
    "link": "https://hypebeast.com/2026/10/erl-vamps-chocolate-brown-release-info",
    "lang": "en",
    "relatedBrands": []
-  },
-  {
-   "id": 30,
-   "title": "The Nike Dunk Low \"Shibuya Halloween\" Has Eyes in the Back of Its Head",
-   "source": "Hypebeast",
-   "date": "2026-10-02",
-   "content": "Name: Nike Dunk Low “Shibuya Halloween”Colorway: Bog Green/Bog Green-Black-Luminous GreenSKU: IX5169-300MSRP: $130 USDRelease Date: October 2026Where to Buy: NikeThe Nike Dunk Low \"Shibuya Halloween\" is set to join the brand's Halloween 2026 collection, bringing its Tokyo-inspired Shibuya theme to the Dunk for the first time. The pair keeps its palette moody and restrained, saving its spookiest tricks for the heel and the outsole.The upper is built around a Bog Green and black colorway, with black taking up much of the shoe and the green reading as a deep, swampy olive. Croc-textured leather appears across sections of the upper, giving the panels a scaly, reptilian surface that suits the seasonal theme and adds tactile contrast to the smooth leather elsewhere.The heel is where the design turns playful. A set of eyes sits near the back of the shoe, watching from behind as the wearer walks",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F02%2FNike-Dunk-Low-Shibuya-Halloween-IX5169-300-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nike-dunk-low-shibuya-halloween-ix5169-300-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "Tyler, the Creator and Converse GOLF le FLEUR* Tease Collaborative 1908 Bronco Boot Low in Three New Colorways",
-   "source": "Hypebeast",
-   "date": "2026-10-02",
-   "content": "Summary Tyler the Creator and Converse are reportedly expanding their 1908 series with the Bronco Boot LowThe low-top silhouette draws inspiration from 1990s Converse Mud Chunk designs and classic duck bootsEarly overseas listings show the model in black leather, green leather, and yellow suede colorways Converse and Tyler, the Creator's GOLF le FLEUR* are reportedly preparing to introduce the 1908 Bronco Boot Low, according to early overseas listings. Expanding on their collaborative 1908 line, the new silhouette cuts down the rugged profile of the original Bronco Boot below the ankle.The unreleased model preserves the chunky tooling and heavy duck boot influence of its predecessor, which originally borrowed design elements from the 1990s Converse Mud Chunk. Early imagery suggests the low-top iteration will debut in black leather, green leather, and yellow suede options. Each pair is an",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F01%2Ftyler-the-creator-converse-golf-le-fleurtease-collaborative-1908-bronco-boot-low-three-new-colorways-black-green-yellow-news-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/tyler-the-creator-converse-golf-le-fleurtease-collaborative-1908-bronco-boot-low-three-new-colorways-black-green-yellow-news",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "NIGO x J-Hope x Nike Air Force 1 '01 \"Burnt Sunrise\"",
-   "source": "Hypebeast",
-   "date": "2026-10-02",
-   "content": "Name: NIGO x J-Hope x Nike Air Force 1 '01 \"Burnt Sunrise\"Colorway: Burnt Sunrise/Metallic Gold-TaupeSKU: IO8766-800MSRP: $150 USDRelease Date: October 22, 2026Where to Buy: NikeNike, NIGO, and J-Hope have officially linked up to release the Nike Air Force 1 Low \"Burnt Sunrise\". First spotted on foot at the Human Made flagship store in Tokyo, the tripartite footwear project marks the first sneaker collaboration between the Japanese designer and the global music icon.The silhouette retains the foundational shape and paneling of the classic Air Force 1 ’01 while introducing a warm, multi-tonal aesthetic. Built with a rich blend of warm brown, gold, and copper hues across the upper, the material features a distinctive finish that subtly shifts depending on the light. Elevating the co-branded design, a special custom graphic replaces the traditional Nike Air branding on the heel tab.While th",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F01%2Fnigo-j-hope-nike-air-force-1-burnt-sunrise-closer-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nigo-j-hope-nike-air-force-1-burnt-sunrise-closer-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "ROA and fragment Unveil First Collaboration — Reconstructing Hybrid Boots in Black and Blue",
-   "source": "Hypebeast",
-   "date": "2026-10-02",
-   "content": "Hiroshi Fujiwara's fragment and Italian footwear brand ROA have unveiled their first collaboration. Reconstructing ROA's signature hybrid boots through fragment's unique lens, the new model is set to release at the concept store V.A.This latest model features a leather upper with suede details on the heel counter. Combining metallic lace hooks and a rubber toe box, it retains the rugged functionality characteristic of ROA's outdoor gear roots, all while achieving a refined silhouette in a minimalist black.The design is anchored by a highly durable Vibram® outsole. ROA's triangle logo is debossed on the tongue and toe, while the heel bears the fragment logo. Furthermore, a vivid blue outsole provides a striking color contrast against the unified black upper.The ROA x fragment collaboration model is currently available at V.A. and the official online store. It is priced at 121,000 yen (inc",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2Froa-fragment-first-collabo-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/roa-fragment-first-collabo-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "Did Pharrell Williams Just Tease the adidas Adistar Jellyfish V2?",
-   "source": "Hypebeast",
-   "date": "2026-10-02",
-   "content": "Summary Pharrell Williams debuted what appears to be the unreleased adidas Adistar Jellyfish V2 during Paris Fashion WeekSpotted at Dior’s SS27 womenswear show in support of Jonathan Anderson the silhouette features a stripped-back upperThe updated design reduces heavy TPU paneling and is expected to roll out in multiple colorways throughout 2027 During Paris Fashion Week, Pharrell Williams was spotted wearing what appears to be the upcoming adidas Adistar Jellyfish V2. The artist appeared to debut the unreleased footwear model at Dior’s Spring/Summer 2027 womenswear presentation in support of creative director Jonathan Anderson.The updated iteration retains the oversized, running-inspired shape that defined the original silhouette while offering a noticeably cleaner upper. The pair showcased by Pharrell features a predominantly grey mesh build accented with green highlights throughout t",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F01%2Fpharrell-williams-tease-adidas-adistar-jellyfish-v2-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/pharrell-williams-tease-adidas-adistar-jellyfish-v2-first-look",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "DIOR"
-   ]
   },
   {
    "id": 35,
@@ -572,32 +570,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
-   ]
-  },
-  {
-   "id": 44,
-   "title": "Feid 與 Salomon 共同發布 ACS NEXXT「The Green Star」",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-01",
-   "content": "摘要 Salomon 與品牌大使 Feid 正式發布聯乘鞋款 ACS NEXXT 「The Green Star by Feid」這款機能輪廓加入 Feid 招牌「Ferxxo」綠色的乳牛紋大底、幻彩金屬感細節，以及他的手繪簽名在 10 月 10 日全球發售之前，將於 10 月 2 日至 10 月 4 日期間在 Queens 舉行快閃活動 Salomon 與榮獲拉丁格林美獎的歌手 Feid 正式發布 Salomon ACS NEXXT: The Green Star by Feid，標誌著雙方合作邁入新階段。這個前衛的鞋履企劃將 Salomon 的戶外機能傳統與這位哥倫比亞音樂人的標誌性視覺世界完美融合。ACS NEXXT 延續了 ACS PRO 的設計基礎，保留品牌標誌性的 Agile Chassis System 與極具辨識度的網狀鞋面，同時為日常休閒風格受眾重新演繹該系列。設計上，外底採用 Feid 標誌性的「Ferxxo」綠色牛紋圖案，與鞋面上的幻彩鍍鉻細節形成鮮明對比。為增添個人色彩，編織鞋舌標籤上更直接繡有 Feid 的手繪簽名。為慶祝此鞋款登場，Salomon 將於 10 月 2 日（星期五）至 10 月 4 日（星期日）期間，在 New York 的 Queens 舉辦期間限定活動。當地顧客可於美東時間 10 月 1 日（星期四）中午 12 時前透過 Salomon.com 參與網上抽籤，中籤者可於網上購買此鞋款，並親身前往 Queens 的活動場地取貨。Feid x Salomon ACS NEXXT: The Green Star by Feid 將於 2026 年 10 月 10 日透過 Salomon 官方網站及指定 Salomon 零售店作全球發售，定價為 150 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Ffeid-salomon-acs-nexxt-the-green-star-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/feid-salomon-acs-nexxt-the-green-star-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "SALOMON"
-   ]
-  },
-  {
-   "id": 45,
-   "title": "Nike 正式發佈 Apex 馬拉松競速跑鞋",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-01",
-   "content": "摘要 Nike 正式發佈 Apex 馬拉松跑鞋，旨在為比賽日提供極致的效能與速度此鞋款於前掌位置搭載雙層 Air Zoom 氣墊，並配合 ZoomX LT 泡棉及 40mm 的零足差平台此鞋款將於 2027 年 1 月透過 Nike 及指定零售商在全球正式發售 Nike 正式推出 Nike Apex，標誌著品牌在馬拉松比賽日創新技術上的巔峰之作。這款輕量化競速系統專為分秒必爭的競賽跑者而生，旨在提供前所未有的能量回饋與向前推進力。Apex 是 Nike 首款搭載四個 Air Zoom 氣墊的競速跑鞋，前掌採用兩組雙層配置，成為 Swoosh 跑鞋史上注入最多 Air 氣墊的型號。此系統專為壓縮、儲存及回饋能量而設計，能比 Alphafly 3 提供高達 40% 的額外能量回饋，同時重量減輕超過 10%。鞋款採用平衡的 40 毫米零足跟差（zero-drop）中底平台，由腳跟到腳尖提供一致的支撐、緩震與回彈力。包覆在 Air Zoom 系統周圍的是全新 ZoomX LT 中底泡棉，設計比傳統 ZoomX 更柔軟、更輕盈且更具回彈性。凸起的反向波浪碳纖維 Flyplate 將壓力直接傳導至雙層 Air 氣墊中，配合加寬的外底與搖桿幾何輪廓，維持跑速的穩定性。上方採用透氣的 Flyknit X 鞋面，結合貼合的針織鞋領與無鞋墊結構，打造極簡且如手套般緊密貼合的腳感，最後由鞋底的 GOATEK 與 Fast Shot 抓地設計完美作結。Nike Apex 將於 2027 年 1 月透過 Nike 及指定零售商正式發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-apex-marathon-racing-shoe-official-announcement-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/nike-apex-marathon-racing-shoe-official-announcement",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
    ]
   }
  ]
