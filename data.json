@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05 16:08",
+ "updatedAt": "2026-10-06 08:08",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -22,12 +22,26 @@
   "NEW BALANCE",
   "NIKE",
   "PUMA",
+  "SALOMON",
   "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Miu Miu x New Balance 攜手重塑 RC150 聯乘鞋款，採用鞋頭綁帶設計",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-05",
+   "content": "名稱： Miu Miu x New Balance RC150型號： 待定發售日期： 2027 年 2 月邁入聯乘合作的第五年，Miu Miu 與 New Balance 再次攜手，首度帶來 RC150 賽車鞋的全新重塑版本，此鞋款早前已於這家法國時裝品牌在 Paris 舉行的 2027 春夏時裝展上率先亮相。RC150 最初由 New Balance 於 1990 年代末推出，原為一款高性能的公路賽車鞋，以其 150 克的突破性超輕量結構而聞名。時至今日，這款鞋型的復古版本已極為罕見且難以尋覓。在 Miu Miu 的演繹下，這款經典跑鞋被巧妙地顛覆與重塑，將大眾熟悉的運動輪廓轉化為充滿驚喜的高級時尚單品，散發出隨性自然的態度。今回 New Balance x Miu Miu 聯乘版 RC150 經過深度解構，採用具延展性的高科技網眼鞋面，並飾有遍佈鞋身的對比色鋸齒形刺繡細節。極致輕盈的鞋面配搭靈活的 UltraLight 柔軟鞋底，確保靈活性及日常穿著的舒適度。為這款聯乘作品增添標誌性的叛逆氣息，鞋款配備了可替換鞋帶，透過外部圈環在鞋頭鬆散打結，鼓勵穿著者的個性化配搭。系列配色直接從原版鞋款 1990 年代末的起源汲取靈感，提供柔和內斂的色調與大膽鮮艷的版本——包括在時裝展上亮相、極具視覺衝擊力的鮮藍與亮黃配色。此獨家鞋款系列預計將於 2027 年 2 月在 Miu Miu 指定專門店及官方網站上架。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fftmiu-miu-new-balance-rc150-spring-summer-2027-paris-fashion-week-runway-collaboration-closer-look.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/miu-miu-new-balance-rc150-spring-summer-2027-paris-fashion-week-runway-collaboration-closer-look",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 2,
    "title": "Nike Dunk Low 最新「Jade Stone/Old Royal」配色結合柔和綠色與鮮豔藍調",
    "source": "Hypebeast 中文",
    "date": "2026-10-05",
@@ -40,7 +54,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 3,
    "title": "Brooks Brothers x Converse 全新聯乘 All Star Aged Hi 及 Ox 鞋款，以 50 年代摔角鞋為靈感",
    "source": "Hypebeast 中文",
    "date": "2026-10-05",
@@ -53,7 +67,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 4,
    "title": "Grand Collection x New Balance 聯乘升級 770 及 508 鞋款，專為紐約街頭滑板而設",
    "source": "Hypebeast 中文",
    "date": "2026-10-05",
@@ -66,7 +80,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 5,
    "title": "A Ma Maniére x adidas 推出亮面皮革 Japan SQ 聯乘鞋款 以方頭設計重塑纖細跑鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-05",
@@ -79,7 +93,33 @@
    ]
   },
   {
-   "id": 5,
+   "id": 6,
+   "title": "Ma Yansong Reads the Salomon XT-RIDGE Like a Building",
+   "source": "Hypebeast",
+   "date": "2026-10-05",
+   "content": "Why would a sneaker catch an architect's eye?As a new silhouette branching off the XT family, the XT-RIDGE carries Salomon's mountain DNA while taking a sharp turn in design. It sets aside the exposed SensiFit™ cage that has long defined the XT line's visual language, drawing instead on the layered light and shadow of modern architecture. Using semi-translucent TPU, it reworks the idea of a ridgeline with a more restrained hand, translating performance know-how from the mountains into the context of the urban climb.\"Seeing comes before words,\" wrote British art critic John Berger in Ways of Seeing, arguing that the way we look at anything is shaped by our own experience, culture and knowledge.Outdoor culture is increasingly bleeding into city life, and the performance vocabulary of materials, structure and function has found its way into architecture, design and fashion. With the XT-RIDG",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F05%2Fma-yansong-salomon-xt-ridge-interview-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/ma-yansong-salomon-xt-ridge-interview",
+   "lang": "en",
+   "relatedBrands": [
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Miu Miu and New Balance Rework the RC150 With Toe-Tied Laces",
+   "source": "Hypebeast",
+   "date": "2026-10-05",
+   "content": "Name: Miu Miu x New Balance RC150SKU: TBCRelease Date: February 2027Entering its fifth year of collaborative partnership, Miu Miu and New Balance have reunited to debut a fresh reinterpretation of the RC150 racing sneaker, which recently previewed on the French fashion house's Spring/Summer 2027 runway in Paris.Originally launched by New Balance in the late 1990s, the RC150 was conceived as a high-performance road-racing shoe celebrated for its groundbreaking, ultra-lightweight 150-gram construction. Today, vintage iterations of the model are exceptionally rare and hard to find. In the hands of Miu Miu, the heritage runner has been playfully subverted and decontextualized, transforming the familiar athletic silhouette into an unexpected, high-fashion statement piece with an effortless attitude.The collaborative New Balance x Miu Miu RC150 is heavily deconstructed, featuring a malleable t",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F05%2Fftmiu-miu-new-balance-rc150-spring-summer-2027-paris-fashion-week-runway-collaboration-closer-look.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/miu-miu-new-balance-rc150-spring-summer-2027-paris-fashion-week-runway-collaboration-closer-look",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 8,
    "title": "Nike Dunk Low “Jade Stone/Old Royal” Mixes Muted Greens With Vivid Blue",
    "source": "Hypebeast",
    "date": "2026-10-05",
@@ -92,7 +132,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 9,
    "title": "Brooks Brothers x Converse Rework the All Star Aged Hi and Ox Around a ‘50s Wrestling Shoe",
    "source": "Hypebeast",
    "date": "2026-10-05",
@@ -105,7 +145,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 10,
    "title": "Grand Collection x New Balance Reinforce the 770 and 508 for New York Street Skating",
    "source": "Hypebeast",
    "date": "2026-10-05",
@@ -119,7 +159,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 11,
    "title": "A Ma Maniére x adidas Japan SQ Squares Off the Slim Runner in Glossy Leather",
    "source": "Hypebeast",
    "date": "2026-10-05",
@@ -132,7 +172,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 12,
    "title": "PUMA and MASU Release Third Capsule Collection",
    "source": "Hypebeast",
    "date": "2026-10-05",
@@ -145,47 +185,85 @@
    ]
   },
   {
-   "id": 10,
-   "title": "This Dunk Glows in the Dark Like Shibuya",
-   "source": "Highsnobiety",
+   "id": 13,
+   "title": "Hellstar x adidas Megaride S2 “Bright Red”",
+   "source": "Nice Kicks",
    "date": "2026-10-05",
-   "content": "Revisiting one of sneaker culture's most legendary subcultural epicenters, Nike drops the Nike Dunk Low Shibuya Halloween.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-dunk-low-shibuya-halloween/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 11,
-   "title": "Raye and Zalando Prepare to Take Over Berlin",
-   "source": "Highsnobiety",
-   "date": "2026-10-05",
-   "content": "Introducing Access All Areas, Zalando’s festival celebrating the very best in fashion, music, and culture. Join brands like Nike, Calvin Klein, and adidas and chart-topping pop diva Raye for an unforgettable Berlin weekend from 25-27 April 2027.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/zalando-aaa-raye-berlin/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 12,
-   "title": "adidas' Ultra-Flat Sneaker Is a Full-Fat Oreo Milkshake",
-   "source": "Highsnobiety",
-   "date": "2026-10-05",
-   "content": "adidas' new Japan rendition is in a good moo-d! In full cow pattern, this Oreo-hued beauty goes all in on fashion's animal print obsession.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-japan-cow-print/",
+   "content": "The Hellstar x adidas Megaride S2 “Bright Red” is set to release on October 10, 2026, via adidas CONFIRMED app… The post Hellstar x adidas Megaride S2 “Bright Red” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/OFF_BODY_LOOK_01_0337_V1-scaled-e1791214886421.jpg",
+   "link": "https://www.nicekicks.com/hellstar-adidas-megaride-s2-bright-red-lb5626/",
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
    ]
   },
   {
-   "id": 13,
+   "id": 14,
+   "title": "The Fan Favorite Air Jordan 11 “Space Jam” is Releasing In True OG Form",
+   "source": "Nice Kicks",
+   "date": "2026-10-05",
+   "content": "The Full Backstory Behind the Jordan 11 Space Jam When Tinker Hatfield designed the Air Jordan 11, he did something… The post The Fan Favorite Air Jordan 11 “Space Jam” is Releasing In True OG Form appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/IMG_3606-e1791243304571.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-11-space-jam-ct8012-900-drop/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Air Jordan 11 “Green Screen” (IQ5700-900) November 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-05",
+   "content": "Interested readers can expect the Air Jordan 11 “Green Screen” to release on November 14, 2026, via SNKRS and select… The post Air Jordan 11 “Green Screen” (IQ5700-900) November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/IMG_3592-e1791242396560.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-11-green-screen-iq5700-900/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Nike Air Force 1 Low ’01 “Subway Rat” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-05",
+   "content": "New York’s most infamous commuter takes over the Nike Air Force 1 ’01 with the aptly nicknamed “Subway Rat.” The… The post Nike Air Force 1 Low ’01 “Subway Rat” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/iv6999-001-5-1-e1790189346924.jpg",
+   "link": "https://www.nicekicks.com/nike-air-force-1-low-01-subway-rat-iv6999-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Air Jordan 1 High OG “Royal” (IQ5495-005) October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-05",
+   "content": "The History of an OG Colorway Peter Moore designed the Air Jordan 1 in 1985 as the shoe that launched… The post Air Jordan 1 High OG “Royal” (IQ5495-005) October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/iq5495-005-2-e1787756442124.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-1-high-og-royal-iq5495-005/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Nike Sabrina 4 “Light Work”",
+   "source": "Nice Kicks",
+   "date": "2026-10-05",
+   "content": "The Nike Sabrina 4 “Light Work” is releasing on October 6, 2026, via Nike.com and select retailers for $135. Check out the photos below… The post Nike Sabrina 4 “Light Work” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ii0402-601-5-1-e1791238184995.jpg",
+   "link": "https://www.nicekicks.com/nike-sabrina-4-light-work-ii0402-601/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 19,
    "title": "KEEN 將雙繩 UNEEK 改造為奢華皮革穆勒鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-04",
@@ -196,7 +274,7 @@
    "relatedBrands": []
   },
   {
-   "id": 14,
+   "id": 20,
    "title": "KEEN Turns Its Two-Cord UNEEK Into a Luxury Leather Mule",
    "source": "Hypebeast",
    "date": "2026-10-04",
@@ -207,98 +285,7 @@
    "relatedBrands": []
   },
   {
-   "id": 15,
-   "title": "Nike's Famously Chromed-Out Cleats Are Sleek Sneakers Now",
-   "source": "Highsnobiety",
-   "date": "2026-10-04",
-   "content": "Nike's Cryoshot Mercurial Chrome '02 sneakers land as a sleek sneaker remake of the famously shiny cleats.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-cryoshot-mercurial-chrome-02/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 16,
-   "title": "Nike's Blacked-Out Skate Shoe Is Pure & Perfect",
-   "source": "Highsnobiety",
-   "date": "2026-10-04",
-   "content": "Nike SB releases an all-black Zoom Tennis Classic skate sneaker, stripping down the model to its purest form.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-sb-tennis-classic-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "adidas’ Silky Sneaker Is One Step Closer to Its Ballerina Dreams",
-   "source": "Highsnobiety",
-   "date": "2026-10-04",
-   "content": "adidas' Handball Spezial Lo Pro sneaker lands in black satin, putting the model one step closer to ballet territory.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-handball-spezial-lo-pro-satin-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "Nike Made Its Own \"Burberry\" Dunks",
-   "source": "Highsnobiety",
-   "date": "2026-10-04",
-   "content": "Nike releases Burberry-style Dunk Low sneakers featuring a brown check-print similar to the luxury brand's famous pattern.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-dunk-low-night-forest/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "A Rare New Balance Runner Becomes Miu Miu's Newest Muse (EXCLUSIVE)",
-   "source": "Highsnobiety",
-   "date": "2026-10-04",
-   "content": "Miu Miu debuts its latest New Balance RC150 sneaker collaboration for Spring/Summer 2027. Here's your first look at the brand-new shoe.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/miu-miu-new-balance-rc150-collab/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "Nike’s Stealthy Racing Shoe Has the Long-Ass Run Covered",
-   "source": "Highsnobiety",
-   "date": "2026-10-04",
-   "content": "Nike’s Zoom Rival Waffle 7 is a lightweight road and cross-country racing shoe made for long runs, with a grippy waffle outsole and streamlined profile.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-zoom-rival-waffle-7/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
    "id": 21,
-   "title": "adidas' Wafer-Thin Gazelle Is Fresh From the Biscuit Tin",
-   "source": "Highsnobiety",
-   "date": "2026-10-04",
-   "content": "This adidas Gazelle Lo Pro asks for a cup of tea. The flattened classic has the pleasing palette of a biscuit: sandy suede, off-white stripes.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-gazelle-lo-pro-khaki/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 22,
    "title": "Nike 為 Vomero 5 換上「Camo Green」Cordura 材質對抗寒冬",
    "source": "Hypebeast 中文",
    "date": "2026-10-03",
@@ -311,7 +298,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 22,
    "title": "adidas Originals GAZELLE OG 迎來俐落「Charcoal Gray」麂皮配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-03",
@@ -324,7 +311,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 23,
    "title": "Nike Toughens Up the Vomero 5 for Winter With a Cordura \"Camo Green\" Build",
    "source": "Hypebeast",
    "date": "2026-10-03",
@@ -338,7 +325,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 24,
    "title": "The adidas Originals GAZELLE OG Arrives in a Sleek \"Charcoal Gray\" Suede",
    "source": "Hypebeast",
    "date": "2026-10-03",
@@ -348,6 +335,19 @@
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Nike Air Bakin SP “OG” September 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-03",
+   "content": "Debuting in 1997, the Nike Air Bakin embodied the larger-than-life style of late-’90s basketball footwear, gaining added visibility on the… The post Nike Air Bakin SP “OG” September 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/imgi_1_snkrs-verified-september-2026-2-1-e1787148287656.jpeg",
+   "link": "https://www.nicekicks.com/nike-air-bakin-sp-og-iq5365-600/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
    ]
   },
   {
@@ -411,19 +411,6 @@
   },
   {
    "id": 31,
-   "title": "Tyler, the Creator 與 Converse GOLF le FLEUR* 預告聯乘 1908 Bronco Boot Low 三款全新配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-02",
-   "content": "摘要 據悉 Tyler the Creator 與 Converse 正透過 Bronco Boot Low 擴展雙方的 1908 系列這款低筒鞋型從 1990 年代的 Converse Mud Chunk 設計與經典鴨子靴中汲取靈感早前海外列表顯示該鞋款備有黑色皮革、綠色皮革以及黃色麂皮三種配色 據海外早期上架資訊顯示，Converse 與 Tyler, the Creator 的 GOLF le FLEUR* 據報正準備推出 1908 Bronco Boot Low。作為雙方聯乘 1908 系列的延伸，全新鞋款將原版 Bronco Boot 的粗獷輪廓降低至腳踝以下。這款尚未發佈的型號保留了前代的厚實鞋底與濃厚的獵鴨靴風格，其最初借鑒了 1990 年代 Converse Mud Chunk 的設計元素。早期圖片顯示，這款低筒版本將率先帶來黑色皮革、綠色皮革與黃色麂皮三種選擇。每款鞋均配備經典生膠外底，其中綠色與黃色版本更加入了啡色飾邊細節。雖然 Converse 尚未正式官方宣布發售消息，但此企劃進一步豐富了 Tyler 繼 Jogger、Naut-1 與 Pro Leather 等鞋型後不斷壯大的聯乘陣容。敬請留意官方發售消息。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Ftyler-the-creator-converse-golf-le-fleurtease-collaborative-1908-bronco-boot-low-three-new-colorways-black-green-yellow-news-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/tyler-the-creator-converse-golf-le-fleurtease-collaborative-1908-bronco-boot-low-three-new-colorways-black-green-yellow-news",
-   "lang": "zh",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 32,
    "title": "Mr. Bailey Launches Terracotta Collection That's Built For The Future",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -434,7 +421,7 @@
    "relatedBrands": []
   },
   {
-   "id": 33,
+   "id": 32,
    "title": "Havaianas and Zellerfeld Unveil the 3D-Printed Top Toe Mule",
    "source": "Hypebeast",
    "date": "2026-10-02",
@@ -445,18 +432,7 @@
    "relatedBrands": []
   },
   {
-   "id": 34,
-   "title": "ERL Unveils the Vamps Silhouette in \"Chocolate Brown\"",
-   "source": "Hypebeast",
-   "date": "2026-10-02",
-   "content": "Summary ERL has introduced a rich Chocolate Brown iteration of its signature Vamps silhouetteThe sneaker features a premium cowhide leather upper paired with plush terry lining and an internal sculpted structureDesign details include a two-tone translucent gum sole and cream laces with silicone tips ERL has officially showcased the ERL Vamps in a rich \"Chocolate Brown\" colorway. Designed in Venice Beach, California, the distinct footwear silhouette combines high-grade materials with an internal sculpted framework to create a bold, voluminous aesthetic.The low-top silhouette is constructed with a rich chocolate brown cowhide leather upper, lined with plush terry cloth engineered for high-level comfort. Its internal sculpted structure shapes the signature Vamps outline, giving the shoe its pronounced and distinctive shape.Underfoot, the design is grounded by a two-tone translucent gum outs",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F02%2Ferl-vamps-chocolate-brown-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/erl-vamps-chocolate-brown-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 35,
+   "id": 33,
    "title": "Air Jordan 16 “Black Pack” (IZ2586-001) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -469,7 +445,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 34,
    "title": "Air Jordan 14 “Black Pack” (IZ3884-001) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-02",
@@ -482,94 +458,54 @@
    ]
   },
   {
-   "id": 37,
-   "title": "Converse SHAI 001 Shroud “Spark” Fall 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-02",
-   "content": "The Converse SHAI 001 Shroud “Spark” is set to release on October 9, 2026, via Converse, SNKRS, and select retailers for $140. Check… The post Converse SHAI 001 Shroud “Spark” Fall 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/a23976c-084-5-e1789157190615.jpg",
-   "link": "https://www.nicekicks.com/converse-shai-001-shroud-spark-a23976c/",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "Converse SHAI 001 Shroud “Shock” Fall 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-02",
-   "content": "The Converse SHAI 001 Shroud “Shock” is set to release on October 9, 2026, via Converse, SNKRS, and select retailers for $140. Check… The post Converse SHAI 001 Shroud “Shock” Fall 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/a23975c-004-5-e1789157386681.jpg",
-   "link": "https://www.nicekicks.com/converse-shai-001-shroud-shock-a23975c/",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-02",
-   "content": "The Air Jordan 3 “Fireside” (Style Code: CK9246-200) drops in a chocolate like borwn color with other hues of brown… The post Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/ck9246-200-5-1-e1789833654816.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Brain Dead x adidas Samba Bowling “Snakeskin”",
-   "source": "Nice Kicks",
-   "date": "2026-10-02",
-   "content": "The Brain Dead x adidas Samba Bowling “Snakeskin” is set to release on October 8, 2026, via adidas Confirmed app, WeAreBrainDead.com, and select… The post Brain Dead x adidas Samba Bowling “Snakeskin” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/ADIDASxBRAINDEAD1197-1-scaled-e1790004098201.jpg",
-   "link": "https://www.nicekicks.com/brain-dead-adidas-samba-bowling-snakeskin-kj0662/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "Brain Dead x adidas Samba Bowling “Cheetah”",
-   "source": "Nice Kicks",
-   "date": "2026-10-02",
-   "content": "The Brain Dead x adidas Samba Bowling “Cheetah” is set to release on October 8, 2026, via adidas Confirmed app, WeAreBrainDead.com, and… The post Brain Dead x adidas Samba Bowling “Cheetah” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/ADIDASxBRAINDEAD1208-1-scaled-e1790004321834.jpg",
-   "link": "https://www.nicekicks.com/brain-dead-adidas-samba-bowling-cheetah-kh8143/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 42,
-   "title": "Aminé x New Balance Made In USA 992 “Outdoor School”",
-   "source": "Nice Kicks",
-   "date": "2026-10-02",
-   "content": "The Aminé x New Balance Made In USA 992 “Outdoor School” is releasing on October 2, 2026, via Aminé’s site ClubBanana.com. A… The post Aminé x New Balance Made In USA 992 “Outdoor School” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/u992ne_NB_05_I-e1790700138837.webp",
-   "link": "https://www.nicekicks.com/amine-new-balance-made-in-usa-992-outdoor-school-u992ne/",
+   "id": 35,
+   "title": "New Balance’s Clean-Cut Skate Shoe Just Got a Nice Update",
+   "source": "Highsnobiety",
+   "date": "2026-09-26",
+   "content": "The New Balance Numeric Brandon Westgate 508 arrives in Reflection with Fairweather Blue, pairing a clean, understated base with subtle hits of blue.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-numeric-brandon-westgate-508/",
    "lang": "en",
    "relatedBrands": [
     "NEW BALANCE"
    ]
   },
   {
-   "id": 43,
-   "title": "Anthony Edwards x adidas Superstar II “Stone”",
-   "source": "Nice Kicks",
-   "date": "2026-10-02",
-   "content": "The Anthony Edwards x adidas Superstar II “Stone” is expected to release in Fall of 2026, via adidas.com and select… The post Anthony Edwards x adidas Superstar II “Stone” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/HQ8080_1-1-e1790958270247.jpg",
-   "link": "https://www.nicekicks.com/anthony-edwards-adidas-superstar-ii-stone-hq8080/",
+   "id": 36,
+   "title": "adidas' Bejeweled Superstar Is the Belle of the Ball",
+   "source": "Highsnobiety",
+   "date": "2026-09-26",
+   "content": "adidas just took its all-black Superstar sneaker to the jeweler & totally iced it out.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-superstar-jewel-sneaker/",
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
+   ]
+  },
+  {
+   "id": 37,
+   "title": "Ronnie Fieg Knows He's Him (EXCLUSIVE)",
+   "source": "Highsnobiety",
+   "date": "2026-09-25",
+   "content": "As Kith turns 15, Ronnie Fieg is taking a well-deserved look back on his unimpeachable archive of nearly 2,000 collaborative shoes.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/kith-ronnie-fieg-15th-anniversary-interview/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 38,
+   "title": "Blue Croc Leather Boots Never Looked This Rugged",
+   "source": "Highsnobiety",
+   "date": "2026-09-25",
+   "content": "Continuing a massive year-long resurgence for the rugged silhouette, Nike drops a luxurious, low-profile iteration with the Nike Air Max Goadome Low Navy Croc.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-midnight-navy-croc/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
    ]
   }
  ]
