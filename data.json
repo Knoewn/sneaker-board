@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07 08:08",
+ "updatedAt": "2026-10-07 16:08",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -31,6 +31,19 @@
  "news": [
   {
    "id": 1,
+   "title": "Vans Snowboarding Introduces the Super Standard in Ryo Aizawa's Signature Colorway",
+   "source": "Hypebeast",
+   "date": "2026-10-07",
+   "content": "Vans Snowboarding has teamed up with professional snowboarder Ryo Aizawa to launch the Super Standard snowboard boot (Ryo Aizawa Black/Snake). The boot drops Friday, October 16, at the Vans official online store and authorized retailers. It is priced at ¥38,500 (tax included).This model marks the first signature colorway for a Japanese rider in Vans Snowboarding history. Inspired by snowboarding's golden era in the late 1990s, Aizawa and the Vans snowboard design team collaborated on the color and design.The boot takes the flexible, playful feel of the flagship Hi-Standard OG and applies it to a lower-profile design. It's built for versatility, handling everything from park to powder.On the performance side, the boot features a V3 UltraCush™ liner equipped with quick-drying FlashDry™ technology, a V2 PopCush™ footbed, and a V1 Waffle Lug outsole made with All-Trac™ cold-weather rubber co",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2Fvans-snowboarding-super-standard-shoes-release-info-01-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/vans-snowboarding-super-standard-shoes-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 2,
    "title": "Brain Dead x adidas Bowling 聯乘鞋款迎來狂野變身",
    "source": "Hypebeast 中文",
    "date": "2026-10-06",
@@ -45,7 +58,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 3,
    "title": "Hellstar 為 adidas MEGARIDE S2 注入烈焰設計",
    "source": "Hypebeast 中文",
    "date": "2026-10-06",
@@ -58,7 +71,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 4,
    "title": "Nike Air Rift 最新「Black/Desert Ochre」配色換上獵豹紋馬毛材質登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-06",
@@ -71,7 +84,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 5,
    "title": "The Brain Dead x adidas Bowling Shoe Got a Wild Makeover",
    "source": "Hypebeast",
    "date": "2026-10-06",
@@ -86,7 +99,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 6,
    "title": "Flower Mountain Matches Form With Function for FW26 Collection",
    "source": "Hypebeast",
    "date": "2026-10-06",
@@ -99,7 +112,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 7,
    "title": "Hellstar Sets the adidas MEGARIDE S2 Ablaze",
    "source": "Hypebeast",
    "date": "2026-10-06",
@@ -112,7 +125,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 8,
    "title": "The Nike Air Rift \"Black/Desert Ochre\" Prowls In Wearing Cheetah-Print Pony Hair",
    "source": "Hypebeast",
    "date": "2026-10-06",
@@ -125,7 +138,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 9,
    "title": "PUMA x ROSÉ Introduces the SPEEDCAT VTG With Vintage Details",
    "source": "Hypebeast",
    "date": "2026-10-06",
@@ -138,7 +151,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 10,
    "title": "Avatar: The Last Airbender x Reebok Insta Pump Fury 94 “Aang”",
    "source": "Nice Kicks",
    "date": "2026-10-06",
@@ -151,7 +164,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 11,
    "title": "Avatar: The Last Airbender x Reebok Classic Nylon “Four Nations”",
    "source": "Nice Kicks",
    "date": "2026-10-06",
@@ -164,7 +177,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 12,
    "title": "Avatar: The Last Airbender x Reebok Club C 85 “Appa”",
    "source": "Nice Kicks",
    "date": "2026-10-06",
@@ -177,7 +190,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 13,
    "title": "Avatar: The Last Airbender x Reebok Engine A 26 “Avatar State”",
    "source": "Nice Kicks",
    "date": "2026-10-06",
@@ -190,7 +203,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 14,
    "title": "New Balance’s England-Made Dad Shoe Is Certified Minty Fresh",
    "source": "Highsnobiety",
    "date": "2026-10-06",
@@ -203,7 +216,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 15,
    "title": "adidas Put a Zippered Suede Jacket on the Samba",
    "source": "Highsnobiety",
    "date": "2026-10-06",
@@ -216,7 +229,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 16,
    "title": "Dr. Martens Is Changing. You're Not Supposed to Notice.",
    "source": "Highsnobiety",
    "date": "2026-10-06",
@@ -227,7 +240,7 @@
    "relatedBrands": []
   },
   {
-   "id": 16,
+   "id": 17,
    "title": "Jordan’s Elderly Camo Mule Is So Real (Tree)",
    "source": "Highsnobiety",
    "date": "2026-10-06",
@@ -240,7 +253,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 18,
    "title": "Nike’s Coolest Trail Sneaker Doesn’t Mind Getting Its Feet Wet",
    "source": "Highsnobiety",
    "date": "2026-10-06",
@@ -253,7 +266,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 19,
    "title": "Diesel’s It-Bag Bid Is D-One and Done",
    "source": "Highsnobiety",
    "date": "2026-10-06",
@@ -264,7 +277,7 @@
    "relatedBrands": []
   },
   {
-   "id": 19,
+   "id": 20,
    "title": "Nike’s Tartan Sneakers Are as Techy as They Are Preppy",
    "source": "Highsnobiety",
    "date": "2026-10-06",
@@ -277,7 +290,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 21,
    "title": "le PÈRE’s Fall Uniform? Tracksuits & PUMA “Bowling\" Shoes (EXCLUSIVE)",
    "source": "Highsnobiety",
    "date": "2026-10-06",
@@ -290,7 +303,7 @@
    ]
   },
   {
-   "id": 21,
+   "id": 22,
    "title": "Miu Miu x New Balance 攜手重塑 RC150 聯乘鞋款，採用鞋頭綁帶設計",
    "source": "Hypebeast 中文",
    "date": "2026-10-05",
@@ -303,7 +316,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 23,
    "title": "Nike Dunk Low 最新「Jade Stone/Old Royal」配色結合柔和綠色與鮮豔藍調",
    "source": "Hypebeast 中文",
    "date": "2026-10-05",
@@ -316,7 +329,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 24,
    "title": "Brooks Brothers x Converse 全新聯乘 All Star Aged Hi 及 Ox 鞋款，以 50 年代摔角鞋為靈感",
    "source": "Hypebeast 中文",
    "date": "2026-10-05",
@@ -329,7 +342,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 25,
    "title": "Grand Collection x New Balance 聯乘升級 770 及 508 鞋款，專為紐約街頭滑板而設",
    "source": "Hypebeast 中文",
    "date": "2026-10-05",
@@ -342,7 +355,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 26,
    "title": "A Ma Maniére x adidas 推出亮面皮革 Japan SQ 聯乘鞋款 以方頭設計重塑纖細跑鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-05",
@@ -355,7 +368,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 27,
    "title": "Ma Yansong Reads the Salomon XT-RIDGE Like a Building",
    "source": "Hypebeast",
    "date": "2026-10-05",
@@ -368,7 +381,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 28,
    "title": "Miu Miu and New Balance Rework the RC150 With Toe-Tied Laces",
    "source": "Hypebeast",
    "date": "2026-10-05",
@@ -381,7 +394,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 29,
    "title": "Nike Dunk Low “Jade Stone/Old Royal” Mixes Muted Greens With Vivid Blue",
    "source": "Hypebeast",
    "date": "2026-10-05",
@@ -394,7 +407,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 30,
    "title": "Brooks Brothers x Converse Rework the All Star Aged Hi and Ox Around a ‘50s Wrestling Shoe",
    "source": "Hypebeast",
    "date": "2026-10-05",
@@ -407,7 +420,7 @@
    ]
   },
   {
-   "id": 30,
+   "id": 31,
    "title": "Grand Collection x New Balance Reinforce the 770 and 508 for New York Street Skating",
    "source": "Hypebeast",
    "date": "2026-10-05",
@@ -421,7 +434,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 32,
    "title": "A Ma Maniére x adidas Japan SQ Squares Off the Slim Runner in Glossy Leather",
    "source": "Hypebeast",
    "date": "2026-10-05",
@@ -431,19 +444,6 @@
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "PUMA and MASU Release Third Capsule Collection",
-   "source": "Hypebeast",
-   "date": "2026-10-05",
-   "content": "MASU, the label directed by Shinpei Goto, is launching its third capsule collection with PUMA.The latest collection revolves around the theme of \"PUMA before PUMA existed,\" reinterpreting the T7 and SUEDE from the PUMA archives. It incorporates decorative details often found on Victorian jackets into a track jacket and sneakers, alongside socks featuring an angel motif.The \"PUMA x MASU CURIO SUEDE\" takes inspiration from the CRACK, the root of the PUMA SUEDE introduced in 1968. The exterior and lining of a Victorian jacket are represented using suede and canvas, finished with a design incorporating speed hooks. The lace tag features a foil-stamped angel and a distressed finish. Available in \"IVORYxBLACK,\" sizes range from 22.5 to 30.0 cm, priced at 22,000 yen.The \"PUMA x MASU T7 CURIO TRACK JACKET\" is a track jacket based on the T7, which debuted in 1968, incorporating Victorian jacket m",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2Fpuma-masu-third-capsel-collection-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/puma-masu-third-capsel-collection-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "PUMA"
    ]
   },
   {
