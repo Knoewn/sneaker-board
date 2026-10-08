@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-07 16:08",
+ "updatedAt": "2026-10-08 08:07",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -31,6 +31,19 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "LEX Models UGG®’s Fall/Winter 2026 Collection",
+   "source": "Hypebeast",
+   "date": "2026-10-07",
+   "content": "Founded in Southern California in 1978 by an Australian surfer, UGG® introduces the Classic Micro Distort, Classic Distort Boot, and Heritage Utility Grizz as its new Fall/Winter 2026 styles. These three pairs inherit the comfort the brand has cultivated while adopting different approaches to create fresh silhouettes.UGG® has long been loved for its sheepskin boots, originally worn by surfers to warm their feet after leaving the ocean. Starting from that core of soft comfort, this latest collection reexamines the brand's staples through form and function.The Classic Micro Distort and Classic Distort Boot from the \"Distort Collection,\" which adds a twist to familiar silhouettes, take the design codes of the iconic UGG® Classic Boot and warp, split, and expand them into something slightly uncanny. At the same time, they retain recognizable details like the twin seams and the Classic outsol",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2Flex-uggaw-2026-hb-original-visual_FT.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/lex-uggaw-2026-hb-original-visual",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG"
+   ]
+  },
+  {
+   "id": 2,
    "title": "Vans Snowboarding Introduces the Super Standard in Ryo Aizawa's Signature Colorway",
    "source": "Hypebeast",
    "date": "2026-10-07",
@@ -43,7 +56,124 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 3,
+   "title": "Kids Air Jordan 3 “Lola Bunny” (IZ1694-600) November 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-07",
+   "content": "Interested readers can expect the Kids Air Jordan 3 “Lola Bunny” to release on November 14, 2026, via SNKRS and… The post Kids Air Jordan 3 “Lola Bunny” (IZ1694-600) November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/iz1694-600-5-1-e1791404843953.jpg",
+   "link": "https://www.nicekicks.com/kids-air-jordan-3-lola-bunny-iz1694-600/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Air Jordan 1 Low SE “Air Bugs” (IX6375-001) November 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-07",
+   "content": "Interested readers can expect the Air Jordan 1 Low SE “Air Bugs” to release on November 1, 2026, via SNKRS… The post Air Jordan 1 Low SE “Air Bugs” (IX6375-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ix6375-001-5-1-e1791404277719.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-1-low-se-air-bugs-ix6375-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Air Jordan 1 Mid SE “Air Bugs” (IX6374-001) November 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-07",
+   "content": "Interested readers can expect the Air Jordan 1 Mid SE “Air Bugs” to release on November 1, 2026, via SNKRS… The post Air Jordan 1 Mid SE “Air Bugs” (IX6374-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ix6374-001-5-1-e1791403965528.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-1-mid-se-air-bugs-ix6374-001-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "adidas Anthony Edwards 3 “Omen”",
+   "source": "Nice Kicks",
+   "date": "2026-10-07",
+   "content": "The adidas Anthony Edwards 3 “Omen” is set to release on October 23, 2026, via adidas.com and select retailers for… The post adidas Anthony Edwards 3 “Omen” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/KJ3021_1-1-e1791392779741.jpg",
+   "link": "https://www.nicekicks.com/adidas-anthony-edwards-3-omen-kj3021/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Air Jordan 12 “Obsidian” (CT8013-401): 2027 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-07",
+   "content": "Jordan 12 Obsidian: A Look Back at the History The Air Jordan 12 “Obsidian” debuted in 1997 as one of… The post Air Jordan 12 “Obsidian” (CT8013-401): 2027 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/04/130690-404-5-1-e1776440845384.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-12-og-obsidian-ct8013-401-drop/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "adidas Harden Vol. 10 “Snakeskin”",
+   "source": "Nice Kicks",
+   "date": "2026-10-07",
+   "content": "The adidas Harden Vol. 10 “Snakeskin” will be releasing on October 16, 2026, via adidas.com and select retailers for $160. Check… The post adidas Harden Vol. 10 “Snakeskin” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/KI1612_1-1-e1791383498191.jpg",
+   "link": "https://www.nicekicks.com/adidas-harden-vol-10-snakeskin-ki1612/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Avatar: The Last Airbender x Reebok Classic Nylon “Four Nations”",
+   "source": "Nice Kicks",
+   "date": "2026-10-07",
+   "content": "The Avatar: The Last Airbender x Reebok Classic Nylon draws from the Four Nations and the elemental powers at the… The post Avatar: The Last Airbender x Reebok Classic Nylon “Four Nations” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/20260923_RBKxAvatar_SL_ClassicNylon_01-1-scaled-e1791296766605.jpg",
+   "link": "https://www.nicekicks.com/avatar-the-last-airbender-reebok-classic-nylon-four-nations-100266857/",
+   "lang": "en",
+   "relatedBrands": [
+    "REEBOK"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "adidas’ Samba Is Serving a Very Convincing Tiramisu This Fall",
+   "source": "Highsnobiety",
+   "date": "2026-10-07",
+   "content": "adidas’ Samba comes in a rich Dusky Bronze, Aurora Coffee, and Gum colorway, giving the classic low-top sneaker a deliciously tiramisu-inspired look.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-samba-og-dusky-bronze/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Caramel Has Never Looked This Clean on a New Balance Retro Sneaker",
+   "source": "Highsnobiety",
+   "date": "2026-10-07",
+   "content": "New Balance’s Gator Run gets a rich Bark and Linen colorway, pairing brown leather with muted green laces for a seriously good fall sneaker.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-gator-run-bark-with-linen/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 12,
    "title": "Brain Dead x adidas Bowling 聯乘鞋款迎來狂野變身",
    "source": "Hypebeast 中文",
    "date": "2026-10-06",
@@ -58,7 +188,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 13,
    "title": "Hellstar 為 adidas MEGARIDE S2 注入烈焰設計",
    "source": "Hypebeast 中文",
    "date": "2026-10-06",
@@ -71,7 +201,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 14,
    "title": "Nike Air Rift 最新「Black/Desert Ochre」配色換上獵豹紋馬毛材質登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-06",
@@ -84,7 +214,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 15,
    "title": "The Brain Dead x adidas Bowling Shoe Got a Wild Makeover",
    "source": "Hypebeast",
    "date": "2026-10-06",
@@ -99,7 +229,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 16,
    "title": "Flower Mountain Matches Form With Function for FW26 Collection",
    "source": "Hypebeast",
    "date": "2026-10-06",
@@ -112,7 +242,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 17,
    "title": "Hellstar Sets the adidas MEGARIDE S2 Ablaze",
    "source": "Hypebeast",
    "date": "2026-10-06",
@@ -125,7 +255,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 18,
    "title": "The Nike Air Rift \"Black/Desert Ochre\" Prowls In Wearing Cheetah-Print Pony Hair",
    "source": "Hypebeast",
    "date": "2026-10-06",
@@ -138,7 +268,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 19,
    "title": "PUMA x ROSÉ Introduces the SPEEDCAT VTG With Vintage Details",
    "source": "Hypebeast",
    "date": "2026-10-06",
@@ -151,7 +281,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 20,
    "title": "Avatar: The Last Airbender x Reebok Insta Pump Fury 94 “Aang”",
    "source": "Nice Kicks",
    "date": "2026-10-06",
@@ -164,20 +294,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
-   "title": "Avatar: The Last Airbender x Reebok Classic Nylon “Four Nations”",
-   "source": "Nice Kicks",
-   "date": "2026-10-06",
-   "content": "The Avatar: The Last Airbender x Reebok Classic Nylon draws from the Four Nations and the elemental powers at the… The post Avatar: The Last Airbender x Reebok Classic Nylon “Four Nations” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/20260923_RBKxAvatar_SL_ClassicNylon_01-1-scaled-e1791296766605.jpg",
-   "link": "https://www.nicekicks.com/avatar-the-last-airbender-reebok-classic-nylon-four-nations-100266857/",
-   "lang": "en",
-   "relatedBrands": [
-    "REEBOK"
-   ]
-  },
-  {
-   "id": 12,
+   "id": 21,
    "title": "Avatar: The Last Airbender x Reebok Club C 85 “Appa”",
    "source": "Nice Kicks",
    "date": "2026-10-06",
@@ -187,119 +304,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "REEBOK"
-   ]
-  },
-  {
-   "id": 13,
-   "title": "Avatar: The Last Airbender x Reebok Engine A 26 “Avatar State”",
-   "source": "Nice Kicks",
-   "date": "2026-10-06",
-   "content": "The Avatar: The Last Airbender x Reebok InstaPump Fury 94 channels Aang with a design inspired by the young Air… The post Avatar: The Last Airbender x Reebok Engine A 26 “Avatar State” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/20260923_RBKxAvatar_SL_EngineA_01-1-scaled-e1791297561188.jpg",
-   "link": "https://www.nicekicks.com/avatar-the-last-airbender-reebok-engine-a-26-avatar-state-100283169/",
-   "lang": "en",
-   "relatedBrands": [
-    "REEBOK"
-   ]
-  },
-  {
-   "id": 14,
-   "title": "New Balance’s England-Made Dad Shoe Is Certified Minty Fresh",
-   "source": "Highsnobiety",
-   "date": "2026-10-06",
-   "content": "New Balance's 991v2 Made in UK dad sneaker lands in \"Green Milieu\" colorway, resulting in a minty, Tiffany-tinged release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-991v2-green-milieu/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 15,
-   "title": "adidas Put a Zippered Suede Jacket on the Samba",
-   "source": "Highsnobiety",
-   "date": "2026-10-06",
-   "content": "The adidas Samba sneaker slips into the perfect fall outfit: a zippered suede look with outdoorsy charm.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-samba-zip-sneakers/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 16,
-   "title": "Dr. Martens Is Changing. You're Not Supposed to Notice.",
-   "source": "Highsnobiety",
-   "date": "2026-10-06",
-   "content": "Dr. Martens is rebranding but not enough for you to notice. That's the point, as creative director Neil Cummings tells us: with shoes this perfect, why change?",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/dr-martens-rebrand-interview/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 17,
-   "title": "Jordan’s Elderly Camo Mule Is So Real (Tree)",
-   "source": "Highsnobiety",
-   "date": "2026-10-06",
-   "content": "The Jordan Future Mule gets a RealTree camo makeover, resulting in a calm patterned take on the cozy slipper.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-future-mule-realtree/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "Nike’s Coolest Trail Sneaker Doesn’t Mind Getting Its Feet Wet",
-   "source": "Highsnobiety",
-   "date": "2026-10-06",
-   "content": "Nike's genuinely cool Mountain Fly Low GTX sneaker returns in the \"Dark Smoke Grey\" colorway for Fall 2026.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-acg-mountain-fly-low-gtx-dark-smoke-grey/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "Diesel’s It-Bag Bid Is D-One and Done",
-   "source": "Highsnobiety",
-   "date": "2026-10-06",
-   "content": "Ever since “it-status” entered fashion’s sphere and spread with an almost airborne virality, it seems “it” is all we can think of: it-girls, it-shoes, it-bags. But what exactly is “it”? For as long as that fine specimen of a prefix has emerged, we’ve been trying to figure out precisely just that: good genes or good taste, or so goes the discourse.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/diesels-d-one-bag/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 20,
-   "title": "Nike’s Tartan Sneakers Are as Techy as They Are Preppy",
-   "source": "Highsnobiety",
-   "date": "2026-10-06",
-   "content": "Nike's Shox TL sneaker gets another plaid makeover, this time featuring a red Tartan print for an all-new collection.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-shox-tl-tartan-red-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "le PÈRE’s Fall Uniform? Tracksuits & PUMA “Bowling\" Shoes (EXCLUSIVE)",
-   "source": "Highsnobiety",
-   "date": "2026-10-06",
-   "content": "le PÈRE releases its second FW26 PUMA collab, featuring a brown bowling-inspired Suede sneaker & vintage-style sportswear.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/le-pere-puma-fw26-collab/",
-   "lang": "en",
-   "relatedBrands": [
-    "PUMA"
    ]
   },
   {
@@ -435,97 +439,6 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 32,
-   "title": "A Ma Maniére x adidas Japan SQ Squares Off the Slim Runner in Glossy Leather",
-   "source": "Hypebeast",
-   "date": "2026-10-05",
-   "content": "Name: adidas DND Japan Square ToeColorway: Core Black/Mesa/Gold MetallicSKU: KZ9541MSRP: $160 USDRelease Date: Available now (A Ma Maniére), October 9 (adidas)Where to Buy: A Ma Maniére, adidasThe adidas Japan SQ is the centerpiece of A Ma Maniére's \"Do Not Duplicate\" capsule for Atlanta Fashion Week. It reshapes one of the brand's slimmest Originals silhouettes with a squared-off toe. Offered in black for women, the low-top keeps the Japan's close-to-the-ground stance and adds glossy leather, contrast stitching and hardware details that move it off the track and toward a more tailored wardrobe.The square toe is the defining change. The Japan silhouette typically narrows into a soft, rounded point. The SQ flattens the toe box into a squared profile and perforates it, with the same perforation pattern repeated along the side panels. The upper is built from glossy leather in stacked layers",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F05%2FftA-Ma-Maniere-adidas-DND-Japan-Square-Toe-KZ9541-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/a-ma-maniere-adidas-dnd-japan-square-toe-kz9541-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Vans Old Skool 36 “Pearlized Marshmallow White”",
-   "source": "Nice Kicks",
-   "date": "2026-10-05",
-   "content": "The Vans Old Skool 36 “Pearlized Marshmallow White” is releasing on October 15, 2026 via Vans and select retailers for… The post Vans Old Skool 36 “Pearlized Marshmallow White” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/imgi_1_Premium-Old-Skool-36-Shoe-VANS-ALT5-1-e1788540390301.jpeg",
-   "link": "https://www.nicekicks.com/vans-old-skool-36-pearlized-marshmallow-white-vn000zb8cda-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "Hellstar x adidas Megaride S2 “Bright Red”",
-   "source": "Nice Kicks",
-   "date": "2026-10-05",
-   "content": "The Hellstar x adidas Megaride S2 “Bright Red” is set to release on October 10, 2026, via adidas CONFIRMED app… The post Hellstar x adidas Megaride S2 “Bright Red” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/OFF_BODY_LOOK_01_0337_V1-scaled-e1791214886421.jpg",
-   "link": "https://www.nicekicks.com/hellstar-adidas-megaride-s2-bright-red-lb5626/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "Space Jam’s Talent-Stealing Basketball Inspires the Air Jordan 11",
-   "source": "Nice Kicks",
-   "date": "2026-10-05",
-   "content": "Interested fans and readers can expect the Air Jordan 11 WMNS “Magic Ball” to release on November 11, 2026, via… The post Space Jam’s Talent-Stealing Basketball Inspires the Air Jordan 11 appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/IMG_3620-e1791246011777.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-11-wmns-magic-ball-iz1800-200/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "The Fan Favorite Air Jordan 11 “Space Jam” is Releasing In True OG Form",
-   "source": "Nice Kicks",
-   "date": "2026-10-05",
-   "content": "The Full Backstory Behind the Jordan 11 Space Jam When Tinker Hatfield designed the Air Jordan 11, he did something… The post The Fan Favorite Air Jordan 11 “Space Jam” is Releasing In True OG Form appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/08/IMG_3606-e1791243304571.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-11-space-jam-ct8012-900-drop/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 37,
-   "title": "Air Jordan 11 “Green Screen” (IQ5700-900) November 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-05",
-   "content": "Interested readers can expect the Air Jordan 11 “Green Screen” to release on November 14, 2026, via SNKRS and select… The post Air Jordan 11 “Green Screen” (IQ5700-900) November 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/08/IMG_3592-e1791242396560.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-11-green-screen-iq5700-900/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "Nike Air Force 1 Low ’01 “Subway Rat” October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-05",
-   "content": "New York’s most infamous commuter takes over the Nike Air Force 1 ’01 with the aptly nicknamed “Subway Rat.” The… The post Nike Air Force 1 Low ’01 “Subway Rat” October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/iv6999-001-5-1-e1790189346924.jpg",
-   "link": "https://www.nicekicks.com/nike-air-force-1-low-01-subway-rat-iv6999-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 39,
    "title": "KEEN 將雙繩 UNEEK 改造為奢華皮革穆勒鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-04",
@@ -536,7 +449,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 40,
+   "id": 33,
    "title": "Nike 為 Vomero 5 換上「Camo Green」Cordura 材質對抗寒冬",
    "source": "Hypebeast 中文",
    "date": "2026-10-03",
@@ -549,7 +462,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 41,
+   "id": 34,
    "title": "adidas Originals GAZELLE OG 迎來俐落「Charcoal Gray」麂皮配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-03",
@@ -562,7 +475,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 42,
+   "id": 35,
    "title": "Mr. Bailey 推出面向未來的全新「Terracotta」鞋款系列",
    "source": "Hypebeast 中文",
    "date": "2026-10-02",
