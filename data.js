@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-09 08:09",
+ "updatedAt": "2026-10-09 16:08",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,6 +17,7 @@ window.SNEAKER_DATA = {
  "brands": [
   "ADIDAS",
   "ASICS",
+  "BIRKENSTOCK",
   "CONVERSE",
   "DIOR",
   "JORDAN",
@@ -30,6 +31,169 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Victory Lap Radio x Nike 打造 Air Force 1 Low 漆皮聯乘鞋款「Pine Green」",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-09",
+   "content": "摘要 Nike 與總部位於 London 的平台 Victory Lap Radio 攜手合作，打造聯乘版 Air Force 1 Low該鞋款採用「Pine Green」漆皮拼接面板，並搭配定製的品牌標誌圖案與印花鞋墊此鞋款預計將於 2026 年假期期間，透過 SNKRS 及全球指定零售商發售 名稱： Victory Lap Radio x Nike Air Force 1 Low「Pine Green」配色： Pine Green/Light Crimson-Grey Fog-WhiteSKU： JA7805-302建議零售價： 有待公佈發售日期： 2026 年假日季發售點： NikeNike 與總部位於倫敦的音樂平台 Victory Lap Radio 攜手合作，推出 Air Force 1 Low 聯乘鞋款「Pine Green」。繼早前與 Apron Records 及 PAN Records 的企劃後，這次合作將 Nike 與英國地下音樂界直接連結起來，進一步擴展品牌在音樂領域的版圖。由 Joseph McDermott 於 2019 年創辦的 Victory Lap Radio，透過 freestyle、cypher 和錄音室演出等方式發掘英國本地新星，逐漸建立起深厚的文化影響力。在今次的鞋款聯乘中，該平台保留了其核心品牌特色，以亮澤的漆皮鞋面呈現這對 Air Force 1 Low。配色方面，鞋身以鮮明的「Pine Green」嵌板，搭配淺灰、白及紅色的對比點綴。整對鞋滿佈專屬細節，包括手持 Swoosh 的特色角色、度身訂製的標誌，以及向這家倫敦電台身份致敬的印花鞋墊。Victory Lap Radio x Nike Air Force 1 Low「Pine Green」預計將於 2026 年假日季正式登場。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fvictory-lap-radio-nike-air-force-1-low-pine-green-JA7805-302-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/victory-lap-radio-nike-air-force-1-low-pine-green-ja7805-302-first-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "DELUXE x SUICOKE 全新聯乘 Moccasin 鞋款向雨天與身後的人說「F*** OFF」",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-09",
+   "content": "名稱： DELUXE x SUICOKE Moccasin配色： Black商品編號： 有待確認建議零售價： 有待確認發售日期： 10 月 10 日購買點： DELUXEDELUXE 與 SUICOKE 再次攜手，推出結合機能設計與俐落風格的全天候 Moccasin 鞋款。作為兩大品牌持續合作的最新篇章，是次聯乘將熟悉的 Slip-on 輪廓重新改造，以應對潮濕及難以預測的天氣情況，並注入 DELUXE 標誌性的玩味不羈態度。鞋面奠定了整體的基調。採用厚實的全黑皮革製成，並經過撥水處理，令這款 Moccasin 比一般常見的輕量 Slip-on 鞋款更具份量與保護性。內部同樣具備防雨機能。鞋款內裡採用 SUICOKE SHERPA，這款品牌專利材質經特別設計，能有效阻擋水分滲入，同時保持雙足透氣。這種組合讓此 Moccasin 跨越季節限制，令穿著者保持乾爽而不悶熱。足底的舒適度與抓地力則各有考究。SUICOKE 的 SOFTSTEP INSOLE 帶來緩震支撐，適合長時間穿著；而 Vibram 大底則在濕滑或崎嶇不平的地面上提供可靠的抓地力，為這款無懼天氣變化的鞋履帶來實用配置。鞋跟處展現出 DELUXE 的獨特風格。每隻鞋均帶有凹凸壓花圖案，左腳鞋跟壓有「F***」，右腳則印上「OFF」，唯有將雙腳並排穿著時才能讀出完整句子。這項細節平貼於皮革之上，從正面看保持全黑外觀的簡潔，卻在背後帶來玩味十足的挑釁。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FftDELUXE-SUICOKE-Moccasin-Collaboration-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/deluxe-suicoke-moccasin-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 3,
+   "title": "Birkenstock 為「Amsterdam Wrapped」與「Santa Clarita」披上羊毛冬裝",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-09",
+   "content": "名稱： Birkenstock Amsterdam Wrapped Shearling Upper、BIRKENSTOCK Santa Clarita Shearling Upper配色： Anthracite、Gray Taupe、Sandcastle型號： S005512、S005522建議售價： ¥31,900 JPY（約 $200 USD）、¥33,000 JPY（約 $210 USD）發售日期： 現已發售購買渠道： BIRKENSTOCK 日本Birkenstock 為專為寒冷季節打造的包頭鞋款「Amsterdam Wrapped」與「Santa Clarita」推出羊毛版本。兩者皆採用 Gray Taupe 色調的小羊皮羊毛製成，並搭載作為品牌核心的符合人體工學軟木鞋床。「Amsterdam Wrapped」以其結構為特色。以極簡的「Amsterdam」為基礎，採用一體成型的無縫鞋面，從兩側延伸並環繞腳跟，無需額外的綁帶或裁片即可穩固包覆雙腳。此設計自推出以來便在世界各地累積了一眾擁躉，成為本季的亮眼之作。全新版本將這種包覆輪廓以柔軟的羊毛呈現，在保持俐落外型的同時增添溫暖與質感。「Santa Clarita」則展現更柔和、更具女性氣質的風格。鞋款採用 Mary Jane 輪廓，配備圓頭設計與橫跨腳背的纖幼綁帶，並以借鑒 Birkenstock 經典 D 型扣環的搭扣固定。除了視覺上的點綴，綁帶更能穩固雙腳，帶來貼合舒適的穿著體驗。小羊皮羊毛鞋面提供天然保暖與排濕效果，而此鞋款亦於葡萄牙製造。兩款鞋的底部均採用相同基礎。兩者皆搭載 Birkenstock 以天然軟木與橡膠混合製成的立體鞋床，這種可再生材質具備保暖與避震功能。鞋床於德國製造，頂部覆有麂皮鞋墊，其中「Santa Clarita」的鞋床更可拆卸。兩款鞋均配備 EVA 外底，確保在不平坦的地面上依然輕盈且具備緩震效果。兩款型號均提供標準及窄版寬度可供選擇，其中「Amsterdam Wrapped」相比「Santa Clarita」提供更廣泛的男女通用尺寸。 Click here to view fu",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FftBIRKENSTOCK-Amsterdam-Wrapped-Santa-Clarita-shearling-upper-S005512-S005522-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/birkenstock-amsterdam-wrapped-santa-clarita-shearling-upper-s005512-s005522-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "BIRKENSTOCK"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Air Jordan 12「Obsidian」確定將於 2027 年回歸",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-09",
+   "content": "摘要 Jordan Brand 將於 2027 年帶回元祖級 Air Jordan 12「Obsidian」鞋款由 Tinker Hatfield 設計，採用深海軍藍色皮革鞋面，搭配白色擋泥板並以 Carolina blue 點綴這款高筒復刻鞋款標誌著該配色自 2012 年以來首次重返貨架 名稱：Air Jordan 12「Obsidian」配色：Obsidian/French Blue-University Blue-White編號：CT8013-401售價：215 美元發售日期：2027 年 1 月 27 日發售地點：NikeJordan Brand 官方宣布，經典 Air Jordan 12「Obsidian」將於 2027 年初正式回歸。這將是自 2012 年復刻以來，這款元祖高筒配色事隔 15 年首度重返零售市場。首見於 1997 年的「Obsidian」在 Air Jordan 12 系列中地位獨特，皆因它是少數沒有採用傳統 Chicago Bulls 配色的元祖鞋款。由 Tinker Hatfield 操刀設計，鞋身採用靈感源自日本旭日旗的縫線皮革裁片，搭配純白色擋泥板，並在品牌標誌細節點綴上淡淡的 Carolina Blue。2027 年版本忠於原版設定，還原深海軍藍皮革基底、質感豐富的白色擋泥板及標誌性的縫線細節。雖然 Air Jordan 12 Low 曾在 2004 年發售，而高筒版本則在 2012 年復刻過，但這款配色依然是 Michael Jordan 簽名系列中，最具辨識度的非實戰著用鞋款之一。Air Jordan 12「Obsidian」將於 2027 年 1 月 23 日正式發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fair-jordan-12-obsidian-CT8013-401-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/air-jordan-12-obsidian-ct8013-401-first-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Denny's 聯乘 Mache 再次推出注入真實糖漿之 Sticky Kicks 2.0 運動鞋",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-09",
+   "content": "摘要 Denny's 與度身訂製鞋履藝術家 Dan \"Mache\" Gamache 再度合作，推出「Sticky Kicks 2.0」這款運動鞋的特色在於鞋舌、側邊面板和鞋領內嵌入了真正的液體楓糖漿此鞋款將於 10 月 9 日深夜的 3 小時時段內限定上架，專供 Denny's Rewards 會員獨家選購 Denny's 與度身訂製鞋款設計師 Dan \"Mache\" Gamache 官方宣布推出 Sticky Kicks 2.0，將真實的流動楓糖漿直接注入鞋身結構之中。繼初代鞋款於 60 秒內售罄後，這款續作將於 2026 年 10 月 9 日登場，以慶祝 National Sneaker Day。這款以美式餐廳為靈感的運動鞋，在鞋舌、側面及腳踝鞋領處設有半透明的液體氣室，內含真實的 Denny's 楓糖漿。鞋款底部採用黃色外底，飾有手工潑灑的糖漿效果，並配上藍莓色的鞋帶、專屬金屬配件，以及帶有糖漿香味的吊牌，一開箱便散發出金黃糖漿的香氣。每對鞋的吊牌上均附有可掃描的二維碼，擁有者在指定 Denny's 餐廳購買 Grand Slamwich 時，即可免費獲贈兩份 Buttermilk Pancakes。為獲取購買資格，消費者必須在 10 月 8 日前註冊成為 Denny's Rewards 會員，並選擇接收短訊，以獲取必要的驗證碼。Denny's x Mache Sticky Kicks 2.0 將於 2026 年 10 月 9 日發售，定價為 $195 美元，並於美國東岸時間凌晨 12 時至 3 時期間，透過 DinerDrip.com 獨家開放予 Denny's Rewards 會員購買。 View this post on InstagramA post shared by Mache (@mache275) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fdennys-mache-return-real-syrup-filled-sticky-kicks-2-0-sneakers-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/dennys-mache-return-real-syrup-filled-sticky-kicks-2-0-sneakers-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 6,
+   "title": "Victory Lap Radio and Nike Craft a Patent Leather Air Force 1 Low in \"Pine Green\"",
+   "source": "Hypebeast",
+   "date": "2026-10-09",
+   "content": "Summary Nike and London-based platform Victory Lap Radio have teamed up on a collaborative Air Force 1 LowThe silhouette features Pine Green patent leather paneling alongside custom branding graphics and printed insolesThe pair is expected to release during Holiday 2026 via SNKRS and select global retailers Name: Victory Lap Radio x Nike Air Force 1 Low \"Pine Green\"Colorway: Pine Green/Light Crimson-Grey Fog-WhiteSKU: JA7805-302MSRP: TBDRelease Date: Holiday 2026Where to Buy: NikeNike and London-based platform Victory Lap Radio have partnered on a collaborative Air Force 1 Low \"Pine Green\". The joint release connects Nike directly to the underground UK music scene, extending the brand's music-focused footprint following earlier projects with Apron Records and PAN Records.Founded in 2019 by Joseph McDermott, Victory Lap Radio has built a strong cultural presence by highlighting rising UK ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Fvictory-lap-radio-nike-air-force-1-low-pine-green-JA7805-302-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/victory-lap-radio-nike-air-force-1-low-pine-green-ja7805-302-first-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "DELUXE x SUICOKE’s New Moccasin Tells Rain, and Everyone Behind You, to “F*** OFF”",
+   "source": "Hypebeast",
+   "date": "2026-10-09",
+   "content": "Name: DELUXE x SUICOKE MoccasinColorway: BlackSKU: TBCMSRP: TBCRelease Date: October 10Where to Buy: DELUXEDELUXE and SUICOKE have reunited on an all-weather moccasin that merges functional design with a sharper edge. The latest chapter in the two labels’ ongoing collaboration takes a familiar slip-on silhouette and reworks it for wet, unpredictable conditions, then finishes it with a dose of DELUXE’s signature irreverence.The upper sets the tone. Cut from a substantial, all-black leather, it has been treated to repel water, giving the moccasin a heavier, more protective presence than the lightweight slip-ons the category is usually known for.Weatherproofing continues on the inside. The shoe is lined with SUICOKE SHERPA, the brand’s proprietary material engineered to block moisture from getting in while still letting the foot breathe. That combination is what pushes the moccasin into all",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F09%2FftDELUXE-SUICOKE-Moccasin-Collaboration-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/deluxe-suicoke-moccasin-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 8,
+   "title": "Birkenstock Gives the “Amsterdam Wrapped” and “Santa Clarita” a Shearling Winter Coat",
+   "source": "Hypebeast",
+   "date": "2026-10-09",
+   "content": "Name: Birkenstock Amsterdam Wrapped Shearling Upper, BIRKENSTOCK Santa Clarita Shearling UpperColorway: Anthracite, Gray Taupe, SandcastleSKU: S005512, S005522MSRP: ¥31,900 JPY (approx. $200 USD), ¥33,000 JPY (approx. $210 USD)Release Date: Available nowWhere to Buy: BIRKENSTOCK JapanBirkenstock has introduced shearling versions of the Amsterdam Wrapped and the Santa Clarita, two closed-toe styles built for the colder months. Both are finished in a Gray Taupe lambskin shearling and rest on the anatomically shaped cork footbed that underpins the brand’s catalog.The Amsterdam Wrapped is defined by its construction. Building on the pared-back Amsterdam, it uses a single continuous upper that extends along both sides and curves around the heel, giving the shoe a secure hold without extra straps or panels. The design has become one of the season’s standout releases and has built a global foll",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F09%2FftBIRKENSTOCK-Amsterdam-Wrapped-Santa-Clarita-shearling-upper-S005512-S005522-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/birkenstock-amsterdam-wrapped-santa-clarita-shearling-upper-s005512-s005522-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "BIRKENSTOCK"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Air Jordan 12 \"Obsidian\" Set to Return in 2027",
+   "source": "Hypebeast",
+   "date": "2026-10-09",
+   "content": "Summary Jordan Brand is bringing back the original Air Jordan 12 \"Obsidian\" for a 2027 releaseDesigned by Tinker Hatfield the sneaker features a dark navy leather upper with white mudguards and Carolina blue accentsThe high-top retro marks the colorway's first return to shelves since 2012 Name: Air Jordan 12 \"Obsidian\"Colorway: Obsidian/French Blue-University Blue-WhiteSKU: CT8013-401MSRP: $215 USDRelease Date: January 27, 2027Where to Buy: NikeJordan Brand is officially bringing back the classic Air Jordan 12 \"Obsidian\" for a early 2027 release. The return marks the first time the original high-top colorway has been available at retail in 15 years following its last retro run in 2012.First introduced in 1997, the \"Obsidian\" silhouette holds a distinct position in the Air Jordan 12 lineage as one of the few original colorways that eschewed traditional Chicago Bulls colors. Designed by Ti",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Fair-jordan-12-obsidian-CT8013-401-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/air-jordan-12-obsidian-ct8013-401-first-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Denny’s and Mache Return With Real Syrup-Filled Sticky Kicks 2.0 Sneakers",
+   "source": "Hypebeast",
+   "date": "2026-10-09",
+   "content": "Summary Denny's and custom footwear artist Dan \"Mache\" Gamache have reunited to release the Sticky Kicks 2.0The sneaker features real liquid maple syrup embedded inside the tongues side panels and collarThe release drops October 9 exclusively for Denny's Rewards members during a three-hour late-night window Denny's and custom footwear designer Dan \"Mache\" Gamache have officially unveiled the Sticky Kicks 2.0, featuring real liquid maple syrup built directly into the sneaker's construction. The sequel silhouette arrives in celebration of National Sneaker Day on October 9, 2026, following the original pair's 60-second sellout.The diner-inspired sneaker houses real Denny's maple syrup within translucent liquid-filled chambers across the tongues, side panels, and ankle collar. Down below, the shoe features a yellow outsole detailed with a hand-splattered syrup effect, complemented by blueber",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Fdennys-mache-return-real-syrup-filled-sticky-kicks-2-0-sneakers-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/dennys-mache-return-real-syrup-filled-sticky-kicks-2-0-sneakers-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 11,
+   "title": "Release Info Revealed for JUNYA WATANABE MAN x New Balance P400",
+   "source": "Hypebeast",
+   "date": "2026-10-09",
+   "content": "<New Balance> is set to launch the P400, its latest collaboration model with Junya Watanabe's menswear brand <Junya Watanabe MAN>, at select stores worldwide starting Friday, October 16, 2026.The base for this model, unveiled on the runway of the <Junya Watanabe MAN> Fall/Winter 2026 collection during Paris Fashion Week Men's in January 2026, is the <New Balance> P400. This model is a performance basketball shoe designed to reduce the strain from repeated sprints, takeoffs, and landings throughout a game, making play more comfortable. By combining soft dual cushioning and a structural molded upper with a sleek, low profile and lightweight nylon plate, it firmly supports explosive movements on hard hardwood courts while delivering a highly responsive underfoot feel that answers to quick, agile play.For this collaboration, the design fuses a premium leather upper with a futuristic sole uni",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2Fnbp4-ft.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/junya-watanabe-man-new-balance-p400-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "NIGO® x Nike Air Force 1 Introduce a Triple Collaboration Model Featuring BTS' j-hope",
+   "source": "Hypebeast",
+   "date": "2026-10-09",
+   "content": "From \"Air Force 1 World Tour,\" the multifaceted collaboration project by NIGO® and Nike, comes the announcement of the latest Air Force 1 sneaker, welcoming global superstar BTS' j-hope as a joint partner.The partnership between NIGO® and j-hope began from a place of mutual respect and design sensibility. This new release reinterprets the refined vintage look of the Air Force 1, originally released in 2001, and incorporates elements of j-hope's signature energetic style, \"Hobicore.\"A glossy burnt sunrise (orange tone) and metallic gold patent leather upper is accented with vibrant chlorine blue. Furthermore, it features a squirrel graphic, which is j-hope's icon, and as he himself says, \"the intricate details of the shoelaces make the sneakers even more appealing,\" condensing the meticulous attention to detail of both parties down to the shoe accessories and material usage.NIGO® commente",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2Fnike-nigo-j-hope-air-force-1-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-nigo-j-hope-air-force-1-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "The Seven Best adidas Sneaker Releases This Week",
+   "source": "Highsnobiety",
+   "date": "2026-10-09",
+   "content": "In this iteration of our weekly round-up of adidas' best releases, find teddy-fur Stella McCartneys, a shreddingly good skate sneaker, & the slimmest Samba ever",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-sneaker-releases-october-week-2/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 14,
    "title": "Off-White™ 與 Zellerfeld 發佈 3D 打印「Arrows Teaser」拖鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
@@ -40,7 +204,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 15,
    "title": "Arte Antwerp x adidas GSG9 最新「Off-White」配色發布",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
@@ -53,7 +217,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 16,
    "title": "SNICKERS 與 adidas 攜手推出首款 ADIZERO ELECTRIC + II 聯乘美式足球鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
@@ -66,7 +230,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 17,
    "title": "OTW by Vans 以 Vibram 鞋底重塑 Chukka 49 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
@@ -79,7 +243,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 18,
    "title": "KITH 攜手 Giorgio Armani 與 ASICS 推出三方聯乘「GEL-Mai 0.1」鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
@@ -92,7 +256,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 19,
    "title": "JAH JAH 與 adidas 正式發佈 F50 TUNIT 聯乘鞋款「Green/Core Black/Yellow」",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
@@ -105,7 +269,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 20,
    "title": "Off-White™ and Zellerfeld Unveil 3D-Printed \"Arrows Teaser\" Slide",
    "source": "Hypebeast",
    "date": "2026-10-08",
@@ -116,7 +280,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 8,
+   "id": 21,
    "title": "Arte Antwerp x adidas GSG9 Goes Tonal in “Off-White”",
    "source": "Hypebeast",
    "date": "2026-10-08",
@@ -130,7 +294,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 22,
    "title": "SNICKERS and adidas Partner for First-Ever ADIZERO ELECTRIC + II Cleat",
    "source": "Hypebeast",
    "date": "2026-10-08",
@@ -143,7 +307,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 23,
    "title": "OTW by Vans Reworks the Chukka 49 With Vibram Tooling",
    "source": "Hypebeast",
    "date": "2026-10-08",
@@ -157,7 +321,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 24,
    "title": "KITH Unites Giorgio Armani and ASICS for a Tri-Branded GEL-Mai 0.1",
    "source": "Hypebeast",
    "date": "2026-10-08",
@@ -170,20 +334,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
-   "title": "JAH JAH and adidas Unveil Collaborative F50 TUNIT in \"Green/Core Black/Yellow\"",
-   "source": "Hypebeast",
-   "date": "2026-10-08",
-   "content": "Summary adidas has partnered with Paris-based multicultural studio JAH JAH to reimagine the iconic F50 TUNITThe Green Core Black Yellow colorway features a premium leather lining and a durable rubber outsoleThe collaborative model officially drops on October 8 Name: JAH JAH × adidas F50 TUNIT \"Green/Core Black/Yellow\"Colorway: Green/Core Black/YellowSKU: LA3614MSRP: $188 USDRelease Date: October 8, 2026Where to Buy: adidasadidas and Paris-based creative studio JAH JAH have officially unveiled their collaborative JAH JAH x adidas F50 TUNIT in a striking \"Green/Core Black/Yellow\" colorway. Releasing on October 8, 2026, the joint release injects a rebellious, multicultural edge into one of adidas' classic football-inspired silhouettes.Designed in partnership with the Parisian creative collective, the sneaker pairs bold athletic heritage with contemporary street style. The upper features a v",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F07%2Fjah-jah-adidas-f50-tunit-green-core-black-yellow-LA3614-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/jah-jah-adidas-f50-tunit-green-core-black-yellow-la3614-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 13,
+   "id": 25,
    "title": "Nike Air Diamond Turf II “Patent Leather”",
    "source": "Nice Kicks",
    "date": "2026-10-08",
@@ -196,7 +347,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 26,
    "title": "Nike Kobe A.D. Protro “Purple Stardust”",
    "source": "Nice Kicks",
    "date": "2026-10-08",
@@ -209,7 +360,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 27,
    "title": "Converse SHAI 001 Shroud “Spark” Fall 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-08",
@@ -222,7 +373,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 28,
    "title": "Converse SHAI 001 Shroud “Shock” Fall 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-08",
@@ -235,7 +386,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 29,
    "title": "Brain Dead x adidas Samba Bowling “Snakeskin”",
    "source": "Nice Kicks",
    "date": "2026-10-08",
@@ -248,7 +399,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 30,
    "title": "Brain Dead x adidas Samba Bowling “Cheetah”",
    "source": "Nice Kicks",
    "date": "2026-10-08",
@@ -261,7 +412,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 31,
    "title": "Nike’s Retro Air Max Sneaker Looks Straight Outta a Vintage Store",
    "source": "Highsnobiety",
    "date": "2026-10-08",
@@ -274,7 +425,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 32,
    "title": "One Good Winter Boot Disguised as a Sneaker",
    "source": "Highsnobiety",
    "date": "2026-10-08",
@@ -285,7 +436,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 21,
+   "id": 33,
    "title": "Hardies Screws Up this Mid-2000s adidas Runner",
    "source": "Highsnobiety",
    "date": "2026-10-08",
@@ -298,7 +449,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 34,
    "title": "Kim Jones's Next Move Post-Dior? $3,505 Hotel Pajamas",
    "source": "Highsnobiety",
    "date": "2026-10-08",
@@ -311,7 +462,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 35,
    "title": "What Makes Langston Uibel’s Sole Bounce?",
    "source": "Highsnobiety",
    "date": "2026-10-08",
@@ -324,7 +475,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 36,
    "title": "adidas’ Tweed Samba Has Left the Football Terrace for the Country Estate",
    "source": "Highsnobiety",
    "date": "2026-10-08",
@@ -337,46 +488,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
-   "title": "adidas’ Samba Jane Is Having a Serious Moo(d) Swing",
-   "source": "Highsnobiety",
-   "date": "2026-10-08",
-   "content": "adidas’ Samba Jane gets a playful update in a textured cow print, pairing its Mary Jane strap with a black and white fuzzy upper and classic gum sole.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-samba-jane-cow-print-core-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "LEX Models UGG®’s Fall/Winter 2026 Collection",
-   "source": "Hypebeast",
-   "date": "2026-10-07",
-   "content": "Founded in Southern California in 1978 by an Australian surfer, UGG® introduces the Classic Micro Distort, Classic Distort Boot, and Heritage Utility Grizz as its new Fall/Winter 2026 styles. These three pairs inherit the comfort the brand has cultivated while adopting different approaches to create fresh silhouettes.UGG® has long been loved for its sheepskin boots, originally worn by surfers to warm their feet after leaving the ocean. Starting from that core of soft comfort, this latest collection reexamines the brand's staples through form and function.The Classic Micro Distort and Classic Distort Boot from the \"Distort Collection,\" which adds a twist to familiar silhouettes, take the design codes of the iconic UGG® Classic Boot and warp, split, and expand them into something slightly uncanny. At the same time, they retain recognizable details like the twin seams and the Classic outsol",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2Flex-uggaw-2026-hb-original-visual_FT.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/lex-uggaw-2026-hb-original-visual",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "Vans Snowboarding Introduces the Super Standard in Ryo Aizawa's Signature Colorway",
-   "source": "Hypebeast",
-   "date": "2026-10-07",
-   "content": "Vans Snowboarding has teamed up with professional snowboarder Ryo Aizawa to launch the Super Standard snowboard boot (Ryo Aizawa Black/Snake). The boot drops Friday, October 16, at the Vans official online store and authorized retailers. It is priced at ¥38,500 (tax included).This model marks the first signature colorway for a Japanese rider in Vans Snowboarding history. Inspired by snowboarding's golden era in the late 1990s, Aizawa and the Vans snowboard design team collaborated on the color and design.The boot takes the flexible, playful feel of the flagship Hi-Standard OG and applies it to a lower-profile design. It's built for versatility, handling everything from park to powder.On the performance side, the boot features a V3 UltraCush™ liner equipped with quick-drying FlashDry™ technology, a V2 PopCush™ footbed, and a V1 Waffle Lug outsole made with All-Trac™ cold-weather rubber co",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2Fvans-snowboarding-super-standard-shoes-release-info-01-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/vans-snowboarding-super-standard-shoes-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 28,
+   "id": 37,
    "title": "adidas Anthony Edwards 3 “Snow Camo”",
    "source": "Nice Kicks",
    "date": "2026-10-07",
@@ -389,7 +501,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 38,
    "title": "Nike Sabrina 4 “Superstition”",
    "source": "Nice Kicks",
    "date": "2026-10-07",
@@ -402,7 +514,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 39,
    "title": "Kids Air Jordan 3 “Lola Bunny” (IZ1694-600) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-07",
@@ -415,7 +527,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 40,
    "title": "Air Jordan 1 Low SE “Air Bugs” (IX6375-001) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-07",
@@ -428,7 +540,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 41,
    "title": "Brain Dead x adidas Bowling 聯乘鞋款迎來狂野變身",
    "source": "Hypebeast 中文",
    "date": "2026-10-06",
@@ -440,125 +552,6 @@ window.SNEAKER_DATA = {
     "ADIDAS",
     "NIKE",
     "PUMA"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Hellstar 為 adidas MEGARIDE S2 注入烈焰設計",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-06",
-   "content": "名稱： adidas Originals x Hellstar MEGARIDE S2配色： 有待確認SKU： 有待確認建議零售價： $200 美元發售日期： 10 月 10 日發售地點： adidasadidas Originals 與 Hellstar 今季透過全新 MEGARIDE S2 進一步深化合作，將這款具備科技感的鞋型置於以熱力、轉變與能量為核心的系列焦點。鞋款採用引人注目的配色，從深黑色自然過渡至鮮紅色，營造出強烈的對比美學。為了將 Hellstar 的標誌性風格注入 adidas 鞋款，鞋面加入大量以火焰為靈感的圖案點綴。這種充滿火熱感的圖像呼應了品牌象徵轉變與動感的標誌，打造出一款充滿活力且極具視覺吸引力的鞋履。這款鞋履為更豐富的生活風格別注系列奠定基礎，將相同的視覺語言延伸至服飾之中。黑色與灰色的 Hellstar 運動外套及長褲，搭配寬鬆剪裁的水洗連帽衛衣與運動褲，並帶來加入火焰處理的三葉草圖案 T 恤及綴有細節的冷帽。破壞處理、未收邊細節、誇張比例與 Y2K 元素，將這款運動鞋較深沉、具蛻變感的審美延伸至整個系列，同時亦保留了 MEGARIDE S2 的焦點地位。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fftadidas-originals-hellstar-megaride-s2-collection-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/adidas-originals-hellstar-megaride-s2-collection-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "Nike Air Rift 最新「Black/Desert Ochre」配色換上獵豹紋馬毛材質登場",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-06",
-   "content": "名稱：Nike Air Rift配色：「Black/Desert Ochre」貨號：IO4884-002建議零售價：待定發售日期：待定Nike Air Rift「Black/Desert Ochre」為品牌最具特色的鞋款之一注入狂野氣息，將這對女裝鞋履披上獵豹紋馬毛。這次的材質替換賦予了這款分趾鞋款觸感豐富且前衛的外觀，同時保留了讓它最初脫穎而出的輕巧舒適感與低筒輪廓。鞋面正是這雙鞋的與眾不同之處。印有黑色與沙漠啡色獵豹斑點的馬毛覆蓋整個鞋身，帶來柔軟且帶點毛絨的質感，在光線下呈現出有別於一般皮革或網眼材質的視覺效果。除了馬毛，鞋面還融入了真皮與紡織布料，增強了結構與耐用性，確保這毛絨表面在日常穿著中仍能保持挺拔。Air Rift 的標誌性特色在於其分趾結構，將大腳趾與其他腳趾分開。結合纖巧貼腳的輪廓，此設計散發出猶如芭蕾舞鞋般的精緻感，同時保留了運動鞋的實用基礎。魔術貼搭帶確保穿著穩妥，讓鞋款易於穿脫及調整鬆緊。在腳底方面，結構保持簡約實用。泡棉中底提供了基本的舒適感，而 Nike Air 緩震系統則能減輕每一步的衝擊力。最後以橡膠外底作結，為在城市路面上日常穿著提供充足抓地力。此鞋款的運動根源依然是其故事的一部分。Air Rift 於 1996 年首次作為前衛跑鞋亮相，而這次的馬毛版本展示了它如何蛻變並遠離田徑場。從最初的性能實驗之作，如今已轉變為一件充滿個性的單品，無論是休閒還是精心打扮的造型都能輕鬆駕馭。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FNike-Air-Rift-Black-Desert-Ochre-IO4884-002-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/nike-air-rift-black-desert-ochre-io4884-002-official-images",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "The Brain Dead x adidas Bowling Shoe Got a Wild Makeover",
-   "source": "Hypebeast",
-   "date": "2026-10-06",
-   "content": "SummaryFor Fall 2026, Brain Dead and adidas updated their 1978-inspired bowling shoe with bold leopard and faux snakeskin prints.Retailing for $250, the non-gameplay sneakers feature classic branding, contrasting details, and elevated heels.With their latest footwear drop, Brain Dead and adidas continue to evolve their partnership, this time dialling in on the Bowling silhouette they introduced in 2024. Arriving in two animal prints, the streamlined leather shoe is updated with a bigger and bolder personality for Fall 2026.Inspired by a 1978 adidas design, the bowling shoe is reimagined in both a leopard fur-style upper and faux snakeskin upper. It's a sharp turn away from the more subtle all-black and black-and-white versions they have dropped thus far. In keeping with the original model, the remainder of the body follows the classic details: gold debossing on the lateral and white, and",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F06%2Fbrain-dead-adidas-bowling-cheetah-snakeskin-release-info-00.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/brain-dead-adidas-bowling-cheetah-snakeskin-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "NIKE",
-    "PUMA"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "Flower Mountain Matches Form With Function for FW26 Collection",
-   "source": "Hypebeast",
-   "date": "2026-10-06",
-   "content": "This season, Japanese footwear brand Flower Mountain diversifies its famously overstated sneaker library with a refined collection designed to function in both urban and rural environments. Encompassing the new drop, the brand’s popular Yamano 3 model silhouette, which typically appears in clashing colors and patterned materials, becomes pared back with technical materials that are softened through tonal palettes. The chunkier Yamabushi also gets transformed with plush leather and suede panels layered across the body.To support the styles, Flower Mountain launches a lifestyle line and a performance line, each featuring a series of brand new iterations. In the lifestyle offering, the trek-inspired Sanchia, Ranya, and Kazana Fall adopt curved lines and cushioned surfaces for a versatile look, while the Asuka 3 strips the runner silhouette of its panels and replaces them with stitched lines",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F02%2Fflower-mountain-fall-winter-2026-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/flower-mountain-fall-winter-2026-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 37,
-   "title": "Hellstar Sets the adidas MEGARIDE S2 Ablaze",
-   "source": "Hypebeast",
-   "date": "2026-10-06",
-   "content": "Name: adidas Originals x Hellstar MEGARIDE S2Colorway: TBCSKU: TBCMSRP: $200 USDRelease Date: October 10Where to Buy: adidasadidas Originals and Hellstar further their partnership this season with a new MEGARIDE S2, placing the technical silhouette at the center of a collection built around heat, transformation and energy. The silhouette features a striking colorway that seamlessly transitions from deep black into vivid red, creating a highly contrasting aesthetic. Bringing Hellstar's unmistakable identity to the adidas model, the upper is heavily accented with flame-inspired graphics. This fiery iconography serves as a nod to the brand's symbols of transformation and movement, creating a dynamic, visually engaging piece of footwear.The footwear anchors a broader lifestyle capsule that carries the same visual language into apparel. Black and Gray Hellstar Track Suit Jackets and Pants are",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F06%2Fftadidas-originals-hellstar-megaride-s2-collection-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/adidas-originals-hellstar-megaride-s2-collection-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "The Nike Air Rift \"Black/Desert Ochre\" Prowls In Wearing Cheetah-Print Pony Hair",
-   "source": "Hypebeast",
-   "date": "2026-10-06",
-   "content": "Name: Nike Air RiftColorway: Black/Desert OchreSKU: IO4884-002MSRP: TBCRelease Date: TBCThe Nike Air Rift \"Black/Desert Ochre\" brings a wild streak to one of the brand's most distinctive silhouettes, covering the women's shoe in cheetah-print pony hair. The material swap gives the split-toe model a tactile, fashion-forward finish while keeping the lightweight comfort and low-profile shape that first made it stand out.The upper is where this pair separates itself. Pony hair printed with cheetah spots in black and desert ochre covers the shoe, giving it a soft, slightly fuzzy texture that catches light differently from standard leather or mesh. Genuine leather sections and textile panels are built in alongside it, adding structure and durability so the plush surface holds its shape through regular wear.The Rift's defining feature, its split-toe construction, separates the big toe from the ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F06%2FNike-Air-Rift-Black-Desert-Ochre-IO4884-002-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nike-air-rift-black-desert-ochre-io4884-002-official-images",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "Miu Miu x New Balance 攜手重塑 RC150 聯乘鞋款，採用鞋頭綁帶設計",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-05",
-   "content": "名稱： Miu Miu x New Balance RC150型號： 待定發售日期： 2027 年 2 月邁入聯乘合作的第五年，Miu Miu 與 New Balance 再次攜手，首度帶來 RC150 賽車鞋的全新重塑版本，此鞋款早前已於這家法國時裝品牌在 Paris 舉行的 2027 春夏時裝展上率先亮相。RC150 最初由 New Balance 於 1990 年代末推出，原為一款高性能的公路賽車鞋，以其 150 克的突破性超輕量結構而聞名。時至今日，這款鞋型的復古版本已極為罕見且難以尋覓。在 Miu Miu 的演繹下，這款經典跑鞋被巧妙地顛覆與重塑，將大眾熟悉的運動輪廓轉化為充滿驚喜的高級時尚單品，散發出隨性自然的態度。今回 New Balance x Miu Miu 聯乘版 RC150 經過深度解構，採用具延展性的高科技網眼鞋面，並飾有遍佈鞋身的對比色鋸齒形刺繡細節。極致輕盈的鞋面配搭靈活的 UltraLight 柔軟鞋底，確保靈活性及日常穿著的舒適度。為這款聯乘作品增添標誌性的叛逆氣息，鞋款配備了可替換鞋帶，透過外部圈環在鞋頭鬆散打結，鼓勵穿著者的個性化配搭。系列配色直接從原版鞋款 1990 年代末的起源汲取靈感，提供柔和內斂的色調與大膽鮮艷的版本——包括在時裝展上亮相、極具視覺衝擊力的鮮藍與亮黃配色。此獨家鞋款系列預計將於 2027 年 2 月在 Miu Miu 指定專門店及官方網站上架。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fftmiu-miu-new-balance-rc150-spring-summer-2027-paris-fashion-week-runway-collaboration-closer-look.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/miu-miu-new-balance-rc150-spring-summer-2027-paris-fashion-week-runway-collaboration-closer-look",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Nike Dunk Low 最新「Jade Stone/Old Royal」配色結合柔和綠色與鮮豔藍調",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-05",
-   "content": "鞋款名稱： Nike Dunk Low「Jade Stone/Old Royal」配色： Jade Stone/Light Khaki-Gum Light Brown-Old Royal款式編號： IM4414-301建議零售價： $120 美元發售日期： 2026 年Nike 在來季為 Dunk Low 注入出人意表的大地氣息，推出全新「Jade Stone/Old Royal」配色。「Jade Stone」於透氣鞋頭、鞋舌及後跟部分奠定柔和的綠色基礎，而 Light Khaki 則透過側身裁片、鞋領與中性鞋帶柔化整體視覺效果。最強烈的對比來自 Old Royal，這種飽和的鈷藍色麂皮包覆鞋頭、延伸至鞋眼，並點綴 Swoosh 標誌及後跟拉環。其柔軟的刷毛潤飾，令藍色部分在周圍較為平滑的材質襯托下更具深度，使原本經典的 Dunk 結構展現出更多樣化的紋理層次。色彩的配搭延伸至鞋底，溫暖的 Gum Light Brown 中底在鞋面與鮮明的 Old Royal 橡膠外底之間，呈現出獨特的大地色過渡效果。藍色麂皮後跟拉環繡有 Light Khaki 色的「NIKE」字樣，而鞋舌標籤與鞋墊上亦飾有相呼應的品牌標誌，巧妙地將對比鮮明的色調連繫起來。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fftnike-dunk-low-jade-stone-light-khaki-gum-light-brown-old-royal-im4414-301-official-images.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/nike-dunk-low-jade-stone-light-khaki-gum-light-brown-old-royal-im4414-301-official-images",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "Brooks Brothers x Converse 全新聯乘 All Star Aged Hi 及 Ox 鞋款，以 50 年代摔角鞋為靈感",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-05",
-   "content": "名稱： Brooks Brothers x Converse All Star Aged Ox、Brooks Brothers x Converse All Star Aged Hi配色： 白色、深藍色型號： 有待確認定價： ¥16,500 JPY（約 $105 USD）、¥15,400 JPY（約 $100 USD）發售日期： 10 月 14 日發售點： Brooks BrothersBrooks Brothers 與 Converse 再度迎來第二波合作，將 All Star Aged 重塑為兩款男女皆宜的聯乘運動鞋。繼 2025 年春季首度聯乘並迅速售罄後，這兩個美國品牌為這款復古鞋型賦予了更簡潔的輪廓。雙方從 Converse 約於 1950 年代生產的摔角鞋中汲取靈感，並融入各自品牌的標誌性細節。今次最大的設計改變在於「減法」。通常環繞 All Star 鞋底的護條線被移除，留下平滑、一體成型的側邊，帶來更精緻的視覺效果。鞋面方面，與一般版 All Star Aged 相比，鞋帶孔多了一個，且所有鞋帶孔均採用銀色飾面，取代了標準的色調。Brooks Brothers 的品牌元素主要集中於金屬配件與標籤上。鞋帶上的金屬鞋帶扣印有品牌長久以來的象徵 Golden Fleece。鞋墊、鞋舌標籤及鞋跟標籤均印有深藍色的雙方品牌標誌，這是專為今次聯乘打造的雙重命名設計。外底同樣採用深藍色，這也是最能代表 Brooks Brothers 的顏色。整個系列以兩種配色作結。高筒款式 Hi 採用柔和的米白色，而低筒款式 Ox 則選用較深的深藍色。這恰好與首次合作相反，當時 All Star LGCY 的配搭是褪色深藍色高筒配以白色低筒。由於上一回的設計已使用了深藍色鞋跟標籤和外底，因此第二波合作便在此基礎上發展，並改變了原有的鞋身輪廓。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FBrooks-Brothers-Converse-All-Star-Aged-Ox-Hi-Release-Info-0-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/brooks-brothers-converse-all-star-aged-ox-hi-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "CONVERSE"
    ]
   }
  ]
