@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-08 16:08",
+ "updatedAt": "2026-10-09 08:09",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -18,12 +18,11 @@ window.SNEAKER_DATA = {
   "ADIDAS",
   "ASICS",
   "CONVERSE",
+  "DIOR",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
   "PUMA",
-  "REEBOK",
-  "SALOMON",
   "UGG",
   "VANS"
  ],
@@ -31,6 +30,30 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Off-White™ 與 Zellerfeld 發佈 3D 打印「Arrows Teaser」拖鞋",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-08",
+   "content": "摘要 Off-White 與 Zellerfeld 首度攜手合作，推出 「Arrows Teaser」3D 打印拖鞋鞋款輪廓在外側融合了 Off-White 的箭頭標誌圖案，並搭配棋盤格紋理質感此拖鞋將推出 5 款配色，首 100 雙更將附有由 700x100 打造的度身訂製包裝 Off-White™ 與 Zellerfeld 正式發佈首個聯乘企劃，帶來 Off-White™ x Zellerfeld「Arrows Teaser」拖鞋。這款 3D 打印鞋款是 Off-White™ 的技術里程碑，標誌著品牌在 Bluestar Alliance 旗下探索全新的設計方向。鞋款外側融入了 Off-White™ 標誌性的箭頭圖案，並無縫成型於 Zellerfeld 的全 3D 打印結構之中。鞋面採用猶如棋盤格般的觸感飾面，呼應長久以來作為 Off-White™ 設計語言基礎的賽車風格圖案。鞋款共推出「Oat」、「Black」、「Yellow」、「Stone」及「Lilac」5 種配色，將奢華街頭美學與積層製造技術互相融合。為慶祝是次發佈，首 100 張訂單將附送特別版收藏鞋盒，當中印有由 700×100 創作的雙面藝術圖案。Off-White™ x Zellerfeld「Arrows Teaser」拖鞋全數 5 款配色現已透過 Zellerfeld 發售，定價為 $159 美元。 View this post on InstagramA post shared by Off-White™ (@off____white) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Foff-white-zellerfeld-arrows-teaser-slide-five-new-colorways-oat-black-yellow-stone-lilac-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/off-white-zellerfeld-arrows-teaser-slide-five-new-colorways-oat-black-yellow-stone-lilac-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 2,
+   "title": "Arte Antwerp x adidas GSG9 最新「Off-White」配色發布",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-08",
+   "content": "名稱： Arte Antwerp x adidas Originals GSG9配色： Off-WhiteSKU： KK3730建議零售價： €250 歐元（約 $270 美元）發售日期： 10 月 8 日購買點： adidasArte Antwerp 與 adidas Originals 延續雙方合作關係，為 GSG9 帶來全新面貌，將源自戰術靴的輪廓轉化為更簡潔、適合街頭穿搭的低筒鞋款。鞋款現以「Off-White」配色登場，同色調加固設計由鞋頭延伸至兩側及鞋跟，透過材質與層次的變化營造微妙的立體感，而非單靠色彩作點綴。鞋領周圍的織物材質帶來另一種觸感對比，而穿過環狀鞋帶孔的圓形行山風格鞋帶，則進一步強調 GSG9 的戶外及軍事根源。靠近鞋跟處點綴小巧的 Arte 標誌，保持低調的品牌風格，讓寬大的側幅及雕塑感結構依然成為焦點。鞋底方面，GSG9 保留其粗獷本色，配備紋理豐富的橡膠外底，立體凸紋一直延伸至兩側，帶來更厚實且具保護性的外觀。將鞋底與「Off-White」鞋面作呼應，柔化了鞋款本來的機能比例，與較具份量感的全黑版本相比，整體設計更顯和諧百搭。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fft-arte-antwerp-adidas-originals-gsg9-off-white-kk3730-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/arte-antwerp-x-adidas-gsg9-goes-tonal-in-off-white",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 3,
    "title": "SNICKERS 與 adidas 攜手推出首款 ADIZERO ELECTRIC + II 聯乘美式足球鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
@@ -43,7 +66,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 4,
    "title": "OTW by Vans 以 Vibram 鞋底重塑 Chukka 49 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
@@ -56,7 +79,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 5,
    "title": "KITH 攜手 Giorgio Armani 與 ASICS 推出三方聯乘「GEL-Mai 0.1」鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
@@ -69,7 +92,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 6,
    "title": "JAH JAH 與 adidas 正式發佈 F50 TUNIT 聯乘鞋款「Green/Core Black/Yellow」",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
@@ -82,7 +105,45 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 7,
+   "title": "Off-White™ and Zellerfeld Unveil 3D-Printed \"Arrows Teaser\" Slide",
+   "source": "Hypebeast",
+   "date": "2026-10-08",
+   "content": "Summary Off-White and Zellerfeld have joined forces for the first time to release the 3D-printed Arrows Teaser slideThe silhouette integrates Off-White's arrow iconography across the lateral sides alongside a textured checkerboard finishThe slide launches in five colorways with the first 100 pairs featuring custom packaging by 700x100 Off-White™ and Zellerfeld have officially released their inaugural collaboration, introducing the Off-White™ x Zellerfeld \"Arrows Teaser\" slide. The 3D-printed model represents a technical milestone for Off-White™ as the brand explores new design directions under Bluestar Alliance.The silhouette incorporates Off-White™’s signature arrow graphics along the lateral sides, seamlessly molded into Zellerfeld’s fully 3D-printed construction. The upper features a checkerboard-style tactile finish, referencing the motorsport-inspired graphics that have long anchore",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Foff-white-zellerfeld-arrows-teaser-slide-five-new-colorways-oat-black-yellow-stone-lilac-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/off-white-zellerfeld-arrows-teaser-slide-five-new-colorways-oat-black-yellow-stone-lilac-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 8,
+   "title": "Arte Antwerp x adidas GSG9 Goes Tonal in “Off-White”",
+   "source": "Hypebeast",
+   "date": "2026-10-08",
+   "content": "Name: Arte Antwerp x adidas Originals GSG9Colorway: Off-WhiteSKU: KK3730MSRP: €250 EUR (approx. $270 USD)Release Date: October 8Where to Buy: adidasArte Antwerp and adidas Originals continue their partnership with a new take on the GSG9, translating the tactical boot-derived silhouette into a cleaner, street-ready low-top. Now coming in an “Off-White” build, tonal reinforcement wraps from the toe around the sides and heel, creating subtle depth through changes in texture and layering rather than color.Textile around the collar introduces another tactile contrast, while rounded hiking-style laces threaded through looped eyelets reinforce the GSG9’s outdoor and military roots. A small Arte logo positioned toward the heel keeps the branding understated, allowing the broad side panels and sculpted construction to remain the focus.Underfoot, the GSG9 retains its rugged character through a hea",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Fft-arte-antwerp-adidas-originals-gsg9-off-white-kk3730-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/arte-antwerp-x-adidas-gsg9-goes-tonal-in-off-white",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "UGG"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "SNICKERS and adidas Partner for First-Ever ADIZERO ELECTRIC + II Cleat",
+   "source": "Hypebeast",
+   "date": "2026-10-08",
+   "content": "Summary SNICKERS and adidas have teamed up on their first gridiron collaboration featuring the ADIZERO ELECTRIC + II cleatThe design pairs SNICKERS signature chocolate brown with a ghoulish green insole and branded lace charmThe limited-edition cleat releases October 10 alongside a co-branded candy bar sweepstakes adidas and SNICKERS have officially unveiled their first-ever football collaboration, introducing a limited-edition ADIZERO ELECTRIC + II cleat. First announced by Mars, Incorporated, the gridiron release pairs SNICKERS' signature chocolate brown palette with adidas performance engineering and a hidden Halloween theme.Built for speed and agility on the field, the ADIZERO ELECTRIC + II features a lightweight synthetic and textile upper designed to deliver an adaptive, snug fit. A secure lace closure holds the foot in place, while special collaborative details include a custom SN",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F07%2Fsnickers-adidas-adizero-electric-ii-cleat-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/snickers-adidas-adizero-electric-ii-cleat-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 10,
    "title": "OTW by Vans Reworks the Chukka 49 With Vibram Tooling",
    "source": "Hypebeast",
    "date": "2026-10-08",
@@ -96,7 +157,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 11,
    "title": "KITH Unites Giorgio Armani and ASICS for a Tri-Branded GEL-Mai 0.1",
    "source": "Hypebeast",
    "date": "2026-10-08",
@@ -109,7 +170,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 12,
    "title": "JAH JAH and adidas Unveil Collaborative F50 TUNIT in \"Green/Core Black/Yellow\"",
    "source": "Hypebeast",
    "date": "2026-10-08",
@@ -122,7 +183,174 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 13,
+   "title": "Nike Air Diamond Turf II “Patent Leather”",
+   "source": "Nice Kicks",
+   "date": "2026-10-08",
+   "content": "Interested readers and collectors can look forward to the Nike Air Diamond Turf II “Patent Leather” to be released on… The post Nike Air Diamond Turf II “Patent Leather” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ii7066-001-5-1-e1791488087112.jpg",
+   "link": "https://www.nicekicks.com/nike-air-diamond-turf-ii-patent-leather-ii7066-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Nike Kobe A.D. Protro “Purple Stardust”",
+   "source": "Nice Kicks",
+   "date": "2026-10-08",
+   "content": "The Nike Kobe A.D. Protro “Purple Stardust” will release on October 23, 2026, via Nike.com and select retailers for $155.… The post Nike Kobe A.D. Protro “Purple Stardust” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/io8233-500-5-1-e1791468982152.jpg",
+   "link": "https://www.nicekicks.com/nike-kobe-a-d-protro-purple-stardust-io8233-500/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Converse SHAI 001 Shroud “Spark” Fall 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-08",
+   "content": "The Converse SHAI 001 Shroud “Spark” is set to release on October 9, 2026, via Converse, SNKRS, and select retailers for $140. Check… The post Converse SHAI 001 Shroud “Spark” Fall 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/a23976c-084-5-e1789157190615.jpg",
+   "link": "https://www.nicekicks.com/converse-shai-001-shroud-spark-a23976c/",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Converse SHAI 001 Shroud “Shock” Fall 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-08",
+   "content": "The Converse SHAI 001 Shroud “Shock” is set to release on October 9, 2026, via Converse, SNKRS, and select retailers for $140. Check… The post Converse SHAI 001 Shroud “Shock” Fall 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/a23975c-004-5-e1789157386681.jpg",
+   "link": "https://www.nicekicks.com/converse-shai-001-shroud-shock-a23975c/",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Brain Dead x adidas Samba Bowling “Snakeskin”",
+   "source": "Nice Kicks",
+   "date": "2026-10-08",
+   "content": "The Brain Dead x adidas Samba Bowling “Snakeskin” is set to release on October 8, 2026, via adidas Confirmed app, WeAreBrainDead.com, and select… The post Brain Dead x adidas Samba Bowling “Snakeskin” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/ADIDASxBRAINDEAD1197-1-scaled-e1790004098201.jpg",
+   "link": "https://www.nicekicks.com/brain-dead-adidas-samba-bowling-snakeskin-kj0662/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Brain Dead x adidas Samba Bowling “Cheetah”",
+   "source": "Nice Kicks",
+   "date": "2026-10-08",
+   "content": "The Brain Dead x adidas Samba Bowling “Cheetah” is set to release on October 8, 2026, via adidas Confirmed app, WeAreBrainDead.com, and… The post Brain Dead x adidas Samba Bowling “Cheetah” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/ADIDASxBRAINDEAD1208-1-scaled-e1790004321834.jpg",
+   "link": "https://www.nicekicks.com/brain-dead-adidas-samba-bowling-cheetah-kh8143/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Nike’s Retro Air Max Sneaker Looks Straight Outta a Vintage Store",
+   "source": "Highsnobiety",
+   "date": "2026-10-08",
+   "content": "Nike’s Air Max Metro gets an old-school makeover in Black, Dark Smoke Grey, and Bright Crimson, with a layered upper that feels straight out of the archives.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-metro-black-red/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "One Good Winter Boot Disguised as a Sneaker",
+   "source": "Highsnobiety",
+   "date": "2026-10-08",
+   "content": "One Good is Highsnobiety's series on the tried, tested, and trusted products we can’t stop fawning over. This round features a great gorpy, chunky sneaker.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/one-good-gorpy-winter-sneaker-sorel-salomon/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 21,
+   "title": "Hardies Screws Up this Mid-2000s adidas Runner",
+   "source": "Highsnobiety",
+   "date": "2026-10-08",
+   "content": "Partnering with one of the most sought-after brands in modern skateboarding, adidas delivers the Hardies x adidas Adistar Control 5.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/hardies-adidas-control-5/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Kim Jones's Next Move Post-Dior? $3,505 Hotel Pajamas",
+   "source": "Highsnobiety",
+   "date": "2026-10-08",
+   "content": "As other designers go fast-fashion, ex-Dior and Fendi designer Kim Jones unapologetically leans into luxury with a range of travel staples for hotel chain Aman.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/kim-joness-next-move-post-dior-a-dollar1000-hotel-chain-tee/",
+   "lang": "en",
+   "relatedBrands": [
+    "DIOR"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "What Makes Langston Uibel’s Sole Bounce?",
+   "source": "Highsnobiety",
+   "date": "2026-10-08",
+   "content": "With Bouncing Soles is now the brand’s new global platform, asking Chloë Sevigny, Jordan Stephens, Naomi Watanabe and Germany’s Langston Uibel what keeps them moving.⁠ For Uibel, it’s theatre, film and finding his place as an artist. Learn more about the actor, here.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/dr-martens-langston-uibel-chloe-sevigny/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "adidas’ Tweed Samba Has Left the Football Terrace for the Country Estate",
+   "source": "Highsnobiety",
+   "date": "2026-10-08",
+   "content": "adidas’ Samba OG gets an fall-ready update with a textured herringbone tweed upper, black leather details, and the classic gum sole.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-samba-og/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "adidas’ Samba Jane Is Having a Serious Moo(d) Swing",
+   "source": "Highsnobiety",
+   "date": "2026-10-08",
+   "content": "adidas’ Samba Jane gets a playful update in a textured cow print, pairing its Mary Jane strap with a black and white fuzzy upper and classic gum sole.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-samba-jane-cow-print-core-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 26,
    "title": "LEX Models UGG®’s Fall/Winter 2026 Collection",
    "source": "Hypebeast",
    "date": "2026-10-07",
@@ -135,7 +363,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 27,
    "title": "Vans Snowboarding Introduces the Super Standard in Ryo Aizawa's Signature Colorway",
    "source": "Hypebeast",
    "date": "2026-10-07",
@@ -148,7 +376,33 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 28,
+   "title": "adidas Anthony Edwards 3 “Snow Camo”",
+   "source": "Nice Kicks",
+   "date": "2026-10-07",
+   "content": "The adidas Anthony Edwards 3 “Snow Camo” is set to release on October 9, 2026, via adidas.com and select retailers… The post adidas Anthony Edwards 3 “Snow Camo” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/KH8542_1-1-e1789770776994.jpg",
+   "link": "https://www.nicekicks.com/adidas-anthony-edwards-3-snow-camo-kh8542/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 29,
+   "title": "Nike Sabrina 4 “Superstition”",
+   "source": "Nice Kicks",
+   "date": "2026-10-07",
+   "content": "The Nike Sabrina 4 “Light Work” is releasing on October 6, 2026, via Nike.com and select retailers for $135. Check out the photos below… The post Nike Sabrina 4 “Superstition” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/iv5266-500-5-e1791497709727.jpg",
+   "link": "https://www.nicekicks.com/nike-sabrina-4-superstition-iv5266-500/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 30,
    "title": "Kids Air Jordan 3 “Lola Bunny” (IZ1694-600) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-07",
@@ -161,7 +415,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 31,
    "title": "Air Jordan 1 Low SE “Air Bugs” (IX6375-001) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-07",
@@ -174,72 +428,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
-   "title": "Air Jordan 1 Mid SE “Air Bugs” (IX6374-001) November 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-07",
-   "content": "Interested readers can expect the Air Jordan 1 Mid SE “Air Bugs” to release on November 1, 2026, via SNKRS… The post Air Jordan 1 Mid SE “Air Bugs” (IX6374-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ix6374-001-5-1-e1791403965528.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-1-mid-se-air-bugs-ix6374-001-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 13,
-   "title": "adidas Anthony Edwards 3 “Omen”",
-   "source": "Nice Kicks",
-   "date": "2026-10-07",
-   "content": "The adidas Anthony Edwards 3 “Omen” is set to release on October 23, 2026, via adidas.com and select retailers for… The post adidas Anthony Edwards 3 “Omen” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/KJ3021_1-1-e1791392779741.jpg",
-   "link": "https://www.nicekicks.com/adidas-anthony-edwards-3-omen-kj3021/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 14,
-   "title": "Air Jordan 12 “Obsidian” (CT8013-401): 2027 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-07",
-   "content": "Jordan 12 Obsidian: A Look Back at the History The Air Jordan 12 “Obsidian” debuted in 1997 as one of… The post Air Jordan 12 “Obsidian” (CT8013-401): 2027 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/04/130690-404-5-1-e1776440845384.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-12-og-obsidian-ct8013-401-drop/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 15,
-   "title": "adidas Harden Vol. 10 “Snakeskin”",
-   "source": "Nice Kicks",
-   "date": "2026-10-07",
-   "content": "The adidas Harden Vol. 10 “Snakeskin” will be releasing on October 16, 2026, via adidas.com and select retailers for $160. Check… The post adidas Harden Vol. 10 “Snakeskin” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/KI1612_1-1-e1791383498191.jpg",
-   "link": "https://www.nicekicks.com/adidas-harden-vol-10-snakeskin-ki1612/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 16,
-   "title": "Avatar: The Last Airbender x Reebok Classic Nylon “Four Nations”",
-   "source": "Nice Kicks",
-   "date": "2026-10-07",
-   "content": "The Avatar: The Last Airbender x Reebok Classic Nylon draws from the Four Nations and the elemental powers at the… The post Avatar: The Last Airbender x Reebok Classic Nylon “Four Nations” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/20260923_RBKxAvatar_SL_ClassicNylon_01-1-scaled-e1791296766605.jpg",
-   "link": "https://www.nicekicks.com/avatar-the-last-airbender-reebok-classic-nylon-four-nations-100266857/",
-   "lang": "en",
-   "relatedBrands": [
-    "REEBOK"
-   ]
-  },
-  {
-   "id": 17,
+   "id": 32,
    "title": "Brain Dead x adidas Bowling 聯乘鞋款迎來狂野變身",
    "source": "Hypebeast 中文",
    "date": "2026-10-06",
@@ -254,7 +443,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 33,
    "title": "Hellstar 為 adidas MEGARIDE S2 注入烈焰設計",
    "source": "Hypebeast 中文",
    "date": "2026-10-06",
@@ -267,7 +456,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 34,
    "title": "Nike Air Rift 最新「Black/Desert Ochre」配色換上獵豹紋馬毛材質登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-06",
@@ -280,7 +469,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 35,
    "title": "The Brain Dead x adidas Bowling Shoe Got a Wild Makeover",
    "source": "Hypebeast",
    "date": "2026-10-06",
@@ -295,7 +484,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 36,
    "title": "Flower Mountain Matches Form With Function for FW26 Collection",
    "source": "Hypebeast",
    "date": "2026-10-06",
@@ -308,7 +497,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 37,
    "title": "Hellstar Sets the adidas MEGARIDE S2 Ablaze",
    "source": "Hypebeast",
    "date": "2026-10-06",
@@ -321,7 +510,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 38,
    "title": "The Nike Air Rift \"Black/Desert Ochre\" Prowls In Wearing Cheetah-Print Pony Hair",
    "source": "Hypebeast",
    "date": "2026-10-06",
@@ -334,46 +523,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
-   "title": "PUMA x ROSÉ Introduces the SPEEDCAT VTG With Vintage Details",
-   "source": "Hypebeast",
-   "date": "2026-10-06",
-   "content": "PUMA x ROSÉ, a collaboration between PUMA and global brand ambassador ROSÉ, is set to release the new SPEEDCAT VTG on Thursday, October 8.Born in 1999, the SPEEDCAT is based on racing shoes worn by F1™ Grand Prix drivers in the 1980s and '90s. The model features a streamlined profile and low-profile silhouette inspired by racing shoes.Based on the SPEEDCAT silhouette, this new VTG version uses a brushed nubuck leather upper. Details include shoelaces that wrap around the upper and custom branding on the tongue. It will be available in two colors: a deep burgundy and espresso brown.The campaign visuals also showcase the SPEEDCAT VTG in a space incorporating flowers and nature, shot with the image of walking through nature.The PUMA x ROSÉ SPEEDCAT VTG will be available starting Thursday, October 8, at select PUMA stores, the official online store, the PUMA app, and select retailers. The pr",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2Fpuma-rose-speedcat-vtg-release-info-01-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/puma-rose-speedcat-vtg-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "PUMA"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "Avatar: The Last Airbender x Reebok Insta Pump Fury 94 “Aang”",
-   "source": "Nice Kicks",
-   "date": "2026-10-06",
-   "content": "The Avatar: The Last Airbender x Reebok InstaPump Fury 94 transforms the futuristic runner with colors and details pulled from… The post Avatar: The Last Airbender x Reebok Insta Pump Fury 94 “Aang” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/20260923_RBKxAvatar_SL_InstapumpFury_01_8x10-1-scaled-e1791298047733.jpg",
-   "link": "https://www.nicekicks.com/avatar-the-last-airbender-reebok-insta-pump-fury-94-aang-100266848/",
-   "lang": "en",
-   "relatedBrands": [
-    "REEBOK"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Avatar: The Last Airbender x Reebok Club C 85 “Appa”",
-   "source": "Nice Kicks",
-   "date": "2026-10-06",
-   "content": "The Avatar: The Last Airbender x Reebok Club C 85 channels Appa through a playful take on the timeless silhouette.… The post Avatar: The Last Airbender x Reebok Club C 85 “Appa” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/20260923_RBKxAvatar_SL_ClubC85_400-1-scaled-e1791297354523.jpg",
-   "link": "https://www.nicekicks.com/avatar-the-last-airbender-reebok-club-c-85-appa-100283057/",
-   "lang": "en",
-   "relatedBrands": [
-    "REEBOK"
-   ]
-  },
-  {
-   "id": 27,
+   "id": 39,
    "title": "Miu Miu x New Balance 攜手重塑 RC150 聯乘鞋款，採用鞋頭綁帶設計",
    "source": "Hypebeast 中文",
    "date": "2026-10-05",
@@ -386,7 +536,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 40,
    "title": "Nike Dunk Low 最新「Jade Stone/Old Royal」配色結合柔和綠色與鮮豔藍調",
    "source": "Hypebeast 中文",
    "date": "2026-10-05",
@@ -399,7 +549,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 41,
    "title": "Brooks Brothers x Converse 全新聯乘 All Star Aged Hi 及 Ox 鞋款，以 50 年代摔角鞋為靈感",
    "source": "Hypebeast 中文",
    "date": "2026-10-05",
@@ -409,109 +559,6 @@ window.SNEAKER_DATA = {
    "lang": "zh",
    "relatedBrands": [
     "CONVERSE"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Grand Collection x New Balance 聯乘升級 770 及 508 鞋款，專為紐約街頭滑板而設",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-05",
-   "content": "名稱： Grand Collection x New Balance 770、Grand x New Balance 580配色：「Black/Duffel Bag」型號： UN770NGD、UN508GRN-5定價： $125 美元、$100 美元發布日期： 現已發售發售點： Grand、New BalanceGrand Collection 與 New Balance 再度攜手展開第二次聯乘，由經過重新設計、專為滑板運動而設的 770 及 508 鞋款領軍。繼去年秋季的首度合作後，今次每件單品均圍繞三大重點打造：滑板實用性、精細做工以及經得起時間考驗的外觀。此外，系列亦備有完整的服飾單品，並同步釋出一部以紐約為背景的滑板影片，展現實裝表現。鞋款為整個系列定下基調。770 與 508 均提供黑色及深森林色選擇，並採用優質皮革配搭磨砂麂皮。品牌標誌保持低調，捨棄搶眼圖案，僅以含蓄的壓印細節點綴。更重要的改變在於結構：兩款輪廓均經過強化，帶來更佳的穩定性、更強的抗衝擊保護及更長久的耐用度，這對於需要每天在水泥地和石壆上承受磨損的滑板鞋來說至關重要。外套單品亦秉承相同理念。外套以 Taslan 尼龍剪裁而成，內襯抓毛絨以提供保暖效果，衣身飾有 Grand 標誌性的滾邊，並以刺繡品牌標誌作為點綴。下擺設有可調校抽繩，讓穿著者能收緊衣身以阻擋強風。插手口袋隱藏於接縫處並配備 YKK 拉鏈，確保在滑板運動時保持平坦貼合，不會妨礙活動。運動衛衣則專為更高強度的穿著而設。它採用 520gsm 的 100% 全棉抓毛絨製成，配以拼色設計，正面設有可雙向開合的拉鏈。接縫處設有拉鏈口袋，刺繡品牌標誌與系列其他單品互相呼應，配搭同款長褲即可構成完整套裝。輕盈的層次單品令系列更為豐富。柔軟的 100% 全棉十字交叉編織牛津紡恤衫提供更簡潔的選擇，而雙方聯乘的全棉 T 恤則滿足了基本穿搭需求。伴隨發布的影片展示了單品的實際穿著效果。影片於紐約街頭拍攝，記錄了 Grand 與 New Balance 旗下滑板手 Brian Reid、Spencer Hamilton 及 Brandon Westg",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FGrand-Collection-New-Balance-770-508-apparel-UN770NGD-UN508GRN-5-Collaboration-Release-Info-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/grand-collection-new-balance-770-508-apparel-un770ngd-un508grn-5-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "A Ma Maniére x adidas 推出亮面皮革 Japan SQ 聯乘鞋款 以方頭設計重塑纖細跑鞋",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-05",
-   "content": "鞋款名稱： adidas DND Japan Square Toe配色： 黑色 / 啡色 / 金屬金色產品編號： KZ9541建議零售價： $160 美元發售日期： 現已發售（A Ma Maniére）、10 月 9 日（adidas）購買渠道： A Ma Maniére、adidasadidas Japan SQ 是 A Ma Maniére 為 Atlanta Fashion Week 打造的「Do Not Duplicate」別注系列之核心。它以方頭設計重塑了品牌其中一款最纖細的 Originals 輪廓。這款為女性推出的黑色低筒鞋保留了 Japan 貼近地面的輪廓，並加入亮面皮革、對比色縫線與金屬配件細節，使其擺脫運動跑道的框架，邁向更具質感的精緻衣櫥。方頭設計是此鞋款最顯著的改變。Japan 的輪廓通常會在鞋頭收窄成柔和的圓弧形。而 SQ 則將鞋頭壓平為方形輪廓並加入沖孔設計，相同的沖孔圖案亦延伸至兩側飾板。鞋面採用亮面皮革，透過對比色縫線將多層次結構連接起來，而內部則全面配備皮革內襯。這層內襯賦予它比一般復古跑鞋更精緻的質感。其餘結構均與原版保持一致。加厚鞋領與正面鞋帶設計帶來貼合腳感，而 adidas 亦將此鞋款列為標準剪裁。三間標誌以覆面形式呈現於兩側飾板，並以對比色 Z 字形縫線勾勒輪廓。adidas Japan 標誌點綴於鞋身外側，鞋舌與鞋跟處均飾有品牌標誌。掛在鞋帶孔上的金屬吊牌彰顯了這雙鞋的聯乘身分。在底部，低調的中底配搭橡膠外底，確保更俐落的鞋頭不會增加笨重感。相比起大多方頭實驗設計，SQ 擁有更豐富的歷史背景。Japan 起初是一款與 1964 年東京奧運籌備工作息息相關的經典跑鞋。它在 adidas 近期推出的一系列纖細、低底盤復古型號中回歸，並成為品牌的首選低調款式之一。方頭設計使其更接近樂福鞋或芭蕾舞鞋的輪廓。這正完美契合一個為時裝週而非田徑跑道而誕生的別注系列。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FftA-Ma-Maniere-adidas-DND-Japan-Square-Toe-KZ9541-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/a-ma-maniere-adidas-dnd-japan-square-toe-kz9541-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "Ma Yansong Reads the Salomon XT-RIDGE Like a Building",
-   "source": "Hypebeast",
-   "date": "2026-10-05",
-   "content": "Why would a sneaker catch an architect's eye?As a new silhouette branching off the XT family, the XT-RIDGE carries Salomon's mountain DNA while taking a sharp turn in design. It sets aside the exposed SensiFit™ cage that has long defined the XT line's visual language, drawing instead on the layered light and shadow of modern architecture. Using semi-translucent TPU, it reworks the idea of a ridgeline with a more restrained hand, translating performance know-how from the mountains into the context of the urban climb.\"Seeing comes before words,\" wrote British art critic John Berger in Ways of Seeing, arguing that the way we look at anything is shaped by our own experience, culture and knowledge.Outdoor culture is increasingly bleeding into city life, and the performance vocabulary of materials, structure and function has found its way into architecture, design and fashion. With the XT-RIDG",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F05%2Fma-yansong-salomon-xt-ridge-interview-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/ma-yansong-salomon-xt-ridge-interview",
-   "lang": "en",
-   "relatedBrands": [
-    "SALOMON"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Miu Miu and New Balance Rework the RC150 With Toe-Tied Laces",
-   "source": "Hypebeast",
-   "date": "2026-10-05",
-   "content": "Name: Miu Miu x New Balance RC150SKU: TBCRelease Date: February 2027Entering its fifth year of collaborative partnership, Miu Miu and New Balance have reunited to debut a fresh reinterpretation of the RC150 racing sneaker, which recently previewed on the French fashion house's Spring/Summer 2027 runway in Paris.Originally launched by New Balance in the late 1990s, the RC150 was conceived as a high-performance road-racing shoe celebrated for its groundbreaking, ultra-lightweight 150-gram construction. Today, vintage iterations of the model are exceptionally rare and hard to find. In the hands of Miu Miu, the heritage runner has been playfully subverted and decontextualized, transforming the familiar athletic silhouette into an unexpected, high-fashion statement piece with an effortless attitude.The collaborative New Balance x Miu Miu RC150 is heavily deconstructed, featuring a malleable t",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F05%2Fftmiu-miu-new-balance-rc150-spring-summer-2027-paris-fashion-week-runway-collaboration-closer-look.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/miu-miu-new-balance-rc150-spring-summer-2027-paris-fashion-week-runway-collaboration-closer-look",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "New Balance’s Clean-Cut Skate Shoe Just Got a Nice Update",
-   "source": "Highsnobiety",
-   "date": "2026-09-26",
-   "content": "The New Balance Numeric Brandon Westgate 508 arrives in Reflection with Fairweather Blue, pairing a clean, understated base with subtle hits of blue.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-numeric-brandon-westgate-508/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "adidas' Bejeweled Superstar Is the Belle of the Ball",
-   "source": "Highsnobiety",
-   "date": "2026-09-26",
-   "content": "adidas just took its all-black Superstar sneaker to the jeweler & totally iced it out.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-superstar-jewel-sneaker/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "Ronnie Fieg Knows He's Him (EXCLUSIVE)",
-   "source": "Highsnobiety",
-   "date": "2026-09-25",
-   "content": "As Kith turns 15, Ronnie Fieg is taking a well-deserved look back on his unimpeachable archive of nearly 2,000 collaborative shoes.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/kith-ronnie-fieg-15th-anniversary-interview/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 37,
-   "title": "Blue Croc Leather Boots Never Looked This Rugged",
-   "source": "Highsnobiety",
-   "date": "2026-09-25",
-   "content": "Continuing a massive year-long resurgence for the rugged silhouette, Nike drops a luxurious, low-profile iteration with the Nike Air Max Goadome Low Navy Croc.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-midnight-navy-croc/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
    ]
   }
  ]
