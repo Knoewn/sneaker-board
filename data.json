@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10 11:39",
+ "updatedAt": "2026-10-10 22:07",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,6 +17,7 @@
  "brands": [
   "ADIDAS",
   "BIRKENSTOCK",
+  "CONVERSE",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
@@ -27,6 +28,31 @@
  "news": [
   {
    "id": 1,
+   "title": "Shai Gilgeous-Alexander 透露親手繪製即將推出的 Nike SHAI 002 專屬鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-10",
+   "content": "摘要 Shai Gilgeous-Alexander 親自透露，他手繪設計了即將推出的 Nike SHAI 002 個人專屬簽名鞋款此鞋款是他第二款個人簽名鞋，亦是他由 Converse 轉投 Nike Basketball 旗下的首個全新設計Nike SHAI 002 預計於 2027 年年初發售，技術規格與官方圖片目前仍處於保密階段 Nike 與 Oklahoma City Thunder 巨星 Shai Gilgeous-Alexander 正在籌備即將推出的 Nike SHAI 002。在最近接受 TIME 的訪問中，Gilgeous-Alexander 確認他親手繪製了其第二款專屬鞋款的設計圖。Gilgeous-Alexander 在其鞋履系列中一直保持著直接的創意參與，他曾為 SHAI 001 繪製早期草圖，其後在後續型號中亦採用了完全相同的做法。當被問及粉絲可以對即將推出的 SHAI 002 有甚麼期待時，Gilgeous-Alexander 在訪問中表示：「型格的設計。因為是我畫的。這就是我能告訴你們的。」SHAI 002 是他自 2026 年 6 月正式從 Converse 過渡以來，首款在 Nike Basketball 旗下打造的全新專屬型號。雖然他的首款鞋款最初在 Converse 旗下推出，其後才在 Oklahoma City 的媒體日獲得 Nike 品牌認證，但他的第二款型號從一開始便延續了這位運動員的親身參與。Nike SHAI 002 預計將於 2027 年初推出。請密切留意發售的最新動態。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fshai-gilgeous-alexander-personally-hand-drew-nike-shai-002-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/shai-gilgeous-alexander-personally-hand-drew-nike-shai-002-revealed",
+   "lang": "zh",
+   "relatedBrands": [
+    "CONVERSE",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "LOEWE 與 On 攜手升級 Cloudsolo 推出 $890 美元 Hiker 鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-10",
+   "content": "摘要 LOEWE 與 On 推出 Cloudsolo Hiker，作為雙方聯乘鞋款的戶外進化版這款運動鞋採用橡膠鞋面加固、靴款風格的金屬鞋眼，以及更深的鞋底紋理，以提升山徑抓地力此售價 890 美元的鞋款推出三款同色調配色，現已於指定零售商發售 LOEWE 與 On 正式擴展雙方的聯乘鞋履陣容，推出全新 LOEWE x On Cloudsolo Hiker。這款新作將雙方於 2025 年 10 月推出的原版 Cloudsolo 鞋款加以改良，轉化為專為越野性能而設的重裝款式。新作以 On 標誌性的機能科技為基礎，保留了鞋跟處可見的 Cloud 緩震組件以及內置的 Speedboard 科技，提供靈敏的能量回饋。為應付崎嶇地形，鞋面在擋泥板與側板周圍加入結構化的橡膠加固設計，並配上重裝靴款風格的鞋帶孔。鞋底方面，外底換上更深的鞋紋，以提升在戶外環境下不同地面的抓地力。LOEWE 與 On 為 Cloudsolo Hiker 帶來沙色、深啡色及黑色三款單色調配色，將西班牙奢華設計與瑞士運動工程結合。LOEWE x On Cloudsolo Hiker 現已於指定高級零售商發售，定價為 $890 美元。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Floewe-on-cloudsolo-hiker-model-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/loewe-on-cloudsolo-hiker-model-first-look-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 3,
    "title": "BSTN 與 Salomon 全新聯乘 XT-6 IRIDESCENT 捕捉黎明破曉色彩",
    "source": "Hypebeast 中文",
    "date": "2026-10-10",
@@ -39,7 +65,34 @@
    ]
   },
   {
-   "id": 2,
+   "id": 4,
+   "title": "Shai Gilgeous-Alexander Reveals He Personally Hand-Drew the Upcoming Nike SHAI 002",
+   "source": "Hypebeast",
+   "date": "2026-10-10",
+   "content": "Summary Shai Gilgeous-Alexander revealed that he personally hand-drew the design for his upcoming Nike SHAI 002 signature sneakerThe model marks his second signature silhouette and his first brand-new design following his move from Converse to Nike BasketballThe Nike SHAI 002 is expected to launch in early 2027 with technical specifications and official imagery still under wraps Nike and Oklahoma City Thunder superstar Shai Gilgeous-Alexander are preparing the upcoming Nike SHAI 002. Following a recent interview with TIME, Gilgeous-Alexander confirmed that he personally hand-drew the design for his second signature silhouette.Maintaining a direct creative role in his footwear line, Gilgeous-Alexander previously crafted early sketches for the SHAI 001 before taking the exact same approach for his follow-up model. When asked what fans should expect from the upcoming SHAI 002, Gilgeous-Alex",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F09%2Fshai-gilgeous-alexander-personally-hand-drew-nike-shai-002-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/shai-gilgeous-alexander-personally-hand-drew-nike-shai-002-revealed",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "LOEWE and On Upgrade the Cloudsolo With a $890 USD Hiker Model",
+   "source": "Hypebeast",
+   "date": "2026-10-10",
+   "content": "Summary LOEWE and On have released the Cloudsolo Hiker as an outdoor-focused evolution of their joint silhouetteThe sneaker features rubber upper reinforcement boot-style metal eyelets and deeper tread for enhanced trail tractionThe $890 USD model arrives in three tonal colorways available now via select retailers LOEWE and On have officially expanded their collaborative footwear portfolio with the release of the LOEWE x On Cloudsolo Hiker. The new model adapts the partnership's original Cloudsolo silhouette from October 2025 into a heavy-duty option built for trail performance.The silhouette builds upon On's signature performance technologies, retaining a visible heel Cloud unit alongside internal Speedboard tooling for responsive energy return. Designed to handle rugged terrain, the upper adds structured rubber reinforcement around the mudguards and side panels, complemented by heavy-d",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Floewe-on-cloudsolo-hiker-model-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/loewe-on-cloudsolo-hiker-model-first-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG"
+   ]
+  },
+  {
+   "id": 6,
    "title": "BSTN and Salomon’s XT-6 IRIDESCENT Collab Captures Daybreak Hues",
    "source": "Hypebeast",
    "date": "2026-10-10",
@@ -53,7 +106,60 @@
    ]
   },
   {
-   "id": 3,
+   "id": 7,
+   "title": "Where To Buy the Air Jordan 1 High OG “Royal”",
+   "source": "Nice Kicks",
+   "date": "2026-10-10",
+   "content": "The History of an OG Colorway Peter Moore designed the Air Jordan 1 in 1985 as the shoe that launched… The post Where To Buy the Air Jordan 1 High OG “Royal” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/iq5495-005-2-e1787756442124.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-1-high-og-royal-iq5495-005/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-10",
+   "content": "The Air Jordan 12 “Fireside” is set to release on October 24, 2026, via Nike.com and select retailers for $215.… The post Air Jordan 12 “Fireside” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ct8013-105-5-1-e1791640160431.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Is This a Nike Dunk or Your Grandma’s Couch?",
+   "source": "Highsnobiety",
+   "date": "2026-10-10",
+   "content": "Nike's latest Dunk sneaker looks like your grandma's couch was skinned & turned into a super cool sneaker.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-dunk-golden-hops-brocade/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Nike’s Hiking Sneaker Has Its Head in the Clouds and Feet in the Mud",
+   "source": "Highsnobiety",
+   "date": "2026-10-10",
+   "content": "Nike’s ACG Zegama Hike comes in British Khaki, Linen, and Light Crimson, with a gorgeous earthy colorway that looks as good muddy as it does fresh out the box.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-acg-zegama-hike-british-khaki/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 11,
    "title": "adidas' Lo Pro Staple Got a Marathon-Ready Makeover",
    "source": "Highsnobiety",
    "date": "2026-10-10",
@@ -66,7 +172,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 12,
    "title": "The Best Nike Sneaker Releases This Week",
    "source": "Highsnobiety",
    "date": "2026-10-10",
@@ -79,7 +185,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 13,
    "title": "Thierry Henry 率先展示 On 首款足球鞋細節近賞",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -90,7 +196,7 @@
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 14,
    "title": "Salomon XT-6 GTX 最新「Stormy Weather」陰天色調發佈",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -103,7 +209,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 15,
    "title": "WILDSIDE Yohji Yamamoto 與 MOONSTAR 重新演繹「GYM CLASSIC」運動鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -114,7 +220,7 @@
    "relatedBrands": []
   },
   {
-   "id": 8,
+   "id": 16,
    "title": "Victory Lap Radio x Nike 打造 Air Force 1 Low 漆皮聯乘鞋款「Pine Green」",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -127,7 +233,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 17,
    "title": "DELUXE x SUICOKE 全新聯乘 Moccasin 鞋款向雨天與身後的人說「F*** OFF」",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -138,7 +244,7 @@
    "relatedBrands": []
   },
   {
-   "id": 10,
+   "id": 18,
    "title": "Birkenstock 為「Amsterdam Wrapped」與「Santa Clarita」披上羊毛冬裝",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -151,7 +257,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 19,
    "title": "Air Jordan 12「Obsidian」確定將於 2027 年回歸",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -165,7 +271,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 20,
    "title": "Denny's 聯乘 Mache 再次推出注入真實糖漿之 Sticky Kicks 2.0 運動鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -176,7 +282,7 @@
    "relatedBrands": []
   },
   {
-   "id": 13,
+   "id": 21,
    "title": "Thierry Henry Gives a Closer Look at On's Debut Football Boot",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -187,7 +293,7 @@
    "relatedBrands": []
   },
   {
-   "id": 14,
+   "id": 22,
    "title": "The Salomon XT-6 GTX Takes on an Overcast “Stormy Weather” Palette",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -200,7 +306,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 23,
    "title": "WILDSIDE Yohji Yamamoto and MOONSTAR Rework the GYM CLASSIC Sneaker",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -211,7 +317,7 @@
    "relatedBrands": []
   },
   {
-   "id": 16,
+   "id": 24,
    "title": "Victory Lap Radio and Nike Craft a Patent Leather Air Force 1 Low in \"Pine Green\"",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -224,7 +330,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 25,
    "title": "DELUXE x SUICOKE’s New Moccasin Tells Rain, and Everyone Behind You, to “F*** OFF”",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -235,7 +341,7 @@
    "relatedBrands": []
   },
   {
-   "id": 18,
+   "id": 26,
    "title": "Birkenstock Gives the “Amsterdam Wrapped” and “Santa Clarita” a Shearling Winter Coat",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -248,7 +354,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 27,
    "title": "Air Jordan 12 \"Obsidian\" Set to Return in 2027",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -262,7 +368,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 28,
    "title": "Denny’s and Mache Return With Real Syrup-Filled Sticky Kicks 2.0 Sneakers",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -273,7 +379,7 @@
    "relatedBrands": []
   },
   {
-   "id": 21,
+   "id": 29,
    "title": "Release Info Revealed for JUNYA WATANABE MAN x New Balance P400",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -286,20 +392,7 @@
    ]
   },
   {
-   "id": 22,
-   "title": "NIGO® x Nike Air Force 1 Introduce a Triple Collaboration Model Featuring BTS' j-hope",
-   "source": "Hypebeast",
-   "date": "2026-10-09",
-   "content": "From \"Air Force 1 World Tour,\" the multifaceted collaboration project by NIGO® and Nike, comes the announcement of the latest Air Force 1 sneaker, welcoming global superstar BTS' j-hope as a joint partner.The partnership between NIGO® and j-hope began from a place of mutual respect and design sensibility. This new release reinterprets the refined vintage look of the Air Force 1, originally released in 2001, and incorporates elements of j-hope's signature energetic style, \"Hobicore.\"A glossy burnt sunrise (orange tone) and metallic gold patent leather upper is accented with vibrant chlorine blue. Furthermore, it features a squirrel graphic, which is j-hope's icon, and as he himself says, \"the intricate details of the shoelaces make the sneakers even more appealing,\" condensing the meticulous attention to detail of both parties down to the shoe accessories and material usage.NIGO® commente",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2Fnike-nigo-j-hope-air-force-1-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nike-nigo-j-hope-air-force-1-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 23,
+   "id": 30,
    "title": "Jordan Brand Celebrates Día de los Muertos With Just 5,026 Pairs of the Air Jordan 1 Low OG",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -312,7 +405,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 31,
    "title": "Victory Lap Radio x Nike Air Force 1 Mid “Black Patent”",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -325,7 +418,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 32,
    "title": "NIGO x J-Hope x Nike Air Force 1 Low ’01 “World Tour”",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -338,33 +431,35 @@
    ]
   },
   {
-   "id": 26,
-   "title": "Air Jordan 1 High OG “Royal” (IQ5495-005) October 2026 Release Date & Info",
+   "id": 33,
+   "title": "Air Jordan 1 Mid SE “Space Jam” (IX6374-001) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-09",
-   "content": "The History of an OG Colorway Peter Moore designed the Air Jordan 1 in 1985 as the shoe that launched… The post Air Jordan 1 High OG “Royal” (IQ5495-005) October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/08/iq5495-005-2-e1787756442124.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-1-high-og-royal-iq5495-005/",
+   "content": "Interested readers can expect the Air Jordan 1 Mid SE “Space Jam” to release on November 5, 2026, via Nike.com… The post Air Jordan 1 Mid SE “Space Jam” (IX6374-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ix6374-001-5-1-e1791403965528.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-1-mid-se-space-jam-ix6374-001-2026/",
    "lang": "en",
    "relatedBrands": [
-    "JORDAN"
+    "JORDAN",
+    "NIKE"
    ]
   },
   {
-   "id": 27,
-   "title": "Space Jam’s Talent-Stealing Basketball Inspires the Air Jordan 11",
+   "id": 34,
+   "title": "Jordan Trunner O/S “Space Jam Planet” (IX6403-200) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-09",
-   "content": "The Origin Behind the Colorway Jordan Brand’s Space Jam 30th anniversary collection has told the story of the 1996 film… The post Space Jam’s Talent-Stealing Basketball Inspires the Air Jordan 11 appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/IMG_3620-e1791246011777.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-11-wmns-magic-ball-iz1800-200/",
+   "content": "Readers can expect the Jordan Trunner O/S “Space Jam Planet” to release on November 5, 2026, via Nike.com and select retailers for… The post Jordan Trunner O/S “Space Jam Planet” (IX6403-200) November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ix6403-200-5-1-e1791558263513.jpg",
+   "link": "https://www.nicekicks.com/jordan-trunner-o-s-space-jam-planet-ix6403-200/",
    "lang": "en",
    "relatedBrands": [
-    "JORDAN"
+    "JORDAN",
+    "NIKE"
    ]
   },
   {
-   "id": 28,
+   "id": 35,
    "title": "Air Jordan 11 “Green Screen” (IQ5700-900) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -377,21 +472,7 @@
    ]
   },
   {
-   "id": 29,
-   "title": "Air Jordan OG WMNS “Amusement Park” (IX6376-001) November 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-09",
-   "content": "Readers can expect the Air Jordan OG WMNS “Amusement Park” to release on November 5, 2026, via Nike.com and select retailers for… The post Air Jordan OG WMNS “Amusement Park” (IX6376-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ix6376-001-5-e1791560814500.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-og-wmns-amusement-park-ix6376-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 30,
+   "id": 36,
    "title": "Jordan Spizike Low “Jam Central” (IX6381-001) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -405,21 +486,7 @@
    ]
   },
   {
-   "id": 31,
-   "title": "Air Jordan 1 Low SE “Magic Ball” (IX6375-001) November 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-09",
-   "content": "Interested readers can expect the Air Jordan 1 Low SE “Magic Ball” to release on November 5, 2026, via Nike.com… The post Air Jordan 1 Low SE “Magic Ball” (IX6375-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ix6375-001-5-1-e1791404277719.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-1-low-se-magic-ball-ix6375-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 32,
+   "id": 37,
    "title": "Jordan Son of Mars Low “Lunar Tunes” (IX6377-001) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -433,7 +500,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 38,
    "title": "This Melted Leathery Sack is Issey Miyake’s Best Shoe",
    "source": "Highsnobiety",
    "date": "2026-10-09",
@@ -444,7 +511,7 @@
    "relatedBrands": []
   },
   {
-   "id": 34,
+   "id": 39,
    "title": "New Balance’s Understated Sneaker Brings Restraint to Skate Shoes",
    "source": "Highsnobiety",
    "date": "2026-10-09",
@@ -457,7 +524,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 40,
    "title": "Who Really Runs New York?",
    "source": "Highsnobiety",
    "date": "2026-10-09",
@@ -468,7 +535,7 @@
    "relatedBrands": []
   },
   {
-   "id": 36,
+   "id": 41,
    "title": "Why Is Every Sneaker Brand Making Its Own Birks?",
    "source": "Highsnobiety",
    "date": "2026-10-09",
@@ -481,7 +548,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 42,
    "title": "This Hairy Samba Might Signal A Triumphant Return",
    "source": "Highsnobiety",
    "date": "2026-10-09",
@@ -494,7 +561,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 43,
    "title": "Off-White™ 與 Zellerfeld 發佈 3D 打印「Arrows Teaser」拖鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
@@ -502,43 +569,6 @@
    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Foff-white-zellerfeld-arrows-teaser-slide-five-new-colorways-oat-black-yellow-stone-lilac-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
    "link": "https://hypebeast.com/zh/2026/10/off-white-zellerfeld-arrows-teaser-slide-five-new-colorways-oat-black-yellow-stone-lilac-release-info",
    "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 39,
-   "title": "Arte Antwerp x adidas GSG9 最新「Off-White」配色發布",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-08",
-   "content": "名稱： Arte Antwerp x adidas Originals GSG9配色： Off-WhiteSKU： KK3730建議零售價： €250 歐元（約 $270 美元）發售日期： 10 月 8 日購買點： adidasArte Antwerp 與 adidas Originals 延續雙方合作關係，為 GSG9 帶來全新面貌，將源自戰術靴的輪廓轉化為更簡潔、適合街頭穿搭的低筒鞋款。鞋款現以「Off-White」配色登場，同色調加固設計由鞋頭延伸至兩側及鞋跟，透過材質與層次的變化營造微妙的立體感，而非單靠色彩作點綴。鞋領周圍的織物材質帶來另一種觸感對比，而穿過環狀鞋帶孔的圓形行山風格鞋帶，則進一步強調 GSG9 的戶外及軍事根源。靠近鞋跟處點綴小巧的 Arte 標誌，保持低調的品牌風格，讓寬大的側幅及雕塑感結構依然成為焦點。鞋底方面，GSG9 保留其粗獷本色，配備紋理豐富的橡膠外底，立體凸紋一直延伸至兩側，帶來更厚實且具保護性的外觀。將鞋底與「Off-White」鞋面作呼應，柔化了鞋款本來的機能比例，與較具份量感的全黑版本相比，整體設計更顯和諧百搭。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fft-arte-antwerp-adidas-originals-gsg9-off-white-kk3730-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/arte-antwerp-x-adidas-gsg9-goes-tonal-in-off-white",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "SNICKERS 與 adidas 攜手推出首款 ADIZERO ELECTRIC + II 聯乘美式足球鞋",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-08",
-   "content": "摘要 SNICKERS 與 adidas 首度攜手合作，推出首款美式足球聯乘企劃，帶來 ADIZERO ELECTRIC + II 釘鞋設計將 SNICKERS 標誌性的朱古力啡色，與怪誕綠色的鞋墊及品牌鞋帶扣完美結合這款限量版釘鞋將於 10 月 10 日發售，並同步推出聯乘朱古力條抽獎活動 adidas 與 SNICKERS 官方宣布正式推出雙方首個美式足球鞋聯乘企劃，帶來限量版 ADIZERO ELECTRIC + II 鞋款。是次聯乘最初由 Mars, Incorporated 公布，將 SNICKERS 標誌性的朱古力啡色調與 adidas 的機能技術結合，並融入隱藏的萬聖節主題。ADIZERO ELECTRIC + II 專為球場上的速度與靈活性而設，採用輕巧的合成與編織物料鞋面，帶來貼合舒適的穿著體驗。穩固的綁帶設計能固定雙腳，而特別的聯乘細節則包括度身訂製的 SNICKERS 標誌鞋帶扣，以及為萬聖節而設、藏於鞋內的「ghoulish green」鞋墊。為配合這款機能球鞋的發布，是次合作亦推出限量版聯乘朱古力棒。直至 10 月 13 日，大眾可透過 SNICKERS.com/adidas 參與抽獎獲取，當中包括隱藏版的 SNICKERS Ghoulish Green 朱古力棒。NFL 新秀 Carnell Tate 亦與品牌合作，於 10 月 12 日至 16 日期間在 SNICKERS 的 Instagram 頻道舉辦抽獎活動。SNICKERS x adidas ADIZERO ELECTRIC + II 將於 2026 年 10 月 10 日透過 adidas 獨家限量發售，定價為 $180 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fsnickers-adidas-adizero-electric-ii-cleat-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/snickers-adidas-adizero-electric-ii-cleat-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "Off-White™ and Zellerfeld Unveil 3D-Printed \"Arrows Teaser\" Slide",
-   "source": "Hypebeast",
-   "date": "2026-10-08",
-   "content": "Summary Off-White and Zellerfeld have joined forces for the first time to release the 3D-printed Arrows Teaser slideThe silhouette integrates Off-White's arrow iconography across the lateral sides alongside a textured checkerboard finishThe slide launches in five colorways with the first 100 pairs featuring custom packaging by 700x100 Off-White™ and Zellerfeld have officially released their inaugural collaboration, introducing the Off-White™ x Zellerfeld \"Arrows Teaser\" slide. The 3D-printed model represents a technical milestone for Off-White™ as the brand explores new design directions under Bluestar Alliance.The silhouette incorporates Off-White™’s signature arrow graphics along the lateral sides, seamlessly molded into Zellerfeld’s fully 3D-printed construction. The upper features a checkerboard-style tactile finish, referencing the motorsport-inspired graphics that have long anchore",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Foff-white-zellerfeld-arrows-teaser-slide-five-new-colorways-oat-black-yellow-stone-lilac-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/off-white-zellerfeld-arrows-teaser-slide-five-new-colorways-oat-black-yellow-stone-lilac-release-info",
-   "lang": "en",
    "relatedBrands": []
   }
  ]
