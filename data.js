@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-09 16:08",
+ "updatedAt": "2026-10-10 11:39",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,21 +16,105 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
-  "ASICS",
   "BIRKENSTOCK",
-  "CONVERSE",
-  "DIOR",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
-  "PUMA",
-  "UGG",
-  "VANS"
+  "SALOMON",
+  "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "BSTN 與 Salomon 全新聯乘 XT-6 IRIDESCENT 捕捉黎明破曉色彩",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-10",
+   "content": "名稱：BSTN x Salomon XT-6 IRIDESCENT配色：Black/Almond MilkSKU：L45567700建議售價：$300 美元發售日期：10 月 10 日發售點：BSTNBSTN 與 Salomon 首度攜手合作推出聯乘鞋款，以日夜交替的寧靜過渡時刻為靈感，透過「5 A.M.」概念重新演繹 XT-6。鞋款官方定名為單一的「Black/Black/Almond Milk」配色，視覺上以深海軍藍漸變至黑色的網眼材質為基底，覆上隨光線折射而變色的淡藍色幻彩 TPU 塗層。這種充滿變化的表面設計，為充滿機能感的鞋面賦予宛如珍珠般的光澤；而對比鮮明的白色縫線——包括鞋舌上獨特的鋸齒狀細節——則令深色中底更顯俐落。鞋底部分以黑色為主調，讓焦點集中於鞋面的反光處理上；成型鞋墊則從冷調藍色漸變至溫暖橙色，猶如晨曦初現的第一縷曙光。鞋身保留了該型號備受讚譽的高效能技術配置。鞋面採用透氣單層網眼材質，並以極具耐用性及抗磨損的 TPU 面板作加固，配合 Salomon 標誌性的 quickLACE 系統與 endoFit 結構，帶來精準且穩固的貼合感。鞋款配備 agileCHASSIS 系統以提供卓越的穩定性與緩震效果，底部則採用堅固的 Mud Contagrip 外底，加上深邃且邊緣銳利的凸起紋理，足以應付各種複雜地形。為紀念是次合作，外側鞋跟處點綴了充滿質感的聯乘標誌，而帶有雙方共同口號「Common Ground」的專屬 BSTN 標籤則巧妙地置於鞋帶系統下方。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fbstn-salomon-xt-6-iridescent-black-almond-milk-l45567700-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/bstn-salomon-xt-6-iridescent-black-almond-milk-l45567700-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "BSTN and Salomon’s XT-6 IRIDESCENT Collab Captures Daybreak Hues",
+   "source": "Hypebeast",
+   "date": "2026-10-10",
+   "content": "Name: BSTN x Salomon XT-6 IRIDESCENTColorway: Black/Almond MilkSKU: L45567700MSRP: $300 USDRelease Date: October 10Where to Buy: BSTNBSTN and Salomon have joined forces for their first footwear collaboration, reworking the XT-6 through a “5 A.M.” concept inspired by the quiet transition between night and day.Officially listed in a single \"Black/Black/Almond Milk\" colorway, the shoe reads visually as a dark navy-to-black mesh base layered with pale blue iridescent TPU overlays that shift in tone as they catch the light. The changing surface gives the otherwise technical upper an almost pearlescent quality, while white contrast stitching - including distinctive zigzag detailing across the tongue - sharpens the darker foundation. Underfoot, the mostly black tooling keeps the palette grounded, allowing the reflective upper treatment to carry the design, while a molded insole moves from cool ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Fbstn-salomon-xt-6-iridescent-black-almond-milk-l45567700-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/bstn-salomon-xt-6-iridescent-black-almond-milk-l45567700-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "SALOMON",
+    "UGG"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "adidas' Lo Pro Staple Got a Marathon-Ready Makeover",
+   "source": "Highsnobiety",
+   "date": "2026-10-10",
+   "content": "Teaming up with one of the most visionary retail conglomerates right now, the Three Stripes introduces The Whitaker Group x adidas BW Run Do Not Duplicate.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/the-whitaker-group-adidas-do-not-duplicate/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "The Best Nike Sneaker Releases This Week",
+   "source": "Highsnobiety",
+   "date": "2026-10-10",
+   "content": "From an all-weather icon to a boot-sneaker hybrid and moody low-profile track star, this week shows off the best that Nike has to offer for early spooky season.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-sneaker-releases-october-week-2/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Thierry Henry 率先展示 On 首款足球鞋細節近賞",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-09",
+   "content": "摘要 On 足球總監 Thierry Henry 在 Instagram 上分享了品牌首款足球鞋的近照原型鞋款採用 On 的 LightSpray 技術，打造出無縫的半透明鞋面該鞋款預計於 2027 年初公開發售，並由 Kylian Mbappé 領銜運動員陣容 On 與品牌足球總監 Thierry Henry 率先帶來瑞士品牌首款 On 足球鞋的細節近賞。透過 Instagram 發布的原型鞋款，揭示了 On 進軍足球鞋市場背後的技術基礎與設計方向。此款球鞋最初由 Kylian Mbappé 率先著用。原型鞋款印有開發代碼 ON-DCPT-KM210，採用 On 專利的 LightSpray 技術打造出輕薄半透明鞋面。機械臂噴塗工藝免去了傳統接縫與結構覆層，為鞋身帶來極簡外觀，同時專注於提升性能與減輕重量。此預覽緊隨 On 正式擴展至足球領域的步伐，其運動員陣容由皇家馬德里球星 Kylian Mbappé 與巴塞隆拿中場 Sydney Schertenleib 領銜。雖然 Henry 釋出的預告僅展示開發原型，卻充分突顯了這個瑞士運動品牌計劃將其鞋履工程技術直接帶到球場上的願景。On 足球鞋預計將於 2027 年初正式公開發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fthierry-henry-closer-look-on-debut-football-boot-teaser-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/thierry-henry-closer-look-on-debut-football-boot-teaser",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 6,
+   "title": "Salomon XT-6 GTX 最新「Stormy Weather」陰天色調發佈",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-09",
+   "content": "鞋款名稱： Salomon XT-6 GTX「Tradewinds/Stormy Weather/Bog」配色： Tradewinds/Stormy Weather/Bog型號： L49214800建議零售價： 31,900 日圓（約 $202 美元）發售日期： 現已發售購買點： SalomonSalomon 為 XT-6 GTX 帶來全新「Tradewinds/Stormy Weather/Bog」配色，為這款源自越野的鞋型注入冷峻的陰天色調，完美呼應其抗水耐候的結構。鞋面以淡藍灰色網眼為基底，配搭較深的 Bog 綠灰色加固面板，以及勾勒鞋身幾何框架的柔和黃米色 SensiFit 細節。中底邊緣與鞋跟處點綴柔和薄荷色，而鞋舌、鞋領、Quicklace 綁帶系統及外底則採用黑色，帶來鮮明的機能感對比。Salomon 鞋舌標誌上的藍、紅、黃色小點綴打破了整體的低調氛圍，為此配色賦予了微妙的復古戶外氣息。XT-6 GTX 保留了有別於標準版 XT-6 的防護結構。GORE-TEX ePE 薄膜提供防水與透氣性能，且無刻意添加 PFC（全氟碳化物），而防碎石網眼結構則有助在潮濕或嚴苛的城市環境中保護雙腳。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fsalomon-xt-6-gore-tex-tradewinds-stormy-weather-bog-l49214800-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/salomon-xt-6-gore-tex-tradewinds-stormy-weather-bog-l49214800-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "WILDSIDE Yohji Yamamoto 與 MOONSTAR 重新演繹「GYM CLASSIC」運動鞋",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-09",
+   "content": "名稱： WILDSIDE Yohji Yamamoto x MOONSTAR GYM CLASSIC 運動鞋配色： 待定SKU： 待定建議零售價： ¥29,700 JPY（約 $188 USD）發售日期： 10 月 14 日發售點： WILDSIDE Yohji Yamamoto繼 S’YTE x MOONSTAR 的聯乘後，WILDSIDE Yohji Yamamoto 與 MOONSTAR 亦首度攜手合作，以 WILDSIDE 標誌性的黑色主調重新演繹該日本鞋履品牌長青的「GYM CLASSIC」鞋款。這款低筒運動鞋以 1960 年代生產的訓練鞋為基礎，僅推出單一黑色版本，採用耐用的棉質帆布製成，並配上全黑橡膠鞋底與鞋頭保護設計。鞋眼旁的淡米色滾邊及裁片周圍的對比縫線點綴了單色的鞋身，為原本內斂的鞋面增添更俐落的視覺層次。啞黑色金屬鞋眼圈維持了整體的低調質感，鞋款同時配備黑色與米白色鞋帶，讓對比細節可視乎喜好顯得含蓄或突出。鞋跟外側繡有弧形的 WILDSIDE 標誌，後跟橡膠護條上亦飾有額外的品牌細節。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fwildside-yohji-yamamoto-moonstar-gym-classic-cotton-canvas-sneakers-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/wildside-yohji-yamamoto-moonstar-gym-classic-cotton-canvas-sneakers-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 8,
    "title": "Victory Lap Radio x Nike 打造 Air Force 1 Low 漆皮聯乘鞋款「Pine Green」",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -43,7 +127,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 9,
    "title": "DELUXE x SUICOKE 全新聯乘 Moccasin 鞋款向雨天與身後的人說「F*** OFF」",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -54,7 +138,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 3,
+   "id": 10,
    "title": "Birkenstock 為「Amsterdam Wrapped」與「Santa Clarita」披上羊毛冬裝",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -67,7 +151,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 11,
    "title": "Air Jordan 12「Obsidian」確定將於 2027 年回歸",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -81,7 +165,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 12,
    "title": "Denny's 聯乘 Mache 再次推出注入真實糖漿之 Sticky Kicks 2.0 運動鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -92,7 +176,42 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 13,
+   "title": "Thierry Henry Gives a Closer Look at On's Debut Football Boot",
+   "source": "Hypebeast",
+   "date": "2026-10-09",
+   "content": "Summary On Director of Football Thierry Henry shared a closer look at the brand's debut football boot on InstagramThe prototype features On's LightSpray technology for a seamless translucent upperThe boot is set for a public release in early 2027 with Kylian Mbappé leading the athlete roster On and Director of Football Thierry Henry have offered a closer look at the Swiss brand's debut On Football Boot. Shared via Instagram, the prototype reveals the technical foundation and design direction behind On's entry into the football footwear market. The cleat was initially first worn by Kylian Mbappé.Stamped with the development code ON-DCPT-KM210, the prototype introduces a thin, translucent upper constructed using On’s proprietary LightSpray technology. The robotic spraying process eliminates traditional seams and structural overlays, giving the silhouette a stripped-back appearance focused ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Fthierry-henry-closer-look-on-debut-football-boot-teaser-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/thierry-henry-closer-look-on-debut-football-boot-teaser",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 14,
+   "title": "The Salomon XT-6 GTX Takes on an Overcast “Stormy Weather” Palette",
+   "source": "Hypebeast",
+   "date": "2026-10-09",
+   "content": "Name: Salomon XT-6 GTX “Tradewinds/Stormy Weather/Bog”Colorway: Tradewinds/Stormy Weather/BogSKU: L49214800MSRP: ¥31,900 JPY (approx. $202 USD)Release Date: Available NowWhere to Buy: SalomonSalomon updates the XT-6 GTX with a new “Tradewinds/Stormy Weather/Bog” colorway, giving the trail-derived silhouette a cool, overcast palette that feels especially suited to its weather-resistant construction.The upper is built around a pale blue-grey mesh base, layered with darker Bog green-grey reinforcement panels and muted yellow-beige SensiFit detailing that traces the shoe’s angular cage. A soft mint tone appears around the midsole edge and heel, while black across the tongue, collar, Quicklace system and outsole adds a sharper technical contrast. Small flashes of blue, red and yellow on the Salomon tongue branding break up the otherwise subdued treatment, giving the colorway a subtle archival",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F09%2Fsalomon-xt-6-gore-tex-tradewinds-stormy-weather-bog-l49214800-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/salomon-xt-6-gore-tex-tradewinds-stormy-weather-bog-l49214800-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "WILDSIDE Yohji Yamamoto and MOONSTAR Rework the GYM CLASSIC Sneaker",
+   "source": "Hypebeast",
+   "date": "2026-10-09",
+   "content": "Name: WILDSIDE Yohji Yamamoto x MOONSTAR GYM CLASSIC SneakerColorway: TBCSKU: TBCMSRP: : ¥29,700 JPY (approx. $188 USD)Release Date: October 14Where to Buy: WILDSIDE Yohji YamamotoFollowing S’YTE x MOONSTAR’s collaboration, WILDSIDE Yohji Yamamoto and MOONSTAR also come together for their first collaboratio – reworking the Japanese footwear maker’s long-running GYM CLASSIC through WILDSIDE’s signature black palette. Based on a training shoe originally produced in the 1960s, the low-top is offered in a single Black colorway, built from durable cotton canvas and finished with a fully blacked-out rubber sole and toe guard.The monochrome base is broken up by pale cream piping running alongside the eyestays and matching contrast stitching around the panels, giving the otherwise restrained upper a sharper graphic quality. Matte black metal eyelets maintain the subdued finish, while the sneaker",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F09%2Fwildside-yohji-yamamoto-moonstar-gym-classic-cotton-canvas-sneakers-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/wildside-yohji-yamamoto-moonstar-gym-classic-cotton-canvas-sneakers-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 16,
    "title": "Victory Lap Radio and Nike Craft a Patent Leather Air Force 1 Low in \"Pine Green\"",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -105,7 +224,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 17,
    "title": "DELUXE x SUICOKE’s New Moccasin Tells Rain, and Everyone Behind You, to “F*** OFF”",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -116,7 +235,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 8,
+   "id": 18,
    "title": "Birkenstock Gives the “Amsterdam Wrapped” and “Santa Clarita” a Shearling Winter Coat",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -129,7 +248,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 19,
    "title": "Air Jordan 12 \"Obsidian\" Set to Return in 2027",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -143,7 +262,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 20,
    "title": "Denny’s and Mache Return With Real Syrup-Filled Sticky Kicks 2.0 Sneakers",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -154,7 +273,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 11,
+   "id": 21,
    "title": "Release Info Revealed for JUNYA WATANABE MAN x New Balance P400",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -167,7 +286,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 22,
    "title": "NIGO® x Nike Air Force 1 Introduce a Triple Collaboration Model Featuring BTS' j-hope",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -180,20 +299,202 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
-   "title": "The Seven Best adidas Sneaker Releases This Week",
+   "id": 23,
+   "title": "Jordan Brand Celebrates Día de los Muertos With Just 5,026 Pairs of the Air Jordan 1 Low OG",
+   "source": "Nice Kicks",
+   "date": "2026-10-09",
+   "content": "The Air Jordan 1 Low OG “Somos Historias” celebrates Día de los Muertos with a design rooted in Mexican heritage,… The post Jordan Brand Celebrates Día de los Muertos With Just 5,026 Pairs of the Air Jordan 1 Low OG appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/iz4686-216-5-2-e1791583365212.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-1-low-og-somos-historias-iz4686-216/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "Victory Lap Radio x Nike Air Force 1 Mid “Black Patent”",
+   "source": "Nice Kicks",
+   "date": "2026-10-09",
+   "content": "Victory Lap Radio brings its London underground music influence to the Nike Air Force 1 Mid with a sleek all-black… The post Victory Lap Radio x Nike Air Force 1 Mid “Black Patent” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ja7806-001-5-1-e1791570893765.jpg",
+   "link": "https://www.nicekicks.com/victory-lap-radio-nike-air-force-1-mid-black-patent-ja7806-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "NIGO x J-Hope x Nike Air Force 1 Low ’01 “World Tour”",
+   "source": "Nice Kicks",
+   "date": "2026-10-09",
+   "content": "NIGO and BTS’ j-hope come together to reimagine the iconic Nike Air Force 1 Low, bringing their shared creative vision… The post NIGO x J-Hope x Nike Air Force 1 Low ’01 “World Tour” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/io8766-800-1-e1791562783330.jpg",
+   "link": "https://www.nicekicks.com/nigo-j-hope-nike-air-force-1-low-01-world-tour-io8766-800/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Air Jordan 1 High OG “Royal” (IQ5495-005) October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-09",
+   "content": "The History of an OG Colorway Peter Moore designed the Air Jordan 1 in 1985 as the shoe that launched… The post Air Jordan 1 High OG “Royal” (IQ5495-005) October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/iq5495-005-2-e1787756442124.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-1-high-og-royal-iq5495-005/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 27,
+   "title": "Space Jam’s Talent-Stealing Basketball Inspires the Air Jordan 11",
+   "source": "Nice Kicks",
+   "date": "2026-10-09",
+   "content": "The Origin Behind the Colorway Jordan Brand’s Space Jam 30th anniversary collection has told the story of the 1996 film… The post Space Jam’s Talent-Stealing Basketball Inspires the Air Jordan 11 appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/IMG_3620-e1791246011777.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-11-wmns-magic-ball-iz1800-200/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 28,
+   "title": "Air Jordan 11 “Green Screen” (IQ5700-900) November 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-09",
+   "content": "The Inspiration Behind the Air Jordan 11 “Green Screen” This year marks thirty years since Space Jam first hit theaters,… The post Air Jordan 11 “Green Screen” (IQ5700-900) November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/IMG_3592-e1791242396560.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-11-green-screen-iq5700-900/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 29,
+   "title": "Air Jordan OG WMNS “Amusement Park” (IX6376-001) November 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-09",
+   "content": "Readers can expect the Air Jordan OG WMNS “Amusement Park” to release on November 5, 2026, via Nike.com and select retailers for… The post Air Jordan OG WMNS “Amusement Park” (IX6376-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ix6376-001-5-e1791560814500.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-og-wmns-amusement-park-ix6376-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 30,
+   "title": "Jordan Spizike Low “Jam Central” (IX6381-001) November 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-09",
+   "content": "Readers can expect the Jordan Spizike Low “Jam Central” to release on November 5, 2026, via Nike.com and select retailers for $165.… The post Jordan Spizike Low “Jam Central” (IX6381-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ix6381-001-5-1-e1791557494907.jpg",
+   "link": "https://www.nicekicks.com/jordan-spizike-low-jam-central-ix6381-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 31,
+   "title": "Air Jordan 1 Low SE “Magic Ball” (IX6375-001) November 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-09",
+   "content": "Interested readers can expect the Air Jordan 1 Low SE “Magic Ball” to release on November 5, 2026, via Nike.com… The post Air Jordan 1 Low SE “Magic Ball” (IX6375-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ix6375-001-5-1-e1791404277719.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-1-low-se-magic-ball-ix6375-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 32,
+   "title": "Jordan Son of Mars Low “Lunar Tunes” (IX6377-001) November 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-09",
+   "content": "Interested readers can expect the Jordan Son of Mars Low “Lunar Tunes” to release on November 5, 2026, via Nike.com… The post Jordan Son of Mars Low “Lunar Tunes” (IX6377-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ix6377-001-5-e1791584410781.jpg",
+   "link": "https://www.nicekicks.com/jordan-son-of-mars-low-lunar-tunes-ix6377-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 33,
+   "title": "This Melted Leathery Sack is Issey Miyake’s Best Shoe",
    "source": "Highsnobiety",
    "date": "2026-10-09",
-   "content": "In this iteration of our weekly round-up of adidas' best releases, find teddy-fur Stella McCartneys, a shreddingly good skate sneaker, & the slimmest Samba ever",
+   "content": "The Issey Miyake x Camper Peu Form is shapeless, strange, and a transfixing example of the Japanese fashion label's understanding of fabric.",
    "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-sneaker-releases-october-week-2/",
+   "link": "https://www.highsnobiety.com/p/issey-miyake-camper/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 34,
+   "title": "New Balance’s Understated Sneaker Brings Restraint to Skate Shoes",
+   "source": "Highsnobiety",
+   "date": "2026-10-09",
+   "content": "New Balance’s Numeric Franky Villani 417 Low keeps things low-key in Black Cement and Black, with a mix of suede, canvas, and mesh across the upper.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-numeric-franky-villani-417-low/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 35,
+   "title": "Who Really Runs New York?",
+   "source": "Highsnobiety",
+   "date": "2026-10-09",
+   "content": "Runners were invited to log miles for their respective boroughs, uniting over a shared goal and love for the sport.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/hoka-run-your-city-challenge-nyc/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 36,
+   "title": "Why Is Every Sneaker Brand Making Its Own Birks?",
+   "source": "Highsnobiety",
+   "date": "2026-10-09",
+   "content": "Every sneaker brand is turning out its own Birkenstocks these days, begging the question: why?",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/birkenstock-shoes-trend-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "BIRKENSTOCK"
+   ]
+  },
+  {
+   "id": 37,
+   "title": "This Hairy Samba Might Signal A Triumphant Return",
+   "source": "Highsnobiety",
+   "date": "2026-10-09",
+   "content": "Giving the legendary low-top a tactile, seasonal update, the Three Stripes delivers the adidas Samba OG Burnt Sienna/Clear Sky.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-samba-og-burnt-sienna/",
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
    ]
   },
   {
-   "id": 14,
+   "id": 38,
    "title": "Off-White™ 與 Zellerfeld 發佈 3D 打印「Arrows Teaser」拖鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
@@ -204,7 +505,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 15,
+   "id": 39,
    "title": "Arte Antwerp x adidas GSG9 最新「Off-White」配色發布",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
@@ -217,7 +518,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 40,
    "title": "SNICKERS 與 adidas 攜手推出首款 ADIZERO ELECTRIC + II 聯乘美式足球鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
@@ -230,46 +531,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
-   "title": "OTW by Vans 以 Vibram 鞋底重塑 Chukka 49 鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-08",
-   "content": "名稱： OTW by Vans Chukka 49 Vibram建議售價： ¥15,950 JPY（約 $101 USD）發售日期： 現已發售購買點： Vans、BILLY’S ENTOTW by Vans 今個秋季為 Chukka 49 換上更粗獷的基礎，將此鞋款簡約的中筒輪廓與度身訂製的 Vibram 外底結合。新作採用優質麂皮製成，共推出三款配色：「Oil Green」、「Dress Blue」及「Vintage Cocoa」。「Vintage Cocoa」採用溫暖的沙啡色麂皮配搭奶油色鞋帶及淺色對比縫線，賦予鞋款柔和的仿舊工裝風格。「Oil Green」將相同的設計手法套用於深邃的森林綠上，而「Dress Blue」則呈現飽和的海軍藍色調，視覺上更顯深沉俐落。這三款鞋均配備復古金屬鞋帶孔、米白色鞋帶及外露縫線，巧妙地點綴了單色鞋面；黑色鞋側上方更飾有一條幼細的淺啡色護條，增添額外的復古氣息。鞋底方面，Chukka 49 捨棄了 Vans 常用的窩夫格紋結構，改用度身訂製的 Vibram 外底，在不大幅改變原有比例的情況下，提升了耐用度與抓地力。黑色橡膠鞋側為每款配色賦予更具分量的視覺基礎，而底部的啡色胎面則展現重複的幾何圖案，並於中央飾有 Vibram 標誌。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fotw-by-vans-chukka-49-vibram-vintage-cocoa-oil-green-dress-blue-suede-leather-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/otw-by-vans-chukka-49-vibram-vintage-cocoa-oil-green-dress-blue-suede-leather-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "KITH 攜手 Giorgio Armani 與 ASICS 推出三方聯乘「GEL-Mai 0.1」鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-08",
-   "content": "KITH、Giorgio Armani 與 ASICS 正式發布聯乘「GEL-Mai 0.1」鞋款，促成這次罕有結合街頭服飾、意大利奢華美學與運動品牌歷史的三方合作。繼早前於 KITH Marrakech 年度之旅首度曝光後，是次發布進一步深化了 Ronnie Fieg 與這家意大利時裝屋的持續合作關係。繼 2024 年合作推出「The Archetype」西裝系列及隨後的 New York Knicks 聯乘服飾後，Giorgio Armani 今次攜手 ASICS 擴展其鞋履版圖。即將推出的新作選用不對稱設計的「GEL-Mai 0.1」——這款標誌性鞋型過去亦曾由 Fieg 重新演繹——鞋身採用優質的灰色長絨面皮製成，呈現出低調的中性美學。中底嵌有外露的海軍藍色 GEL 緩震膠，為優雅的鞋面帶來科技感對比。鞋領下方則印有低調的聯乘標誌，將高級剪裁細節與 ASICS 的實用性能傳統完美融合。KITH x Giorgio Armani x ASICS 三方聯乘「GEL-Mai 0.1」預計將於短期內登陸 KITH 門市及線上商店，並有望成為即將到來的 Monday Program 發售項目。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fkith-giorgio-armani-asics-gel-mai-0-1-dream-of-the-dune-tri-collab-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/kith-giorgio-armani-asics-gel-mai-0-1-dream-of-the-dune-tri-collab-first-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "JAH JAH 與 adidas 正式發佈 F50 TUNIT 聯乘鞋款「Green/Core Black/Yellow」",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-08",
-   "content": "摘要 adidas 與總部位於 Paris 的多元文化工作室 JAH JAH 攜手合作，重新詮釋經典的 F50 TUNIT「Green Core Black Yellow」配色採用優質皮革內襯與耐用橡膠外底此聯乘鞋款將於 10 月 8 日正式發售 名稱： JAH JAH x adidas F50 TUNIT「Green/Core Black/Yellow」配色： Green/Core Black/Yellow貨號： LA3614建議零售價： $188 美元發售日期： 2026 年 10 月 8 日發售點： adidasadidas 與紮根 Paris 的創意工作室 JAH JAH 正式發佈 JAH JAH x adidas F50 TUNIT 聯乘鞋款，帶來搶眼的「Green/Core Black/Yellow」配色。此聯乘作將於 2026 年 10 月 8 日發售，為 adidas 其中一款經典足球鞋型注入叛逆且多元文化的氣息。鞋款由品牌與該 Paris 創意企劃共同設計，將大膽的運動傳統與現代街頭風格結合。鞋面採用綠色、核心黑及黃色點綴的活力組合，向原版 F50 TUNIT 的流線型輪廓致敬，同時展現獨特的視覺個性。此鞋款為日常穿著而生，採用標準剪裁，內裡鋪上柔滑的優質皮革，讓每一步都倍感柔軟舒適。底部配備耐磨橡膠外底，專為各種日常地形提供持久抓地力與穩定性。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fjah-jah-adidas-f50-tunit-green-core-black-yellow-LA3614-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/jah-jah-adidas-f50-tunit-green-core-black-yellow-la3614-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 20,
+   "id": 41,
    "title": "Off-White™ and Zellerfeld Unveil 3D-Printed \"Arrows Teaser\" Slide",
    "source": "Hypebeast",
    "date": "2026-10-08",
@@ -278,281 +540,6 @@ window.SNEAKER_DATA = {
    "link": "https://hypebeast.com/2026/10/off-white-zellerfeld-arrows-teaser-slide-five-new-colorways-oat-black-yellow-stone-lilac-release-info",
    "lang": "en",
    "relatedBrands": []
-  },
-  {
-   "id": 21,
-   "title": "Arte Antwerp x adidas GSG9 Goes Tonal in “Off-White”",
-   "source": "Hypebeast",
-   "date": "2026-10-08",
-   "content": "Name: Arte Antwerp x adidas Originals GSG9Colorway: Off-WhiteSKU: KK3730MSRP: €250 EUR (approx. $270 USD)Release Date: October 8Where to Buy: adidasArte Antwerp and adidas Originals continue their partnership with a new take on the GSG9, translating the tactical boot-derived silhouette into a cleaner, street-ready low-top. Now coming in an “Off-White” build, tonal reinforcement wraps from the toe around the sides and heel, creating subtle depth through changes in texture and layering rather than color.Textile around the collar introduces another tactile contrast, while rounded hiking-style laces threaded through looped eyelets reinforce the GSG9’s outdoor and military roots. A small Arte logo positioned toward the heel keeps the branding understated, allowing the broad side panels and sculpted construction to remain the focus.Underfoot, the GSG9 retains its rugged character through a hea",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Fft-arte-antwerp-adidas-originals-gsg9-off-white-kk3730-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/arte-antwerp-x-adidas-gsg9-goes-tonal-in-off-white",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "UGG"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "SNICKERS and adidas Partner for First-Ever ADIZERO ELECTRIC + II Cleat",
-   "source": "Hypebeast",
-   "date": "2026-10-08",
-   "content": "Summary SNICKERS and adidas have teamed up on their first gridiron collaboration featuring the ADIZERO ELECTRIC + II cleatThe design pairs SNICKERS signature chocolate brown with a ghoulish green insole and branded lace charmThe limited-edition cleat releases October 10 alongside a co-branded candy bar sweepstakes adidas and SNICKERS have officially unveiled their first-ever football collaboration, introducing a limited-edition ADIZERO ELECTRIC + II cleat. First announced by Mars, Incorporated, the gridiron release pairs SNICKERS' signature chocolate brown palette with adidas performance engineering and a hidden Halloween theme.Built for speed and agility on the field, the ADIZERO ELECTRIC + II features a lightweight synthetic and textile upper designed to deliver an adaptive, snug fit. A secure lace closure holds the foot in place, while special collaborative details include a custom SN",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F07%2Fsnickers-adidas-adizero-electric-ii-cleat-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/snickers-adidas-adizero-electric-ii-cleat-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "OTW by Vans Reworks the Chukka 49 With Vibram Tooling",
-   "source": "Hypebeast",
-   "date": "2026-10-08",
-   "content": "Name: OTW by Vans Chukka 49 VibramMSRP: ¥15,950 JPY (approx. $101 USD)Release Date: Available NowWhere to Buy: Vans, BILLY’S ENTOTW by Vans updates the Chukka 49 with a more rugged foundation this fall season, pairing the silhouette’s stripped-back mid-top shape with a custom Vibram outsole. Built in premium suede, the release arrives in three colorways: “Oil Green,” “Dress Blue\" and “Vintage Cocoa.”\"Vintage Cocoa\" uses a warm, dusty brown suede with cream laces and pale contrast stitching, giving the shoe a softly aged, workwear-informed look. \"Oil Green\" shifts the same treatment into a deep forest green, while \"Dress Blue\" takes on a saturated navy finish that reads darker and cleaner. Across all three, antique-toned metal eyelets, off-white laces and exposed stitching subtly break up the monochrome uppers, while a slim tan foxing stripe runs above the black sidewall for an additional",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Fotw-by-vans-chukka-49-vibram-vintage-cocoa-oil-green-dress-blue-suede-leather-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/otw-by-vans-chukka-49-vibram-vintage-cocoa-oil-green-dress-blue-suede-leather-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG",
-    "VANS"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "KITH Unites Giorgio Armani and ASICS for a Tri-Branded GEL-Mai 0.1",
-   "source": "Hypebeast",
-   "date": "2026-10-08",
-   "content": "Summary KITH Giorgio Armani and ASICS have unveiled a three-way collaboration on the GEL-Mai 0.1First showcased during KITH's annual trip in Marrakech the silhouette features shaggy grey suede and exposed navy GEL cushioningThe high-fashion athletic release is expected to drop through KITH's Monday Program KITH, Giorgio Armani, and ASICS have officially revealed a collaborative GEL-Mai 0.1, marking a rare three-way partnership bridging streetwear, Italian luxury, and sportswear heritage. Following a first look at KITH's annual trip in Marrakech, the release expands on the ongoing relationship between Ronnie Fieg and the Italian fashion house.Following their 2024 partnership on \"The Archetype\" suiting collection and subsequent New York Knicks apparel, Giorgio Armani expands its footwear imprint alongside ASICS. The upcoming release selects the asymmetrical GEL-Mai 0.1—a signature model pr",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Fkith-giorgio-armani-asics-gel-mai-0-1-dream-of-the-dune-tri-collab-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/kith-giorgio-armani-asics-gel-mai-0-1-dream-of-the-dune-tri-collab-first-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "Nike Air Diamond Turf II “Patent Leather”",
-   "source": "Nice Kicks",
-   "date": "2026-10-08",
-   "content": "Interested readers and collectors can look forward to the Nike Air Diamond Turf II “Patent Leather” to be released on… The post Nike Air Diamond Turf II “Patent Leather” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ii7066-001-5-1-e1791488087112.jpg",
-   "link": "https://www.nicekicks.com/nike-air-diamond-turf-ii-patent-leather-ii7066-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Nike Kobe A.D. Protro “Purple Stardust”",
-   "source": "Nice Kicks",
-   "date": "2026-10-08",
-   "content": "The Nike Kobe A.D. Protro “Purple Stardust” will release on October 23, 2026, via Nike.com and select retailers for $155.… The post Nike Kobe A.D. Protro “Purple Stardust” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/io8233-500-5-1-e1791468982152.jpg",
-   "link": "https://www.nicekicks.com/nike-kobe-a-d-protro-purple-stardust-io8233-500/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "Converse SHAI 001 Shroud “Spark” Fall 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-08",
-   "content": "The Converse SHAI 001 Shroud “Spark” is set to release on October 9, 2026, via Converse, SNKRS, and select retailers for $140. Check… The post Converse SHAI 001 Shroud “Spark” Fall 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/a23976c-084-5-e1789157190615.jpg",
-   "link": "https://www.nicekicks.com/converse-shai-001-shroud-spark-a23976c/",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "Converse SHAI 001 Shroud “Shock” Fall 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-08",
-   "content": "The Converse SHAI 001 Shroud “Shock” is set to release on October 9, 2026, via Converse, SNKRS, and select retailers for $140. Check… The post Converse SHAI 001 Shroud “Shock” Fall 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/a23975c-004-5-e1789157386681.jpg",
-   "link": "https://www.nicekicks.com/converse-shai-001-shroud-shock-a23975c/",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "Brain Dead x adidas Samba Bowling “Snakeskin”",
-   "source": "Nice Kicks",
-   "date": "2026-10-08",
-   "content": "The Brain Dead x adidas Samba Bowling “Snakeskin” is set to release on October 8, 2026, via adidas Confirmed app, WeAreBrainDead.com, and select… The post Brain Dead x adidas Samba Bowling “Snakeskin” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/ADIDASxBRAINDEAD1197-1-scaled-e1790004098201.jpg",
-   "link": "https://www.nicekicks.com/brain-dead-adidas-samba-bowling-snakeskin-kj0662/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Brain Dead x adidas Samba Bowling “Cheetah”",
-   "source": "Nice Kicks",
-   "date": "2026-10-08",
-   "content": "The Brain Dead x adidas Samba Bowling “Cheetah” is set to release on October 8, 2026, via adidas Confirmed app, WeAreBrainDead.com, and… The post Brain Dead x adidas Samba Bowling “Cheetah” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/ADIDASxBRAINDEAD1208-1-scaled-e1790004321834.jpg",
-   "link": "https://www.nicekicks.com/brain-dead-adidas-samba-bowling-cheetah-kh8143/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "Nike’s Retro Air Max Sneaker Looks Straight Outta a Vintage Store",
-   "source": "Highsnobiety",
-   "date": "2026-10-08",
-   "content": "Nike’s Air Max Metro gets an old-school makeover in Black, Dark Smoke Grey, and Bright Crimson, with a layered upper that feels straight out of the archives.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-metro-black-red/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "One Good Winter Boot Disguised as a Sneaker",
-   "source": "Highsnobiety",
-   "date": "2026-10-08",
-   "content": "One Good is Highsnobiety's series on the tried, tested, and trusted products we can’t stop fawning over. This round features a great gorpy, chunky sneaker.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/one-good-gorpy-winter-sneaker-sorel-salomon/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 33,
-   "title": "Hardies Screws Up this Mid-2000s adidas Runner",
-   "source": "Highsnobiety",
-   "date": "2026-10-08",
-   "content": "Partnering with one of the most sought-after brands in modern skateboarding, adidas delivers the Hardies x adidas Adistar Control 5.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/hardies-adidas-control-5/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "Kim Jones's Next Move Post-Dior? $3,505 Hotel Pajamas",
-   "source": "Highsnobiety",
-   "date": "2026-10-08",
-   "content": "As other designers go fast-fashion, ex-Dior and Fendi designer Kim Jones unapologetically leans into luxury with a range of travel staples for hotel chain Aman.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/kim-joness-next-move-post-dior-a-dollar1000-hotel-chain-tee/",
-   "lang": "en",
-   "relatedBrands": [
-    "DIOR"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "What Makes Langston Uibel’s Sole Bounce?",
-   "source": "Highsnobiety",
-   "date": "2026-10-08",
-   "content": "With Bouncing Soles is now the brand’s new global platform, asking Chloë Sevigny, Jordan Stephens, Naomi Watanabe and Germany’s Langston Uibel what keeps them moving.⁠ For Uibel, it’s theatre, film and finding his place as an artist. Learn more about the actor, here.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/dr-martens-langston-uibel-chloe-sevigny/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "adidas’ Tweed Samba Has Left the Football Terrace for the Country Estate",
-   "source": "Highsnobiety",
-   "date": "2026-10-08",
-   "content": "adidas’ Samba OG gets an fall-ready update with a textured herringbone tweed upper, black leather details, and the classic gum sole.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-samba-og/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 37,
-   "title": "adidas Anthony Edwards 3 “Snow Camo”",
-   "source": "Nice Kicks",
-   "date": "2026-10-07",
-   "content": "The adidas Anthony Edwards 3 “Snow Camo” is set to release on October 9, 2026, via adidas.com and select retailers… The post adidas Anthony Edwards 3 “Snow Camo” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/KH8542_1-1-e1789770776994.jpg",
-   "link": "https://www.nicekicks.com/adidas-anthony-edwards-3-snow-camo-kh8542/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "Nike Sabrina 4 “Superstition”",
-   "source": "Nice Kicks",
-   "date": "2026-10-07",
-   "content": "The Nike Sabrina 4 “Light Work” is releasing on October 6, 2026, via Nike.com and select retailers for $135. Check out the photos below… The post Nike Sabrina 4 “Superstition” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/iv5266-500-5-e1791497709727.jpg",
-   "link": "https://www.nicekicks.com/nike-sabrina-4-superstition-iv5266-500/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "Kids Air Jordan 3 “Lola Bunny” (IZ1694-600) November 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-07",
-   "content": "Interested readers can expect the Kids Air Jordan 3 “Lola Bunny” to release on November 14, 2026, via SNKRS and… The post Kids Air Jordan 3 “Lola Bunny” (IZ1694-600) November 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/iz1694-600-5-1-e1791404843953.jpg",
-   "link": "https://www.nicekicks.com/kids-air-jordan-3-lola-bunny-iz1694-600/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Air Jordan 1 Low SE “Air Bugs” (IX6375-001) November 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-07",
-   "content": "Interested readers can expect the Air Jordan 1 Low SE “Air Bugs” to release on November 1, 2026, via SNKRS… The post Air Jordan 1 Low SE “Air Bugs” (IX6375-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ix6375-001-5-1-e1791404277719.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-1-low-se-air-bugs-ix6375-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "Brain Dead x adidas Bowling 聯乘鞋款迎來狂野變身",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-06",
-   "content": "總結2026 年秋季，Brain Dead 與 adidas 為其靈感源自 1978 年的保齡球鞋注入大膽的豹紋與人造蛇皮印花。這款非實戰運動鞋定價為 250 美元，配備經典品牌標誌、對比細節與加高鞋跟設計。透過最新發布的鞋款，Brain Dead 與 adidas 繼續深化雙方合作關係，這次聚焦於 2024 年推出的 Bowling 鞋型。這款流線型皮革鞋履迎來兩種動物印花版本，為 2026 年秋季注入更強烈、更大膽的個性。靈感源自 1978 年的 adidas 設計，這款保齡球鞋以豹紋毛皮風格鞋面與人造蛇皮鞋面重新演繹，與雙方以往推出的低調全黑及黑白版本截然不同。為呼應原版型號，鞋身其餘部分保留了經典細節：側面的金色壓花字樣以及兩側的白色鋸齒狀三間標誌。黑色鞋舌、鞋頭飾片以及繡有 Brain Dead 標誌的鞋跟標籤與搶眼圖案形成強烈對比。與傳統運動鞋不同，橡膠鞋底採用仿照保齡球鞋的加高鞋跟設計；然而，Brain Dead 特別指出這款鞋並非專為實際保齡球運動而設。2026 年秋冬季度是動物印花（尤其是豹紋）的大熱季節，近期發布的鞋款如 Nike Air Force 1 Low「Leopard」和 PUMA GOLF x Saturdays NYC Clyde 均可見其蹤影。adidas 早在 2026 年夏季已率先探索類似的設計，推出 adidas Samba Bowling「Leopard」，與全新的 Brain Dead x adidas Bowling 鞋款異曲同工。採用人造蛇皮與豹紋的 Brain Dead x adidas Bowling 鞋款現已於 Brain Dead 官方網站 發售，定價為 250 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fbrain-dead-adidas-bowling-cheetah-snakeskin-release-info-00.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/brain-dead-adidas-bowling-cheetah-snakeskin-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS",
-    "NIKE",
-    "PUMA"
-   ]
   }
  ]
 };
