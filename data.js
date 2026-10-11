@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-10 22:07",
+ "updatedAt": "2026-10-11 11:11",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -22,12 +22,26 @@ window.SNEAKER_DATA = {
   "NEW BALANCE",
   "NIKE",
   "SALOMON",
-  "UGG"
+  "UGG",
+  "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Your Winter Wheat Delivery Just Landed, Courtesy of Nike",
+   "source": "Highsnobiety",
+   "date": "2026-10-11",
+   "content": "Reimagining an undisputed autumn legend just in time for the colder months, the Swoosh is bringing back a seasonal staple with the Nike Air Force 1 Low Wheat.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-foce-1-low-wheat/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
    "title": "Shai Gilgeous-Alexander 透露親手繪製即將推出的 Nike SHAI 002 專屬鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-10",
@@ -41,7 +55,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 3,
    "title": "LOEWE 與 On 攜手升級 Cloudsolo 推出 $890 美元 Hiker 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-10",
@@ -52,7 +66,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 3,
+   "id": 4,
    "title": "BSTN 與 Salomon 全新聯乘 XT-6 IRIDESCENT 捕捉黎明破曉色彩",
    "source": "Hypebeast 中文",
    "date": "2026-10-10",
@@ -65,7 +79,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 5,
    "title": "Shai Gilgeous-Alexander Reveals He Personally Hand-Drew the Upcoming Nike SHAI 002",
    "source": "Hypebeast",
    "date": "2026-10-10",
@@ -79,7 +93,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 6,
    "title": "LOEWE and On Upgrade the Cloudsolo With a $890 USD Hiker Model",
    "source": "Hypebeast",
    "date": "2026-10-10",
@@ -92,7 +106,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 7,
    "title": "BSTN and Salomon’s XT-6 IRIDESCENT Collab Captures Daybreak Hues",
    "source": "Hypebeast",
    "date": "2026-10-10",
@@ -106,7 +120,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 8,
    "title": "Where To Buy the Air Jordan 1 High OG “Royal”",
    "source": "Nice Kicks",
    "date": "2026-10-10",
@@ -119,7 +133,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 9,
    "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-10",
@@ -133,7 +147,111 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 10,
+   "title": "New Balance Waterproofed Its Cool Skate “Dunks”",
+   "source": "Highsnobiety",
+   "date": "2026-10-10",
+   "content": "New Balance Numeric's 480 skate sneaker gets its first-ever GORE-TEX makeover. Here's everything on the waterproof release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-numeric-480-gore-tex/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "There’s No Such Thing as a Bad Hair Day for Nike’s Cherry Air Force 1",
+   "source": "Highsnobiety",
+   "date": "2026-10-10",
+   "content": "Nike's long-haired Air Force 1 sneaker just got a cherry cola dye job right in time for fall.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-team-red-pony-hair/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Vans' Next Ease-y Skate Shoe Is Dangerously Slick",
+   "source": "Highsnobiety",
+   "date": "2026-10-10",
+   "content": "Vans releases a new python-print Premium Authentic Ease skate sneaker, officially going off the scales with the effortlessly luxe model.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-premium-authentic-ease-python/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Nike’s Thicc Satin Air Max Is Its Own Muse",
+   "source": "Highsnobiety",
+   "date": "2026-10-10",
+   "content": "Nike's thick-soled Air Max Muse sneaker gets a pink satin makeover for its latest release. It's in its soft-girl ballerina era.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-muse-satin/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Nike’s All-Black Air Maxes Wears a Slick Leather Puffer Jacket",
+   "source": "Highsnobiety",
+   "date": "2026-10-10",
+   "content": "Nike's classic Air Max 90 sneaker slips into a nice padded leather look, resulting in a super-cozy & stylish take on the model.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-90-triple-black-leather/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "NIGO & j-hope’s Squirrel-Themed Nike Air Force 1 Is Absolutely Nuts",
+   "source": "Highsnobiety",
+   "date": "2026-10-10",
+   "content": "NIGO & j-hope cook up a Nike Air Force 1 Low sneaker collaboration featuring squirrel graphics & retro colorblocking. Here's everything on the release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nigo-nike-j-hope-air-force-1/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Menace Puts This adidas Classic on Full Heat",
+   "source": "Highsnobiety",
+   "date": "2026-10-10",
+   "content": "One of LA’s most interesting labels right now takes the stage as adidas unveils the Menace x adidas Adistar Control 5.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/menace-adidas-adistar-control-5/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "30 Years Later, Jordan's Space Jam Shoes Are Fresher Than Ever (EXCLUSIVE)",
+   "source": "Highsnobiety",
+   "date": "2026-10-10",
+   "content": "The Jordan Brand reveals its 30th-anniversary \"Space Jam\" collection, including not one but three Jordan 11 sneakers inspired by the film. Plus more.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-space-jam-30th-anniversary-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 18,
    "title": "Is This a Nike Dunk or Your Grandma’s Couch?",
    "source": "Highsnobiety",
    "date": "2026-10-10",
@@ -146,7 +264,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 19,
    "title": "Nike’s Hiking Sneaker Has Its Head in the Clouds and Feet in the Mud",
    "source": "Highsnobiety",
    "date": "2026-10-10",
@@ -159,33 +277,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
-   "title": "adidas' Lo Pro Staple Got a Marathon-Ready Makeover",
-   "source": "Highsnobiety",
-   "date": "2026-10-10",
-   "content": "Teaming up with one of the most visionary retail conglomerates right now, the Three Stripes introduces The Whitaker Group x adidas BW Run Do Not Duplicate.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/the-whitaker-group-adidas-do-not-duplicate/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 12,
-   "title": "The Best Nike Sneaker Releases This Week",
-   "source": "Highsnobiety",
-   "date": "2026-10-10",
-   "content": "From an all-weather icon to a boot-sneaker hybrid and moody low-profile track star, this week shows off the best that Nike has to offer for early spooky season.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-sneaker-releases-october-week-2/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 13,
+   "id": 20,
    "title": "Thierry Henry 率先展示 On 首款足球鞋細節近賞",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -196,7 +288,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 14,
+   "id": 21,
    "title": "Salomon XT-6 GTX 最新「Stormy Weather」陰天色調發佈",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -209,7 +301,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 22,
    "title": "WILDSIDE Yohji Yamamoto 與 MOONSTAR 重新演繹「GYM CLASSIC」運動鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -220,7 +312,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 16,
+   "id": 23,
    "title": "Victory Lap Radio x Nike 打造 Air Force 1 Low 漆皮聯乘鞋款「Pine Green」",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -233,7 +325,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 24,
    "title": "DELUXE x SUICOKE 全新聯乘 Moccasin 鞋款向雨天與身後的人說「F*** OFF」",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -244,7 +336,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 18,
+   "id": 25,
    "title": "Birkenstock 為「Amsterdam Wrapped」與「Santa Clarita」披上羊毛冬裝",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -257,7 +349,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 26,
    "title": "Air Jordan 12「Obsidian」確定將於 2027 年回歸",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -271,7 +363,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 27,
    "title": "Denny's 聯乘 Mache 再次推出注入真實糖漿之 Sticky Kicks 2.0 運動鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -282,7 +374,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 21,
+   "id": 28,
    "title": "Thierry Henry Gives a Closer Look at On's Debut Football Boot",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -293,7 +385,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 22,
+   "id": 29,
    "title": "The Salomon XT-6 GTX Takes on an Overcast “Stormy Weather” Palette",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -306,7 +398,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 30,
    "title": "WILDSIDE Yohji Yamamoto and MOONSTAR Rework the GYM CLASSIC Sneaker",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -317,7 +409,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 24,
+   "id": 31,
    "title": "Victory Lap Radio and Nike Craft a Patent Leather Air Force 1 Low in \"Pine Green\"",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -330,7 +422,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 32,
    "title": "DELUXE x SUICOKE’s New Moccasin Tells Rain, and Everyone Behind You, to “F*** OFF”",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -341,7 +433,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 26,
+   "id": 33,
    "title": "Birkenstock Gives the “Amsterdam Wrapped” and “Santa Clarita” a Shearling Winter Coat",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -354,7 +446,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 34,
    "title": "Air Jordan 12 \"Obsidian\" Set to Return in 2027",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -368,7 +460,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 35,
    "title": "Denny’s and Mache Return With Real Syrup-Filled Sticky Kicks 2.0 Sneakers",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -379,7 +471,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 29,
+   "id": 36,
    "title": "Release Info Revealed for JUNYA WATANABE MAN x New Balance P400",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -392,7 +484,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 37,
    "title": "Jordan Brand Celebrates Día de los Muertos With Just 5,026 Pairs of the Air Jordan 1 Low OG",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -405,7 +497,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 38,
    "title": "Victory Lap Radio x Nike Air Force 1 Mid “Black Patent”",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -418,7 +510,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 39,
    "title": "NIGO x J-Hope x Nike Air Force 1 Low ’01 “World Tour”",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -431,7 +523,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 40,
    "title": "Air Jordan 1 Mid SE “Space Jam” (IX6374-001) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -445,7 +537,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 41,
    "title": "Jordan Trunner O/S “Space Jam Planet” (IX6403-200) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -459,7 +551,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 42,
    "title": "Air Jordan 11 “Green Screen” (IQ5700-900) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -472,7 +564,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 43,
    "title": "Jordan Spizike Low “Jam Central” (IX6381-001) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -486,7 +578,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 44,
    "title": "Jordan Son of Mars Low “Lunar Tunes” (IX6377-001) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -500,68 +592,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
-   "title": "This Melted Leathery Sack is Issey Miyake’s Best Shoe",
-   "source": "Highsnobiety",
-   "date": "2026-10-09",
-   "content": "The Issey Miyake x Camper Peu Form is shapeless, strange, and a transfixing example of the Japanese fashion label's understanding of fabric.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/issey-miyake-camper/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 39,
-   "title": "New Balance’s Understated Sneaker Brings Restraint to Skate Shoes",
-   "source": "Highsnobiety",
-   "date": "2026-10-09",
-   "content": "New Balance’s Numeric Franky Villani 417 Low keeps things low-key in Black Cement and Black, with a mix of suede, canvas, and mesh across the upper.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-numeric-franky-villani-417-low/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Who Really Runs New York?",
-   "source": "Highsnobiety",
-   "date": "2026-10-09",
-   "content": "Runners were invited to log miles for their respective boroughs, uniting over a shared goal and love for the sport.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/hoka-run-your-city-challenge-nyc/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 41,
-   "title": "Why Is Every Sneaker Brand Making Its Own Birks?",
-   "source": "Highsnobiety",
-   "date": "2026-10-09",
-   "content": "Every sneaker brand is turning out its own Birkenstocks these days, begging the question: why?",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/birkenstock-shoes-trend-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "BIRKENSTOCK"
-   ]
-  },
-  {
-   "id": 42,
-   "title": "This Hairy Samba Might Signal A Triumphant Return",
-   "source": "Highsnobiety",
-   "date": "2026-10-09",
-   "content": "Giving the legendary low-top a tactile, seasonal update, the Three Stripes delivers the adidas Samba OG Burnt Sienna/Clear Sky.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-samba-og-burnt-sienna/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 43,
+   "id": 45,
    "title": "Off-White™ 與 Zellerfeld 發佈 3D 打印「Arrows Teaser」拖鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
