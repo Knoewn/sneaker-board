@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11 22:31",
+ "updatedAt": "2026-10-12 11:34",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -19,6 +19,7 @@
   "BIRKENSTOCK",
   "CLARKS",
   "CONVERSE",
+  "CROCS",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
@@ -29,6 +30,19 @@
  "news": [
   {
    "id": 1,
+   "title": "New Balance Came in a Typically Grown-Up Halloween Costume",
+   "source": "Highsnobiety",
+   "date": "2026-10-12",
+   "content": "Diverging from its usual reserved aesthetic for a rare thematic drop, the Boston brand unleashes the New Balance 2010 Halloween.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-2010-halloween/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 2,
    "title": "Wasted Paris x Clarks Originals Pack Britpop Memorabilia Into a Customizable Wallabee Lite",
    "source": "Hypebeast",
    "date": "2026-10-11",
@@ -41,7 +55,139 @@
    ]
   },
   {
-   "id": 2,
+   "id": 3,
+   "title": "Nike Air Max 95 Big Bubble OG “Escape”",
+   "source": "Nice Kicks",
+   "date": "2026-10-11",
+   "content": "The Nike Air Max 95 Big Bubble OG “Escape” is expected to release in Fall of 2026, via Nike.com and select retailers… The post Nike Air Max 95 Big Bubble OG “Escape” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ix6347-200-5-e1791748191398.jpg",
+   "link": "https://www.nicekicks.com/nike-air-max-95-big-bubble-og-escape-ix6347-200/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "UGG’s Waterproof Slippers Can Handle Winter's Worst",
+   "source": "Highsnobiety",
+   "date": "2026-10-11",
+   "content": "UGG releases the Tasman Guard GTX shoe, a waterproof winterized slip-on with Vibram soles & mudguards.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/ugg-tasman-guard-gtx/",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Nike’s Textured Chocolate Jordan Has Us Feeling Peckish",
+   "source": "Highsnobiety",
+   "date": "2026-10-11",
+   "content": "Nike’s Air Jordan Skyline Low LE gets a rich, chocolate-inspired makeover, pairing creamy neutrals with textured brown details for an easy fall-ready sneaker.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-jordan-skyline-low-le/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Junya Watanabe’s New Balance Basketball Shoe Is So Fresh (Foam), So Clean",
+   "source": "Highsnobiety",
+   "date": "2026-10-11",
+   "content": "Junya Watanabe MAN releases its dressy FW26 New Balance P400 basketball sneaker in all-black & all-white colorways.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/junya-watanabe-new-balance-p400/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "This Elegant Wild-West Jordan Sneaker Is the New Sheriff in Town",
+   "source": "Highsnobiety",
+   "date": "2026-10-11",
+   "content": "The Air Jordan 4 \"Bin 23\" is a Western-themed take on the signature sneaker, complete with never-before-seen luxurious details.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-4-bin-23-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Jordan's Ice-Cold Hoops Shoe Is a New Kind of 'Space Jam' Sneaker",
+   "source": "Highsnobiety",
+   "date": "2026-10-11",
+   "content": "The Air Jordan 41 has officially joined the \"Space Jam\" universe, landing in the 30th anniversary collection in an icy \"Light Base Grey\" colorway.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-41-space-jam/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Nike's Newest Air Max Outdoor Boot Is the Tuff-est Yet",
+   "source": "Highsnobiety",
+   "date": "2026-10-11",
+   "content": "Nike releases a new Air Max Goadome boot featuring TecTuff materials, making the ACG model more rugged than ever before.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-tectuff/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Can't Afford an S-Class? Ride Around in This adidas-Powered Mercedes Instead",
+   "source": "Highsnobiety",
+   "date": "2026-10-11",
+   "content": "The Three Stripes teams up with its official F1 partner for the Mercedes-Benz x adidas Samba Collection.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/mercedes-benz-adidas-samba-collection/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Crocs’ Tonal Pony Hair Clog Is Dressed for Sweater Weather",
+   "source": "Highsnobiety",
+   "date": "2026-10-11",
+   "content": "Crocs’ Crafted Pony Hair Clog gets a fall-ready makeover in rich brown, with a fuzzy upper that brings a cozy, textured twist to the brand’s classic silhouette.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/crocs-crafted-pony-hair-clog-espresso/",
+   "lang": "en",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Your Winter Wheat Delivery Just Landed, Courtesy of Nike",
+   "source": "Highsnobiety",
+   "date": "2026-10-11",
+   "content": "Reimagining an undisputed autumn legend just in time for the colder months, the Swoosh is bringing back a seasonal staple with the Nike Air Force 1 Low Wheat.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-foce-1-low-wheat/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 13,
    "title": "Shai Gilgeous-Alexander 透露親手繪製即將推出的 Nike SHAI 002 專屬鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-10",
@@ -55,7 +201,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 14,
    "title": "LOEWE 與 On 攜手升級 Cloudsolo 推出 $890 美元 Hiker 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-10",
@@ -66,7 +212,7 @@
    "relatedBrands": []
   },
   {
-   "id": 4,
+   "id": 15,
    "title": "BSTN 與 Salomon 全新聯乘 XT-6 IRIDESCENT 捕捉黎明破曉色彩",
    "source": "Hypebeast 中文",
    "date": "2026-10-10",
@@ -79,7 +225,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 16,
    "title": "Shai Gilgeous-Alexander Reveals He Personally Hand-Drew the Upcoming Nike SHAI 002",
    "source": "Hypebeast",
    "date": "2026-10-10",
@@ -93,7 +239,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 17,
    "title": "LOEWE and On Upgrade the Cloudsolo With a $890 USD Hiker Model",
    "source": "Hypebeast",
    "date": "2026-10-10",
@@ -106,7 +252,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 18,
    "title": "BSTN and Salomon’s XT-6 IRIDESCENT Collab Captures Daybreak Hues",
    "source": "Hypebeast",
    "date": "2026-10-10",
@@ -120,7 +266,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 19,
    "title": "Where To Buy the Air Jordan 1 High OG “Royal”",
    "source": "Nice Kicks",
    "date": "2026-10-10",
@@ -133,7 +279,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 20,
    "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-10",
@@ -147,7 +293,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 21,
    "title": "Thierry Henry 率先展示 On 首款足球鞋細節近賞",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -158,7 +304,7 @@
    "relatedBrands": []
   },
   {
-   "id": 11,
+   "id": 22,
    "title": "Salomon XT-6 GTX 最新「Stormy Weather」陰天色調發佈",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -171,7 +317,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 23,
    "title": "WILDSIDE Yohji Yamamoto 與 MOONSTAR 重新演繹「GYM CLASSIC」運動鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -182,7 +328,7 @@
    "relatedBrands": []
   },
   {
-   "id": 13,
+   "id": 24,
    "title": "Victory Lap Radio x Nike 打造 Air Force 1 Low 漆皮聯乘鞋款「Pine Green」",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -195,7 +341,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 25,
    "title": "DELUXE x SUICOKE 全新聯乘 Moccasin 鞋款向雨天與身後的人說「F*** OFF」",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -206,7 +352,7 @@
    "relatedBrands": []
   },
   {
-   "id": 15,
+   "id": 26,
    "title": "Birkenstock 為「Amsterdam Wrapped」與「Santa Clarita」披上羊毛冬裝",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -219,7 +365,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 27,
    "title": "Air Jordan 12「Obsidian」確定將於 2027 年回歸",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -233,7 +379,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 28,
    "title": "Denny's 聯乘 Mache 再次推出注入真實糖漿之 Sticky Kicks 2.0 運動鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -244,7 +390,7 @@
    "relatedBrands": []
   },
   {
-   "id": 18,
+   "id": 29,
    "title": "Thierry Henry Gives a Closer Look at On's Debut Football Boot",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -255,7 +401,7 @@
    "relatedBrands": []
   },
   {
-   "id": 19,
+   "id": 30,
    "title": "The Salomon XT-6 GTX Takes on an Overcast “Stormy Weather” Palette",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -268,7 +414,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 31,
    "title": "WILDSIDE Yohji Yamamoto and MOONSTAR Rework the GYM CLASSIC Sneaker",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -279,7 +425,7 @@
    "relatedBrands": []
   },
   {
-   "id": 21,
+   "id": 32,
    "title": "Victory Lap Radio and Nike Craft a Patent Leather Air Force 1 Low in \"Pine Green\"",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -292,7 +438,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 33,
    "title": "DELUXE x SUICOKE’s New Moccasin Tells Rain, and Everyone Behind You, to “F*** OFF”",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -303,7 +449,7 @@
    "relatedBrands": []
   },
   {
-   "id": 23,
+   "id": 34,
    "title": "Birkenstock Gives the “Amsterdam Wrapped” and “Santa Clarita” a Shearling Winter Coat",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -316,7 +462,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 35,
    "title": "Air Jordan 12 \"Obsidian\" Set to Return in 2027",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -330,7 +476,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 36,
    "title": "Denny’s and Mache Return With Real Syrup-Filled Sticky Kicks 2.0 Sneakers",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -341,7 +487,7 @@
    "relatedBrands": []
   },
   {
-   "id": 26,
+   "id": 37,
    "title": "Jordan Brand Celebrates Día de los Muertos With Just 5,026 Pairs of the Air Jordan 1 Low OG",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -354,7 +500,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 38,
    "title": "Victory Lap Radio x Nike Air Force 1 Mid “Black Patent”",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -367,7 +513,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 39,
    "title": "NIGO x J-Hope x Nike Air Force 1 Low ’01 “World Tour”",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -380,7 +526,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 40,
    "title": "Air Jordan 1 Mid SE “Space Jam” (IX6374-001) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -394,7 +540,7 @@
    ]
   },
   {
-   "id": 30,
+   "id": 41,
    "title": "Jordan Trunner O/S “Space Jam Planet” (IX6403-200) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -408,7 +554,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 42,
    "title": "Air Jordan 11 “Green Screen” (IQ5700-900) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -421,7 +567,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 43,
    "title": "Jordan Spizike Low “Jam Central” (IX6381-001) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-09",
@@ -435,21 +581,7 @@
    ]
   },
   {
-   "id": 33,
-   "title": "Jordan Son of Mars Low “Lunar Tunes” (IX6377-001) November 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-09",
-   "content": "Interested readers can expect the Jordan Son of Mars Low “Lunar Tunes” to release on November 5, 2026, via Nike.com… The post Jordan Son of Mars Low “Lunar Tunes” (IX6377-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ix6377-001-5-e1791584410781.jpg",
-   "link": "https://www.nicekicks.com/jordan-son-of-mars-low-lunar-tunes-ix6377-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 34,
+   "id": 44,
    "title": "Off-White™ 與 Zellerfeld 發佈 3D 打印「Arrows Teaser」拖鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-08",
@@ -458,57 +590,6 @@
    "link": "https://hypebeast.com/zh/2026/10/off-white-zellerfeld-arrows-teaser-slide-five-new-colorways-oat-black-yellow-stone-lilac-release-info",
    "lang": "zh",
    "relatedBrands": []
-  },
-  {
-   "id": 35,
-   "title": "New Balance’s Clean-Cut Skate Shoe Just Got a Nice Update",
-   "source": "Highsnobiety",
-   "date": "2026-09-26",
-   "content": "The New Balance Numeric Brandon Westgate 508 arrives in Reflection with Fairweather Blue, pairing a clean, understated base with subtle hits of blue.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-numeric-brandon-westgate-508/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "adidas' Bejeweled Superstar Is the Belle of the Ball",
-   "source": "Highsnobiety",
-   "date": "2026-09-26",
-   "content": "adidas just took its all-black Superstar sneaker to the jeweler & totally iced it out.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-superstar-jewel-sneaker/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 37,
-   "title": "Ronnie Fieg Knows He's Him (EXCLUSIVE)",
-   "source": "Highsnobiety",
-   "date": "2026-09-25",
-   "content": "As Kith turns 15, Ronnie Fieg is taking a well-deserved look back on his unimpeachable archive of nearly 2,000 collaborative shoes.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/kith-ronnie-fieg-15th-anniversary-interview/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 38,
-   "title": "Blue Croc Leather Boots Never Looked This Rugged",
-   "source": "Highsnobiety",
-   "date": "2026-09-25",
-   "content": "Continuing a massive year-long resurgence for the rugged silhouette, Nike drops a luxurious, low-profile iteration with the Nike Air Max Goadome Low Navy Croc.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-midnight-navy-croc/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
   }
  ]
 }
