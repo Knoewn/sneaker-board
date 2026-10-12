@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-12 11:34",
+ "updatedAt": "2026-10-13 01:11",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,7 +16,6 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
-  "BIRKENSTOCK",
   "CLARKS",
   "CONVERSE",
   "CROCS",
@@ -24,12 +23,257 @@ window.SNEAKER_DATA = {
   "NEW BALANCE",
   "NIKE",
   "SALOMON",
-  "UGG"
+  "UGG",
+  "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Crocs 為《Chainsaw Man》打造四款截然不同的 Classic Clog 聯乘鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-12",
+   "content": "名稱：《Chainsaw Man》x Crocs Classic Clog 聯乘系列建議售價：$70 至 $80 美元發售日期：10 月 27 日購買點：CrocsCrocs 將《Chainsaw Man》混亂的視覺世界注入 Classic Clog 中，推出以 Denji/Chainsaw Man、Power、Pochita 及其他角色為中心的四款聯乘系列。其中主打的 Chainsaw Man 鞋款採用最激進的設計手法，鮮紅色的鞋身配上黑黃相間的圖案條紋，鞋面飾有鋸齒狀的黑色刀片元素，前掌周圍亦有牙齒般的細節。黑色中底與深色後跟帶平衡了飽和的色彩，而 Chainsaw Man 及 Pochita 的 Jibbitz 鞋釘則增添了角色的個性。Power 版本改以灰藍色鞋身呈現，並與佈滿血紅色圖案的奶油色中底及紅色外底形成對比。鞋面交錯著半透明的紅色鏈條細節，而毛茸茸的白色後跟帶則飾有 Power 標誌性的尖角，為設計帶來富戲劇性的質感與色彩交融。Pochita 款式採用 Classic Lined Clog 鞋型，是系列中最具雕塑感的設計。鞋款以鮮橙色的鞋身重現角色，配有圖案眼睛、從鞋頭延伸的電鋸刀片，以及環繞鞋底、靈感來自拉繩的尾巴。橙色的毛絨內襯延續了角色溫暖的色調，而黑色與金屬質感的細節則強化了電鋸的主題。相比之下，Characters 款式的 Classic Clog 主要以黑色為基調，並印有 Denji、Pochita、Power、Makima 及 Aki 的圖像，配上散落的紅色潑墨效果，深色圖案細節環繞鞋底。五款以角色為主題的 Jibbitz 鞋釘進一步豐富了印花設計，營造出比單一角色款式更豐富的漫畫／動畫拼貼效果。這四款設計均保留了 Crocs 輕巧、透氣孔及可旋轉後跟帶的經典配置，而 Pochita 版本則改用 Classic Lined Clog，帶來更柔軟保暖的穿著體驗。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fchainsaw-man-crocs-classic-clog-collection-chainsaw-man-213925-90h-power-213926-90h-pochita-213928-90h-characters-213927-90h-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/chainsaw-man-crocs-classic-clog-collection-chainsaw-man-213925-90h-power-213926-90h-pochita-213928-90h-characters-213927-90h-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "JJJJound 透過全麂皮結構重新演繹 New Balance 990v3",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-12",
+   "content": "摘要 JJJJound 與 New Balance 正式揭曉採用全麂皮製作的 MADE in USA 990v3 鞋款這款聯乘波鞋完全省去傳統的網眼底層，換上純色麂皮鞋面鞋款配以對比鮮明的黑色外底、包邊與品牌標誌，預計於 10 月 22 日發售 JJJJound 與 New Balance 正式發表聯乘麂皮版 New Balance MADE in USA 990v3，並公布官方發售日期。這款即將登場的聯乘新作透過單一材質重新演繹此標誌性跑鞋輪廓，以優質的全麂皮外觀取代標準網眼結構。為探索這款經典跑鞋輪廓在全麂皮結構下所呈現的質感，此企劃捨棄傳統網眼底層，賦予鞋款更高級的特質。藉由以全單色麂皮鞋面取代常見的網眼基底，是次發布為雙方持續推出的 MADE in USA 系列注入全新材質語言。單色鞋面與對比鮮明的黑色外底、飾邊及標誌性品牌細節互相映襯，呈現出更俐落、低調的輪廓。鞋款遊走於奢華材質與運動傳統的交匯處，在熟悉的 Made in USA 機能跑鞋比例與高級設計手法中取得平衡。全新 JJJJound x New Balance MADE in USA 990v3 麂皮鞋款將於 2026 年 10 月 22 日透過 JJJJound 發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fjjjjound-new-balance-990v3-tan-suede-official-release-date-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/jjjjound-new-balance-990v3-tan-suede-official-release-date-revealed",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Nike Air Max Goadome Low 全新「Yellow Croc」配色正式登場",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-12",
+   "content": "名稱：Nike Air Max Goadome Low「Yellow Croc」配色：Vivid Sulfur/Black型號：IV4517-700建議售價：$175 美元發售日期：10 月 15 日發售地點：NikeNike 繼續重塑主打粗獷風格的 Air Max Goadome，帶來全新低筒「Yellow Croc」配色，官方命名為「Vivid Sulfur/Black」。鞋面幾乎完全由鮮艷的黃色皮革包裹，並壓印上立體鱷魚紋，令這雙傳統實用鞋款散發出更精緻、更具個性的氣息。光澤飾面突顯了鞋頭、側板及鞋跟上的鱗片紋理，而鞋領周圍較平滑的穿孔皮革則為質感帶來微妙變化。同色系縫線與鞋帶保持鞋面視覺統一，並於側邊鞋跟點綴黑色 Swoosh 標誌，與深色內裡一同與飽和的黃色形成強烈對比。在鞋底部分，設計驟然轉向黑色，厚實的 Air Max 中底、可視式氣墊與橡膠外底平衡了明亮的鞋面，同時保留了 Goadome 重裝比例的特色。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-air-max-goadome-low-yellow-croc-vivid-sulfur-black-iv4517-700-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-air-max-goadome-low-yellow-croc-vivid-sulfur-black-iv4517-700-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "SUBU x NANGA AURORA-TEX 聯乘冬季涼鞋登場",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-12",
+   "content": "名稱：NANGA x SUBU Aurora-Tex Winter Sandal配色：Black商品編號：NA2443-3E105建議售價：¥8,800 JPY（約 $55 USD）發售日期：2026 年 12 月購買地點：RakutenSUBU 與 NANGA 攜手推出 AURORA-TEX 冬季涼鞋，這款針對寒冷天氣設計的套穿式鞋款將 SUBU 標誌性的鋪棉輪廓包覆於 NANGA 專利的機能面料中。最終成就了一雙專為冬季穿著設計的涼鞋，無論是露營地的清晨還是到街角便利店的短暫外出皆能輕鬆應對。鞋面完全採用尼龍製成，並經過 AURORA-TEX 處理，這是 NANGA 為自家戶外裝備研發的防水透氣物料。這種面料有助防止雨水浸透，同時讓濕氣排出，這對於一雙專為赤腳穿著而設的鞋履來說至關重要。全黑外殼帶來俐落實用的外觀。涼鞋的內部更是展現其冬季保暖實力的地方。NANGA 與 SUBU 採用印有抽象迷彩圖案的拉絨起毛布料作為鞋床區域的內襯，為內部帶來柔軟觸感，並有效保留體溫。腳下的四層鞋墊提供了深層緩震效果，感覺更接近拖鞋而非一般涼鞋。合成外底則負責提供抓地力及耐用度。尺寸方面沿用 SUBU 的三段式系統，保持靈活貼合且適合男女穿著。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FftNanga-SUBU-Auror-tex-Winter-Sandal-NA2443-3E105-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nanga-subu-auror-tex-winter-sandal-na2443-3e105-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 5,
+   "title": "Crocs Gives ‘Chainsaw Man’ Four Wildly Different Classic Clogs",
+   "source": "Hypebeast",
+   "date": "2026-10-12",
+   "content": "Name: ‘Chainsaw Man’ x Crocs Classic Clog CollectionMSRP: $70 - $80 USDRelease Date: October 27Where to Buy: CrocsCrocs is bringing the chaotic visual world of Chainsaw Man to the Classic Clog with a four-style collection centered on Denji/Chainsaw Man, Power, Pochita and the wider cast.The main Chainsaw Man pair takes the most aggressive approach, dressing the clog in vivid red with black and yellow graphic striping, jagged black blade-like elements running along the upper and tooth-like detailing around the forefoot. Black tooling and a dark heel strap ground the saturated finish, while Chainsaw Man and Pochita Jibbitz charms add another character-driven layer. Power’s edition shifts into a dusty blue upper contrasted by cream tooling splashed with blood-red graphics and a red outsole. Translucent red chain detailing crosses the vamp, while the fuzzy white heel strap is finished with P",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F12%2Fchainsaw-man-crocs-classic-clog-collection-chainsaw-man-213925-90h-power-213926-90h-pochita-213928-90h-characters-213927-90h-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/chainsaw-man-crocs-classic-clog-collection-chainsaw-man-213925-90h-power-213926-90h-pochita-213928-90h-characters-213927-90h-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "JJJJound Reimagines the New Balance 990v3 With an All-Suede Construction",
+   "source": "Hypebeast",
+   "date": "2026-10-12",
+   "content": "Summary JJJJound and New Balance have unveiled an all-suede iteration of the MADE in USA 990v3 silhouetteThe collaborative sneaker completely removes traditional mesh underlays for a full monochromatic suede upperThe pair features contrasting black outsoles trims and branding and is scheduled to release on October 22 JJJJound and New Balance have officially presented the collaborative New Balance MADE in USA 990v3 in suede, revealing the official release date. The upcoming collaboration reimagines the iconic running silhouette through a singular material expression, replacing its standard mesh construction with a premium, all-suede finish.Designed to explore how the heritage running silhouette feels when constructed entirely in suede, the project eliminates traditional mesh underlays to give the sneaker a more elevated character. By substituting the usual mesh base for a full monochromat",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F11%2Fjjjjound-new-balance-990v3-tan-suede-official-release-date-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/jjjjound-new-balance-990v3-tan-suede-official-release-date-revealed",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "The Nike Air Max Goadome Low Goes Bold in “Yellow Croc”",
+   "source": "Hypebeast",
+   "date": "2026-10-12",
+   "content": "Name: Nike Air Max Goadome Low “Yellow Croc”Colorway: Vivid Sulfur/BlackSKU: IV4517-700MSRP: $175 USDRelease Date: October 15Where to Buy: NikeNike continues to reshape the rugged Air Max Goadome for lifestyle wear with a new low-top “Yellow Croc” edition, officially dressed in a \"Vivid Sulfur/Black\" color palette. The upper is almost entirely wrapped in vivid yellow leather embossed with a pronounced crocodile pattern, giving the traditionally utilitarian silhouette a much more polished, statement-driven character.A glossy finish emphasizes the raised scales across the toe box, side panels and heel, while smoother perforated leather around the collar adds a subtle change in texture. Tonal stitching and laces keep the upper visually cohesive, leaving a small black Swoosh near the lateral heel and the dark interior lining to provide the strongest contrast against the saturated yellow.Unde",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F12%2Fnike-air-max-goadome-low-yellow-croc-vivid-sulfur-black-iv4517-700-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-air-max-goadome-low-yellow-croc-vivid-sulfur-black-iv4517-700-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "SUBU x NANGA’s AURORA-TEX Winter Sandal Is Built to Brave Sockless Cold",
+   "source": "Hypebeast",
+   "date": "2026-10-12",
+   "content": "Name: NANGA x SUBU Aurora-Tex Winter SandalColorway: BlackSKU: NA2443-3E105MSRP: ¥8,800 JPY (approx. $55 USD)Release Date: December 2026Where to Buy: RakutenSUBU and NANGA have joined forces on the AURORA-TEX Winter Sandal, a cold-weather slip-on that wraps SUBU’s padded silhouette in NANGA’s proprietary technical fabric. The result is a sandal designed for winter wear, whether that means a campsite morning or a quick run to the corner store.The upper is made entirely of nylon and treated with AURORA-TEX, the waterproof and breathable material NANGA developed for its own outdoor gear. The fabric helps keep rain from soaking through while letting moisture escape, which matters for a shoe made to be worn without socks. Black covers the whole shell for a clean, utilitarian look.The inside is where the sandal earns its winter credentials. NANGA and SUBU line the footbed area with a brushed, ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F12%2FftNanga-SUBU-Auror-tex-Winter-Sandal-NA2443-3E105-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nanga-subu-auror-tex-winter-sandal-na2443-3e105-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 9,
+   "title": "APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-12",
+   "content": "The APB x Air Jordan 11 Low “Made For Locals” is expected to release October 23, 2026, via The Whitaker Group retail… The post APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/IMG_3802-1-scaled-e1791824411985.jpg",
+   "link": "https://www.nicekicks.com/apb-air-jordan-11-low-made-for-locals-iu8266-400/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Nike KD 19 “Halloween” (IO8112-600) October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-12",
+   "content": "The Nike KD 19 “Halloween” is set to release on October 23, 2026, via Nike.com and select retailers for $170. Check out the photos below… The post Nike KD 19 “Halloween” (IO8112-600) October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/io8112-600-5-1-e1791815562411.jpg",
+   "link": "https://www.nicekicks.com/nike-kd-19-halloween-io8112-600/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "S.F.T.M. x adidas Samba OG “Core Black”",
+   "source": "Nice Kicks",
+   "date": "2026-10-12",
+   "content": "The S.F.T.M. x adidas Samba OG “Core Black” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out the… The post S.F.T.M. x adidas Samba OG “Core Black” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/HQ7600_6-1-e1791814745837.jpg",
+   "link": "https://www.nicekicks.com/s-f-t-m-adidas-samba-og-core-black-hq7600/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "S.F.T.M. x adidas Samba OG “Base Green”",
+   "source": "Nice Kicks",
+   "date": "2026-10-12",
+   "content": "The S.F.T.M. x adidas Samba OG “Base Green” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out the… The post S.F.T.M. x adidas Samba OG “Base Green” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/HP8257_6-1-e1791814613994.jpg",
+   "link": "https://www.nicekicks.com/s-f-t-m-adidas-samba-og-base-green-hp8257/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "S.F.T.M. x adidas Samba OG “Supplier Colour”",
+   "source": "Nice Kicks",
+   "date": "2026-10-12",
+   "content": "The S.F.T.M. x adidas Samba OG “Supplier Colour” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out the… The post S.F.T.M. x adidas Samba OG “Supplier Colour” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/HP8256_6-1-e1791814489230.jpg",
+   "link": "https://www.nicekicks.com/s-f-t-m-x-adidas-samba-og-supplier-colour-hp8256/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "S.F.T.M. x adidas SL 72 PRO “Wild Teal”",
+   "source": "Nice Kicks",
+   "date": "2026-10-12",
+   "content": "The S.F.T.M. x adidas SL 72 PRO “Wild Teal” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out… The post S.F.T.M. x adidas SL 72 PRO “Wild Teal” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/HQ7603_6-1-e1791814283683.jpg",
+   "link": "https://www.nicekicks.com/s-f-t-m-adidas-sl-72-pro-wild-teal-hq7603/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "S.F.T.M. x adidas SL 72 PRO “Cream White”",
+   "source": "Nice Kicks",
+   "date": "2026-10-12",
+   "content": "The S.F.T.M. x adidas SL 72 PRO “Cream White” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out… The post S.F.T.M. x adidas SL 72 PRO “Cream White” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/HQ7605_6-1-e1791814134230.jpg",
+   "link": "https://www.nicekicks.com/s-f-t-m-adidas-sl-72-pro-cream-white-hq7605/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Air Jordan 5 “Halloween” (HQ7978-001) October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-12",
+   "content": "Inspiration Behind the Haunting Jordan Brand has been leaning into holiday-themed releases for years, but the Halloween colorway concept has… The post Air Jordan 5 “Halloween” (HQ7978-001) October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/hq7978-001-1-e1791251542242.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-5-halloween-hq7978-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Supreme x Martine Rose x Nike Dunk Low “Tyson”",
+   "source": "Nice Kicks",
+   "date": "2026-10-12",
+   "content": "The Supreme x Martine Rose x Nike Dunk Low “Tyson” is set to release on October 15, 2026, via Supreme.com and select… The post Supreme x Martine Rose x Nike Dunk Low “Tyson” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/imgi_2_61162f46fd021e3d07b8d430cde6dab1a5a36cbc-1536x2048-2-e1791810879980.jpg",
+   "link": "https://www.nicekicks.com/supreme-martine-rose-nike-dunk-low-tyson-ja1868-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Vans’ Tabi Surf Boot Finally Gets on Board",
+   "source": "Highsnobiety",
+   "date": "2026-10-12",
+   "content": "Vans' tabi-style Surf Bootie 3 MM is a typical Vans shredder made for the water.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-surf-bootie-3-mm/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Nike’s Luxe Runner Comes Out of Its (Tortoise) Shell",
+   "source": "Highsnobiety",
+   "date": "2026-10-12",
+   "content": "With Nike's \"Tortoise Shell\" Zoom Vomero 5 sneaker, the Swoosh is the star of the show.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-sneaker-tortoise-shell/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 20,
    "title": "New Balance Came in a Typically Grown-Up Halloween Costume",
    "source": "Highsnobiety",
    "date": "2026-10-12",
@@ -42,7 +286,100 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 21,
+   "title": "UGG’s Waterproof Slippers Can Handle Winter's Worst",
+   "source": "Highsnobiety",
+   "date": "2026-10-12",
+   "content": "UGG releases the Tasman Guard GTX shoe, a waterproof winterized slip-on with Vibram soles & mudguards.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/ugg-tasman-guard-gtx/",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Nike’s Textured Chocolate Jordan Has Us Feeling Peckish",
+   "source": "Highsnobiety",
+   "date": "2026-10-12",
+   "content": "Nike’s Air Jordan Skyline Low LE gets a rich, chocolate-inspired makeover, pairing creamy neutrals with textured brown details for an easy fall-ready sneaker.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-jordan-skyline-low-le/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Junya Watanabe’s New Balance Basketball Shoe Is So Fresh (Foam), So Clean",
+   "source": "Highsnobiety",
+   "date": "2026-10-12",
+   "content": "Junya Watanabe MAN releases its dressy FW26 New Balance P400 basketball sneaker in all-black & all-white colorways.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/junya-watanabe-new-balance-p400/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "This Elegant Wild-West Jordan Sneaker Is the New Sheriff in Town",
+   "source": "Highsnobiety",
+   "date": "2026-10-12",
+   "content": "The Air Jordan 4 \"Bin 23\" is a Western-themed take on the signature sneaker, complete with never-before-seen luxurious details.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-4-bin-23-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Jordan's Ice-Cold Hoops Shoe Is a New Kind of 'Space Jam' Sneaker",
+   "source": "Highsnobiety",
+   "date": "2026-10-12",
+   "content": "The Air Jordan 41 has officially joined the \"Space Jam\" universe, landing in the 30th anniversary collection in an icy \"Light Base Grey\" colorway.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-41-space-jam/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Nike's Newest Air Max Outdoor Boot Is the Tuff-est Yet",
+   "source": "Highsnobiety",
+   "date": "2026-10-12",
+   "content": "Nike releases a new Air Max Goadome boot featuring TecTuff materials, making the ACG model more rugged than ever before.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-tectuff/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 27,
+   "title": "Can't Afford an S-Class? Ride Around in This adidas-Powered Mercedes Instead",
+   "source": "Highsnobiety",
+   "date": "2026-10-12",
+   "content": "The Three Stripes teams up with its official F1 partner for the Mercedes-Benz x adidas Samba Collection.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/mercedes-benz-adidas-samba-collection/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 28,
    "title": "Wasted Paris x Clarks Originals Pack Britpop Memorabilia Into a Customizable Wallabee Lite",
    "source": "Hypebeast",
    "date": "2026-10-11",
@@ -55,7 +392,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 29,
    "title": "Nike Air Max 95 Big Bubble OG “Escape”",
    "source": "Nice Kicks",
    "date": "2026-10-11",
@@ -68,126 +405,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
-   "title": "UGG’s Waterproof Slippers Can Handle Winter's Worst",
-   "source": "Highsnobiety",
-   "date": "2026-10-11",
-   "content": "UGG releases the Tasman Guard GTX shoe, a waterproof winterized slip-on with Vibram soles & mudguards.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/ugg-tasman-guard-gtx/",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 5,
-   "title": "Nike’s Textured Chocolate Jordan Has Us Feeling Peckish",
-   "source": "Highsnobiety",
-   "date": "2026-10-11",
-   "content": "Nike’s Air Jordan Skyline Low LE gets a rich, chocolate-inspired makeover, pairing creamy neutrals with textured brown details for an easy fall-ready sneaker.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-jordan-skyline-low-le/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 6,
-   "title": "Junya Watanabe’s New Balance Basketball Shoe Is So Fresh (Foam), So Clean",
-   "source": "Highsnobiety",
-   "date": "2026-10-11",
-   "content": "Junya Watanabe MAN releases its dressy FW26 New Balance P400 basketball sneaker in all-black & all-white colorways.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/junya-watanabe-new-balance-p400/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 7,
-   "title": "This Elegant Wild-West Jordan Sneaker Is the New Sheriff in Town",
-   "source": "Highsnobiety",
-   "date": "2026-10-11",
-   "content": "The Air Jordan 4 \"Bin 23\" is a Western-themed take on the signature sneaker, complete with never-before-seen luxurious details.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-4-bin-23-sneakers/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 8,
-   "title": "Jordan's Ice-Cold Hoops Shoe Is a New Kind of 'Space Jam' Sneaker",
-   "source": "Highsnobiety",
-   "date": "2026-10-11",
-   "content": "The Air Jordan 41 has officially joined the \"Space Jam\" universe, landing in the 30th anniversary collection in an icy \"Light Base Grey\" colorway.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-41-space-jam/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 9,
-   "title": "Nike's Newest Air Max Outdoor Boot Is the Tuff-est Yet",
-   "source": "Highsnobiety",
-   "date": "2026-10-11",
-   "content": "Nike releases a new Air Max Goadome boot featuring TecTuff materials, making the ACG model more rugged than ever before.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-tectuff/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 10,
-   "title": "Can't Afford an S-Class? Ride Around in This adidas-Powered Mercedes Instead",
-   "source": "Highsnobiety",
-   "date": "2026-10-11",
-   "content": "The Three Stripes teams up with its official F1 partner for the Mercedes-Benz x adidas Samba Collection.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/mercedes-benz-adidas-samba-collection/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 11,
-   "title": "Crocs’ Tonal Pony Hair Clog Is Dressed for Sweater Weather",
-   "source": "Highsnobiety",
-   "date": "2026-10-11",
-   "content": "Crocs’ Crafted Pony Hair Clog gets a fall-ready makeover in rich brown, with a fuzzy upper that brings a cozy, textured twist to the brand’s classic silhouette.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/crocs-crafted-pony-hair-clog-espresso/",
-   "lang": "en",
-   "relatedBrands": [
-    "CROCS"
-   ]
-  },
-  {
-   "id": 12,
-   "title": "Your Winter Wheat Delivery Just Landed, Courtesy of Nike",
-   "source": "Highsnobiety",
-   "date": "2026-10-11",
-   "content": "Reimagining an undisputed autumn legend just in time for the colder months, the Swoosh is bringing back a seasonal staple with the Nike Air Force 1 Low Wheat.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-foce-1-low-wheat/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 13,
+   "id": 30,
    "title": "Shai Gilgeous-Alexander 透露親手繪製即將推出的 Nike SHAI 002 專屬鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-10",
@@ -201,7 +419,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 31,
    "title": "LOEWE 與 On 攜手升級 Cloudsolo 推出 $890 美元 Hiker 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-10",
@@ -212,7 +430,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 15,
+   "id": 32,
    "title": "BSTN 與 Salomon 全新聯乘 XT-6 IRIDESCENT 捕捉黎明破曉色彩",
    "source": "Hypebeast 中文",
    "date": "2026-10-10",
@@ -225,7 +443,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 33,
    "title": "Shai Gilgeous-Alexander Reveals He Personally Hand-Drew the Upcoming Nike SHAI 002",
    "source": "Hypebeast",
    "date": "2026-10-10",
@@ -239,7 +457,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 34,
    "title": "LOEWE and On Upgrade the Cloudsolo With a $890 USD Hiker Model",
    "source": "Hypebeast",
    "date": "2026-10-10",
@@ -252,7 +470,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 35,
    "title": "BSTN and Salomon’s XT-6 IRIDESCENT Collab Captures Daybreak Hues",
    "source": "Hypebeast",
    "date": "2026-10-10",
@@ -266,34 +484,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
-   "title": "Where To Buy the Air Jordan 1 High OG “Royal”",
-   "source": "Nice Kicks",
-   "date": "2026-10-10",
-   "content": "The History of an OG Colorway Peter Moore designed the Air Jordan 1 in 1985 as the shoe that launched… The post Where To Buy the Air Jordan 1 High OG “Royal” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/08/iq5495-005-2-e1787756442124.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-1-high-og-royal-iq5495-005/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-10",
-   "content": "The Air Jordan 12 “Fireside” is set to release on October 24, 2026, via Nike.com and select retailers for $215.… The post Air Jordan 12 “Fireside” October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ct8013-105-5-1-e1791640160431.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 21,
+   "id": 36,
    "title": "Thierry Henry 率先展示 On 首款足球鞋細節近賞",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -304,7 +495,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 22,
+   "id": 37,
    "title": "Salomon XT-6 GTX 最新「Stormy Weather」陰天色調發佈",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -317,7 +508,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 38,
    "title": "WILDSIDE Yohji Yamamoto 與 MOONSTAR 重新演繹「GYM CLASSIC」運動鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -328,7 +519,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 24,
+   "id": 39,
    "title": "Victory Lap Radio x Nike 打造 Air Force 1 Low 漆皮聯乘鞋款「Pine Green」",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -341,7 +532,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 40,
    "title": "DELUXE x SUICOKE 全新聯乘 Moccasin 鞋款向雨天與身後的人說「F*** OFF」",
    "source": "Hypebeast 中文",
    "date": "2026-10-09",
@@ -352,45 +543,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 26,
-   "title": "Birkenstock 為「Amsterdam Wrapped」與「Santa Clarita」披上羊毛冬裝",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-09",
-   "content": "名稱： Birkenstock Amsterdam Wrapped Shearling Upper、BIRKENSTOCK Santa Clarita Shearling Upper配色： Anthracite、Gray Taupe、Sandcastle型號： S005512、S005522建議售價： ¥31,900 JPY（約 $200 USD）、¥33,000 JPY（約 $210 USD）發售日期： 現已發售購買渠道： BIRKENSTOCK 日本Birkenstock 為專為寒冷季節打造的包頭鞋款「Amsterdam Wrapped」與「Santa Clarita」推出羊毛版本。兩者皆採用 Gray Taupe 色調的小羊皮羊毛製成，並搭載作為品牌核心的符合人體工學軟木鞋床。「Amsterdam Wrapped」以其結構為特色。以極簡的「Amsterdam」為基礎，採用一體成型的無縫鞋面，從兩側延伸並環繞腳跟，無需額外的綁帶或裁片即可穩固包覆雙腳。此設計自推出以來便在世界各地累積了一眾擁躉，成為本季的亮眼之作。全新版本將這種包覆輪廓以柔軟的羊毛呈現，在保持俐落外型的同時增添溫暖與質感。「Santa Clarita」則展現更柔和、更具女性氣質的風格。鞋款採用 Mary Jane 輪廓，配備圓頭設計與橫跨腳背的纖幼綁帶，並以借鑒 Birkenstock 經典 D 型扣環的搭扣固定。除了視覺上的點綴，綁帶更能穩固雙腳，帶來貼合舒適的穿著體驗。小羊皮羊毛鞋面提供天然保暖與排濕效果，而此鞋款亦於葡萄牙製造。兩款鞋的底部均採用相同基礎。兩者皆搭載 Birkenstock 以天然軟木與橡膠混合製成的立體鞋床，這種可再生材質具備保暖與避震功能。鞋床於德國製造，頂部覆有麂皮鞋墊，其中「Santa Clarita」的鞋床更可拆卸。兩款鞋均配備 EVA 外底，確保在不平坦的地面上依然輕盈且具備緩震效果。兩款型號均提供標準及窄版寬度可供選擇，其中「Amsterdam Wrapped」相比「Santa Clarita」提供更廣泛的男女通用尺寸。 Click here to view fu",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FftBIRKENSTOCK-Amsterdam-Wrapped-Santa-Clarita-shearling-upper-S005512-S005522-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/birkenstock-amsterdam-wrapped-santa-clarita-shearling-upper-s005512-s005522-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "BIRKENSTOCK"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "Air Jordan 12「Obsidian」確定將於 2027 年回歸",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-09",
-   "content": "摘要 Jordan Brand 將於 2027 年帶回元祖級 Air Jordan 12「Obsidian」鞋款由 Tinker Hatfield 設計，採用深海軍藍色皮革鞋面，搭配白色擋泥板並以 Carolina blue 點綴這款高筒復刻鞋款標誌著該配色自 2012 年以來首次重返貨架 名稱：Air Jordan 12「Obsidian」配色：Obsidian/French Blue-University Blue-White編號：CT8013-401售價：215 美元發售日期：2027 年 1 月 27 日發售地點：NikeJordan Brand 官方宣布，經典 Air Jordan 12「Obsidian」將於 2027 年初正式回歸。這將是自 2012 年復刻以來，這款元祖高筒配色事隔 15 年首度重返零售市場。首見於 1997 年的「Obsidian」在 Air Jordan 12 系列中地位獨特，皆因它是少數沒有採用傳統 Chicago Bulls 配色的元祖鞋款。由 Tinker Hatfield 操刀設計，鞋身採用靈感源自日本旭日旗的縫線皮革裁片，搭配純白色擋泥板，並在品牌標誌細節點綴上淡淡的 Carolina Blue。2027 年版本忠於原版設定，還原深海軍藍皮革基底、質感豐富的白色擋泥板及標誌性的縫線細節。雖然 Air Jordan 12 Low 曾在 2004 年發售，而高筒版本則在 2012 年復刻過，但這款配色依然是 Michael Jordan 簽名系列中，最具辨識度的非實戰著用鞋款之一。Air Jordan 12「Obsidian」將於 2027 年 1 月 23 日正式發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fair-jordan-12-obsidian-CT8013-401-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/air-jordan-12-obsidian-ct8013-401-first-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "Denny's 聯乘 Mache 再次推出注入真實糖漿之 Sticky Kicks 2.0 運動鞋",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-09",
-   "content": "摘要 Denny's 與度身訂製鞋履藝術家 Dan \"Mache\" Gamache 再度合作，推出「Sticky Kicks 2.0」這款運動鞋的特色在於鞋舌、側邊面板和鞋領內嵌入了真正的液體楓糖漿此鞋款將於 10 月 9 日深夜的 3 小時時段內限定上架，專供 Denny's Rewards 會員獨家選購 Denny's 與度身訂製鞋款設計師 Dan \"Mache\" Gamache 官方宣布推出 Sticky Kicks 2.0，將真實的流動楓糖漿直接注入鞋身結構之中。繼初代鞋款於 60 秒內售罄後，這款續作將於 2026 年 10 月 9 日登場，以慶祝 National Sneaker Day。這款以美式餐廳為靈感的運動鞋，在鞋舌、側面及腳踝鞋領處設有半透明的液體氣室，內含真實的 Denny's 楓糖漿。鞋款底部採用黃色外底，飾有手工潑灑的糖漿效果，並配上藍莓色的鞋帶、專屬金屬配件，以及帶有糖漿香味的吊牌，一開箱便散發出金黃糖漿的香氣。每對鞋的吊牌上均附有可掃描的二維碼，擁有者在指定 Denny's 餐廳購買 Grand Slamwich 時，即可免費獲贈兩份 Buttermilk Pancakes。為獲取購買資格，消費者必須在 10 月 8 日前註冊成為 Denny's Rewards 會員，並選擇接收短訊，以獲取必要的驗證碼。Denny's x Mache Sticky Kicks 2.0 將於 2026 年 10 月 9 日發售，定價為 $195 美元，並於美國東岸時間凌晨 12 時至 3 時期間，透過 DinerDrip.com 獨家開放予 Denny's Rewards 會員購買。 View this post on InstagramA post shared by Mache (@mache275) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fdennys-mache-return-real-syrup-filled-sticky-kicks-2-0-sneakers-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/dennys-mache-return-real-syrup-filled-sticky-kicks-2-0-sneakers-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 29,
+   "id": 41,
    "title": "Thierry Henry Gives a Closer Look at On's Debut Football Boot",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -401,7 +554,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 30,
+   "id": 42,
    "title": "The Salomon XT-6 GTX Takes on an Overcast “Stormy Weather” Palette",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -414,7 +567,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 43,
    "title": "WILDSIDE Yohji Yamamoto and MOONSTAR Rework the GYM CLASSIC Sneaker",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -425,7 +578,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 32,
+   "id": 44,
    "title": "Victory Lap Radio and Nike Craft a Patent Leather Air Force 1 Low in \"Pine Green\"",
    "source": "Hypebeast",
    "date": "2026-10-09",
@@ -436,160 +589,6 @@ window.SNEAKER_DATA = {
    "relatedBrands": [
     "NIKE"
    ]
-  },
-  {
-   "id": 33,
-   "title": "DELUXE x SUICOKE’s New Moccasin Tells Rain, and Everyone Behind You, to “F*** OFF”",
-   "source": "Hypebeast",
-   "date": "2026-10-09",
-   "content": "Name: DELUXE x SUICOKE MoccasinColorway: BlackSKU: TBCMSRP: TBCRelease Date: October 10Where to Buy: DELUXEDELUXE and SUICOKE have reunited on an all-weather moccasin that merges functional design with a sharper edge. The latest chapter in the two labels’ ongoing collaboration takes a familiar slip-on silhouette and reworks it for wet, unpredictable conditions, then finishes it with a dose of DELUXE’s signature irreverence.The upper sets the tone. Cut from a substantial, all-black leather, it has been treated to repel water, giving the moccasin a heavier, more protective presence than the lightweight slip-ons the category is usually known for.Weatherproofing continues on the inside. The shoe is lined with SUICOKE SHERPA, the brand’s proprietary material engineered to block moisture from getting in while still letting the foot breathe. That combination is what pushes the moccasin into all",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F09%2FftDELUXE-SUICOKE-Moccasin-Collaboration-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/deluxe-suicoke-moccasin-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 34,
-   "title": "Birkenstock Gives the “Amsterdam Wrapped” and “Santa Clarita” a Shearling Winter Coat",
-   "source": "Hypebeast",
-   "date": "2026-10-09",
-   "content": "Name: Birkenstock Amsterdam Wrapped Shearling Upper, BIRKENSTOCK Santa Clarita Shearling UpperColorway: Anthracite, Gray Taupe, SandcastleSKU: S005512, S005522MSRP: ¥31,900 JPY (approx. $200 USD), ¥33,000 JPY (approx. $210 USD)Release Date: Available nowWhere to Buy: BIRKENSTOCK JapanBirkenstock has introduced shearling versions of the Amsterdam Wrapped and the Santa Clarita, two closed-toe styles built for the colder months. Both are finished in a Gray Taupe lambskin shearling and rest on the anatomically shaped cork footbed that underpins the brand’s catalog.The Amsterdam Wrapped is defined by its construction. Building on the pared-back Amsterdam, it uses a single continuous upper that extends along both sides and curves around the heel, giving the shoe a secure hold without extra straps or panels. The design has become one of the season’s standout releases and has built a global foll",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F09%2FftBIRKENSTOCK-Amsterdam-Wrapped-Santa-Clarita-shearling-upper-S005512-S005522-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/birkenstock-amsterdam-wrapped-santa-clarita-shearling-upper-s005512-s005522-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "BIRKENSTOCK"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "Air Jordan 12 \"Obsidian\" Set to Return in 2027",
-   "source": "Hypebeast",
-   "date": "2026-10-09",
-   "content": "Summary Jordan Brand is bringing back the original Air Jordan 12 \"Obsidian\" for a 2027 releaseDesigned by Tinker Hatfield the sneaker features a dark navy leather upper with white mudguards and Carolina blue accentsThe high-top retro marks the colorway's first return to shelves since 2012 Name: Air Jordan 12 \"Obsidian\"Colorway: Obsidian/French Blue-University Blue-WhiteSKU: CT8013-401MSRP: $215 USDRelease Date: January 27, 2027Where to Buy: NikeJordan Brand is officially bringing back the classic Air Jordan 12 \"Obsidian\" for a early 2027 release. The return marks the first time the original high-top colorway has been available at retail in 15 years following its last retro run in 2012.First introduced in 1997, the \"Obsidian\" silhouette holds a distinct position in the Air Jordan 12 lineage as one of the few original colorways that eschewed traditional Chicago Bulls colors. Designed by Ti",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Fair-jordan-12-obsidian-CT8013-401-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/air-jordan-12-obsidian-ct8013-401-first-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "Denny’s and Mache Return With Real Syrup-Filled Sticky Kicks 2.0 Sneakers",
-   "source": "Hypebeast",
-   "date": "2026-10-09",
-   "content": "Summary Denny's and custom footwear artist Dan \"Mache\" Gamache have reunited to release the Sticky Kicks 2.0The sneaker features real liquid maple syrup embedded inside the tongues side panels and collarThe release drops October 9 exclusively for Denny's Rewards members during a three-hour late-night window Denny's and custom footwear designer Dan \"Mache\" Gamache have officially unveiled the Sticky Kicks 2.0, featuring real liquid maple syrup built directly into the sneaker's construction. The sequel silhouette arrives in celebration of National Sneaker Day on October 9, 2026, following the original pair's 60-second sellout.The diner-inspired sneaker houses real Denny's maple syrup within translucent liquid-filled chambers across the tongues, side panels, and ankle collar. Down below, the shoe features a yellow outsole detailed with a hand-splattered syrup effect, complemented by blueber",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Fdennys-mache-return-real-syrup-filled-sticky-kicks-2-0-sneakers-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/dennys-mache-return-real-syrup-filled-sticky-kicks-2-0-sneakers-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 37,
-   "title": "Jordan Brand Celebrates Día de los Muertos With Just 5,026 Pairs of the Air Jordan 1 Low OG",
-   "source": "Nice Kicks",
-   "date": "2026-10-09",
-   "content": "The Air Jordan 1 Low OG “Somos Historias” celebrates Día de los Muertos with a design rooted in Mexican heritage,… The post Jordan Brand Celebrates Día de los Muertos With Just 5,026 Pairs of the Air Jordan 1 Low OG appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/iz4686-216-5-2-e1791583365212.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-1-low-og-somos-historias-iz4686-216/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "Victory Lap Radio x Nike Air Force 1 Mid “Black Patent”",
-   "source": "Nice Kicks",
-   "date": "2026-10-09",
-   "content": "Victory Lap Radio brings its London underground music influence to the Nike Air Force 1 Mid with a sleek all-black… The post Victory Lap Radio x Nike Air Force 1 Mid “Black Patent” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ja7806-001-5-1-e1791570893765.jpg",
-   "link": "https://www.nicekicks.com/victory-lap-radio-nike-air-force-1-mid-black-patent-ja7806-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "NIGO x J-Hope x Nike Air Force 1 Low ’01 “World Tour”",
-   "source": "Nice Kicks",
-   "date": "2026-10-09",
-   "content": "NIGO and BTS’ j-hope come together to reimagine the iconic Nike Air Force 1 Low, bringing their shared creative vision… The post NIGO x J-Hope x Nike Air Force 1 Low ’01 “World Tour” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/io8766-800-1-e1791562783330.jpg",
-   "link": "https://www.nicekicks.com/nigo-j-hope-nike-air-force-1-low-01-world-tour-io8766-800/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Air Jordan 1 Mid SE “Space Jam” (IX6374-001) November 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-09",
-   "content": "Interested readers can expect the Air Jordan 1 Mid SE “Space Jam” to release on November 5, 2026, via Nike.com… The post Air Jordan 1 Mid SE “Space Jam” (IX6374-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ix6374-001-5-1-e1791403965528.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-1-mid-se-space-jam-ix6374-001-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "Jordan Trunner O/S “Space Jam Planet” (IX6403-200) November 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-09",
-   "content": "Readers can expect the Jordan Trunner O/S “Space Jam Planet” to release on November 5, 2026, via Nike.com and select retailers for… The post Jordan Trunner O/S “Space Jam Planet” (IX6403-200) November 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ix6403-200-5-1-e1791558263513.jpg",
-   "link": "https://www.nicekicks.com/jordan-trunner-o-s-space-jam-planet-ix6403-200/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 42,
-   "title": "Air Jordan 11 “Green Screen” (IQ5700-900) November 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-09",
-   "content": "The Inspiration Behind the Air Jordan 11 “Green Screen” This year marks thirty years since Space Jam first hit theaters,… The post Air Jordan 11 “Green Screen” (IQ5700-900) November 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/08/IMG_3592-e1791242396560.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-11-green-screen-iq5700-900/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 43,
-   "title": "Jordan Spizike Low “Jam Central” (IX6381-001) November 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-09",
-   "content": "Readers can expect the Jordan Spizike Low “Jam Central” to release on November 5, 2026, via Nike.com and select retailers for $165.… The post Jordan Spizike Low “Jam Central” (IX6381-001) November 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ix6381-001-5-1-e1791557494907.jpg",
-   "link": "https://www.nicekicks.com/jordan-spizike-low-jam-central-ix6381-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 44,
-   "title": "Off-White™ 與 Zellerfeld 發佈 3D 打印「Arrows Teaser」拖鞋",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-08",
-   "content": "摘要 Off-White 與 Zellerfeld 首度攜手合作，推出 「Arrows Teaser」3D 打印拖鞋鞋款輪廓在外側融合了 Off-White 的箭頭標誌圖案，並搭配棋盤格紋理質感此拖鞋將推出 5 款配色，首 100 雙更將附有由 700x100 打造的度身訂製包裝 Off-White™ 與 Zellerfeld 正式發佈首個聯乘企劃，帶來 Off-White™ x Zellerfeld「Arrows Teaser」拖鞋。這款 3D 打印鞋款是 Off-White™ 的技術里程碑，標誌著品牌在 Bluestar Alliance 旗下探索全新的設計方向。鞋款外側融入了 Off-White™ 標誌性的箭頭圖案，並無縫成型於 Zellerfeld 的全 3D 打印結構之中。鞋面採用猶如棋盤格般的觸感飾面，呼應長久以來作為 Off-White™ 設計語言基礎的賽車風格圖案。鞋款共推出「Oat」、「Black」、「Yellow」、「Stone」及「Lilac」5 種配色，將奢華街頭美學與積層製造技術互相融合。為慶祝是次發佈，首 100 張訂單將附送特別版收藏鞋盒，當中印有由 700×100 創作的雙面藝術圖案。Off-White™ x Zellerfeld「Arrows Teaser」拖鞋全數 5 款配色現已透過 Zellerfeld 發售，定價為 $159 美元。 View this post on InstagramA post shared by Off-White™ (@off____white) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Foff-white-zellerfeld-arrows-teaser-slide-five-new-colorways-oat-black-yellow-stone-lilac-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/off-white-zellerfeld-arrows-teaser-slide-five-new-colorways-oat-black-yellow-stone-lilac-release-info",
-   "lang": "zh",
-   "relatedBrands": []
   }
  ]
 };
