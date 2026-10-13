@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-13 12:48",
+ "updatedAt": "2026-10-13 23:27",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,13 +16,15 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
+  "ASICS",
   "CLARKS",
   "CONVERSE",
   "CROCS",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
-  "SALOMON",
+  "PRADA",
+  "REEBOK",
   "UGG",
   "VANS"
  ],
@@ -30,6 +32,82 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Prada 經典 America's Cup 運動鞋秋季全新配色登場",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-13",
+   "content": "名稱： Prada America's Cup 運動鞋配色： Teak/Blue、Cacao/Bordeaux編號： 待定定價： 待定發售日期： 10 月 13 日發售點： PradaPrada 重新演繹品牌最具代表性的鞋款之一，為 America’s Cup 運動鞋推出全新版本，帶來「Teak/Blue」與「Cacao/Bordeaux」兩款配色。這款運動鞋最初於 1997 年為 Luna Rossa 帆船隊而設計，至今依然保留其流線型、符合空氣動力學的外觀，以及近 30 年來標誌性的科技感。全新升級的 America's Cup 運動鞋忠於備受喜愛的原版輪廓，並維持其獨特的多層次結構。鞋面展現豐富的材質層次，將光滑亮澤的漆皮覆蓋層與透氣度極高的科技網眼布料面板完美結合。鞋款雖然完美保留了經典美學與標誌性的 Linea Rossa 鞋跟品牌標誌，但鞋底則換上創新的超輕量橡膠鞋底，迎來大幅度的現代化升級。這項科技升級確保鞋履提供卓越的現代舒適感與日常實穿性，同時不失令 1997 年原版成為全球街頭經典的粗獷實用魅力。「Teak/Blue」配色結合了溫暖的啡色調與較冷的藍色細節，而「Cacao/Bordeaux」則以深朱古力啡色與酒紅色系營造出更豐富的視覺效果。這兩款設計都強調了運動鞋布料與皮革的獨特交織，運用材質與色調的變化來突顯鞋面的弧形面板和修長線條，而非大幅改變其熟悉的輪廓。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FFT-prada-americas-cup-sneaker-teak-blue-cacao-bordeaux-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/prada-gives-the-americas-cup-sneaker-an-autumnal-update",
+   "lang": "zh",
+   "relatedBrands": [
+    "PRADA"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Jaylen Brown 旗下品牌 7UICE 宣布推出特別版 BAPE STA 聯乘鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-13",
+   "content": "摘要 7UICE 與 BAPE 官方正式合作，推出特別版 BAPE STA 聯乘鞋款此鞋款結合 BAPE 的街頭文化底蘊與 Jaylen Brown 的創意視野，展現個性與創造力本次發售數量極其有限，售罄後將不設補貨 7UICE 與 BAPE 正式攜手合作，推出特別版 BAPE STA。這款聯乘鞋履結合了籃球、文化與當代街頭時尚，標誌著日本街頭服飾經典品牌與這位運動員主理的生活品味品牌正式結盟。這次聯乘大膽融合了 BAPE 悠久的街頭服飾傳統與 Jaylen Brown 為 7UICE 注入的創意方向。這款限量版運動鞋以個性、創意和突破個人界限的力量為核心主題，突顯職業籃球與現代街頭服飾文化之間日益深厚的交流。呼應這次企劃的獨特定位，這款聯乘鞋款將嚴格限量生產。雙方品牌均確認，這次網上發售將採取明確的不補貨政策，確保鞋款於網絡商店售罄後，絕不再度上架。7UICE x BAPE STA 將於 10 月 18 日經由 7UICE 獨家於網上發售。 View this post on InstagramA post shared by 7uice (@7uice) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fjaylen-brown-7uice-special-edition-bape-sta-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/jaylen-brown-7uice-special-edition-bape-sta-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 3,
+   "title": "Jordan Brand 為秋冬季帶來全新 Air Jordan 12「Fireside」配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-13",
+   "content": "摘要 Jordan Brand 公布了即將發售的 Air Jordan 12「Fireside」官方圖片此鞋款最初傳聞名為「Eggnog」，採用乳白色鞋面配搭深啡色擋泥板該鞋款將於 2026 年 10 月 24 日登場，提供全家族尺碼，成人版本售價為 $215 美元 鞋款名稱： Air Jordan 12「Fireside」配色： Light Orewood Brown/Cacao Wow-Team Red產品編號： CT8013-105建議售價： $215 美元發售日期： 2026 年 10 月 24 日發售點： NikeJordan Brand 官方正式揭曉 Air Jordan 12「Fireside」。繼早前於 New York 舉行的閉門預覽後，這款即將在節日假期登場的經典復刻鞋款以奶油色與啡色為基調呈現。此鞋款最初傳聞名為「Eggnog」，最終設計採用較淺色的鞋面，並與深色結構飾板形成對比。鞋面大部分由奶油色皮革覆蓋，而深啡色則包覆擋泥板及底部位置。精緻細節包括金屬啡色金屬鞋帶孔、白色後跟拉環、形成對比的中足穩定片，以及外底與品牌標誌的啡色點綴。雖然這款大地色調的設計讓人聯想起 2024 年推出的 SoleFly x Air Jordan 12 聯乘鞋款，但淺色鞋面與深色擋泥板的獨特配置，讓這雙鞋成為 Jordan Brand 2026 年末陣容中獨樹一幟的作品。Air Jordan 12「Fireside」將於 2026 年 10 月 24 日發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fair-jordan-12-fireside-ct8013-105-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/air-jordan-12-fireside-ct8013-105-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "ASICS Utility Collection 釋出 GEL-VENTX GTX、GEL-NYC 2.0 GTX 及 GEL-KAYANO 20 全新鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-13",
+   "content": "名稱： ASICS Utility Collection建議零售價： £125 - £170 GBP（約 $165 - $225 USD）發售日期： 現已發售購買點： ASICSASICS 憑藉包含三款鞋型的 Utility Collection 展現全天候機能性，陣容包括「Black/Gunmetal」配色的 GEL-KAYANO 20、「Carrier Grey/Black」的 GEL-VENTX GTX 以及「Graphite Grey/Black」的 GEL-NYC 2.0 GTX。雖然每款鞋型均汲取自 ASICS 歷史檔案中的不同領域，但整個系列透過深色科技感色調、層次結構及具備性能考量的細節設計實現了統一。GEL-VENTX GTX 蘊含最強烈的越野風格，在 GEL-VENTURE 輪廓基礎上注入「Carrier Grey/Black」塗裝，並將炭灰色網眼與合成材質覆面，與淺灰色的 ASICS 虎爪標誌互相疊搭。GORE-TEX 薄膜為鞋款帶來防風雨保護，而後跟 GEL 緩震技術與越野專屬的抓地紋理則進一步強化其戶外屬性。GEL-NYC 2.0 GTX「Graphite Grey/Black」則採用更流暢、聚焦城市風格的設計手法，結合 2000 年代初期的 ASICS 跑鞋元素，並配備升級版緩震與支撐系統。鞋面混合了石墨灰、黑色及近似金屬槍色的色調，點綴於密集的層疊網眼與合成面板上，呈現出強調鞋款科技結構的單色外觀。除了 GORE-TEX 薄膜，鞋款還搭載 TRUSSTIC 支撐單元、GEL 緩震膠與 FF BLAST PLUS 緩震技術，賦予這款鞋型更柔軟、更具現代感的穿著體驗，同時保留 GEL-NYC 家族標誌性的複雜視覺美學。作為系列壓軸之作，GEL-KAYANO 20「Black/Gunmetal」重新演繹了這款 2013 年的跑鞋，並帶來全系列最深沉且極具金屬質感的處理。黑色網眼構成底座，上方覆蓋呈金屬槍色的交錯 FLUIDFIT TPU 框架，賦予鞋面在結構覆蓋層間流轉的微妙光澤。反光鞋帶注入了另一種吸睛元素，而雙重 GEL 緩震膠與 GUIDA",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fasics-utility-collection-gel-ventx-gtx-gel-nyc-2-0-gtx-gel-kayano-20-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/asics-utility-collection-gel-ventx-gtx-gel-nyc-2-0-gtx-gel-kayano-20-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Jordan Brand 推出 Día de Muertos 限定 Air Jordan 1 Low OG「Somos Historias」",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-13",
+   "content": "摘要 Jordan Brand 正式發佈 Air Jordan 1 Low OG「Somos Historias」，致敬亡靈節（Día de Muertos）這款限量鞋款採用啡色長毛絨面革、編織 Swoosh 標誌及水鴨綠色細節，全球限量 5,036 雙並附有獨立編號此鞋款將於 2026 年 10 月 13 日率先在 Mexico 開售，售價為 MX$3,800 名稱：Air Jordan 1 Low OG「Día de Muertos」配色：Light Chocolate/Velvet Brown-Black-Fresh WaterSKU：JA7805-302建議售價：$200 美元發售日期：2026 年 10 月 13 日發售點：NikeJordan Brand 正式宣布推出 Air Jordan 1 Low OG「Somos Historias」，作為其 2026 年 Día de Muertos（亡靈節）系列的一部分。繼 SNKRS Mexico 釋出官方圖片後，這款限量版鞋款透過複雜的物料選擇和專屬的節日細節，向墨西哥傳統文化致敬。鞋面採用混合物料構成，將多種啡色調紋理皮革覆蓋層與鞋跟和鞋帶孔處的絨面革面板結合。側面的標準皮革標誌被編織 Swoosh 取代，鞋頭附近更加入微型 Swoosh，側面則遍佈壓花細節。鮮豔的藍綠色飾邊點綴鞋面，並延伸至中底，營造強烈的視覺對比。為了強調限量發售，每雙鞋的內部鞋舌標籤上都標有 5,036 雙的獨立編號。這款極具收藏價值的鞋款採用帶有 Día de Muertos 圖案和超大 Wings 標誌的仿舊混凝土印花鞋盒包裝。官方宣傳照將這款運動鞋與傳統的 Xoloitzcuintli（墨西哥無毛犬）放在一起，將設計與節日的文化傳說緊密相連。Air Jordan 1 Low OG「Somos Historias」將於 2026 年 10 月 13 日在墨西哥發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fair-jordan-1-low-og-dia-de-muertos-iz4686-216-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/air-jordan-1-low-og-dia-de-muertos-iz4686-216-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "LOEWE x On 最新「Cloudsolo Hiker」與「Cloudtilt Cosmic」鞋款：為山林與漫步而生",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-13",
+   "content": "名稱：LOEWE x On Cloudsolo Hiker、LOEWE x On Cloudtilt Cosmic配色：有待確認編號：有待確認建議零售價：有待確認發售日期：10 月 15 日發售點：LOEWE、OnLOEWE 與 On 正式發布 2026 秋冬系列，由全新 Cloudsolo Hiker 與 Cloudtilt Cosmic 鞋款領銜。這次發布將雙方的合作推向全新領域，將源自越野靈感的 On 緩震技術，與熟悉輪廓的流線型升級結合，並帶來一系列注重機能性的服飾。Cloudsolo Hiker 的靈感源自經典登山靴，同時保留了 On 的核心雲端緩震鞋跟。該緩震後跟搭載於以聯乘系列標誌性大理石紋橡膠製成的坑紋大底上，為鞋款在崎嶇地形上提供抓地力。鞋面方面，特製掛鉤穿有雙色圓形鞋帶，並配有印上雙方品牌標誌的金屬扣將鞋面鎖定。此鞋款提供沙色、深卡其色、黑色及狐紅色選擇。Cloudtilt Cosmic 則採取相反的設計方向，將原有的 Cloudtilt 簡化成更流線型的輪廓。其核心升級在於全新的 CloudTec Phase 中底結構，外露的足弓設計與更大的鏤空空間進一步提升緩震效果。工程網眼布與透明覆面構建出鞋面，而 LOEWE 的 Anagram 圖案則以縫線形式低調融入設計之中。配色包括黑色、黑/白、白色、深沙色、亮橙色及淡紫色。在服飾方面，LOEWE 將其對剪裁與材質的專注應用於戶外必備單品上。連帽外套與羽絨服配備可調節的帽飾和下擺、拉鏈口袋及內置通風設計；而微型防撕裂外套、可收納雨絨披風及打褶工裝褲則進一步強化了實用性，同時不失精緻質感。輕盈層次單品使整個系列更加完整。彈性雙層針織上衣、半截裙及微喇叭褲均加入了網眼透氣拼接設計，此外還有機能短褲、科技針織衫及毛圈布連帽衛衣。色彩運用涵蓋黑色、卡其綠色、深橙色、紫色與黃色，部分精選單品更印有以瑞士阿爾卑斯山為靈感的多彩圖案。系列廣告企劃由攝影師 Rosie Marks 操刀，邀請了藝術家 Joan Jonas、Martine Syms 及 Tarek Atoui 出演，捕捉他們穿梭於啟發其創作的森林與城市街",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Floewe-on-cloudsolo-hiker-cloudtilt-cosmic-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/loewe-on-cloudsolo-hiker-cloudtilt-cosmic-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 7,
    "title": "Jordan Brand 以大地色系打造全新 Air Jordan 3「Fireside」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -43,7 +121,153 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 8,
+   "title": "Prada Gives the America’s Cup Sneaker an Autumnal Update",
+   "source": "Hypebeast",
+   "date": "2026-10-13",
+   "content": "Name: Prada America's Cup sneakerColorway: Teak/Blue, Cacao/BordeauxSKU: TBCMSRP: TBCRelease Date: October 13Where to Buy: PradaPrada revisits one of its most recognizable footwear silhouettes with a new release of the America’s Cup sneaker, introducing two colorways: “Teak/Blue” and “Cacao/Bordeaux.”Originally conceived in 1997 for the Luna Rossa sailing team, the model retains the streamlined, aerodynamic profile and technical sensibility that have defined it for nearly three decades. Staying true to the beloved original silhouette, the updated America's Cup sneaker maintains its distinctive, multi-layered construction. The upper showcases a dynamic interplay of textures, combining smooth, glossy patent leather overlays with highly breathable, technical textile mesh panels.While the aesthetic heritage and signature Linea Rossa heel branding remain completely intact, the footwear receiv",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F13%2FFT-prada-americas-cup-sneaker-teak-blue-cacao-bordeaux-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/prada-gives-the-americas-cup-sneaker-an-autumnal-update",
+   "lang": "en",
+   "relatedBrands": [
+    "PRADA",
+    "UGG"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Jaylen Brown's 7UICE Announces Special-Edition BAPE STA Collaboration",
+   "source": "Hypebeast",
+   "date": "2026-10-13",
+   "content": "Summary 7UICE and BAPE have officially partnered to release a special-edition BAPE STA collaborationThe sneaker merges BAPE's streetwear heritage with Jaylen Brown's creative vision representing individuality and creativityThe release will be available in strictly limited quantities with no planned restocks once inventory sells out 7UICE and BAPE have officially joined forces to introduce a special-edition BAPE STA. Uniting the worlds of basketball, culture, and contemporary streetwear, the collaborative footwear release marks an official union between the Japanese streetwear staple and the athlete-led lifestyle label.The collaboration serves as a bold fusion of BAPE’s long-standing streetwear heritage and Jaylen Brown’s creative direction for 7UICE. Centered around core themes of individuality, creativity, and the power of pushing personal boundaries, the limited-edition sneaker undersc",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F13%2Fjaylen-brown-7uice-special-edition-bape-sta-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/jaylen-brown-7uice-special-edition-bape-sta-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 10,
+   "title": "Jordan Brand Warms up the Season With the Air Jordan 12 \"Fireside\"",
+   "source": "Hypebeast",
+   "date": "2026-10-13",
+   "content": "Summary Jordan Brand has revealed official imagery for the upcoming Air Jordan 12 FiresideOriginally rumored under the Eggnog moniker the release features a cream upper paired with dark brown mudguardsThe silhouette launches on October 24 2026 in full family sizing with adult pairs priced at $215 USD Name: Air Jordan 12 \"Fireside\"Colorway: Light Orewood Brown/Cacao Wow-Team RedSKU: CT8013-105MSRP: $215 USDRelease Date: October 24, 2026Where to Buy: NikeJordan Brand has officially unveiled the Air Jordan 12 \"Fireside\". Following a private preview in New York, the upcoming holiday release offers a cream and brown execution across the classic retro silhouette.Initially rumored under the \"Eggnog\" moniker, the finalized design utilizes a lighter upper contrasted by darker structural panels. Cream leather dominates the majority of the upper, while a rich dark brown wraps around the mudguard an",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F12%2Fair-jordan-12-fireside-ct8013-105-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/air-jordan-12-fireside-ct8013-105-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "ASICS Utility Collection GEL-VENTX GTX, GEL-NYC 2.0 GTX & GEL-KAYANO 20",
+   "source": "Hypebeast",
+   "date": "2026-10-13",
+   "content": "Name: ASICS Utility CollectionMSRP: £125 - £170 GBP (approx. $165 - $225USD)Release Date: Available NowWhere to Buy: ASICSASICS leans into all-weather utility with a three-model Utility Collection, comprising the GEL-KAYANO 20 in “Black/Gunmetal,” GEL-VENTX GTX in a “Carrier Grey/Black” and GEL-NYC 2.0 GTX in “Graphite Grey/Black.” Though each silhouette draws from a different corner of the ASICS archive, the range is unified by dark technical palettes, layered construction and performance-informed detailing.The GEL-VENTX GTX carries the strongest trail influence, building on the GEL-VENTURE lineage with a Carrier Grey/Black finish that layers charcoal mesh and synthetic overlays with lighter grey ASICS Stripes. A GORE-TEX membrane adds weather protection, while rearfoot GEL cushioning and a trail-specific traction pattern reinforce its outdoor-minded character.The GEL-NYC 2.0 GTX “Graph",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F13%2Fasics-utility-collection-gel-ventx-gtx-gel-nyc-2-0-gtx-gel-kayano-20-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/asics-utility-collection-gel-ventx-gtx-gel-nyc-2-0-gtx-gel-kayano-20-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Jordan Brand Unveils Limited Air Jordan 1 Low OG \"Somos Historias\" for Día de Muertos",
+   "source": "Hypebeast",
+   "date": "2026-10-13",
+   "content": "Summary Jordan Brand has revealed the Air Jordan 1 Low OG Somos Historias celebrating Día de MuertosThe limited release features brown shaggy suede woven Swooshes and teal accents numbered out of 5,036 pairsThe sneaker launches on October 13 2026 in Mexico for MX$3,800 Name: Air Jordan 1 Low OG \"Día de Muertos\"Colorway: Light Chocolate/Velvet Brown-Black-Fresh WaterSKU: JA7805-302MSRP: $200 USDRelease Date: October 13, 2026Where to Buy: NikeJordan Brand has officially revealed the Air Jordan 1 Low OG \"Somos Historias\" as part of its 2026 Día de Muertos collection. Following official imagery on SNKRS Mexico, the limited-edition silhouette honors traditional Mexican heritage with intricate material choices and custom holiday detailing.Constructed with mixed materials across the upper, the design pairs shades of brown textured leather overlays with shaggy suede panels along the heel and eye",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F12%2Fair-jordan-1-low-og-dia-de-muertos-iz4686-216-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/air-jordan-1-low-og-dia-de-muertos-iz4686-216-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "The LOEWE x On “Cloudsolo Hiker” and “Cloudtilt Cosmic” Are Ready for Mountains and Moonwalks",
+   "source": "Hypebeast",
+   "date": "2026-10-13",
+   "content": "Name: LOEWE x On Cloudsolo Hiker, LOEWE x On Cloudtilt CosmicColorway: TBCSKU: TBCMSRP: TBCRelease Date: October 15Where to Buy: LOEWE, OnLOEWE and On have unveiled their Fall/Winter 2026 collection, headlined by the new Cloudsolo Hiker and Cloudtilt Cosmic. The release pushes the partnership into fresh territory, pairing a trail-inspired take on On’s cushioning with a streamlined update to a familiar silhouette and a full range of performance-minded apparel.The Cloudsolo Hiker borrows its cues from classic hiking boots while keeping On’s cloud heel at its core. That cushioned rear sits on a lugged outsole cast in the collaboration’s signature marbled rubber, giving the shoe grip for uneven terrain. Up top, custom hooks thread two-tone rounded laces, and a metallic buckle bearing both brands’ marks locks the upper in place. The style arrives in sand, dark khaki, black and fox red.The Clo",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F13%2Floewe-on-cloudsolo-hiker-cloudtilt-cosmic-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/loewe-on-cloudsolo-hiker-cloudtilt-cosmic-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Jordan Brand Channels Earthy Tones With the Air Jordan 3 \"Fireside\"",
+   "source": "Hypebeast",
+   "date": "2026-10-13",
+   "content": "Summary Jordan Brand is introducing the Air Jordan 3 Fireside featuring an earth-toned Velvet Brown paletteThe sneaker incorporates tumbled leather suede detailing and a tonal brown elephant print patternExtra pale pink laces and Pearl White accents complement the dark brown midsole and Gum Light Brown outsole Name: Air Jordan 3 \"Fireside\"Colorway: Velvet Brown/Light British Tan-Rust Pink-Pearl WhiteSKU: JA7805-302MSRP: $205 USDRelease Date: October 30, 2026Where to Buy: NikeJordan Brand has officially revealed the Air Jordan 3 \"Fireside\". The upcoming colorway embraces a rich, earth-toned palette that channels popular Travis Scott-inspired color blocking across a mix of premium materials.The upper is dominated by a deep Velvet Brown tone, utilizing tumbled leather across the main panels alongside soft suede accents along the tongue, collar, and eyestays. Maintaining classic Air Jordan 3",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F12%2Fair-jordan-3-fireside-CK9246-200-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/air-jordan-3-fireside-ck9246-200-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Jordan Triangle “Paolo”",
+   "source": "Nice Kicks",
+   "date": "2026-10-13",
+   "content": "The Jordan Triangle “Paolo” is set to release on October 20, 2026, via Nike.com and select retailers for $150. Check… The post Jordan Triangle “Paolo” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/iq5570-300-5-e1791901173184.jpg",
+   "link": "https://www.nicekicks.com/jordan-triangle-paolo-iq5570-300/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Bad Bunny x adidas Gazelle Indoor “Solar Gold”",
+   "source": "Nice Kicks",
+   "date": "2026-10-13",
+   "content": "The Bad Bunny x adidas Gazelle Indoor “Solar Gold” brings a vibrant finish to the Puerto Rican artist’s latest take… The post Bad Bunny x adidas Gazelle Indoor “Solar Gold” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/KI2592_6-1-e1791383663861.jpg",
+   "link": "https://www.nicekicks.com/bad-bunny-adidas-gazelle-indoor-solar-gold-ki2592/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Reebok and deadHYPE Put Berlin’s Creative Community in the Driver’s Seat",
+   "source": "Highsnobiety",
+   "date": "2026-10-13",
+   "content": "Reebok and deadHYPE brought Reebok Full Circle to Berlin and gave the tools to create to their community.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/reebok-and-deadhype/",
+   "lang": "en",
+   "relatedBrands": [
+    "REEBOK"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "New Balance Winterized Its Classic Mary Jane Sneaker",
+   "source": "Highsnobiety",
+   "date": "2026-10-13",
+   "content": "New Balance just made a hybrid furry Mary Jane sneaker blend fit for the winter months.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-mary-jane-winter-breeze/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 19,
    "title": "This Winterized Air Jordan Classic Has Mutated for Cold Weather",
    "source": "Highsnobiety",
    "date": "2026-10-13",
@@ -56,7 +280,20 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 20,
+   "title": "Vans’ Tabi Surf Boot Finally Gets on Board",
+   "source": "Highsnobiety",
+   "date": "2026-10-13",
+   "content": "Vans' tabi-style Surf Bootie 3 MM is a typical Vans shredder made for the water.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-surf-bootie-3-mm/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 21,
    "title": "Crocs 為《Chainsaw Man》打造四款截然不同的 Classic Clog 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-12",
@@ -69,7 +306,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 22,
    "title": "JJJJound 透過全麂皮結構重新演繹 New Balance 990v3",
    "source": "Hypebeast 中文",
    "date": "2026-10-12",
@@ -82,7 +319,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 23,
    "title": "Nike Air Max Goadome Low 全新「Yellow Croc」配色正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-12",
@@ -95,7 +332,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 24,
    "title": "SUBU x NANGA AURORA-TEX 聯乘冬季涼鞋登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-12",
@@ -106,7 +343,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 7,
+   "id": 25,
    "title": "Crocs Gives ‘Chainsaw Man’ Four Wildly Different Classic Clogs",
    "source": "Hypebeast",
    "date": "2026-10-12",
@@ -119,7 +356,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 26,
    "title": "JJJJound Reimagines the New Balance 990v3 With an All-Suede Construction",
    "source": "Hypebeast",
    "date": "2026-10-12",
@@ -132,7 +369,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 27,
    "title": "The Nike Air Max Goadome Low Goes Bold in “Yellow Croc”",
    "source": "Hypebeast",
    "date": "2026-10-12",
@@ -146,7 +383,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 28,
    "title": "SUBU x NANGA’s AURORA-TEX Winter Sandal Is Built to Brave Sockless Cold",
    "source": "Hypebeast",
    "date": "2026-10-12",
@@ -157,7 +394,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 11,
+   "id": 29,
    "title": "The Nike Air Force 1 Low “What The LA” Returns in October",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -170,7 +407,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 30,
    "title": "Nike Sabrina 4 “Vampire” (IX7058-001) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -183,7 +420,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 31,
    "title": "APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -196,7 +433,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 32,
    "title": "Nike KD 19 “Halloween” (IO8112-600) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -209,7 +446,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 33,
    "title": "S.F.T.M. x adidas Samba OG “Core Black”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -222,7 +459,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 34,
    "title": "S.F.T.M. x adidas Samba OG “Base Green”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -235,7 +472,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 35,
    "title": "S.F.T.M. x adidas Samba OG “Supplier Colour”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -248,7 +485,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 36,
    "title": "S.F.T.M. x adidas SL 72 PRO “Wild Teal”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -261,59 +498,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
-   "title": "S.F.T.M. x adidas SL 72 PRO “Cream White”",
-   "source": "Nice Kicks",
-   "date": "2026-10-12",
-   "content": "The S.F.T.M. x adidas SL 72 PRO “Cream White” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out… The post S.F.T.M. x adidas SL 72 PRO “Cream White” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/HQ7605_6-1-e1791814134230.jpg",
-   "link": "https://www.nicekicks.com/s-f-t-m-adidas-sl-72-pro-cream-white-hq7605/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "Air Jordan 5 “Halloween” (HQ7978-001) October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-12",
-   "content": "Inspiration Behind the Haunting Jordan Brand has been leaning into holiday-themed releases for years, but the Halloween colorway concept has… The post Air Jordan 5 “Halloween” (HQ7978-001) October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/hq7978-001-1-e1791251542242.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-5-halloween-hq7978-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "Vans’ Tabi Surf Boot Finally Gets on Board",
-   "source": "Highsnobiety",
-   "date": "2026-10-12",
-   "content": "Vans' tabi-style Surf Bootie 3 MM is a typical Vans shredder made for the water.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-surf-bootie-3-mm/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "Nike’s Luxe Runner Comes Out of Its (Tortoise) Shell",
-   "source": "Highsnobiety",
-   "date": "2026-10-12",
-   "content": "With Nike's \"Tortoise Shell\" Zoom Vomero 5 sneaker, the Swoosh is the star of the show.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-sneaker-tortoise-shell/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 23,
+   "id": 37,
    "title": "Wasted Paris x Clarks Originals Pack Britpop Memorabilia Into a Customizable Wallabee Lite",
    "source": "Hypebeast",
    "date": "2026-10-11",
@@ -326,7 +511,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 38,
    "title": "Shai Gilgeous-Alexander 透露親手繪製即將推出的 Nike SHAI 002 專屬鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-10",
@@ -336,167 +521,6 @@ window.SNEAKER_DATA = {
    "lang": "zh",
    "relatedBrands": [
     "CONVERSE",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "LOEWE 與 On 攜手升級 Cloudsolo 推出 $890 美元 Hiker 鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-10",
-   "content": "摘要 LOEWE 與 On 推出 Cloudsolo Hiker，作為雙方聯乘鞋款的戶外進化版這款運動鞋採用橡膠鞋面加固、靴款風格的金屬鞋眼，以及更深的鞋底紋理，以提升山徑抓地力此售價 890 美元的鞋款推出三款同色調配色，現已於指定零售商發售 LOEWE 與 On 正式擴展雙方的聯乘鞋履陣容，推出全新 LOEWE x On Cloudsolo Hiker。這款新作將雙方於 2025 年 10 月推出的原版 Cloudsolo 鞋款加以改良，轉化為專為越野性能而設的重裝款式。新作以 On 標誌性的機能科技為基礎，保留了鞋跟處可見的 Cloud 緩震組件以及內置的 Speedboard 科技，提供靈敏的能量回饋。為應付崎嶇地形，鞋面在擋泥板與側板周圍加入結構化的橡膠加固設計，並配上重裝靴款風格的鞋帶孔。鞋底方面，外底換上更深的鞋紋，以提升在戶外環境下不同地面的抓地力。LOEWE 與 On 為 Cloudsolo Hiker 帶來沙色、深啡色及黑色三款單色調配色，將西班牙奢華設計與瑞士運動工程結合。LOEWE x On Cloudsolo Hiker 現已於指定高級零售商發售，定價為 $890 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Floewe-on-cloudsolo-hiker-model-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/loewe-on-cloudsolo-hiker-model-first-look-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 26,
-   "title": "BSTN 與 Salomon 全新聯乘 XT-6 IRIDESCENT 捕捉黎明破曉色彩",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-10",
-   "content": "名稱：BSTN x Salomon XT-6 IRIDESCENT配色：Black/Almond MilkSKU：L45567700建議售價：$300 美元發售日期：10 月 10 日發售點：BSTNBSTN 與 Salomon 首度攜手合作推出聯乘鞋款，以日夜交替的寧靜過渡時刻為靈感，透過「5 A.M.」概念重新演繹 XT-6。鞋款官方定名為單一的「Black/Black/Almond Milk」配色，視覺上以深海軍藍漸變至黑色的網眼材質為基底，覆上隨光線折射而變色的淡藍色幻彩 TPU 塗層。這種充滿變化的表面設計，為充滿機能感的鞋面賦予宛如珍珠般的光澤；而對比鮮明的白色縫線——包括鞋舌上獨特的鋸齒狀細節——則令深色中底更顯俐落。鞋底部分以黑色為主調，讓焦點集中於鞋面的反光處理上；成型鞋墊則從冷調藍色漸變至溫暖橙色，猶如晨曦初現的第一縷曙光。鞋身保留了該型號備受讚譽的高效能技術配置。鞋面採用透氣單層網眼材質，並以極具耐用性及抗磨損的 TPU 面板作加固，配合 Salomon 標誌性的 quickLACE 系統與 endoFit 結構，帶來精準且穩固的貼合感。鞋款配備 agileCHASSIS 系統以提供卓越的穩定性與緩震效果，底部則採用堅固的 Mud Contagrip 外底，加上深邃且邊緣銳利的凸起紋理，足以應付各種複雜地形。為紀念是次合作，外側鞋跟處點綴了充滿質感的聯乘標誌，而帶有雙方共同口號「Common Ground」的專屬 BSTN 標籤則巧妙地置於鞋帶系統下方。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fbstn-salomon-xt-6-iridescent-black-almond-milk-l45567700-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/bstn-salomon-xt-6-iridescent-black-almond-milk-l45567700-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "SALOMON"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "Shai Gilgeous-Alexander Reveals He Personally Hand-Drew the Upcoming Nike SHAI 002",
-   "source": "Hypebeast",
-   "date": "2026-10-10",
-   "content": "Summary Shai Gilgeous-Alexander revealed that he personally hand-drew the design for his upcoming Nike SHAI 002 signature sneakerThe model marks his second signature silhouette and his first brand-new design following his move from Converse to Nike BasketballThe Nike SHAI 002 is expected to launch in early 2027 with technical specifications and official imagery still under wraps Nike and Oklahoma City Thunder superstar Shai Gilgeous-Alexander are preparing the upcoming Nike SHAI 002. Following a recent interview with TIME, Gilgeous-Alexander confirmed that he personally hand-drew the design for his second signature silhouette.Maintaining a direct creative role in his footwear line, Gilgeous-Alexander previously crafted early sketches for the SHAI 001 before taking the exact same approach for his follow-up model. When asked what fans should expect from the upcoming SHAI 002, Gilgeous-Alex",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F09%2Fshai-gilgeous-alexander-personally-hand-drew-nike-shai-002-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/shai-gilgeous-alexander-personally-hand-drew-nike-shai-002-revealed",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "LOEWE and On Upgrade the Cloudsolo With a $890 USD Hiker Model",
-   "source": "Hypebeast",
-   "date": "2026-10-10",
-   "content": "Summary LOEWE and On have released the Cloudsolo Hiker as an outdoor-focused evolution of their joint silhouetteThe sneaker features rubber upper reinforcement boot-style metal eyelets and deeper tread for enhanced trail tractionThe $890 USD model arrives in three tonal colorways available now via select retailers LOEWE and On have officially expanded their collaborative footwear portfolio with the release of the LOEWE x On Cloudsolo Hiker. The new model adapts the partnership's original Cloudsolo silhouette from October 2025 into a heavy-duty option built for trail performance.The silhouette builds upon On's signature performance technologies, retaining a visible heel Cloud unit alongside internal Speedboard tooling for responsive energy return. Designed to handle rugged terrain, the upper adds structured rubber reinforcement around the mudguards and side panels, complemented by heavy-d",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Floewe-on-cloudsolo-hiker-model-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/loewe-on-cloudsolo-hiker-model-first-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "BSTN and Salomon’s XT-6 IRIDESCENT Collab Captures Daybreak Hues",
-   "source": "Hypebeast",
-   "date": "2026-10-10",
-   "content": "Name: BSTN x Salomon XT-6 IRIDESCENTColorway: Black/Almond MilkSKU: L45567700MSRP: $300 USDRelease Date: October 10Where to Buy: BSTNBSTN and Salomon have joined forces for their first footwear collaboration, reworking the XT-6 through a “5 A.M.” concept inspired by the quiet transition between night and day.Officially listed in a single \"Black/Black/Almond Milk\" colorway, the shoe reads visually as a dark navy-to-black mesh base layered with pale blue iridescent TPU overlays that shift in tone as they catch the light. The changing surface gives the otherwise technical upper an almost pearlescent quality, while white contrast stitching - including distinctive zigzag detailing across the tongue - sharpens the darker foundation. Underfoot, the mostly black tooling keeps the palette grounded, allowing the reflective upper treatment to carry the design, while a molded insole moves from cool ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Fbstn-salomon-xt-6-iridescent-black-almond-milk-l45567700-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/bstn-salomon-xt-6-iridescent-black-almond-milk-l45567700-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "SALOMON",
-    "UGG"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Thierry Henry 率先展示 On 首款足球鞋細節近賞",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-09",
-   "content": "摘要 On 足球總監 Thierry Henry 在 Instagram 上分享了品牌首款足球鞋的近照原型鞋款採用 On 的 LightSpray 技術，打造出無縫的半透明鞋面該鞋款預計於 2027 年初公開發售，並由 Kylian Mbappé 領銜運動員陣容 On 與品牌足球總監 Thierry Henry 率先帶來瑞士品牌首款 On 足球鞋的細節近賞。透過 Instagram 發布的原型鞋款，揭示了 On 進軍足球鞋市場背後的技術基礎與設計方向。此款球鞋最初由 Kylian Mbappé 率先著用。原型鞋款印有開發代碼 ON-DCPT-KM210，採用 On 專利的 LightSpray 技術打造出輕薄半透明鞋面。機械臂噴塗工藝免去了傳統接縫與結構覆層，為鞋身帶來極簡外觀，同時專注於提升性能與減輕重量。此預覽緊隨 On 正式擴展至足球領域的步伐，其運動員陣容由皇家馬德里球星 Kylian Mbappé 與巴塞隆拿中場 Sydney Schertenleib 領銜。雖然 Henry 釋出的預告僅展示開發原型，卻充分突顯了這個瑞士運動品牌計劃將其鞋履工程技術直接帶到球場上的願景。On 足球鞋預計將於 2027 年初正式公開發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fthierry-henry-closer-look-on-debut-football-boot-teaser-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/thierry-henry-closer-look-on-debut-football-boot-teaser",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 31,
-   "title": "Salomon XT-6 GTX 最新「Stormy Weather」陰天色調發佈",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-09",
-   "content": "鞋款名稱： Salomon XT-6 GTX「Tradewinds/Stormy Weather/Bog」配色： Tradewinds/Stormy Weather/Bog型號： L49214800建議零售價： 31,900 日圓（約 $202 美元）發售日期： 現已發售購買點： SalomonSalomon 為 XT-6 GTX 帶來全新「Tradewinds/Stormy Weather/Bog」配色，為這款源自越野的鞋型注入冷峻的陰天色調，完美呼應其抗水耐候的結構。鞋面以淡藍灰色網眼為基底，配搭較深的 Bog 綠灰色加固面板，以及勾勒鞋身幾何框架的柔和黃米色 SensiFit 細節。中底邊緣與鞋跟處點綴柔和薄荷色，而鞋舌、鞋領、Quicklace 綁帶系統及外底則採用黑色，帶來鮮明的機能感對比。Salomon 鞋舌標誌上的藍、紅、黃色小點綴打破了整體的低調氛圍，為此配色賦予了微妙的復古戶外氣息。XT-6 GTX 保留了有別於標準版 XT-6 的防護結構。GORE-TEX ePE 薄膜提供防水與透氣性能，且無刻意添加 PFC（全氟碳化物），而防碎石網眼結構則有助在潮濕或嚴苛的城市環境中保護雙腳。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fsalomon-xt-6-gore-tex-tradewinds-stormy-weather-bog-l49214800-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/salomon-xt-6-gore-tex-tradewinds-stormy-weather-bog-l49214800-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "SALOMON"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "WILDSIDE Yohji Yamamoto 與 MOONSTAR 重新演繹「GYM CLASSIC」運動鞋",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-09",
-   "content": "名稱： WILDSIDE Yohji Yamamoto x MOONSTAR GYM CLASSIC 運動鞋配色： 待定SKU： 待定建議零售價： ¥29,700 JPY（約 $188 USD）發售日期： 10 月 14 日發售點： WILDSIDE Yohji Yamamoto繼 S’YTE x MOONSTAR 的聯乘後，WILDSIDE Yohji Yamamoto 與 MOONSTAR 亦首度攜手合作，以 WILDSIDE 標誌性的黑色主調重新演繹該日本鞋履品牌長青的「GYM CLASSIC」鞋款。這款低筒運動鞋以 1960 年代生產的訓練鞋為基礎，僅推出單一黑色版本，採用耐用的棉質帆布製成，並配上全黑橡膠鞋底與鞋頭保護設計。鞋眼旁的淡米色滾邊及裁片周圍的對比縫線點綴了單色的鞋身，為原本內斂的鞋面增添更俐落的視覺層次。啞黑色金屬鞋眼圈維持了整體的低調質感，鞋款同時配備黑色與米白色鞋帶，讓對比細節可視乎喜好顯得含蓄或突出。鞋跟外側繡有弧形的 WILDSIDE 標誌，後跟橡膠護條上亦飾有額外的品牌細節。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fwildside-yohji-yamamoto-moonstar-gym-classic-cotton-canvas-sneakers-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/wildside-yohji-yamamoto-moonstar-gym-classic-cotton-canvas-sneakers-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 33,
-   "title": "Victory Lap Radio x Nike 打造 Air Force 1 Low 漆皮聯乘鞋款「Pine Green」",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-09",
-   "content": "摘要 Nike 與總部位於 London 的平台 Victory Lap Radio 攜手合作，打造聯乘版 Air Force 1 Low該鞋款採用「Pine Green」漆皮拼接面板，並搭配定製的品牌標誌圖案與印花鞋墊此鞋款預計將於 2026 年假期期間，透過 SNKRS 及全球指定零售商發售 名稱： Victory Lap Radio x Nike Air Force 1 Low「Pine Green」配色： Pine Green/Light Crimson-Grey Fog-WhiteSKU： JA7805-302建議零售價： 有待公佈發售日期： 2026 年假日季發售點： NikeNike 與總部位於倫敦的音樂平台 Victory Lap Radio 攜手合作，推出 Air Force 1 Low 聯乘鞋款「Pine Green」。繼早前與 Apron Records 及 PAN Records 的企劃後，這次合作將 Nike 與英國地下音樂界直接連結起來，進一步擴展品牌在音樂領域的版圖。由 Joseph McDermott 於 2019 年創辦的 Victory Lap Radio，透過 freestyle、cypher 和錄音室演出等方式發掘英國本地新星，逐漸建立起深厚的文化影響力。在今次的鞋款聯乘中，該平台保留了其核心品牌特色，以亮澤的漆皮鞋面呈現這對 Air Force 1 Low。配色方面，鞋身以鮮明的「Pine Green」嵌板，搭配淺灰、白及紅色的對比點綴。整對鞋滿佈專屬細節，包括手持 Swoosh 的特色角色、度身訂製的標誌，以及向這家倫敦電台身份致敬的印花鞋墊。Victory Lap Radio x Nike Air Force 1 Low「Pine Green」預計將於 2026 年假日季正式登場。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fvictory-lap-radio-nike-air-force-1-low-pine-green-JA7805-302-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/victory-lap-radio-nike-air-force-1-low-pine-green-ja7805-302-first-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "Thierry Henry Gives a Closer Look at On's Debut Football Boot",
-   "source": "Hypebeast",
-   "date": "2026-10-09",
-   "content": "Summary On Director of Football Thierry Henry shared a closer look at the brand's debut football boot on InstagramThe prototype features On's LightSpray technology for a seamless translucent upperThe boot is set for a public release in early 2027 with Kylian Mbappé leading the athlete roster On and Director of Football Thierry Henry have offered a closer look at the Swiss brand's debut On Football Boot. Shared via Instagram, the prototype reveals the technical foundation and design direction behind On's entry into the football footwear market. The cleat was initially first worn by Kylian Mbappé.Stamped with the development code ON-DCPT-KM210, the prototype introduces a thin, translucent upper constructed using On’s proprietary LightSpray technology. The robotic spraying process eliminates traditional seams and structural overlays, giving the silhouette a stripped-back appearance focused ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Fthierry-henry-closer-look-on-debut-football-boot-teaser-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/thierry-henry-closer-look-on-debut-football-boot-teaser",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 35,
-   "title": "The Salomon XT-6 GTX Takes on an Overcast “Stormy Weather” Palette",
-   "source": "Hypebeast",
-   "date": "2026-10-09",
-   "content": "Name: Salomon XT-6 GTX “Tradewinds/Stormy Weather/Bog”Colorway: Tradewinds/Stormy Weather/BogSKU: L49214800MSRP: ¥31,900 JPY (approx. $202 USD)Release Date: Available NowWhere to Buy: SalomonSalomon updates the XT-6 GTX with a new “Tradewinds/Stormy Weather/Bog” colorway, giving the trail-derived silhouette a cool, overcast palette that feels especially suited to its weather-resistant construction.The upper is built around a pale blue-grey mesh base, layered with darker Bog green-grey reinforcement panels and muted yellow-beige SensiFit detailing that traces the shoe’s angular cage. A soft mint tone appears around the midsole edge and heel, while black across the tongue, collar, Quicklace system and outsole adds a sharper technical contrast. Small flashes of blue, red and yellow on the Salomon tongue branding break up the otherwise subdued treatment, giving the colorway a subtle archival",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F09%2Fsalomon-xt-6-gore-tex-tradewinds-stormy-weather-bog-l49214800-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/salomon-xt-6-gore-tex-tradewinds-stormy-weather-bog-l49214800-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "SALOMON"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "WILDSIDE Yohji Yamamoto and MOONSTAR Rework the GYM CLASSIC Sneaker",
-   "source": "Hypebeast",
-   "date": "2026-10-09",
-   "content": "Name: WILDSIDE Yohji Yamamoto x MOONSTAR GYM CLASSIC SneakerColorway: TBCSKU: TBCMSRP: : ¥29,700 JPY (approx. $188 USD)Release Date: October 14Where to Buy: WILDSIDE Yohji YamamotoFollowing S’YTE x MOONSTAR’s collaboration, WILDSIDE Yohji Yamamoto and MOONSTAR also come together for their first collaboratio – reworking the Japanese footwear maker’s long-running GYM CLASSIC through WILDSIDE’s signature black palette. Based on a training shoe originally produced in the 1960s, the low-top is offered in a single Black colorway, built from durable cotton canvas and finished with a fully blacked-out rubber sole and toe guard.The monochrome base is broken up by pale cream piping running alongside the eyestays and matching contrast stitching around the panels, giving the otherwise restrained upper a sharper graphic quality. Matte black metal eyelets maintain the subdued finish, while the sneaker",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F09%2Fwildside-yohji-yamamoto-moonstar-gym-classic-cotton-canvas-sneakers-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/wildside-yohji-yamamoto-moonstar-gym-classic-cotton-canvas-sneakers-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 37,
-   "title": "Victory Lap Radio and Nike Craft a Patent Leather Air Force 1 Low in \"Pine Green\"",
-   "source": "Hypebeast",
-   "date": "2026-10-09",
-   "content": "Summary Nike and London-based platform Victory Lap Radio have teamed up on a collaborative Air Force 1 LowThe silhouette features Pine Green patent leather paneling alongside custom branding graphics and printed insolesThe pair is expected to release during Holiday 2026 via SNKRS and select global retailers Name: Victory Lap Radio x Nike Air Force 1 Low \"Pine Green\"Colorway: Pine Green/Light Crimson-Grey Fog-WhiteSKU: JA7805-302MSRP: TBDRelease Date: Holiday 2026Where to Buy: NikeNike and London-based platform Victory Lap Radio have partnered on a collaborative Air Force 1 Low \"Pine Green\". The joint release connects Nike directly to the underground UK music scene, extending the brand's music-focused footprint following earlier projects with Apron Records and PAN Records.Founded in 2019 by Joseph McDermott, Victory Lap Radio has built a strong cultural presence by highlighting rising UK ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F08%2Fvictory-lap-radio-nike-air-force-1-low-pine-green-JA7805-302-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/victory-lap-radio-nike-air-force-1-low-pine-green-ja7805-302-first-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
     "NIKE"
    ]
   }
