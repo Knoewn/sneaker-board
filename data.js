@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-13 23:27",
+ "updatedAt": "2026-10-14 10:56",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,7 +17,6 @@ window.SNEAKER_DATA = {
  "brands": [
   "ADIDAS",
   "ASICS",
-  "CLARKS",
   "CONVERSE",
   "CROCS",
   "JORDAN",
@@ -25,13 +24,25 @@ window.SNEAKER_DATA = {
   "NIKE",
   "PRADA",
   "REEBOK",
-  "UGG",
-  "VANS"
+  "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "JW Anderson 為經典 UGG 鞋款注入樂福鞋細節",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-13",
+   "content": "總結JW Anderson 與 UGG 首度聯乘，為 Classic Boot 及 Tasman 注入精緻的便士樂福鞋（penny loafer）細節。系列將於 10 月 15 日發售，這款麂皮與毛絨內裡鞋履帶來栗色、卡其色和橙色等充滿秋日氣息的配色。JW Anderson 與 UGG 迎來首次聯乘，設計師 Jonathan Anderson 在經典 UGG 鞋款上加入精緻升級。延續 Anderson 將樂福鞋細節融入不同產品的傳統，UGG 的 Classic Boot 及 Tasman 經重新演繹，展現出源自便士樂福鞋的獨特風格。在一份聲明中，Jonathan Anderson 分享了更多關於其創作方向的想法：「UGG 的辨識度極高，我非常有興趣透過 JW Anderson 的視角來重新審視這款大家如此熟悉的單品。」他補充道：「我們在 JW ANDERSON 廣泛地探索過樂福鞋，不僅將其作為鞋履，還將其細節應用於手袋和成衣上。我想看看這種設計語言如何轉化到 UGG 上。」在保留標誌性輪廓與舒適腳感的同時，這些休閒款式透過鞋頭上方的硬幣槽和清晰可見的明線設計，散發出煥然一新的優雅氣質。Classic Boot 採用全麂皮鞋面和白色毛絨內裡，後跟飾有 JW Anderson 標籤，而 Tasman 涼鞋的側邊鞋領亦印有標誌。是次發布的鞋款採用 Anderson 親自挑選的栗色、卡其色及橙色等秋季色調。雖然近幾年運動樂福鞋一直在男裝界大行其道，將運動風格的功能性細節帶入正裝鞋款中，但 JW Anderson 卻將此趨勢引領至不同方向。在為其 Loafer 手袋加入硬幣槽細節後，Anderson 將此概念延伸至是次聯乘，巧妙地柔化了樂福鞋的靈感，而非增添其科技感。JW Anderson x UGG Classic Boot 及 Tasman 將於 10 月 15 日在各大門店及 JWANDERSON.COM 上架。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fjw-anderson-ugg-collaboration-collection-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/jw-anderson-ugg-collaboration-collection-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "UGG"
+   ]
+  },
+  {
+   "id": 2,
    "title": "Prada 經典 America's Cup 運動鞋秋季全新配色登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -44,7 +55,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 3,
    "title": "Jaylen Brown 旗下品牌 7UICE 宣布推出特別版 BAPE STA 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -55,7 +66,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 3,
+   "id": 4,
    "title": "Jordan Brand 為秋冬季帶來全新 Air Jordan 12「Fireside」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -69,7 +80,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 5,
    "title": "ASICS Utility Collection 釋出 GEL-VENTX GTX、GEL-NYC 2.0 GTX 及 GEL-KAYANO 20 全新鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -82,7 +93,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 6,
    "title": "Jordan Brand 推出 Día de Muertos 限定 Air Jordan 1 Low OG「Somos Historias」",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -96,7 +107,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 7,
    "title": "LOEWE x On 最新「Cloudsolo Hiker」與「Cloudtilt Cosmic」鞋款：為山林與漫步而生",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -107,7 +118,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 7,
+   "id": 8,
    "title": "Jordan Brand 以大地色系打造全新 Air Jordan 3「Fireside」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -121,7 +132,20 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 9,
+   "title": "JW Anderson Brings Loafer Details to Classic UGG Silhouettes",
+   "source": "Hypebeast",
+   "date": "2026-10-13",
+   "content": "SummaryJW Anderson and UGG’s first collaboration updates the Classic Boot and Tasman with sophisticated penny loafer details.Launching October 15, the suede and fur-lined footwear features an autumnal color palette of Chestnut, Khaki, and Orange.In a first-time collaboration, JW Anderson and UGG have partnered for a collection that reimagines classic UGG silhouettes with sophisticated updates from designer Jonathan Anderson. Continuing Anderson’s tradition of bringing loafer-inspired details to different products, UGG’s Classic Boot and Tasman have been reimagined with distinct characteristics inspired by penny loafers.In a statement, Jonathan Anderson shared more insights on his approach: “UGGs are instantly recognisable, and I was interested in seeing something so familiar through the lens of JW Anderson.” “We’ve explored the loafer extensively at JW ANDERSON, not only as footwear but ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F13%2Fjw-anderson-ugg-collaboration-collection-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/jw-anderson-ugg-collaboration-collection-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG"
+   ]
+  },
+  {
+   "id": 10,
    "title": "Prada Gives the America’s Cup Sneaker an Autumnal Update",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -135,7 +159,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 11,
    "title": "Jaylen Brown's 7UICE Announces Special-Edition BAPE STA Collaboration",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -146,7 +170,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 10,
+   "id": 12,
    "title": "Jordan Brand Warms up the Season With the Air Jordan 12 \"Fireside\"",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -160,7 +184,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 13,
    "title": "ASICS Utility Collection GEL-VENTX GTX, GEL-NYC 2.0 GTX & GEL-KAYANO 20",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -173,7 +197,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 14,
    "title": "Jordan Brand Unveils Limited Air Jordan 1 Low OG \"Somos Historias\" for Día de Muertos",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -187,7 +211,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 15,
    "title": "The LOEWE x On “Cloudsolo Hiker” and “Cloudtilt Cosmic” Are Ready for Mountains and Moonwalks",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -200,7 +224,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 16,
    "title": "Jordan Brand Channels Earthy Tones With the Air Jordan 3 \"Fireside\"",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -214,11 +238,11 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 17,
    "title": "Jordan Triangle “Paolo”",
    "source": "Nice Kicks",
    "date": "2026-10-13",
-   "content": "The Jordan Triangle “Paolo” is set to release on October 20, 2026, via Nike.com and select retailers for $150. Check… The post Jordan Triangle “Paolo” appeared first on Nice Kicks .",
+   "content": "The Jordan Triangle “Paolo” is set to release on October 20, 2026, via Nike.com and select retailers for $150. Check out the photo below… The post Jordan Triangle “Paolo” appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/10/iq5570-300-5-e1791901173184.jpg",
    "link": "https://www.nicekicks.com/jordan-triangle-paolo-iq5570-300/",
    "lang": "en",
@@ -228,11 +252,11 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 18,
    "title": "Bad Bunny x adidas Gazelle Indoor “Solar Gold”",
    "source": "Nice Kicks",
    "date": "2026-10-13",
-   "content": "The Bad Bunny x adidas Gazelle Indoor “Solar Gold” brings a vibrant finish to the Puerto Rican artist’s latest take… The post Bad Bunny x adidas Gazelle Indoor “Solar Gold” appeared first on Nice Kicks .",
+   "content": "The Bad Bunny x adidas Gazelle Indoor “Solar Gold” brings a vibrant finish to the Puerto Rican artist’s latest take on the classic silhouette.… The post Bad Bunny x adidas Gazelle Indoor “Solar Gold” appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/10/KI2592_6-1-e1791383663861.jpg",
    "link": "https://www.nicekicks.com/bad-bunny-adidas-gazelle-indoor-solar-gold-ki2592/",
    "lang": "en",
@@ -241,7 +265,98 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 19,
+   "title": "New Balance’s Young Dad Shoe Wears a Secretly Nice GORE-TEX Rain Coat",
+   "source": "Highsnobiety",
+   "date": "2026-10-13",
+   "content": "New Balance's 2010 dad shoe gets a GORE-TEX makeover, resulting in three waterproof spins including an earthy \"Light Mushroom\" colorway.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-2010-gore-tex-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "Enter Converse's Feral AF Chuck Taylor Slip-on",
+   "source": "Highsnobiety",
+   "date": "2026-10-13",
+   "content": "Converse Japan's next move? Dropping the All-Star Pointed Toe Volume Fur Slip OX, a laceless sneaker featuring sharp toe boxes & hairy uppers.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/converse-all-star-pointed-toe-volume-fur-slip-ox/",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "The Nike “UGGs” Are Right on Time",
+   "source": "Highsnobiety",
+   "date": "2026-10-13",
+   "content": "Nike debuts its 24.7 boot, a plush suede recovery shoe with UGG-level flavor. Here's everything on the cozy model.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-24-7-boots/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Jordan’s Faded Dad Shoe Is From Another Planet",
+   "source": "Highsnobiety",
+   "date": "2026-10-13",
+   "content": "The Jordan Trunner O/S sneaker joins the 2026 \"Space Jam\" anniversary collection, dressed in a nice \"Terra Blush\" colorway.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-trunner-os-space-jam-planet/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Nike’s Croc ACG Boots Are a Different Breed",
+   "source": "Highsnobiety",
+   "date": "2026-10-13",
+   "content": "Nike introduces a yellow croc skin version of its Air Max Goadome Low boots. Here's everything on the limited release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-croc-vivid-sulfur/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "Nike’s Air Jordan 1 Retro High Og Royal Makes Its Grand Return",
+   "source": "Highsnobiety",
+   "date": "2026-10-13",
+   "content": "Nike's ultra-classic Royal Air Jordan 1 sneaker doesn't need on-court bravado to score.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nikes-air-jordan-1-retro-high-og-royal-sneaker/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "One Good Hiking Sneaker That Dresses Up Better Than I Do",
+   "source": "Highsnobiety",
+   "date": "2026-10-13",
+   "content": "One Good is Highsnobiety's series on the tried, tested, and trusted products we can’t stop fawning over. This round features a swanky suede sneaker.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/one-good-hiking-sneaker-diemme-vibram/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 26,
    "title": "Reebok and deadHYPE Put Berlin’s Creative Community in the Driver’s Seat",
    "source": "Highsnobiety",
    "date": "2026-10-13",
@@ -254,46 +369,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
-   "title": "New Balance Winterized Its Classic Mary Jane Sneaker",
-   "source": "Highsnobiety",
-   "date": "2026-10-13",
-   "content": "New Balance just made a hybrid furry Mary Jane sneaker blend fit for the winter months.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-mary-jane-winter-breeze/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "This Winterized Air Jordan Classic Has Mutated for Cold Weather",
-   "source": "Highsnobiety",
-   "date": "2026-10-13",
-   "content": "Re-engineering Peter Moore's timeless low-top profile with weather-resistant armor, Jordan Brand introduces the Air Jordan 1 Element Low A/T.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/air-jordan-1-element-low-at/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "Vans’ Tabi Surf Boot Finally Gets on Board",
-   "source": "Highsnobiety",
-   "date": "2026-10-13",
-   "content": "Vans' tabi-style Surf Bootie 3 MM is a typical Vans shredder made for the water.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-surf-bootie-3-mm/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 21,
+   "id": 27,
    "title": "Crocs 為《Chainsaw Man》打造四款截然不同的 Classic Clog 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-12",
@@ -306,7 +382,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 28,
    "title": "JJJJound 透過全麂皮結構重新演繹 New Balance 990v3",
    "source": "Hypebeast 中文",
    "date": "2026-10-12",
@@ -319,7 +395,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 29,
    "title": "Nike Air Max Goadome Low 全新「Yellow Croc」配色正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-12",
@@ -332,7 +408,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 30,
    "title": "SUBU x NANGA AURORA-TEX 聯乘冬季涼鞋登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-12",
@@ -343,7 +419,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 25,
+   "id": 31,
    "title": "Crocs Gives ‘Chainsaw Man’ Four Wildly Different Classic Clogs",
    "source": "Hypebeast",
    "date": "2026-10-12",
@@ -356,7 +432,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 32,
    "title": "JJJJound Reimagines the New Balance 990v3 With an All-Suede Construction",
    "source": "Hypebeast",
    "date": "2026-10-12",
@@ -369,7 +445,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 33,
    "title": "The Nike Air Max Goadome Low Goes Bold in “Yellow Croc”",
    "source": "Hypebeast",
    "date": "2026-10-12",
@@ -383,7 +459,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 34,
    "title": "SUBU x NANGA’s AURORA-TEX Winter Sandal Is Built to Brave Sockless Cold",
    "source": "Hypebeast",
    "date": "2026-10-12",
@@ -394,11 +470,11 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 29,
+   "id": 35,
    "title": "The Nike Air Force 1 Low “What The LA” Returns in October",
    "source": "Nice Kicks",
    "date": "2026-10-12",
-   "content": "The Nike Air Force 1 Low “What The LA” is making its return for a second release, giving sneakerheads another… The post The Nike Air Force 1 Low “What The LA” Returns in October appeared first on Nice Kicks .",
+   "content": "The Nike Air Force 1 Low “What The LA” is making its return for a second release, giving sneakerheads another opportunity to grab the… The post The Nike Air Force 1 Low “What The LA” Returns in October appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/10/ct1117-100-5-1-e1791847378569.jpg",
    "link": "https://www.nicekicks.com/nike-air-force-1-low-what-the-la-ct1117-100/",
    "lang": "en",
@@ -407,11 +483,11 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 36,
    "title": "Nike Sabrina 4 “Vampire” (IX7058-001) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-12",
-   "content": "The Nike Sabrina 4 “Vampire” is set to release on October 23, 2026, via Nike.com and select retailers for $145. Check out the photos below… The post Nike Sabrina 4 “Vampire” (IX7058-001) October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "content": "The Nike Sabrina 4 “Vampire” is set to release on October 23, 2026, via Nike.com and select retailers for $145. Check out the photos below and keep it locked… The post Nike Sabrina 4 “Vampire” (IX7058-001) October 2026 Release Date & Info appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/10/nike-IX7057-001-white-52-e1791831255613.jpg",
    "link": "https://www.nicekicks.com/nike-sabrina-4-vampire-ix7058-001-2026/",
    "lang": "en",
@@ -420,11 +496,11 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 37,
    "title": "APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-12",
-   "content": "The APB x Air Jordan 11 Low “Made For Locals” is expected to release October 23, 2026, via The Whitaker Group retail… The post APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "content": "The APB x Air Jordan 11 Low “Made For Locals” is expected to release October 23, 2026, via The Whitaker Group retail locations and online for… The post APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/10/IMG_3802-1-scaled-e1791824411985.jpg",
    "link": "https://www.nicekicks.com/apb-air-jordan-11-low-made-for-locals-iu8266-400/",
    "lang": "en",
@@ -433,11 +509,11 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 38,
    "title": "Nike KD 19 “Halloween” (IO8112-600) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-12",
-   "content": "The Nike KD 19 “Halloween” is set to release on October 23, 2026, via Nike.com and select retailers for $170. Check out the photos below… The post Nike KD 19 “Halloween” (IO8112-600) October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "content": "The Nike KD 19 “Halloween” is set to release on October 23, 2026, via Nike.com and select retailers for $170. Check out the photos below and keep it locked… The post Nike KD 19 “Halloween” (IO8112-600) October 2026 Release Date & Info appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/10/io8112-600-5-1-e1791815562411.jpg",
    "link": "https://www.nicekicks.com/nike-kd-19-halloween-io8112-600/",
    "lang": "en",
@@ -446,11 +522,11 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 39,
    "title": "S.F.T.M. x adidas Samba OG “Core Black”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
-   "content": "The S.F.T.M. x adidas Samba OG “Core Black” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out the… The post S.F.T.M. x adidas Samba OG “Core Black” appeared first on Nice Kicks .",
+   "content": "The S.F.T.M. x adidas Samba OG “Core Black” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out the photos below and keep… The post S.F.T.M. x adidas Samba OG “Core Black” appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/10/HQ7600_6-1-e1791814745837.jpg",
    "link": "https://www.nicekicks.com/s-f-t-m-adidas-samba-og-core-black-hq7600/",
    "lang": "en",
@@ -459,11 +535,11 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 40,
    "title": "S.F.T.M. x adidas Samba OG “Base Green”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
-   "content": "The S.F.T.M. x adidas Samba OG “Base Green” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out the… The post S.F.T.M. x adidas Samba OG “Base Green” appeared first on Nice Kicks .",
+   "content": "The S.F.T.M. x adidas Samba OG “Base Green” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out the photos below and keep… The post S.F.T.M. x adidas Samba OG “Base Green” appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/10/HP8257_6-1-e1791814613994.jpg",
    "link": "https://www.nicekicks.com/s-f-t-m-adidas-samba-og-base-green-hp8257/",
    "lang": "en",
@@ -472,11 +548,11 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 41,
    "title": "S.F.T.M. x adidas Samba OG “Supplier Colour”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
-   "content": "The S.F.T.M. x adidas Samba OG “Supplier Colour” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out the… The post S.F.T.M. x adidas Samba OG “Supplier Colour” appeared first on Nice Kicks .",
+   "content": "The S.F.T.M. x adidas Samba OG “Supplier Colour” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out the photos below and keep… The post S.F.T.M. x adidas Samba OG “Supplier Colour” appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/10/HP8256_6-1-e1791814489230.jpg",
    "link": "https://www.nicekicks.com/s-f-t-m-x-adidas-samba-og-supplier-colour-hp8256/",
    "lang": "en",
@@ -485,43 +561,16 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 42,
    "title": "S.F.T.M. x adidas SL 72 PRO “Wild Teal”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
-   "content": "The S.F.T.M. x adidas SL 72 PRO “Wild Teal” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out… The post S.F.T.M. x adidas SL 72 PRO “Wild Teal” appeared first on Nice Kicks .",
+   "content": "The S.F.T.M. x adidas SL 72 PRO “Wild Teal” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out the photos below and… The post S.F.T.M. x adidas SL 72 PRO “Wild Teal” appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/10/HQ7603_6-1-e1791814283683.jpg",
    "link": "https://www.nicekicks.com/s-f-t-m-adidas-sl-72-pro-wild-teal-hq7603/",
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
-   ]
-  },
-  {
-   "id": 37,
-   "title": "Wasted Paris x Clarks Originals Pack Britpop Memorabilia Into a Customizable Wallabee Lite",
-   "source": "Hypebeast",
-   "date": "2026-10-11",
-   "content": "Name: Wasted Paris x Clarks Wallabee LiteColorway: Black/BlackSKU: TBCMSRP: TBCRelease Date: October 15Where to Buy: WastedWasted Paris and Clarks Originals have teamed up on a Wallabee Lite in Black/Black that treats the shoe as a vessel for Britpop memorabilia. Built around a set of interchangeable pins, a guitar pick and a custom fob, the collaboration lets wearers decorate the silhouette themselves, mirroring the way fans of the era accumulated badges and souvenirs over time.The story begins in the mid-to-late ’90s, when the Wallabee became part of the Britpop landscape. The shoe turned up everywhere the scene gathered, from pubs and indie gigs to football terraces and backstage areas, along with every street that connected them. Britpop itself was never solely a sound. It was a mash-up of tastes, rituals, references and possessions that together formed the visual shorthand of a gene",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F09%2FWasted-Paris-Clarks-Wallabee-Lite-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/wasted-paris-clarks-wallabee-lite-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CLARKS"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "Shai Gilgeous-Alexander 透露親手繪製即將推出的 Nike SHAI 002 專屬鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-10",
-   "content": "摘要 Shai Gilgeous-Alexander 親自透露，他手繪設計了即將推出的 Nike SHAI 002 個人專屬簽名鞋款此鞋款是他第二款個人簽名鞋，亦是他由 Converse 轉投 Nike Basketball 旗下的首個全新設計Nike SHAI 002 預計於 2027 年年初發售，技術規格與官方圖片目前仍處於保密階段 Nike 與 Oklahoma City Thunder 巨星 Shai Gilgeous-Alexander 正在籌備即將推出的 Nike SHAI 002。在最近接受 TIME 的訪問中，Gilgeous-Alexander 確認他親手繪製了其第二款專屬鞋款的設計圖。Gilgeous-Alexander 在其鞋履系列中一直保持著直接的創意參與，他曾為 SHAI 001 繪製早期草圖，其後在後續型號中亦採用了完全相同的做法。當被問及粉絲可以對即將推出的 SHAI 002 有甚麼期待時，Gilgeous-Alexander 在訪問中表示：「型格的設計。因為是我畫的。這就是我能告訴你們的。」SHAI 002 是他自 2026 年 6 月正式從 Converse 過渡以來，首款在 Nike Basketball 旗下打造的全新專屬型號。雖然他的首款鞋款最初在 Converse 旗下推出，其後才在 Oklahoma City 的媒體日獲得 Nike 品牌認證，但他的第二款型號從一開始便延續了這位運動員的親身參與。Nike SHAI 002 預計將於 2027 年初推出。請密切留意發售的最新動態。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fshai-gilgeous-alexander-personally-hand-drew-nike-shai-002-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/shai-gilgeous-alexander-personally-hand-drew-nike-shai-002-revealed",
-   "lang": "zh",
-   "relatedBrands": [
-    "CONVERSE",
-    "NIKE"
    ]
   }
  ]
