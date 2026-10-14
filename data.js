@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-14 10:56",
+ "updatedAt": "2026-10-14 21:12",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,19 +17,233 @@ window.SNEAKER_DATA = {
  "brands": [
   "ADIDAS",
   "ASICS",
+  "BIRKENSTOCK",
   "CONVERSE",
   "CROCS",
   "JORDAN",
+  "LOUIS VUITTON",
   "NEW BALANCE",
   "NIKE",
   "PRADA",
-  "REEBOK",
-  "UGG"
+  "UGG",
+  "UNDER ARMOUR"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Tyler, The Creator 為 Converse Pro Leather 注入四種全新個性",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-14",
+   "content": "名稱： Converse x Golf Le Fleur* Pro Leather建議零售價： $105 美元發售日期： 現已發售購買連結： ConverseConverse 與 Tyler, The Creator 為經典 Pro Leather 鞋款帶來大膽變奏，進一步擴展雙方的 1908 聯乘企劃。此次推出「Molten Lava」、「Bison」、「White」和「Black」四款全新配色，充分展現這雙 1976 年經典籃球鞋經過重新演繹後的百搭可塑性。「Black」與「White」版本以頂級全粒面皮革打造，為系列奠定簡約的基礎美學。若追求更具質感的搶眼造型，「Bison」配色採用溫暖的大地啡色麂皮配搭柔和黃色點綴，而「Molten Lava」版本則以鮮艷的紅色麂皮配搭撞色鞋帶，視覺效果更為強烈。每款設計都彰顯出 Tyler 對色彩與材質的獨特觸覺，證明單一鞋款也能具備廣闊的美學層次。這款升級版 Pro Leather 的靈感源自早期手工改造鞋款輪廓的改裝店，採用了大幅誇張化的比例設計。鞋身配備更寬闊的鞋頭、加大的鞋帶孔排以及粗身鞋帶，營造出穩重厚實的姿態。穿孔細節、經典鞋跟面板與標誌性的 Star Chevron 圖案等復古元素保留了鞋款的豐富底蘊，而橫跨鞋頭的全新壓花星星圖案則增添了獨特的結構層次。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fconverse-tyler-the-creator-golf-le-fleur-pro-leather-molten-lava-bison-white-black-colorways-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/converse-tyler-the-creator-golf-le-fleur-pro-leather-molten-lava-bison-white-black-colorways-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Kiko Kostadinov x Crocs 官方正式發佈全新聯乘鞋款 VAALS",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-14",
+   "content": "摘要 Kiko Kostadinov 與 Crocs 正式公開雙方聯乘鞋款 VAALS鞋身結構結合真皮荔枝紋皮革與三層網布，並搭配檔備庫中的 Genna TPU 帶與 LiteRide 腳墊該鞋款將於 10 月 20 日推出三款配色，並登陸 Kiko Kostadinov 旗艦店、官方網站及全球指定零售商 Kiko Kostadinov 與 Crocs 正式發佈全新 Kiko Kostadinov x Crocs VAALS 鞋款。這雙聯乘鞋款最初於這位保加利亞設計師在巴黎舉行的 2026 秋冬男裝時裝展上亮相，透過傳統工藝與技術細節，重新演繹了該鞋履品牌的美學語言。鞋面以長橢圓形鞋頭及包裹式的馬鞍針步細節為亮點，結合了真皮荔枝紋皮革與透氣的三文治網眼布。鞋身結構由特製的 TPU 飾帶加強，向 Crocs 的典藏款 Genna 致敬，並配備可調節的索帶系統和專屬的鞋跟拉環。鞋底方面，這款鞋結合了堅固的橡膠外底與 Crocs 專利的 LiteRide™ 鞋床，提供日常輕量的支撐與緩震效果。是次發佈的宣傳大片由美國藝術家 Jim Mangan 於 Crocs 位於 Colorado 州 Boulder 的總部附近拍攝。在 Red Rocks 的古老砂岩地貌與 Charles Haertling 建於 1969 年的有機建築 Mushroom House 襯托下，影像展示了鞋款與 Kiko Kostadinov 2026 秋冬服飾的造型配搭。此鞋款將提供「Black」、「Kelp」及「Yellow Sand」三種配色。Kiko Kostadinov x Crocs VAALS 將於 10 月 20 日在官方網站、Kiko Kostadinov 位於倫敦、洛杉磯和東京的旗艦店，以及全球指定零售商發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fkiko-kostadinov-crocs-vaals-black-kelp-yellow-sand-footwear-fw26-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/kiko-kostadinov-crocs-vaals-black-kelp-yellow-sand-footwear-fw26-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "知名實況主 Rakai 攜手 Under Armour 推出 Arc 96「25XX」聯乘鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-14",
+   "content": "摘要 實況主 Rakai 正式與 Under Armour 合作，推出其首款聯乘波鞋 Arc 96「25XX」設計以大孔網眼布料為底座，配上金屬銀色覆面、螢光綠色點綴，以及具立體雕刻感的未來感大底這雙聯乘鞋款將於 10 月 19 日透過 Under Armour 及指定零售店發售，售價為 $155 美元 名稱：Rakai x Under Armour Arc 96「25XX」配色：綠／黑／銀型號：6023886-391建議零售價：$155 美元發售日期：2026 年 10 月 19 日購買地點：Under ArmourUnder Armour 官方正式推出 Rakai x Under Armour Arc 96「25XX」，標誌著這位人氣內容創作者與專業運動服飾品牌的首度鞋款合作。此企劃最初於 2026 年 3 月的一次實況直播中曝光，如今正式從螢幕走向零售貨架。設計以 Under Armour 專注休閒生活風格的 Arc 96 鞋型為基礎，採用透氣的開放式網眼鞋面，搭配巨型的結構覆面以及立體未來感十足的鞋底設計。配色方面以螢光綠、黑色和金屬銀構成高對比度的組合。鞋舌與鞋跟護片上印有定製的「25XX」品牌標誌，將這位實況主的個人美學注入品牌的生活風格系列之中。此次發售反映出運動服飾品牌正持續將目光投向傳統運動員以外的領域，藉由邀請數碼創作者與實況主合作來推動當代波鞋文化的發展。Rakai x Under Armour Arc 96「25XX」將於 2026 年 10 月 19 日透過 Under Armour 及指定零售商發售，定價為 $155 美元。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fstreamer-rakai-under-armour-arc-96-25xx-official-look-6023886-391-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/streamer-rakai-under-armour-arc-96-25xx-official-look-6023886-391-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "UNDER ARMOUR"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Thibo Denis 與 Birkenstock 1774 帶來 Uerzell 運動鞋穆勒鞋 3 款新配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-14",
+   "content": "摘要 Birkenstock 透過其總部位於 Paris 的 1774 支線，重新推出了「Cuoio」、「Caccia」及「Wine」配色的 Uerzell 運動鞋式穆勒鞋這款鞋履與 Thibo Denis 合作設計，將繫帶運動鞋鞋面與傳統木屐外形及顯眼的外露軟木中底相結合鞋款配備符合人體工學的 Blue Footbed 鞋墊，現已於 1774.com 及全球指定零售商發售，售價為 $395 美元 Birkenstock 官方正式為 Uerzell 運動鞋穆勒鞋帶來 3 款全新季節性配色。本次發佈由該鞋履品牌位於巴黎的特別企劃與合作單位 Birkenstock 1774 策劃推出。作為 Ensemble 1774 企劃於 2025 年首次亮相的設計，該鞋款是與目前擔任 Louis Vuitton 男裝成衣、鞋履及配飾設計總監的法國設計師 Thibo Denis 合作構思。設計將木底鞋的易穿性與綁帶運動鞋的風格結合，重點在於充滿雕塑感的比例、增高的鞋底以及清晰可見的天然水松木中底。此次提供「Cuoio」、「Caccia」和「Wine」配色，每雙鞋均配備標誌性的 Birkenstock Blue Footbed，這是一款可拆卸、符合解剖學形狀的鞋墊，並以這個歷史悠久品牌的骨科基礎為藍本。混合結構以 Birkenstock 經典的骨頭紋外底作結，並飾有藍色壓印 1774 工作室標誌。Birkenstock Uerzell 現已透過 1774.com 及指定全球零售商發售，售價為 $395 美元。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fthibo-denis-birkenstock-1774-uerzell-sneaker-mule-three-new-colorways-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/thibo-denis-birkenstock-1774-uerzell-sneaker-mule-three-new-colorways-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "BIRKENSTOCK",
+    "LOUIS VUITTON"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Joe Freshgoods 率先釋出 New Balance 990v7 更清晰近賞",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-14",
+   "content": "摘要 Joe Freshgoods 透過其 Instagram Story 分享了即將登場的 New Balance 990v7 近照該鞋款採用升級面板、3M 反光細節、加大的 N 字標誌以及全新設計的大底單元中底科技改進融入更柔軟的 FuelCell 泡棉、ENCAP 緩震、CR 穩定組件以及全新的 TPU 抗扭片 繼早前在 New York 唐人街廣告牌上的預告，以及歌手 Rosalía 被拍到率先上腳後，設計師 Joe Freshgoods 日前在社交媒體上公開了尚未發佈的 New Balance 990v7，讓這款即將推出的鞋作展露更多細節。全新版本在 990v6 的基礎上作出了幾項顯著的結構調整。鞋面採用更寬大的擋泥板設計，覆蓋層的位置明顯加高，使底層更貼近前腳掌。整體鞋身融入了 3M 反光細節，中足醒目的「N」字標誌則汲取了 990v3 等經典型號的設計靈感。首發配色保留了品牌標誌性的灰色麂皮鞋面，並在標誌與中底部分注入低調的仿舊處理，形成視覺對比。鞋底方面，New Balance 重新設計了緩震系統，在提升舒適度的同時，亦保留了 990 系列標誌性的穩定表現。中底配置以更柔軟的 FuelCell 泡棉取代了以往較硬的物料，並結合 ENCAP 緩震系統、CR 穩定裝置以及經過重新設計的 TPU 穩定片作進一步強化。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fjoe-freshgoods-new-balance-990v7-closer-look-teased-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/joe-freshgoods-new-balance-990v7-closer-look-teased",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Tyler, The Creator Gives the Converse Pro Leather Four New Personalities",
+   "source": "Hypebeast",
+   "date": "2026-10-14",
+   "content": "Name: Converse x Golf Le Fleur* Pro LeatherMSRP: $105 USDRelease Date: Available NowWhere to Buy: ConverseConverse and Tyler, The Creator are expanding their collaborative 1908 program with a bold update to the iconic Pro Leather silhouette. Dropping in four distinct new colorways - “Molten Lava,” “Bison,” “White,” and “Black” - the release showcases the sheer versatility of the reimagined 1976 basketball classic.The “Black” and “White” iterations anchor the collection with a clean, foundational aesthetic built from premium full-grain leather. For a more textured, striking look, the “Bison” colorway offers a warm, earthy brown suede paired with soft yellow accents, while the \"Molten Lava\" execution turns up the volume in a vibrant red suede complete with contrasting laces. Each expression highlights Tyler's unique instinct for color and material storytelling, proving how much aesthetic r",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F14%2Fconverse-tyler-the-creator-golf-le-fleur-pro-leather-molten-lava-bison-white-black-colorways-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/converse-tyler-the-creator-golf-le-fleur-pro-leather-molten-lava-bison-white-black-colorways-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Kiko Kostadinov and Crocs Officially Unveil the VAALS Silhouette",
+   "source": "Hypebeast",
+   "date": "2026-10-14",
+   "content": "Summary Kiko Kostadinov and Crocs have unveiled their collaborative VAALS footwear silhouetteThe construction pairs genuine tumbled leather and sandwich mesh with an archival Genna TPU band and LiteRide footbedThe model releases on October 20 in three colorways across Kiko Kostadinov flagships webstore and global retailers Kiko Kostadinov and Crocs have officially unveiled the Kiko Kostadinov x Crocs VAALS silhouette. First seen on the runway during the Bulgarian designer's Fall/Winter 2026 menswear presentation in Paris, the collaborative shoe reinterprets the footwear brand's aesthetic language through traditional craftsmanship and technical detailing.Anchored by an oblong toe shape with wrapped saddle-stitch detailing, the upper combines genuine tumbled leather with breathable sandwich mesh. Structural integrity is reinforced by a custom-moulded TPU band paying homage to Crocs’ archiv",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F13%2Fkiko-kostadinov-crocs-vaals-black-kelp-yellow-sand-footwear-fw26-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/kiko-kostadinov-crocs-vaals-black-kelp-yellow-sand-footwear-fw26-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CROCS",
+    "UGG"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Streamer Rakai Takes the Under Armour Arc 96 \"25XX\" From Livestream to Retail",
+   "source": "Hypebeast",
+   "date": "2026-10-14",
+   "content": "Summary Streamer Rakai has officially partnered with Under Armour to deliver his debut sneaker the Arc 96 \"25XX\"The design pairs an open mesh base with metallic silver overlays neon green accents and sculpted futuristic toolingThe collaborative pair releases on October 19 for $155 USD via Under Armour and select retail shops Name: Rakai x Under Armour Arc 96 \"25XX\"Colorway: Green/Black/SilverSKU: 6023886-391MSRP: $155 USDRelease Date: October 19, 2026Where to Buy: Under ArmourUnder Armour has officially readied the Rakai x Under Armour Arc 96 “25XX”, marking the popular content creator's debut footwear release with the performance sportswear imprint.First revealed during a livestream in March 2026, the project transitions from broadcast screens to retail shelves. Built atop Under Armour’s lifestyle-focused Arc 96 model, the design features a breathable open mesh upper paired with oversiz",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F13%2Fstreamer-rakai-under-armour-arc-96-25xx-official-look-6023886-391-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/streamer-rakai-under-armour-arc-96-25xx-official-look-6023886-391-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "UNDER ARMOUR"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Thibo Denis and Birkenstock 1774 Reintroduce the Uerzell Sneaker Mule in Three New Colorways",
+   "source": "Hypebeast",
+   "date": "2026-10-14",
+   "content": "Summary Birkenstock has reintroduced the Uerzell sneaker mule in \"Cuoio\" \"Caccia\" and \"Wine\" colorways via its Paris-based 1774 lineDesigned in collaboration with Thibo Denis the silhouette merges a lace-up sneaker upper with a traditional clog profile and visible cork midsoleThe pairs feature an anatomical Blue Footbed and are available now for $395 USD via 1774.com and select global stockists Birkenstock has officially reintroduced the Uerzell sneaker mule in three new seasonal colorways. The release arrives through the footwear brand’s Paris-based special projects and collaborative unit, Birkenstock 1774.As the inaugural design under the Ensemble 1774 initiative debuted in 2025, the model was conceived in partnership with French designer Thibo Denis, currently the design director of men’s ready-to-wear, shoes, and accessories at Louis Vuitton. Fusing the easy-wear function of a clog w",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F14%2Fthibo-denis-birkenstock-1774-uerzell-sneaker-mule-three-new-colorways-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/thibo-denis-birkenstock-1774-uerzell-sneaker-mule-three-new-colorways-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "BIRKENSTOCK",
+    "LOUIS VUITTON"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Joe Freshgoods Teases Closer Look at the New Balance 990v7",
+   "source": "Hypebeast",
+   "date": "2026-10-14",
+   "content": "Summary Joe Freshgoods shared a closer look at the upcoming New Balance 990v7 via his Instagram StoryThe silhouette introduces elevated panels reflective 3M detailing an enlarged N logo and a redesigned sole unitTooling updates incorporate softer FuelCell foam ENCAP cushioning a CR stability component and a new TPU shank plate New Balance's upcoming 990v7 has surfaced in greater detail after designer Joe Freshgoods previewed the unreleased silhouette on social media. The preview follows teasers on a New York Chinatown billboard and an earlier candid sighting on singer Rosalía.Building on the foundation of the 990v6, the updated iteration incorporates several distinct structural adjustments. The upper features an enlarged mudguard and overlays that sit noticeably higher, pushing underlying layers closer toward the forefoot. Reflective 3M accents are integrated throughout the build, while ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F13%2Fjoe-freshgoods-new-balance-990v7-closer-look-teased-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/joe-freshgoods-new-balance-990v7-closer-look-teased",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Nike’s Air Max Loafer Is Bigger than the Snoafer Phenomenon",
+   "source": "Highsnobiety",
+   "date": "2026-10-14",
+   "content": "Nike's luxe brown leather Air Max Phenomena sneaker-loafer hybrid shoe means big business.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nikes-air-max-phenomena-loafer-brown/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "New Balance’s Spacey Dad Shoe Is a Different Beast Entirely",
+   "source": "Highsnobiety",
+   "date": "2026-10-14",
+   "content": "New Balance’s 983 brings a space-age twist to the chunky dad shoe, pairing a sculptural silhouette with oversized overlays, and a distinctly futuristic feel.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-blance-983/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "New Balance’s Young Dad Shoe Wears a Secretly Nice GORE-TEX Rain Coat",
+   "source": "Highsnobiety",
+   "date": "2026-10-14",
+   "content": "New Balance's 2010 dad shoe gets a GORE-TEX makeover, resulting in three waterproof spins including an earthy \"Light Mushroom\" colorway.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-2010-gore-tex-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "The Nike “UGGs” Are Right on Time",
+   "source": "Highsnobiety",
+   "date": "2026-10-14",
+   "content": "Nike debuts its 24.7 boot, a plush suede recovery shoe with UGG-level flavor. Here's everything on the cozy model.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-24-7-boots/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Jordan’s Faded Dad Shoe Is From Another Planet",
+   "source": "Highsnobiety",
+   "date": "2026-10-14",
+   "content": "The Jordan Trunner O/S sneaker joins the 2026 \"Space Jam\" anniversary collection, dressed in a nice \"Terra Blush\" colorway.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-trunner-os-space-jam-planet/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Nike’s Croc ACG Boots Are a Different Breed",
+   "source": "Highsnobiety",
+   "date": "2026-10-14",
+   "content": "Nike introduces a yellow croc skin version of its Air Max Goadome Low boots. Here's everything on the limited release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-croc-vivid-sulfur/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 17,
    "title": "JW Anderson 為經典 UGG 鞋款注入樂福鞋細節",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -42,7 +256,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 18,
    "title": "Prada 經典 America's Cup 運動鞋秋季全新配色登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -55,7 +269,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 19,
    "title": "Jaylen Brown 旗下品牌 7UICE 宣布推出特別版 BAPE STA 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -66,7 +280,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 4,
+   "id": 20,
    "title": "Jordan Brand 為秋冬季帶來全新 Air Jordan 12「Fireside」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -80,7 +294,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 21,
    "title": "ASICS Utility Collection 釋出 GEL-VENTX GTX、GEL-NYC 2.0 GTX 及 GEL-KAYANO 20 全新鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -93,7 +307,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 22,
    "title": "Jordan Brand 推出 Día de Muertos 限定 Air Jordan 1 Low OG「Somos Historias」",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -107,7 +321,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 23,
    "title": "LOEWE x On 最新「Cloudsolo Hiker」與「Cloudtilt Cosmic」鞋款：為山林與漫步而生",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -118,21 +332,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 8,
-   "title": "Jordan Brand 以大地色系打造全新 Air Jordan 3「Fireside」配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-13",
-   "content": "摘要 Jordan Brand 推出全新的 Air Jordan 3「Fireside」，採用大地色系的「Velvet Brown」色調鞋款融入荔枝皮、麂皮細節，以及同色系的啡色爆裂紋圖案附送淡粉紅色鞋帶，搭配「Pearl White」點綴，襯託出深啡色中底與「Gum Light Brown」生膠大底 名稱：Air Jordan 3「Fireside」配色：Velvet Brown/Light British Tan-Rust Pink-Pearl WhiteSKU：JA7805-302建議售價：$205 美元發售日期：2026 年 10 月 30 日購買連結： NikeJordan Brand 官方正式發佈 Air Jordan 3「Fireside」。這款全新配色採用豐富的大地色調，結合多種優質材質，重現深受歡迎的 Travis Scott 標誌性色塊設計。鞋面以深邃的 Velvet Brown 為主調，主要部分選用荔枝皮，鞋舌、鞋領及鞋帶孔邊緣則點綴柔軟的麂皮。鞋款保留了 Air Jordan 3 經典傳統，標誌性的爆裂紋覆蓋鞋頭與鞋跟，並改以相襯的啡色塗層呈現，有別於傳統的灰色對比設計。鞋舌及鞋跟處的 Jumpman 標誌以 Pearl White 呈現，與預先穿好的鞋帶互相呼應。此外，鞋款附送一對淡粉紅色替換鞋帶，為低調的啡色鞋面帶來強烈的視覺對比。鞋底方面，深啡色中底搭配經典的 Gum Light Brown 橡膠外底，完美呼應這款充滿季節色彩的設計。Air Jordan 3「Fireside」將於 2026 年 10 月 30 日正式發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fair-jordan-3-fireside-CK9246-200-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/air-jordan-3-fireside-ck9246-200-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 9,
+   "id": 24,
    "title": "JW Anderson Brings Loafer Details to Classic UGG Silhouettes",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -145,7 +345,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 25,
    "title": "Prada Gives the America’s Cup Sneaker an Autumnal Update",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -159,7 +359,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 26,
    "title": "Jaylen Brown's 7UICE Announces Special-Edition BAPE STA Collaboration",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -170,7 +370,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 12,
+   "id": 27,
    "title": "Jordan Brand Warms up the Season With the Air Jordan 12 \"Fireside\"",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -184,7 +384,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 28,
    "title": "ASICS Utility Collection GEL-VENTX GTX, GEL-NYC 2.0 GTX & GEL-KAYANO 20",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -197,7 +397,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 29,
    "title": "Jordan Brand Unveils Limited Air Jordan 1 Low OG \"Somos Historias\" for Día de Muertos",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -211,7 +411,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 30,
    "title": "The LOEWE x On “Cloudsolo Hiker” and “Cloudtilt Cosmic” Are Ready for Mountains and Moonwalks",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -224,21 +424,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
-   "title": "Jordan Brand Channels Earthy Tones With the Air Jordan 3 \"Fireside\"",
-   "source": "Hypebeast",
-   "date": "2026-10-13",
-   "content": "Summary Jordan Brand is introducing the Air Jordan 3 Fireside featuring an earth-toned Velvet Brown paletteThe sneaker incorporates tumbled leather suede detailing and a tonal brown elephant print patternExtra pale pink laces and Pearl White accents complement the dark brown midsole and Gum Light Brown outsole Name: Air Jordan 3 \"Fireside\"Colorway: Velvet Brown/Light British Tan-Rust Pink-Pearl WhiteSKU: JA7805-302MSRP: $205 USDRelease Date: October 30, 2026Where to Buy: NikeJordan Brand has officially revealed the Air Jordan 3 \"Fireside\". The upcoming colorway embraces a rich, earth-toned palette that channels popular Travis Scott-inspired color blocking across a mix of premium materials.The upper is dominated by a deep Velvet Brown tone, utilizing tumbled leather across the main panels alongside soft suede accents along the tongue, collar, and eyestays. Maintaining classic Air Jordan 3",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F12%2Fair-jordan-3-fireside-CK9246-200-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/air-jordan-3-fireside-ck9246-200-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 17,
+   "id": 31,
    "title": "Jordan Triangle “Paolo”",
    "source": "Nice Kicks",
    "date": "2026-10-13",
@@ -252,7 +438,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 32,
    "title": "Bad Bunny x adidas Gazelle Indoor “Solar Gold”",
    "source": "Nice Kicks",
    "date": "2026-10-13",
@@ -265,20 +451,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
-   "title": "New Balance’s Young Dad Shoe Wears a Secretly Nice GORE-TEX Rain Coat",
-   "source": "Highsnobiety",
-   "date": "2026-10-13",
-   "content": "New Balance's 2010 dad shoe gets a GORE-TEX makeover, resulting in three waterproof spins including an earthy \"Light Mushroom\" colorway.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-2010-gore-tex-sneakers/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 20,
+   "id": 33,
    "title": "Enter Converse's Feral AF Chuck Taylor Slip-on",
    "source": "Highsnobiety",
    "date": "2026-10-13",
@@ -291,186 +464,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
-   "title": "The Nike “UGGs” Are Right on Time",
-   "source": "Highsnobiety",
-   "date": "2026-10-13",
-   "content": "Nike debuts its 24.7 boot, a plush suede recovery shoe with UGG-level flavor. Here's everything on the cozy model.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-24-7-boots/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "Jordan’s Faded Dad Shoe Is From Another Planet",
-   "source": "Highsnobiety",
-   "date": "2026-10-13",
-   "content": "The Jordan Trunner O/S sneaker joins the 2026 \"Space Jam\" anniversary collection, dressed in a nice \"Terra Blush\" colorway.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-trunner-os-space-jam-planet/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "Nike’s Croc ACG Boots Are a Different Breed",
-   "source": "Highsnobiety",
-   "date": "2026-10-13",
-   "content": "Nike introduces a yellow croc skin version of its Air Max Goadome Low boots. Here's everything on the limited release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-croc-vivid-sulfur/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "Nike’s Air Jordan 1 Retro High Og Royal Makes Its Grand Return",
-   "source": "Highsnobiety",
-   "date": "2026-10-13",
-   "content": "Nike's ultra-classic Royal Air Jordan 1 sneaker doesn't need on-court bravado to score.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nikes-air-jordan-1-retro-high-og-royal-sneaker/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "One Good Hiking Sneaker That Dresses Up Better Than I Do",
-   "source": "Highsnobiety",
-   "date": "2026-10-13",
-   "content": "One Good is Highsnobiety's series on the tried, tested, and trusted products we can’t stop fawning over. This round features a swanky suede sneaker.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/one-good-hiking-sneaker-diemme-vibram/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 26,
-   "title": "Reebok and deadHYPE Put Berlin’s Creative Community in the Driver’s Seat",
-   "source": "Highsnobiety",
-   "date": "2026-10-13",
-   "content": "Reebok and deadHYPE brought Reebok Full Circle to Berlin and gave the tools to create to their community.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/reebok-and-deadhype/",
-   "lang": "en",
-   "relatedBrands": [
-    "REEBOK"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "Crocs 為《Chainsaw Man》打造四款截然不同的 Classic Clog 聯乘鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-12",
-   "content": "名稱：《Chainsaw Man》x Crocs Classic Clog 聯乘系列建議售價：$70 至 $80 美元發售日期：10 月 27 日購買點：CrocsCrocs 將《Chainsaw Man》混亂的視覺世界注入 Classic Clog 中，推出以 Denji/Chainsaw Man、Power、Pochita 及其他角色為中心的四款聯乘系列。其中主打的 Chainsaw Man 鞋款採用最激進的設計手法，鮮紅色的鞋身配上黑黃相間的圖案條紋，鞋面飾有鋸齒狀的黑色刀片元素，前掌周圍亦有牙齒般的細節。黑色中底與深色後跟帶平衡了飽和的色彩，而 Chainsaw Man 及 Pochita 的 Jibbitz 鞋釘則增添了角色的個性。Power 版本改以灰藍色鞋身呈現，並與佈滿血紅色圖案的奶油色中底及紅色外底形成對比。鞋面交錯著半透明的紅色鏈條細節，而毛茸茸的白色後跟帶則飾有 Power 標誌性的尖角，為設計帶來富戲劇性的質感與色彩交融。Pochita 款式採用 Classic Lined Clog 鞋型，是系列中最具雕塑感的設計。鞋款以鮮橙色的鞋身重現角色，配有圖案眼睛、從鞋頭延伸的電鋸刀片，以及環繞鞋底、靈感來自拉繩的尾巴。橙色的毛絨內襯延續了角色溫暖的色調，而黑色與金屬質感的細節則強化了電鋸的主題。相比之下，Characters 款式的 Classic Clog 主要以黑色為基調，並印有 Denji、Pochita、Power、Makima 及 Aki 的圖像，配上散落的紅色潑墨效果，深色圖案細節環繞鞋底。五款以角色為主題的 Jibbitz 鞋釘進一步豐富了印花設計，營造出比單一角色款式更豐富的漫畫／動畫拼貼效果。這四款設計均保留了 Crocs 輕巧、透氣孔及可旋轉後跟帶的經典配置，而 Pochita 版本則改用 Classic Lined Clog，帶來更柔軟保暖的穿著體驗。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fchainsaw-man-crocs-classic-clog-collection-chainsaw-man-213925-90h-power-213926-90h-pochita-213928-90h-characters-213927-90h-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/chainsaw-man-crocs-classic-clog-collection-chainsaw-man-213925-90h-power-213926-90h-pochita-213928-90h-characters-213927-90h-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "CROCS"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "JJJJound 透過全麂皮結構重新演繹 New Balance 990v3",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-12",
-   "content": "摘要 JJJJound 與 New Balance 正式揭曉採用全麂皮製作的 MADE in USA 990v3 鞋款這款聯乘波鞋完全省去傳統的網眼底層，換上純色麂皮鞋面鞋款配以對比鮮明的黑色外底、包邊與品牌標誌，預計於 10 月 22 日發售 JJJJound 與 New Balance 正式發表聯乘麂皮版 New Balance MADE in USA 990v3，並公布官方發售日期。這款即將登場的聯乘新作透過單一材質重新演繹此標誌性跑鞋輪廓，以優質的全麂皮外觀取代標準網眼結構。為探索這款經典跑鞋輪廓在全麂皮結構下所呈現的質感，此企劃捨棄傳統網眼底層，賦予鞋款更高級的特質。藉由以全單色麂皮鞋面取代常見的網眼基底，是次發布為雙方持續推出的 MADE in USA 系列注入全新材質語言。單色鞋面與對比鮮明的黑色外底、飾邊及標誌性品牌細節互相映襯，呈現出更俐落、低調的輪廓。鞋款遊走於奢華材質與運動傳統的交匯處，在熟悉的 Made in USA 機能跑鞋比例與高級設計手法中取得平衡。全新 JJJJound x New Balance MADE in USA 990v3 麂皮鞋款將於 2026 年 10 月 22 日透過 JJJJound 發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fjjjjound-new-balance-990v3-tan-suede-official-release-date-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/jjjjound-new-balance-990v3-tan-suede-official-release-date-revealed",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "Nike Air Max Goadome Low 全新「Yellow Croc」配色正式登場",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-12",
-   "content": "名稱：Nike Air Max Goadome Low「Yellow Croc」配色：Vivid Sulfur/Black型號：IV4517-700建議售價：$175 美元發售日期：10 月 15 日發售地點：NikeNike 繼續重塑主打粗獷風格的 Air Max Goadome，帶來全新低筒「Yellow Croc」配色，官方命名為「Vivid Sulfur/Black」。鞋面幾乎完全由鮮艷的黃色皮革包裹，並壓印上立體鱷魚紋，令這雙傳統實用鞋款散發出更精緻、更具個性的氣息。光澤飾面突顯了鞋頭、側板及鞋跟上的鱗片紋理，而鞋領周圍較平滑的穿孔皮革則為質感帶來微妙變化。同色系縫線與鞋帶保持鞋面視覺統一，並於側邊鞋跟點綴黑色 Swoosh 標誌，與深色內裡一同與飽和的黃色形成強烈對比。在鞋底部分，設計驟然轉向黑色，厚實的 Air Max 中底、可視式氣墊與橡膠外底平衡了明亮的鞋面，同時保留了 Goadome 重裝比例的特色。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-air-max-goadome-low-yellow-croc-vivid-sulfur-black-iv4517-700-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/nike-air-max-goadome-low-yellow-croc-vivid-sulfur-black-iv4517-700-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "SUBU x NANGA AURORA-TEX 聯乘冬季涼鞋登場",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-12",
-   "content": "名稱：NANGA x SUBU Aurora-Tex Winter Sandal配色：Black商品編號：NA2443-3E105建議售價：¥8,800 JPY（約 $55 USD）發售日期：2026 年 12 月購買地點：RakutenSUBU 與 NANGA 攜手推出 AURORA-TEX 冬季涼鞋，這款針對寒冷天氣設計的套穿式鞋款將 SUBU 標誌性的鋪棉輪廓包覆於 NANGA 專利的機能面料中。最終成就了一雙專為冬季穿著設計的涼鞋，無論是露營地的清晨還是到街角便利店的短暫外出皆能輕鬆應對。鞋面完全採用尼龍製成，並經過 AURORA-TEX 處理，這是 NANGA 為自家戶外裝備研發的防水透氣物料。這種面料有助防止雨水浸透，同時讓濕氣排出，這對於一雙專為赤腳穿著而設的鞋履來說至關重要。全黑外殼帶來俐落實用的外觀。涼鞋的內部更是展現其冬季保暖實力的地方。NANGA 與 SUBU 採用印有抽象迷彩圖案的拉絨起毛布料作為鞋床區域的內襯，為內部帶來柔軟觸感，並有效保留體溫。腳下的四層鞋墊提供了深層緩震效果，感覺更接近拖鞋而非一般涼鞋。合成外底則負責提供抓地力及耐用度。尺寸方面沿用 SUBU 的三段式系統，保持靈活貼合且適合男女穿著。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FftNanga-SUBU-Auror-tex-Winter-Sandal-NA2443-3E105-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/nanga-subu-auror-tex-winter-sandal-na2443-3e105-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 31,
-   "title": "Crocs Gives ‘Chainsaw Man’ Four Wildly Different Classic Clogs",
-   "source": "Hypebeast",
-   "date": "2026-10-12",
-   "content": "Name: ‘Chainsaw Man’ x Crocs Classic Clog CollectionMSRP: $70 - $80 USDRelease Date: October 27Where to Buy: CrocsCrocs is bringing the chaotic visual world of Chainsaw Man to the Classic Clog with a four-style collection centered on Denji/Chainsaw Man, Power, Pochita and the wider cast.The main Chainsaw Man pair takes the most aggressive approach, dressing the clog in vivid red with black and yellow graphic striping, jagged black blade-like elements running along the upper and tooth-like detailing around the forefoot. Black tooling and a dark heel strap ground the saturated finish, while Chainsaw Man and Pochita Jibbitz charms add another character-driven layer. Power’s edition shifts into a dusty blue upper contrasted by cream tooling splashed with blood-red graphics and a red outsole. Translucent red chain detailing crosses the vamp, while the fuzzy white heel strap is finished with P",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F12%2Fchainsaw-man-crocs-classic-clog-collection-chainsaw-man-213925-90h-power-213926-90h-pochita-213928-90h-characters-213927-90h-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/chainsaw-man-crocs-classic-clog-collection-chainsaw-man-213925-90h-power-213926-90h-pochita-213928-90h-characters-213927-90h-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CROCS"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "JJJJound Reimagines the New Balance 990v3 With an All-Suede Construction",
-   "source": "Hypebeast",
-   "date": "2026-10-12",
-   "content": "Summary JJJJound and New Balance have unveiled an all-suede iteration of the MADE in USA 990v3 silhouetteThe collaborative sneaker completely removes traditional mesh underlays for a full monochromatic suede upperThe pair features contrasting black outsoles trims and branding and is scheduled to release on October 22 JJJJound and New Balance have officially presented the collaborative New Balance MADE in USA 990v3 in suede, revealing the official release date. The upcoming collaboration reimagines the iconic running silhouette through a singular material expression, replacing its standard mesh construction with a premium, all-suede finish.Designed to explore how the heritage running silhouette feels when constructed entirely in suede, the project eliminates traditional mesh underlays to give the sneaker a more elevated character. By substituting the usual mesh base for a full monochromat",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F11%2Fjjjjound-new-balance-990v3-tan-suede-official-release-date-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/jjjjound-new-balance-990v3-tan-suede-official-release-date-revealed",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "The Nike Air Max Goadome Low Goes Bold in “Yellow Croc”",
-   "source": "Hypebeast",
-   "date": "2026-10-12",
-   "content": "Name: Nike Air Max Goadome Low “Yellow Croc”Colorway: Vivid Sulfur/BlackSKU: IV4517-700MSRP: $175 USDRelease Date: October 15Where to Buy: NikeNike continues to reshape the rugged Air Max Goadome for lifestyle wear with a new low-top “Yellow Croc” edition, officially dressed in a \"Vivid Sulfur/Black\" color palette. The upper is almost entirely wrapped in vivid yellow leather embossed with a pronounced crocodile pattern, giving the traditionally utilitarian silhouette a much more polished, statement-driven character.A glossy finish emphasizes the raised scales across the toe box, side panels and heel, while smoother perforated leather around the collar adds a subtle change in texture. Tonal stitching and laces keep the upper visually cohesive, leaving a small black Swoosh near the lateral heel and the dark interior lining to provide the strongest contrast against the saturated yellow.Unde",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F12%2Fnike-air-max-goadome-low-yellow-croc-vivid-sulfur-black-iv4517-700-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nike-air-max-goadome-low-yellow-croc-vivid-sulfur-black-iv4517-700-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
    "id": 34,
-   "title": "SUBU x NANGA’s AURORA-TEX Winter Sandal Is Built to Brave Sockless Cold",
-   "source": "Hypebeast",
-   "date": "2026-10-12",
-   "content": "Name: NANGA x SUBU Aurora-Tex Winter SandalColorway: BlackSKU: NA2443-3E105MSRP: ¥8,800 JPY (approx. $55 USD)Release Date: December 2026Where to Buy: RakutenSUBU and NANGA have joined forces on the AURORA-TEX Winter Sandal, a cold-weather slip-on that wraps SUBU’s padded silhouette in NANGA’s proprietary technical fabric. The result is a sandal designed for winter wear, whether that means a campsite morning or a quick run to the corner store.The upper is made entirely of nylon and treated with AURORA-TEX, the waterproof and breathable material NANGA developed for its own outdoor gear. The fabric helps keep rain from soaking through while letting moisture escape, which matters for a shoe made to be worn without socks. Black covers the whole shell for a clean, utilitarian look.The inside is where the sandal earns its winter credentials. NANGA and SUBU line the footbed area with a brushed, ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F12%2FftNanga-SUBU-Auror-tex-Winter-Sandal-NA2443-3E105-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nanga-subu-auror-tex-winter-sandal-na2443-3e105-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 35,
    "title": "The Nike Air Force 1 Low “What The LA” Returns in October",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -483,7 +477,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 35,
    "title": "Nike Sabrina 4 “Vampire” (IX7058-001) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -496,7 +490,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 36,
    "title": "APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -509,7 +503,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 37,
    "title": "Nike KD 19 “Halloween” (IO8112-600) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -522,7 +516,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 38,
    "title": "S.F.T.M. x adidas Samba OG “Core Black”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -535,7 +529,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 39,
    "title": "S.F.T.M. x adidas Samba OG “Base Green”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -548,7 +542,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 41,
+   "id": 40,
    "title": "S.F.T.M. x adidas Samba OG “Supplier Colour”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -561,7 +555,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 42,
+   "id": 41,
    "title": "S.F.T.M. x adidas SL 72 PRO “Wild Teal”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
