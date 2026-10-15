@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-14 21:12",
+ "updatedAt": "2026-10-15 10:36",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -25,13 +25,29 @@ window.SNEAKER_DATA = {
   "NEW BALANCE",
   "NIKE",
   "PRADA",
+  "SAUCONY",
   "UGG",
-  "UNDER ARMOUR"
+  "UNDER ARMOUR",
+  "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Nike Unveils the 24.7 Recovery Boot With Sculpted Air Yeezy 2-Inspired Ridges",
+   "source": "Hypebeast",
+   "date": "2026-10-15",
+   "content": "Summary Nike has introduced the Nike 24.7 Recovery Boot as a minimal slip-on designed for pre- and post-training comfortThe silhouette features soft brown leather and stacked heel ridges reminiscent of the iconic Air Yeezy 2The sole utilizes bellowed compression foam alongside high sidewalls and bright coral impact-absorbing outsole pods Name: Nike 24.7 Recovery BootColorway: Dark Driftwood/Mosswood Brown/Orange PulseSKU: IR0450-200MSRP: $160 USDRelease Date: Fall 2026Where to Buy: NikeNike is expanding its focus on post-workout wellness with the introduction of the Nike 24.7 Recovery Boot. Shifting the brand's approach to lifestyle recovery footwear, the slip-on model is engineered specifically to provide dependable comfort and ease before and after demanding training routines.Presented in a \"Dark Driftwood\" colorway, the silhouette embraces an intentionally minimal look. The upper wrap",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F13%2Fnike-24-7-recovery-boot-ir0450-200-dark-driftwood-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-24-7-recovery-boot-ir0450-200-dark-driftwood-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
    "title": "Tyler, The Creator 為 Converse Pro Leather 注入四種全新個性",
    "source": "Hypebeast 中文",
    "date": "2026-10-14",
@@ -44,7 +60,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 3,
    "title": "Kiko Kostadinov x Crocs 官方正式發佈全新聯乘鞋款 VAALS",
    "source": "Hypebeast 中文",
    "date": "2026-10-14",
@@ -57,7 +73,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 4,
    "title": "知名實況主 Rakai 攜手 Under Armour 推出 Arc 96「25XX」聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-14",
@@ -70,7 +86,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 5,
    "title": "Thibo Denis 與 Birkenstock 1774 帶來 Uerzell 運動鞋穆勒鞋 3 款新配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-14",
@@ -84,7 +100,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 6,
    "title": "Joe Freshgoods 率先釋出 New Balance 990v7 更清晰近賞",
    "source": "Hypebeast 中文",
    "date": "2026-10-14",
@@ -97,7 +113,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 7,
    "title": "Tyler, The Creator Gives the Converse Pro Leather Four New Personalities",
    "source": "Hypebeast",
    "date": "2026-10-14",
@@ -110,7 +126,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 8,
    "title": "Kiko Kostadinov and Crocs Officially Unveil the VAALS Silhouette",
    "source": "Hypebeast",
    "date": "2026-10-14",
@@ -124,7 +140,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 9,
    "title": "Streamer Rakai Takes the Under Armour Arc 96 \"25XX\" From Livestream to Retail",
    "source": "Hypebeast",
    "date": "2026-10-14",
@@ -137,7 +153,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 10,
    "title": "Thibo Denis and Birkenstock 1774 Reintroduce the Uerzell Sneaker Mule in Three New Colorways",
    "source": "Hypebeast",
    "date": "2026-10-14",
@@ -151,7 +167,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 11,
    "title": "Joe Freshgoods Teases Closer Look at the New Balance 990v7",
    "source": "Hypebeast",
    "date": "2026-10-14",
@@ -164,7 +180,46 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 12,
+   "title": "District Vision Is Running To Knitwear",
+   "source": "Highsnobiety",
+   "date": "2026-10-14",
+   "content": "The brand known for running gear presents a first knitwear offering for runners and style people of a similar ilk.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/district-vision-knitwear-new-style/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 13,
+   "title": "Nike’s Giraffe Superfly LX Isn’t as Docile as It Looks",
+   "source": "Highsnobiety",
+   "date": "2026-10-14",
+   "content": "Nike's track-inspired Superfly LX sneaker has found quite the muse in the humble giraffe.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-superfly-lx-sneaker-giraffe/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "From Vans to New Balance, the Seven Best Sneakers to Cop This Week",
+   "source": "Highsnobiety",
+   "date": "2026-10-14",
+   "content": "From a Highsnobiety x Saucony collab to a bubblegum-pink Vans, find here the seven best sneakers of the week.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/sneaker-releases-2026-october-week-3/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE",
+    "SAUCONY",
+    "VANS"
+   ]
+  },
+  {
+   "id": 15,
    "title": "Nike’s Air Max Loafer Is Bigger than the Snoafer Phenomenon",
    "source": "Highsnobiety",
    "date": "2026-10-14",
@@ -177,7 +232,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 16,
    "title": "New Balance’s Spacey Dad Shoe Is a Different Beast Entirely",
    "source": "Highsnobiety",
    "date": "2026-10-14",
@@ -190,7 +245,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 17,
    "title": "New Balance’s Young Dad Shoe Wears a Secretly Nice GORE-TEX Rain Coat",
    "source": "Highsnobiety",
    "date": "2026-10-14",
@@ -203,47 +258,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
-   "title": "The Nike “UGGs” Are Right on Time",
-   "source": "Highsnobiety",
-   "date": "2026-10-14",
-   "content": "Nike debuts its 24.7 boot, a plush suede recovery shoe with UGG-level flavor. Here's everything on the cozy model.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-24-7-boots/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 15,
-   "title": "Jordan’s Faded Dad Shoe Is From Another Planet",
-   "source": "Highsnobiety",
-   "date": "2026-10-14",
-   "content": "The Jordan Trunner O/S sneaker joins the 2026 \"Space Jam\" anniversary collection, dressed in a nice \"Terra Blush\" colorway.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-trunner-os-space-jam-planet/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 16,
-   "title": "Nike’s Croc ACG Boots Are a Different Breed",
-   "source": "Highsnobiety",
-   "date": "2026-10-14",
-   "content": "Nike introduces a yellow croc skin version of its Air Max Goadome Low boots. Here's everything on the limited release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-croc-vivid-sulfur/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 17,
+   "id": 18,
    "title": "JW Anderson 為經典 UGG 鞋款注入樂福鞋細節",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -256,7 +271,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 19,
    "title": "Prada 經典 America's Cup 運動鞋秋季全新配色登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -269,7 +284,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 20,
    "title": "Jaylen Brown 旗下品牌 7UICE 宣布推出特別版 BAPE STA 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -280,7 +295,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 20,
+   "id": 21,
    "title": "Jordan Brand 為秋冬季帶來全新 Air Jordan 12「Fireside」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -294,7 +309,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 22,
    "title": "ASICS Utility Collection 釋出 GEL-VENTX GTX、GEL-NYC 2.0 GTX 及 GEL-KAYANO 20 全新鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -307,7 +322,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 23,
    "title": "Jordan Brand 推出 Día de Muertos 限定 Air Jordan 1 Low OG「Somos Historias」",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -321,7 +336,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 24,
    "title": "LOEWE x On 最新「Cloudsolo Hiker」與「Cloudtilt Cosmic」鞋款：為山林與漫步而生",
    "source": "Hypebeast 中文",
    "date": "2026-10-13",
@@ -332,7 +347,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 24,
+   "id": 25,
    "title": "JW Anderson Brings Loafer Details to Classic UGG Silhouettes",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -345,7 +360,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 26,
    "title": "Prada Gives the America’s Cup Sneaker an Autumnal Update",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -359,7 +374,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 27,
    "title": "Jaylen Brown's 7UICE Announces Special-Edition BAPE STA Collaboration",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -370,7 +385,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 27,
+   "id": 28,
    "title": "Jordan Brand Warms up the Season With the Air Jordan 12 \"Fireside\"",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -384,7 +399,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 29,
    "title": "ASICS Utility Collection GEL-VENTX GTX, GEL-NYC 2.0 GTX & GEL-KAYANO 20",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -397,7 +412,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 30,
    "title": "Jordan Brand Unveils Limited Air Jordan 1 Low OG \"Somos Historias\" for Día de Muertos",
    "source": "Hypebeast",
    "date": "2026-10-13",
@@ -408,19 +423,6 @@ window.SNEAKER_DATA = {
    "relatedBrands": [
     "JORDAN",
     "NIKE"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "The LOEWE x On “Cloudsolo Hiker” and “Cloudtilt Cosmic” Are Ready for Mountains and Moonwalks",
-   "source": "Hypebeast",
-   "date": "2026-10-13",
-   "content": "Name: LOEWE x On Cloudsolo Hiker, LOEWE x On Cloudtilt CosmicColorway: TBCSKU: TBCMSRP: TBCRelease Date: October 15Where to Buy: LOEWE, OnLOEWE and On have unveiled their Fall/Winter 2026 collection, headlined by the new Cloudsolo Hiker and Cloudtilt Cosmic. The release pushes the partnership into fresh territory, pairing a trail-inspired take on On’s cushioning with a streamlined update to a familiar silhouette and a full range of performance-minded apparel.The Cloudsolo Hiker borrows its cues from classic hiking boots while keeping On’s cloud heel at its core. That cushioned rear sits on a lugged outsole cast in the collaboration’s signature marbled rubber, giving the shoe grip for uneven terrain. Up top, custom hooks thread two-tone rounded laces, and a metallic buckle bearing both brands’ marks locks the upper in place. The style arrives in sand, dark khaki, black and fox red.The Clo",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F13%2Floewe-on-cloudsolo-hiker-cloudtilt-cosmic-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/loewe-on-cloudsolo-hiker-cloudtilt-cosmic-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
    ]
   },
   {
@@ -452,19 +454,6 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 33,
-   "title": "Enter Converse's Feral AF Chuck Taylor Slip-on",
-   "source": "Highsnobiety",
-   "date": "2026-10-13",
-   "content": "Converse Japan's next move? Dropping the All-Star Pointed Toe Volume Fur Slip OX, a laceless sneaker featuring sharp toe boxes & hairy uppers.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/converse-all-star-pointed-toe-volume-fur-slip-ox/",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 34,
    "title": "The Nike Air Force 1 Low “What The LA” Returns in October",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -477,7 +466,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 34,
    "title": "Nike Sabrina 4 “Vampire” (IX7058-001) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -490,7 +479,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 35,
    "title": "APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -503,7 +492,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 36,
    "title": "Nike KD 19 “Halloween” (IO8112-600) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -516,7 +505,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 37,
    "title": "S.F.T.M. x adidas Samba OG “Core Black”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -529,7 +518,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 38,
    "title": "S.F.T.M. x adidas Samba OG “Base Green”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -542,7 +531,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 39,
    "title": "S.F.T.M. x adidas Samba OG “Supplier Colour”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
@@ -555,7 +544,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 41,
+   "id": 40,
    "title": "S.F.T.M. x adidas SL 72 PRO “Wild Teal”",
    "source": "Nice Kicks",
    "date": "2026-10-12",
