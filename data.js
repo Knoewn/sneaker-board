@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-15 20:59",
+ "updatedAt": "2026-10-16 10:31",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,16 +16,10 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
-  "ASICS",
-  "BIRKENSTOCK",
   "CONVERSE",
   "CROCS",
-  "JORDAN",
-  "LOUIS VUITTON",
   "NEW BALANCE",
   "NIKE",
-  "PRADA",
-  "SAUCONY",
   "TIMBERLAND",
   "UGG",
   "UNDER ARMOUR",
@@ -35,6 +29,111 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "JJJJound x New Balance 990v3 最新「Suede」官方照片釋出",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-16",
+   "content": "摘要 JJJJound 與 New Balance 正式公開全麂皮版本 990v3 的官方圖片此升級版跑鞋改掉標準網眼布，採用全棕褐色麂皮，並搭配黑色標誌與飾邊這款聯乘波鞋將於 2026 年 10 月 22 日在 JJJJound 官方網站獨家發售 名稱： JJJJound x New Balance 990v3「Suede」配色： 麂皮/黑色SKU： U9904D8建議零售價： 待定發售日期： 2026 年 10 月 22 日購買點： JJJJoundNew Balance 與 JJJJound 釋出全新聯乘鞋款 New Balance 990v3「Suede」的官方照片。這次聯乘作品徹底重塑了這款復古跑鞋，捨棄傳統的網眼底層，改以純色全麂皮包覆鞋身。有別於 JJJJound 在 2018 年與 2022 年推出的 990v3 企劃——兩者皆保留了鞋款經典的網眼與麂皮拼接設計——這次版本完全剔除了網眼部分。啡色麂皮包覆整個鞋面，呈現出精緻而統一的質感，在不改變其標誌性輪廓的前提下，為鞋面注入全新面貌。鮮明的黑色細節與啡色底色形成對比，點綴於中足的「N」字標誌、鞋身邊緣及堅固的橡膠外底上。鞋舌上的「New Balance」刺繡同樣採用黑色設計。這種材質上的轉變，延續了 JJJJound 近期對嶄新結構的探索（例如雙方聯乘 740 鞋款中的無縫鞋面設計），而 JJJJound 亦與 Kith 齊名，成為 2026 年唯二獲邀推出 990v3 聯乘版本的合作夥伴。JJJJound x New Balance 990v3「Suede」將於 2026 年 10 月 22 日發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fjjjjound-new-balance-990v3-suede-u9904d8-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/jjjjound-new-balance-990v3-suede-u9904d8-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Official Look at the JJJJound x New Balance 990v3 \"Suede\"",
+   "source": "Hypebeast",
+   "date": "2026-10-16",
+   "content": "Summary JJJJound and New Balance have revealed an official look at an all-suede interpretation of the 990v3The updated runner removes standard mesh in favor of full tan suede paired with black branding and trimThe collaborative sneaker releases on October 22 2026 exclusively through JJJJound’s website Name: JJJJound x New Balance 990v3 \"Suede\"Colorway: Suede/BlackSKU: U9904D8MSRP: TBDRelease Date: October 22, 2026Where to Buy: JJJJoundNew Balance and JJJJound have shared an official look at the collaborative New Balance 990v3 \"Suede.\" The collaborative release completely re-engineers the retro runner by discarding its conventional mesh base for a full monochromatic suede finish.Departing from JJJJound's previous 990v3 projects in 2018 and 2022—both of which preserved the model's classic mesh and suede paneling—this version eliminates the mesh entirely. Tan suede wraps across the entirety",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F15%2Fjjjjound-new-balance-990v3-suede-u9904d8-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/jjjjound-new-balance-990v3-suede-u9904d8-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Carhartt WIP x Nike 最新 Air Max Goadome 聯乘系列即將登場",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-15",
+   "content": "名稱： Carhartt WIP x Nike Goadome Low配色： 「Light British Tan」、「Black」SKU： IW6306-200、IW6306-001建議零售價： $190 美元發售日期： 2026 年假日季節發售點： NikeCarhartt WIP 與 Nike 再次攜手，為 Air Max Goadome Low 推出聯乘版本。繼 2018 年首度合作後，這個運動服飾品牌與 Detroit 工裝品牌街頭支線的最新企劃將這款厚實鞋型重新演繹，帶來三款配色：「Light British Tan」、「Black」以及尚未曝光的「Twilight Marsh」。Nike Air Max Goadome 於 2000 年面世，結合可見式 Air 緩震科技與全天候耐用性，使其成為歷久不衰的人氣之選。隨著 Nike 重新聚焦於此鞋款，Carhartt WIP 充分展現其充滿實用主義的精髓，將標誌性的工裝美學應用於這雙低筒變奏版之上。預計於 2026 年假日季節發布的鞋款，在鞋面設計上作出了重大改變，採用更為精緻的覆面設計與多重材質結構。值得留意的是，鞋款配備延伸擋泥板以及飾有類似 Air Max Tailwind 4 縫線細節的開放式側身視窗。材質應用因配色而異，大地色調的「Light British Tan」明顯展現了麂皮、帆布與皮革細節的交織，而黑色版本則選用經典的全皮革設計。其他工裝元素進一步奠定其設計風格，包括配有金屬 D 形環的圓身鞋帶、金屬迷你 Swoosh 標誌、皮革鞋舌布章，以及側身點綴的黑色 Carhartt WIP 旗幟標籤。Carhartt WIP x Nike Air Max Goadome Low 系列預計於 2026 年假日季節透過 Nike SNKRS 及指定零售商發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fcarhart-wip-nike-goadome-low-release-date-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/carhart-wip-nike-goadome-low-release-date-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Vans 與 SZA 釋出於加州拍攝的首個 VANSZA Drop 1 聯乘系列廣告企劃",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-15",
+   "content": "摘要 Vans 與 SZA 揭曉由 India Sleem 掌鏡的 VANSZA Drop 1 官方企劃大片。亮點單品包括 Knu Skool Mule、Authentic Kickdown 以及汲取大自然靈感的服飾系列。系列將於 10 月 22 日登場，融合滑板服飾、戶外元素與 SZA 的個人風格。 繼 9 月初步展示 VANSZA 聯乘企劃後，Vans 與 SZA 正式釋出 Drop 1 廣告企劃，讓人近賞這位歌手如何以大自然為靈感，重新演繹此加州鞋履品牌的標誌性設計。廣告企劃由 India Sleem 操刀拍攝，以加州陽光普照的山坡與崎嶇地貌為背景，透過大地質感、極具表現力的造型與戶外風景的交織，展現 SZA 的創意宇宙。配合 Yudo Kurita 的產品與風景攝影，視覺影像將系列的寬鬆剪裁、做舊細節與多元圖案置於乾燥草原與岩石地形之中，進一步鞏固其關於個性、探索與連結大自然的主題。Drop 1 的核心為兩款重新演繹的 Vans 鞋款：VANSZA Knu Skool Mule 及 Authentic Kickdown，兩者皆反映了 SZA 對輕鬆易穿的無鞋帶鞋款之偏愛。Knu Skool Mule 完全移除運動鞋的鞋跟，將這款為人熟悉的滑板風鞋款轉化為露跟設計；而 Authentic Kickdown 則配備可摺疊鞋跟，讓其能於傳統運動鞋與懶人鞋之間自由轉換。後者採用做舊帆布製成，並飾有 Sage Adams 的定制藝術圖案，為經典 Vans 鞋款注入充滿玩味與個人特色的細節。除了鞋履，系列更延伸至以復古戶外服裝、DIY 度身訂製及實用工作服為靈感的服飾與配件。寬鬆外套、休閒工裝褲、洗水牛仔布及印有魚類插圖的圖案單品，建構出刻意打破常規的多元衣櫥，將功能細節與 SZA 不落俗套的造型風格完美結合。整體而言，此系列將 Vans 的滑板傳統與歌手的個人喜好巧妙連結，在實用結構與實驗精神及幽默感之間取得平衡。VANSZA Drop 1 系列將於 2026 年 10 月 22 日登陸各大 Vans 零售店及品牌官方網站。為慶祝系列發布，SZA 亦將在美國兩間門市舉行特",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fft-vans-sza-collaboration-collection-drop-1-campaign-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/vans-sza-collaboration-collection-drop-1-campaign-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "adidas Samba 迎來充滿質感的「Camo Cow Print」全新面貌",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-15",
+   "content": "名稱：adidas Samba「Camo Cow Print」配色：「Camo Cow Print」SKU：KJ7500建議售價：$120 美元發售日期：2026 年假日季adidas 為經典低筒鞋款 Samba 帶來全新「Camo Cow Print」面貌，將鞋履常見的兩種元素——動物圖案與軍事風格迷彩——巧妙融合。鞋面幾乎完全由人造小馬毛包裹，印有不規則的沙漠迷彩圖案，將奶油般的米白、沙色與深啡色斑塊交織出仿牛皮的效果。平滑的奶油色皮革 Three Stripes 劃過佈滿圖案的鞋側，而相配的皮革則點綴於鞋跟周圍，為繁複的鞋面增添了簡潔的對比。柔和的鼠尾草綠色鞋帶、鞋舌品牌標誌及鞋領襯裡注入了戶外風格的柔和點綴，同時不會破壞整體的低調中性色調。這款作為女裝發售的 Samba 保留了其標誌性的修長輪廓，配以深色半透明生膠啡色橡膠鞋底，呼應了上方的大地色調，同時為這雙運動鞋帶來稍顯厚重的視覺基礎。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fftadidas-samba-camo-cow-print-kj7500-official-images.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/adidas-samba-camo-cow-print-kj7500-official-images",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Timberland 與 Jacquemus 攜手重塑 Authentic Boat Shoe 鱷魚壓紋皮革鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-15",
+   "content": "名稱： Timberland x Jacquemus Authentic Boat Shoe配色： Brown Croc、Navy Croc貨號： 有待公布建議零售價： $320 美元發售日期： 現已發售發售點： Timberland、JacquemusTimberland 與 Jacquemus 再度合作，將經典的 3-Eye Classic Lug 鞋型重新詮釋為聯乘 Authentic Boat Shoe，透過鱷魚壓紋皮革為這款傳統鞋型注入更精緻、富質感的細節。這次限量發售的鞋款提供「Brown Croc」與「Navy Croc」兩款配色，均採用優質 Timberland 皮革製成，並經過壓紋處理，巧妙模擬珍稀皮革的立體紋理。「Brown Croc」以溫暖的大地色調呼應鞋款傳統的戶外根基，而「Navy Croc」則提供更型格、精緻的選擇，將大眾熟悉的帆船鞋帶入更正式的領域。壓紋表面為經典鞋面增添了層次感，讓紋理本身成為設計焦點，而毋須依賴強烈的對比或標誌圖案。這款聯乘鞋型保留了自 1978 年面世以來定義 Timberland Authentic Boat Shoe 的結構特徵。耐磨的橡膠外底為設計奠定基礎，柔軟的皮革內襯與加厚鞋領則為挺身的鞋面增添舒適感。同色系的 Timberland 樹木標誌保持了低調的外觀，而特別訂製的品牌鞋帶頭則在不破壞鞋款俐落輪廓的情況下，注入微妙的聯乘細節。最終成品巧妙平衡了 Timberland 的實用傳統與 Jacquemus 對材質與比例的精緻處理，透過高級皮具的視覺語言重塑經典帆船鞋。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Ffttimberland-jacquemus-3-eye-classic-lug-authentic-boat-shoe-navy-dark-brown-croc-collaboration-release-info-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/timberland-jacquemus-3-eye-classic-lug-authentic-boat-shoe-navy-dark-brown-croc-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "TIMBERLAND"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Converse Japan 最新 All Star Westernstitch SU HI 變身牛仔靴",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-15",
+   "content": "名稱：Converse All Star Westernstitch SU HI配色：Tan、Black型號：31319430、31319431建議售價：¥17,600 JPY（約 $110 USD）發售日期：10 月 23 日發售渠道：Converse JapanConverse Japan 發表了 All Star Westernstitch SU HI，這款標誌性高筒鞋款經過圖案重塑，將西部靴的細節與品牌升級的革新規格結合。鞋款捨棄了經典帆布，改用麂皮鞋面，在保留原有輪廓的同時，為熟悉的鞋型注入牧場風格。設計亮點在於取材自西部靴的裝飾縫線，Converse 將其與呼應 All Star 名稱的星星圖案搭配。這些裝飾點綴在全麂皮鞋面上，為這雙運動鞋帶來更柔軟的質感與更具份量感的外觀，有別於帆布 Chuck 的輕盈感。鞋底採用橡膠大底，並備有「Tan」和「Black」兩種配色。在西部風格的外表下，Westernstitch SU HI 採用了 Converse 的革新規格，對 All Star 平台進行了大幅內部升級。不僅鞋墊，鞋跟內部也加入了具備透氣、緩震及不易變形特性的開孔聚氨酯泡棉，提升每一步的舒適度。鞋墊本身也改為可完全拆卸的設計，方便習慣使用訂製鞋墊的人士替換。重量與貼合度同樣受到重視。全新結構讓單隻 26.5 cm 的鞋款比上一代輕了約 60 克，重新設計的鞋楦和外底則改善了貼合度與穩定性。改良後的外底結構亦增加了靈活度，讓鞋款在腳下能更自然地彎曲。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FConverse-All-Star-Westernstitch-SU-HI-Black-Tan-31319430-31319431-Japan-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/converse-all-star-westernstitch-su-hi-black-tan-31319430-31319431-japan-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "OTW by Vans 與 Satoshi Nakamoto 聯乘推出 Era 95 Gems 鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-15",
+   "content": "摘要 OTW by Vans 再度攜手 Satoshi Nakamoto，推出聯乘鞋款 Era 95 Gems鞋款採用可撕裂的海軍藍帆布鞋面，撕開後露出經典棋盤格底層，並配上彩色寶石與外露海綿該鞋款將於 10 月 16 日星期五正式登場，並於 OTW 官方網站獨家發售 OTW by Vans 官方宣布與 Satoshi Nakamoto 聯乘推出 Era 95 Gems 鞋款，透過粗獷、反烏托邦的美學視角延續雙方的創意合作。這款聯乘鞋款以實驗精神及顛覆性設計為核心，將自然磨損與刻意營造的不完美感作為重點設計元素。鞋款以海軍藍可撕式帆布鞋面為核心，設計理念是隨着穿着而逐漸磨損，顯露出底下的經典棋盤格圖案。鞋領周圍的外露海綿營造出解構感，與腳踝處鑲嵌的圓形彩色寶石形成對比，展現出經過精心計算的精緻感。鞋帶印有重複的「Satoshi」字樣，並綴以噴砂串珠細節，增添觸感層次。鞋底方面，硫化側邊飾上手工擦拭的黑色及黃色光澤，營造出自然舊化的美學，並與仿舊護條相輔相成。最後，半透明水晶外底印有「Satoshi Nakamoto」品牌字樣，在走動時若隱若現。OTW by Vans x Satoshi Nakamoto Era 95 Gems 將於 10 月 16 日星期五起透過 Vans 發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fotw-by-vans-satoshi-nakamoto-era-95-gems-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/otw-by-vans-satoshi-nakamoto-era-95-gems-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 9,
    "title": "闊別 7 年，Nike Air Force 1 Low「What The LA」確定回歸日期",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -47,7 +146,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 10,
    "title": "Nike 正式發表 24.7 Recovery Boot 恢復靴，融入 Air Yeezy 2 標誌性脊狀細節",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -61,7 +160,34 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 11,
+   "title": "Carhartt WIP x Nike Returns With an Air Max Goadome Pack",
+   "source": "Hypebeast",
+   "date": "2026-10-15",
+   "content": "Name: Carhartt WIP x Nike Goadome LowColorway: \"Light British Tan,\" \"Black\"SKU: IW6306-200, IW6306-001MSRP: $190 USDRelease Date: Holiday 2026Where to Buy: NikeCarhartt WIP and Nike are joining forces once again to release a collaborative take on the Air Max Goadome Low. Having first collaborated in 2018, the activewear label and the Detroit workwear brand’s streetwear division recasts the hefty silhouette in three variants: \"Light British Tan,\" \"Black,\" and the yet-to-be-seen \"Twilight Marsh.\"Debuted in 2000, the Nike Air Max Goadome’s fusion of visible Air technology and all-weather durability has made it a perennial favorite. Carhartt WIP leans fully into the silhouette's utilitarian essence, applying its signature workwear aesthetic to the low-top variation amidst Nike's renewed focus on the silhouette.The holiday 2026 release significantly alters the upper with a more elaborate over",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F15%2Fcarhart-wip-nike-goadome-low-release-date-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/carhart-wip-nike-goadome-low-release-date-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Vans and SZA Unveil California-Shot Campaign for Debut VANSZA Drop 1",
+   "source": "Hypebeast",
+   "date": "2026-10-15",
+   "content": "Summary Vans and SZA unveil the official VANSZA Drop 1 campaign, photographed by India Sleem.Highlights include the Knu Skool Mule, Authentic Kickdown and nature-inspired apparel.Launching October 22, the collection blends skatewear, outdoor influences and SZA's personal style. Following the initial unveiling of their VANSZA collaboration in September, Vans and SZA have released the official campaign for Drop 1, offering a closer look at the singer's nature-inspired interpretation of the California footwear brand's signature designs.Photographed by India Sleem against California's sun-drenched hillsides and rugged landscapes, the campaign brings SZA's creative universe into focus through an interplay of earthy textures, expressive styling and outdoor scenery. Complemented by product and landscape photography from Yudo Kurita, the visuals place the collection's oversized silhouettes, dist",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F15%2Fft-vans-sza-collaboration-collection-drop-1-campaign-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/vans-sza-collaboration-collection-drop-1-campaign-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG",
+    "VANS"
+   ]
+  },
+  {
+   "id": 13,
    "title": "The adidas Samba Gets a Textured “Camo Cow Print” Makeover",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -74,7 +200,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 14,
    "title": "Timberland and Jacquemus Rework the Authentic Boat Shoe in Crocodile-Embossed Leather",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -89,7 +215,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 15,
    "title": "Converse Japan’s All Star Westernstitch SU HI Is a Cowboy Boot in Disguise",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -102,7 +228,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 16,
    "title": "OTW by Vans and Satoshi Nakamoto Unveil the Era 95 Gems",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -115,7 +241,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 17,
    "title": "After Seven Years, the Nike Air Force 1 Low “What The LA” Has a Return Date",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -128,7 +254,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 18,
    "title": "Nike Unveils the 24.7 Recovery Boot With Sculpted Air Yeezy 2-Inspired Ridges",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -142,7 +268,71 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 19,
+   "title": "Nike Dunk Low Shibuya “Halloween”",
+   "source": "Nice Kicks",
+   "date": "2026-10-15",
+   "content": "The Nike Dunk Low Shibuya “Halloween” is releasing on October 23, 2026, via Nike.com and select retailers for $135. Check out the photos below and keep… The post Nike Dunk Low Shibuya “Halloween” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ix5169-300-5-1-e1791828180374.jpg",
+   "link": "https://www.nicekicks.com/nike-dunk-low-shibuya-halloween-ix5169-300/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "One Good Performance Runner With a Little Extra Sauce",
+   "source": "Highsnobiety",
+   "date": "2026-10-15",
+   "content": "One Good is Highsnobiety's series on the tried, tested, and trusted products we can’t stop fawning over. This round features a cheeky running shoe collab.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/one-good-yummy-saucony-performance-runner-collab/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 21,
+   "title": "The Seven Best adidas Sneaker Releases This Week",
+   "source": "Highsnobiety",
+   "date": "2026-10-15",
+   "content": "From an unstructured running icon to a leather dress sneaker, this week was so full of adidas standouts, we couldn't decide on one and picked... seven of them.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-sneaker-releases-october-week-3/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Nike’s Air Max Boot Strikes Gold",
+   "source": "Highsnobiety",
+   "date": "2026-10-15",
+   "content": "Nike's luxe & shiny \"Yellow Croc\" Air Max Goadome sneaker is a wor kboot that looks too good for labor.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-yellow-croc/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "This Butterscotch-Drizzled GORE-TEX AF1 Is Anything but “Mid”",
+   "source": "Highsnobiety",
+   "date": "2026-10-15",
+   "content": "Nike’s Air Force 1 Mid ’07 GORE-TEX Vibram gets a rugged makeover in Wheat, Orange and Black, pairing weather-resistant protection with a grippy Vibram outsole.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-mid-07-gore-tex-vibram/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 24,
    "title": "Nike's Martian-Minded Astra Ultra Sneaker Just Reached Earth",
    "source": "Highsnobiety",
    "date": "2026-10-15",
@@ -155,7 +345,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 25,
    "title": "The Best Nike Sneaker Releases This Week",
    "source": "Highsnobiety",
    "date": "2026-10-15",
@@ -168,20 +358,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
-   "title": "Nike’s Giraffe Superfly LX Isn’t as Docile as It Looks",
-   "source": "Highsnobiety",
-   "date": "2026-10-15",
-   "content": "Nike's track-inspired Superfly LX sneaker has found quite the muse in the humble giraffe.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-superfly-lx-sneaker-giraffe/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 12,
+   "id": 26,
    "title": "Tyler, The Creator 為 Converse Pro Leather 注入四種全新個性",
    "source": "Hypebeast 中文",
    "date": "2026-10-14",
@@ -194,7 +371,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 27,
    "title": "Kiko Kostadinov x Crocs 官方正式發佈全新聯乘鞋款 VAALS",
    "source": "Hypebeast 中文",
    "date": "2026-10-14",
@@ -207,7 +384,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 28,
    "title": "知名實況主 Rakai 攜手 Under Armour 推出 Arc 96「25XX」聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-14",
@@ -220,34 +397,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
-   "title": "Thibo Denis 與 Birkenstock 1774 帶來 Uerzell 運動鞋穆勒鞋 3 款新配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-14",
-   "content": "摘要 Birkenstock 透過其總部位於 Paris 的 1774 支線，重新推出了「Cuoio」、「Caccia」及「Wine」配色的 Uerzell 運動鞋式穆勒鞋這款鞋履與 Thibo Denis 合作設計，將繫帶運動鞋鞋面與傳統木屐外形及顯眼的外露軟木中底相結合鞋款配備符合人體工學的 Blue Footbed 鞋墊，現已於 1774.com 及全球指定零售商發售，售價為 $395 美元 Birkenstock 官方正式為 Uerzell 運動鞋穆勒鞋帶來 3 款全新季節性配色。本次發佈由該鞋履品牌位於巴黎的特別企劃與合作單位 Birkenstock 1774 策劃推出。作為 Ensemble 1774 企劃於 2025 年首次亮相的設計，該鞋款是與目前擔任 Louis Vuitton 男裝成衣、鞋履及配飾設計總監的法國設計師 Thibo Denis 合作構思。設計將木底鞋的易穿性與綁帶運動鞋的風格結合，重點在於充滿雕塑感的比例、增高的鞋底以及清晰可見的天然水松木中底。此次提供「Cuoio」、「Caccia」和「Wine」配色，每雙鞋均配備標誌性的 Birkenstock Blue Footbed，這是一款可拆卸、符合解剖學形狀的鞋墊，並以這個歷史悠久品牌的骨科基礎為藍本。混合結構以 Birkenstock 經典的骨頭紋外底作結，並飾有藍色壓印 1774 工作室標誌。Birkenstock Uerzell 現已透過 1774.com 及指定全球零售商發售，售價為 $395 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fthibo-denis-birkenstock-1774-uerzell-sneaker-mule-three-new-colorways-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/thibo-denis-birkenstock-1774-uerzell-sneaker-mule-three-new-colorways-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "BIRKENSTOCK",
-    "LOUIS VUITTON"
-   ]
-  },
-  {
-   "id": 16,
-   "title": "Joe Freshgoods 率先釋出 New Balance 990v7 更清晰近賞",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-14",
-   "content": "摘要 Joe Freshgoods 透過其 Instagram Story 分享了即將登場的 New Balance 990v7 近照該鞋款採用升級面板、3M 反光細節、加大的 N 字標誌以及全新設計的大底單元中底科技改進融入更柔軟的 FuelCell 泡棉、ENCAP 緩震、CR 穩定組件以及全新的 TPU 抗扭片 繼早前在 New York 唐人街廣告牌上的預告，以及歌手 Rosalía 被拍到率先上腳後，設計師 Joe Freshgoods 日前在社交媒體上公開了尚未發佈的 New Balance 990v7，讓這款即將推出的鞋作展露更多細節。全新版本在 990v6 的基礎上作出了幾項顯著的結構調整。鞋面採用更寬大的擋泥板設計，覆蓋層的位置明顯加高，使底層更貼近前腳掌。整體鞋身融入了 3M 反光細節，中足醒目的「N」字標誌則汲取了 990v3 等經典型號的設計靈感。首發配色保留了品牌標誌性的灰色麂皮鞋面，並在標誌與中底部分注入低調的仿舊處理，形成視覺對比。鞋底方面，New Balance 重新設計了緩震系統，在提升舒適度的同時，亦保留了 990 系列標誌性的穩定表現。中底配置以更柔軟的 FuelCell 泡棉取代了以往較硬的物料，並結合 ENCAP 緩震系統、CR 穩定裝置以及經過重新設計的 TPU 穩定片作進一步強化。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fjoe-freshgoods-new-balance-990v7-closer-look-teased-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/joe-freshgoods-new-balance-990v7-closer-look-teased",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 17,
+   "id": 29,
    "title": "Tyler, The Creator Gives the Converse Pro Leather Four New Personalities",
    "source": "Hypebeast",
    "date": "2026-10-14",
@@ -260,7 +410,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 30,
    "title": "Kiko Kostadinov and Crocs Officially Unveil the VAALS Silhouette",
    "source": "Hypebeast",
    "date": "2026-10-14",
@@ -274,7 +424,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 31,
    "title": "Streamer Rakai Takes the Under Armour Arc 96 \"25XX\" From Livestream to Retail",
    "source": "Hypebeast",
    "date": "2026-10-14",
@@ -287,170 +437,13 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
-   "title": "Thibo Denis and Birkenstock 1774 Reintroduce the Uerzell Sneaker Mule in Three New Colorways",
-   "source": "Hypebeast",
-   "date": "2026-10-14",
-   "content": "Summary Birkenstock has reintroduced the Uerzell sneaker mule in \"Cuoio\" \"Caccia\" and \"Wine\" colorways via its Paris-based 1774 lineDesigned in collaboration with Thibo Denis the silhouette merges a lace-up sneaker upper with a traditional clog profile and visible cork midsoleThe pairs feature an anatomical Blue Footbed and are available now for $395 USD via 1774.com and select global stockists Birkenstock has officially reintroduced the Uerzell sneaker mule in three new seasonal colorways. The release arrives through the footwear brand’s Paris-based special projects and collaborative unit, Birkenstock 1774.As the inaugural design under the Ensemble 1774 initiative debuted in 2025, the model was conceived in partnership with French designer Thibo Denis, currently the design director of men’s ready-to-wear, shoes, and accessories at Louis Vuitton. Fusing the easy-wear function of a clog w",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F14%2Fthibo-denis-birkenstock-1774-uerzell-sneaker-mule-three-new-colorways-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/thibo-denis-birkenstock-1774-uerzell-sneaker-mule-three-new-colorways-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "BIRKENSTOCK",
-    "LOUIS VUITTON"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "Joe Freshgoods Teases Closer Look at the New Balance 990v7",
-   "source": "Hypebeast",
-   "date": "2026-10-14",
-   "content": "Summary Joe Freshgoods shared a closer look at the upcoming New Balance 990v7 via his Instagram StoryThe silhouette introduces elevated panels reflective 3M detailing an enlarged N logo and a redesigned sole unitTooling updates incorporate softer FuelCell foam ENCAP cushioning a CR stability component and a new TPU shank plate New Balance's upcoming 990v7 has surfaced in greater detail after designer Joe Freshgoods previewed the unreleased silhouette on social media. The preview follows teasers on a New York Chinatown billboard and an earlier candid sighting on singer Rosalía.Building on the foundation of the 990v6, the updated iteration incorporates several distinct structural adjustments. The upper features an enlarged mudguard and overlays that sit noticeably higher, pushing underlying layers closer toward the forefoot. Reflective 3M accents are integrated throughout the build, while ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F13%2Fjoe-freshgoods-new-balance-990v7-closer-look-teased-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/joe-freshgoods-new-balance-990v7-closer-look-teased",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "District Vision Is Running To Knitwear",
-   "source": "Highsnobiety",
-   "date": "2026-10-14",
-   "content": "The brand known for running gear presents a first knitwear offering for runners and style people of a similar ilk.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/district-vision-knitwear-new-style/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 23,
-   "title": "From Vans to New Balance, the Seven Best Sneakers to Cop This Week",
-   "source": "Highsnobiety",
-   "date": "2026-10-14",
-   "content": "From a Highsnobiety x Saucony collab to a bubblegum-pink Vans, find here the seven best sneakers of the week.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/sneaker-releases-2026-october-week-3/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE",
-    "SAUCONY",
-    "VANS"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "JW Anderson 為經典 UGG 鞋款注入樂福鞋細節",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-13",
-   "content": "總結JW Anderson 與 UGG 首度聯乘，為 Classic Boot 及 Tasman 注入精緻的便士樂福鞋（penny loafer）細節。系列將於 10 月 15 日發售，這款麂皮與毛絨內裡鞋履帶來栗色、卡其色和橙色等充滿秋日氣息的配色。JW Anderson 與 UGG 迎來首次聯乘，設計師 Jonathan Anderson 在經典 UGG 鞋款上加入精緻升級。延續 Anderson 將樂福鞋細節融入不同產品的傳統，UGG 的 Classic Boot 及 Tasman 經重新演繹，展現出源自便士樂福鞋的獨特風格。在一份聲明中，Jonathan Anderson 分享了更多關於其創作方向的想法：「UGG 的辨識度極高，我非常有興趣透過 JW Anderson 的視角來重新審視這款大家如此熟悉的單品。」他補充道：「我們在 JW ANDERSON 廣泛地探索過樂福鞋，不僅將其作為鞋履，還將其細節應用於手袋和成衣上。我想看看這種設計語言如何轉化到 UGG 上。」在保留標誌性輪廓與舒適腳感的同時，這些休閒款式透過鞋頭上方的硬幣槽和清晰可見的明線設計，散發出煥然一新的優雅氣質。Classic Boot 採用全麂皮鞋面和白色毛絨內裡，後跟飾有 JW Anderson 標籤，而 Tasman 涼鞋的側邊鞋領亦印有標誌。是次發布的鞋款採用 Anderson 親自挑選的栗色、卡其色及橙色等秋季色調。雖然近幾年運動樂福鞋一直在男裝界大行其道，將運動風格的功能性細節帶入正裝鞋款中，但 JW Anderson 卻將此趨勢引領至不同方向。在為其 Loafer 手袋加入硬幣槽細節後，Anderson 將此概念延伸至是次聯乘，巧妙地柔化了樂福鞋的靈感，而非增添其科技感。JW Anderson x UGG Classic Boot 及 Tasman 將於 10 月 15 日在各大門店及 JWANDERSON.COM 上架。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fjw-anderson-ugg-collaboration-collection-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/jw-anderson-ugg-collaboration-collection-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "Prada 經典 America's Cup 運動鞋秋季全新配色登場",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-13",
-   "content": "名稱： Prada America's Cup 運動鞋配色： Teak/Blue、Cacao/Bordeaux編號： 待定定價： 待定發售日期： 10 月 13 日發售點： PradaPrada 重新演繹品牌最具代表性的鞋款之一，為 America’s Cup 運動鞋推出全新版本，帶來「Teak/Blue」與「Cacao/Bordeaux」兩款配色。這款運動鞋最初於 1997 年為 Luna Rossa 帆船隊而設計，至今依然保留其流線型、符合空氣動力學的外觀，以及近 30 年來標誌性的科技感。全新升級的 America's Cup 運動鞋忠於備受喜愛的原版輪廓，並維持其獨特的多層次結構。鞋面展現豐富的材質層次，將光滑亮澤的漆皮覆蓋層與透氣度極高的科技網眼布料面板完美結合。鞋款雖然完美保留了經典美學與標誌性的 Linea Rossa 鞋跟品牌標誌，但鞋底則換上創新的超輕量橡膠鞋底，迎來大幅度的現代化升級。這項科技升級確保鞋履提供卓越的現代舒適感與日常實穿性，同時不失令 1997 年原版成為全球街頭經典的粗獷實用魅力。「Teak/Blue」配色結合了溫暖的啡色調與較冷的藍色細節，而「Cacao/Bordeaux」則以深朱古力啡色與酒紅色系營造出更豐富的視覺效果。這兩款設計都強調了運動鞋布料與皮革的獨特交織，運用材質與色調的變化來突顯鞋面的弧形面板和修長線條，而非大幅改變其熟悉的輪廓。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FFT-prada-americas-cup-sneaker-teak-blue-cacao-bordeaux-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/prada-gives-the-americas-cup-sneaker-an-autumnal-update",
-   "lang": "zh",
-   "relatedBrands": [
-    "PRADA"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Jaylen Brown 旗下品牌 7UICE 宣布推出特別版 BAPE STA 聯乘鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-13",
-   "content": "摘要 7UICE 與 BAPE 官方正式合作，推出特別版 BAPE STA 聯乘鞋款此鞋款結合 BAPE 的街頭文化底蘊與 Jaylen Brown 的創意視野，展現個性與創造力本次發售數量極其有限，售罄後將不設補貨 7UICE 與 BAPE 正式攜手合作，推出特別版 BAPE STA。這款聯乘鞋履結合了籃球、文化與當代街頭時尚，標誌著日本街頭服飾經典品牌與這位運動員主理的生活品味品牌正式結盟。這次聯乘大膽融合了 BAPE 悠久的街頭服飾傳統與 Jaylen Brown 為 7UICE 注入的創意方向。這款限量版運動鞋以個性、創意和突破個人界限的力量為核心主題，突顯職業籃球與現代街頭服飾文化之間日益深厚的交流。呼應這次企劃的獨特定位，這款聯乘鞋款將嚴格限量生產。雙方品牌均確認，這次網上發售將採取明確的不補貨政策，確保鞋款於網絡商店售罄後，絕不再度上架。7UICE x BAPE STA 將於 10 月 18 日經由 7UICE 獨家於網上發售。 View this post on InstagramA post shared by 7uice (@7uice) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fjaylen-brown-7uice-special-edition-bape-sta-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/jaylen-brown-7uice-special-edition-bape-sta-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 27,
-   "title": "Jordan Brand 為秋冬季帶來全新 Air Jordan 12「Fireside」配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-13",
-   "content": "摘要 Jordan Brand 公布了即將發售的 Air Jordan 12「Fireside」官方圖片此鞋款最初傳聞名為「Eggnog」，採用乳白色鞋面配搭深啡色擋泥板該鞋款將於 2026 年 10 月 24 日登場，提供全家族尺碼，成人版本售價為 $215 美元 鞋款名稱： Air Jordan 12「Fireside」配色： Light Orewood Brown/Cacao Wow-Team Red產品編號： CT8013-105建議售價： $215 美元發售日期： 2026 年 10 月 24 日發售點： NikeJordan Brand 官方正式揭曉 Air Jordan 12「Fireside」。繼早前於 New York 舉行的閉門預覽後，這款即將在節日假期登場的經典復刻鞋款以奶油色與啡色為基調呈現。此鞋款最初傳聞名為「Eggnog」，最終設計採用較淺色的鞋面，並與深色結構飾板形成對比。鞋面大部分由奶油色皮革覆蓋，而深啡色則包覆擋泥板及底部位置。精緻細節包括金屬啡色金屬鞋帶孔、白色後跟拉環、形成對比的中足穩定片，以及外底與品牌標誌的啡色點綴。雖然這款大地色調的設計讓人聯想起 2024 年推出的 SoleFly x Air Jordan 12 聯乘鞋款，但淺色鞋面與深色擋泥板的獨特配置，讓這雙鞋成為 Jordan Brand 2026 年末陣容中獨樹一幟的作品。Air Jordan 12「Fireside」將於 2026 年 10 月 24 日發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fair-jordan-12-fireside-ct8013-105-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/air-jordan-12-fireside-ct8013-105-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "ASICS Utility Collection 釋出 GEL-VENTX GTX、GEL-NYC 2.0 GTX 及 GEL-KAYANO 20 全新鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-13",
-   "content": "名稱： ASICS Utility Collection建議零售價： £125 - £170 GBP（約 $165 - $225 USD）發售日期： 現已發售購買點： ASICSASICS 憑藉包含三款鞋型的 Utility Collection 展現全天候機能性，陣容包括「Black/Gunmetal」配色的 GEL-KAYANO 20、「Carrier Grey/Black」的 GEL-VENTX GTX 以及「Graphite Grey/Black」的 GEL-NYC 2.0 GTX。雖然每款鞋型均汲取自 ASICS 歷史檔案中的不同領域，但整個系列透過深色科技感色調、層次結構及具備性能考量的細節設計實現了統一。GEL-VENTX GTX 蘊含最強烈的越野風格，在 GEL-VENTURE 輪廓基礎上注入「Carrier Grey/Black」塗裝，並將炭灰色網眼與合成材質覆面，與淺灰色的 ASICS 虎爪標誌互相疊搭。GORE-TEX 薄膜為鞋款帶來防風雨保護，而後跟 GEL 緩震技術與越野專屬的抓地紋理則進一步強化其戶外屬性。GEL-NYC 2.0 GTX「Graphite Grey/Black」則採用更流暢、聚焦城市風格的設計手法，結合 2000 年代初期的 ASICS 跑鞋元素，並配備升級版緩震與支撐系統。鞋面混合了石墨灰、黑色及近似金屬槍色的色調，點綴於密集的層疊網眼與合成面板上，呈現出強調鞋款科技結構的單色外觀。除了 GORE-TEX 薄膜，鞋款還搭載 TRUSSTIC 支撐單元、GEL 緩震膠與 FF BLAST PLUS 緩震技術，賦予這款鞋型更柔軟、更具現代感的穿著體驗，同時保留 GEL-NYC 家族標誌性的複雜視覺美學。作為系列壓軸之作，GEL-KAYANO 20「Black/Gunmetal」重新演繹了這款 2013 年的跑鞋，並帶來全系列最深沉且極具金屬質感的處理。黑色網眼構成底座，上方覆蓋呈金屬槍色的交錯 FLUIDFIT TPU 框架，賦予鞋面在結構覆蓋層間流轉的微妙光澤。反光鞋帶注入了另一種吸睛元素，而雙重 GEL 緩震膠與 GUIDA",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fasics-utility-collection-gel-ventx-gtx-gel-nyc-2-0-gtx-gel-kayano-20-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/asics-utility-collection-gel-ventx-gtx-gel-nyc-2-0-gtx-gel-kayano-20-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "JW Anderson Brings Loafer Details to Classic UGG Silhouettes",
-   "source": "Hypebeast",
-   "date": "2026-10-13",
-   "content": "SummaryJW Anderson and UGG’s first collaboration updates the Classic Boot and Tasman with sophisticated penny loafer details.Launching October 15, the suede and fur-lined footwear features an autumnal color palette of Chestnut, Khaki, and Orange.In a first-time collaboration, JW Anderson and UGG have partnered for a collection that reimagines classic UGG silhouettes with sophisticated updates from designer Jonathan Anderson. Continuing Anderson’s tradition of bringing loafer-inspired details to different products, UGG’s Classic Boot and Tasman have been reimagined with distinct characteristics inspired by penny loafers.In a statement, Jonathan Anderson shared more insights on his approach: “UGGs are instantly recognisable, and I was interested in seeing something so familiar through the lens of JW Anderson.” “We’ve explored the loafer extensively at JW ANDERSON, not only as footwear but ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F13%2Fjw-anderson-ugg-collaboration-collection-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/jw-anderson-ugg-collaboration-collection-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Jordan Triangle “Paolo”",
-   "source": "Nice Kicks",
-   "date": "2026-10-13",
-   "content": "The Jordan Triangle “Paolo” is set to release on October 20, 2026, via Nike.com and select retailers for $150. Check out the photo below… The post Jordan Triangle “Paolo” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/iq5570-300-5-e1791901173184.jpg",
-   "link": "https://www.nicekicks.com/jordan-triangle-paolo-iq5570-300/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "Bad Bunny x adidas Gazelle Indoor “Solar Gold”",
-   "source": "Nice Kicks",
-   "date": "2026-10-13",
-   "content": "The Bad Bunny x adidas Gazelle Indoor “Solar Gold” brings a vibrant finish to the Puerto Rican artist’s latest take on the classic silhouette.… The post Bad Bunny x adidas Gazelle Indoor “Solar Gold” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/KI2592_6-1-e1791383663861.jpg",
-   "link": "https://www.nicekicks.com/bad-bunny-adidas-gazelle-indoor-solar-gold-ki2592/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
    "id": 32,
-   "title": "The Nike Air Force 1 Low “What The LA” Returns in October",
+   "title": "Nike Mind 002 WMNS “Sail”",
    "source": "Nice Kicks",
-   "date": "2026-10-12",
-   "content": "The Nike Air Force 1 Low “What The LA” is making its return for a second release, giving sneakerheads another opportunity to grab the… The post The Nike Air Force 1 Low “What The LA” Returns in October appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ct1117-100-5-1-e1791847378569.jpg",
-   "link": "https://www.nicekicks.com/nike-air-force-1-low-what-the-la-ct1117-100/",
+   "date": "2026-10-14",
+   "content": "Look for the women’s exclusive Nike Mind 002 “Sail” to restock on October 15, 2026, via Nike and select retailers for $145. Check out the photos… The post Nike Mind 002 WMNS “Sail” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/03/hq4310-100-5-e1773087297433.jpg",
+   "link": "https://www.nicekicks.com/nike-mind-002-wmns-sail-hq4310-100/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
@@ -458,12 +451,12 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 33,
-   "title": "Nike Sabrina 4 “Vampire” (IX7058-001) October 2026 Release Date & Info",
+   "title": "Nike Mind 002 “Light Smoke Grey”",
    "source": "Nice Kicks",
-   "date": "2026-10-12",
-   "content": "The Nike Sabrina 4 “Vampire” is set to release on October 23, 2026, via Nike.com and select retailers for $145. Check out the photos below and keep it locked… The post Nike Sabrina 4 “Vampire” (IX7058-001) October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/nike-IX7057-001-white-52-e1791831255613.jpg",
-   "link": "https://www.nicekicks.com/nike-sabrina-4-vampire-ix7058-001-2026/",
+   "date": "2026-10-14",
+   "content": "Look for the Nike Mind 002 “Light Smoke Grey” to restock on October 15, 2026, via Nike for $145. Check out the photos below and keep… The post Nike Mind 002 “Light Smoke Grey” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2025/10/hq4308-003-5-1-e1761226489584.jpg",
+   "link": "https://www.nicekicks.com/nike-mind-002-light-smoke-grey-hq4308-003/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
@@ -471,25 +464,25 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 34,
-   "title": "APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info",
+   "title": "Nike Mind 001 “Light Smoke Grey”",
    "source": "Nice Kicks",
-   "date": "2026-10-12",
-   "content": "The APB x Air Jordan 11 Low “Made For Locals” is expected to release October 23, 2026, via The Whitaker Group retail locations and online for… The post APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/IMG_3802-1-scaled-e1791824411985.jpg",
-   "link": "https://www.nicekicks.com/apb-air-jordan-11-low-made-for-locals-iu8266-400/",
+   "date": "2026-10-14",
+   "content": "Look for the Nike Mind 001 “Light Smoke Grey” to restock on October 15, 2026, via Nike for $95. Check out the photos below and keep… The post Nike Mind 001 “Light Smoke Grey” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2025/09/image-72-e1758654582330.jpg",
+   "link": "https://www.nicekicks.com/nike-mind-001-light-smoke-grey-hq4307-003/",
    "lang": "en",
    "relatedBrands": [
-    "JORDAN"
+    "NIKE"
    ]
   },
   {
    "id": 35,
-   "title": "Nike KD 19 “Halloween” (IO8112-600) October 2026 Release Date & Info",
+   "title": "Nike Mind 001 “Cucumber Calm”",
    "source": "Nice Kicks",
-   "date": "2026-10-12",
-   "content": "The Nike KD 19 “Halloween” is set to release on October 23, 2026, via Nike.com and select retailers for $170. Check out the photos below and keep it locked… The post Nike KD 19 “Halloween” (IO8112-600) October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/io8112-600-5-1-e1791815562411.jpg",
-   "link": "https://www.nicekicks.com/nike-kd-19-halloween-io8112-600/",
+   "date": "2026-10-14",
+   "content": "The Nike Mind 001 “Cucumber Calm” will be restocking on October 15, 2026, via Nike and select retailers for $95. Check out the photos below and… The post Nike Mind 001 “Cucumber Calm” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/07/hq4307-302-1-1-e1784919743218.jpg",
+   "link": "https://www.nicekicks.com/nike-mind-001-cucumber-calm-hq4307-302/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
@@ -497,54 +490,67 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 36,
-   "title": "S.F.T.M. x adidas Samba OG “Core Black”",
+   "title": "Nike Mind 001 “Mineral Slate” May Release Date & Info",
    "source": "Nice Kicks",
-   "date": "2026-10-12",
-   "content": "The S.F.T.M. x adidas Samba OG “Core Black” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out the photos below and keep… The post S.F.T.M. x adidas Samba OG “Core Black” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/HQ7600_6-1-e1791814745837.jpg",
-   "link": "https://www.nicekicks.com/s-f-t-m-adidas-samba-og-core-black-hq7600/",
+   "date": "2026-10-14",
+   "content": "Interested readers can expect the the Nike Mind 001 “Mineral Slate” to restock on October 15, 2026, via Nike and select retailers for $95. Check out… The post Nike Mind 001 “Mineral Slate” May Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/01/hq4307-300-1-e1769372837692.jpg",
+   "link": "https://www.nicekicks.com/nike-mind-001-mineral-slate-hq4307-300/",
    "lang": "en",
    "relatedBrands": [
-    "ADIDAS"
+    "NIKE"
    ]
   },
   {
    "id": 37,
-   "title": "S.F.T.M. x adidas Samba OG “Base Green”",
+   "title": "Nike Mind 001 “Hemp”",
    "source": "Nice Kicks",
-   "date": "2026-10-12",
-   "content": "The S.F.T.M. x adidas Samba OG “Base Green” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out the photos below and keep… The post S.F.T.M. x adidas Samba OG “Base Green” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/HP8257_6-1-e1791814613994.jpg",
-   "link": "https://www.nicekicks.com/s-f-t-m-adidas-samba-og-base-green-hp8257/",
+   "date": "2026-10-14",
+   "content": "The Nike Mind 001 “Hemp” will be restocking on October 15, 2026, via Nike and select retailers for $95. Check out the photos below and keep… The post Nike Mind 001 “Hemp” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/07/hq4307-200-1-1-e1784918838716.jpg",
+   "link": "https://www.nicekicks.com/nike-mind-001-hemp-hq4307-200/",
    "lang": "en",
    "relatedBrands": [
-    "ADIDAS"
+    "NIKE"
    ]
   },
   {
    "id": 38,
-   "title": "S.F.T.M. x adidas Samba OG “Supplier Colour”",
+   "title": "Nike Mind 001 WMNS “Old Royal”",
    "source": "Nice Kicks",
-   "date": "2026-10-12",
-   "content": "The S.F.T.M. x adidas Samba OG “Supplier Colour” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out the photos below and keep… The post S.F.T.M. x adidas Samba OG “Supplier Colour” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/HP8256_6-1-e1791814489230.jpg",
-   "link": "https://www.nicekicks.com/s-f-t-m-x-adidas-samba-og-supplier-colour-hp8256/",
+   "date": "2026-10-14",
+   "content": "The Nike Mind 001 WMNS “Old Royal” will be restocking on October 15, 2026, via Nike and select retailers for $95. Check out the photos below… The post Nike Mind 001 WMNS “Old Royal” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/hq4309-400-1-e1787072476876.jpg",
+   "link": "https://www.nicekicks.com/nike-mind-001-wmns-old-royal-hq4309-400/",
    "lang": "en",
    "relatedBrands": [
-    "ADIDAS"
+    "NIKE"
    ]
   },
   {
    "id": 39,
-   "title": "S.F.T.M. x adidas SL 72 PRO “Wild Teal”",
+   "title": "Nike Mind 002 “Camo Green”",
    "source": "Nice Kicks",
-   "date": "2026-10-12",
-   "content": "The S.F.T.M. x adidas SL 72 PRO “Wild Teal” is releasing on October 16, 2026, via adidas.com and select retailers for $130. Check out the photos below and… The post S.F.T.M. x adidas SL 72 PRO “Wild Teal” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/HQ7603_6-1-e1791814283683.jpg",
-   "link": "https://www.nicekicks.com/s-f-t-m-adidas-sl-72-pro-wild-teal-hq7603/",
+   "date": "2026-10-14",
+   "content": "Fans of the Nike Mind collection can expect the Nike Mind 002 “Camo Green” to restock on October 15, 2026, via Nike and select retailers for… The post Nike Mind 002 “Camo Green” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/07/hq4308-300-5-e1784652371165.jpg",
+   "link": "https://www.nicekicks.com/nike-mind-002-camo-green-hq4308-300/",
    "lang": "en",
    "relatedBrands": [
-    "ADIDAS"
+    "NIKE"
+   ]
+  },
+  {
+   "id": 40,
+   "title": "Nike Mind 002 WMNS “Pink Smoke”",
+   "source": "Nice Kicks",
+   "date": "2026-10-14",
+   "content": "Fans of the Nike Mind collection can expect the Nike Mind 002 WMNS “Pink Smoke” to restock on October 15, 2026, via Nike and select retailers… The post Nike Mind 002 WMNS “Pink Smoke” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/07/hq4310-600-5-e1784651633235.jpg",
+   "link": "https://www.nicekicks.com/nike-mind-002-wmns-pink-smoke-hq4310-600/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
    ]
   }
  ]
