@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-16 10:31",
+ "updatedAt": "2026-10-16 20:54",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -20,28 +20,121 @@ window.SNEAKER_DATA = {
   "CROCS",
   "NEW BALANCE",
   "NIKE",
+  "REEBOK",
   "TIMBERLAND",
   "UGG",
-  "UNDER ARMOUR",
   "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
-   "title": "JJJJound x New Balance 990v3 最新「Suede」官方照片釋出",
+   "title": "Nike Air Force 1 Low 最新「Iron Man」漆皮版本官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
-   "content": "摘要 JJJJound 與 New Balance 正式公開全麂皮版本 990v3 的官方圖片此升級版跑鞋改掉標準網眼布，採用全棕褐色麂皮，並搭配黑色標誌與飾邊這款聯乘波鞋將於 2026 年 10 月 22 日在 JJJJound 官方網站獨家發售 名稱： JJJJound x New Balance 990v3「Suede」配色： 麂皮/黑色SKU： U9904D8建議零售價： 待定發售日期： 2026 年 10 月 22 日購買點： JJJJoundNew Balance 與 JJJJound 釋出全新聯乘鞋款 New Balance 990v3「Suede」的官方照片。這次聯乘作品徹底重塑了這款復古跑鞋，捨棄傳統的網眼底層，改以純色全麂皮包覆鞋身。有別於 JJJJound 在 2018 年與 2022 年推出的 990v3 企劃——兩者皆保留了鞋款經典的網眼與麂皮拼接設計——這次版本完全剔除了網眼部分。啡色麂皮包覆整個鞋面，呈現出精緻而統一的質感，在不改變其標誌性輪廓的前提下，為鞋面注入全新面貌。鮮明的黑色細節與啡色底色形成對比，點綴於中足的「N」字標誌、鞋身邊緣及堅固的橡膠外底上。鞋舌上的「New Balance」刺繡同樣採用黑色設計。這種材質上的轉變，延續了 JJJJound 近期對嶄新結構的探索（例如雙方聯乘 740 鞋款中的無縫鞋面設計），而 JJJJound 亦與 Kith 齊名，成為 2026 年唯二獲邀推出 990v3 聯乘版本的合作夥伴。JJJJound x New Balance 990v3「Suede」將於 2026 年 10 月 22 日發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fjjjjound-new-balance-990v3-suede-u9904d8-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/jjjjound-new-balance-990v3-suede-u9904d8-official-look-release-info",
+   "content": "摘要 Nike 正在準備推出一款漆皮亮面的 Air Force 1 Low，採用非官方的 Iron Man 靈感配色這款球鞋採用深紅漆皮、酒紅色鞋帶、半透明亮橘色外底，以及美漫風格的黑色鞋身線條輪廓該鞋款預計於 2026 年 11 月 1 日經由指定零售商及 Nike 官方網站發售，售價為 $125 美元 名稱：Nike Air Force 1 '07 Premium「Iron Man」配色：Gym Red/Team Red-Burgundy Crush-Bright CeramicSKU：IX8058-687建議售價：$125 美元發售日期：2026 年 11 月 1 日發售點：NikeNike 準備推出 Air Force 1 Low Patent「Iron Man」，將超級英雄風格的設計融入這款經典籃球鞋。此鞋款呼應 2013 年版本的配色，同時展現出猶如漫畫風格的搶眼外觀。雖然並非官方 Marvel 聯乘鞋款，但這雙鞋憑藉鮮豔的紅金配色而獲得此稱號。高光澤深紅色漆皮構成鞋面，與深酒紅色鞋帶及較深的後跟飾片形成對比。大膽的黑色邊框勾勒出皮革覆蓋層的邊緣，呈現出強調每個切口和縫線的插畫美學。鮮橙色 Swoosh 標誌橫跨鞋側，與鞋款的半透明橡膠外底相映成趣。最後的細節包括繡在鞋舌標籤上及壓印在後跟標籤上的橙色 Nike Air 標誌，為這雙充滿光澤的致敬之作畫上完美句號。Nike Air Force 1 Low Patent「Iron Man」預計於 2026 年 11 月 1 日發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-air-force-1-low-07-premium-iron-man-IX8058-687-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-air-force-1-low-07-premium-iron-man-ix8058-687-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "New Balance 推出 992 Made in USA 全新「Medusa Green」配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-16",
+   "content": "摘要 New Balance 為 2026 年秋冬系列推出 Medusa Green 配色的 992 Made in USA 鞋款設計以深綠色網眼鞋面及藍綠色細節縫線，搭配 Thunder Brown 麂皮覆層與同色系鞋底此鞋款將於 2026 年 10 月 27 日透過 New Balance 及指定零售商官方發售，售價為 $200 美元 名稱：New Balance 992 Made in USA「Medusa Green」配色：Medusa Green/Thunder Brown款式編號：U992BB建議售價：$200 美元發售日期：2026 年 10 月 29 日購買地點：New BalanceNew Balance 官方正式發布 992 Made in USA 全新「Medusa Green」配色，進一步擴充寒冷季節的鞋履陣容。這款洋溢季節氣息的鞋作，為備受喜愛的經典跑鞋換上深綠色與濃郁啡色麂皮的大地色系組合，為 2026 秋冬度身打造。結構上，以深綠色透氣網眼為基底，飾有同色系拼接，邊緣精細的藍綠色縫線成為亮點。為營造大地色對比，Thunder Brown 麂皮橫越擋泥板，從鞋頭延伸至兩側輪廓，再包覆鞋跟。這種低調的色調直接延伸至搭載 ABZORB 緩震科技的中底及耐磨橡膠大底，為整體鞋型注入和諧一致的自然氣息。對比鮮明的白色細節點亮整體視覺，出現在鞋帶、鞋領內襯以及中足「N」字標誌的外緣。復古細節忠實保留 992 的原版輪廓，包括後跟附近印有「992」字樣的灰色飾板、鞋跟拉環上的「USA」刺繡字樣，以及鞋舌上的標準 New Balance 品牌標誌。New Balance 992 Made in USA「Medusa Green」將於 2026 年 10 月 27 日正式發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnew-balance-992-made-in-usa-medusa-green-U992BB-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/new-balance-992-made-in-usa-medusa-green-u992bb-official-look-release-info",
    "lang": "zh",
    "relatedBrands": [
     "NEW BALANCE"
    ]
   },
   {
-   "id": 2,
+   "id": 3,
+   "title": "Tyrrell Winston 擴展其 Three Stripes 聯乘陣容，推出 adidas Spiritain 2000",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-16",
+   "content": "摘要 紐約藝術家 Tyrrell Winston 展示了他對 adidas Spiritain 2000 的全新詮釋，作為他與品牌首個完整系列的一部分這款靈感源自跑步鞋的輪廓採用亮紅色網眼鞋面、龜裂紋理的乳白色覆層，並在品牌標誌與鞋帶頭加入金色細節點綴此鞋款預計將於 2026 年 10 月 22 日與配套服飾系列同步發售 名稱： Tyrrell Winston x adidas Spiritain 2000配色： 紅／奶油／金款式編號： KJ7676建議售價： $160 美元發售日期： 2026 年 10 月 22 日購買連結： adidasadidas 與紐約藝術家 Tyrrell Winston 即將推出 adidas Spiritain 2000，進一步擴展雙方的聯乘陣容。這款以跑步為靈感的設計，是 Winston 自今年初離開 Reebok 後，與 Three Stripes 合作的首個完整系列中的鞋款核心。Spiritain 2000 將 2000 年代初期的跑步美學注入現代輪廓之中，反映出 adidas 在 adiStar Control 5 等型號中所探索的復古設計語言。在 Winston 的詮釋下，鞋面主要由鮮紅色網眼材質構成，並與帶有龜裂做舊質感的奶油色覆面形成對比。金屬金色點綴了 adidas 標誌、專屬鞋帶頭，以及印在鞋跟附近的 Winston 標誌性簽名，提升了整體的質感。厚實且充滿立體感的鞋底單元保留了當時專業跑步鞋款典型的粗獷輪廓，為這款充滿復古風格的設計奠定基礎。是次企劃與 Winston 首個 Lightblaze POD 項目呈現出截然不同的美學風格，突顯出他在持續進行的聯乘系列中多變的設計方向。Tyrrell Winston x adidas Spiritain 2000 預計將於 2026 年 10 月 22 日發售，並會同步推出相應的服飾系列。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Ftyrrell-winston-adidas-spiritain-2000-KJ7676-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/tyrrell-winston-adidas-spiritain-2000-kj7676-first-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS",
+    "REEBOK"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Nike Kobe 7 Protro「Invisibility Cloak」預計將於 2027 年秋季回歸",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-16",
+   "content": "摘要 Nike Basketball 將於 2027 年秋季正式重塑 Kobe 7「Invisibility Cloak」，標誌著該鞋款迎來首次 Protro 版本發售這款球鞋保留了其標誌性的變色鞋面，可在紫色與青藍色之間切換，並配以質感黑色皮革和冰藍大底該鞋款預計於 2027 年秋季透過指定 Nike Basketball 零售商及 Nike 官方網站發售 鞋款： Nike Kobe 7 Protro「Invisibility Cloak」配色： Black/Court Purple/Turquoise/Metallic Silver型號： 待定定價： 待定發售日期： 2027 年秋季購買點： NikeNike 官方正式帶回 Kobe 7 Protro「Invisibility Cloak」，這標誌着該第 7 代簽名鞋款首次獲得品牌的 Protro 性能升級待遇。這次發售重新喚醒了這款自 2012 年首發以來一直被珍藏的備受球迷喜愛之作。2027 年版本保留了原版型號的 Black、Court Purple 與 Turquoise Blue 配色。焦點依然是其變色鞋面塗層，當光線從不同角度照射時，鞋面會在深紫色與綠松石色之間動態變換——這正是當初「Invisibility Cloak（隱形斗篷）」這個暱稱由來的變色視覺效果。為了平衡變幻的色調，鞋款結構融入了帶有紋理的黑色皮革，並配上 Metallic Silver 的 Swoosh 標誌和 Infrared 的 Kobe 品牌字樣。底部則採用半透明冰藍大底，保留了定義原版性能鞋款的獨特模具與設計語言。Nike Kobe 7 Protro「Invisibility Cloak」預計將於 2027 年秋季推出。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-kobe-7-protro-invisibility-cloak-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-kobe-7-protro-invisibility-cloak-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Nike Air Force 1 Low Receives an \"Iron Man\"-Inspired Patent Leather Makeover",
+   "source": "Hypebeast",
+   "date": "2026-10-16",
+   "content": "Summary Nike is prepping a glossy patent leather Air Force 1 Low sporting an unofficial Iron Man-inspired color paletteThe sneaker features dark red patent leather burgundy laces translucent bright orange outsoles and comic-style black panel outlinesThe pair is scheduled to release on November 1 2026 through select retailers and Nike's webstore for $125 USD Name: Nike Air Force 1 '07 Premium \"Iron Man\"Colorway: Gym Red/Team Red-Burgundy Crush-Bright CeramicSKU: IX8058-687MSRP: $125 USDRelease Date: November 1, 2026Where to Buy: NikeNike is gearing up to launch the Air Force 1 Low Patent \"Iron Man,\" applying a superhero-inspired aesthetic across the classic basketball silhouette. The release references familiar color blocking seen on an earlier 2013 edition while channeling the bold look of comic-inspired footwear.Though not an official Marvel collaboration, the pair earns its moniker thr",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F15%2Fnike-air-force-1-low-07-premium-iron-man-IX8058-687-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-air-force-1-low-07-premium-iron-man-ix8058-687-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "New Balance Delivers the 992 Made in USA in \"Medusa Green\"",
+   "source": "Hypebeast",
+   "date": "2026-10-16",
+   "content": "Summary New Balance has introduced the 992 Made in USA in Medusa Green for its Fall/Winter 2026 collectionThe design pairs a dark green mesh upper and teal accent stitching with Thunder Brown suede overlays and matching toolingThe sneaker officially releases on October 27 2026 via New Balance and select retailers for $200 USD Name: New Balance 992 Made in USA \"Medusa Green\"Colorway: Medusa Green/Thunder BrownSKU: U992BBMSRP: $200 USDRelease Date: October 29, 2026Where to Buy: New BalanceNew Balance has officially unveiled the New Balance 992 Made in USA \"Medusa Green,\" expanding its footwear roster for the colder months. The seasonal offering dresses the beloved archival runner in an earthy mix of deep greens and rich brown suede tailored for Fall/Winter 2026.The construction centers on a dark green breathable mesh base, overlaid with tonal paneling highlighted by precise teal stitching ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F15%2Fnew-balance-992-made-in-usa-medusa-green-U992BB-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/new-balance-992-made-in-usa-medusa-green-u992bb-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Tyrrell Winston Expands His Three Stripes Roster With the adidas Spiritain 2000",
+   "source": "Hypebeast",
+   "date": "2026-10-16",
+   "content": "Summary New York artist Tyrrell Winston has revealed his take on the adidas Spiritain 2000 as part of his first full collection with the brandThe runner-inspired silhouette features a bright red mesh upper cracked cream overlays and gold accents on the branding and lace tipsThe sneaker is expected to release on October 22, 2026 alongside a matching apparel range Name: Tyrrell Winston x adidas Spiritain 2000Colorway: Red/Cream/GoldSKU: KJ7676MSRP: $160 USDRelease Date: October 22, 2026Where to Buy: adidasadidas and New York artist Tyrrell Winston are expanding their collaborative lineup with the upcoming adidas Spiritain 2000. The running-inspired design serves as the footwear centerpiece for Winston's first full collection with the Three Stripes following his transition from Reebok earlier this year.The Spiritain 2000 channels early-2000s running aesthetics into a modern silhouette, refl",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F16%2Ftyrrell-winston-adidas-spiritain-2000-KJ7676-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/tyrrell-winston-adidas-spiritain-2000-kj7676-first-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "REEBOK"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Nike Kobe 7 Protro \"Invisibility Cloak\" Set for Fall 2027 Return",
+   "source": "Hypebeast",
+   "date": "2026-10-16",
+   "content": "Summary Nike Basketball is officially reviving the Kobe 7 Invisibility Cloak for Fall 2027 marking the model's first-ever Protro releaseThe sneaker retains its signature iridescent upper that shifts between purple and turquoise alongside textured black leather and an icy outsoleThe pair is expected to release in Fall 2027 via select Nike Basketball retailers and Nike's webstore Name: Nike Kobe 7 Protro \"Invisibility Cloak\"Colorway: Black/Court Purple/Turquoise/Metallic SilverSKU: TBDMSRP: TBDRelease Date: Fall 2027Where to Buy: NikeNike is officially bringing back the Kobe 7 Protro \"Invisibility Cloak,\" marking the first time the seventh signature model will receive the brand's performance Protro treatment. The launch revives a fan-favorite silhouette that has remained vaulted since its original 2012 debut.The 2027 edition preserves the original model’s Black, Court Purple, and Turquoise",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F15%2Fnike-kobe-7-protro-invisibility-cloak-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-kobe-7-protro-invisibility-cloak-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
    "title": "Official Look at the JJJJound x New Balance 990v3 \"Suede\"",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -55,7 +148,84 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 10,
+   "title": "Nike’s Split-Toe Air Rift Sneaker Is All Meshed Up",
+   "source": "Highsnobiety",
+   "date": "2026-10-16",
+   "content": "Nike's breathable toe-hugging Air Rift sneaker is celebrating 30 years by acting brand new.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-rift-sneaker-mesh-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Wait, When Did the Humble Track Suit Get So Much Personality?",
+   "source": "Highsnobiety",
+   "date": "2026-10-16",
+   "content": "From bold track pants to vintage-inspired hoodies and graphic tees, here's our best picks from adidas’ bold new adiSignature collection.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-adisignature-fall-winter-collection-comfort-best-picks/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "This Nike Retro Runner Is Doing Too Much, in the Best Way",
+   "source": "Highsnobiety",
+   "date": "2026-10-16",
+   "content": "Nike’s P-6000 gets a bold update with denim-inspired details and gold accents, bringing a flashy twist to the retro running sneaker.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-p-6000/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Satoshi Nakamoto's Denim-Dusted Vans Shredder Is Finally OTW",
+   "source": "Highsnobiety",
+   "date": "2026-10-16",
+   "content": "Satoshi Nakamoto's blue jean Vans Era 95 sneaker is proof that the sneaker gods have their favorites.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/satoshi-nakamotos-vans-otw-95-navy/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "One Good Performance Runner With a Little Extra Sauce",
+   "source": "Highsnobiety",
+   "date": "2026-10-16",
+   "content": "One Good is Highsnobiety's series on the tried, tested, and trusted products we can’t stop fawning over. This round features a cheeky running shoe collab.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/one-good-yummy-saucony-performance-runner-collab/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 15,
+   "title": "Nike’s Air Max Boot Strikes Gold",
+   "source": "Highsnobiety",
+   "date": "2026-10-16",
+   "content": "Nike's luxe & shiny \"Yellow Croc\" Air Max Goadome sneaker is a wor kboot that looks too good for labor.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-yellow-croc/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 16,
    "title": "Carhartt WIP x Nike 最新 Air Max Goadome 聯乘系列即將登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -68,7 +238,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 17,
    "title": "Vans 與 SZA 釋出於加州拍攝的首個 VANSZA Drop 1 聯乘系列廣告企劃",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -81,7 +251,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 18,
    "title": "adidas Samba 迎來充滿質感的「Camo Cow Print」全新面貌",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -94,7 +264,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 19,
    "title": "Timberland 與 Jacquemus 攜手重塑 Authentic Boat Shoe 鱷魚壓紋皮革鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -107,7 +277,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 20,
    "title": "Converse Japan 最新 All Star Westernstitch SU HI 變身牛仔靴",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -120,7 +290,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 21,
    "title": "OTW by Vans 與 Satoshi Nakamoto 聯乘推出 Era 95 Gems 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -133,7 +303,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 22,
    "title": "闊別 7 年，Nike Air Force 1 Low「What The LA」確定回歸日期",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -146,7 +316,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 23,
    "title": "Nike 正式發表 24.7 Recovery Boot 恢復靴，融入 Air Yeezy 2 標誌性脊狀細節",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -160,7 +330,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 24,
    "title": "Carhartt WIP x Nike Returns With an Air Max Goadome Pack",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -173,7 +343,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 25,
    "title": "Vans and SZA Unveil California-Shot Campaign for Debut VANSZA Drop 1",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -187,7 +357,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 26,
    "title": "The adidas Samba Gets a Textured “Camo Cow Print” Makeover",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -200,7 +370,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 27,
    "title": "Timberland and Jacquemus Rework the Authentic Boat Shoe in Crocodile-Embossed Leather",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -215,7 +385,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 28,
    "title": "Converse Japan’s All Star Westernstitch SU HI Is a Cowboy Boot in Disguise",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -228,7 +398,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 29,
    "title": "OTW by Vans and Satoshi Nakamoto Unveil the Era 95 Gems",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -241,7 +411,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 30,
    "title": "After Seven Years, the Nike Air Force 1 Low “What The LA” Has a Return Date",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -254,21 +424,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
-   "title": "Nike Unveils the 24.7 Recovery Boot With Sculpted Air Yeezy 2-Inspired Ridges",
-   "source": "Hypebeast",
-   "date": "2026-10-15",
-   "content": "Summary Nike has introduced the Nike 24.7 Recovery Boot as a minimal slip-on designed for pre- and post-training comfortThe silhouette features soft brown leather and stacked heel ridges reminiscent of the iconic Air Yeezy 2The sole utilizes bellowed compression foam alongside high sidewalls and bright coral impact-absorbing outsole pods Name: Nike 24.7 Recovery BootColorway: Dark Driftwood/Mosswood Brown/Orange PulseSKU: IR0450-200MSRP: $160 USDRelease Date: Fall 2026Where to Buy: NikeNike is expanding its focus on post-workout wellness with the introduction of the Nike 24.7 Recovery Boot. Shifting the brand's approach to lifestyle recovery footwear, the slip-on model is engineered specifically to provide dependable comfort and ease before and after demanding training routines.Presented in a \"Dark Driftwood\" colorway, the silhouette embraces an intentionally minimal look. The upper wrap",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F13%2Fnike-24-7-recovery-boot-ir0450-200-dark-driftwood-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nike-24-7-recovery-boot-ir0450-200-dark-driftwood-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
+   "id": 31,
    "title": "Nike Dunk Low Shibuya “Halloween”",
    "source": "Nice Kicks",
    "date": "2026-10-15",
@@ -281,18 +437,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
-   "title": "One Good Performance Runner With a Little Extra Sauce",
-   "source": "Highsnobiety",
-   "date": "2026-10-15",
-   "content": "One Good is Highsnobiety's series on the tried, tested, and trusted products we can’t stop fawning over. This round features a cheeky running shoe collab.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/one-good-yummy-saucony-performance-runner-collab/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 21,
+   "id": 32,
    "title": "The Seven Best adidas Sneaker Releases This Week",
    "source": "Highsnobiety",
    "date": "2026-10-15",
@@ -305,20 +450,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
-   "title": "Nike’s Air Max Boot Strikes Gold",
-   "source": "Highsnobiety",
-   "date": "2026-10-15",
-   "content": "Nike's luxe & shiny \"Yellow Croc\" Air Max Goadome sneaker is a wor kboot that looks too good for labor.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-yellow-croc/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 23,
+   "id": 33,
    "title": "This Butterscotch-Drizzled GORE-TEX AF1 Is Anything but “Mid”",
    "source": "Highsnobiety",
    "date": "2026-10-15",
@@ -332,112 +464,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
-   "title": "Nike's Martian-Minded Astra Ultra Sneaker Just Reached Earth",
-   "source": "Highsnobiety",
-   "date": "2026-10-15",
-   "content": "Nike's Astra Ultra sneaker is a futuristic stunner that blends Nike's past and present. With a little bit of Mars madness for good measure.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-astra-ultra-sneaker-fauna-brown/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "The Best Nike Sneaker Releases This Week",
-   "source": "Highsnobiety",
-   "date": "2026-10-15",
-   "content": "From futuristic football-inspired Mercurial '02 to a croc-embossed boot-sneaker hybrid: This week shows off the best that Nike has to offer for spooky season",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-sneaker-releases-october-week-3/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Tyler, The Creator 為 Converse Pro Leather 注入四種全新個性",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-14",
-   "content": "名稱： Converse x Golf Le Fleur* Pro Leather建議零售價： $105 美元發售日期： 現已發售購買連結： ConverseConverse 與 Tyler, The Creator 為經典 Pro Leather 鞋款帶來大膽變奏，進一步擴展雙方的 1908 聯乘企劃。此次推出「Molten Lava」、「Bison」、「White」和「Black」四款全新配色，充分展現這雙 1976 年經典籃球鞋經過重新演繹後的百搭可塑性。「Black」與「White」版本以頂級全粒面皮革打造，為系列奠定簡約的基礎美學。若追求更具質感的搶眼造型，「Bison」配色採用溫暖的大地啡色麂皮配搭柔和黃色點綴，而「Molten Lava」版本則以鮮艷的紅色麂皮配搭撞色鞋帶，視覺效果更為強烈。每款設計都彰顯出 Tyler 對色彩與材質的獨特觸覺，證明單一鞋款也能具備廣闊的美學層次。這款升級版 Pro Leather 的靈感源自早期手工改造鞋款輪廓的改裝店，採用了大幅誇張化的比例設計。鞋身配備更寬闊的鞋頭、加大的鞋帶孔排以及粗身鞋帶，營造出穩重厚實的姿態。穿孔細節、經典鞋跟面板與標誌性的 Star Chevron 圖案等復古元素保留了鞋款的豐富底蘊，而橫跨鞋頭的全新壓花星星圖案則增添了獨特的結構層次。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fconverse-tyler-the-creator-golf-le-fleur-pro-leather-molten-lava-bison-white-black-colorways-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/converse-tyler-the-creator-golf-le-fleur-pro-leather-molten-lava-bison-white-black-colorways-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "Kiko Kostadinov x Crocs 官方正式發佈全新聯乘鞋款 VAALS",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-14",
-   "content": "摘要 Kiko Kostadinov 與 Crocs 正式公開雙方聯乘鞋款 VAALS鞋身結構結合真皮荔枝紋皮革與三層網布，並搭配檔備庫中的 Genna TPU 帶與 LiteRide 腳墊該鞋款將於 10 月 20 日推出三款配色，並登陸 Kiko Kostadinov 旗艦店、官方網站及全球指定零售商 Kiko Kostadinov 與 Crocs 正式發佈全新 Kiko Kostadinov x Crocs VAALS 鞋款。這雙聯乘鞋款最初於這位保加利亞設計師在巴黎舉行的 2026 秋冬男裝時裝展上亮相，透過傳統工藝與技術細節，重新演繹了該鞋履品牌的美學語言。鞋面以長橢圓形鞋頭及包裹式的馬鞍針步細節為亮點，結合了真皮荔枝紋皮革與透氣的三文治網眼布。鞋身結構由特製的 TPU 飾帶加強，向 Crocs 的典藏款 Genna 致敬，並配備可調節的索帶系統和專屬的鞋跟拉環。鞋底方面，這款鞋結合了堅固的橡膠外底與 Crocs 專利的 LiteRide™ 鞋床，提供日常輕量的支撐與緩震效果。是次發佈的宣傳大片由美國藝術家 Jim Mangan 於 Crocs 位於 Colorado 州 Boulder 的總部附近拍攝。在 Red Rocks 的古老砂岩地貌與 Charles Haertling 建於 1969 年的有機建築 Mushroom House 襯托下，影像展示了鞋款與 Kiko Kostadinov 2026 秋冬服飾的造型配搭。此鞋款將提供「Black」、「Kelp」及「Yellow Sand」三種配色。Kiko Kostadinov x Crocs VAALS 將於 10 月 20 日在官方網站、Kiko Kostadinov 位於倫敦、洛杉磯和東京的旗艦店，以及全球指定零售商發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fkiko-kostadinov-crocs-vaals-black-kelp-yellow-sand-footwear-fw26-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/kiko-kostadinov-crocs-vaals-black-kelp-yellow-sand-footwear-fw26-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "CROCS"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "知名實況主 Rakai 攜手 Under Armour 推出 Arc 96「25XX」聯乘鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-14",
-   "content": "摘要 實況主 Rakai 正式與 Under Armour 合作，推出其首款聯乘波鞋 Arc 96「25XX」設計以大孔網眼布料為底座，配上金屬銀色覆面、螢光綠色點綴，以及具立體雕刻感的未來感大底這雙聯乘鞋款將於 10 月 19 日透過 Under Armour 及指定零售店發售，售價為 $155 美元 名稱：Rakai x Under Armour Arc 96「25XX」配色：綠／黑／銀型號：6023886-391建議零售價：$155 美元發售日期：2026 年 10 月 19 日購買地點：Under ArmourUnder Armour 官方正式推出 Rakai x Under Armour Arc 96「25XX」，標誌著這位人氣內容創作者與專業運動服飾品牌的首度鞋款合作。此企劃最初於 2026 年 3 月的一次實況直播中曝光，如今正式從螢幕走向零售貨架。設計以 Under Armour 專注休閒生活風格的 Arc 96 鞋型為基礎，採用透氣的開放式網眼鞋面，搭配巨型的結構覆面以及立體未來感十足的鞋底設計。配色方面以螢光綠、黑色和金屬銀構成高對比度的組合。鞋舌與鞋跟護片上印有定製的「25XX」品牌標誌，將這位實況主的個人美學注入品牌的生活風格系列之中。此次發售反映出運動服飾品牌正持續將目光投向傳統運動員以外的領域，藉由邀請數碼創作者與實況主合作來推動當代波鞋文化的發展。Rakai x Under Armour Arc 96「25XX」將於 2026 年 10 月 19 日透過 Under Armour 及指定零售商發售，定價為 $155 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fstreamer-rakai-under-armour-arc-96-25xx-official-look-6023886-391-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/streamer-rakai-under-armour-arc-96-25xx-official-look-6023886-391-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "UNDER ARMOUR"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "Tyler, The Creator Gives the Converse Pro Leather Four New Personalities",
-   "source": "Hypebeast",
-   "date": "2026-10-14",
-   "content": "Name: Converse x Golf Le Fleur* Pro LeatherMSRP: $105 USDRelease Date: Available NowWhere to Buy: ConverseConverse and Tyler, The Creator are expanding their collaborative 1908 program with a bold update to the iconic Pro Leather silhouette. Dropping in four distinct new colorways - “Molten Lava,” “Bison,” “White,” and “Black” - the release showcases the sheer versatility of the reimagined 1976 basketball classic.The “Black” and “White” iterations anchor the collection with a clean, foundational aesthetic built from premium full-grain leather. For a more textured, striking look, the “Bison” colorway offers a warm, earthy brown suede paired with soft yellow accents, while the \"Molten Lava\" execution turns up the volume in a vibrant red suede complete with contrasting laces. Each expression highlights Tyler's unique instinct for color and material storytelling, proving how much aesthetic r",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F14%2Fconverse-tyler-the-creator-golf-le-fleur-pro-leather-molten-lava-bison-white-black-colorways-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/converse-tyler-the-creator-golf-le-fleur-pro-leather-molten-lava-bison-white-black-colorways-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Kiko Kostadinov and Crocs Officially Unveil the VAALS Silhouette",
-   "source": "Hypebeast",
-   "date": "2026-10-14",
-   "content": "Summary Kiko Kostadinov and Crocs have unveiled their collaborative VAALS footwear silhouetteThe construction pairs genuine tumbled leather and sandwich mesh with an archival Genna TPU band and LiteRide footbedThe model releases on October 20 in three colorways across Kiko Kostadinov flagships webstore and global retailers Kiko Kostadinov and Crocs have officially unveiled the Kiko Kostadinov x Crocs VAALS silhouette. First seen on the runway during the Bulgarian designer's Fall/Winter 2026 menswear presentation in Paris, the collaborative shoe reinterprets the footwear brand's aesthetic language through traditional craftsmanship and technical detailing.Anchored by an oblong toe shape with wrapped saddle-stitch detailing, the upper combines genuine tumbled leather with breathable sandwich mesh. Structural integrity is reinforced by a custom-moulded TPU band paying homage to Crocs’ archiv",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F13%2Fkiko-kostadinov-crocs-vaals-black-kelp-yellow-sand-footwear-fw26-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/kiko-kostadinov-crocs-vaals-black-kelp-yellow-sand-footwear-fw26-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CROCS",
-    "UGG"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "Streamer Rakai Takes the Under Armour Arc 96 \"25XX\" From Livestream to Retail",
-   "source": "Hypebeast",
-   "date": "2026-10-14",
-   "content": "Summary Streamer Rakai has officially partnered with Under Armour to deliver his debut sneaker the Arc 96 \"25XX\"The design pairs an open mesh base with metallic silver overlays neon green accents and sculpted futuristic toolingThe collaborative pair releases on October 19 for $155 USD via Under Armour and select retail shops Name: Rakai x Under Armour Arc 96 \"25XX\"Colorway: Green/Black/SilverSKU: 6023886-391MSRP: $155 USDRelease Date: October 19, 2026Where to Buy: Under ArmourUnder Armour has officially readied the Rakai x Under Armour Arc 96 “25XX”, marking the popular content creator's debut footwear release with the performance sportswear imprint.First revealed during a livestream in March 2026, the project transitions from broadcast screens to retail shelves. Built atop Under Armour’s lifestyle-focused Arc 96 model, the design features a breathable open mesh upper paired with oversiz",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F13%2Fstreamer-rakai-under-armour-arc-96-25xx-official-look-6023886-391-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/streamer-rakai-under-armour-arc-96-25xx-official-look-6023886-391-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "UNDER ARMOUR"
-   ]
-  },
-  {
-   "id": 32,
+   "id": 34,
    "title": "Nike Mind 002 WMNS “Sail”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -450,7 +477,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 35,
    "title": "Nike Mind 002 “Light Smoke Grey”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -463,7 +490,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 36,
    "title": "Nike Mind 001 “Light Smoke Grey”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -476,7 +503,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 37,
    "title": "Nike Mind 001 “Cucumber Calm”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -489,7 +516,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 38,
    "title": "Nike Mind 001 “Mineral Slate” May Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -502,7 +529,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 39,
    "title": "Nike Mind 001 “Hemp”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -515,7 +542,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 40,
    "title": "Nike Mind 001 WMNS “Old Royal”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -528,7 +555,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 41,
    "title": "Nike Mind 002 “Camo Green”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -541,7 +568,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 42,
    "title": "Nike Mind 002 WMNS “Pink Smoke”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
