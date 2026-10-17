@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17 10:23",
+ "updatedAt": "2026-10-17 19:53",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -22,7 +22,6 @@
   "NEW BALANCE",
   "NIKE",
   "REEBOK",
-  "SAUCONY",
   "TIMBERLAND",
   "UGG",
   "VANS"
@@ -57,6 +56,32 @@
   },
   {
    "id": 3,
+   "title": "Allow Nike’s Portal Air Max to Take Us to Another Planet",
+   "source": "Highsnobiety",
+   "date": "2026-10-17",
+   "content": "Nike's blacked-out Air Max Portal transports sneaker stans to a world of timeless footwear.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-portal-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Now This Is a Swanky Samba We Can Get Behind This Fall",
+   "source": "Highsnobiety",
+   "date": "2026-10-17",
+   "content": "Song for the Mute and adidas give the Samba OG a suave new look in black leather, creamy Three Stripes, and a slouchy heel that feels ready for fall.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-samba-og-sftm/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 5,
    "title": "Merrell 攜手 Harris Tweed 推出手工編織鞋履系列",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -67,7 +92,7 @@
    "relatedBrands": []
   },
   {
-   "id": 4,
+   "id": 6,
    "title": "Nike Air Force 1 Low 最新「Iron Man」漆皮版本官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -80,7 +105,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 7,
    "title": "New Balance 推出 992 Made in USA 全新「Medusa Green」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -93,7 +118,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 8,
    "title": "Tyrrell Winston 擴展其 Three Stripes 聯乘陣容，推出 adidas Spiritain 2000",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -107,7 +132,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 9,
    "title": "Nike Kobe 7 Protro「Invisibility Cloak」預計將於 2027 年秋季回歸",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -120,7 +145,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 10,
    "title": "Merrell Taps Harris Tweed for a Handwoven Footwear Collection",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -133,7 +158,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 11,
    "title": "Inside the Creative World of Dr. Martens Bouncing Soles With Sophia Wilson",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -144,7 +169,7 @@
    "relatedBrands": []
   },
   {
-   "id": 10,
+   "id": 12,
    "title": "Nike Air Force 1 Low Receives an \"Iron Man\"-Inspired Patent Leather Makeover",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -157,7 +182,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 13,
    "title": "New Balance Delivers the 992 Made in USA in \"Medusa Green\"",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -170,7 +195,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 14,
    "title": "Tyrrell Winston Expands His Three Stripes Roster With the adidas Spiritain 2000",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -184,7 +209,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 15,
    "title": "Nike Kobe 7 Protro \"Invisibility Cloak\" Set for Fall 2027 Return",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -197,7 +222,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 16,
    "title": "Official Look at the JJJJound x New Balance 990v3 \"Suede\"",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -211,7 +236,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 17,
    "title": "adidas’ Chocolate Retro Sneaker Is an Italian Dessert",
    "source": "Highsnobiety",
    "date": "2026-10-16",
@@ -224,7 +249,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 18,
    "title": "Andrew Reynolds Turns New Balance Dad Shoes Into a Skater's Cup of Tea",
    "source": "Highsnobiety",
    "date": "2026-10-16",
@@ -237,7 +262,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 19,
    "title": "A Hardy Air Jordan Boot Gets a Winter Glow-Up",
    "source": "Highsnobiety",
    "date": "2026-10-16",
@@ -250,7 +275,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 20,
    "title": "Nike Remixes Its Dad Shoe Into a Winterized Stomper (Again)",
    "source": "Highsnobiety",
    "date": "2026-10-16",
@@ -263,40 +288,13 @@
    ]
   },
   {
-   "id": 19,
+   "id": 21,
    "title": "Nike’s All-Grey Air Max Is Practically Battle-Ready",
    "source": "Highsnobiety",
    "date": "2026-10-16",
    "content": "Nike's Air Max Moto 2K sneaker gets a Cordura update, resulting in a version that's equally stylish & rugged.",
    "image": "",
    "link": "https://www.highsnobiety.com/p/nike-air-max-moto-2k-cordura/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "Why Gen Z Hates Sneaker Hype",
-   "source": "Highsnobiety",
-   "date": "2026-10-16",
-   "content": "Saucony’s Senior Director of Global Energy, Jason Faustino, says sneaker culture is fundamentally broken. And he’s ready to blow it all up.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/saucony-collaboration-interview/",
-   "lang": "en",
-   "relatedBrands": [
-    "SAUCONY"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "Nike’s Split-Toe Air Rift Sneaker Is All Meshed Up",
-   "source": "Highsnobiety",
-   "date": "2026-10-16",
-   "content": "Nike's breathable toe-hugging Air Rift sneaker is celebrating 30 years by acting brand new.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-rift-sneaker-mesh-black/",
    "lang": "en",
    "relatedBrands": [
     "NIKE",
