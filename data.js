@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-17 19:53",
+ "updatedAt": "2026-10-18 10:24",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -56,6 +56,97 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 3,
+   "title": "Where To Buy the Air Jordan 5 “Halloween”",
+   "source": "Nice Kicks",
+   "date": "2026-10-17",
+   "content": "Inspiration Behind the Haunting Jordan Brand has been leaning into holiday-themed releases for years, but the Halloween colorway concept has never had a more… The post Where To Buy the Air Jordan 5 “Halloween” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/imgi_2_849708585_18641949205048677_1253556922169934352_n-scaled.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-5-halloween-hq7978-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-17",
+   "content": "The Air Jordan 14 “Forest Green” is expected to release on October 31, 2026, via SNKRS and select retailers for $215. Check out the… The post Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/air-jordan-14-forest-green-487471-300-october-2026-release-date-info-1.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "For New Balance’s Sandy Skate Shoe, Less Is Really More",
+   "source": "Highsnobiety",
+   "date": "2026-10-17",
+   "content": "New Balance Numeric's 440v2 High sneaker lands in a simple \"Quicksand\" colorway, proving less is really more.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-numeric-440v2-high-quicksand/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "In Leather, Crocs' Wallabee-Coded Sneaker Is More Dapper Than Ever",
+   "source": "Highsnobiety",
+   "date": "2026-10-17",
+   "content": "Crocs releases a leather version of its Wallabee-style Gallery Shoe, resulting in an even more dapper version of the dressy hybrid model",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/crocs-gallery-leather-shoe/",
+   "lang": "en",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Nike Built an All-Weather Recovery Sneaker for Hikers",
+   "source": "Highsnobiety",
+   "date": "2026-10-17",
+   "content": "Nike debuts the Rejuven8 WNTR sneaker, a hiking-style recovery model with outdoorsy charm, protection from the elements, & stylish details.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-rejuven8-wntr-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Nike's Slimed-Out “Nocturnal” AF1 Skate Shoes Are Good (x2)",
+   "source": "Highsnobiety",
+   "date": "2026-10-17",
+   "content": "Nike SB's dropping a second unbranded version of the Nocturnal Air Force 1 skate shoe collab. And it's just as good as the original.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-sb-air-force-1-cool-grey-court-green/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Nike's Most Swaggy ACG Mules Are Straight from Doernbecher",
+   "source": "Highsnobiety",
+   "date": "2026-10-17",
+   "content": "Nike reveals its Doernbecher Freestyle 22 collection for 2026, which includes a pink camo ACG Rufus mule with loads of cool details.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-doernbecher-acg-rufus-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
    "title": "Allow Nike’s Portal Air Max to Take Us to Another Planet",
    "source": "Highsnobiety",
    "date": "2026-10-17",
@@ -68,7 +159,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 11,
    "title": "Now This Is a Swanky Samba We Can Get Behind This Fall",
    "source": "Highsnobiety",
    "date": "2026-10-17",
@@ -81,7 +172,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 12,
    "title": "Merrell 攜手 Harris Tweed 推出手工編織鞋履系列",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -92,7 +183,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 13,
    "title": "Nike Air Force 1 Low 最新「Iron Man」漆皮版本官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -105,7 +196,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 14,
    "title": "New Balance 推出 992 Made in USA 全新「Medusa Green」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -118,7 +209,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 15,
    "title": "Tyrrell Winston 擴展其 Three Stripes 聯乘陣容，推出 adidas Spiritain 2000",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -132,7 +223,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 16,
    "title": "Nike Kobe 7 Protro「Invisibility Cloak」預計將於 2027 年秋季回歸",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -145,7 +236,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 17,
    "title": "Merrell Taps Harris Tweed for a Handwoven Footwear Collection",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -158,7 +249,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 18,
    "title": "Inside the Creative World of Dr. Martens Bouncing Soles With Sophia Wilson",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -169,7 +260,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 12,
+   "id": 19,
    "title": "Nike Air Force 1 Low Receives an \"Iron Man\"-Inspired Patent Leather Makeover",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -182,7 +273,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 20,
    "title": "New Balance Delivers the 992 Made in USA in \"Medusa Green\"",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -195,7 +286,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 21,
    "title": "Tyrrell Winston Expands His Three Stripes Roster With the adidas Spiritain 2000",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -209,7 +300,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 22,
    "title": "Nike Kobe 7 Protro \"Invisibility Cloak\" Set for Fall 2027 Return",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -222,7 +313,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 23,
    "title": "Official Look at the JJJJound x New Balance 990v3 \"Suede\"",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -236,7 +327,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 24,
    "title": "adidas’ Chocolate Retro Sneaker Is an Italian Dessert",
    "source": "Highsnobiety",
    "date": "2026-10-16",
@@ -249,60 +340,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
-   "title": "Andrew Reynolds Turns New Balance Dad Shoes Into a Skater's Cup of Tea",
-   "source": "Highsnobiety",
-   "date": "2026-10-16",
-   "content": "Andrew Reynolds' signature New Balance skate shoe, the Numeric 993, arrives in a tasty tonal \"Breakfast Tea\" for its latest drop.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/andrew-reynolds-new-balance-numeric-993-breakfast-tea/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "A Hardy Air Jordan Boot Gets a Winter Glow-Up",
-   "source": "Highsnobiety",
-   "date": "2026-10-16",
-   "content": "The winter-ready Air Jordan 9 Retro boots return in a new \"Anthracite\" colorway alongside reflective details.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-9-retro-boots/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "Nike Remixes Its Dad Shoe Into a Winterized Stomper (Again)",
-   "source": "Highsnobiety",
-   "date": "2026-10-16",
-   "content": "Nike's Zoom Vomero Roam winter sneaker returns for the fall, dressed in a stylish two-tone \"Obsidian\" colorway.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-zoom-vomero-roam-obsidian/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "Nike’s All-Grey Air Max Is Practically Battle-Ready",
-   "source": "Highsnobiety",
-   "date": "2026-10-16",
-   "content": "Nike's Air Max Moto 2K sneaker gets a Cordura update, resulting in a version that's equally stylish & rugged.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-moto-2k-cordura/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 22,
+   "id": 25,
    "title": "Carhartt WIP x Nike 最新 Air Max Goadome 聯乘系列即將登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -315,7 +353,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 26,
    "title": "Vans 與 SZA 釋出於加州拍攝的首個 VANSZA Drop 1 聯乘系列廣告企劃",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -328,7 +366,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 27,
    "title": "adidas Samba 迎來充滿質感的「Camo Cow Print」全新面貌",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -341,7 +379,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 28,
    "title": "Timberland 與 Jacquemus 攜手重塑 Authentic Boat Shoe 鱷魚壓紋皮革鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -354,7 +392,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 29,
    "title": "Converse Japan 最新 All Star Westernstitch SU HI 變身牛仔靴",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -367,7 +405,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 30,
    "title": "OTW by Vans 與 Satoshi Nakamoto 聯乘推出 Era 95 Gems 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -380,7 +418,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 31,
    "title": "Carhartt WIP x Nike Returns With an Air Max Goadome Pack",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -393,7 +431,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 32,
    "title": "Vans and SZA Unveil California-Shot Campaign for Debut VANSZA Drop 1",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -407,7 +445,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 33,
    "title": "The adidas Samba Gets a Textured “Camo Cow Print” Makeover",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -420,7 +458,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 34,
    "title": "Timberland and Jacquemus Rework the Authentic Boat Shoe in Crocodile-Embossed Leather",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -435,7 +473,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 35,
    "title": "Nike Dunk Low Shibuya “Halloween”",
    "source": "Nice Kicks",
    "date": "2026-10-15",
@@ -448,7 +486,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 36,
    "title": "Nike Mind 002 WMNS “Sail”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -461,7 +499,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 37,
    "title": "Nike Mind 002 “Light Smoke Grey”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -474,7 +512,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 38,
    "title": "Nike Mind 001 “Light Smoke Grey”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -487,7 +525,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 39,
    "title": "Nike Mind 001 “Cucumber Calm”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -500,7 +538,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 40,
    "title": "Nike Mind 001 “Mineral Slate” May Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -513,7 +551,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 41,
    "title": "Nike Mind 001 “Hemp”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -526,39 +564,13 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 42,
    "title": "Nike Mind 001 WMNS “Old Royal”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
    "content": "The Nike Mind 001 WMNS “Old Royal” will be restocking on October 15, 2026, via Nike and select retailers for $95. Check out the photos below… The post Nike Mind 001 WMNS “Old Royal” appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/08/hq4309-400-1-e1787072476876.jpg",
    "link": "https://www.nicekicks.com/nike-mind-001-wmns-old-royal-hq4309-400/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Nike Mind 002 “Camo Green”",
-   "source": "Nice Kicks",
-   "date": "2026-10-14",
-   "content": "Fans of the Nike Mind collection can expect the Nike Mind 002 “Camo Green” to restock on October 15, 2026, via Nike and select retailers for… The post Nike Mind 002 “Camo Green” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/07/hq4308-300-5-e1784652371165.jpg",
-   "link": "https://www.nicekicks.com/nike-mind-002-camo-green-hq4308-300/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "Nike Mind 002 WMNS “Pink Smoke”",
-   "source": "Nice Kicks",
-   "date": "2026-10-14",
-   "content": "Fans of the Nike Mind collection can expect the Nike Mind 002 WMNS “Pink Smoke” to restock on October 15, 2026, via Nike and select retailers… The post Nike Mind 002 WMNS “Pink Smoke” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/07/hq4310-600-5-e1784651633235.jpg",
-   "link": "https://www.nicekicks.com/nike-mind-002-wmns-pink-smoke-hq4310-600/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
