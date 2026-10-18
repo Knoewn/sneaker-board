@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18 10:24",
+ "updatedAt": "2026-10-18 20:20",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -30,6 +30,19 @@
  "news": [
   {
    "id": 1,
+   "title": "Nike’s Wheat Air Force 1 Sneaker Channels 2016 Nostalgia",
+   "source": "Highsnobiety",
+   "date": "2026-10-18",
+   "content": "Nike's fresh-baked Wheat Air Force 1 Sneaker is back from the year 2016 & it hasn't missed a beat.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-sneaker-wheat/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
    "title": "Nike Air Force 1 Low「Lace Metallic Gold」捨棄皮革材質，換上編織紋理與花卉蕾絲飾邊",
    "source": "Hypebeast 中文",
    "date": "2026-10-17",
@@ -42,7 +55,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 3,
    "title": "The Nike Air Force 1 Low “Lace Metallic Gold” Swaps Leather for Woven Texture and Floral Trim",
    "source": "Hypebeast",
    "date": "2026-10-17",
@@ -55,7 +68,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 4,
    "title": "Where To Buy the Air Jordan 5 “Halloween”",
    "source": "Nice Kicks",
    "date": "2026-10-17",
@@ -68,7 +81,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 5,
    "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-17",
@@ -81,7 +94,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 6,
    "title": "For New Balance’s Sandy Skate Shoe, Less Is Really More",
    "source": "Highsnobiety",
    "date": "2026-10-17",
@@ -94,7 +107,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 7,
    "title": "In Leather, Crocs' Wallabee-Coded Sneaker Is More Dapper Than Ever",
    "source": "Highsnobiety",
    "date": "2026-10-17",
@@ -107,7 +120,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 8,
    "title": "Nike Built an All-Weather Recovery Sneaker for Hikers",
    "source": "Highsnobiety",
    "date": "2026-10-17",
@@ -120,7 +133,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 9,
    "title": "Nike's Slimed-Out “Nocturnal” AF1 Skate Shoes Are Good (x2)",
    "source": "Highsnobiety",
    "date": "2026-10-17",
@@ -133,7 +146,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 10,
    "title": "Nike's Most Swaggy ACG Mules Are Straight from Doernbecher",
    "source": "Highsnobiety",
    "date": "2026-10-17",
@@ -146,7 +159,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 11,
    "title": "Allow Nike’s Portal Air Max to Take Us to Another Planet",
    "source": "Highsnobiety",
    "date": "2026-10-17",
@@ -156,19 +169,6 @@
    "lang": "en",
    "relatedBrands": [
     "NIKE"
-   ]
-  },
-  {
-   "id": 11,
-   "title": "Now This Is a Swanky Samba We Can Get Behind This Fall",
-   "source": "Highsnobiety",
-   "date": "2026-10-17",
-   "content": "Song for the Mute and adidas give the Samba OG a suave new look in black leather, creamy Three Stripes, and a slouchy heel that feels ready for fall.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-samba-og-sftm/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
    ]
   },
   {
@@ -328,19 +328,6 @@
   },
   {
    "id": 24,
-   "title": "adidas’ Chocolate Retro Sneaker Is an Italian Dessert",
-   "source": "Highsnobiety",
-   "date": "2026-10-16",
-   "content": "adidas introduces a dark-brown Italia 60s sneaker, resulting in a delicious & extremely luxe take on the retro model.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-italia-60s-dark-brown/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 25,
    "title": "Carhartt WIP x Nike 最新 Air Max Goadome 聯乘系列即將登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -353,7 +340,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 25,
    "title": "Vans 與 SZA 釋出於加州拍攝的首個 VANSZA Drop 1 聯乘系列廣告企劃",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -366,7 +353,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 26,
    "title": "adidas Samba 迎來充滿質感的「Camo Cow Print」全新面貌",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -379,7 +366,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 27,
    "title": "Timberland 與 Jacquemus 攜手重塑 Authentic Boat Shoe 鱷魚壓紋皮革鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -392,7 +379,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 28,
    "title": "Converse Japan 最新 All Star Westernstitch SU HI 變身牛仔靴",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -405,7 +392,7 @@
    ]
   },
   {
-   "id": 30,
+   "id": 29,
    "title": "OTW by Vans 與 Satoshi Nakamoto 聯乘推出 Era 95 Gems 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -418,7 +405,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 30,
    "title": "Carhartt WIP x Nike Returns With an Air Max Goadome Pack",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -431,7 +418,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 31,
    "title": "Vans and SZA Unveil California-Shot Campaign for Debut VANSZA Drop 1",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -445,7 +432,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 32,
    "title": "The adidas Samba Gets a Textured “Camo Cow Print” Makeover",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -458,7 +445,7 @@
    ]
   },
   {
-   "id": 34,
+   "id": 33,
    "title": "Timberland and Jacquemus Rework the Authentic Boat Shoe in Crocodile-Embossed Leather",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -473,7 +460,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 34,
    "title": "Nike Dunk Low Shibuya “Halloween”",
    "source": "Nice Kicks",
    "date": "2026-10-15",
@@ -486,7 +473,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 35,
    "title": "Nike Mind 002 WMNS “Sail”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -499,7 +486,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 36,
    "title": "Nike Mind 002 “Light Smoke Grey”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -512,7 +499,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 37,
    "title": "Nike Mind 001 “Light Smoke Grey”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -525,7 +512,7 @@
    ]
   },
   {
-   "id": 39,
+   "id": 38,
    "title": "Nike Mind 001 “Cucumber Calm”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -538,7 +525,7 @@
    ]
   },
   {
-   "id": 40,
+   "id": 39,
    "title": "Nike Mind 001 “Mineral Slate” May Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -551,7 +538,7 @@
    ]
   },
   {
-   "id": 41,
+   "id": 40,
    "title": "Nike Mind 001 “Hemp”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -564,7 +551,7 @@
    ]
   },
   {
-   "id": 42,
+   "id": 41,
    "title": "Nike Mind 001 WMNS “Old Royal”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
