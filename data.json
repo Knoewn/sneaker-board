@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18 20:20",
+ "updatedAt": "2026-10-19 10:38",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -30,6 +30,72 @@
  "news": [
   {
    "id": 1,
+   "title": "adidas' Cool Military Shoe Joins Wales Bonner's Wildly Luxe Army",
+   "source": "Highsnobiety",
+   "date": "2026-10-18",
+   "content": "Wales Bonner reveals its wild albeit luxe FW26 adidas collaboration featuring the BW Army for the first time.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/wales-bonner-adidas-bw-army/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "New Balance’s Split-Tone Dad Shoes Are Part Gorgon, All Clean",
+   "source": "Highsnobiety",
+   "date": "2026-10-18",
+   "content": "New Balance's 992 \"Medusa Green\" brings a mythological colorway to the brand's Made in USA dad shoe model. Here's everything on the release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-992-medusa-green/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Nike’s Fanciest Forces Refuse to Clock Out",
+   "source": "Highsnobiety",
+   "date": "2026-10-18",
+   "content": "Nike's black Air Force 1 Luxe sneakers return with their elegant leather uppers & outdoor boot-style soles. It's fancy but it's still on the clock.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-luxe-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Nike’s Ruggedized Air Max Is a Military-Minded Gem",
+   "source": "Highsnobiety",
+   "date": "2026-10-18",
+   "content": "Nike's Air Max Moto 2K Cordura \"Medium Ash\" sneaker is a stylish revival dressed in military clothes, essentially.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-moto-2k-cordura-medium-ash/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Nike's Insane ACG-Hoops Crossover Returns to the Streets",
+   "source": "Highsnobiety",
+   "date": "2026-10-18",
+   "content": "Nike's ACG Air Max Foamdome sneaker-boots are back in action, returning in the famous \"Eggplant\" colorway for Fall 2026.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-acg-air-max-foamdome/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
    "title": "Nike’s Wheat Air Force 1 Sneaker Channels 2016 Nostalgia",
    "source": "Highsnobiety",
    "date": "2026-10-18",
@@ -42,7 +108,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 7,
    "title": "Nike Air Force 1 Low「Lace Metallic Gold」捨棄皮革材質，換上編織紋理與花卉蕾絲飾邊",
    "source": "Hypebeast 中文",
    "date": "2026-10-17",
@@ -55,7 +121,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 8,
    "title": "The Nike Air Force 1 Low “Lace Metallic Gold” Swaps Leather for Woven Texture and Floral Trim",
    "source": "Hypebeast",
    "date": "2026-10-17",
@@ -68,7 +134,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 9,
    "title": "Where To Buy the Air Jordan 5 “Halloween”",
    "source": "Nice Kicks",
    "date": "2026-10-17",
@@ -81,7 +147,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 10,
    "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-17",
@@ -94,7 +160,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 11,
    "title": "For New Balance’s Sandy Skate Shoe, Less Is Really More",
    "source": "Highsnobiety",
    "date": "2026-10-17",
@@ -104,71 +170,6 @@
    "lang": "en",
    "relatedBrands": [
     "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 7,
-   "title": "In Leather, Crocs' Wallabee-Coded Sneaker Is More Dapper Than Ever",
-   "source": "Highsnobiety",
-   "date": "2026-10-17",
-   "content": "Crocs releases a leather version of its Wallabee-style Gallery Shoe, resulting in an even more dapper version of the dressy hybrid model",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/crocs-gallery-leather-shoe/",
-   "lang": "en",
-   "relatedBrands": [
-    "CROCS"
-   ]
-  },
-  {
-   "id": 8,
-   "title": "Nike Built an All-Weather Recovery Sneaker for Hikers",
-   "source": "Highsnobiety",
-   "date": "2026-10-17",
-   "content": "Nike debuts the Rejuven8 WNTR sneaker, a hiking-style recovery model with outdoorsy charm, protection from the elements, & stylish details.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-rejuven8-wntr-sneakers/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 9,
-   "title": "Nike's Slimed-Out “Nocturnal” AF1 Skate Shoes Are Good (x2)",
-   "source": "Highsnobiety",
-   "date": "2026-10-17",
-   "content": "Nike SB's dropping a second unbranded version of the Nocturnal Air Force 1 skate shoe collab. And it's just as good as the original.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-sb-air-force-1-cool-grey-court-green/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 10,
-   "title": "Nike's Most Swaggy ACG Mules Are Straight from Doernbecher",
-   "source": "Highsnobiety",
-   "date": "2026-10-17",
-   "content": "Nike reveals its Doernbecher Freestyle 22 collection for 2026, which includes a pink camo ACG Rufus mule with loads of cool details.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-doernbecher-acg-rufus-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 11,
-   "title": "Allow Nike’s Portal Air Max to Take Us to Another Planet",
-   "source": "Highsnobiety",
-   "date": "2026-10-17",
-   "content": "Nike's blacked-out Air Max Portal transports sneaker stans to a world of timeless footwear.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-portal-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
    ]
   },
   {
