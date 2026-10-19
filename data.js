@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-19 10:38",
+ "updatedAt": "2026-10-19 23:10",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,12 +16,12 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
-  "CONVERSE",
-  "CROCS",
+  "BALENCIAGA",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
   "REEBOK",
+  "SAUCONY",
   "TIMBERLAND",
   "UGG",
   "VANS"
@@ -30,9 +30,101 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Nike 推出 Kobe 3 Low Protro「Mamba Eterno」致敬墨西哥亡靈節",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-19",
+   "content": "摘要 Nike 正準備推出 Kobe 3 Low Protro 全新鮮艷配色「Mamba Eterno」，靈感源自亡靈節（Día de los Muertos）這款實戰鞋款在半透明模塑支架下注入花卉圖案，搭配 Safety Orange、Picante Red 和 Sundial 色調鞋款預計於 2026 年 10 月 30 日透過 Nike 及指定零售商發售，售價為 $190 美元 名稱：Nike Kobe 3 Low Protro「Mamba Eterno」配色：Safety Orange/Sundial-Picante RedSKU：IO6260-800建議售價：$190 美元發售日期：2026 年 10 月 30 日發售地點： NikeNike 宣佈推出全新 Kobe 3 Low Protro「Mamba Eterno」，進一步擴展其簽名籃球鞋系列。這款紀念版設計直接從墨西哥亡靈節（Día de los Muertos），以及 Kobe Bryant 與 Los Angeles 墨西哥社區的深厚淵源中汲取靈感。有別於該鞋款過往較簡潔的單色設計，「Mamba Eterno」（意為「永恆曼巴」）契合了緬懷與慶祝逝去親人的傳統。鞋面融合了 Safety Orange、Picante Red 和 Sundial 等色調，呈現自然混合的視覺效果，而非傳統的色塊拼接，並以粉紅和紫色作點綴。在標誌性的半透明網底之下，複雜的花卉圖案貫穿鞋身各個部分。這種圖案佈局將底層的藝術設計提升為焦點，與鞋款的模製結構形成對比，同時透過個人文化敘事向 Vanessa Bryant 的血統致敬。Nike Kobe 3 Low Protro「Mamba Eterno」將於 2026 年 10 月 30 日透過 Nike 及指定 Nike Basketball 零售商發售，男裝尺碼定價為 $190 美元，另備有大童尺碼可供選擇。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-kobe-3-low-protro-mamba-eterno-IO6260-800-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-kobe-3-low-protro-mamba-eterno-io6260-800-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Corteiz 率先展示即將推出的 Nike Shox R419「Metallic Silver」",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-19",
+   "content": "摘要 Corteiz 創辦人 Clint 419 於 Instagram 親自揭曉即將登場的 Nike Shox R4 聯乘企劃首度曝光的預告首波預告聚焦於這款復古輪廓鞋型，並注入「Metallic Silver」金屬銀配色傳聞指隨後還將有「Black」黑色與「Royal Blue」皇家藍兩款配色同步登場 Nike 與駐 London 的街頭服飾品牌 Corteiz 正為下一個聯乘鞋履企劃作準備，帶來即將推出的 Corteiz x Nike Shox R4。品牌創辦人 Clint 419 透過其個人 Instagram 帳號親自發佈，讓大家率先一覽這款聯乘跑鞋的真面目。這次曝光的照片以「Metallic Silver」配色為焦點，展現出鞋款復古與未來感兼具的鞋面設計及標誌性的機械緩震系統。除了 Clint 419 展示的銀色版本外，最新釋出的預告片亦暗示「Black」及「Royal Blue」兩種配色正在籌備當中，令即將發售的鞋履系列更見完整。據悉除了鞋履外，雙方亦準備了豐富的服飾系列。該系列預計涵蓋運動外套、運動長褲、AeroLoft 背心、專業打底衣、運動衫及短褲，大部分單品的配色均與這三款波鞋相呼應。Corteiz x Nike Shox R419 系列預計於 2026 年秋季正式發售。 View this post on InstagramA post shared by LUNDUN. (@clint419) View this post on InstagramA post shared by CORTEIZ (@corteiz) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fcorteiz-nike-shox-r419-collaboration-silver-colorway-first-look-reveal-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/corteiz-nike-shox-r419-collaboration-silver-colorway-first-look-reveal",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Getting Ready for the Night Shift Is Like Clockwork for Naz Hassan",
+   "source": "Hypebeast",
+   "date": "2026-10-19",
+   "content": "If there’s one process that signals the start of chef Naz Hassan’s night, it’s changing his shoes. Having worked in kitchens across Milan and now London, the simple act of swapping his lace-ups for a pair of work-ready clogs remains constant, helping him get physically and mentally into gear for a busy shift making Italian plates.Exploring what functionality in style means to the chef, Hypebeast heads to his acclaimed neighborhood restaurant, Ornella, for a new two-part UGG campaign. With the debut installment capturing stylist Joel Lyall moving through the night, the latest feature shows how Hassan adapts to the energy behind the counter, as well as the moment he winds down with the brand’s functional Fall 2026 offering. \"During a busy day, we’re like an orchestra, and everyone needs to play their instrument in the best way.\"“Service starts when the first customer comes through the door",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F02%2Fugg-fall-2026-naz-hassan-hypebeast-campaign-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/ugg-fall-2026-naz-hassan-hypebeast-campaign-info",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Nike Honors Día de los Muertos With the Kobe 3 Low Protro \"Mamba Eterno\"",
+   "source": "Hypebeast",
+   "date": "2026-10-19",
+   "content": "Summary Nike is preparing to release the Kobe 3 Low Protro in a vibrant Mamba Eterno colorway inspired by Día de los MuertosThe performance silhouette features floral artwork set beneath a translucent molded cage in Safety Orange Picante Red and SundialPairs are scheduled to launch on October 30 2026 via Nike and select retailers for $190 USD Name: Nike Kobe 3 Low Protro \"Mamba Eterno\"Colorway: Safety Orange/Sundial-Picante RedSKU: IO6260-800MSRP: $190 USDRelease Date: October 30, 2026Where to Buy: NikeNike is expanding its signature basketball roster with the upcoming Kobe 3 Low Protro \"Mamba Eterno\". The commemorative edition draws direct inspiration from Día de los Muertos and Kobe Bryant’s deep-rooted connection to the Mexican community in Los Angeles.Departing from the cleaner, monochromatic looks previously seen on the model, the \"Mamba Eterno\"—translating to \"Eternal Mamba\"—aligns",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F18%2Fnike-kobe-3-low-protro-mamba-eterno-IO6260-800-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-kobe-3-low-protro-mamba-eterno-io6260-800-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Corteiz Gives First Look at Upcoming Nike Shox R419 in \"Metallic Silver\"",
+   "source": "Hypebeast",
+   "date": "2026-10-19",
+   "content": "Summary Corteiz founder Clint 419 took to Instagram to reveal a first look at an upcoming Nike Shox R4 collaborationThe initial preview highlights the retro silhouette rendered in a Metallic Silver finishRumors suggest that accompanying Black and Royal Blue colorways are also on the way Nike and London-based streetwear label Corteiz are preparing their next joint footwear project with the upcoming Corteiz x Nike Shox R4. Shared directly by founder Clint 419 via his personal Instagram account, the preview delivers a first look at the collaborative runner.The revealed imagery centers on a \"Metallic Silver\" execution, detailing the silhouette’s retro-futuristic upper and iconic mechanical cushioning system. Alongside the silver pair previewed by Clint 419, the newly released teaser video suggest that additional iterations in \"Black\" and \"Royal Blue\" are also in the works to complete the upc",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F19%2Fcorteiz-nike-shox-r419-collaboration-silver-colorway-first-look-reveal-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/corteiz-nike-shox-r419-collaboration-silver-colorway-first-look-reveal",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Sole Food: Saucony's Secret to Making Cool Shoes? Find Cool People",
+   "source": "Highsnobiety",
+   "date": "2026-10-19",
+   "content": "Saucony's making genuinely cool sneakers right now. Why? Because it's working with cool names like Westside Gunn & Highsnobiety.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/saucony-collabs-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "SAUCONY"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Balenciaga’s Collapsible Moccasin Sets the Pace",
+   "source": "Highsnobiety",
+   "date": "2026-10-19",
+   "content": "Balenciaga's collapsible Pace sneaker is part moccasin, part mule and all new-age Balenciaga.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/balenciaga-pace-sneaker-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "BALENCIAGA"
+   ]
+  },
+  {
+   "id": 8,
    "title": "adidas' Cool Military Shoe Joins Wales Bonner's Wildly Luxe Army",
    "source": "Highsnobiety",
-   "date": "2026-10-18",
+   "date": "2026-10-19",
    "content": "Wales Bonner reveals its wild albeit luxe FW26 adidas collaboration featuring the BW Army for the first time.",
    "image": "",
    "link": "https://www.highsnobiety.com/p/wales-bonner-adidas-bw-army/",
@@ -42,10 +134,10 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 9,
    "title": "New Balance’s Split-Tone Dad Shoes Are Part Gorgon, All Clean",
    "source": "Highsnobiety",
-   "date": "2026-10-18",
+   "date": "2026-10-19",
    "content": "New Balance's 992 \"Medusa Green\" brings a mythological colorway to the brand's Made in USA dad shoe model. Here's everything on the release.",
    "image": "",
    "link": "https://www.highsnobiety.com/p/new-balance-992-medusa-green/",
@@ -55,10 +147,10 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 10,
    "title": "Nike’s Fanciest Forces Refuse to Clock Out",
    "source": "Highsnobiety",
-   "date": "2026-10-18",
+   "date": "2026-10-19",
    "content": "Nike's black Air Force 1 Luxe sneakers return with their elegant leather uppers & outdoor boot-style soles. It's fancy but it's still on the clock.",
    "image": "",
    "link": "https://www.highsnobiety.com/p/nike-air-force-1-luxe-sneakers/",
@@ -68,10 +160,10 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 11,
    "title": "Nike’s Ruggedized Air Max Is a Military-Minded Gem",
    "source": "Highsnobiety",
-   "date": "2026-10-18",
+   "date": "2026-10-19",
    "content": "Nike's Air Max Moto 2K Cordura \"Medium Ash\" sneaker is a stylish revival dressed in military clothes, essentially.",
    "image": "",
    "link": "https://www.highsnobiety.com/p/nike-air-max-moto-2k-cordura-medium-ash/",
@@ -82,10 +174,10 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 12,
    "title": "Nike's Insane ACG-Hoops Crossover Returns to the Streets",
    "source": "Highsnobiety",
-   "date": "2026-10-18",
+   "date": "2026-10-19",
    "content": "Nike's ACG Air Max Foamdome sneaker-boots are back in action, returning in the famous \"Eggplant\" colorway for Fall 2026.",
    "image": "",
    "link": "https://www.highsnobiety.com/p/nike-acg-air-max-foamdome/",
@@ -95,20 +187,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
-   "title": "Nike’s Wheat Air Force 1 Sneaker Channels 2016 Nostalgia",
-   "source": "Highsnobiety",
-   "date": "2026-10-18",
-   "content": "Nike's fresh-baked Wheat Air Force 1 Sneaker is back from the year 2016 & it hasn't missed a beat.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-force-1-sneaker-wheat/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 7,
+   "id": 13,
    "title": "Nike Air Force 1 Low「Lace Metallic Gold」捨棄皮革材質，換上編織紋理與花卉蕾絲飾邊",
    "source": "Hypebeast 中文",
    "date": "2026-10-17",
@@ -121,7 +200,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 14,
    "title": "The Nike Air Force 1 Low “Lace Metallic Gold” Swaps Leather for Woven Texture and Floral Trim",
    "source": "Hypebeast",
    "date": "2026-10-17",
@@ -134,7 +213,34 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 15,
+   "title": "Nike Air Force 1 Low QS Pony Hair “Team Red”",
+   "source": "Nice Kicks",
+   "date": "2026-10-17",
+   "content": "The Nike Air Force 1 Low “Team Red” gives the classic silhouette a bold textural update with long pony hair covering the upper from… The post Nike Air Force 1 Low QS Pony Hair “Team Red” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ir1940-600-5-1-e1791247684722.jpg",
+   "link": "https://www.nicekicks.com/nike-air-force-1-low-qs-pony-hair-team-red-ir1940-600/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-17",
+   "content": "The Air Jordan 12 “Fireside” is set to release on October 24, 2026, via Nike.com and select retailers for $215. Check out the photo… The post Air Jordan 12 “Fireside” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ct8013-105-5-1-e1791640160431.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 17,
    "title": "Where To Buy the Air Jordan 5 “Halloween”",
    "source": "Nice Kicks",
    "date": "2026-10-17",
@@ -147,7 +253,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 18,
    "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-17",
@@ -160,20 +266,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
-   "title": "For New Balance’s Sandy Skate Shoe, Less Is Really More",
-   "source": "Highsnobiety",
-   "date": "2026-10-17",
-   "content": "New Balance Numeric's 440v2 High sneaker lands in a simple \"Quicksand\" colorway, proving less is really more.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-numeric-440v2-high-quicksand/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 12,
+   "id": 19,
    "title": "Merrell 攜手 Harris Tweed 推出手工編織鞋履系列",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -184,7 +277,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 13,
+   "id": 20,
    "title": "Nike Air Force 1 Low 最新「Iron Man」漆皮版本官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -197,7 +290,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 21,
    "title": "New Balance 推出 992 Made in USA 全新「Medusa Green」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -210,7 +303,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 22,
    "title": "Tyrrell Winston 擴展其 Three Stripes 聯乘陣容，推出 adidas Spiritain 2000",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -224,7 +317,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 23,
    "title": "Nike Kobe 7 Protro「Invisibility Cloak」預計將於 2027 年秋季回歸",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -237,7 +330,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 24,
    "title": "Merrell Taps Harris Tweed for a Handwoven Footwear Collection",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -250,7 +343,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 25,
    "title": "Inside the Creative World of Dr. Martens Bouncing Soles With Sophia Wilson",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -261,7 +354,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 19,
+   "id": 26,
    "title": "Nike Air Force 1 Low Receives an \"Iron Man\"-Inspired Patent Leather Makeover",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -274,7 +367,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 27,
    "title": "New Balance Delivers the 992 Made in USA in \"Medusa Green\"",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -287,7 +380,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 28,
    "title": "Tyrrell Winston Expands His Three Stripes Roster With the adidas Spiritain 2000",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -301,7 +394,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 29,
    "title": "Nike Kobe 7 Protro \"Invisibility Cloak\" Set for Fall 2027 Return",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -314,7 +407,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 30,
    "title": "Official Look at the JJJJound x New Balance 990v3 \"Suede\"",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -328,7 +421,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 31,
    "title": "Carhartt WIP x Nike 最新 Air Max Goadome 聯乘系列即將登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -341,7 +434,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 32,
    "title": "Vans 與 SZA 釋出於加州拍攝的首個 VANSZA Drop 1 聯乘系列廣告企劃",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -354,7 +447,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 33,
    "title": "adidas Samba 迎來充滿質感的「Camo Cow Print」全新面貌",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -367,7 +460,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 34,
    "title": "Timberland 與 Jacquemus 攜手重塑 Authentic Boat Shoe 鱷魚壓紋皮革鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -380,33 +473,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
-   "title": "Converse Japan 最新 All Star Westernstitch SU HI 變身牛仔靴",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-15",
-   "content": "名稱：Converse All Star Westernstitch SU HI配色：Tan、Black型號：31319430、31319431建議售價：¥17,600 JPY（約 $110 USD）發售日期：10 月 23 日發售渠道：Converse JapanConverse Japan 發表了 All Star Westernstitch SU HI，這款標誌性高筒鞋款經過圖案重塑，將西部靴的細節與品牌升級的革新規格結合。鞋款捨棄了經典帆布，改用麂皮鞋面，在保留原有輪廓的同時，為熟悉的鞋型注入牧場風格。設計亮點在於取材自西部靴的裝飾縫線，Converse 將其與呼應 All Star 名稱的星星圖案搭配。這些裝飾點綴在全麂皮鞋面上，為這雙運動鞋帶來更柔軟的質感與更具份量感的外觀，有別於帆布 Chuck 的輕盈感。鞋底採用橡膠大底，並備有「Tan」和「Black」兩種配色。在西部風格的外表下，Westernstitch SU HI 採用了 Converse 的革新規格，對 All Star 平台進行了大幅內部升級。不僅鞋墊，鞋跟內部也加入了具備透氣、緩震及不易變形特性的開孔聚氨酯泡棉，提升每一步的舒適度。鞋墊本身也改為可完全拆卸的設計，方便習慣使用訂製鞋墊的人士替換。重量與貼合度同樣受到重視。全新結構讓單隻 26.5 cm 的鞋款比上一代輕了約 60 克，重新設計的鞋楦和外底則改善了貼合度與穩定性。改良後的外底結構亦增加了靈活度，讓鞋款在腳下能更自然地彎曲。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FConverse-All-Star-Westernstitch-SU-HI-Black-Tan-31319430-31319431-Japan-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/converse-all-star-westernstitch-su-hi-black-tan-31319430-31319431-japan-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "OTW by Vans 與 Satoshi Nakamoto 聯乘推出 Era 95 Gems 鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-15",
-   "content": "摘要 OTW by Vans 再度攜手 Satoshi Nakamoto，推出聯乘鞋款 Era 95 Gems鞋款採用可撕裂的海軍藍帆布鞋面，撕開後露出經典棋盤格底層，並配上彩色寶石與外露海綿該鞋款將於 10 月 16 日星期五正式登場，並於 OTW 官方網站獨家發售 OTW by Vans 官方宣布與 Satoshi Nakamoto 聯乘推出 Era 95 Gems 鞋款，透過粗獷、反烏托邦的美學視角延續雙方的創意合作。這款聯乘鞋款以實驗精神及顛覆性設計為核心，將自然磨損與刻意營造的不完美感作為重點設計元素。鞋款以海軍藍可撕式帆布鞋面為核心，設計理念是隨着穿着而逐漸磨損，顯露出底下的經典棋盤格圖案。鞋領周圍的外露海綿營造出解構感，與腳踝處鑲嵌的圓形彩色寶石形成對比，展現出經過精心計算的精緻感。鞋帶印有重複的「Satoshi」字樣，並綴以噴砂串珠細節，增添觸感層次。鞋底方面，硫化側邊飾上手工擦拭的黑色及黃色光澤，營造出自然舊化的美學，並與仿舊護條相輔相成。最後，半透明水晶外底印有「Satoshi Nakamoto」品牌字樣，在走動時若隱若現。OTW by Vans x Satoshi Nakamoto Era 95 Gems 將於 10 月 16 日星期五起透過 Vans 發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fotw-by-vans-satoshi-nakamoto-era-95-gems-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/otw-by-vans-satoshi-nakamoto-era-95-gems-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 30,
+   "id": 35,
    "title": "Carhartt WIP x Nike Returns With an Air Max Goadome Pack",
    "source": "Hypebeast",
    "date": "2026-10-15",
@@ -419,49 +486,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
-   "title": "Vans and SZA Unveil California-Shot Campaign for Debut VANSZA Drop 1",
-   "source": "Hypebeast",
-   "date": "2026-10-15",
-   "content": "Summary Vans and SZA unveil the official VANSZA Drop 1 campaign, photographed by India Sleem.Highlights include the Knu Skool Mule, Authentic Kickdown and nature-inspired apparel.Launching October 22, the collection blends skatewear, outdoor influences and SZA's personal style. Following the initial unveiling of their VANSZA collaboration in September, Vans and SZA have released the official campaign for Drop 1, offering a closer look at the singer's nature-inspired interpretation of the California footwear brand's signature designs.Photographed by India Sleem against California's sun-drenched hillsides and rugged landscapes, the campaign brings SZA's creative universe into focus through an interplay of earthy textures, expressive styling and outdoor scenery. Complemented by product and landscape photography from Yudo Kurita, the visuals place the collection's oversized silhouettes, dist",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F15%2Fft-vans-sza-collaboration-collection-drop-1-campaign-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/vans-sza-collaboration-collection-drop-1-campaign-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG",
-    "VANS"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "The adidas Samba Gets a Textured “Camo Cow Print” Makeover",
-   "source": "Hypebeast",
-   "date": "2026-10-15",
-   "content": "Name: adidas Samba “Camo Cow Print”Colorway: “Camo Cow Print”SKU: KJ7500MSRP: $120 USDRelease Date: Holiday 2026adidas is giving the Samba a new “Camo Cow Print” makeover, combining two recurring footwear motifs - animal patterning and military-inspired camouflage - across the low-profile classic.The upper is almost entirely wrapped in faux-pony hair, printed with an irregular desert-camo pattern that blends creamy off-white, sandy beige and dark brown patches for a cowhide-like effect. Smooth cream leather Three Stripes cut through the patterned sidewalls, while matching leather appears around the heel to add a cleaner contrast against the busier upper. Muted sage green laces, tongue branding and collar lining introduce a softer outdoor-inspired accent without overpowering the neutral palette.Offered as a women’s release, the Samba retains its familiar slim tooling, finished here in a d",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F15%2Fftadidas-samba-camo-cow-print-kj7500-official-images.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/adidas-samba-camo-cow-print-kj7500-official-images",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Timberland and Jacquemus Rework the Authentic Boat Shoe in Crocodile-Embossed Leather",
-   "source": "Hypebeast",
-   "date": "2026-10-15",
-   "content": "Name: Timberland x Jacquemus Authentic Boat ShoeColorway: Brown Croc, Navy CrocSKU: TBCMSRP: $320 USDRelease Date: Available NowWhere to Buy: Timberland, JacquemusTimberland and Jacquemus reunite to reinterpret the 3-Eye Classic Lug silhouette into a collaborative Authentic Boat Shoe – giving the heritage silhouette a more polished, tactile finish through crocodile-embossed leather. The limited-edition release arrives in two colorways - “Brown Croc” and “Navy Croc” - each built from Premium Timberland leather embossed to mimic the raised texture of exotic hide.\"Brown Croc\" leans into the shoe’s traditional outdoor roots with a warm, earthy tone, while \"Navy Croc\" offers a cooler, more refined alternative that shifts the familiar boat shoe into dressier territory. The embossed surface adds depth across the otherwise classic upper, allowing the texture itself to become the dominant design ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F15%2Ffttimberland-jacquemus-3-eye-classic-lug-authentic-boat-shoe-navy-dark-brown-croc-collaboration-release-info-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/timberland-jacquemus-3-eye-classic-lug-authentic-boat-shoe-navy-dark-brown-croc-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CROCS",
-    "TIMBERLAND",
-    "UGG"
-   ]
-  },
-  {
-   "id": 34,
+   "id": 36,
    "title": "Nike Dunk Low Shibuya “Halloween”",
    "source": "Nice Kicks",
    "date": "2026-10-15",
@@ -474,7 +499,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 37,
    "title": "Nike Mind 002 WMNS “Sail”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -487,7 +512,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 38,
    "title": "Nike Mind 002 “Light Smoke Grey”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -500,7 +525,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 39,
    "title": "Nike Mind 001 “Light Smoke Grey”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -513,7 +538,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 40,
    "title": "Nike Mind 001 “Cucumber Calm”",
    "source": "Nice Kicks",
    "date": "2026-10-14",
@@ -526,39 +551,13 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 41,
    "title": "Nike Mind 001 “Mineral Slate” May Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-14",
    "content": "Interested readers can expect the the Nike Mind 001 “Mineral Slate” to restock on October 15, 2026, via Nike and select retailers for $95. Check out… The post Nike Mind 001 “Mineral Slate” May Release Date & Info appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/01/hq4307-300-1-e1769372837692.jpg",
    "link": "https://www.nicekicks.com/nike-mind-001-mineral-slate-hq4307-300/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Nike Mind 001 “Hemp”",
-   "source": "Nice Kicks",
-   "date": "2026-10-14",
-   "content": "The Nike Mind 001 “Hemp” will be restocking on October 15, 2026, via Nike and select retailers for $95. Check out the photos below and keep… The post Nike Mind 001 “Hemp” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/07/hq4307-200-1-1-e1784918838716.jpg",
-   "link": "https://www.nicekicks.com/nike-mind-001-hemp-hq4307-200/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "Nike Mind 001 WMNS “Old Royal”",
-   "source": "Nice Kicks",
-   "date": "2026-10-14",
-   "content": "The Nike Mind 001 WMNS “Old Royal” will be restocking on October 15, 2026, via Nike and select retailers for $95. Check out the photos below… The post Nike Mind 001 WMNS “Old Royal” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/08/hq4309-400-1-e1787072476876.jpg",
-   "link": "https://www.nicekicks.com/nike-mind-001-wmns-old-royal-hq4309-400/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
