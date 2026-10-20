@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19 23:10",
+ "updatedAt": "2026-10-20 10:50",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,12 +17,14 @@
  "brands": [
   "ADIDAS",
   "BALENCIAGA",
+  "CROCS",
   "JORDAN",
+  "MAISON MARGIELA",
   "NEW BALANCE",
   "NIKE",
   "REEBOK",
+  "SALOMON",
   "SAUCONY",
-  "TIMBERLAND",
   "UGG",
   "VANS"
  ],
@@ -30,6 +32,20 @@
  "news": [
   {
    "id": 1,
+   "title": "MM6 Maison Margiela 與 Salomon 發表 8 款全新 2026 秋冬聯乘系列",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-19",
+   "content": "摘要MM6 Maison Margiela 與 Salomon 推出 8 款融合高級時裝與機能性的 2026 秋冬系列。XT-MM6 與 Crossderby 將於 10 月 22 日發售，而 XT-BOOT MM6 與 ACS Pro MM6 則於 11 月登場。長期合作夥伴 MM6 Maison Margiela 與 Salomon 再度攜手，帶來完整的 2026 秋冬陣容。全新發表的系列包含 8 款設計，繼續將 Salomon 的機能特色與 MM6 的設計細節互相結合，打造出適合各種風格的多功能鞋款系列。首先，XT-MM6 帶來三款全新配色，包括 Scarab/Bistro Green/Green Milieu、Tapioca/Sea Foam/Violet Tulip 以及 Vanilla Ice/Ftw Silver/Lemon。每對 XT-MM6 鞋頭外側、鞋舌及鞋墊均點綴了低調的 MM6 標誌，大底亦壓印了數字 6。另外，若追求俐落的黑色造型，採用全黑設計的 Crossderby MM6 Maison Margiela 以光滑皮革鞋面呈現。延續雙方對鞋套設計運動鞋的探索，XT-BOOT MM6 以突破常規的輪廓呼應 Maison Margiela 的前衛美學。此款寬鬆的高筒鞋套設計提供黑、白兩色，為系列注入不凡的外觀。最後，ACS Pro MM6 帶來薰衣草紫與綠色配色，以極具科技感的風格為系列畫上圓滿句號。Salomon x MM6 Maison Margiela XT-MM6 與 Crossderby 將於 10 月 22 日在 Salomon 及 MM6 發售，而 XT-BOOT MM6 與 ACS Pro MM6 則押後至 11 月推出。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fsalomon-mm6-maison-margiela-fw26-fall-2026-collection-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/mm6-maison-margiela-salomon-unveil-8-pack-fw26-collection",
+   "lang": "zh",
+   "relatedBrands": [
+    "MAISON MARGIELA",
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 2,
    "title": "Nike 推出 Kobe 3 Low Protro「Mamba Eterno」致敬墨西哥亡靈節",
    "source": "Hypebeast 中文",
    "date": "2026-10-19",
@@ -42,7 +58,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 3,
    "title": "Corteiz 率先展示即將推出的 Nike Shox R419「Metallic Silver」",
    "source": "Hypebeast 中文",
    "date": "2026-10-19",
@@ -55,7 +71,21 @@
    ]
   },
   {
-   "id": 3,
+   "id": 4,
+   "title": "MM6 Maison Margiela & Salomon Unveil 8-Pack FW26 Collection",
+   "source": "Hypebeast",
+   "date": "2026-10-19",
+   "content": "SummaryMM6 Maison Margiela and Salomon are releasing an eight-style Fall/Winter 2026 collection blending high fashion and performance.The XT-MM6 and Crossderby release October 22, while the XT-BOOT MM6 and ACS Pro MM6 drop in November.Perennial collaborators MM6 Maison Margiela and Salomon have returned, offering a full Fall/Winter 2026 lineup. Comprising eight styles, the newly unveiled collection continues to fuse Salomon’s performance identity with MM6 design details for a versatile footwear range with styles for all.First, the XT-MM6 is showcased in three new colorways, including Scarab/Bistro Green/Green Milieu, Tapioca/Sea Foam/Violet Tulip, and Vanilla Ice/Ftw Silver/Lemon. Each XT-MM6 pair features discreet MM6 branding at the lateral toe box, tongue, and insoles, along with a 6 embossed into the outsoles. Alternatively, for a sleek black statement, the Crossderby MM6 Maison Marg",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F19%2Fsalomon-mm6-maison-margiela-fw26-fall-2026-collection-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/mm6-maison-margiela-salomon-unveil-8-pack-fw26-collection",
+   "lang": "en",
+   "relatedBrands": [
+    "MAISON MARGIELA",
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 5,
    "title": "Getting Ready for the Night Shift Is Like Clockwork for Naz Hassan",
    "source": "Hypebeast",
    "date": "2026-10-19",
@@ -68,7 +98,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 6,
    "title": "Nike Honors Día de los Muertos With the Kobe 3 Low Protro \"Mamba Eterno\"",
    "source": "Hypebeast",
    "date": "2026-10-19",
@@ -81,7 +111,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 7,
    "title": "Corteiz Gives First Look at Upcoming Nike Shox R419 in \"Metallic Silver\"",
    "source": "Hypebeast",
    "date": "2026-10-19",
@@ -95,7 +125,112 @@
    ]
   },
   {
-   "id": 6,
+   "id": 8,
+   "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-19",
+   "content": "The Air Jordan 12 “Fireside” is set to release on October 24, 2026, via Nike.com and select retailers for $215. Check out the photo… The post Air Jordan 12 “Fireside” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ct8013-105-5-1-e1791640160431.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Molly-Mae x adidas Samba OG WMNS “Matcha”",
+   "source": "Nice Kicks",
+   "date": "2026-10-19",
+   "content": "The Molly-Mae x adidas Samba OG “Matcha” brings a soft seasonal look to the iconic terrace silhouette. Magic Lime suede covers the upper while… The post Molly-Mae x adidas Samba OG WMNS “Matcha” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/KH8706_10-1-e1791384422760.jpg",
+   "link": "https://www.nicekicks.com/molly-mae-adidas-samba-og-wmns-matcha-kh8706/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Molly-Mae x adidas Superstar II WMNS “Latte”",
+   "source": "Nice Kicks",
+   "date": "2026-10-19",
+   "content": "The Molly-Mae x adidas Superstar II “Latte” brings her café-inspired aesthetic to the iconic shell-toe silhouette. Cream White leather creates a clean foundation while… The post Molly-Mae x adidas Superstar II WMNS “Latte” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/KH8707_10-1-e1791386198485.jpg",
+   "link": "https://www.nicekicks.com/molly-mae-adidas-superstar-ii-wmns-latte-kh8707/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "New Balance’s Blue Signature Skate Shoe Looks Incredible",
+   "source": "Highsnobiety",
+   "date": "2026-10-19",
+   "content": "Tiago Lemos' New Balance Numeric 1010 skate shoe comes down with the good kind of blues for its \"Shadow Blue\" release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-numeric-tiago-lemos-1010-blue/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Crocs's Techy Trail Sneaker Is Military-Tough Now",
+   "source": "Highsnobiety",
+   "date": "2026-10-19",
+   "content": "Crocs introduces a Trailbreak 2 Tech Cordura sneaker, resulting in the toughest version yet of the street-savvy outdoor model.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/crocs-trailbreak-2-tech-cordura/",
+   "lang": "en",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Nike’s Suede Split-Toe Sneaker Is Fall-Ready",
+   "source": "Highsnobiety",
+   "date": "2026-10-19",
+   "content": "Nike's Air Rift 2 lands in smooth suede, making the tabi summer model into a fall-ready sneaker.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-rift-2-suede/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Union Loosened up the Nike Dunk. Now, It’s a Tasteful Slip-on",
+   "source": "Highsnobiety",
+   "date": "2026-10-19",
+   "content": "Union Los Angeles has designed supple suede Nike Dunk sneakers for its 2026 collaboration. Spoiler: they also slip-ons.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/union-nike-dunk-shoes-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Nike’s Nailed-Down Air Force 1 Is a Real Hellraiser",
+   "source": "Highsnobiety",
+   "date": "2026-10-19",
+   "content": "Nike's Air Force 1 '01 \"Nightmare\" is a Halloween-themed sneaker featuring nailed-down uppers inspired by Hellraiser's Pinhead.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-nightmare/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 16,
    "title": "Sole Food: Saucony's Secret to Making Cool Shoes? Find Cool People",
    "source": "Highsnobiety",
    "date": "2026-10-19",
@@ -108,7 +243,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 17,
    "title": "Balenciaga’s Collapsible Moccasin Sets the Pace",
    "source": "Highsnobiety",
    "date": "2026-10-19",
@@ -121,73 +256,7 @@
    ]
   },
   {
-   "id": 8,
-   "title": "adidas' Cool Military Shoe Joins Wales Bonner's Wildly Luxe Army",
-   "source": "Highsnobiety",
-   "date": "2026-10-19",
-   "content": "Wales Bonner reveals its wild albeit luxe FW26 adidas collaboration featuring the BW Army for the first time.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/wales-bonner-adidas-bw-army/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 9,
-   "title": "New Balance’s Split-Tone Dad Shoes Are Part Gorgon, All Clean",
-   "source": "Highsnobiety",
-   "date": "2026-10-19",
-   "content": "New Balance's 992 \"Medusa Green\" brings a mythological colorway to the brand's Made in USA dad shoe model. Here's everything on the release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-992-medusa-green/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 10,
-   "title": "Nike’s Fanciest Forces Refuse to Clock Out",
-   "source": "Highsnobiety",
-   "date": "2026-10-19",
-   "content": "Nike's black Air Force 1 Luxe sneakers return with their elegant leather uppers & outdoor boot-style soles. It's fancy but it's still on the clock.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-force-1-luxe-sneakers/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 11,
-   "title": "Nike’s Ruggedized Air Max Is a Military-Minded Gem",
-   "source": "Highsnobiety",
-   "date": "2026-10-19",
-   "content": "Nike's Air Max Moto 2K Cordura \"Medium Ash\" sneaker is a stylish revival dressed in military clothes, essentially.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-moto-2k-cordura-medium-ash/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 12,
-   "title": "Nike's Insane ACG-Hoops Crossover Returns to the Streets",
-   "source": "Highsnobiety",
-   "date": "2026-10-19",
-   "content": "Nike's ACG Air Max Foamdome sneaker-boots are back in action, returning in the famous \"Eggplant\" colorway for Fall 2026.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-acg-air-max-foamdome/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 13,
+   "id": 18,
    "title": "Nike Air Force 1 Low「Lace Metallic Gold」捨棄皮革材質，換上編織紋理與花卉蕾絲飾邊",
    "source": "Hypebeast 中文",
    "date": "2026-10-17",
@@ -200,7 +269,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 19,
    "title": "The Nike Air Force 1 Low “Lace Metallic Gold” Swaps Leather for Woven Texture and Floral Trim",
    "source": "Hypebeast",
    "date": "2026-10-17",
@@ -213,7 +282,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 20,
    "title": "Nike Air Force 1 Low QS Pony Hair “Team Red”",
    "source": "Nice Kicks",
    "date": "2026-10-17",
@@ -226,21 +295,7 @@
    ]
   },
   {
-   "id": 16,
-   "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-17",
-   "content": "The Air Jordan 12 “Fireside” is set to release on October 24, 2026, via Nike.com and select retailers for $215. Check out the photo… The post Air Jordan 12 “Fireside” October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ct8013-105-5-1-e1791640160431.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 17,
+   "id": 21,
    "title": "Where To Buy the Air Jordan 5 “Halloween”",
    "source": "Nice Kicks",
    "date": "2026-10-17",
@@ -253,7 +308,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 22,
    "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-17",
@@ -266,7 +321,20 @@
    ]
   },
   {
-   "id": 19,
+   "id": 23,
+   "title": "Nike’s Doernbecher Freestyle 2026 Collection Continues a Legacy of Giving Back",
+   "source": "Nice Kicks",
+   "date": "2026-10-17",
+   "content": "Few sneaker collaborations carry the same meaning as Nike’s Doernbecher Freestyle program. What began in 2004 as a partnership between Nike and OHSU Doernbecher… The post Nike’s Doernbecher Freestyle 2026 Collection Continues a Legacy of Giving Back appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/imgi_1_nike-db-freestyle-xxii-group-scaled.jpeg",
+   "link": "https://www.nicekicks.com/nike-2026-doernbecher-freestyle-collection/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 24,
    "title": "Merrell 攜手 Harris Tweed 推出手工編織鞋履系列",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -277,7 +345,7 @@
    "relatedBrands": []
   },
   {
-   "id": 20,
+   "id": 25,
    "title": "Nike Air Force 1 Low 最新「Iron Man」漆皮版本官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -290,7 +358,7 @@
    ]
   },
   {
-   "id": 21,
+   "id": 26,
    "title": "New Balance 推出 992 Made in USA 全新「Medusa Green」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -303,7 +371,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 27,
    "title": "Tyrrell Winston 擴展其 Three Stripes 聯乘陣容，推出 adidas Spiritain 2000",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -317,7 +385,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 28,
    "title": "Nike Kobe 7 Protro「Invisibility Cloak」預計將於 2027 年秋季回歸",
    "source": "Hypebeast 中文",
    "date": "2026-10-16",
@@ -330,7 +398,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 29,
    "title": "Merrell Taps Harris Tweed for a Handwoven Footwear Collection",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -343,7 +411,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 30,
    "title": "Inside the Creative World of Dr. Martens Bouncing Soles With Sophia Wilson",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -354,7 +422,7 @@
    "relatedBrands": []
   },
   {
-   "id": 26,
+   "id": 31,
    "title": "Nike Air Force 1 Low Receives an \"Iron Man\"-Inspired Patent Leather Makeover",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -367,7 +435,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 32,
    "title": "New Balance Delivers the 992 Made in USA in \"Medusa Green\"",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -380,7 +448,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 33,
    "title": "Tyrrell Winston Expands His Three Stripes Roster With the adidas Spiritain 2000",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -394,7 +462,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 34,
    "title": "Nike Kobe 7 Protro \"Invisibility Cloak\" Set for Fall 2027 Return",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -407,7 +475,7 @@
    ]
   },
   {
-   "id": 30,
+   "id": 35,
    "title": "Official Look at the JJJJound x New Balance 990v3 \"Suede\"",
    "source": "Hypebeast",
    "date": "2026-10-16",
@@ -421,7 +489,33 @@
    ]
   },
   {
-   "id": 31,
+   "id": 36,
+   "title": "The Nike Air Force 1 Low “What The LA” Returns in October",
+   "source": "Nice Kicks",
+   "date": "2026-10-16",
+   "content": "The Nike Air Force 1 Low “What The LA” is making its return for a second release, giving sneakerheads another opportunity to grab the… The post The Nike Air Force 1 Low “What The LA” Returns in October appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ct1117-100-5-1-e1791847378569.jpg",
+   "link": "https://www.nicekicks.com/nike-air-force-1-low-what-the-la-ct1117-100/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 37,
+   "title": "Nike Kobe A.D. Protro “Purple Stardust”",
+   "source": "Nice Kicks",
+   "date": "2026-10-16",
+   "content": "The Nike Kobe A.D. Protro “Purple Stardust” will release on October 23, 2026, via Nike.com and select retailers for $155. Check out the photos… The post Nike Kobe A.D. Protro “Purple Stardust” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/io8233-500-5-1-e1791468982152.jpg",
+   "link": "https://www.nicekicks.com/nike-kobe-a-d-protro-purple-stardust-io8233-500/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 38,
    "title": "Carhartt WIP x Nike 最新 Air Max Goadome 聯乘系列即將登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -434,7 +528,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 39,
    "title": "Vans 與 SZA 釋出於加州拍攝的首個 VANSZA Drop 1 聯乘系列廣告企劃",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -447,7 +541,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 40,
    "title": "adidas Samba 迎來充滿質感的「Camo Cow Print」全新面貌",
    "source": "Hypebeast 中文",
    "date": "2026-10-15",
@@ -460,107 +554,16 @@
    ]
   },
   {
-   "id": 34,
-   "title": "Timberland 與 Jacquemus 攜手重塑 Authentic Boat Shoe 鱷魚壓紋皮革鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-15",
-   "content": "名稱： Timberland x Jacquemus Authentic Boat Shoe配色： Brown Croc、Navy Croc貨號： 有待公布建議零售價： $320 美元發售日期： 現已發售發售點： Timberland、JacquemusTimberland 與 Jacquemus 再度合作，將經典的 3-Eye Classic Lug 鞋型重新詮釋為聯乘 Authentic Boat Shoe，透過鱷魚壓紋皮革為這款傳統鞋型注入更精緻、富質感的細節。這次限量發售的鞋款提供「Brown Croc」與「Navy Croc」兩款配色，均採用優質 Timberland 皮革製成，並經過壓紋處理，巧妙模擬珍稀皮革的立體紋理。「Brown Croc」以溫暖的大地色調呼應鞋款傳統的戶外根基，而「Navy Croc」則提供更型格、精緻的選擇，將大眾熟悉的帆船鞋帶入更正式的領域。壓紋表面為經典鞋面增添了層次感，讓紋理本身成為設計焦點，而毋須依賴強烈的對比或標誌圖案。這款聯乘鞋型保留了自 1978 年面世以來定義 Timberland Authentic Boat Shoe 的結構特徵。耐磨的橡膠外底為設計奠定基礎，柔軟的皮革內襯與加厚鞋領則為挺身的鞋面增添舒適感。同色系的 Timberland 樹木標誌保持了低調的外觀，而特別訂製的品牌鞋帶頭則在不破壞鞋款俐落輪廓的情況下，注入微妙的聯乘細節。最終成品巧妙平衡了 Timberland 的實用傳統與 Jacquemus 對材質與比例的精緻處理，透過高級皮具的視覺語言重塑經典帆船鞋。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Ffttimberland-jacquemus-3-eye-classic-lug-authentic-boat-shoe-navy-dark-brown-croc-collaboration-release-info-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/timberland-jacquemus-3-eye-classic-lug-authentic-boat-shoe-navy-dark-brown-croc-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "TIMBERLAND"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "Carhartt WIP x Nike Returns With an Air Max Goadome Pack",
-   "source": "Hypebeast",
-   "date": "2026-10-15",
-   "content": "Name: Carhartt WIP x Nike Goadome LowColorway: \"Light British Tan,\" \"Black\"SKU: IW6306-200, IW6306-001MSRP: $190 USDRelease Date: Holiday 2026Where to Buy: NikeCarhartt WIP and Nike are joining forces once again to release a collaborative take on the Air Max Goadome Low. Having first collaborated in 2018, the activewear label and the Detroit workwear brand’s streetwear division recasts the hefty silhouette in three variants: \"Light British Tan,\" \"Black,\" and the yet-to-be-seen \"Twilight Marsh.\"Debuted in 2000, the Nike Air Max Goadome’s fusion of visible Air technology and all-weather durability has made it a perennial favorite. Carhartt WIP leans fully into the silhouette's utilitarian essence, applying its signature workwear aesthetic to the low-top variation amidst Nike's renewed focus on the silhouette.The holiday 2026 release significantly alters the upper with a more elaborate over",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F15%2Fcarhart-wip-nike-goadome-low-release-date-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/carhart-wip-nike-goadome-low-release-date-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "Nike Dunk Low Shibuya “Halloween”",
-   "source": "Nice Kicks",
-   "date": "2026-10-15",
-   "content": "The Nike Dunk Low Shibuya “Halloween” is releasing on October 23, 2026, via Nike.com and select retailers for $135. Check out the photos below and keep… The post Nike Dunk Low Shibuya “Halloween” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ix5169-300-5-1-e1791828180374.jpg",
-   "link": "https://www.nicekicks.com/nike-dunk-low-shibuya-halloween-ix5169-300/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 37,
-   "title": "Nike Mind 002 WMNS “Sail”",
-   "source": "Nice Kicks",
-   "date": "2026-10-14",
-   "content": "Look for the women’s exclusive Nike Mind 002 “Sail” to restock on October 15, 2026, via Nike and select retailers for $145. Check out the photos… The post Nike Mind 002 WMNS “Sail” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/03/hq4310-100-5-e1773087297433.jpg",
-   "link": "https://www.nicekicks.com/nike-mind-002-wmns-sail-hq4310-100/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "Nike Mind 002 “Light Smoke Grey”",
-   "source": "Nice Kicks",
-   "date": "2026-10-14",
-   "content": "Look for the Nike Mind 002 “Light Smoke Grey” to restock on October 15, 2026, via Nike for $145. Check out the photos below and keep… The post Nike Mind 002 “Light Smoke Grey” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2025/10/hq4308-003-5-1-e1761226489584.jpg",
-   "link": "https://www.nicekicks.com/nike-mind-002-light-smoke-grey-hq4308-003/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "Nike Mind 001 “Light Smoke Grey”",
-   "source": "Nice Kicks",
-   "date": "2026-10-14",
-   "content": "Look for the Nike Mind 001 “Light Smoke Grey” to restock on October 15, 2026, via Nike for $95. Check out the photos below and keep… The post Nike Mind 001 “Light Smoke Grey” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2025/09/image-72-e1758654582330.jpg",
-   "link": "https://www.nicekicks.com/nike-mind-001-light-smoke-grey-hq4307-003/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Nike Mind 001 “Cucumber Calm”",
-   "source": "Nice Kicks",
-   "date": "2026-10-14",
-   "content": "The Nike Mind 001 “Cucumber Calm” will be restocking on October 15, 2026, via Nike and select retailers for $95. Check out the photos below and… The post Nike Mind 001 “Cucumber Calm” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/07/hq4307-302-1-1-e1784919743218.jpg",
-   "link": "https://www.nicekicks.com/nike-mind-001-cucumber-calm-hq4307-302/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
    "id": 41,
-   "title": "Nike Mind 001 “Mineral Slate” May Release Date & Info",
+   "title": "adidas Anthony Edwards 3 “Omen”",
    "source": "Nice Kicks",
-   "date": "2026-10-14",
-   "content": "Interested readers can expect the the Nike Mind 001 “Mineral Slate” to restock on October 15, 2026, via Nike and select retailers for $95. Check out… The post Nike Mind 001 “Mineral Slate” May Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/01/hq4307-300-1-e1769372837692.jpg",
-   "link": "https://www.nicekicks.com/nike-mind-001-mineral-slate-hq4307-300/",
+   "date": "2026-10-15",
+   "content": "The adidas Anthony Edwards 3 “Omen” is set to release on October 23, 2026, via adidas.com and select retailers for $130. Check out the… The post adidas Anthony Edwards 3 “Omen” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/KJ3021_1-1-e1791392779741.jpg",
+   "link": "https://www.nicekicks.com/adidas-anthony-edwards-3-omen-kj3021/",
    "lang": "en",
    "relatedBrands": [
-    "NIKE"
+    "ADIDAS"
    ]
   }
  ]
