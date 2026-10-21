@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-20 21:10",
+ "updatedAt": "2026-10-21 10:44",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,9 +16,7 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
-  "ASICS",
   "BIRKENSTOCK",
-  "CROCS",
   "JORDAN",
   "MAISON MARGIELA",
   "MIZUNO",
@@ -26,7 +24,6 @@ window.SNEAKER_DATA = {
   "NIKE",
   "PUMA",
   "SALOMON",
-  "SAUCONY",
   "UGG"
  ],
  "releases": [],
@@ -293,6 +290,72 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 21,
+   "title": "Nike's Mutated Air Jordans Are the Ultimate Weatherproof Ride",
+   "source": "Highsnobiety",
+   "date": "2026-10-20",
+   "content": "The GORE-TEX Air Jordan 1 Element Low A/T sneaker lands in a clean \"Cream II\" colorway for the Fall 2026. Here's everything on the latest release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/air-jordan-1-element-low-at-cream/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "New Balance's Quietly Cool Sneaker Is a Rain Boot in Dad Shoe Form",
+   "source": "Highsnobiety",
+   "date": "2026-10-20",
+   "content": "New Balance's 2010 GORE-TEX sneaker lands in a dark \"Field Green\" colorway, resulting in a low-key flex for messy weather days.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-2010-gore-tex-field-green/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "New Balance’s Earthy Skate Shoe Isn’t Just Good — It’s Grand",
+   "source": "Highsnobiety",
+   "date": "2026-10-20",
+   "content": "Grand Collection debuts its New Balance Numeric collaboration, which includes a very good-looking green 770 skate shoe.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/grand-collection-new-balance-numeric-770/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "Nike’s Underrated Hiking Boot Is Suave as Ever",
+   "source": "Highsnobiety",
+   "date": "2026-10-20",
+   "content": "Nike's Lahar Low v1 sneaker-boot is back just in time for fall, landing in two stylish colorways plus its signature hiking-ready details.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-lahar-low-v1/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "An OG Air Jordan Gets a Major Winter Re-Boot",
+   "source": "Highsnobiety",
+   "date": "2026-10-20",
+   "content": "The Air Jordan 9 Retro sneaker-boots return in \"Olive,\" bringing the original colorway back to the hardy winter hybrid.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-9-boots-olive/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 26,
    "title": "Nike’s Retro Runner Has Permanent Rotation Written All Over It",
    "source": "Highsnobiety",
    "date": "2026-10-20",
@@ -305,98 +368,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
-   "title": "Is This Viral Basics Brand…a Cult?",
-   "source": "Highsnobiety",
-   "date": "2026-10-20",
-   "content": "Young women line up for the chance to try on Tank Air. What lies beneath is a network of signifiers leading to...where, exactly?",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/tank-air-cult-pop-up-news/",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "Your Nike Sweats Are on the Guest List",
-   "source": "Highsnobiety",
-   "date": "2026-10-20",
-   "content": "Nike Sportswear's new line of sweats make the cosy luxury trend come to life.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/your-nike-sweats-are-on-the-guest-list/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "New Balance’s Blue Signature Skate Shoe Looks Incredible",
-   "source": "Highsnobiety",
-   "date": "2026-10-20",
-   "content": "Tiago Lemos' New Balance Numeric 1010 skate shoe comes down with the good kind of blues for its \"Shadow Blue\" release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-numeric-tiago-lemos-1010-blue/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "Crocs's Techy Trail Sneaker Is Military-Tough Now",
-   "source": "Highsnobiety",
-   "date": "2026-10-20",
-   "content": "Crocs introduces a Trailbreak 2 Tech Cordura sneaker, resulting in the toughest version yet of the street-savvy outdoor model.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/crocs-trailbreak-2-tech-cordura/",
-   "lang": "en",
-   "relatedBrands": [
-    "CROCS"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Nike’s Suede Split-Toe Sneaker Is Fall-Ready",
-   "source": "Highsnobiety",
-   "date": "2026-10-20",
-   "content": "Nike's Air Rift 2 lands in smooth suede, making the tabi summer model into a fall-ready sneaker.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-rift-2-suede/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
    "id": 27,
-   "title": "Union Loosened up the Nike Dunk. Now, It’s a Tasteful Slip-on",
-   "source": "Highsnobiety",
-   "date": "2026-10-20",
-   "content": "Union Los Angeles has designed supple suede Nike Dunk sneakers for its 2026 collaboration. Spoiler: they also slip-ons.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/union-nike-dunk-shoes-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "Nike’s Nailed-Down Air Force 1 Is a Real Hellraiser",
-   "source": "Highsnobiety",
-   "date": "2026-10-20",
-   "content": "Nike's Air Force 1 '01 \"Nightmare\" is a Halloween-themed sneaker featuring nailed-down uppers inspired by Hellraiser's Pinhead.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-force-1-nightmare/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 29,
    "title": "MM6 Maison Margiela 與 Salomon 發表 8 款全新 2026 秋冬聯乘系列",
    "source": "Hypebeast 中文",
    "date": "2026-10-19",
@@ -410,7 +382,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 28,
    "title": "Nike 推出 Kobe 3 Low Protro「Mamba Eterno」致敬墨西哥亡靈節",
    "source": "Hypebeast 中文",
    "date": "2026-10-19",
@@ -423,7 +395,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 29,
    "title": "Corteiz 率先展示即將推出的 Nike Shox R419「Metallic Silver」",
    "source": "Hypebeast 中文",
    "date": "2026-10-19",
@@ -436,7 +408,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 30,
    "title": "MM6 Maison Margiela & Salomon Unveil 8-Pack FW26 Collection",
    "source": "Hypebeast",
    "date": "2026-10-19",
@@ -450,7 +422,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 31,
    "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-19",
@@ -464,7 +436,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 32,
    "title": "Molly-Mae x adidas Samba OG WMNS “Matcha”",
    "source": "Nice Kicks",
    "date": "2026-10-19",
@@ -477,7 +449,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 33,
    "title": "Molly-Mae x adidas Superstar II WMNS “Latte”",
    "source": "Nice Kicks",
    "date": "2026-10-19",
@@ -490,20 +462,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
-   "title": "Sole Food: Saucony's Secret to Making Cool Shoes? Find Cool People",
-   "source": "Highsnobiety",
-   "date": "2026-10-19",
-   "content": "Saucony's making genuinely cool sneakers right now. Why? Because it's working with cool names like Westside Gunn & Highsnobiety.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/saucony-collabs-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "SAUCONY"
-   ]
-  },
-  {
-   "id": 37,
+   "id": 34,
    "title": "Nike Air Force 1 Low QS Pony Hair “Team Red”",
    "source": "Nice Kicks",
    "date": "2026-10-17",
@@ -516,7 +475,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 35,
    "title": "Where To Buy the Air Jordan 5 “Halloween”",
    "source": "Nice Kicks",
    "date": "2026-10-17",
@@ -529,7 +488,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 36,
    "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-17",
@@ -542,7 +501,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 37,
    "title": "Nike’s Doernbecher Freestyle 2026 Collection Continues a Legacy of Giving Back",
    "source": "Nice Kicks",
    "date": "2026-10-17",
@@ -555,7 +514,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 41,
+   "id": 38,
    "title": "The Nike Air Force 1 Low “What The LA” Returns in October",
    "source": "Nice Kicks",
    "date": "2026-10-16",
@@ -568,7 +527,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 42,
+   "id": 39,
    "title": "Nike Kobe A.D. Protro “Purple Stardust”",
    "source": "Nice Kicks",
    "date": "2026-10-16",
@@ -581,7 +540,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 43,
+   "id": 40,
    "title": "adidas Anthony Edwards 3 “Omen”",
    "source": "Nice Kicks",
    "date": "2026-10-15",
