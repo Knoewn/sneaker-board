@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-21 21:20",
+ "updatedAt": "2026-10-22 10:42",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -27,6 +27,32 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Nike LeBron 24 釋出兩款單色 Philadelphia 76ers 配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-22",
+   "content": "摘要 Nike 於 Philadelphia 的快閃活動中展示了 LeBron 24 的兩款全新單色調配色這場名為 Chosen 2ONE3 的活動，旨在慶祝 LeBron James 效力不同球隊期間身穿 23 號與 6 號球衣的職業生涯里程碑在 James 迎來效力該球隊的首個賽季前，這兩款紅藍配色巧妙呼應了 Philadelphia 76ers 的標誌性色彩 Nike 率先展示兩款全新 LeBron 24 配色，為此最新簽名鞋款注入以 Philadelphia 76ers 為靈感的色調。這兩款新作於 Nike Basketball 設在 Philadelphia Fashion District 的「Chosen 2ONE3」期間限定店中亮相。此活動旨在慶祝 LeBron James 傳奇的職業生涯，並彰顯他身穿 23 號及 6 號球衣所締造的輝煌成就。在眾多回顧展品中，最引人注目的莫過於這兩款全新 LeBron 24，兩者均採用了與 Philadelphia 隊服完美呼應的純色設計。其中一款採用鮮豔的紅色包覆全身，另一款則以單色藍色呈現。是次鞋款展示恰逢 James 即將在 Philadelphia 展開首個賽季，他將於 2026-27 NBA 賽季與 Joel Embiid、Tyrese Maxey 及 Jaylen Brown 聯手出戰。雖然這兩款單色鞋款目前僅在 Philadelphia 市中心的活動中展示，但已讓人率先一睹這位超級巨星前鋒今年可能穿著上陣的鞋款風采。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-lebron-24-monochromatic-philadelphia-76ers-colorways-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-lebron-24-monochromatic-philadelphia-76ers-colorways-first-look",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Nike LeBron 24 Surfaces in Monochromatic Philadelphia 76ers Colorways",
+   "source": "Hypebeast",
+   "date": "2026-10-22",
+   "content": "Summary Nike has showcased two new monochromatic colorways of the LeBron 24 at a pop-up in PhiladelphiaThe event titled Chosen 2ONE3 celebrated LeBron James’ career milestones across his tenures wearing numbers 23 and 6The red and blue iterations align with the Philadelphia 76ers' signature colors ahead of James' debut season with the franchise Nike has previewed two new colorways of the LeBron 24, dressing the latest signature silhouette in Philadelphia 76ers-inspired tones. The pairs surfaced at Nike Basketball’s “Chosen 2ONE3” pop-up located in Philadelphia’s Fashion District.The activation served as a celebration of LeBron James' storied career, highlighting his legacy while wearing jersey numbers 23 and 6. Featured prominently among the retrospective displays were the two new LeBron 24 iterations, each sporting a tonal execution that coordinates directly with Philadelphia's team uni",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Fnike-lebron-24-monochromatic-philadelphia-76ers-colorways-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-lebron-24-monochromatic-philadelphia-76ers-colorways-first-look",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
    "title": "KEEN 攜手 TYAKASHA 聯乘推出不對稱設計 Howser III Slide",
    "source": "Hypebeast 中文",
    "date": "2026-10-21",
@@ -37,7 +63,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 4,
    "title": "Air Jordan 15 最新「Cosmic Clay」多色編織款式曝光",
    "source": "Hypebeast 中文",
    "date": "2026-10-21",
@@ -50,7 +76,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 5,
    "title": "Kiko Kostadinov x ASICS 推出全新 US8-S GEL-SJ33 兩款配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-21",
@@ -63,7 +89,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 6,
    "title": "Nike Air Max Goadome 最新「Black Pony Hair」毛絨配色將於 10 月回歸",
    "source": "Hypebeast 中文",
    "date": "2026-10-21",
@@ -76,7 +102,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 7,
    "title": "Brain Dead 與 Dr. Martens 為 Wayborne Boot 注入狂野動物紋設計",
    "source": "Hypebeast 中文",
    "date": "2026-10-21",
@@ -87,7 +113,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 8,
    "title": "Bronny James 最新 Nike LeBron Witness 10 迎來冰藍透明設計",
    "source": "Hypebeast 中文",
    "date": "2026-10-21",
@@ -100,7 +126,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 9,
    "title": "Kyle Wilson 與 Nike SB 攜手打造全新 Air Max 95",
    "source": "Hypebeast 中文",
    "date": "2026-10-21",
@@ -113,7 +139,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 10,
    "title": "Jalen Brunson 獲贈全金色 Nike Kobe 6 Protro 專屬 PE 慶祝紐約人冠軍戒指頒發儀式",
    "source": "Hypebeast 中文",
    "date": "2026-10-21",
@@ -126,7 +152,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 11,
    "title": "adidas Originals 與 Pharrell Williams 為 VIRGINIA Adistar Jellyfish 擴展「Red」與「Storm」全新配色陣容",
    "source": "Hypebeast 中文",
    "date": "2026-10-21",
@@ -139,7 +165,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 12,
    "title": "KEEN Taps TYAKASHA for a Mismatched Howser III Slide",
    "source": "Hypebeast",
    "date": "2026-10-21",
@@ -150,7 +176,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 11,
+   "id": 13,
    "title": "Air Jordan 15 “Cosmic Clay” Surfaces in a Multicolor Woven Look",
    "source": "Hypebeast",
    "date": "2026-10-21",
@@ -164,7 +190,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 14,
    "title": "Kiko Kostadinov and ASICS Refresh the US8-S GEL-SJ33 in Two New Colorways",
    "source": "Hypebeast",
    "date": "2026-10-21",
@@ -177,7 +203,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 15,
    "title": "The Shaggy Nike Air Max Goadome “Black Pony Hair” Is Coming Back This October",
    "source": "Hypebeast",
    "date": "2026-10-21",
@@ -190,7 +216,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 16,
    "title": "Official Look at New Balance 990v7 Made in USA \"Kool Grey\"",
    "source": "Hypebeast",
    "date": "2026-10-21",
@@ -203,7 +229,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 17,
    "title": "Brain Dead and Dr. Martens Give the Wayborne Boot a Wild Animal-Print Makeover",
    "source": "Hypebeast",
    "date": "2026-10-21",
@@ -216,7 +242,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 18,
    "title": "Bronny James’ Nike LeBron Witness 10 Goes Icy Blue and See-Through",
    "source": "Hypebeast",
    "date": "2026-10-21",
@@ -229,7 +255,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 19,
    "title": "Kyle Wilson and Nike SB Team up on the Air Max 95",
    "source": "Hypebeast",
    "date": "2026-10-21",
@@ -242,7 +268,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 20,
    "title": "Jalen Brunson Receives All-Gold Nike Kobe 6 Protro for Knicks Ring Ceremony Night",
    "source": "Hypebeast",
    "date": "2026-10-21",
@@ -255,7 +281,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 21,
    "title": "adidas Originals and Pharrell Williams Expand the VIRGINIA Adistar Jellyfish Lineup With \"Red\" and \"Storm\"",
    "source": "Hypebeast",
    "date": "2026-10-21",
@@ -268,7 +294,31 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 22,
+   "title": "This is the Lemony Garlicky Miso Gochujang Pasta of Running Shorts",
+   "source": "Highsnobiety",
+   "date": "2026-10-21",
+   "content": "The fashion-focused athleticwear brand Satisfy always does the most, but its new AmbientWarp 5\" Unlined Shorts are a maximalist mash of fashion trends.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/satisfy-ambientwarp-running-shorts/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 23,
+   "title": "Arte Antwerp’s Twisted Adidas GSG9 Is Ready for War",
+   "source": "Highsnobiety",
+   "date": "2026-10-21",
+   "content": "Arte Antwerp took adidas' military-minded GSG9 sneaker & twisted it all around in the best way possible.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/arte-antwerps-gsg9-sneaker-cream/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 24,
    "title": "Nike's Mutated Air Jordans Are the Ultimate Weatherproof Ride",
    "source": "Highsnobiety",
    "date": "2026-10-21",
@@ -279,58 +329,6 @@ window.SNEAKER_DATA = {
    "relatedBrands": [
     "JORDAN",
     "NIKE"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "New Balance's Quietly Cool Sneaker Is a Rain Boot in Dad Shoe Form",
-   "source": "Highsnobiety",
-   "date": "2026-10-21",
-   "content": "New Balance's 2010 GORE-TEX sneaker lands in a dark \"Field Green\" colorway, resulting in a low-key flex for messy weather days.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-2010-gore-tex-field-green/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "New Balance’s Earthy Skate Shoe Isn’t Just Good — It’s Grand",
-   "source": "Highsnobiety",
-   "date": "2026-10-21",
-   "content": "Grand Collection debuts its New Balance Numeric collaboration, which includes a very good-looking green 770 skate shoe.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/grand-collection-new-balance-numeric-770/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "Nike’s Underrated Hiking Boot Is Suave as Ever",
-   "source": "Highsnobiety",
-   "date": "2026-10-21",
-   "content": "Nike's Lahar Low v1 sneaker-boot is back just in time for fall, landing in two stylish colorways plus its signature hiking-ready details.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-lahar-low-v1/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "An OG Air Jordan Gets a Major Winter Re-Boot",
-   "source": "Highsnobiety",
-   "date": "2026-10-21",
-   "content": "The Air Jordan 9 Retro sneaker-boots return in \"Olive,\" bringing the original colorway back to the hardy winter hybrid.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-9-boots-olive/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
    ]
   },
   {
@@ -361,19 +359,6 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 27,
-   "title": "Nike 將 Kobe Dunk Low Protro 加入「Mamba Eterno」系列",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-20",
-   "content": "摘要 Nike 正在擴充其節日 Mamba Eterno 系列，推出做舊版本的 Kobe Dunk Low Protro鞋款採用紅橘雙色編織面料鞋面，搭配做舊黑色覆片與不對稱圖案鞋墊鞋款預計於 10 月 30 日經由 Nike 及指定零售商發售，售價為 $130 美元 鞋款名稱： Nike Kobe Dunk Low Protro「Mamba Eterno」配色： Anthracite/SundialSKU： IQ3922-001建議零售價： $130 USD發售日期： 2026 年 10 月 30 日發售點： NikeNike 將於假日系列推出全新 Kobe Dunk Low Protro「Mamba Eterno」，以仿舊的生活風格設計擴展其專屬鞋款陣容。這個包含 4 款鞋的系列還包括 Air Force 1、Kobe 3 Low Protro 和 Kobe A.D. Protro。與其他鞋款明亮的橙色主調不同，這對 Dunk Low 採用了更暗黑、適合街頭造型的設計。鞋面在鞋頭、鞋側面板和鞋領處交織紅色和橙色紡織物，並以仿舊黑色覆層和同色系 Swoosh 標誌作點綴。下方則是舊化奶白色中底及深色橡膠外底，營造出穿著過的歲月感。鞋款多處展現標誌性細節，包括鞋舌上的金色 Kobe Bryant Sheath 標誌及鞋跟的刺繡簽名。內部配有不對稱鞋墊——一紫一綠，均印有金色「Mamba Eterno」字樣，並附上粉色、白色和黑色的可替換鞋帶，方便配搭個人風格。Nike Kobe Dunk Low Protro「Mamba Eterno」將於 2026 年 10 月 30 日透過 Nike.com 及指定零售商發售，售價為 $130 USD。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-kobe-dunk-low-protro-mamba-eterno-iq3922-001-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/nike-kobe-dunk-low-protro-mamba-eterno-iq3922-001-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
    "title": "The Salomon XT-6 PROTECTIVE and XT-WHISPER GTX Receive BILLY’S-Exclusive Colorways",
    "source": "Hypebeast",
    "date": "2026-10-20",
@@ -387,13 +372,26 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
-   "title": "Nike’s “Plaid Pack” Dresses Four Classics in Red Tartan",
-   "source": "Hypebeast",
+   "id": 28,
+   "title": "Jalen Brunson’s “Arancia” Nike Kobe 3 Protro Low PE Shock Dropped At Tip-Off",
+   "source": "Nice Kicks",
    "date": "2026-10-20",
-   "content": "Name: Nike “Plaid Pack”MSRP: ￥17,600 - ￥29,700 JPY (approx. $111 - $188 USD)Release Date: October 22Where to Buy: NikeNike brings a cold-weather twist to four women’s classics with its new “Plaid Pack,” comprising the Air Force 1 Low, Air Max 90, Air Max Plus and Shox TL. A red tartan pattern - woven with black, white and touches of yellow - runs throughout the collection, set against predominantly black foundations for a distinctly autumnal, punk-leaning effect. The Air Force 1 Low “Black/Tough Red/White/Black” takes the most restrained approach, using smooth black leather across the toe, eyestays and Swoosh while inserting plaid textile into the quarter panels and heel tab, all grounded by a completely black sole unit.The Air Max 90 “Black/Tough Red/Yellow Ochre/Team Red” adds more material contrast, combining black mesh and fuzzy suede-like overlays with deep Team Red TPU eyelets and ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F20%2Fnike-plaid-pack-air-force-1-low-ir5596-001-shox-tl-ir5598-002-air-max-plus-ir5731-600-air-max-90-im5167-002-official-images-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nike-plaid-pack-air-force-1-low-ir5596-001-shox-tl-ir5598-002-air-max-plus-ir5731-600-air-max-90-im5167-002-official-images-release-info",
+   "content": "Jalen Brunson’s Nike Kobe 3 Low Protro “Arancia” celebrates New York basketball with a vibrant orange upper and metallic blue accents inspired by the… The post Jalen Brunson’s “Arancia” Nike Kobe 3 Protro Low PE Shock Dropped At Tip-Off appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ja7845-800-1-1.jpg",
+   "link": "https://www.nicekicks.com/jalen-brunson-x-nike-kobe-3-protro-low-pe-arancia-ja7845-800/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 29,
+   "title": "NIGO x J-Hope x Nike Air Force 1 Low ’01 “World Tour”",
+   "source": "Nice Kicks",
+   "date": "2026-10-20",
+   "content": "NIGO and BTS’ j-hope come together to reimagine the iconic Nike Air Force 1 Low, bringing their shared creative vision to one of Nike’s… The post NIGO x J-Hope x Nike Air Force 1 Low ’01 “World Tour” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/io8766-800-1-e1791562783330.jpg",
+   "link": "https://www.nicekicks.com/nigo-j-hope-nike-air-force-1-low-01-world-tour-io8766-800/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
@@ -502,32 +500,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "NIKE"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "Nike Kobe A.D. Protro “Purple Stardust”",
-   "source": "Nice Kicks",
-   "date": "2026-10-16",
-   "content": "The Nike Kobe A.D. Protro “Purple Stardust” will release on October 23, 2026, via Nike.com and select retailers for $155. Check out the photos… The post Nike Kobe A.D. Protro “Purple Stardust” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/io8233-500-5-1-e1791468982152.jpg",
-   "link": "https://www.nicekicks.com/nike-kobe-a-d-protro-purple-stardust-io8233-500/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "adidas Anthony Edwards 3 “Omen”",
-   "source": "Nice Kicks",
-   "date": "2026-10-15",
-   "content": "The adidas Anthony Edwards 3 “Omen” is set to release on October 23, 2026, via adidas.com and select retailers for $130. Check out the… The post adidas Anthony Edwards 3 “Omen” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/KJ3021_1-1-e1791392779741.jpg",
-   "link": "https://www.nicekicks.com/adidas-anthony-edwards-3-omen-kj3021/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
    ]
   }
  ]
