@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-23 10:46",
+ "updatedAt": "2026-10-23 20:59",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,21 +16,68 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
-  "ASICS",
   "CONVERSE",
   "JORDAN",
-  "MAISON MARGIELA",
   "NEW BALANCE",
   "NIKE",
   "PUMA",
   "SALOMON",
-  "UGG",
-  "VANS"
+  "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "ARC’TERYX Postour 靴款將室內拖鞋隱藏於 GORE-TEX 外殼內",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-23",
+   "content": "名稱： ARC’TERYX 男裝 Postour Boot配色： Black/Black、Tatsu/BlackSKU： X000010507建議零售價： $300 美元發售日期： 現已發售發售點： ARC’TERYXARC’TERYX 推出專為滑雪後休閒時光打造的兩段式恢復靴款 Postour Boot，旨在滿足野外活動之間的休息需求。保暖防水的外靴可應付戶外冰雪，而獨立的室內拖鞋則可從內層抽出，讓穿著人士無須更換鞋履即可直接步入室內。外靴是此系統的防風雨部分。ARC’TERYX 採用 GORE-TEX Invisible Fit 完整包裹鞋身，防水層一直延伸至鞋領頂部，提供額外的保護與保暖效果。高鞋領採用抽繩設計，收緊方式與攀石粉袋相似，能密封開口以阻擋深雪及泥濘。Endure 360 延伸橡膠覆蓋整個靴身，增強防刮及抗衝擊能力。抓地力來自專為冰面安全行走而設的 Vibram Arctic Grip 外底，並配以能緊抓雪地及其他柔軟地形的坑紋設計。腳底的緩震設計為一整天困於僵硬滑雪靴內的雙腳增添舒適感。保暖功能貫穿兩層設計。外靴與室內拖鞋均採用 Coreloft 合成保暖物料作內襯，因此無論是作為完整的戶外靴穿著，抑或在室內單獨穿著內層，都能保持溫暖。室內拖鞋本身功能齊全，藏於靴內時能提供支撐，抽出後則憑藉專為室內地面而設的 TPU 抓地外底作獨立使用。男裝 Postour 提供 Black/Black 及 Tatsu/Black 兩種配色，均採用紡織鞋面、合成鞋墊及橡膠外底製成，適合高山、旅遊、自由滑雪及度假村使用。ARC’TERYX 指出此靴款符合 PFAS 規範，只需作表面清潔。鞋款提供全碼選擇，品牌建議介乎兩個尺碼之間或追求更寬鬆腳感的人士選擇大一碼。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FARCTERYX-Postour-Boot-Mens-X000010507-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/arcteryx-postour-boot-mens-x000010507-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 2,
+   "title": "Nike Air Force 1 ‘01「Philly」為 LeBron James 送上充滿 Sixers 色彩的歡迎禮",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-23",
+   "content": "名稱： Nike Air Force 1 ’01「Philly」配色： 白色/鮮藍色/大學紅編號： JW9694-100建議零售價： $140 美元發售日期： 現已發售購買點： SNKRSNike 推出 Air Force 1 ‘01「Philly」來迎接 LeBron James 加盟 Philadelphia，這款向城市致敬的鞋作採用 Sixers 配色，並注入豐富的在地文化元素。品牌並未為此推出專屬簽名鞋款，而是選擇以最具代表性的低筒鞋型來紀念這一重要時刻，圍繞 Philadelphia 這座城市為核心展開設計。這是 Nike 在 2026 年第二次將 Air Force 1 ‘01 化作展現城市籃球氛圍的縮影。今年初，隨著 Knicks 挺進季後賽，「NYC」版本應運而生，鞋墊印有像素化的 Madison Square Garden 圖案。而此次的「Philly」配色則捨棄了體育館圖像，改以球隊色彩與城市符號呈現，將這份致敬之情深植於城市本身，而非單一建築。鞋身外觀的白色、鮮藍色與大學紅配色佈局別具巧思。白色皮革覆蓋鞋頭、鞋帶區域與鞋跟，皇家藍色則點綴於具透氣孔的鞋頭箱與側邊拼接處。紅色皮革 Swoosh 標誌橫跨兩側，鞋帶下方亦設有一個較小的紅色 Swoosh，將點綴色彩巧妙引導至鞋身中央。鞋跟設計將城市色彩展露無遺。一隻鞋的鞋跟刺有「215」，另一隻則為「PHL」，兩者皆以藍色勾勒輪廓並有紅色 Swoosh 貫穿其中；而藍色鞋跟提環上則以白色的「Phila」字樣取代傳統品牌標誌。「215」正是 Philadelphia 的電話區號之一，為這雙鞋賦予了唯有當地人才能心領神會的在地細節。鞋底部分，白色中底飾有藍色「AIR」字樣，並搭配藍色橡膠外底。最別出心裁的細節則隱藏於鞋內：鞋墊印有佈滿裂痕的黑白磚牆圖案，一個紅色的 Nike 標誌從中破牆而出。對於一雙為球星空降新城市而打造的波鞋來說，這無疑是最為貼切的意象。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FNike-Air-Force-1-01-Philly-JW9694-100-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-air-force-1-01-philly-jw9694-100-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Todd Snyder 與 New Balance 再次聯乘推出 T500「Cafe Pack」",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-23",
+   "content": "摘要 New Balance 與 Todd Snyder 合作推出獨家 T500 Cafe Pack，帶來「Espresso」與「Milk」兩種配色這款重塑的 1982 年網球鞋廓形捨棄了傳統帆布，改以長毛麂皮結合鱷魚紋壓花皮革，並搭載生膠中底這輯限量聯乘企劃將於美國東部時間 10 月 22 日上午 10 時透過 Todd Snyder 獨家渠道發售，定價為 $130 美元 New Balance 與男裝設計師 Todd Snyder 正式發布 T500「Cafe Pack」，為這款 1982 年的經典網球鞋帶來升級詮釋。T500 最初於 1982 年為網球運動而設計，後來自然地融入日常街頭文化，憑藉其平整貼地的輪廓而深受滑板愛好者與前衛人士喜愛。這次的新版本透過當代休閒視角重新演繹，在保留經典網球鞋基礎的同時，以精緻且極具質感的物料升級鞋身結構。設計捨棄了傳統的帆布鞋面，改以長絨麂皮與鱷魚紋皮革形成鮮明對比，增添紋理層次與精緻感。低筒鞋面搭載獨特的生膠中底，相較於傳統硫化鞋底，低調地向 1980 年代的運動科技致敬。鞋款提供「Espresso」與「Milk」兩種配色，色調直接從本地街坊咖啡店的溫暖氛圍、質感以及到訪的狗狗中汲取美學靈感。Todd Snyder x New Balance T500「Cafe Pack」將於美國東部時間 10 月 22 日上午 10 時發售，定價為 $130 美元，於官方網站及 Todd Snyder 全線門市獨家發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Ftodd-snyder-new-balance-t500-cafe-pack-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/todd-snyder-new-balance-t500-cafe-pack-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "率先近賞 Supreme x Nike Air Force 1 Low「Olive Camo」配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-23",
+   "content": "摘要 Rif Los Angeles 率先揭曉 Supreme x Nike Air Force 1 Low 的「Olive Camo」配色首度曝光圖鞋款鞋面及 Swoosh 標誌印上傳統橄欖綠迷彩圖案，後跟位置則飾有標誌性的紅色 Box Logo全數三款迷彩版本以及經典黑白配色預計將於 2026 年秋冬系列期間登場 鞋款： Supreme x Nike Air Force 1 Low「Olive Camo」配色： Multi-Color/Iguana型號： CU9225-900定價： 有待確定發佈日期： 2026 年秋季購買渠道： Supreme據報 Supreme 與 Nike 正準備發佈聯乘 Air Force 1 Low「Olive Camo」，以軍事風格圖案延續雙方持續進行的低筒鞋款合作企劃。如上圖所示，洛杉磯寄賣店 Rif Los Angeles 率先分享了此鞋款的實物圖片。從早期圖片可見，傳統的軍綠色迷彩圖案印滿整個鞋面，並搭配相呼應的 Swoosh 標誌。軍綠色調點綴了內襯並延伸至橡膠外底，而外側鞋跟位置則印有 Supreme 標誌性的紅色 Box Logo。繼 8 月曝光的 「Snow Camo」 版本後，是次「Olive Camo」為傳聞中包含三款迷彩配色系列中第二款亮相的設計。預計名為「Woodland Camo」的第三款版本亦將登場，令整個系列更趨完整。此外，據報 Supreme 經典的黑、白皮革 Air Force 1 Low 亦將與這三款迷彩配色一同補貨上架。全部三款 Supreme x Nike Air Force 1 Low 迷彩配色預計將於 2026 年秋冬季正式發佈。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fsupreme-nike-air-force-1-low-olive-camo-first-look-cu9225-900-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/supreme-nike-air-force-1-low-olive-camo-first-look-cu9225-900-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
    "title": "7-Eleven 撤銷針對 Nike Air Max 95 之商標侵權訴訟",
    "source": "Hypebeast 中文",
    "date": "2026-10-23",
@@ -43,7 +90,57 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 6,
+   "title": "ARC’TERYX’s Postour Boot Hides a Slipper Inside a GORE-TEX Shell",
+   "source": "Hypebeast",
+   "date": "2026-10-23",
+   "content": "Name: ARC’TERYX Postour Boot Men'sColorway: Black/Black, Tatsu/BlackSKU: X000010507MSRP: $300 USDRelease Date: Available nowWhere to Buy: ARC’TERYXARC’TERYX is targeting the downtime between backcountry days with the Postour Boot, a two-part recovery boot built for après touring. An insulated, waterproof overboot handles snow and ice outdoors, while a separate slipper slides out from inside so wearers can head straight indoors without swapping footwear.The overboot is the weatherproof half of the system. ARC’TERYX wraps it in GORE-TEX Invisible Fit, running the waterproof layer all the way up to the top of the collar for extra protection and warmth. That high collar closes with a drawcord that tightens much like a climbing chalk bag, sealing the opening against deep snow and slush. Endure 360 extended rubber coverage circles the entire boot, reinforcing it against scuffs and impacts.Grip",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F23%2FARCTERYX-Postour-Boot-Mens-X000010507-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/arcteryx-postour-boot-mens-x000010507-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 7,
+   "title": "The Nike Air Force 1 ‘01 “Philly” Gives LeBron James a Sixers-Coded Welcome",
+   "source": "Hypebeast",
+   "date": "2026-10-23",
+   "content": "Name: Nike Air Force 1 ’01 “Philly”Colorway: White/Rush Blue-University RedSKU: JW9694-100MSRP: $140 USDRelease Date: Available nowWhere to Buy: SNKRSNike is greeting LeBron James’ move to Philadelphia with the Air Force 1 ‘01 “Philly,” a city-dedicated pair dressed in Sixers colors and loaded with local references. Rather than a signature-line release, the brand is leaning on its most recognizable low-top to mark the moment, building the shoe around Philadelphia itself.This is the second time in 2026 that Nike has turned the Air Force 1 ‘01 into a snapshot of a city’s basketball mood. Earlier this year, the “NYC” edition arrived as the Knicks pushed through the playoffs, its insoles printed with a pixelated rendering of Madison Square Garden. The “Philly” pair trades arena imagery for team colors and civic shorthand, keeping the tribute rooted in the city rather than a single building.U",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F23%2FNike-Air-Force-1-01-Philly-JW9694-100-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-air-force-1-01-philly-jw9694-100-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Todd Snyder and New Balance Reunite for the T500 \"Cafe Pack\"",
+   "source": "Hypebeast",
+   "date": "2026-10-23",
+   "content": "Summary New Balance has partnered with Todd Snyder to introduce the exclusive T500 Cafe Pack in Espresso and Milk colorwaysThe updated 1982 court silhouette replaces traditional canvas with a mix of hairy suede and crocodile-stamped leather atop a gum midsoleThe limited-edition collaboration launches October 22 at 10 AM ET exclusively via Todd Snyder channels for $130 USD New Balance and menswear designer Todd Snyder have officially introduced the T500 “Cafe Pack”, delivering an elevated take on the archival 1982 court shoe.Originally engineered in 1982 for tennis performance, the T500 transitioned naturally into everyday street culture, embraced by skaters and style outsiders for its flat, grounded profile. Reimagined through a contemporary leisure lens, this modern release retains its classic court foundation while upgrading its construction with refined, tactile materials.Replacing th",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F22%2Ftodd-snyder-new-balance-t500-cafe-pack-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/todd-snyder-new-balance-t500-cafe-pack-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "First Look at the Supreme x Nike Air Force 1 Low \"Olive Camo\"",
+   "source": "Hypebeast",
+   "date": "2026-10-23",
+   "content": "Summary Rif Los Angeles has revealed a first look at the Supreme x Nike Air Force 1 Low in an Olive Camo colorwayThe sneaker features a traditional olive print across the upper and Swoosh anchored by the red box logo at the heelAll three camouflage iterations alongside staple black and white colorways are expected to land during Fall/Winter 2026 Name: Supreme x Nike Air Force 1 Low \"Olive Camo\"Colorway: Multi-Color/IguanaSKU: CU9225-900MSRP: TBDRelease Date: Fall 2026Where to Buy: SupremeSupreme and Nike are reportedly preparing to release the collaborative Air Force 1 Low \"Olive Camo\", expanding their ongoing low-top partnership with military-inspired patterns. An early look at the pair was shared by Los Angeles consignment shop Rif Los Angeles, as seen above.Early imagery reveals a traditional olive camouflage pattern printed across the upper and matching profile Swooshes. An army gree",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F22%2Fsupreme-nike-air-force-1-low-olive-camo-first-look-cu9225-900-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/supreme-nike-air-force-1-low-olive-camo-first-look-cu9225-900-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
    "title": "7-Eleven Drops Trademark Lawsuit Against Nike Over Air Max 95",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -56,7 +153,46 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 11,
+   "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-23",
+   "content": "Interested readers can expect the original Air Jordan 6 OG “White Infrared” to release on November 7, 2026, via SNKRS and select retailers for… The post Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/ct8529-105-5.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-6-og-white-infrared-ct8529-105-drop/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "The Seven Best adidas Sneaker Releases This Week",
+   "source": "Highsnobiety",
+   "date": "2026-10-23",
+   "content": "From the chunkiest jellyfish runner, to an anime-inspired superstar, this week was so full of adidas standouts, we picked... seven of them.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-sneaker-releases-october-week-4/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Nike's Sleek. Lifted Sneaker is Shox-ingly Luxe",
+   "source": "Highsnobiety",
+   "date": "2026-10-23",
+   "content": "Nike's luxe leather Shox Z sneaker is driving a cylindrical wedge in the lifted shoe conversation.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-shox-z-burgundy/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 14,
    "title": "Blackstock & Weber x Joe Freshgoods 攜手為「Ellis」Penny Loafer 注入棋盤格紋",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -69,7 +205,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 15,
    "title": "Jonathan Anderson 率先預覽 JW Anderson 全新「Run Rabbit」跑鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -80,7 +216,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 5,
+   "id": 16,
    "title": "Liberaiders 為 adidas Superstar 打造最新毛絨聯乘設計",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -93,7 +229,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 17,
    "title": "藤原浩率先曝光 fragment design x V.A. x Converse 全新三方聯乘企劃",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -106,7 +242,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 18,
    "title": "Kith 攜手 Salomon 發表 Winter 2026 聯乘鞋款系列 首度推出 XT-4K Mid",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -119,7 +255,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 19,
    "title": "Masyn 攜手 Zellerfeld 揭示 3D 列印 Nike Air Max Mule 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -132,7 +268,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 20,
    "title": "消息指 One Block Down x Nike Air Max 95 Lux 將於 2026 年末登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -145,20 +281,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
-   "title": "Nike LeBron 24 釋出兩款單色 Philadelphia 76ers 配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-22",
-   "content": "摘要 Nike 於 Philadelphia 的快閃活動中展示了 LeBron 24 的兩款全新單色調配色這場名為 Chosen 2ONE3 的活動，旨在慶祝 LeBron James 效力不同球隊期間身穿 23 號與 6 號球衣的職業生涯里程碑在 James 迎來效力該球隊的首個賽季前，這兩款紅藍配色巧妙呼應了 Philadelphia 76ers 的標誌性色彩 Nike 率先展示兩款全新 LeBron 24 配色，為此最新簽名鞋款注入以 Philadelphia 76ers 為靈感的色調。這兩款新作於 Nike Basketball 設在 Philadelphia Fashion District 的「Chosen 2ONE3」期間限定店中亮相。此活動旨在慶祝 LeBron James 傳奇的職業生涯，並彰顯他身穿 23 號及 6 號球衣所締造的輝煌成就。在眾多回顧展品中，最引人注目的莫過於這兩款全新 LeBron 24，兩者均採用了與 Philadelphia 隊服完美呼應的純色設計。其中一款採用鮮豔的紅色包覆全身，另一款則以單色藍色呈現。是次鞋款展示恰逢 James 即將在 Philadelphia 展開首個賽季，他將於 2026-27 NBA 賽季與 Joel Embiid、Tyrese Maxey 及 Jaylen Brown 聯手出戰。雖然這兩款單色鞋款目前僅在 Philadelphia 市中心的活動中展示，但已讓人率先一睹這位超級巨星前鋒今年可能穿著上陣的鞋款風采。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-lebron-24-monochromatic-philadelphia-76ers-colorways-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/nike-lebron-24-monochromatic-philadelphia-76ers-colorways-first-look",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 11,
+   "id": 21,
    "title": "Blackstock & Weber x Joe Freshgoods Etch a Checkerboard Into the “Ellis” Penny Loafer",
    "source": "Hypebeast",
    "date": "2026-10-22",
@@ -172,7 +295,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 22,
    "title": "Jonathan Anderson Previews the JW Anderson \"Run Rabbit\" Runner",
    "source": "Hypebeast",
    "date": "2026-10-22",
@@ -183,7 +306,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 13,
+   "id": 23,
    "title": "The adidas Superstar Gets a Fuzzy Liberaiders Treatment",
    "source": "Hypebeast",
    "date": "2026-10-22",
@@ -196,7 +319,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 24,
    "title": "Hiroshi Fujiwara Teases Upcoming fragment design x V.A. x Converse Collaboration",
    "source": "Hypebeast",
    "date": "2026-10-22",
@@ -209,7 +332,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 25,
    "title": "Kith and Salomon Debut the XT-4K Mid in Winter 2026 Footwear Capsule",
    "source": "Hypebeast",
    "date": "2026-10-22",
@@ -222,7 +345,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 26,
    "title": "Masyn Unveils 3D-Printed Nike Air Max Mule With Zellerfeld",
    "source": "Hypebeast",
    "date": "2026-10-22",
@@ -235,34 +358,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
-   "title": "One Block Down x Nike Air Max 95 Lux Reportedly Slated for Holiday 2026",
-   "source": "Hypebeast",
-   "date": "2026-10-22",
-   "content": "Summary One Block Down and Nike are reportedly prepping four colorways of the Air Max 95 Lux for Holiday 2026The design is rumored to incorporate black leather paneling alongside textured leather toe accents replacing standard meshEarly reports suggest the collaborative pairs will retail for 210 USD without the original 2001 Italian manufacturing Name: One Block Down x Nike Air Max 95 LuxColorway: Black/Gym GreenSKU: IM0704-001MSRP: $210 USDRelease Date: Holiday 2026Where to Buy: NikeNike is reportedly collaborating with retailer One Block Down on the Nike Air Max 95 Lux. The collaborative project is rumored to feature four distinct colorways planned for the Holiday 2026 season.The release revisits the Air Max 95 Lux, a premium silhouette that originally debuted in 2001 alongside elevated leather builds of the Air Trainer SX, Air Force 1 Mid, and Air Force 1 Low as part of Nike’s Lux Pac",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Fone-block-down-nike-air-max-95-lux-reportedly-slated-for-holiday-2026-black-im0704-001-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/one-block-down-nike-air-max-95-lux-reportedly-slated-for-holiday-2026-black-im0704-001-first-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "Nike LeBron 24 Surfaces in Monochromatic Philadelphia 76ers Colorways",
-   "source": "Hypebeast",
-   "date": "2026-10-22",
-   "content": "Summary Nike has showcased two new monochromatic colorways of the LeBron 24 at a pop-up in PhiladelphiaThe event titled Chosen 2ONE3 celebrated LeBron James’ career milestones across his tenures wearing numbers 23 and 6The red and blue iterations align with the Philadelphia 76ers' signature colors ahead of James' debut season with the franchise Nike has previewed two new colorways of the LeBron 24, dressing the latest signature silhouette in Philadelphia 76ers-inspired tones. The pairs surfaced at Nike Basketball’s “Chosen 2ONE3” pop-up located in Philadelphia’s Fashion District.The activation served as a celebration of LeBron James' storied career, highlighting his legacy while wearing jersey numbers 23 and 6. Featured prominently among the retrospective displays were the two new LeBron 24 iterations, each sporting a tonal execution that coordinates directly with Philadelphia's team uni",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Fnike-lebron-24-monochromatic-philadelphia-76ers-colorways-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nike-lebron-24-monochromatic-philadelphia-76ers-colorways-first-look",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
+   "id": 27,
    "title": "Nike Air Force 1 Low “Halloween Black Rat”",
    "source": "Nice Kicks",
    "date": "2026-10-22",
@@ -275,7 +371,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 28,
    "title": "Nike Air Force 1 Low ’01 “Nightmare”",
    "source": "Nice Kicks",
    "date": "2026-10-22",
@@ -288,7 +384,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 29,
    "title": "Rocky's Latest PUMAs Are Faded Like a Pair of Jeans",
    "source": "Highsnobiety",
    "date": "2026-10-22",
@@ -301,7 +397,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 30,
    "title": "Nike’s Forecast Calls for an Icy Blue Air Max 95",
    "source": "Highsnobiety",
    "date": "2026-10-22",
@@ -314,7 +410,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 31,
    "title": "Jil Sander PUMA Sneakers, Meet Jil Sander PUMA Tracksuit (Exclusive)",
    "source": "Highsnobiety",
    "date": "2026-10-22",
@@ -327,7 +423,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 32,
    "title": "Brain Dead's Serving Chromed-p adidas Tennis Shoes Now",
    "source": "Highsnobiety",
    "date": "2026-10-22",
@@ -337,110 +433,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "From ASICS to Salomon, the Seven Best Sneakers to Cop This Week",
-   "source": "Highsnobiety",
-   "date": "2026-10-22",
-   "content": "From a SZA's Vans to MM6 Maison Margiela's Salomons, find here the seven best sneakers of the week.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/sneaker-releases-2026-october-week-4/",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS",
-    "MAISON MARGIELA",
-    "SALOMON",
-    "VANS"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "The Ghost of adidas' Future Is off to Quite the Sprint",
-   "source": "Highsnobiety",
-   "date": "2026-10-22",
-   "content": "The ghost of adidas' future is off to quite the stylistic start. The Ghost Sprint is more than its Miu Miu-adjacent looks.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-ghost-sprint-red/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "adidas’ Tin Man-Approved Sneaker Has Heart",
-   "source": "Highsnobiety",
-   "date": "2026-10-22",
-   "content": "adidas' chromed-out F50 Motion sneaker trades the soccer field for the Yellow Brick Road.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/arte-antwerp-adidas-f50-motion-sneaker-silver/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "KEEN 攜手 TYAKASHA 聯乘推出不對稱設計 Howser III Slide",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-21",
-   "content": "名稱： TYAKASHA x KEEN Howser III配色： Virids/Mediterranea貨號： 1032615建議零售價： ¥12,650 JPY（約 $80 USD）發售日期： 10 月 21 日發售點： KEENKEEN 將 TYAKASHA 充滿玩味的角色宇宙融入 Howser III Slide，以單一款不對稱的「Virids/Mediterranea」配色重新演繹這款休閒便鞋。設計靈感源自 TYAKASHA 的吉祥物 Mr. Green 與 Oring，這雙鞋的色調巧妙地劃分為鮮豔的森林綠與冰冷的地中海藍，左右兩腳各自展現不同的底色。鞋面採用富凹凸感的抓絨感布料製成，賦予鞋款格外柔軟且極具觸感的外觀；溫暖的啡色飾邊則圍繞鞋領、鞋頭與下邊緣。亮眼的橙色彈力繩環注入另一抹鮮明色彩，配合刺繡角色徽章——藍色鞋上的綠色人像與綠色鞋上的黑色雲狀圖案——進一步強化了這種不對稱、充滿卡通風格的設計手法。在鮮豔的鞋面之下，Howser III 依然保留了這款鞋型的舒適本質，將寬敞的便鞋輪廓與可調節彈力繩扣及厚實橡膠大底結合，提供日常穿著所需的抓地力。啡色大底與鞋頭防撞墊在視覺上平穩了亮眼的鞋面，而柔軟的啡色內襯則將舒適的材質體驗延續至鞋款內部。 View this post on Instagram Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Ftyakasha-keen-howser-iii-slide-mr-green-oring-1032615-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/tyakasha-keen-howser-iii-slide-mr-green-oring-1032615-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 29,
-   "title": "Air Jordan 15 最新「Cosmic Clay」多色編織款式曝光",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-21",
-   "content": "名稱：Air Jordan 15「Cosmic Clay」配色：Cosmic Clay / Multi-Color型號：IV7643-800建議零售價：有待確認發售日期：2027 年秋季Jordan Brand 將於 2027 年秋季重新聚焦 Air Jordan 15，即將推出的「Cosmic Clay」配色將帶來此鞋型迄今為止最具表現力的設計之一。由 @zSneakerHeadz 分享的早期圖片讓人得以一窺這對鞋款的預測樣貌，將 Tinker Hatfield 於 90 年代末極具爭議的設計換上以焦橙色為主調的色彩。Cosmic Clay 覆蓋了大部分的擋泥板、鞋跟、腳踝及立體中底，而 AJ15 標誌性的編織鞋面則注入了藍色、綠色、黃色、粉紅色及橙色的點綴，呈現出猶如馬賽克般的視覺效果。多色編織打破了原有的單色結構，進一步強調這款運動鞋棱角分明的輪廓與獨特高筒剪裁。然而，目前流出的圖片仍屬預測概念圖，而非實物樣品或工廠實拍照片，這意味著多項生產細節仍有待確認。概念圖顯示鞋款配備同色的 Cosmic Clay 中底和外底，但最終材質效果，以及特定品牌標誌會採用刺繡、印花抑或模壓工藝，在實物亮相之前仍是未知數。Air Jordan 15「Cosmic Clay」（型號：IV7643-800）目前預計於 2027 年秋季正式發布，並將加入該年度計劃推出的一系列 Air Jordan 15 配色陣容之中。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fair-jordan-15-cosmic-clay-multi-color-iv7643-800-mock-up-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/air-jordan-15-cosmic-clay-multi-color-iv7643-800-mock-up-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Kiko Kostadinov x ASICS 推出全新 US8-S GEL-SJ33 兩款配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-21",
-   "content": "名稱：Kiko Kostadinov x ASICS US8-S GEL-SJ33配色：Moonrock/Tatami Green、Deep Plum/Fresh GrassSKU：1203B116.250、1203B116.500建議售價：$170 美元發售日期：10 月 23 日購買地點：ASICS繼今年夏季初推出的「Black Coffee」和「Roasted Coffee」版本後，Kiko Kostadinov 和 ASICS 於今季回歸 US8-S GEL-SJ33，帶來兩款全新配色。「Moonrock/Tatami Green」採用較柔和的設計路線，結合灰褐色至灰色的網眼基底，配以水鴨色、薄荷色和淺綠色線條，在鞋面交織出密集的仿編織圖案。淺藍色 ASICS 虎爪紋標誌橫跨外側，而鞋頭、鞋墊和分段式鞋底周圍的綠色調部分，則強調了冷色調的礦物感配色。同時，「Deep Plum/Fresh Grass」偏向更深、更飽和的色調，在近乎紫色的網眼基底上疊加黑色垂直條紋和紫色水平線條。栗色點綴於鞋頭、鞋領和中底，明亮的綠色品牌標誌則與梅子色基礎形成強烈對比。此鞋款保留了定義 US8-S GEL-SJ33 的混合結構。從 2010 年代的 GEL-SUPER J33 中汲取靈感，其無縫鞋面設計如第二層皮膚般包裹足部，並增加腳跟穩定器和內側飾帶以提供結構和支撐。鞋底設計改編自 GEL-CUMULUS 16，結合後跟和前掌 GEL 凝膠嵌件與 FLUIDRIDE 和 FLYTEFOAM 緩震技術，為高視覺衝擊的鞋面帶來更柔軟的穿著體驗。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fkiko-kostadinov-asics-us8-s-gel-sj33-collaboration-moonrock-tatami-green-1203b116-250-deep-plum-fresh-grass-1203b116-500-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/kiko-kostadinov-asics-us8-s-gel-sj33-collaboration-moonrock-tatami-green-1203b116-250-deep-plum-fresh-grass-1203b116-500-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "KEEN Taps TYAKASHA for a Mismatched Howser III Slide",
-   "source": "Hypebeast",
-   "date": "2026-10-21",
-   "content": "Name: TYAKASHA x KEEN Howser IIIColorway: Virids/MediterraneaSKU: 1032615MSRP: ¥12,650 JPY (approx. $80 USD)Release Date: October 21Where to Buy: KEENKEEN brings TYAKASHA's playful character universe to the Howser III Slide, reworking the relaxed slip-on in a single mismatched “Virids/Mediterranea” colorway. Inspired by TYAKASHA mascots Mr. Green and Oring, the pair splits its palette between a vivid forest green and an icy Mediterranean blue, with each foot taking on a different base color.Both uppers are finished in a nubby, fleece-like textile that gives the shoe an especially soft and tactile appearance, while warm brown trim frames the collar, toe and lower edge. Bright orange bungee loops add another pop of color, and embroidered character patches - including a green figure on the blue shoe and a black cloud-like motif on the green - reinforce the asymmetrical, cartoon-driven treat",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Ftyakasha-keen-howser-iii-slide-mr-green-oring-1032615-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/tyakasha-keen-howser-iii-slide-mr-green-oring-1032615-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 32,
-   "title": "Air Jordan 15 “Cosmic Clay” Surfaces in a Multicolor Woven Look",
-   "source": "Hypebeast",
-   "date": "2026-10-21",
-   "content": "Name: Air Jordan 15 \"Cosmic Clay\"Colorway: Cosmic Clay/Multi-ColorSKU: IV7643-800MSRP: TBCRelease Date: Fall 2027Jordan Brand is bringing the Air Jordan 15 back into focus for Fall 2027, with the upcoming “Cosmic Clay” colorway offering one of the silhouette’s more expressive treatments to date.Early imagery shared by @zSneakerHeadz provides a speculative look at the pair, dressing Tinker Hatfield’s divisive late-’90s design in a predominantly burnt-orange palette. Cosmic Clay covers much of the mudguard, heel, ankle and sculpted tooling, while the AJ15’s signature woven upper introduces flashes of blue, green, yellow, pink and orange for an almost mosaic-like finish. The multicolored weave breaks up the otherwise tonal construction, emphasizing the sneaker’s angular shape and distinctive high-cut profile.For now, however, the available images remain mock-ups rather than photographs of a",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Fair-jordan-15-cosmic-clay-multi-color-iv7643-800-mock-up-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/air-jordan-15-cosmic-clay-multi-color-iv7643-800-mock-up-info",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "UGG"
    ]
   },
   {
@@ -533,19 +525,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "NIKE"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Where To Buy the Air Jordan 5 “Halloween”",
-   "source": "Nice Kicks",
-   "date": "2026-10-17",
-   "content": "Inspiration Behind the Haunting Jordan Brand has been leaning into holiday-themed releases for years, but the Halloween colorway concept has never had a more… The post Where To Buy the Air Jordan 5 “Halloween” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/imgi_2_849708585_18641949205048677_1253556922169934352_n-scaled.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-5-halloween-hq7978-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
    ]
   }
  ]
