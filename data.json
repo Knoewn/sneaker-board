@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24 10:43",
+ "updatedAt": "2026-10-24 20:22",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -28,6 +28,67 @@
  "news": [
   {
    "id": 1,
+   "title": "Burna Boy 與 On 推出首個聯乘波鞋系列",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-24",
+   "content": "摘要 On 聯手全球知名音樂人 Burna Boy，推出雙方首個合作鞋款膠囊系列本次新品帶來全紅配色的 Cloudmonster 以及全白配色的 ROGER Clubhouse，融入毛絨鞋帶與紅色鞋跟縫線等細節兩款鞋型現已登陸 On 官方網站發售，售價由 $150 美元起 On 與格林美得獎歌手 Burna Boy 正式發布首個聯乘鞋履系列，由 Burna Boy x On Cloudmonster BB 及 THE ROGER Clubhouse BB 領銜。此次發布距離這位 Afrobeats 巨星加入該瑞士運動服飾品牌成為官方品牌大使僅一年多。該系列圍繞「No Giant Stands Alone」企劃展開——該企劃聚焦這位歌手及其朋友、家人和核心圈子——並在經典球場及專業跑步美學中展現出截然不同的單色設計。Cloudmonster BB 採用全亮紅色調，從鞋面一直延伸至厚底緩震中底，並以較深色的品牌標誌作平衡。相比之下，THE ROGER Clubhouse BB 則帶來純白網球鞋輪廓，並以具質感的毛絨鞋帶及鞋跟上兩處搶眼的紅色縫線點綴。整個系列預計還將推出 Cloudtilt Remix，不過該鞋款的官方圖片尚未釋出。在談到與品牌的合作時，Burna Boy 表示：「對我來說，我所做的一切都源於同一個地方——音樂、運動、社區和文化。這一切都是相連的。On 明白這一點。我們的合作是為了帶來改變，並在運動世界中創造新的能量。」Burna Boy x On Cloudmonster 及 ROGER Clubhouse 現已透過 On 及指定零售商發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fburna-boy-on-debut-first-collaborative-sneakers-cloudmonster-bb-roger-clubouse-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/burna-boy-on-debut-first-collaborative-sneakers-cloudmonster-bb-roger-clubouse-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 2,
+   "title": "Burna Boy and On Debut First Collaborative Sneakers",
+   "source": "Hypebeast",
+   "date": "2026-10-24",
+   "content": "Summary On has partnered with global music artist Burna Boy to debut their first collaborative footwear capsuleThe delivery introduces an all-red Cloudmonster and an all-white ROGER Clubhouse detailed with shaggy laces and red heel stitchingBoth silhouettes are available now through On starting at $150 USD On and Grammy-winning artist Burna Boy have officially released their debut collaborative footwear range, headlined by the Burna Boy x On Cloudmonster BB and THE ROGER Clubhouse BB. The release arrives just over a year after the Afrobeats superstar joined the Swiss sportswear label as an official brand ambassador.Framed around the “No Giant Stands Alone” campaign—which spotlights the artist alongside his friends, family, and inner circle—the collection presents contrasting monochromatic executions across archival court and performance running aesthetics. The Cloudmonster BB arrives in ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F22%2Fburna-boy-on-debut-first-collaborative-sneakers-cloudmonster-bb-roger-clubouse-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/burna-boy-on-debut-first-collaborative-sneakers-cloudmonster-bb-roger-clubouse-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 3,
+   "title": "The Seven Best Nike Sneaker Releases This Week",
+   "source": "Highsnobiety",
+   "date": "2026-10-24",
+   "content": "This week, Nike is injecting a little weird into the familiar favourites, and we are here for it.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-sneaker-releases-october-week-4/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Lil Yachty’s Yellow Nike Sneaker Was Made for His Buddies",
+   "source": "Highsnobiety",
+   "date": "2026-10-24",
+   "content": "Lil Yachty's Concrete Boys Air Force 1 Mid is a vivid yellow sneaker that's only for Lil Boat's besties. And a few others.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/lil-yachty-concrete-boy-nike-air-force-1-mid-opti-yellow/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "This Vanilla Cream Classic Is a Material Masterclass",
+   "source": "Highsnobiety",
+   "date": "2026-10-24",
+   "content": "Looking to abstract detailing and translucent depth, the Swoosh updates a classic with the Nike Air Max 90 Light Orewood Brown.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/this-vanilla-cream-classic-is-a-material-masterclass/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
    "title": "ARC’TERYX Postour 靴款將室內拖鞋隱藏於 GORE-TEX 外殼內",
    "source": "Hypebeast 中文",
    "date": "2026-10-23",
@@ -38,7 +99,7 @@
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 7,
    "title": "Nike Air Force 1 ‘01「Philly」為 LeBron James 送上充滿 Sixers 色彩的歡迎禮",
    "source": "Hypebeast 中文",
    "date": "2026-10-23",
@@ -51,7 +112,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 8,
    "title": "率先近賞 Supreme x Nike Air Force 1 Low「Olive Camo」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-23",
@@ -64,7 +125,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 9,
    "title": "7-Eleven 撤銷針對 Nike Air Max 95 之商標侵權訴訟",
    "source": "Hypebeast 中文",
    "date": "2026-10-23",
@@ -77,7 +138,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 10,
    "title": "Burna Boy Brings His Inner Circle Into the Spotlight For Latest On Campaign",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -88,7 +149,7 @@
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 11,
    "title": "ARC’TERYX’s Postour Boot Hides a Slipper Inside a GORE-TEX Shell",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -99,7 +160,7 @@
    "relatedBrands": []
   },
   {
-   "id": 7,
+   "id": 12,
    "title": "The Nike Air Force 1 ‘01 “Philly” Gives LeBron James a Sixers-Coded Welcome",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -112,7 +173,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 13,
    "title": "Todd Snyder and New Balance Reunite for the T500 \"Cafe Pack\"",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -125,7 +186,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 14,
    "title": "First Look at the Supreme x Nike Air Force 1 Low \"Olive Camo\"",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -138,7 +199,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 15,
    "title": "7-Eleven Drops Trademark Lawsuit Against Nike Over Air Max 95",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -151,7 +212,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 16,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -164,7 +225,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 17,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -177,7 +238,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 18,
    "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -190,7 +251,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 19,
    "title": "Vans’ Most Minimalist Skate Slip-on Is Vibram-Backed",
    "source": "Highsnobiety",
    "date": "2026-10-23",
@@ -204,7 +265,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 20,
    "title": "The Next Generation of adidas Talent Wants To Put You On",
    "source": "Highsnobiety",
    "date": "2026-10-23",
@@ -217,7 +278,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 21,
    "title": "New Balance’s Leather Dad Shoe Is Too Sexy for Its Own Good",
    "source": "Highsnobiety",
    "date": "2026-10-23",
@@ -230,7 +291,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 22,
    "title": "Nike’s Waterproof Air Max Is the Flyest (& Driest) Soldier",
    "source": "Highsnobiety",
    "date": "2026-10-23",
@@ -243,7 +304,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 23,
    "title": "Nike's Lovely Everyday Sneaker Hides a Rugged Secret",
    "source": "Highsnobiety",
    "date": "2026-10-23",
@@ -257,44 +318,7 @@
    ]
   },
   {
-   "id": 19,
-   "title": "Nike’s Croc Leather Loafer Is Dangerously Dapper",
-   "source": "Highsnobiety",
-   "date": "2026-10-23",
-   "content": "Nike's dressy Air Max Dolce Leather sneaker gets another croc-skin makeover, this time in all-black.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-dolce-leather-black-croc/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "Dad’s Back: New Balance’s Most Iconic Shoe Just Got Upgraded",
-   "source": "Highsnobiety",
-   "date": "2026-10-23",
-   "content": "Like a groundhog emerging from its burrow after four years, New Balance's flagship 990 dad sneaker just got a fresh upgrade with the 990v7.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-990v7/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "Artist Uniform: Hiroshi Fujiwara’s Wardrobe Is His Résumé",
-   "source": "Highsnobiety",
-   "date": "2026-10-23",
-   "content": "An instinctual sense of style running back to kindergarten has turned the \"godfather of streetwear\" into one of Japanese fashion's foremost legends.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/artist-uniform-for-hiroshi-fujiwara-the-uniform-is-everything/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 22,
+   "id": 24,
    "title": "Blackstock & Weber x Joe Freshgoods 攜手為「Ellis」Penny Loafer 注入棋盤格紋",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -307,7 +331,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 25,
    "title": "Jonathan Anderson 率先預覽 JW Anderson 全新「Run Rabbit」跑鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -318,7 +342,7 @@
    "relatedBrands": []
   },
   {
-   "id": 24,
+   "id": 26,
    "title": "Liberaiders 為 adidas Superstar 打造最新毛絨聯乘設計",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -331,7 +355,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 27,
    "title": "藤原浩率先曝光 fragment design x V.A. x Converse 全新三方聯乘企劃",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -344,7 +368,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 28,
    "title": "Kith 攜手 Salomon 發表 Winter 2026 聯乘鞋款系列 首度推出 XT-4K Mid",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -357,7 +381,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 29,
    "title": "Masyn 攜手 Zellerfeld 揭示 3D 列印 Nike Air Max Mule 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -370,7 +394,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 30,
    "title": "消息指 One Block Down x Nike Air Max 95 Lux 將於 2026 年末登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -383,20 +407,7 @@
    ]
   },
   {
-   "id": 29,
-   "title": "Nike LeBron 24 釋出兩款單色 Philadelphia 76ers 配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-22",
-   "content": "摘要 Nike 於 Philadelphia 的快閃活動中展示了 LeBron 24 的兩款全新單色調配色這場名為 Chosen 2ONE3 的活動，旨在慶祝 LeBron James 效力不同球隊期間身穿 23 號與 6 號球衣的職業生涯里程碑在 James 迎來效力該球隊的首個賽季前，這兩款紅藍配色巧妙呼應了 Philadelphia 76ers 的標誌性色彩 Nike 率先展示兩款全新 LeBron 24 配色，為此最新簽名鞋款注入以 Philadelphia 76ers 為靈感的色調。這兩款新作於 Nike Basketball 設在 Philadelphia Fashion District 的「Chosen 2ONE3」期間限定店中亮相。此活動旨在慶祝 LeBron James 傳奇的職業生涯，並彰顯他身穿 23 號及 6 號球衣所締造的輝煌成就。在眾多回顧展品中，最引人注目的莫過於這兩款全新 LeBron 24，兩者均採用了與 Philadelphia 隊服完美呼應的純色設計。其中一款採用鮮豔的紅色包覆全身，另一款則以單色藍色呈現。是次鞋款展示恰逢 James 即將在 Philadelphia 展開首個賽季，他將於 2026-27 NBA 賽季與 Joel Embiid、Tyrese Maxey 及 Jaylen Brown 聯手出戰。雖然這兩款單色鞋款目前僅在 Philadelphia 市中心的活動中展示，但已讓人率先一睹這位超級巨星前鋒今年可能穿著上陣的鞋款風采。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-lebron-24-monochromatic-philadelphia-76ers-colorways-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/nike-lebron-24-monochromatic-philadelphia-76ers-colorways-first-look",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 30,
+   "id": 31,
    "title": "Blackstock & Weber x Joe Freshgoods Etch a Checkerboard Into the “Ellis” Penny Loafer",
    "source": "Hypebeast",
    "date": "2026-10-22",
@@ -410,7 +421,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 32,
    "title": "Jonathan Anderson Previews the JW Anderson \"Run Rabbit\" Runner",
    "source": "Hypebeast",
    "date": "2026-10-22",
@@ -421,7 +432,7 @@
    "relatedBrands": []
   },
   {
-   "id": 32,
+   "id": 33,
    "title": "The adidas Superstar Gets a Fuzzy Liberaiders Treatment",
    "source": "Hypebeast",
    "date": "2026-10-22",
@@ -434,7 +445,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 34,
    "title": "Hiroshi Fujiwara Teases Upcoming fragment design x V.A. x Converse Collaboration",
    "source": "Hypebeast",
    "date": "2026-10-22",
@@ -444,19 +455,6 @@
    "lang": "en",
    "relatedBrands": [
     "CONVERSE"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "Kith and Salomon Debut the XT-4K Mid in Winter 2026 Footwear Capsule",
-   "source": "Hypebeast",
-   "date": "2026-10-22",
-   "content": "Summary Kith and Salomon have expanded their long-standing partnership with a three-model footwear collection for Winter 2026The seasonal capsule introduces the brand-new XT-4K Mid alongside updated colorways of the XT-VYGR2 and XT 4OGThe lineup launches early at Kith Vancouver on October 23 followed by a global rollout on October 26 Kith and Salomon have officially introduced their collaborative Winter 2026 footwear collection, introducing the debut of the XT-4K Mid alongside the return of the XT-VYGR2 and XT 4OG. The seasonal lineup merges Kith’s curated color palette with Salomon’s technical performance heritage across three distinct outdoor silhouettes.Headlining the collection is the all-new XT-4K Mid, which evolves the low-top XT-4K into an elevated mid-cut height. Retaining the signature tooling of the classic XT-4, the upper combines breathable mesh with synthetic overlays, highl",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Fkith-salomon-xt-4k-mid-debut-winter-2026-footwear-capsule-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/kith-salomon-xt-4k-mid-debut-winter-2026-footwear-capsule-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "SALOMON"
    ]
   },
   {
