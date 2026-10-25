@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-24 20:22",
+ "updatedAt": "2026-10-25 10:34",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -50,6 +50,137 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 3,
+   "title": "The Air Jordan 12 “Fireside” Releases Today",
+   "source": "Nice Kicks",
+   "date": "2026-10-24",
+   "content": "The Air Jordan 12 “Fireside” is set to release on October 24, 2026, via Nike.com and select retailers for $215. Check out the photo… The post The Air Jordan 12 “Fireside” Releases Today appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/ct8013-105-5-1-e1791640160431.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "New Balance’s \"Dunk\" Skate Shoes Turned Into Beautiful Unicorns",
+   "source": "Highsnobiety",
+   "date": "2026-10-24",
+   "content": "Focus transforms the New Balance Numeric 480 into a totally Scottish skate shoe featuring unicorn details & other nods to the country.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/focus-new-balance-numeric-480/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Nike’s Skate-Engineered Air Forces Are “Instant” Classics",
+   "source": "Highsnobiety",
+   "date": "2026-10-24",
+   "content": "Instant Skateboards cooks up another Nike SB Air Force 1 \"Black/Royal\" sneaker for the 2026 City Pack. It's just as clean the second time around.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/instant-skateboards-nike-sb-air-force-1/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "This Retro Rerun Inspired the YEEZY 500",
+   "source": "Highsnobiety",
+   "date": "2026-10-24",
+   "content": "São Paulo's Guadalupe Store locks in for one of the most compelling adidas drops in a long time. Say hello to the GDLP x adidas Intimidation.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/gdlp-adidas-intimidation/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Vaquera’s Quirky Lil' Converse Heels Are Part Skate Shoe",
+   "source": "Highsnobiety",
+   "date": "2026-10-24",
+   "content": "Vaquera debuts its FW26 Converse collaboration, a skate-shoe-turned-kitten-heel named the VX-1.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vaquera-converse-vx-1-heel/",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Nike’s Hardy Air Force 1 Boot Is Back from Space",
+   "source": "Highsnobiety",
+   "date": "2026-10-24",
+   "content": "Nike's Lunar Force 1 duck boots return with its signature winter-ready details & a new \"Iron Grey\" colorway for the rotation.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-lunar-force-1-boot/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Melitta Baumeister Took Nike's Weirdest Toe Shoe & Freaked It",
+   "source": "Highsnobiety",
+   "date": "2026-10-24",
+   "content": "Melitta Baumeister is back with another strangely cool Nike sneaker: an Air Rift Rocker collab featuring chunky clay soles.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/melitta-baumeister-nike-air-rift-rocker/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Nike's Cream Mule Is Fit for Elegant Extra-Terrestrials",
+   "source": "Highsnobiety",
+   "date": "2026-10-24",
+   "content": "Nike’s experimental First Sight franchise continues to surprise. Enter, the women's-exclusive Nike First Sight Shadow Cream.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-first-sight-shadow-cream/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Vansza’s Knu Skool Mule Cuts Some Dead Weight",
+   "source": "Highsnobiety",
+   "date": "2026-10-24",
+   "content": "Vansza's chopped-up Knu Skool Mule takes a classic thrasher & turns it into a mutable mule.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vansza-knu-skool-mule-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Nike's Rich Caramel Runner Is Perfected in Japan",
+   "source": "Highsnobiety",
+   "date": "2026-10-24",
+   "content": "Partnering with Tokyo's legendary retail institution for an earth-toned exclusive, the Swoosh offers up the Nike Zoom Skylon 11 Parachute Beige/Baroque Brown.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-zoom-skylon-11-beams-exclusive/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 13,
    "title": "The Seven Best Nike Sneaker Releases This Week",
    "source": "Highsnobiety",
    "date": "2026-10-24",
@@ -62,7 +193,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 14,
    "title": "Lil Yachty’s Yellow Nike Sneaker Was Made for His Buddies",
    "source": "Highsnobiety",
    "date": "2026-10-24",
@@ -75,7 +206,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 15,
    "title": "This Vanilla Cream Classic Is a Material Masterclass",
    "source": "Highsnobiety",
    "date": "2026-10-24",
@@ -88,7 +219,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 16,
    "title": "ARC’TERYX Postour 靴款將室內拖鞋隱藏於 GORE-TEX 外殼內",
    "source": "Hypebeast 中文",
    "date": "2026-10-23",
@@ -99,7 +230,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 7,
+   "id": 17,
    "title": "Nike Air Force 1 ‘01「Philly」為 LeBron James 送上充滿 Sixers 色彩的歡迎禮",
    "source": "Hypebeast 中文",
    "date": "2026-10-23",
@@ -112,7 +243,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 18,
    "title": "率先近賞 Supreme x Nike Air Force 1 Low「Olive Camo」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-23",
@@ -125,7 +256,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 19,
    "title": "7-Eleven 撤銷針對 Nike Air Max 95 之商標侵權訴訟",
    "source": "Hypebeast 中文",
    "date": "2026-10-23",
@@ -138,7 +269,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 20,
    "title": "Burna Boy Brings His Inner Circle Into the Spotlight For Latest On Campaign",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -149,7 +280,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 11,
+   "id": 21,
    "title": "ARC’TERYX’s Postour Boot Hides a Slipper Inside a GORE-TEX Shell",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -160,7 +291,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 12,
+   "id": 22,
    "title": "The Nike Air Force 1 ‘01 “Philly” Gives LeBron James a Sixers-Coded Welcome",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -173,7 +304,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 23,
    "title": "Todd Snyder and New Balance Reunite for the T500 \"Cafe Pack\"",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -186,7 +317,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 24,
    "title": "First Look at the Supreme x Nike Air Force 1 Low \"Olive Camo\"",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -199,7 +330,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 25,
    "title": "7-Eleven Drops Trademark Lawsuit Against Nike Over Air Max 95",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -212,7 +343,20 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 26,
+   "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-23",
+   "content": "The Air Jordan 3 “Fireside” (Style Code: CK9246-200) drops in a chocolate like borwn color with other hues of brown as accents. The Fireside… The post Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/ck9246-200-5-1-e1789833654816.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 27,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -225,7 +369,21 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 28,
+   "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-23",
+   "content": "The Air Jordan 41 “Ruby” is set to release on October 25, 2026, via Nike.com and select retailers for $205. Check out the photo below and… The post Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/air-jordan-release-dates-air-jordan-41-ruby-hv6474-601-1.png",
+   "link": "https://www.nicekicks.com/air-jordan-41-ruby-hv6474-601/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 29,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -238,7 +396,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 30,
    "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -251,74 +409,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
-   "title": "Vans’ Most Minimalist Skate Slip-on Is Vibram-Backed",
-   "source": "Highsnobiety",
-   "date": "2026-10-23",
-   "content": "Vans OTW cooks up a Slip-On Shadow Vibram skate shoe, featuring an updated minimalist design & rugged soles.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-otw-slip-on-shadow-vibram/",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG",
-    "VANS"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "The Next Generation of adidas Talent Wants To Put You On",
-   "source": "Highsnobiety",
-   "date": "2026-10-23",
-   "content": "From grillz designers to Jamaican chefs and underground musicians, the brand’s latest creative cohort makes a case for New York’s niche cultural stars.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidass-nyc-creative-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "New Balance’s Leather Dad Shoe Is Too Sexy for Its Own Good",
-   "source": "Highsnobiety",
-   "date": "2026-10-23",
-   "content": "New Balance reveals a sexy leather 992 Made in USA dad shoe in \"Black/Afterglow\" for the Fall/Winter 2026 season.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-992-black-afterglow/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "Nike’s Waterproof Air Max Is the Flyest (& Driest) Soldier",
-   "source": "Highsnobiety",
-   "date": "2026-10-23",
-   "content": "Nike's Air Max 95 Big Bubble GORE-TEX sneaker gets a \"Camo Green\" colorway, becoming the best-looking version thus far.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-95-gore-tex-camo-green/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "Nike's Lovely Everyday Sneaker Hides a Rugged Secret",
-   "source": "Highsnobiety",
-   "date": "2026-10-23",
-   "content": "Nike's V5 RNR Ripstop sneaker is an rugged version of the everyday running-style sneaker, wrapped in a pretty \"Night Maroon\" colorway.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-v5-rnr-ripstop/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 24,
+   "id": 31,
    "title": "Blackstock & Weber x Joe Freshgoods 攜手為「Ellis」Penny Loafer 注入棋盤格紋",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -331,7 +422,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 32,
    "title": "Jonathan Anderson 率先預覽 JW Anderson 全新「Run Rabbit」跑鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -342,7 +433,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 26,
+   "id": 33,
    "title": "Liberaiders 為 adidas Superstar 打造最新毛絨聯乘設計",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -355,7 +446,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 34,
    "title": "藤原浩率先曝光 fragment design x V.A. x Converse 全新三方聯乘企劃",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -368,7 +459,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 35,
    "title": "Kith 攜手 Salomon 發表 Winter 2026 聯乘鞋款系列 首度推出 XT-4K Mid",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -381,7 +472,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 36,
    "title": "Masyn 攜手 Zellerfeld 揭示 3D 列印 Nike Air Max Mule 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -394,7 +485,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 37,
    "title": "消息指 One Block Down x Nike Air Max 95 Lux 將於 2026 年末登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -407,7 +498,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 38,
    "title": "Blackstock & Weber x Joe Freshgoods Etch a Checkerboard Into the “Ellis” Penny Loafer",
    "source": "Hypebeast",
    "date": "2026-10-22",
@@ -421,7 +512,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 39,
    "title": "Jonathan Anderson Previews the JW Anderson \"Run Rabbit\" Runner",
    "source": "Hypebeast",
    "date": "2026-10-22",
@@ -432,7 +523,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 33,
+   "id": 40,
    "title": "The adidas Superstar Gets a Fuzzy Liberaiders Treatment",
    "source": "Hypebeast",
    "date": "2026-10-22",
@@ -445,7 +536,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 41,
    "title": "Hiroshi Fujiwara Teases Upcoming fragment design x V.A. x Converse Collaboration",
    "source": "Hypebeast",
    "date": "2026-10-22",
@@ -458,7 +549,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 42,
    "title": "Nike Air Force 1 Low “Halloween Black Rat”",
    "source": "Nice Kicks",
    "date": "2026-10-22",
@@ -471,7 +562,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 43,
    "title": "Nike Air Force 1 Low ’01 “Nightmare”",
    "source": "Nice Kicks",
    "date": "2026-10-22",
@@ -484,21 +575,20 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
-   "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
+   "id": 44,
+   "title": "Ray Asian Boy x adidas Harden Vol. 10 PE “RUEI”",
    "source": "Nice Kicks",
    "date": "2026-10-21",
-   "content": "The Air Jordan 12 “Fireside” is set to release on October 24, 2026, via Nike.com and select retailers for $215. Check out the photo… The post Air Jordan 12 “Fireside” October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ct8013-105-5-1-e1791640160431.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
+   "content": "The Ray Asian Boy x adidas Harden Vol. 10 PE “RUEI” will be releasing on October 26, 2026, via exclusively on the adidas CONFIRMED app… The post Ray Asian Boy x adidas Harden Vol. 10 PE “RUEI” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/ER4A0526-scaled-e1790607408104.jpg",
+   "link": "https://www.nicekicks.com/ray-asian-boy-adidas-harden-vol-10-pe-ruei-lb5656/",
    "lang": "en",
    "relatedBrands": [
-    "JORDAN",
-    "NIKE"
+    "ADIDAS"
    ]
   },
   {
-   "id": 38,
+   "id": 45,
    "title": "Jalen Brunson’s “Arancia” Nike Kobe 3 Protro Low PE Shock Dropped At Tip-Off",
    "source": "Nice Kicks",
    "date": "2026-10-20",
@@ -508,45 +598,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "NIKE"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-20",
-   "content": "The APB x Air Jordan 11 Low “Made For Locals” is expected to release October 23, 2026, via The Whitaker Group retail locations and online for… The post APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/IMG_3802-1-scaled-e1791824411985.jpg",
-   "link": "https://www.nicekicks.com/apb-air-jordan-11-low-made-for-locals-iu8266-400/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "NIGO x J-Hope x Nike Air Force 1 Low ’01 “World Tour”",
-   "source": "Nice Kicks",
-   "date": "2026-10-20",
-   "content": "NIGO and BTS’ j-hope come together to reimagine the iconic Nike Air Force 1 Low, bringing their shared creative vision to one of Nike’s… The post NIGO x J-Hope x Nike Air Force 1 Low ’01 “World Tour” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/io8766-800-1-e1791562783330.jpg",
-   "link": "https://www.nicekicks.com/nigo-j-hope-nike-air-force-1-low-01-world-tour-io8766-800/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "Molly-Mae x adidas Samba OG WMNS “Matcha”",
-   "source": "Nice Kicks",
-   "date": "2026-10-19",
-   "content": "The Molly-Mae x adidas Samba OG “Matcha” brings a soft seasonal look to the iconic terrace silhouette. Magic Lime suede covers the upper while… The post Molly-Mae x adidas Samba OG WMNS “Matcha” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/KH8706_10-1-e1791384422760.jpg",
-   "link": "https://www.nicekicks.com/molly-mae-adidas-samba-og-wmns-matcha-kh8706/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
    ]
   }
  ]
