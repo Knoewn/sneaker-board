@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25 20:52",
+ "updatedAt": "2026-10-26 10:33",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -20,7 +20,6 @@
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
-  "SALOMON",
   "UGG",
   "VANS"
  ],
@@ -28,6 +27,19 @@
  "news": [
   {
    "id": 1,
+   "title": "Nike Air Force 1 Low Square Toe 最新「Triple White」配色發售日期確認",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-26",
+   "content": "摘要 Nike 正式發佈 Air Force 1 Low Square Toe 的經典「Triple White」配色鞋款以帶有稜角的平頭結構取代傳統的圓形鞋頭，令人聯想到正裝鞋與靴款此鞋款連同「Triple Black」配色將於 11 月 6 日登場，售價為 $130 美元 名稱： Nike Air Force 1 Low Square Toe「Triple White」配色： 白色/白色SKU： JF7766-100建議零售價： $130 美元發售日期： 11 月 6 日發售點： NikeNike 正式將 Nike Air Force 1 Low Square Toe「Triple White」推向市場。這款極具前瞻性的變奏版本，以獨特且帶有正裝風格的鞋頭輪廓，改寫了這對經典籃球鞋的面貌。雖然鞋身保留了標準「Triple White」型號標誌性的全白皮革鞋面與傳統鞋跟結構，但前掌部分卻迎來了巨大的結構轉變。大家熟悉的圓潤鞋頭向前延伸成扁平邊緣，並帶有銳利的幾何棱角，散發出猶如正裝皮鞋與牛仔靴般的輪廓氣息。此實驗性設計於今春早前的巴黎時裝周首度亮相，在確定正式發售前，便已於鞋履界引起兩極反應。這款「Triple White」版本將以中性尺碼登場，並會同步推出採用相同方頭結構的「Triple Black」配色。Nike Air Force 1 Low Square Toe「Triple White」將於 2026 年 11 月 6 日發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-air-force-1-low-square-toe-triple-white-jf7766-100-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-air-force-1-low-square-toe-triple-white-jf7766-100-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
    "title": "方頭設計 Nike Air Force 1 Low 最新「Triple Black」配色將於 11 月登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-25",
@@ -40,7 +52,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 3,
    "title": "Nike Air Max 90 最新「Light Orewood Brown」配色：漆皮光澤與半透明細節的完美結合",
    "source": "Hypebeast 中文",
    "date": "2026-10-25",
@@ -53,7 +65,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 4,
    "title": "The Square-Toe Nike Air Force 1 Low “Triple Black” Is Arriving This November",
    "source": "Hypebeast",
    "date": "2026-10-25",
@@ -66,7 +78,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 5,
    "title": "The Nike Air Max 90 “Light Orewood Brown” Is All Patent Shine and See-Through Panels",
    "source": "Hypebeast",
    "date": "2026-10-25",
@@ -79,7 +91,86 @@
    ]
   },
   {
-   "id": 5,
+   "id": 6,
+   "title": "New Balance’s Coffee-Flavored Tennis Shoe Is Perfectly Caffeinated",
+   "source": "Highsnobiety",
+   "date": "2026-10-25",
+   "content": "Todd Snyder debuts its New Balance T500 \"Cafe Pack,\" featuring coffee-inspired takes on the tennis model.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/todd-snyder-new-balance-t500-cafe-pack/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "adidas’ Exquisitely Woven Samba Is a Texture Trove",
+   "source": "Highsnobiety",
+   "date": "2026-10-25",
+   "content": "The adidas Samba sneaker is thriving hard this fall, thanks to solid releases like this woven \"Auburn\" pair.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-samba-auburn-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Nike’s Saucy Leather Air Max Is Straight from Italy",
+   "source": "Highsnobiety",
+   "date": "2026-10-25",
+   "content": "Nike's Air Max 95 Lux sneaker returns as a One Block Down collaboration for 2026, landing with the signature leather uppers plus some OBD twists.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-95-lux-one-block-down/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Nike’s Weatherized Forces Bring the Thunder During a Winter Storm",
+   "source": "Highsnobiety",
+   "date": "2026-10-25",
+   "content": "Nike's winter-ready Air Force 1 Low sneaker brings GORE-TEX, Vibram, & a tonal \"Thunder Blue\" colorway to the cold-weather season.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-gore-tex-vibram-thunder-blue/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Nike Ruggedized an Everyday Shoe. Now, It's a Military-Coded Flex",
+   "source": "Highsnobiety",
+   "date": "2026-10-25",
+   "content": "Nike's Zoom Vomero 5 Cordura sneaker receives a \"Camo Green\" makeover. Now, it's even more military-minded.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-cordura-camo-green/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "CLOT Chopped up adidas’ Superstar",
+   "source": "Highsnobiety",
+   "date": "2026-10-25",
+   "content": "CLOT took adidas' storied Superstar sneaker & turned it into an elevated slip-on shoe.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/clot-adidas-superstar-mule/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 12,
    "title": "Vans Sparkly Old Skool 36 Is the Gift That Keeps on Serving",
    "source": "Highsnobiety",
    "date": "2026-10-25",
@@ -92,7 +183,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 13,
    "title": "This Dunk Comes With Built-In Mamba Mentality",
    "source": "Highsnobiety",
    "date": "2026-10-25",
@@ -105,7 +196,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 14,
    "title": "Burna Boy 與 On 推出首個聯乘波鞋系列",
    "source": "Hypebeast 中文",
    "date": "2026-10-24",
@@ -116,7 +207,7 @@
    "relatedBrands": []
   },
   {
-   "id": 8,
+   "id": 15,
    "title": "Burna Boy and On Debut First Collaborative Sneakers",
    "source": "Hypebeast",
    "date": "2026-10-24",
@@ -127,7 +218,7 @@
    "relatedBrands": []
   },
   {
-   "id": 9,
+   "id": 16,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
@@ -141,7 +232,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 17,
    "title": "New Balance’s \"Dunk\" Skate Shoes Turned Into Beautiful Unicorns",
    "source": "Highsnobiety",
    "date": "2026-10-24",
@@ -154,7 +245,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 18,
    "title": "Nike’s Skate-Engineered Air Forces Are “Instant” Classics",
    "source": "Highsnobiety",
    "date": "2026-10-24",
@@ -167,7 +258,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 19,
    "title": "This Retro Rerun Inspired the YEEZY 500",
    "source": "Highsnobiety",
    "date": "2026-10-24",
@@ -180,7 +271,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 20,
    "title": "Vaquera’s Quirky Lil' Converse Heels Are Part Skate Shoe",
    "source": "Highsnobiety",
    "date": "2026-10-24",
@@ -193,85 +284,7 @@
    ]
   },
   {
-   "id": 14,
-   "title": "Nike’s Hardy Air Force 1 Boot Is Back from Space",
-   "source": "Highsnobiety",
-   "date": "2026-10-24",
-   "content": "Nike's Lunar Force 1 duck boots return with its signature winter-ready details & a new \"Iron Grey\" colorway for the rotation.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-lunar-force-1-boot/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 15,
-   "title": "Melitta Baumeister Took Nike's Weirdest Toe Shoe & Freaked It",
-   "source": "Highsnobiety",
-   "date": "2026-10-24",
-   "content": "Melitta Baumeister is back with another strangely cool Nike sneaker: an Air Rift Rocker collab featuring chunky clay soles.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/melitta-baumeister-nike-air-rift-rocker/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 16,
-   "title": "Nike's Cream Mule Is Fit for Elegant Extra-Terrestrials",
-   "source": "Highsnobiety",
-   "date": "2026-10-24",
-   "content": "Nike’s experimental First Sight franchise continues to surprise. Enter, the women's-exclusive Nike First Sight Shadow Cream.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-first-sight-shadow-cream/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "Vansza’s Knu Skool Mule Cuts Some Dead Weight",
-   "source": "Highsnobiety",
-   "date": "2026-10-24",
-   "content": "Vansza's chopped-up Knu Skool Mule takes a classic thrasher & turns it into a mutable mule.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vansza-knu-skool-mule-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "Nike's Rich Caramel Runner Is Perfected in Japan",
-   "source": "Highsnobiety",
-   "date": "2026-10-24",
-   "content": "Partnering with Tokyo's legendary retail institution for an earth-toned exclusive, the Swoosh offers up the Nike Zoom Skylon 11 Parachute Beige/Baroque Brown.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-zoom-skylon-11-beams-exclusive/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "The Seven Best Nike Sneaker Releases This Week",
-   "source": "Highsnobiety",
-   "date": "2026-10-24",
-   "content": "This week, Nike is injecting a little weird into the familiar favourites, and we are here for it.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-sneaker-releases-october-week-4/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 20,
+   "id": 21,
    "title": "ARC’TERYX Postour 靴款將室內拖鞋隱藏於 GORE-TEX 外殼內",
    "source": "Hypebeast 中文",
    "date": "2026-10-23",
@@ -282,7 +295,7 @@
    "relatedBrands": []
   },
   {
-   "id": 21,
+   "id": 22,
    "title": "Nike Air Force 1 ‘01「Philly」為 LeBron James 送上充滿 Sixers 色彩的歡迎禮",
    "source": "Hypebeast 中文",
    "date": "2026-10-23",
@@ -295,7 +308,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 23,
    "title": "率先近賞 Supreme x Nike Air Force 1 Low「Olive Camo」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-23",
@@ -308,7 +321,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 24,
    "title": "7-Eleven 撤銷針對 Nike Air Max 95 之商標侵權訴訟",
    "source": "Hypebeast 中文",
    "date": "2026-10-23",
@@ -321,7 +334,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 25,
    "title": "Burna Boy Brings His Inner Circle Into the Spotlight For Latest On Campaign",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -332,7 +345,7 @@
    "relatedBrands": []
   },
   {
-   "id": 25,
+   "id": 26,
    "title": "ARC’TERYX’s Postour Boot Hides a Slipper Inside a GORE-TEX Shell",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -343,7 +356,7 @@
    "relatedBrands": []
   },
   {
-   "id": 26,
+   "id": 27,
    "title": "The Nike Air Force 1 ‘01 “Philly” Gives LeBron James a Sixers-Coded Welcome",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -356,7 +369,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 28,
    "title": "Todd Snyder and New Balance Reunite for the T500 \"Cafe Pack\"",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -369,7 +382,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 29,
    "title": "First Look at the Supreme x Nike Air Force 1 Low \"Olive Camo\"",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -382,7 +395,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 30,
    "title": "7-Eleven Drops Trademark Lawsuit Against Nike Over Air Max 95",
    "source": "Hypebeast",
    "date": "2026-10-23",
@@ -395,7 +408,7 @@
    ]
   },
   {
-   "id": 30,
+   "id": 31,
    "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -408,7 +421,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 32,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -421,7 +434,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 33,
    "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -435,7 +448,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 34,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -448,7 +461,7 @@
    ]
   },
   {
-   "id": 34,
+   "id": 35,
    "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -461,7 +474,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 36,
    "title": "Blackstock & Weber x Joe Freshgoods 攜手為「Ellis」Penny Loafer 注入棋盤格紋",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -474,7 +487,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 37,
    "title": "Jonathan Anderson 率先預覽 JW Anderson 全新「Run Rabbit」跑鞋",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -485,7 +498,7 @@
    "relatedBrands": []
   },
   {
-   "id": 37,
+   "id": 38,
    "title": "Liberaiders 為 adidas Superstar 打造最新毛絨聯乘設計",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -498,7 +511,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 39,
    "title": "藤原浩率先曝光 fragment design x V.A. x Converse 全新三方聯乘企劃",
    "source": "Hypebeast 中文",
    "date": "2026-10-22",
@@ -508,19 +521,6 @@
    "lang": "zh",
    "relatedBrands": [
     "CONVERSE"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "Kith 攜手 Salomon 發表 Winter 2026 聯乘鞋款系列 首度推出 XT-4K Mid",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-22",
-   "content": "摘要 Kith 與 Salomon 擴展雙方的長期合作關係，於 2026 冬季推出包含三款鞋履的聯乘系列此季度膠囊系列帶來全新的 XT-4K Mid，以及全新配色的 XT-VYGR2 和 XT 4OG該系列將於 10 月 23 日在 Kith Vancouver 率先登場，隨後於 10 月 26 日公開發售 Kith 與 Salomon 正式介紹雙方合作的 Winter 2026 聯乘鞋款系列，首度推出 XT-4K Mid，同時迎來 XT-VYGR2 與 XT 4OG 的回歸。這個季節系列將 Kith 精心策劃的色調與 Salomon 的科技性能傳統完美結合，應用於三款獨特的戶外鞋型之上。系列焦點落在全新 XT-4K Mid，這款鞋將低筒 XT-4K 演進為升級的中筒設計。鞋面保留了經典 XT-4 的標誌性中底設計，結合透氣網眼材質與合成覆面，外側綴有 Kith 品牌標誌，內側裁片則飾有特製 UV 圖案。鞋款設計以「Black / Green Gaze / Olive Night」的均衡色彩配搭呈現。此系列亦標誌著 XT-VYGR2 的回歸，該鞋款最初由 Ronnie Fieg 融合 Salomon 經典設計元素而創作。這款跑鞋採用 TPU 與防撕裂鞋面及熱熔覆面，鞋頭飾有六角形迷彩圖案，配備覆蓋綁帶系統的保護性防撕裂外殼，今次以「Dark Navy / Dusty Orchid / Transparent」配色亮相。為這組三部曲作結的 XT 4OG 則採用季節性的「Maroon Banner / Nocturne / Knockout Pink」色彩處理，鞋舌與鞋墊上飾有定製的 Kith 聯乘標誌。Kith for Salomon Winter 2026 聯乘系列將於 10 月 23 日星期五率先在 Kith Vancouver 獨家發售，隨後於 10 月 26 日星期一當地時間早上 11 時透過全球 Kith 門市、官方網站及 Kith 應用程式正式上架。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fkith-salomon-xt-4k-mid-debut-winter-2026-footwear-capsule-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/kith-salomon-xt-4k-mid-debut-winter-2026-footwear-capsule-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "SALOMON"
    ]
   },
   {
