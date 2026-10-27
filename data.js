@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-26 22:43",
+ "updatedAt": "2026-10-27 11:07",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -20,15 +20,44 @@ window.SNEAKER_DATA = {
   "NEW BALANCE",
   "NIKE",
   "ON RUNNING",
+  "PRADA",
   "PUMA",
   "SALOMON",
   "SAUCONY",
-  "UGG"
+  "UGG",
+  "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Nike Air Force 1 Low GORE-TEX 最新「Thunder Blue」配色為冬季作好準備",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-27",
+   "content": "摘要 Nike 揭曉最新 Air Force 1 Low GORE-TEX，迎來應季的「Thunder Blue」配色主打實用機能的鞋身採用全包覆皮革鞋面，鞋頭透氣孔改為封閉設計，並配備彈道尼龍網眼鞋舌堅固耐用的 Vibram 大底配合「Speed Yellow」品牌標誌細節，圓滿呈獻這款具備全天候性能的低頂鞋款設計 名稱： Nike Air Force 1 Low GORE-TEX「Thunder Blue」配色： Thunder Blue/Off-Noir/Speed Yellow/Black型號： HV5953-400建議零售價： $150 美元發售日期： 2026 年秋季購買點： NikeNike 透過 Nike Air Force 1 Low GORE-TEX「Thunder Blue」為其最具標誌性的籃球鞋款注入抗潮效能。此鞋款為品牌 2026 年秋冬系列引入了專業的防風雨技術與堅固的戶外配置。全新設計以濃郁的「Thunder Blue」色調包覆，將經典皮革鞋面轉化為全面封閉的抗水屏障。為了防止水分滲透，鞋頭傳統的透氣孔被替換為凹陷的圓點設計。鞋舌採用耐用的彈道網布製成，搭配帶有紋理的縫線繩索鞋帶，進一步提升了鞋款宛如靴子的外觀。鞋底同樣迎來性能升級，加入了注重抓地力的 Vibram 橡膠外底，並在中央胎面以一抹「Racer Blue」點綴。對比鮮明的「Speed Yellow」細節突顯了 GORE-TEX 聯乘刺繡與 Vibram 標誌，使整體的機能感更為完整。Nike Air Force 1 Low GORE-TEX「Thunder Blue」將於近期發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-air-force-1-low-gore-tex-thunder-blue-hv5953-400-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-air-force-1-low-gore-tex-thunder-blue-hv5953-400-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Nike Air Force 1 Low GORE-TEX Prepares for Winter in \"Thunder Blue\"",
+   "source": "Hypebeast",
+   "date": "2026-10-27",
+   "content": "Summary Nike has revealed the Air Force 1 Low GORE-TEX in a seasonal Thunder Blue colorwayThe utilitarian build features an enclosed leather upper with closed dimples on the toe box and a ballistic mesh tongueRugged Vibram outsoles and Speed Yellow branding accents finish the weatherized low-top design Name: Nike Air Force 1 Low GORE-TEX \"Thunder Blue\"Colorway: Thunder Blue/Off-Noir/Speed Yellow/BlackSKU: HV5953-400MSRP: $150 USDRelease Date: Fall 2026Where to Buy: NikeNike equips its most iconic court silhouette for wet conditions with the Nike Air Force 1 Low GORE-TEX \"Thunder Blue\". The model introduces technical weatherproofing and rugged outdoor tooling to the brand’s Fall/Winter 2026 catalog.Dressed in a rich \"Thunder Blue\" hue, the updated design transforms the classic leather upper into a fully enclosed, water-resistant barrier. To prevent moisture from entering, the traditional ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F26%2Fnike-air-force-1-low-gore-tex-thunder-blue-hv5953-400-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-air-force-1-low-gore-tex-thunder-blue-hv5953-400-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 3,
    "title": "PUMA 為 CELL GEO 1 注入大地色系「Galactic Dust/Loden」全新設計",
    "source": "Hypebeast 中文",
    "date": "2026-10-26",
@@ -41,7 +70,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 4,
    "title": "AFEW x Saucony ProGrid Omni 9 最新「Tara Hawk」鞋款靈感源自毒蜂",
    "source": "Hypebeast 中文",
    "date": "2026-10-26",
@@ -54,7 +83,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 5,
    "title": "率先近賞 L’Art de L’Automobile x Salomon XT-QUEST 2 最新聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-26",
@@ -67,7 +96,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 6,
    "title": "Nike Shox NZ 迎來「Photon Dust/Metallic Silver」全新配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-26",
@@ -77,32 +106,6 @@ window.SNEAKER_DATA = {
    "lang": "zh",
    "relatedBrands": [
     "NIKE"
-   ]
-  },
-  {
-   "id": 5,
-   "title": "New Balance Kawhi V 最新「Oxford Blue」配色釋出",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-26",
-   "content": "摘要 New Balance 正式揭曉 Kawhi V 的全新「Oxford Blue」配色，靈感源自傳統正裝襯衫這款單色實戰鞋款配備銀色反光 N 標誌、PU 鑄模骨架，以及 Y 字形 TPU 板此招牌籃球鞋款預計於 2026 年節假日期間登場，售價為 $160 美元 名稱： New Balance Kawhi V「Oxford Blue」配色： Oxford Blue型號： UKLS1MN建議售價： $160 美元發售日期： 2026 年假日季購買點： New BalanceNew Balance 為 Kawhi Leonard 的簽名鞋陣容再添新血，推出全新 New Balance Kawhi V「Oxford Blue」。這款即將發佈的配色緊隨該鞋型為迎接 2026/27 籃球賽季而首發的兩款配色之後登場。這款球鞋散發出清爽恤衫的美學氣息，採用猶如度身訂製的單色淺藍色調，幾乎覆蓋整個輪廓。鞋身側面採用反光銀色「N」字標誌，能在昏暗環境下閃爍光芒，是鞋款單一藍色外觀中唯一的視覺亮點。為應付高強度的球場表現而生，這款球鞋配備了一系列強大的技術規格。中底採用雙密度 FuelCell 泡棉，搭配提供穩定性的 Y 形 TPU 穩定片，將能量回饋與支撐力提升至極致。鞋面的外置 PU 穩定結構增強了鎖定效果，而外底則具備多向牽引力，專為在木地板球場上進行急停切入和轉身而設計。New Balance Kawhi V「Oxford Blue」預計將於 2026 年假日季正式發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnew-balance-kawhi-v-oxford-blue-UKLS1MN-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/new-balance-kawhi-v-oxford-blue-ukls1mn-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 6,
-   "title": "New Balance 9060 全新「Deep End/Black Metallic」配色登場",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-26",
-   "content": "摘要 New Balance 為 9060 鞋款發佈即將登場的「Deep End」與「Black Metallic」配色此鞋型重新演繹典藏 860 專業跑鞋的輪廓與科技，並注入 900 系列的經典元素非對稱標誌設計成為鞋身焦點，外側設有放大的「N」字 Logo，內側則搭配刺繡標誌 名稱： New Balance 9060「Deep End/Black Metallic」配色： Deep End/Black Metallic編號： U9060873建議售價： $150 美元發售日期： 2026 年 11 月 1 日購買點： New BalanceNew Balance 推出全新 9060「Deep End/Black Metallic」配色，進一步擴充其生活休閒鞋款陣容。設計巧妙融合 2000 年代初的機能跑鞋元素與現代高科技感，延續品牌對經典重塑的理念。9060 鞋款重新演繹經典 860 跑鞋的功能性科技與流線型輪廓，並融入 New Balance 著名 900 系列的獨特設計語彙。鞋面強調現代且精緻的風格，兩側標誌性設計成為焦點：外側飾有特大的「N」字標誌，內側則點綴著精緻刺繡的「N」字圖案。這種將放大外部裁片與細緻縫線結合的平衡手法，完美呼應鞋款融合經典跑步基因與前衛生活美學的定位。New Balance 9060 全新「Deep End/Black Metallic」配色預計於 11 月 1 日發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnew-balance-9060-deep-end-black-metallic-U9060873-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/new-balance-9060-deep-end-black-metallic-u9060873-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
    ]
   },
   {
@@ -120,19 +123,6 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 8,
-   "title": "New Balance 2010 GORE-TEX 推出秋季「Mushroom/Timberwolf」配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-26",
-   "content": "摘要 New Balance 擴充了其季節性防風雨系列，為 2010 GORE-Tex 推出「Mushroom」與「Timberwolf」配色這款靈感源自 99x 的跑鞋融入品牌專利防水技術，並於鞋領及中底位置注入淺橄欖綠色調點綴這款主打秋季風範的鞋款現已發售，定價為 $175 美元 名稱：New Balance 2010 GORE-TEX「Mushroom/Timberwolf」配色：Black/Field GreenSKU：U20105HA建議售價：$175 美元發售日期：現已發售購買點： New BalanceNew Balance 透過推出 New Balance 2010 GORE-TEX「Mushroom/Timberwolf」，為其生活風格鞋款陣容帶來適合戶外穿著的升級之作。這款鞋型為這個 Boston 品牌較新、以 99x 啟發的跑鞋帶來適應季節變化的防水功能。繼 New Balance 更廣泛應用 GORE-Tex 薄膜（此前可見於 2002R、1906R 等經典型號及聯乘版 996）後，2010 繼續確立其作為寒冷天氣必備單品的地位。這對鞋款專為抵禦惡劣氣候而設計，將實用功能與為秋季度身訂造的色調完美結合。鞋面在外層裁片上混合了卡其色調，並以包覆鞋領的淺橄欖綠色作點綴。在下方，輪廓鮮明的中底融入了相呼應的橄欖綠色細節，以平衡充滿大地氣息的鞋面，為這雙具層次感的跑鞋賦予具備越野風格的一致外觀。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnew-balance-2010-gore-tex-mushroom-timberwolf-u20105ha-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/new-balance-2010-gore-tex-mushroom-timberwolf-u20105ha-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 9,
    "title": "Nike Mind 002 Flyknit「Dark Smoke Gray」：編織材質與螢光綠的毛絨碰撞",
    "source": "Hypebeast 中文",
    "date": "2026-10-26",
@@ -145,7 +135,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 9,
    "title": "adidas x SATISFY 再次聯乘推出第二波 ADIZERO 合作系列",
    "source": "Hypebeast 中文",
    "date": "2026-10-26",
@@ -158,7 +148,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 10,
    "title": "Nike Air Force 1 Low Square Toe 最新「Triple White」配色發售日期確認",
    "source": "Hypebeast 中文",
    "date": "2026-10-26",
@@ -171,7 +161,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 11,
    "title": "PUMA Gives the CELL GEO 1 an Earthy “Galactic Dust/Loden” Treatment",
    "source": "Hypebeast",
    "date": "2026-10-26",
@@ -184,7 +174,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 12,
    "title": "AFEW x Saucony’s ProGrid Omni 9 “Tara Hawk” Sneaker Takes Cues From a Venomous Wasp",
    "source": "Hypebeast",
    "date": "2026-10-26",
@@ -197,7 +187,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 13,
    "title": "First Look at the L’Art de L’Automobile x Salomon XT-QUEST 2",
    "source": "Hypebeast",
    "date": "2026-10-26",
@@ -211,7 +201,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 14,
    "title": "Nike Gives the Shox NZ a “Photon Dust/Metallic Silver” Refresh",
    "source": "Hypebeast",
    "date": "2026-10-26",
@@ -224,7 +214,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 15,
    "title": "New Balance Kawhi V Suits up in \"Oxford Blue\"",
    "source": "Hypebeast",
    "date": "2026-10-26",
@@ -237,7 +227,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 16,
    "title": "New Balance 9060 Arrives in \"Deep End/Black Metallic\"",
    "source": "Hypebeast",
    "date": "2026-10-26",
@@ -250,7 +240,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 17,
    "title": "Nike Clips a Metal Basketball Onto the Hairy Suede Dunk Low “Basketball Charm”",
    "source": "Hypebeast",
    "date": "2026-10-26",
@@ -263,7 +253,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 18,
    "title": "New Balance 2010 GORE-TEX Arrives in Autumnal \"Mushroom/Timberwolf\"",
    "source": "Hypebeast",
    "date": "2026-10-26",
@@ -276,7 +266,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 19,
    "title": "The Nike Mind 002 Flyknit “Dark Smoke Gray” Is a Shaggy Clash of Knit and Slime Green",
    "source": "Hypebeast",
    "date": "2026-10-26",
@@ -289,7 +279,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 20,
    "title": "adidas and SATISFY Reunite for Second Collaborative ADIZERO Capsule",
    "source": "Hypebeast",
    "date": "2026-10-26",
@@ -303,7 +293,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 21,
    "title": "Nike Air Force 1 Low Square Toe \"Triple White\" Receives Official Release Date",
    "source": "Hypebeast",
    "date": "2026-10-26",
@@ -316,99 +306,165 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
-   "title": "Nike’s Cream Soda Recovery Shoe Is Ready to Pop",
-   "source": "Highsnobiety",
+   "id": 22,
+   "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
    "date": "2026-10-26",
-   "content": "Nike's cream-coated First Sight Shadow is a lace-free sneaker built for the moments we don't see.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-first-sight-shadow-sneaker-cream/",
+   "content": "The Supreme x Nike Air Force 1 Low “Snow Camo” puts a fresh spin on the iconic silhouette with a bold black, white, and… The post Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/08/IMG_2570-1-e1786977370604.png",
+   "link": "https://www.nicekicks.com/supreme-nike-air-force-1-low-urban-camo-cu9225-901/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-26",
+   "content": "The Air Jordan 14 “Forest Green” is expected to release on October 31, 2026, via SNKRS and select retailers for $215. Check out the… The post Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/air-jordan-14-forest-green-487471-300-october-2026-release-date-info-1.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
    ]
   },
   {
    "id": 24,
-   "title": "New Balance’s Coffee-Flavored Tennis Shoe Is Perfectly Caffeinated",
-   "source": "Highsnobiety",
+   "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
    "date": "2026-10-26",
-   "content": "Todd Snyder debuts its New Balance T500 \"Cafe Pack,\" featuring coffee-inspired takes on the tennis model.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/todd-snyder-new-balance-t500-cafe-pack/",
+   "content": "The Air Jordan 3 “Fireside” (Style Code: CK9246-200) drops in a chocolate like borwn color with other hues of brown as accents. The Fireside… The post Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/ck9246-200-5-1-e1789833654816.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
    "lang": "en",
    "relatedBrands": [
-    "NEW BALANCE"
+    "JORDAN"
    ]
   },
   {
    "id": 25,
-   "title": "adidas’ Exquisitely Woven Samba Is a Texture Trove",
-   "source": "Highsnobiety",
+   "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
+   "source": "Nice Kicks",
    "date": "2026-10-26",
-   "content": "The adidas Samba sneaker is thriving hard this fall, thanks to solid releases like this woven \"Auburn\" pair.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-samba-auburn-sneakers/",
+   "content": "The Air Jordan 4 OG “Fire Red” is reportedly making another comeback, with the iconic colorway expected to return on July 2, 2027. Originally… The post Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027 appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/dc7770-160-5-1-e1789140896931.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-4-og-fire-red-2027/",
    "lang": "en",
    "relatedBrands": [
-    "ADIDAS"
+    "JORDAN"
    ]
   },
   {
    "id": 26,
-   "title": "Nike’s Saucy Leather Air Max Is Straight from Italy",
+   "title": "Up Close With Frank Ocean’s Fave New Prada Sneaker",
    "source": "Highsnobiety",
    "date": "2026-10-26",
-   "content": "Nike's Air Max 95 Lux sneaker returns as a One Block Down collaboration for 2026, landing with the signature leather uppers plus some OBD twists.",
+   "content": "Frank Ocean was just spotted wearing the new Prada America’s Cup sneaker. His proof-of-life Story post is also a PSA for the updated shoe silhouette.",
    "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-95-lux-one-block-down/",
+   "link": "https://www.highsnobiety.com/p/prada-frank-ocean-sneaker-new/",
    "lang": "en",
    "relatedBrands": [
-    "NIKE"
+    "PRADA"
    ]
   },
   {
    "id": 27,
-   "title": "Nike’s Weatherized Forces Bring the Thunder During a Winter Storm",
+   "title": "A Slim adidas Sneaker’s Ballerina Era Finally Comes to Fruition",
    "source": "Highsnobiety",
    "date": "2026-10-26",
-   "content": "Nike's winter-ready Air Force 1 Low sneaker brings GORE-TEX, Vibram, & a tonal \"Thunder Blue\" colorway to the cold-weather season.",
+   "content": "Fruition debuts an adidas Tokyo Ballerina collaboration for FW26, resulting in a super-luxe ballet sneaker.",
    "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-force-1-gore-tex-vibram-thunder-blue/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "Nike Ruggedized an Everyday Shoe. Now, It's a Military-Coded Flex",
-   "source": "Highsnobiety",
-   "date": "2026-10-26",
-   "content": "Nike's Zoom Vomero 5 Cordura sneaker receives a \"Camo Green\" makeover. Now, it's even more military-minded.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-cordura-camo-green/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "CLOT Chopped up adidas’ Superstar",
-   "source": "Highsnobiety",
-   "date": "2026-10-26",
-   "content": "CLOT took adidas' storied Superstar sneaker & turned it into an elevated slip-on shoe.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/clot-adidas-superstar-mule/",
+   "link": "https://www.highsnobiety.com/p/adidas-tokyo-ballerina-fruition/",
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
    ]
   },
   {
+   "id": 28,
+   "title": "Nike’s Dadcore Sneaker Wears Good Workwear \"Jeans\"",
+   "source": "Highsnobiety",
+   "date": "2026-10-26",
+   "content": "Nike's Cordura P-6000 sneaker returns in a nice denim-coded \"Thunder Blue\" colorway for its latest release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-p-6000-cordura-thunder-blue/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 29,
+   "title": "Nike's Spiffy Forces Are All Squared Away",
+   "source": "Highsnobiety",
+   "date": "2026-10-26",
+   "content": "Nike officially debuts the square-toe Air Force 1 Low sneaker, which lands in classic colorways & premium details.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-square-toe/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
    "id": 30,
+   "title": "Nike's Slick Foamposite Dad Sneaker Is Outdoor-Ready",
+   "source": "Highsnobiety",
+   "date": "2026-10-26",
+   "content": "Nike's Air Max Goadome Low Foamposite sneaker-boot lands in the classic \"Metallic Gold\" colorway for its debut release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-foamposite/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 31,
+   "title": "Vans’ Waterproof Skate Shoe Makes Winter Survival Look Good",
+   "source": "Highsnobiety",
+   "date": "2026-10-26",
+   "content": "Vans drops a winterized Half Cab, featuring GORE-TEX waterproofing, warm insulation, & plenty of street swag.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-half-cab-gore-tex-insulated-shoes/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 32,
+   "title": "From adidas to New Balance, the Seven Best Sneakers to Cop This Week",
+   "source": "Highsnobiety",
+   "date": "2026-10-26",
+   "content": "From fashion's' favorite adidas runner to your grandad's beloved PUMA... Speedcats?! The cream of the sneaker crop awaits... So, whatcha waiting for?",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/sneaker-releases-2026-november-week-0/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "NEW BALANCE",
+    "PUMA"
+   ]
+  },
+  {
+   "id": 33,
+   "title": "Nike’s Bruce Wayne-Approved Air Max 95 Leaves Gotham",
+   "source": "Highsnobiety",
+   "date": "2026-10-26",
+   "content": "Nike's moody Batman Air Max 95 sneaker is fly in a way Bruce Wayne would approve of.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-95-batman-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 34,
    "title": "方頭設計 Nike Air Force 1 Low 最新「Triple Black」配色將於 11 月登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-25",
@@ -421,20 +477,31 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
-   "title": "The Square-Toe Nike Air Force 1 Low “Triple Black” Is Arriving This November",
-   "source": "Hypebeast",
+   "id": 35,
+   "title": "Nike Air Max 90 最新「Light Orewood Brown」配色：漆皮光澤與半透明細節的完美結合",
+   "source": "Hypebeast 中文",
    "date": "2026-10-25",
-   "content": "Name: Nike Air Force 1 Low Square Toe “Triple Black”Colorway: Black/BlackSKU: JF7766-001MSRP: $130 USDRelease Date: November 6Where to Buy: NikeThe Nike Air Force 1 Low Square Toe “Triple Black” isolates its redesign to a single zone, reshaping the front of the shoe while leaving the familiar blacked-out AF1 Low largely intact. Viewed from behind or in profile at the heel, the pair reads as the same tonal sneaker that has filled closets for decades, and the real story only reveals itself at the forefoot.The toe box is where Nike made its move, pushing the front of the shoe farther forward and swapping the trademark curve for a straight leading edge framed by angular corners. The effect is most dramatic from a top-down view, where the outline shifts from soft and rounded to something closer to a squared silhouette, giving the low-top a longer, more architectural stance.Everything behind t",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F25%2Fnike-air-force-1-low-square-toe-triple-black-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nike-air-force-1-low-square-toe-triple-black-release-info",
-   "lang": "en",
+   "content": "名稱： Nike Air Max 90「Light Orewood Brown」配色： Light Orewood Brown/Blue Tint-Sail-Neutral OliveSKU： IX8056-104建議零售價： $145 美元發售日期： 11 月 1 日購買渠道： NikeNike 為 Air Max 90「Light Orewood Brown」配色換上以材質為主導的全新面貌，將半透明覆面與高光澤漆皮巧妙結合。色調刻意保持低調，主要運用 Light Orewood Brown 及 Sail，讓紋理與透視感成為視覺焦點。這款由 Tinker Hatfield 設計的經典跑鞋，在內斂中展現出值得細細品味的細節。鞋面採用層次豐富的結構，營造出相互輝映的視覺效果。鞋頭及鞋領以具質感的網眼布為基礎，半透明裁片則沿著鞋側延伸並包覆綁帶系統，隱約透出底層的網眼材質。下半部的擋泥板選用富有光澤的米色漆皮製成，在不破壞整體同色系風格的前提下，增添亮眼光澤與對比感。Nike 亦將透視概念延伸至品牌標誌上。鞋舌標籤與鞋跟拉環採用相同的透明材質，讓底下的標誌透過這層如玻璃般的表面清晰可見。奶油色鞋帶與同色系內襯令內外視覺保持一致，同色調中底則包覆著此鞋款標誌性的後跟可視式 Air 氣墊。鞋底採用半透明大底，將透視主題由上至下貫穿全身。最引人注目的配件是扣在鞋帶上的金屬 Swoosh 吊牌，其表面刻有精緻圖案，與印花鞋墊上的設計互相呼應。這項藝術設計將此鞋款與更廣泛的發售系列連繫起來，即將推出的 Air Max 95 與 Air Force 1 款式預計也會搭載相同的雕花圖案，並配上各自的漆皮與半透明細節。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FNike-Air-Max-90-Light-Orewood-Brown-IX8056-104-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-air-max-90-light-orewood-brown-ix8056-104-release-info",
+   "lang": "zh",
    "relatedBrands": [
     "NIKE"
    ]
   },
   {
-   "id": 32,
+   "id": 36,
+   "title": "Burna Boy 與 On 推出首個聯乘波鞋系列",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-24",
+   "content": "摘要 On 聯手全球知名音樂人 Burna Boy，推出雙方首個合作鞋款膠囊系列本次新品帶來全紅配色的 Cloudmonster 以及全白配色的 ROGER Clubhouse，融入毛絨鞋帶與紅色鞋跟縫線等細節兩款鞋型現已登陸 On 官方網站發售，售價由 $150 美元起 On 與格林美得獎歌手 Burna Boy 正式發布首個聯乘鞋履系列，由 Burna Boy x On Cloudmonster BB 及 THE ROGER Clubhouse BB 領銜。此次發布距離這位 Afrobeats 巨星加入該瑞士運動服飾品牌成為官方品牌大使僅一年多。該系列圍繞「No Giant Stands Alone」企劃展開——該企劃聚焦這位歌手及其朋友、家人和核心圈子——並在經典球場及專業跑步美學中展現出截然不同的單色設計。Cloudmonster BB 採用全亮紅色調，從鞋面一直延伸至厚底緩震中底，並以較深色的品牌標誌作平衡。相比之下，THE ROGER Clubhouse BB 則帶來純白網球鞋輪廓，並以具質感的毛絨鞋帶及鞋跟上兩處搶眼的紅色縫線點綴。整個系列預計還將推出 Cloudtilt Remix，不過該鞋款的官方圖片尚未釋出。在談到與品牌的合作時，Burna Boy 表示：「對我來說，我所做的一切都源於同一個地方——音樂、運動、社區和文化。這一切都是相連的。On 明白這一點。我們的合作是為了帶來改變，並在運動世界中創造新的能量。」Burna Boy x On Cloudmonster 及 ROGER Clubhouse 現已透過 On 及指定零售商發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fburna-boy-on-debut-first-collaborative-sneakers-cloudmonster-bb-roger-clubouse-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/burna-boy-on-debut-first-collaborative-sneakers-cloudmonster-bb-roger-clubouse-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 37,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
@@ -448,20 +515,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
-   "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-23",
-   "content": "The Air Jordan 3 “Fireside” (Style Code: CK9246-200) drops in a chocolate like borwn color with other hues of brown as accents. The Fireside… The post Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/ck9246-200-5-1-e1789833654816.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 34,
+   "id": 38,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -474,7 +528,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 39,
    "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -488,7 +542,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 40,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -501,7 +555,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 41,
    "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -514,52 +568,13 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 42,
    "title": "Nike Air Force 1 Low “Halloween Black Rat”",
    "source": "Nice Kicks",
    "date": "2026-10-22",
    "content": "The Nike Air Force 1 Low “Halloween Black Rat” embraces New York City’s gritty character with a playful design inspired by one of its… The post Nike Air Force 1 Low “Halloween Black Rat” appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/09/iv4884-200-1-1-e1789839312344.jpg",
    "link": "https://www.nicekicks.com/nike-air-force-1-low-halloween-black-rat-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "Nike Air Force 1 Low ’01 “Nightmare”",
-   "source": "Nice Kicks",
-   "date": "2026-10-22",
-   "content": "The Nike Air Force 1 Low “Nightmare” takes inspiration from the cult-classic horror film Hellraiser, bringing a sinister aesthetic to the iconic silhouette. A… The post Nike Air Force 1 Low ’01 “Nightmare” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/imgi_1_air-force-1-01-nightmare-black-and-gym-red-ix0104-001-release-date-e1791820947734.jpeg",
-   "link": "https://www.nicekicks.com/nike-air-force-1-low-01-nightmare-ix0104-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Ray Asian Boy x adidas Harden Vol. 10 PE “RUEI”",
-   "source": "Nice Kicks",
-   "date": "2026-10-21",
-   "content": "The Ray Asian Boy x adidas Harden Vol. 10 PE “RUEI” will be releasing on October 26, 2026, via exclusively on the adidas CONFIRMED app… The post Ray Asian Boy x adidas Harden Vol. 10 PE “RUEI” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/ER4A0526-scaled-e1790607408104.jpg",
-   "link": "https://www.nicekicks.com/ray-asian-boy-adidas-harden-vol-10-pe-ruei-lb5656/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "Jalen Brunson’s “Arancia” Nike Kobe 3 Protro Low PE Shock Dropped At Tip-Off",
-   "source": "Nice Kicks",
-   "date": "2026-10-20",
-   "content": "Jalen Brunson’s Nike Kobe 3 Low Protro “Arancia” celebrates New York basketball with a vibrant orange upper and metallic blue accents inspired by the… The post Jalen Brunson’s “Arancia” Nike Kobe 3 Protro Low PE Shock Dropped At Tip-Off appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ja7845-800-1-1.jpg",
-   "link": "https://www.nicekicks.com/jalen-brunson-x-nike-kobe-3-protro-low-pe-arancia-ja7845-800/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
