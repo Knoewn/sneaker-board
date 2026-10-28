@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-28 11:21",
+ "updatedAt": "2026-10-28 22:44",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -15,23 +15,106 @@ window.SNEAKER_DATA = {
   "得物、识货：接口需签名，无法直连"
  ],
  "brands": [
-  "ADIDAS",
   "ASICS",
-  "CROCS",
   "JORDAN",
   "LOUIS VUITTON",
   "NEW BALANCE",
   "NIKE",
-  "PRADA",
+  "PUMA",
   "SALOMON",
-  "TIMBERLAND",
-  "UGG",
-  "VANS"
+  "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "SOLDIER 注入尼日利亞文化底蘊重新演繹 PUMA Suede",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-28",
+   "content": "摘要 現居 London 的尼日利亞藝術家 SOLDIER 以其標誌性迷彩圖案及源自個人檔案庫的圖像，重新構想 PUMA Suede 鞋款。為配合他最近於 New York 舉辦的個人展覽而打造，此運動鞋將僅限量分發予親友（Friends and Family）。 PUMA 攜手駐倫敦尼日利亞藝術家 SOLDIER（本名 Leonard Iheagwam），透過對文化認同、記憶與傳統底蘊的深刻個人探索，重新演繹其標誌性 Suede 鞋款。為了配合藝術家近期於紐約舉辦的個人展覽 《Reveal Yourself, Softly》，這款限量版運動鞋特別結合了 SOLDIER 個人珍藏的影像與其標誌性迷彩圖案。設計將其跨領域創作元素轉化為可穿戴的單品，完美連繫當代藝術與街頭服飾的世界。出生於尼日利亞拉各斯的 SOLDIER，孕育出植根於個人歷史、軍事圖像與現成影像的獨特視覺語言。他的作品經常探討身份認同、集體記憶與殖民歷史的深遠影響，將大眾熟悉的符號轉化為層次豐富的構圖，挑戰其原有含義。是次聯乘企劃進一步突顯非洲創意社群日益增長的全球影響力，將 PUMA Suede 化作訴說文化故事與表達藝術理念的畫布。PUMA x SOLDIER Suede 僅作親友限定版本，目前尚未有公開發售的計劃。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fsoldier-boyfriend-puma-suede-collaboration-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/soldier-boyfriend-puma-suede-collaboration",
+   "lang": "zh",
+   "relatedBrands": [
+    "PUMA"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "PUMA x NAHMIAS Suede Crochet 聯乘鞋款推三款全新配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-28",
+   "content": "名稱：PUMA x NAHMIAS Suede Crochet建議售價：待定發售日期： 11 月 5 日發售點：NAHMIAS、PUMAPUMA 與 NAHMIAS 繼首度合作後再下一城，為 Suede Crochet 推出三款全新配色，延續雙方將運動、工藝與西岸街頭文化結合的設計理念。在「Crafted Classics」的主題下，這三款設計為 PUMA 經典低筒鞋款注入三種截然不同的個性：一款採用同色系朱古力啡色麂皮，配搭淺啡色鉤織 Formstrip；另一款則以濃郁綠色麂皮鞋身配搭亮黃色 Formstrip；第三款則大膽選用電光藍色，飾以對比鮮明的黃色點綴。三款鞋均配備粗身彩色手工鉤織鞋帶，強化了手工質感，並輔以優質麂皮、帆布細節及聯乘 PUMA x NAHMIAS 鞋舌標籤。鉤織 Formstrip 在平滑的麂皮鞋身上增添了立體的觸感，為這款經典鞋型注入更柔和且更具工藝感的細節，同時保留其極具辨識度的輪廓。內襯印有「Let’s Be Friends」字樣，延續了鞋款的細節設計，而額外附送的鉤織鞋帶則讓這款色彩豐富的設計可進一步度身訂製。滑板與籃球元素依然是系列的基礎，但 NAHMIAS 將這些運動元素融入其輕鬆的加州美學中，將 Suede 轉化為一款強調質感與工藝的日常百搭之選。是次發布還伴隨著以品牌虛構的 Cornballs 麥片為靈感的多城市宣傳活動，充滿驚喜的麥片盒內藏收藏品、球鞋兌換券以及價值 $1,000 美元的 NAHMIAS.com 購物金幸運券。設定好你的提醒，並在 Hypebeast Drops 上搶先掌握最新發售資訊。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fpuma-nahmias-suede-crochet-three-new-colorways-collaboration-release-info-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/puma-nahmias-suede-crochet-three-new-colorways-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "PUMA"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Corteiz x Nike Shox R419 最新「Game Royal」配色官方照片釋出",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-28",
+   "content": "摘要 Corteiz 與 Nike 正進一步擴展他們的聯乘系列，推出對 Shox R4 進行全新改造的 Shox R419「Game Royal」配色採用重新設計的鞋面，亮點包括凸起的水平橫紋、碳纖維面板以及源自汽車靈感的細節點綴該鞋款將與「Black」和「Metallic Silver」款式一同登場，預計於 2026 年假期季發售，定價為 $190 美元 名稱： Corteiz x Nike Shox R419「Game Royal」配色： Game Royal/University Red-BlackSKU： IQ9951-400建議零售價： $190 美元發售日期： 2026 年假日季發售點： NikeNike 與 Clint419 創立的倫敦街頭服飾品牌 Corteiz 釋出雙方聯乘鞋款 Corteiz x Nike Shox R419「Game Royal」的官方照片。繼先前合作推出的 Air Max 95 及 Air Trainer Huarache 後，是次企劃將焦點轉向以汽車為靈感，重新演繹這款經典的 2000 年代跑鞋。雖然新鞋款保留了原版標誌性的 Shox 機械緩震鞋跟柱，但鞋面卻經過顯著的重構。帶有紋理的凸起水平線條環繞鞋頭及側面輪廓，配以令人聯想到現代跑車車身的時尚碳纖維覆面。汽車及品牌專屬元素繼續貫穿外部與內部細節。鞋舌上的「CRTZ SHOX」字樣上方，飾有以搶眼 Shox 字體呈現的紅色「C」字。靠近後方的位置，鞋跟處的半透明視窗透出內部的「R419」字樣。最後，鞋墊上印有多色的引擎圖案，而每對鞋履均附有一個帶有品牌標誌的螺栓墊圈配件。Corteiz x Nike Shox R419「Game Royal」預計將於 2026 年假日季發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fcorteiz-nike-shox-r419-game-royal-iq9951-400-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/corteiz-nike-shox-r419-game-royal-iq9951-400-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "率先預覽 Nike Ovolo 2.0 復刻高跟運動鞋",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-28",
+   "content": "名稱：Nike Ovolo 2.0SKU：有待確認發售日期：2026 年假日季Nike 繼續復刻 2000 年代中期的冷門實驗性設計，並率先曝光這款極具特色的 Nike Ovolo 2.0。根據 Nike 最新發布的 SNKRS Verified 產品預覽，這款即將推出的型號重新演繹了 2004 年首度亮相且罕見的高跟運動鞋。Ovolo 2.0 將於 2026 年假日季作女裝獨佔發售，並推出兩款搶眼配色：俐落單色的「Black」及充滿未來感的「Metallic Silver」。這款運動鞋作為一款引人注目的混合鞋款，從標誌性的 Nike Shox R4 中汲取了大量靈感。其俐落的皮革鞋面保留了大部分 R4 的原創特色，尤其是方形鞋舌及鞋頭尖端附近的小孔設計。然而，Nike 為 2.0 版本注入了重要的現代更新——側面的 Swoosh 標誌現在無縫地壓印在優質皮革上，而非作為獨立面板縫製，呈現出更乾淨、更流線型的視覺效果。最大的更新在於鞋底。Nike 並沒有直接重現原版 Ovolo 的鞋跟，而是進一步打開了鞋底結構，在升高的鞋跟結構與外底之間創造了更多負空間，營造出更輕盈、更誇張的輪廓。鞋後跟由亮面立體細節包裹，鞋跟下方則有疊層設計，旨在產生類似 Shox 緩震系統的彈力腳感，而不必依賴其標誌性的外露支柱。設定提醒，緊貼 Hypebeast Drops 的最新發售情報。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-ovolo-2-0-first-look-two-colorways-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-ovolo-2-0-first-look-two-colorways-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "atmos x On Cloudmonster 1 Waterproof 聯乘系列從日本枯山水汲取靈感",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-28",
+   "content": "名稱： atmos x On Cloudmonster 1 Waterproof 聯乘系列配色：「Eclipse/Olive」、「Dew/Olive」SKU： 3mg31166308、3mg31166309建議售價： ¥28,600 日圓（約 $180 美元）發售日期： 11 月 7 日發售點： atmos、Onatmos 在最新聯乘企劃中，將 On Cloudmonster 鞋型化作日本庭園景觀設計的研究畫布。此系列從日本傳統庭園枯山水（karesansui）汲取靈感，帶來「Eclipse/Olive」與「Dew/Olive」兩款配色。防水鞋面上佈滿流暢的同心圓線條，彷如水面泛起的漣漪，或是沙地上耙出的紋理。較深色的「Eclipse」於鞋頭與鞋面交疊黑色及炭灰色，並以橄欖綠色鞋領作點綴；「Dew」則呈現較溫暖的格調，採用卡其色為主調，配搭啡色等高線、米白色前掌部分及同樣的橄欖綠色細節。兩款配色雖然氛圍迥異，但同樣保持柔和自然的色調，讓起伏的圖案設計成為視覺焦點。在鞋底部分，是次聯乘保留了 Cloudmonster 1 Waterproof 誇張的 CloudTec® 緩震系統，結合具支撐力的 Helion™ 泡棉與 Speedboard®，帶來敏捷的腳感回饋。經過防水處理的鞋面足以應付潮濕天氣，而 Missiongrip™ 外底則在乾燥或濕滑路面上提供卓越抓地力，為這份庭園美學賦予實用基礎。設定提醒，緊貼 Hypebeast Drops 掌握即將上架的最新單品。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fatmos-on-cloudmonster-1-waterproof-pack-eclipse-olive-3mg31166308-dew-olive-3mg31166309-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/atmos-on-cloudmonster-1-waterproof-pack-eclipse-olive-3mg31166308-dew-olive-3mg31166309-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 6,
+   "title": "The Apartment 與 New Balance 再次攜手打造 2010 GORE-TEX「Kingfisher」鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-28",
+   "content": "摘要 東京選貨店 The Apartment 攜手 New Balance，推出具備防風雨性能的 2010 GORE-TEX 鞋款「Kingfisher」配色靈感源自常見於日本與 New York 的翠鳥設計將防水薄膜防護結合藍色麂皮覆層，並搭載深藍色 ABZORB 緩震中底 名稱： The Apartment x New Balance 2010 GORE-TEX「Kingfisher」配色： Blue/White/OrangeSKU： U2010376建議售價： 待定發售日期： 2026 年 10 月 31 日發售點： New BalanceThe Apartment 與 New Balance 官方宣布再次合作，推出 The Apartment x New Balance 2010 GORE-TEX「Kingfisher」，這是雙方闊別約兩年來的首個聯乘系列。正如 Mason Tiniuc 早前所報導，此企劃為復古跑鞋注入靈感源自翠鳥（Kingfisher）的鮮明色彩，連結了日本與 New York 共有的自然景觀。鞋款採用層次豐富的鞋面設計，以深藍色麂皮覆蓋層點綴鮮亮的藍綠色基底，並在鞋側穿插對比鮮明的白色拼貼。為應對惡劣天氣，鞋款內置 GORE-TEX 內裡以阻隔水分，提供季節性的防護，同時擺脫了傳統冬季沉悶的色調。在鞋底部分，這股色彩延伸至機能性結構上。深海軍藍的 ABZORB 緩震墊嵌入鞋底，提供衝擊吸收效能；而亮橙色的中足支撐片則增加了抗扭支撐，並點綴出一抹奪目的色彩。The Apartment x New Balance 2010 GORE-TEX「Kingfisher」將於 2026 年 10 月 31 日在 The Apartment 門市及指定零售商發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fthe-apartment-new-balance-2010-gore-tex-kingfisher-U2010376-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/the-apartment-new-balance-2010-gore-tex-kingfisher-u2010376-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "JJJJound 與 Danner 再次攜手推出 2026 秋冬聯乘 Mountain Light 鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-28",
+   "content": "摘要 Montréal 設計工作室 JJJJound 公布了將與傳統靴款品牌 Danner 推出 2026 秋冬鞋款聯乘系列今次合作重塑經典的 Mountain Light 鞋型，帶來低調的「Black」與「Charcoal」兩種配色兩款配色均配備耐磨的 Vibram 大底、銀色金屬鞋眼，以及鞋舌上的客製化 JJJJound 織標 JJJJound 與美國傳統製靴品牌 Danner 官方正式發布 2026 秋冬最新聯乘企劃，重新演繹經典的 Danner Mountain Light 靴款。最初作為堅固戶外登山靴而誕生的 Danner Mountain Light，一直以其耐用結構及適合越野的實用性而備受推崇。這款鞋款專為應對險峻地形而設，同時能無縫融入日常實用穿搭，其提供支撐的腳踝高度及俐落線條為人稱道。在 2026 秋冬別注系列中，這次聯乘在鞋面上提供了兩種對比鮮明的材質演繹。「Black」版本以黑色光滑皮革製成，而「Charcoal」版本則採用質感豐富的炭灰色麂皮，帶來更柔軟、極具質感的視覺效果。兩款配色均配備亮面銀色鞋帶孔金屬配件、同色系鞋帶以及專為戶外抓地力而設的耐用 Vibram 大底。最後，雙方在鞋舌位置飾有標誌性的「JJJJound」編織品牌標籤，為簡約設計語言畫上完美句號。JJJJound x Danner Mountain Light 聯乘系列預計將於 2026 秋冬季度正式發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fjjjjound-danner-fw26-mountain-light-boots-collaboration-launch-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/jjjjound-danner-fw26-mountain-light-boots-collaboration-launch",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 8,
    "title": "Salehe Bembury 品牌 SPUNGE 全新鞋款 Lumina 首發配色「Cenote」正式亮相",
    "source": "Hypebeast 中文",
    "date": "2026-10-28",
@@ -42,7 +125,145 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 9,
+   "title": "SOLDIER Reimagines the PUMA Suede Through Nigerian Heritage",
+   "source": "Hypebeast",
+   "date": "2026-10-28",
+   "content": "Summary London-based Nigerian artist SOLDIER reimagines the PUMA Suede with his signature camouflage motif and imagery drawn from his personal archive.Created to coincide with his recent New York solo exhibition, the sneaker will be released exclusively to friends and family. PUMA has teamed up with London-based Nigerian artist SOLDIER, also known as Leonard Iheagwam, to reinterpret its iconic Suede silhouette through a deeply personal exploration of cultural identity, memory and heritage.Created to coincide with the artist’s recent New York solo exhibition, Reveal Yourself, Softly, the limited-edition sneaker incorporates imagery drawn from SOLDIER’s personal archive alongside his signature camouflage motif. The design translates elements of his multidisciplinary practice into wearable form, bridging the worlds of contemporary art and streetwear.Born in Lagos, Nigeria, SOLDIER has devel",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F28%2Fsoldier-boyfriend-puma-suede-collaboration-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/soldier-boyfriend-puma-suede-collaboration",
+   "lang": "en",
+   "relatedBrands": [
+    "PUMA"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "The PUMA x NAHMIAS Suede Crochet Goes From Earthy to Electric",
+   "source": "Hypebeast",
+   "date": "2026-10-28",
+   "content": "Name: PUMA x NAHMIAS Suede CrochetMSRP: TBCRelease Date: November 5Where to Buy: NAHMIAS, PUMAPUMA and NAHMIAS build on their first Suede collaboration with three new colorways of the Suede Crochet, continuing the partnership’s mix of sport, craftsmanship and West Coast streetwear.Under the “Crafted Classics” banner, the trio gives PUMA’s familiar low-top three distinctly different personalities: one arrives in tonal chocolate brown suede with a lighter brown crochet Formstrip, another pairs a rich green suede upper with a bright yellow Formstrip, while the third goes bolder in electric blue with contrasting yellow accents.Across all three, chunky multicolored hand-crocheted laces amplify the handcrafted feel, complemented by premium suede, canvas accents and a co-branded PUMA x NAHMIAS tongue label. The crochet Formstrips add a raised, tactile texture against the smoother suede base, gi",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F28%2Fpuma-nahmias-suede-crochet-three-new-colorways-collaboration-release-info-1.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/puma-nahmias-suede-crochet-three-new-colorways-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "PUMA"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Official Look at Corteiz x Nike Shox R419 \"Game Royal\"",
+   "source": "Hypebeast",
+   "date": "2026-10-28",
+   "content": "Summary Corteiz and Nike are expanding their collaborative catalog with an overhauled take on the Shox R4 dubbed the Shox R419The Game Royal edition features a redesigned upper highlighted by raised horizontal ridges carbon fiber paneling and car-inspired accentsReleasing alongside Black and Metallic Silver iterations the pair is slated to drop for Holiday 2026 at a retail price of $190 USD Name: Corteiz x Nike Shox R419 \"Game Royal\"Colorway: Game Royal/University Red-BlackSKU: IQ9951-400MSRP: $190 USDRelease Date: Holiday 2026Where to Buy: NikeNike and Clint419's London-based streetwear label Corteiz have unveiled official imagery for their collaborative Corteiz x Nike Shox R419 \"Game Royal\". The project follows prior joint efforts on the Air Max 95 and Air Trainer Huarache, shifting the partnership's focus toward an automotive-inspired reinterpretation of the classic 2000s runner.While",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F28%2Fcorteiz-nike-shox-r419-game-royal-iq9951-400-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/corteiz-nike-shox-r419-game-royal-iq9951-400-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "First Look at Nike’s Ovolo 2.0 Sneaker-Heel Hybrid Revival",
+   "source": "Hypebeast",
+   "date": "2026-10-28",
+   "content": "Name: Nike Ovolo 2.0SKU: TBCRelease Date: Holiday 2026Nike is continuing its streak of reviving obscure, experimental designs from the mid-2000s with a first look at the highly unusual Nike Ovolo 2.0. Revealed by Nike via its latest SNKRS Verified product preview, the upcoming model re-engineers a seldom-seen sneaker heel originally introduced in 2004.Slated to arrive exclusively in women's sizing for the Holiday 2026 season, the Ovolo 2.0 will debut in two bold colorways: a sleek, monochromatic \"Black\" and a futuristic \"Metallic Silver.\" The Ovolo 2.0 functions as a striking hybrid, pulling heavy inspiration from the iconic Nike Shox R4. Its sleek leather upper retains much of the R4’s original DNA, most notably via the squared-off tongue and the small perforated section near the tip of the toe.However, Nike introduces key modern updates to the 2.0 — the lateral Swoosh branding is now s",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F28%2Fnike-ovolo-2-0-first-look-two-colorways-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-ovolo-2-0-first-look-two-colorways-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "The Apartment and New Balance Reunite on the 2010 GORE-TEX \"Kingfisher\"",
+   "source": "Hypebeast",
+   "date": "2026-10-28",
+   "content": "Summary okyo boutique The Apartment has teamed up with New Balance on a weatherized 2010 GORE-TEX silhouetteThe Kingfisher colorway draws inspiration from the bird found across both Japan and New YorkThe design pairs waterproof membrane protection with blue suede overlays and dark navy ABZORB cushioning Name: The Apartment x New Balance 2010 GORE-TEX “Kingfisher”Colorway: Blue/White/OrangeSKU: U2010376MSRP: TBDRelease Date: October 31, 2026Where to Buy: New BalanceThe Apartment and New Balance have officially reunited to present the The Apartment x New Balance 2010 GORE-TEX \"Kingfisher\", marking their first collaborative release in roughly two years. First reported by Mason Tiniuc, the project equips the retro runner with an expressive palette inspired by the kingfisher bird, linking the shared natural landscapes of Japan and New York.The shoe features a layered upper composed of rich bl",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F27%2Fthe-apartment-new-balance-2010-gore-tex-kingfisher-U2010376-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/the-apartment-new-balance-2010-gore-tex-kingfisher-u2010376-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "JJJJound and Danner Reunite for FW26 Mountain Light Collaboration",
+   "source": "Hypebeast",
+   "date": "2026-10-28",
+   "content": "Summary Montréal design studio JJJJound has revealed an upcoming Fall/Winter 2026 footwear collaboration with heritage bootmaker DannerThe project revisits the iconic Mountain Light silhouette in two understated Black and Charcoal colorwaysBoth iterations feature rugged Vibram tooling silver hardware eyelets and custom JJJJound woven tongue branding JJJJound and heritage American bootmaker Danner have officially unveiled their latest collaborative effort for Fall/Winter 2026, reworking the legendary Danner Mountain Light boot.Originally created as a rugged outdoor hiking boot, the Danner Mountain Light silhouette has long been revered for its durable construction and trail-ready utility. Engineered to withstand demanding terrain while transitioning seamlessly into utilitarian daily wardrobes, the model is celebrated for its supportive ankle height and clean lines.For the FW26 capsule, th",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F27%2Fjjjjound-danner-fw26-mountain-light-boots-collaboration-launch-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/jjjjound-danner-fw26-mountain-light-boots-collaboration-launch",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Salehe Bembury’s SPUNGE Unveils the Lumina in Debut \"Cenote\" Colorway",
+   "source": "Hypebeast",
+   "date": "2026-10-28",
+   "content": "Summary SPUNGE has officially introduced its second original footwear silhouette titled the Lumina debuting in an oceanic Cenote colorwayThe model arrives 15 percent lighter than the Osmosis featuring an ultra-breathable MONO-LITE monomesh upper and caged SQUISH TECH toolingSalehe Bembury's latest design drops October 29 on the brand's webstore following newsletter early access on October 28 SPUNGE has officially expanded its footwear roster with the launch of the SPUNGE Lumina \"Cenote\". Conceived by founder and creative visionary Salehe Bembury, the model represents the brand's latest evolution in functional footwear, offering a refined, lightweight build tailored for daily wear.Powered by SPUNGE’s proprietary SQUISH TECH cushioning system, the versatile silhouette incorporates a full-length caged foam footbed engineered for a stable, padded, and resilient ride underfoot. The design she",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F27%2Fsalehe-bembury-spunge-lumina-debut-cenote-colorway-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/salehe-bembury-spunge-lumina-debut-cenote-colorway-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 16,
+   "title": "Nike’s Angular Air Force 1 Is a Stylish Square",
+   "source": "Highsnobiety",
+   "date": "2026-10-28",
+   "content": "Nike's Air Force 1 SQT sneaker is a squared version of one of the best shoes to ever grace the court.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-sqt-sneaker-white/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Nike’s Air Jordan 1 Retro High Og Royal Makes Its Grand Return",
+   "source": "Highsnobiety",
+   "date": "2026-10-28",
+   "content": "Nike's ultra-classic Royal Air Jordan 1 sneaker doesn't need on-court bravado to score.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nikes-air-jordan-1-retro-high-og-royal-sneaker/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Human Made's Flagship is 2000s-Era BAPE Made Modern",
+   "source": "Highsnobiety",
+   "date": "2026-10-28",
+   "content": "The space-age retail experience from NIGO's A Bathing Ape shops in the 2000s has been upgraded for Human Made's massive new flagship in Harajuku.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/human-made-tokyo/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 19,
+   "title": "AURALEE and Tekla Made the Most Aspirational PJs Ever, Again",
+   "source": "Highsnobiety",
+   "date": "2026-10-28",
+   "content": "The coziest coupling in fashion is back with a range of luxe loungewear, including wool-cashmere knitwear, checked flannel pajamas, and shearling slippers.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/auralee-tekla-2026/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 20,
    "title": "率先近賞 PROTECT x Salomon ACS NEXT 最新聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -55,20 +276,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
-   "title": "New Balance KAWHI V 最新配色「Slate Grey」擁抱品牌經典",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-27",
-   "content": "摘要 New Balance 正式發表 KAWHI V，採用源自品牌傳統靈感的「Slate Grey」配色這款專業籃球鞋配備雙密度 FuelCell 中底泡沫，搭配提供穩定支撐的 Y 字形 TPU 板鞋款預計於 11 月 13 日公開發售，定價為 $160 美元 名稱：New Balance Kawhi V「Slate Grey」配色：Oxford BlueSKU：UKLS3QZ建議售價：$160 美元發售日期：2026 年 11 月 13 日購買點： New BalanceNew Balance 透過最新 New Balance KAWHI V「Slate Grey」，將其經典跑步傳統注入籃球場。是次發佈將該 Boston 品牌的標誌性灰色美學應用於 Kawhi Leonard 的最新簽名籃球鞋上。KAWHI V 於 2026 年全明星賽首度亮相，隨後在 10 月正式發售。如今，系列迎來低調的色彩演繹，呼應 Leonard 專注沉穩的球場風格，進一步擴大季度陣容。鞋款鞋面以「Slate Grey」為主調，並由點綴於側身及中底的白色與米白色作平衡。鞋款專為配合 Leonard 的攻守兼備打法而設計，鞋底具備技術性性能規格。足底支撐由專為衝擊保護與回彈反應設計的雙密度 FuelCell 中底驅動，配合內置的 Y 形 TPU 穩定片，加強切入和橫移時的抗扭剛性。New Balance KAWHI V「Slate Grey」預計將於 11 月 13 日發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnew-balance-kawhi-v-slate-grey-UKLS3QZ-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/new-balance-kawhi-v-slate-grey-ukls3qz-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 4,
+   "id": 21,
    "title": "SOSHIOTSUKI x ASICS 聯乘 SKYHAND OG 限量推出 50 雙",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -81,20 +289,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
-   "title": "New Balance 991v2 迎來秋季專屬「Iron/Mulch」配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-27",
-   "content": "摘要 New Balance 正式發布即將登場的 991v2 最新配色「Iron/Mulch」官方圖片鞋款隸屬於品牌專為秋冬造型打造的 Elevated Neutrals 系列該鞋款預計於 11 月 1 日正式登陸指定零售商，發售價格為 $250 美元 名稱： New Balance 991v2「Iron/Mulch」配色： Iron/MulchSKU： U991EY2建議零售價： $250 美元發售日期： 2026 年 11 月 1 日發售點： New BalanceNew Balance 為其季度陣容增添新成員 New Balance 991v2「Iron/Mulch」。該鞋款的官方照片已率先於 11 月初正式發布前曝光。全新 991v2 鞋款披上一襲層次豐富的大地色調，以「高級中性色」的設計理念呼應秋季風格。鞋面以同名「Iron」與「Mulch」配色營造出微妙的對比效果，並在前掌、鞋側及後跟處保留了該鞋款標誌性的多層次拼接設計。在保留第二代設計之結構升級的同時，此鞋款巧妙平衡了品牌的經典跑鞋基因與現代休閒魅力。雖然官方規格主要聚焦於其俐落的中性色調演繹，但這雙鞋展現的流線輪廓，無疑能完美融入各種秋季造型。New Balance 991v2「Iron/Mulch」將於 2026 年 11 月 1 日發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnew-balance-991v2-iron-mulch-U991EY2-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/new-balance-991v2-iron-mulch-u991ey2-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 6,
+   "id": 22,
    "title": "Nike LeBron 24 最新「Storm Drain」配色重現 LeBron James 經典小丑造型",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -107,7 +302,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 23,
    "title": "Melitta Baumeister x Nike Rift Rocker 最新綁帶分趾鞋款官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -120,72 +315,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
-   "title": "HAVEN 與 Timberland 攜手以同色調長絨麂皮重塑 Field Boot 鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-27",
-   "content": "名稱：HAVEN x Timberland Field Boot配色：BlackSKU：待定建議零售價：$230 美元發售日期：10 月 30 日發售點：HAVEN、HAVEN 實體店、Timberland 及指定 Timberland 門店HAVEN 與 Timberland 攜手為 Timberland Field Boot 帶來全新面貌，為這款經典登山靴換上單色長絨麂皮鞋面，靈感源自 Black Tusk 漆黑的火山岩坡。此次聯乘保留了 Field Boot 堅固耐用的本質，同時加入技術升級及更內斂的同色調外觀。鞋面設計是是次聯乘最引人注目的焦點。有別於許多 Field Boot 版本所採用的對比色拼接及混合材質，HAVEN 以單一色調的長絨麂皮包覆整個鞋筒，讓材質本身的絨面質感成為視覺亮點。拉絨紋理為靴款注入飽經風霜的層次感，直接呼應了 Black Tusk 的岩壁面貌；而單色設計則讓這款登山靴顯得更沉穩精緻，同時不失其功能性。規格配置亦與其設計理念相符。GORE-TEX 內裡提供防水保護，PrimaLoft 隔熱材質則為寒冷天氣增添保暖效果。加固鞋頭能防止刮擦及撞擊，而 Vibram 外底則為鞋款帶來持久耐穿的基礎。這些組件結合起來，令這雙鞋無論在泥濘的山道還是城市的行人路上都能應付自如。賦予這款靴獨特個性的是其設計背後的自然景觀。Black Tusk 是 Coast Mountains 中最具標誌性的山峰之一，這座崎嶇的火山岩柱從冰川山谷交織的地形中拔地而起，在遠處便清晰可見。當天氣變幻之際，高山草甸、冰川和蔚藍湖泊在漆黑岩石下映入眼簾，而長絨麂皮正是為了喚起柔和環境與堅硬岩石之間的強烈對比。為拍攝是次企劃，HAVEN 團隊親身前往 Black Tusk，在遼闊的觀景點及穿梭於破碎火山岩間的塵土飛揚小徑上拍攝這款靴。品牌表示，艱難的攀登過程與超現實的環境帶來了平靜與啟發的時刻，這也呼應了企劃背後的使命感。對於總部位於 Vancouver、距離該山峰僅幾小時車程的 HAVEN 而言，這無疑是最合適的背景。 Click here to view full gal",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FHAVEN-Timberland-Field-Boot-fall-winter-fw-2026-Collaboration-Release-Info-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/haven-timberland-field-boot-fall-winter-fw-2026-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "TIMBERLAND"
-   ]
-  },
-  {
-   "id": 9,
-   "title": "Bad Idea by CHITO 將 Wreckpack 的噴槍藝術風格融入 Vans Half Cab 33",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-27",
-   "content": "名稱： OTW by Vans x Bad Idea by Chito Half Cab 33配色： Chito SkullSKU： VN000Z7N701建議零售價： $150 美元發售日期： 10 月 29 日購買點： VansOTW by Vans 聯同 CHITO 的 Bad Idea 為 Half Cab 33 帶來色彩鮮明的重新演繹，將這款經典滑板鞋化為首爾藝術家 Wreckpack 的創作畫布。這款名為「Chito Skull」的單一配色運動鞋佈滿了 Wreckpack 標誌性的噴槍藝術圖案，色彩由鞋領周圍的柔和綠色漸變至前掌的沙色、鮮橙色及紅色。密集的黑色線條如手繪紋身或塗鴉般橫越鞋面，而紫色與黑色圖案則環繞護條，營造額外的對比效果。黑色鞋帶與金屬配件中和了較明亮的色彩，專屬鞋舌與 Half Cab 標誌則為這雙刻意呈現出未經修飾、手工質感的外觀畫上句號。在印滿圖案的鞋面之下，Half Cab 33 在材質上亦作出了升級，提升耐用度與舒適感；同時配備富承托力的加厚鞋領及 Sola Foam ADC All-Day Comfort 鞋墊，帶來更柔軟的足底緩震效果。這款運動鞋是 Bad Idea 以藝術家為主導的廣泛策略的一部分：CHITO 邀請 Wreckpack 合作設計鞋履，而洛杉磯藝術家 Liter 則將此系列延伸至服裝，包括印花 T 恤和水洗黑色衛衣，並綴以同色系三角形貼花與手工縫製的 X 裝飾細節。 View this post on Instagram Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fotw-by-vans-bad-idea-by-chito-half-cab-33-wreckpack-artwork-vn000z7n701-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/bad-idea-by-chito-brings-wreckpacks-airbrush-style-to-the-vans-half-cab-33",
-   "lang": "zh",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 10,
-   "title": "Satisfy 攜手 adidas 推出定價 $600 美元之 Adizero Adios Pro Evo 2",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-27",
-   "content": "摘要 Satisfy Running 與 adidas 攜手合作，打造頂級 Adizero Adios Pro Evo 2 競速跑鞋這款輪廓專為嚴肅長跑運動員研發，採用超輕量結構，旨在提供純粹的速度與效率這款限量競速跑鞋定價為 $600 美元，將於 10 月 30 日透過 adidas 推出 鞋款名稱：Satisfy x adidas Adios Pro Evo 2配色：銀色產品編號：KH6636建議零售價：$600 美元發售日期：2026 年 10 月 30 日發售點：adidasadidas 與 Satisfy Running 官方宣布推出聯乘鞋款 Satisfy x adidas Adizero Adios Pro Evo 2，將這家獨立品牌的獨特設計視角融入 Three Stripes 的頂級公路賽車鞋款中。該鞋款定價高達 $600 美元，成為零售市場上最昂貴的性能跑鞋之一。Satisfy 的核心聲譽建立在其高端跑步服飾上，這些服飾結合了技術性能與前衛的時尚觸覺，贏得了眾多嚴肅長跑運動員的忠實擁躉。在這次最新的合作中，品牌將其專注的設計理念應用於專為追求馬拉松獎牌的競技運動員而設的精英賽車平台。Adios Pro Evo 2 遠離日常休閒穿著或輕鬆慢跑的範疇，透過專門的超輕量結構，將純粹的速度與跑步效率放在首位。這款運動鞋高達 $600 美元的定價，使其穩居頂尖跑步科技與高級運動鞋收藏的交匯點，既迎合了在公路上揮灑汗水的跑者，也滿足了尋求現代跑步文化罕見珍品的愛好者。Satisfy x adidas Adizero Adios Pro Evo 2 預計於 2026 年 10 月 30 日透過 adidas 發售，定價為 $600 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fsatisfy-adidas-adios-pro-evo-600-usd-KH6636-release-info2-silver-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/satisfy-adidas-adios-pro-evo-600-usd-kh6636-release-info2-silver",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 11,
-   "title": "New Balance 2010 最新抗候 GORE-TEX「Black/Field Green」配色登場",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-27",
-   "content": "摘要 New Balance 為這款 2010 年的跑步鞋推出了全天候版本，採用防水 GORE-TEX 面料打造隱蔽的配色融合了深灰色網眼與皮革覆層、黑色反光「N」標誌以及細緻的 Field Green 點綴這款具備實用風格的鞋款現已於 New Balance 官方網站發售，售價為 $175 美元 名稱：New Balance 2010 GORE-TEX「Black/Field Green」配色：Black/Field Green產品編號：U20105IS建議售價：$175 美元發售日期：現已發售購買渠道：New Balance隨着 New Balance 2010 GORE-TEX「Black/Field Green」的推出，New Balance 進一步擴展其季度實用鞋款系列。這個 Boston 品牌為此生活風格鞋履注入專為嚴冬氣候而設的高科技防水物料。鞋款以涵蓋多種深灰色調的低調色彩呈現，將抗寒功能與層次豐富的生活風格設計結合。鞋面以網眼材質為基礎，配搭同色系皮革內層及耐磨皮革外層，有效提升對抗惡劣天氣的耐用性。品牌標誌性的「N」字圖案採用黑色設計，並帶有高能見度的反光效果；側面的 GORE-TEX 標籤則突顯了鞋款的抗候防護層。雖然整體以灰階色調為主，但鞋面巧妙地融入「Field Green」細節，為暗色系設計增添亮點。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnew-balance-2010-gore-tex-black-field-green-U20105IS-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/new-balance-2010-gore-tex-black-field-green-u20105is-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 12,
-   "title": "Nike Air Force 1 Low GORE-TEX 最新「Thunder Blue」配色為冬季作好準備",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-27",
-   "content": "摘要 Nike 揭曉最新 Air Force 1 Low GORE-TEX，迎來應季的「Thunder Blue」配色主打實用機能的鞋身採用全包覆皮革鞋面，鞋頭透氣孔改為封閉設計，並配備彈道尼龍網眼鞋舌堅固耐用的 Vibram 大底配合「Speed Yellow」品牌標誌細節，圓滿呈獻這款具備全天候性能的低頂鞋款設計 名稱： Nike Air Force 1 Low GORE-TEX「Thunder Blue」配色： Thunder Blue/Off-Noir/Speed Yellow/Black型號： HV5953-400建議零售價： $150 美元發售日期： 2026 年秋季購買點： NikeNike 透過 Nike Air Force 1 Low GORE-TEX「Thunder Blue」為其最具標誌性的籃球鞋款注入抗潮效能。此鞋款為品牌 2026 年秋冬系列引入了專業的防風雨技術與堅固的戶外配置。全新設計以濃郁的「Thunder Blue」色調包覆，將經典皮革鞋面轉化為全面封閉的抗水屏障。為了防止水分滲透，鞋頭傳統的透氣孔被替換為凹陷的圓點設計。鞋舌採用耐用的彈道網布製成，搭配帶有紋理的縫線繩索鞋帶，進一步提升了鞋款宛如靴子的外觀。鞋底同樣迎來性能升級，加入了注重抓地力的 Vibram 橡膠外底，並在中央胎面以一抹「Racer Blue」點綴。對比鮮明的「Speed Yellow」細節突顯了 GORE-TEX 聯乘刺繡與 Vibram 標誌，使整體的機能感更為完整。Nike Air Force 1 Low GORE-TEX「Thunder Blue」將於近期發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-air-force-1-low-gore-tex-thunder-blue-hv5953-400-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/nike-air-force-1-low-gore-tex-thunder-blue-hv5953-400-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 13,
+   "id": 24,
    "title": "Take a First Look at PROTECT and Salomon’s Sugar-Rush ACS NEXT Sneaker",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -198,7 +328,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 25,
    "title": "New Balance KAWHI V Embraces Brand Heritage in \"Slate Grey\"",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -211,7 +341,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 26,
    "title": "The SOSHIOTSUKI x ASICS SKYHAND OG Is Limited to Just 50 Pairs",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -224,7 +354,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 27,
    "title": "New Balance 991v2 Prepares for Fall in \"Iron/Mulch\"",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -237,121 +367,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
-   "title": "Nike LeBron 24 \"Storm Drain\" Brings LeBron James' Pennywise Costume to Life",
-   "source": "Hypebeast",
-   "date": "2026-10-27",
-   "content": "Summary Nike has unveiled the LeBron 24 in a Halloween-themed Storm Drain colorway inspired by LeBron James' 2017 Pennywise costumeThe upper pairs varying shades of dark grey with a tonal graphic print of James in his viral horror makeupContrasting hits of red adorn the laces Swooshes and crown logos in reference to the cinematic character Name: Nike LeBron 24 \"Storm Drain\"Colorway: Red/Dark-GreySKU: IX5103-001MSRP: $200 USDRelease Date: October 30, 2026Where to Buy: NikeNike channels a seasonal horror aesthetic with the LeBron 24 \"Storm Drain\", drawing direct inspiration from LeBron James’ viral 2017 Halloween costume. The release translates the four-time champion’s famous Pennywise transformation onto his latest signature silhouette.Dressed in varying tones of dark grey, the sneaker incorporates a faded graphic of James in full makeup printed across the upper. Because the photographic ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F26%2Fnike-lebron-24-storm-drain-first-look-IX5103-001-release-date-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nike-lebron-24-storm-drain-first-look-ix5103-001-release-date",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "Official Images Reveal the Melitta Baumeister x Nike Rift Rocker’s Laced-Up Split Toe",
-   "source": "Hypebeast",
-   "date": "2026-10-27",
-   "content": "Name: Melitta Baumeister x Nike Rift Rocker “Black,” Melitta Baumeister x Nike Rift Rocker “Yukon Brown”Colorway: Black/White, Yukon Brown/Light Iron Ore-BlackSKU: IQ8101-001, IR3982-200MSRP: TBCRelease Date: Holiday 2026Official images have surfaced of the Melitta Baumeister x Nike Rift Rocker, a heavily reworked take on the Air Rift that holds onto the model’s signature split toe and changes nearly everything around it. Designed in women’s sizing, the pair arrives in two colorways, a distressed black leather version and a Yukon Brown iteration, each built on a dramatically curved sole unit.The biggest change up top is the closure. Where the Air Rift typically leaves the forefoot open, Baumeister’s version adds a full tongue and traditional lacing, giving the split-toe shape a more enclosed, sneaker-like fit. The original model’s layered build still shows through, and straps continue to",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F27%2FMelitta-Baumeister-Nike-Rift-Rocker-IQ8101-001-IR3982-200-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/melitta-baumeister-nike-rift-rocker-iq8101-001-ir3982-200-official-images",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "Bad Idea by CHITO Brings Wreckpack’s Airbrush Style to the Vans Half Cab 33",
-   "source": "Hypebeast",
-   "date": "2026-10-27",
-   "content": "Name: OTW by Vans x Bad Idea by Chito Half Cab 33Colorway: Chito SkullSKU: VN000Z7N701MSRP: $150 USDRelease Date: October 29Where to Buy: VansOTW by Vans links with Bad Idea by CHITO for a vivid reinterpretation of the Half Cab 33, turning the skate icon into a canvas for Seoul-based artist Wreckpack.Offered in a single “Chito Skull” colorway, the sneaker is covered in Wreckpack’s distinctive airbrushed artwork, with the palette moving from muted green around the collar into sandy ochre, vivid orange and red across the forefoot. Dense black linework runs across the upper like hand-drawn tattoo or graffiti markings, while purple-and-black graphics wrap the foxing for an additional hit of contrast.Black laces and hardware temper the brighter colors, with custom tongue and Half Cab branding completing the deliberately raw, hand-worked appearance. Beneath the graphic-emblazoned upper, the Ha",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F27%2Fotw-by-vans-bad-idea-by-chito-half-cab-33-wreckpack-artwork-vn000z7n701-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/bad-idea-by-chito-brings-wreckpacks-airbrush-style-to-the-vans-half-cab-33",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "Satisfy and adidas Team up on the $600 USD Adizero Adios Pro Evo 2",
-   "source": "Hypebeast",
-   "date": "2026-10-27",
-   "content": "Summary Satisfy Running and adidas have partnered on the elite Adizero Adios Pro Evo 2 racing shoeEngineered strictly for serious distance athletes the silhouette features an ultralight construction built for pure speed and efficiencyCarrying a $600 USD retail price the limited racing sneaker launches October 30 via adidas Name: Satisfy x adidas Adios Pro Evo 2Colorway: SilverSKU: KH6636MSRP: $600 USDRelease Date: October 30, 2026Where to Buy: adidasadidas and Satisfy Running have officially unveiled the collaborative Satisfy x adidas Adizero Adios Pro Evo 2, bringing the independent label's distinct design perspective to the Three Stripes' pinnacle road-racing silhouette. The model commands a $600 USD price tag, positioning it among the most expensive performance shoes on the retail market.Satisfy has built its core reputation around high-end running apparel that unites technical perfor",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F26%2Fsatisfy-adidas-adios-pro-evo-600-usd-KH6636-release-info2-silver-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/satisfy-adidas-adios-pro-evo-600-usd-kh6636-release-info2-silver",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "New Balance 2010 Arrives in Weather-Ready GORE-TEX \"Black/Field Green\"",
-   "source": "Hypebeast",
-   "date": "2026-10-27",
-   "content": "Summary New Balance has released a weatherproof edition of the 2010 runner utilizing water-resistant GORE-TEX constructionThe stealthy colorway combines dark grey mesh with leather overlays reflective black N logos and subtle Field Green touchesThe utilitarian silhouette is available now via the official New Balance webstore for $175 USD Name: New Balance 2010 GORE-TEX \"Black/Field Green\"Colorway: Black/Field GreenSKU: U20105ISMSRP: $175 USDRelease Date: Available NowWhere to Buy: New BalanceNew Balance expands its seasonal utilitarian catalog with the launch of the New Balance 2010 GORE-TEX \"Black/Field Green.\" The Boston label outfits the lifestyle offering with technical waterproof materials engineered for harsh winter conditions.Dressed in a stealthy palette spanning varying shades of dark grey, the silhouette pairs cold-weather function with a layered lifestyle build. The upper is c",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F26%2Fnew-balance-2010-gore-tex-black-field-green-U20105IS-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/new-balance-2010-gore-tex-black-field-green-u20105is-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "Exploring Modern Urban Silhouettes: The New DOE x Crocs Collaboration",
-   "source": "Hypebeast",
-   "date": "2026-10-27",
-   "content": "Renowned global innovative casual footwear brand and clog pioneer Crocs has teamed up with Shanghai street culture brand DOE to launch a new collaborative footwear collection for Fall 2026. The collection interprets urban romance with a minimalist and restrained design language, blending city vibes and contemporary aesthetics into an avant-garde silhouette to present a uniquely opinionated everyday street aesthetic.As a homegrown original brand rooted in Shanghai, DOE has always openly integrated Shanghai-style charm with diverse cultures. This collaboration uses DOE's core brand philosophy, 'BE FORMLESS,' as a starting point, merging it with Crocs' brand spirit of continuously exploring innovative design. Through a poetic visual language, it presents the modern urban silhouette of DOE's hometown—Shanghai.The DOE x Crocs Echo Clog II features a low-saturation off-white base with a dynami",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F7W8A0501-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/doe-x-crocs",
-   "lang": "en",
-   "relatedBrands": [
-    "CROCS"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "Nike Air Force 1 Low GORE-TEX Prepares for Winter in \"Thunder Blue\"",
-   "source": "Hypebeast",
-   "date": "2026-10-27",
-   "content": "Summary Nike has revealed the Air Force 1 Low GORE-TEX in a seasonal Thunder Blue colorwayThe utilitarian build features an enclosed leather upper with closed dimples on the toe box and a ballistic mesh tongueRugged Vibram outsoles and Speed Yellow branding accents finish the weatherized low-top design Name: Nike Air Force 1 Low GORE-TEX \"Thunder Blue\"Colorway: Thunder Blue/Off-Noir/Speed Yellow/BlackSKU: HV5953-400MSRP: $150 USDRelease Date: Fall 2026Where to Buy: NikeNike equips its most iconic court silhouette for wet conditions with the Nike Air Force 1 Low GORE-TEX \"Thunder Blue\". The model introduces technical weatherproofing and rugged outdoor tooling to the brand’s Fall/Winter 2026 catalog.Dressed in a rich \"Thunder Blue\" hue, the updated design transforms the classic leather upper into a fully enclosed, water-resistant barrier. To prevent moisture from entering, the traditional ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F26%2Fnike-air-force-1-low-gore-tex-thunder-blue-hv5953-400-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nike-air-force-1-low-gore-tex-thunder-blue-hv5953-400-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "Human Made's Flagship is 2000s-Era BAPE Made Modern",
-   "source": "Highsnobiety",
-   "date": "2026-10-27",
-   "content": "The space-age retail experience from NIGO's A Bathing Ape shops in the 2000s has been upgraded for Human Made's massive new flagship in Harajuku.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/human-made-tokyo/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 25,
-   "title": "AURALEE and Tekla Made the Most Aspirational PJs Ever, Again",
-   "source": "Highsnobiety",
-   "date": "2026-10-27",
-   "content": "The coziest coupling in fashion is back with a range of luxe loungewear, including wool-cashmere knitwear, checked flannel pajamas, and shearling slippers.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/auralee-tekla-2026/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 26,
+   "id": 28,
    "title": "Model's Own: The Louis Vuitton Talent Whisperer Whose Bag Probably Weighs 10 Kilos",
    "source": "Highsnobiety",
    "date": "2026-10-27",
@@ -365,60 +381,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
-   "title": "Nike’s Oceanic Air Force 1 Sneaker Blue It in a Good Way",
-   "source": "Highsnobiety",
-   "date": "2026-10-27",
-   "content": "Nike's Glossy Air Force 1 sneaker is a bright blue take on one of the Swoosh's best low top sneakers ever.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-deep-royal-blue-air-force-1-07-lv-8-sneaker/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "MM6’s Crossbred Salomon Sneaker Trades the Trail for the Derby",
-   "source": "Highsnobiety",
-   "date": "2026-10-27",
-   "content": "MM6's Salomon Crossderby sneaker is a hybrid mix fit to take over the trails & the horse tracks.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/mm6-salomon-crossderby-sneaker-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "SALOMON"
-   ]
-  },
-  {
    "id": 29,
-   "title": "Nike’s Take on a Hiking Boot Has City Slicker Written All Over It",
-   "source": "Highsnobiety",
-   "date": "2026-10-27",
-   "content": "Nike’s Lahar Low brings hiking-inspired style to the city with a chunky silhouette, rugged details, and an all-black finish that screams winter boot.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-lahar-low-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Up Close With Frank Ocean’s Fave New Prada Sneaker",
-   "source": "Highsnobiety",
-   "date": "2026-10-27",
-   "content": "Frank Ocean was just spotted wearing the new Prada America’s Cup sneaker. His proof-of-life Story post is also a PSA for the updated shoe silhouette.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/prada-frank-ocean-sneaker-new/",
-   "lang": "en",
-   "relatedBrands": [
-    "PRADA"
-   ]
-  },
-  {
-   "id": 31,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -431,7 +394,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 30,
    "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -444,7 +407,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 31,
    "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -457,7 +420,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 32,
    "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -470,7 +433,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 33,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
@@ -484,7 +447,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 34,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -497,7 +460,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 35,
    "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -511,7 +474,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 36,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -524,7 +487,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 37,
    "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -537,7 +500,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 38,
    "title": "Nike Air Force 1 Low “Halloween Black Rat”",
    "source": "Nice Kicks",
    "date": "2026-10-22",
