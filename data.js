@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-27 21:50",
+ "updatedAt": "2026-10-28 11:21",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -19,10 +19,10 @@ window.SNEAKER_DATA = {
   "ASICS",
   "CROCS",
   "JORDAN",
+  "LOUIS VUITTON",
   "NEW BALANCE",
   "NIKE",
   "PRADA",
-  "PUMA",
   "SALOMON",
   "TIMBERLAND",
   "UGG",
@@ -32,6 +32,17 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Salehe Bembury 品牌 SPUNGE 全新鞋款 Lumina 首發配色「Cenote」正式亮相",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-28",
+   "content": "摘要 SPUNGE 正式發表旗下第二款原創鞋型 Lumina，並以海洋風格的「Cenote」配色率先登場該鞋款比 Osmosis 輕 15%，採用極致透氣的 MONO-LITE 單絲網布鞋面與籠狀 SQUISH TECH 中底結構Salehe Bembury 的最新設計將於 10 月 28 日率先開放電子報訂閱者優先購買，隨後於 10 月 29 日在品牌官方網站正式發售 SPUNGE 正式擴展其鞋履陣容，推出全新鞋款 SPUNGE Lumina「Cenote」。此鞋款由創辦人兼創意總監 Salehe Bembury 構思，象徵著品牌機能鞋履的最新演變，提供專為日常穿著度身訂製的精緻輕量結構。這款百搭鞋型搭載 SPUNGE 專利的 SQUISH TECH 緩震系統，結合全掌網底泡棉鞋床，提供穩定、緩震且具彈性的腳感。設計減重 70 克，比品牌首款 Osmosis 鞋型輕盈 15%，鞋面採用耐用且極輕量的 SPUNGE MONO-LITE 網眼布製成。交疊的裁片精心配置於鞋身上，透過半透明層次營造出多維度的深度。雖然展現出全新輪廓，這款尺碼標準的鞋型依然保留了 SPUNGE 設計語言的標誌性特徵，包括鞋舌上的 5D 觸覺感應區，以及腳趾間極具辨識度的分隔線。「我們確保即使推出了完全新鮮的設計，設計線條和標誌性細節依然能讓人感受到品牌的傳承。」Bembury 表示。「這主要受到研究的啟發，然後試圖引入一些新的想法和思維。」回顧鮮豔的「Cenote」配色時，Bembury 補充道：「我認為業界是根據數據和研究來選擇顏色，而我是根據直覺。顏色的並列可能會讓觀眾感到舒適或恐懼，而這種差異其實只存在於幾個色調的微小差別之中。」SPUNGE Lumina「Cenote」男裝提供 US4.5 至 US14 尺碼，定價為 $160 美元。電子報訂閱者將於美西時間 10 月 28 日上午 9 時（美東時間中午 12 時）獲得優先購買權，隨後將於美西時間 10 月 29 日上午 9 時（美東時間中午 12 時）透過 SPUNGE 官方網站 獨家公開發售。 Click here to view ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fsalehe-bembury-spunge-lumina-debut-cenote-colorway-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/salehe-bembury-spunge-lumina-debut-cenote-colorway-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 2,
    "title": "率先近賞 PROTECT x Salomon ACS NEXT 最新聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -44,7 +55,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 3,
    "title": "New Balance KAWHI V 最新配色「Slate Grey」擁抱品牌經典",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -57,7 +68,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 4,
    "title": "SOSHIOTSUKI x ASICS 聯乘 SKYHAND OG 限量推出 50 雙",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -70,7 +81,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 5,
    "title": "New Balance 991v2 迎來秋季專屬「Iron/Mulch」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -83,7 +94,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 6,
    "title": "Nike LeBron 24 最新「Storm Drain」配色重現 LeBron James 經典小丑造型",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -96,7 +107,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 7,
    "title": "Melitta Baumeister x Nike Rift Rocker 最新綁帶分趾鞋款官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -109,7 +120,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 8,
    "title": "HAVEN 與 Timberland 攜手以同色調長絨麂皮重塑 Field Boot 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -122,7 +133,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 9,
    "title": "Bad Idea by CHITO 將 Wreckpack 的噴槍藝術風格融入 Vans Half Cab 33",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -135,7 +146,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 10,
    "title": "Satisfy 攜手 adidas 推出定價 $600 美元之 Adizero Adios Pro Evo 2",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -148,7 +159,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 11,
    "title": "New Balance 2010 最新抗候 GORE-TEX「Black/Field Green」配色登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -161,7 +172,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 12,
    "title": "Nike Air Force 1 Low GORE-TEX 最新「Thunder Blue」配色為冬季作好準備",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -174,7 +185,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 13,
    "title": "Take a First Look at PROTECT and Salomon’s Sugar-Rush ACS NEXT Sneaker",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -187,7 +198,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 14,
    "title": "New Balance KAWHI V Embraces Brand Heritage in \"Slate Grey\"",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -200,7 +211,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 15,
    "title": "The SOSHIOTSUKI x ASICS SKYHAND OG Is Limited to Just 50 Pairs",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -213,7 +224,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 16,
    "title": "New Balance 991v2 Prepares for Fall in \"Iron/Mulch\"",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -226,7 +237,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 17,
    "title": "Nike LeBron 24 \"Storm Drain\" Brings LeBron James' Pennywise Costume to Life",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -239,7 +250,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 18,
    "title": "Official Images Reveal the Melitta Baumeister x Nike Rift Rocker’s Laced-Up Split Toe",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -252,7 +263,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 19,
    "title": "Bad Idea by CHITO Brings Wreckpack’s Airbrush Style to the Vans Half Cab 33",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -265,7 +276,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 20,
    "title": "Satisfy and adidas Team up on the $600 USD Adizero Adios Pro Evo 2",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -278,7 +289,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 21,
    "title": "New Balance 2010 Arrives in Weather-Ready GORE-TEX \"Black/Field Green\"",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -291,7 +302,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 22,
    "title": "Exploring Modern Urban Silhouettes: The New DOE x Crocs Collaboration",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -304,7 +315,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 23,
    "title": "Nike Air Force 1 Low GORE-TEX Prepares for Winter in \"Thunder Blue\"",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -318,7 +329,43 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 24,
+   "title": "Human Made's Flagship is 2000s-Era BAPE Made Modern",
+   "source": "Highsnobiety",
+   "date": "2026-10-27",
+   "content": "The space-age retail experience from NIGO's A Bathing Ape shops in the 2000s has been upgraded for Human Made's massive new flagship in Harajuku.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/human-made-tokyo/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 25,
+   "title": "AURALEE and Tekla Made the Most Aspirational PJs Ever, Again",
+   "source": "Highsnobiety",
+   "date": "2026-10-27",
+   "content": "The coziest coupling in fashion is back with a range of luxe loungewear, including wool-cashmere knitwear, checked flannel pajamas, and shearling slippers.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/auralee-tekla-2026/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 26,
+   "title": "Model's Own: The Louis Vuitton Talent Whisperer Whose Bag Probably Weighs 10 Kilos",
+   "source": "Highsnobiety",
+   "date": "2026-10-27",
+   "content": "The Louis Vuitton talent whisperer shares your airport outfit formula, beauty grails, and her favorite line of cool-girl basics.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/ira-tassouli-models-own/",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS",
+    "LOUIS VUITTON"
+   ]
+  },
+  {
+   "id": 27,
    "title": "Nike’s Oceanic Air Force 1 Sneaker Blue It in a Good Way",
    "source": "Highsnobiety",
    "date": "2026-10-27",
@@ -331,7 +378,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 28,
    "title": "MM6’s Crossbred Salomon Sneaker Trades the Trail for the Derby",
    "source": "Highsnobiety",
    "date": "2026-10-27",
@@ -344,7 +391,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 29,
    "title": "Nike’s Take on a Hiking Boot Has City Slicker Written All Over It",
    "source": "Highsnobiety",
    "date": "2026-10-27",
@@ -358,7 +405,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 30,
    "title": "Up Close With Frank Ocean’s Fave New Prada Sneaker",
    "source": "Highsnobiety",
    "date": "2026-10-27",
@@ -371,100 +418,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
-   "title": "A Slim adidas Sneaker’s Ballerina Era Finally Comes to Fruition",
-   "source": "Highsnobiety",
-   "date": "2026-10-27",
-   "content": "Fruition debuts an adidas Tokyo Ballerina collaboration for FW26, resulting in a super-luxe ballet sneaker.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-tokyo-ballerina-fruition/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "Nike’s Dadcore Sneaker Wears Good Workwear \"Jeans\"",
-   "source": "Highsnobiety",
-   "date": "2026-10-27",
-   "content": "Nike's Cordura P-6000 sneaker returns in a nice denim-coded \"Thunder Blue\" colorway for its latest release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-p-6000-cordura-thunder-blue/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "Nike's Spiffy Forces Are All Squared Away",
-   "source": "Highsnobiety",
-   "date": "2026-10-27",
-   "content": "Nike officially debuts the square-toe Air Force 1 Low sneaker, which lands in classic colorways & premium details.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-force-1-square-toe/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Nike's Slick Foamposite Dad Sneaker Is Outdoor-Ready",
-   "source": "Highsnobiety",
-   "date": "2026-10-27",
-   "content": "Nike's Air Max Goadome Low Foamposite sneaker-boot lands in the classic \"Metallic Gold\" colorway for its debut release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-foamposite/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
    "id": 31,
-   "title": "Vans’ Waterproof Skate Shoe Makes Winter Survival Look Good",
-   "source": "Highsnobiety",
-   "date": "2026-10-27",
-   "content": "Vans drops a winterized Half Cab, featuring GORE-TEX waterproofing, warm insulation, & plenty of street swag.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-half-cab-gore-tex-insulated-shoes/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "From adidas to New Balance, the Seven Best Sneakers to Cop This Week",
-   "source": "Highsnobiety",
-   "date": "2026-10-27",
-   "content": "From fashion's' favorite adidas runner to your grandad's beloved PUMA... Speedcats?! The cream of the sneaker crop awaits... So, whatcha waiting for?",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/sneaker-releases-2026-october-week-5/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "NEW BALANCE",
-    "PUMA"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "PUMA 為 CELL GEO 1 注入大地色系「Galactic Dust/Loden」全新設計",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-26",
-   "content": "鞋款名稱： PUMA CELL GEO 1「Galactic Dust/Loden」配色： Galactic Dust/Loden產品編號： 405336-08建議零售價： 25,300 日圓（約 161 美元）發售日期： 11 月 1 日發售點： PUMAPUMA 透過最新推出的 CELL GEO 1，繼續將其經典的 CELL 科技推向更具雕塑感的領域，並帶來單一款「Galactic Dust/Loden」配色。這雙厚底跑鞋糅合灰啡色、灰褐色與苔蘚橄欖綠等柔和色調，為其科技感結構注入鮮明的大地色氣息。鞋面結合紡織物料與多層次皮革面板，在平滑表面與立體紋理之間交替，藉此強調鞋款誇張的幾何輪廓。較深色的「Loden」細節點綴於覆蓋層與品牌標誌之中，而同色系鞋帶則保持整體色調一致，避免產生突兀的對比。CELL GEO 1 的視覺重心主要落在鞋跟處，顯眼的立體脊狀結構賦予鞋款猶如建築般的輪廓，同時包覆著 PUMA 的 CELL 緩震科技。厚實的後跟結構與較為流線的前掌設計形成平衡，而分段式橡膠外底與多層次鞋側則強化了其源自 90 年代末的跑步 DNA。CELL 最初作為 PUMA 當時最具代表性的緩震系統之一，如今透過更具現代感、偏向時尚風格的輪廓重新演繹，將質感與形態置於與性能傳承同等重要的位置。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fpuma-cell-geo-1-galactic-dust-loden-405336-08-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/puma-cell-geo-1-galactic-dust-loden-405336-08-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "PUMA"
-   ]
-  },
-  {
-   "id": 34,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -477,7 +431,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 32,
    "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -490,7 +444,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 33,
    "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -503,7 +457,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 34,
    "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -516,7 +470,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 35,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
@@ -530,7 +484,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 36,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -543,7 +497,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 37,
    "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -557,7 +511,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 41,
+   "id": 38,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -570,7 +524,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 42,
+   "id": 39,
    "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -583,7 +537,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 43,
+   "id": 40,
    "title": "Nike Air Force 1 Low “Halloween Black Rat”",
    "source": "Nice Kicks",
    "date": "2026-10-22",
