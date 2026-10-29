@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28 22:44",
+ "updatedAt": "2026-10-29 11:44",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,7 +17,6 @@
  "brands": [
   "ASICS",
   "JORDAN",
-  "LOUIS VUITTON",
   "NEW BALANCE",
   "NIKE",
   "PUMA",
@@ -215,6 +214,19 @@
   },
   {
    "id": 16,
+   "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-28",
+   "content": "The Air Jordan 3 “Fireside” (Style Code: CK9246-200) drops in a chocolate like borwn color with other hues of brown as accents. The Fireside… The post Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/ck9246-200-5-1-e1789833654816.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 17,
    "title": "Nike’s Angular Air Force 1 Is a Stylish Square",
    "source": "Highsnobiety",
    "date": "2026-10-28",
@@ -227,7 +239,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 18,
    "title": "Nike’s Air Jordan 1 Retro High Og Royal Makes Its Grand Return",
    "source": "Highsnobiety",
    "date": "2026-10-28",
@@ -241,29 +253,7 @@
    ]
   },
   {
-   "id": 18,
-   "title": "Human Made's Flagship is 2000s-Era BAPE Made Modern",
-   "source": "Highsnobiety",
-   "date": "2026-10-28",
-   "content": "The space-age retail experience from NIGO's A Bathing Ape shops in the 2000s has been upgraded for Human Made's massive new flagship in Harajuku.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/human-made-tokyo/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
    "id": 19,
-   "title": "AURALEE and Tekla Made the Most Aspirational PJs Ever, Again",
-   "source": "Highsnobiety",
-   "date": "2026-10-28",
-   "content": "The coziest coupling in fashion is back with a range of luxe loungewear, including wool-cashmere knitwear, checked flannel pajamas, and shearling slippers.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/auralee-tekla-2026/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 20,
    "title": "率先近賞 PROTECT x Salomon ACS NEXT 最新聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -276,7 +266,7 @@
    ]
   },
   {
-   "id": 21,
+   "id": 20,
    "title": "SOSHIOTSUKI x ASICS 聯乘 SKYHAND OG 限量推出 50 雙",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -289,7 +279,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 21,
    "title": "Nike LeBron 24 最新「Storm Drain」配色重現 LeBron James 經典小丑造型",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -302,7 +292,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 22,
    "title": "Melitta Baumeister x Nike Rift Rocker 最新綁帶分趾鞋款官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-10-27",
@@ -315,7 +305,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 23,
    "title": "Take a First Look at PROTECT and Salomon’s Sugar-Rush ACS NEXT Sneaker",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -328,7 +318,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 24,
    "title": "New Balance KAWHI V Embraces Brand Heritage in \"Slate Grey\"",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -341,7 +331,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 25,
    "title": "The SOSHIOTSUKI x ASICS SKYHAND OG Is Limited to Just 50 Pairs",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -354,7 +344,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 26,
    "title": "New Balance 991v2 Prepares for Fall in \"Iron/Mulch\"",
    "source": "Hypebeast",
    "date": "2026-10-27",
@@ -367,21 +357,7 @@
    ]
   },
   {
-   "id": 28,
-   "title": "Model's Own: The Louis Vuitton Talent Whisperer Whose Bag Probably Weighs 10 Kilos",
-   "source": "Highsnobiety",
-   "date": "2026-10-27",
-   "content": "The Louis Vuitton talent whisperer shares your airport outfit formula, beauty grails, and her favorite line of cool-girl basics.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/ira-tassouli-models-own/",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS",
-    "LOUIS VUITTON"
-   ]
-  },
-  {
-   "id": 29,
+   "id": 27,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -394,7 +370,7 @@
    ]
   },
   {
-   "id": 30,
+   "id": 28,
    "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -407,20 +383,7 @@
    ]
   },
   {
-   "id": 31,
-   "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-26",
-   "content": "The Air Jordan 3 “Fireside” (Style Code: CK9246-200) drops in a chocolate like borwn color with other hues of brown as accents. The Fireside… The post Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/ck9246-200-5-1-e1789833654816.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 32,
+   "id": 29,
    "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -433,7 +396,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 30,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
@@ -447,7 +410,7 @@
    ]
   },
   {
-   "id": 34,
+   "id": 31,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -460,7 +423,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 32,
    "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -474,7 +437,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 33,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -487,7 +450,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 34,
    "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -500,7 +463,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 35,
    "title": "Nike Air Force 1 Low “Halloween Black Rat”",
    "source": "Nice Kicks",
    "date": "2026-10-22",
