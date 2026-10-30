@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-29 22:51",
+ "updatedAt": "2026-10-30 11:47",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -29,6 +29,45 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Bad Bunny 與 adidas 攜手發布 Badbo 1.0 最新「Grey Three」配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-30",
+   "content": "摘要 Bad Bunny 與 adidas 正式揭曉 Badbo 1.0 全新「Grey Three」配色，作為即將於 11 月登場的系列之一鞋款結合「Grey Three」麂皮覆層與「Orbit Grey」皮革，並綴以標誌性的藍色鞋帶頭該鞋款預計於 11 月 7 日登陸 adidas.com 及指定零售商發售，售價為 $160 美元 鞋款名稱： Bad Bunny x adidas BadBo 1.1「Simple Brown」配色： Grey Three/Cloud White-Orbit Grey商品編號： LC5290定價： $160 美元發布日期： 2026 年 11 月 7 日發售地點： adidasadidas 與 Bad Bunny 即將推出 Bad Bunny x adidas Badbo 1.0「Grey Three」，進一步擴展雙方的聯乘版圖。據 Mason Tiniuc 率先報導，此鞋款將與低筒版本 Badbo 1.1 共同組成 11 月的雙鞋款套裝，延續這位波多黎各藝術家對低調中性色系的喜愛。這對運動鞋以同色系質感對比為特色，在優質的「Orbit Grey」皮革基底上鋪疊層次豐富的「Grey Three」麂皮覆面。相比起採用大膽的撞色設計，相近的色調讓光滑皮革底層與毛絨麂皮面板之間的觸感變化成為焦點所在。在鞋底部分，純淨的「Cloud White」中底營造出明亮清爽的收尾，提升了鞋款整體的視覺立體感。標誌性的聯乘細節巧妙地融入結構之中，其中最引人注目的，是印有「BB」標誌的對比色藍色鞋帶頭，在灰色鞋帶系統的襯托下格外醒目。鞋舌保留了標誌性的鋸齒狀縫線，這已成為 Badbo 1.0 鞋型的獨有特徵。其低調的展現方式，與 Bad Bunny 首個服飾系列及過往聯乘作品的美學語言一脈相承。Bad Bunny x adidas Badbo 1.0「Grey Three」預計於 2026 年 11 月 7 日正式登場，屆時將透過 adidas 官方網站及指定零售商發售，定價為 $160 美元。敬請設定提醒，並密切留意 Hypebeast Drops 掌握",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fbad-bunny-adidas-badbo-1-0-grey-three-LC5290-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/bad-bunny-adidas-badbo-1-0-grey-three-lc5290-first-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "UNION 聯乘 Nike Dunk Low「Natural Selection」系列迎來三款配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-30",
+   "content": "鞋款：UNION x Nike Dunk Low「Natural Selection」建議售價：$130 美元發售日期：10 月 30 日購買點：UNIONUNION 與 Nike 再次攜手帶來「Natural Selection」企劃，推出三款 Dunk Low 系列，將這雙熟悉的籃球鞋款褪去繁複設計，轉化為更柔軟、寬鬆且具備高適應性的鞋款。此系列包含「Hide」、「Fatigue」與「Eclipse」，皆採用無內裡麂皮打造，捨棄常見的內部加固層，呈現更為隨性自在的無結構輪廓。其中「Hide」採用溫暖的 Palomino 啡色，麂皮表面刻有微妙的豹紋圖案，營造出同色系的動物紋效果，展現出最具張力的風格。「Fatigue」則轉換為大地色系的 Bamboo 與橄欖綠色調；而「Eclipse」則以近乎黑色的 Off Noir 和炭灰色調保持沉穩。這三款鞋作的麂皮皆向下延伸至中底，鞋眼與鞋舌周圍的粗身對比色縫線，更增添了明顯的手工質感。此外，少量的 University Gold 點綴、UNION 聯乘標誌以及訂製的鞋帶配件，為原本低調的配色帶來明亮的對比焦點。此系列最大的亮點在於後跟設計，用家可將其摺下，將每一對 Dunk 從傳統的綁帶波鞋轉變為懶人鞋，賦予鞋款一鞋兩穿的結構，完美呼應其「適應」的設計主題。 View this post on InstagramA post shared by Union Los Angeles (@unionlosangeles) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-dunk-low-union-natural-selection-collaboration-capsule-collection-fatigue-if7380-200-eclipse-if7380-001-hide-ix2929-200-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-dunk-low-union-natural-selection-collaboration-capsule-collection-fatigue-if7380-200-eclipse-if7380-001-hide-ix2929-200-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "UNION and Nike’s Dunk Low “Natural Selection” Collection Arrives in Three Adaptable Colorways",
+   "source": "Hypebeast",
+   "date": "2026-10-30",
+   "content": "Name: UNION x Nike Dunk Low \"Natural Selection\"MSRP: $130 USDRelease Date: October 30Where to Buy: UNIONUNION and Nike reconnect for “Natural Selection,” a three-part Dunk Low collection that strips the familiar basketball silhouette back into something softer, looser and more adaptable. The pack comprises “Hide,” “Fatigue” and “Eclipse,” each built from unlined suede without the usual internal reinforcement for a more relaxed, unstructured shape. “Hide” takes the most expressive route in warm Palomino brown, with a subtle leopard-like pattern etched across the suede for a tonal animal-print effect. “Fatigue” shifts into earthy Bamboo and olive hues, while “Eclipse” keeps things darker in near-black Off Noir and charcoal tones. Across all three, the suede extends unusually far down toward the midsole, while thick contrast stitching around the eyestays and tongue adds a visibly handmade q",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2Fnike-dunk-low-union-natural-selection-collaboration-capsule-collection-fatigue-if7380-200-eclipse-if7380-001-hide-ix2929-200-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-dunk-low-union-natural-selection-collaboration-capsule-collection-fatigue-if7380-200-eclipse-if7380-001-hide-ix2929-200-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
    "title": "Wales Bonner 以鱷魚壓紋皮革、麂皮及馬毛重塑 adidas 經典鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -41,7 +80,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 5,
    "title": "消息指 Travis Scott、CPFM 與 Nike 將於 2027 年春季推出聯乘 Flea 1",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -54,7 +93,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 6,
    "title": "Onitsuka Tiger 為 Mexico 66「Paraty」注入毛絨新面貌",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -65,7 +104,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 4,
+   "id": 7,
    "title": "Kobe Bryant 比賽著用雙簽名 Air Jordan 8 Lakers PE 即將登上拍賣場",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -78,7 +117,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 8,
    "title": "Kith 與 Timberland 攜手推出 2026 冬季三款聯乘靴子系列",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -91,7 +130,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 9,
    "title": "Dr. Martens 以《The Exorcist》為靈感重塑三款經典鞋型",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -102,7 +141,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 7,
+   "id": 10,
    "title": "Nike 復刻 1989 年復古鞋款 Lahar Low 並於日本發售",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -115,7 +154,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 11,
    "title": "HOKA 推出 KAHA 2 FROST MOC GTX，如羽絨外套般的保暖鞋履",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -128,7 +167,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 12,
    "title": "Kiko Kostadinov x ASICS Tabi 系列迎來終章，全新 ILARGI FF Boot「Obsidian Black」正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -141,7 +180,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 13,
    "title": "New Balance 發佈 991v2 最新「Turbulence/India Ink」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -154,7 +193,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 14,
    "title": "Wales Bonner Reworks adidas Classics in Croc Leather, Suede and Pony Hair",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -167,7 +206,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 15,
    "title": "Travis Scott, CPFM, and Nike Are Rumored to Release the Flea 1 in Spring 2027",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -181,7 +220,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 16,
    "title": "Onitsuka Tiger Gives the “Paraty” Mexico 66 a Furry Makeover",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -192,7 +231,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 14,
+   "id": 17,
    "title": "Kobe Bryant's Game-Worn, Dual-Signed Air Jordan 8 Lakers PE Hits the Auction Block",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -205,7 +244,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 18,
    "title": "Kith and Timberland Deliver Three-Boot Footwear Collection for Winter 2026",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -219,7 +258,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 19,
    "title": "Dr. Martens Channels ‘The Exorcist’ Across Three Iconic Silhouettes",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -230,7 +269,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 17,
+   "id": 20,
    "title": "Nike Revives Its 1989-Inspired Lahar Low for Japan",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -243,7 +282,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 21,
    "title": "HOKA’s KAHA 2 FROST MOC GTX Puts a Puffer on Your Feet",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -257,7 +296,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 22,
    "title": "Kiko Kostadinov x ASICS Seal Their Tabi Saga With the ILARGI FF Boot “Obsidian Black”",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -270,7 +309,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 23,
    "title": "New Balance Delivers the 991v2 in \"Turbulence/India Ink\"",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -283,7 +322,70 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 24,
+   "title": "Our Legacy on What's Coming With Nike: \"It's Gonna Look Slow but Feel Fast.\"",
+   "source": "Highsnobiety",
+   "date": "2026-10-29",
+   "content": "Our Legacy cofounder Jockum Hallin talks working with Nike on the eve of OL Work Shop Sport's Nike-powered Procell pop-up packed with killer vintage.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/our-legacy-nike-procell/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Only 50 Pairs of Feet Will Ever Wear These Perfect Asics",
+   "source": "Highsnobiety",
+   "date": "2026-10-29",
+   "content": "The Asics x Soshiotsuki Skyhand OG takes a familiar silhouette and freaks it up with details like Chromexcel leather custom-shaped by Japanese artisans.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/asics-soshiotsuki/",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "adidas’ Chocolate Samba Is a Rather Good Seasonal Indulgence",
+   "source": "Highsnobiety",
+   "date": "2026-10-29",
+   "content": "adidas’ chocolate brown Samba pairs pale blue Three Stripes with an exaggerated fold-over tongue for a winter-ready twist on the familiar sneaker.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-samba-lt-aurora-coffee/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 27,
+   "title": "adidas Is Making Comfortable Dressing Look Considerably Cooler",
+   "source": "Highsnobiety",
+   "date": "2026-10-29",
+   "content": "From track jackets to comfortable pants, these Adidas picks prove you don’t have to sacrifice style to stay comfortable this winter.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-adilenium-collection/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 28,
+   "title": "Japanese Artist Mariko Mori Predicted Our AI Future",
+   "source": "Highsnobiety",
+   "date": "2026-10-29",
+   "content": "Iconic Japanese artist Mariko Mori reflects on her uncanny ability to predict the future as she prepares for his first major museum show in Tokyo in 24 years.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/mariko-mori/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 29,
    "title": "Nike’s Oldest Sneaker Thrives in the Gray Area",
    "source": "Highsnobiety",
    "date": "2026-10-29",
@@ -296,33 +398,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
-   "title": "SOLDIER 注入尼日利亞文化底蘊重新演繹 PUMA Suede",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-28",
-   "content": "摘要 現居 London 的尼日利亞藝術家 SOLDIER 以其標誌性迷彩圖案及源自個人檔案庫的圖像，重新構想 PUMA Suede 鞋款。為配合他最近於 New York 舉辦的個人展覽而打造，此運動鞋將僅限量分發予親友（Friends and Family）。 PUMA 攜手駐倫敦尼日利亞藝術家 SOLDIER（本名 Leonard Iheagwam），透過對文化認同、記憶與傳統底蘊的深刻個人探索，重新演繹其標誌性 Suede 鞋款。為了配合藝術家近期於紐約舉辦的個人展覽 《Reveal Yourself, Softly》，這款限量版運動鞋特別結合了 SOLDIER 個人珍藏的影像與其標誌性迷彩圖案。設計將其跨領域創作元素轉化為可穿戴的單品，完美連繫當代藝術與街頭服飾的世界。出生於尼日利亞拉各斯的 SOLDIER，孕育出植根於個人歷史、軍事圖像與現成影像的獨特視覺語言。他的作品經常探討身份認同、集體記憶與殖民歷史的深遠影響，將大眾熟悉的符號轉化為層次豐富的構圖，挑戰其原有含義。是次聯乘企劃進一步突顯非洲創意社群日益增長的全球影響力，將 PUMA Suede 化作訴說文化故事與表達藝術理念的畫布。PUMA x SOLDIER Suede 僅作親友限定版本，目前尚未有公開發售的計劃。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fsoldier-boyfriend-puma-suede-collaboration-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/soldier-boyfriend-puma-suede-collaboration",
-   "lang": "zh",
-   "relatedBrands": [
-    "PUMA"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "PUMA x NAHMIAS Suede Crochet 聯乘鞋款推三款全新配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-28",
-   "content": "名稱：PUMA x NAHMIAS Suede Crochet建議售價：待定發售日期： 11 月 5 日發售點：NAHMIAS、PUMAPUMA 與 NAHMIAS 繼首度合作後再下一城，為 Suede Crochet 推出三款全新配色，延續雙方將運動、工藝與西岸街頭文化結合的設計理念。在「Crafted Classics」的主題下，這三款設計為 PUMA 經典低筒鞋款注入三種截然不同的個性：一款採用同色系朱古力啡色麂皮，配搭淺啡色鉤織 Formstrip；另一款則以濃郁綠色麂皮鞋身配搭亮黃色 Formstrip；第三款則大膽選用電光藍色，飾以對比鮮明的黃色點綴。三款鞋均配備粗身彩色手工鉤織鞋帶，強化了手工質感，並輔以優質麂皮、帆布細節及聯乘 PUMA x NAHMIAS 鞋舌標籤。鉤織 Formstrip 在平滑的麂皮鞋身上增添了立體的觸感，為這款經典鞋型注入更柔和且更具工藝感的細節，同時保留其極具辨識度的輪廓。內襯印有「Let’s Be Friends」字樣，延續了鞋款的細節設計，而額外附送的鉤織鞋帶則讓這款色彩豐富的設計可進一步度身訂製。滑板與籃球元素依然是系列的基礎，但 NAHMIAS 將這些運動元素融入其輕鬆的加州美學中，將 Suede 轉化為一款強調質感與工藝的日常百搭之選。是次發布還伴隨著以品牌虛構的 Cornballs 麥片為靈感的多城市宣傳活動，充滿驚喜的麥片盒內藏收藏品、球鞋兌換券以及價值 $1,000 美元的 NAHMIAS.com 購物金幸運券。設定好你的提醒，並在 Hypebeast Drops 上搶先掌握最新發售資訊。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fpuma-nahmias-suede-crochet-three-new-colorways-collaboration-release-info-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/puma-nahmias-suede-crochet-three-new-colorways-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "PUMA"
-   ]
-  },
-  {
-   "id": 24,
+   "id": 30,
    "title": "SOLDIER Reimagines the PUMA Suede Through Nigerian Heritage",
    "source": "Hypebeast",
    "date": "2026-10-28",
@@ -335,20 +411,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
-   "title": "The PUMA x NAHMIAS Suede Crochet Goes From Earthy to Electric",
-   "source": "Hypebeast",
-   "date": "2026-10-28",
-   "content": "Name: PUMA x NAHMIAS Suede CrochetMSRP: TBCRelease Date: November 5Where to Buy: NAHMIAS, PUMAPUMA and NAHMIAS build on their first Suede collaboration with three new colorways of the Suede Crochet, continuing the partnership’s mix of sport, craftsmanship and West Coast streetwear.Under the “Crafted Classics” banner, the trio gives PUMA’s familiar low-top three distinctly different personalities: one arrives in tonal chocolate brown suede with a lighter brown crochet Formstrip, another pairs a rich green suede upper with a bright yellow Formstrip, while the third goes bolder in electric blue with contrasting yellow accents.Across all three, chunky multicolored hand-crocheted laces amplify the handcrafted feel, complemented by premium suede, canvas accents and a co-branded PUMA x NAHMIAS tongue label. The crochet Formstrips add a raised, tactile texture against the smoother suede base, gi",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F28%2Fpuma-nahmias-suede-crochet-three-new-colorways-collaboration-release-info-1.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/puma-nahmias-suede-crochet-three-new-colorways-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "PUMA"
-   ]
-  },
-  {
-   "id": 26,
+   "id": 31,
    "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-28",
@@ -361,7 +424,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 32,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -374,7 +437,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 33,
    "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -387,7 +450,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 34,
    "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -400,7 +463,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 35,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
@@ -414,7 +477,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 36,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -427,7 +490,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 37,
    "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -441,7 +504,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 38,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -454,7 +517,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 39,
    "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -467,7 +530,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 40,
    "title": "Nike Air Force 1 Low “Halloween Black Rat”",
    "source": "Nice Kicks",
    "date": "2026-10-22",
