@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30 11:47",
+ "updatedAt": "2026-10-30 22:43",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,11 +17,9 @@
  "brands": [
   "ADIDAS",
   "ASICS",
-  "HOKA",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
-  "PUMA",
   "TIMBERLAND",
   "UGG"
  ],
@@ -29,6 +27,58 @@
  "news": [
   {
    "id": 1,
+   "title": "曾亮相 COMME des GARÇONS HOMME 巴黎時裝展的 New Balance 1890A 迎來發售日期",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-30",
+   "content": "名稱： COMME des GARÇONS HOMME x New Balance 1890A「Black」、COMME des GARÇONS HOMME x New Balance 1890A「Beige」配色： Black/Charcoal、Beige/Orange型號： 待定建議售價： 待定發售日期： 11 月 6 日購買連結： COMME des GARÇONS繼今年 1 月於巴黎男裝週首度亮相後，COMME des GARÇONS HOMME 與 New Balance 攜手打造的 1890A 聯乘鞋款終於迎來正式發售。是次合作以 New Balance 1890 為基礎，該鞋款保留了品牌核心設計語言，同時嘗試加入外露的科技元素，並經過更精緻的處理，以契合 COMME des GARÇONS HOMME 的剪裁美學。相較於 1890 的原有版型，鞋面的 U 型拼接（apron upper）是最大的改動，從而改變了鞋款的整體風格。此設計以簡潔的單一裁片包裹前掌，呼應經典的莫卡辛（moc-toe）風格，不僅柔化了原版跑鞋較為繁複的視覺語言，更為其賦予更俐落的輪廓。最終呈現出的這款運動鞋，既能完美配搭 COMME des GARÇONS HOMME 偏向工裝風格的服飾，亦能輕鬆應付長時間的步行需求。底部的舒適度則交由 New Balance 負責。ABZORB 中底負責吸收衝擊力，而鞋跟則加入了額外結構，確保每步踏出時腳部的穩定性。這些元素結合起來，使 1890A 更偏向日常百搭性，而非僅限於其基礎鞋款的純科技焦點。設定提醒，緊貼 Hypebeast Drops 掌握最新發售情報。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FCOMME-des-GARCONS-HOMME-New-Balance-1890A-Black-Charcoal-Beige-Orange-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/comme-des-garcons-homme-new-balance-1890a-black-charcoal-beige-orange-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Nike 為杜克大學女子籃球隊推出 Caitlin 1「Duke」PE 專屬配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-30",
+   "content": "摘要 Nike 為 Duke University 女子籃球隊打造了獨佔球員專屬版本的 Caitlin 1鞋款結合黑色 OptiCast 鞋面、Duke 藍色圖案與俐落的白色品牌細節此鞋款專為球隊設計，將不會作公開發售 Nike 打造了 Nike Caitlin 1「Duke」PE，為 Duke University 女子籃球隊提供 Caitlin Clark 首款簽名鞋履的定製球員專屬版本。儘管 Clark 在 Iowa 大學的職業生涯中曾與該球隊交手，這款特別版依然為 Blue Devils 誕生。這款實戰鞋型主要採用黑色鞋面，並運用 Nike 的 OptiCast 材質，整合了以標誌性杜克藍點綴的「2」與「C」定製圖案。黑色延伸至鞋舌、鞋帶及立體中底，營造出俐落統一的背景。亮白色細節形成鮮明的視覺對比，勾勒出外側 Swoosh 標誌、鞋舌上的 Blue Devils 標誌性「D」圖案，以及內側中足穩定片上的 Clark「CC」標誌。這款定製運動鞋進一步擴展了 Duke 日漸壯大的專屬場上鞋履陣容，最近還包括一雙以藍、白、黑呈現並綴地球隊標誌的 Sabrina 4 PE，以及過去一年來 Nike 簽名籃球系列所提供的多款球員專屬型號。Nike Caitlin 1「Duke」PE 將不會公開發售，僅限 Duke 女子籃球隊專屬。 View this post on Instagram A post shared by Duke Women's Basketball (@dukewbb) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-caitlin-1-pe-duke-university-womens-basketball-blue-devils-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-caitlin-1-pe-duke-university-womens-basketball-blue-devils-revealed",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Nike Air Max Plus 最新鞋款致敬 Glasgow 著名交通錐",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-30",
+   "content": "摘要 Nike 設計了一款以蘇格蘭為主題的波鞋，名為 Air Max Plus Glasgow「Black」與「Safety Orange」配色向 Glasgow 的 Rave 派對文化，以及 Duke of Wellington 雕像上著名的雪糕筒致敬標誌性細節包括繡有 Glasgow 字樣，以及鞋跟 Tuned Air 氣墊旁寫上的「Mad Wae It」字樣 名稱：Nike Air Max Plus「Glasgow」配色：黑色/亮橙色SKU：IX7920-001建議零售價：待定發售日期：2026 年秋季發售點：NikeNike 透過 Air Max Plus「Glasgow」向蘇格蘭夜生活與城市民間傳說致敬。此鞋款融合了對當地電子音樂社群的致意，以及位於 Royal Exchange Square 現代藝術美術館外 Duke of Wellington 雕像頭頂上標誌性交通錐的設計靈感。運動鞋採用引人注目的黑色與亮橙色配搭，透氣網眼鞋面覆蓋著該型號標誌性的放射狀結構。充滿活力的橙色漸變貫穿鞋面，呼應了 Glasgow 夜晚俱樂部文化的耀眼光芒，以及城市歷史悠久的騎馬雕像上那頂高能見度的交通錐。鞋款的技術細節延續了地域文化的敘事。鞋舌中央飾有刺繡的「Glasgow」字樣，背面則縫有橙色交通錐刺繡圖案。右腳鞋舌徽章突顯另一個交通錐圖形，而後跟處則展現了當地的蘇格蘭俚語，將「Mad Wae It」字樣直接印在鞋跟的 Tuned Air 緩震氣墊上。Nike Air Max Plus「Glasgow」預計將透過 Nike 英國官方網站發售，全球發售時間與價格則有待確認。設定好你的提醒，在 Hypebeast Drops 搶先掌握最新發售資訊。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-air-max-plus-glasgow-ix7920-001-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-air-max-plus-glasgow-ix7920-001-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Bad Bunny 全新 adidas BadBo Stone Slides 拖鞋猶如岩石雕刻",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-30",
+   "content": "名稱：adidas BadBo Stone Slides「Blue」、adidas BadBo Stone Slides「Yellow」配色：有待確認SKU：LB7191、LB7194建議售價：$70 美元發售日期：2027 年 6 月據報 Bad Bunny 的 adidas BadBo Stone Slides 將於 2027 年夏季發售，成為這位歌手專屬系列的首款拖鞋。早期曝光的照片顯示，這款拖鞋備有「Blue」及「Yellow」兩款配色，兩者的鞋面均呈現出猶如鑿刻岩石般的紋理效果。岩石紋理是這款拖鞋的標誌性設計元素，並非僅作點綴，而是貫穿整個鞋面。表面深淺不一的色調突顯了凹凸不平的紋理，近看更帶有一種久經風霜的手工雕刻質感。這種類似浮雕的效果正是鞋款命名的由來，為原本簡單的輪廓增添了豐富的視覺層次。兩款配色的色彩區塊都減至最少，讓紋理成為設計焦點。「Blue」版本偏向清涼、如水洗般的色調；「Yellow」版本則以更為搶眼、如陽光般明亮的色彩呈現同樣的雕刻表面。由於鞋面沒有對比色的飾面或裁片，這種雕刻紋理從鞋頭至鞋踭呈現出連貫一體的視覺效果。這款拖鞋標誌著 Bad Bunny 與 adidas 合作進入了一個有趣的新階段。他早期與品牌的合作主要是在 Campus 和 Gazelle 等經典鞋款，以及 F50 Ghost Sprint 上融入個人風格。隨後推出的 BadBo 1.0 及 1.1 將雙方的合作推向了原創專屬鞋款的領域，而這款拖鞋則進一步將該系列拓展至更休閒的日常穿搭風格。設定提醒，緊貼 Hypebeast Drops 掌握最新發售情報。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fadidas-BadBo-Stone-Slides-Blue-Yellow-LB7191-LB7194-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/adidas-badbo-stone-slides-blue-yellow-lb7191-lb7194-official-images",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 5,
    "title": "Bad Bunny 與 adidas 攜手發布 Badbo 1.0 最新「Grey Three」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -41,7 +91,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 6,
    "title": "UNION 聯乘 Nike Dunk Low「Natural Selection」系列迎來三款配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -54,7 +104,83 @@
    ]
   },
   {
-   "id": 3,
+   "id": 7,
+   "title": "ACRONYM and ALIVEFORM Launch THE BLADE in New \"SILVER FANG\" Colorway",
+   "source": "Hypebeast",
+   "date": "2026-10-30",
+   "content": "ACRONYM has teamed up once again with 3D-printed footwear brand ALIVEFORM to release a new \"SILVER FANG\" colorway of THE BLADE. The shoe will launch exclusively at GRAFT.PD's Pudong space in Shanghai as part of a special project for the brand's Open House event this November.Inspired by Tsui Hark's 1995 martial arts film *The Blade*, the shoe's design merges ACRONYM's signature techwear aesthetic with ALIVEFORM's 3D-printing technology to create a highly sculptural silhouette. The shoe features a barefoot construction to prioritize natural foot movement and flexibility, while an open mesh design extending across the upper and sole improves breathability. Cushioning, support, and flexibility are integrated directly into the 3D-printed structure, eliminating the need for traditional stitching or glue.This new \"SILVER FANG\" colorway further enriches the visual language of THE BLADE and will",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2Facronym-aliveform-the-blade-obsidian-nickel-release-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/acronym-aliveform-the-blade-silver-fang-release",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 8,
+   "title": "The New Balance 1890A That Walked COMME des GARÇONS HOMME’s Paris Runway Has a Release Date",
+   "source": "Hypebeast",
+   "date": "2026-10-30",
+   "content": "Name: COMME des GARÇONS HOMME x New Balance 1890A “Black,” COMME des GARÇONS HOMME x New Balance 1890A “Beige”Colorway: Black/Charcoal, Beige/OrangeSKU: TBCMSRP: TBCRelease Date: November 6Where to Buy: COMME des GARÇONSCOMME des GARÇONS HOMME and New Balance are bringing the 1890A collaboration to retail following its debut at Paris Men’s Fashion Week earlier this January. The collaboration starts from New Balance’s 1890, a model that keeps the brand’s core design language while experimenting with exposed technical elements, and gives it a more polished treatment suited to COMME des GARÇONS HOMME’s tailored sensibility.The apron upper is the biggest change to the 1890 template, and it shifts the shoe’s overall character. The construction wraps the forefoot in a single, clean section that echoes classic moc-toe styling, taming the busier visual language of the original runner and giving ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F30%2FCOMME-des-GARCONS-HOMME-New-Balance-1890A-Black-Charcoal-Beige-Orange-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/comme-des-garcons-homme-new-balance-1890a-black-charcoal-beige-orange-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Nike Unveils the Caitlin 1 \"Duke\" PE for Blue Devils Women's Basketball",
+   "source": "Hypebeast",
+   "date": "2026-10-30",
+   "content": "Summary Nike has created an exclusive player edition of the Caitlin 1 for the Duke University women's basketball teamThe silhouette combines a black OptiCast upper with Duke blue graphics and crisp white branding detailsDesigned specifically for the team the pair will not see a public retail release Nike has crafted the Nike Caitlin 1 \"Duke\" PE, outfitting the Duke University women’s basketball team with a custom player-exclusive rendition of Caitlin Clark's debut signature silhouette. The special makeup arrives for the Blue Devils despite Clark having previously competed against the program during her collegiate career at Iowa.The performance model is constructed with a predominantly black upper utilizing Nike’s OptiCast material, which integrates custom \"2\" and \"C\" graphics finished in signature Duke blue. Black extends across the tongue, laces, and sculpted midsole to provide a clean,",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2Fnike-caitlin-1-pe-duke-university-womens-basketball-blue-devils-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-caitlin-1-pe-duke-university-womens-basketball-blue-devils-revealed",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Nike References Glasgow's Famous Traffic Cone on the Air Max Plus",
+   "source": "Hypebeast",
+   "date": "2026-10-30",
+   "content": "Summary Nike has designed a Scottish-themed sneaker titled the Air Max Plus GlasgowThe Black and Safety Orange colorway honors Glasgow rave culture and the famous traffic cone on the Duke of Wellington statueSignature details include embroidered Glasgow lettering alongside Mad Wae It text on the heel Tuned Air units Name: Nike Air Max Plus \"Glasgow\"Colorway: Black/Safety OrangeSKU: IX7920-001MSRP: TBDRelease Date: Fall 2026Where to Buy: NikeNike pays homage to Scottish nightlife and civic folklore with the Air Max Plus \"Glasgow\". The silhouette merges nods to the city's electronic music community and the iconic traffic cone perched atop the Duke of Wellington statue outside the Gallery of Modern Art in Royal Exchange Square.Dressed in a striking \"Black\" and \"Safety Orange\" palette, the sneaker incorporates a breathable mesh base set beneath the model's signature radiating cage overlays. ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F28%2Fnike-air-max-plus-glasgow-ix7920-001-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-air-max-plus-glasgow-ix7920-001-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Bad Bunny’s adidas BadBo Stone Slides Look Carved Straight From Rock",
+   "source": "Hypebeast",
+   "date": "2026-10-30",
+   "content": "Name: adidas BadBo Stone Slides “Blue,” adidas BadBo Stone Slides “Yellow”Colorway: TBCSKU: LB7191, LB7194MSRP: $70 USDRelease Date: June 2027Bad Bunny’s adidas BadBo Stone Slides are reportedly set for a Summer 2027 release, giving the artist’s signature line its first slip-on. Early images show the slide in “Blue” and “Yellow,” both defined by a textured upper engineered to resemble chiseled stone.The stone effect is the defining design element, and it runs across the entire upper rather than appearing as an accent. Slight variations in shade across the surface pick out the ridges and grooves, giving the slide a weathered, hand-cut appearance up close. That relief is what gives the model its name, and it turns a typically plain silhouette into something with real visual depth.Color blocking is kept to a minimum on both pairs, a choice that lets the texture stay front and center. The “B",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F30%2Fadidas-BadBo-Stone-Slides-Blue-Yellow-LB7191-LB7194-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/adidas-badbo-stone-slides-blue-yellow-lb7191-lb7194-official-images",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Bad Bunny and adidas Present the Badbo 1.0 in \"Grey Three\"",
+   "source": "Hypebeast",
+   "date": "2026-10-30",
+   "content": "Summary Bad Bunny and adidas have unveiled the Badbo 1.0 in a Grey Three colorway as part of an upcoming November packThe silhouette combines Grey Three suede overlays with Orbit Grey leather and signature blue lace tipsThe pair is scheduled to drop on November 7 via adidas.com and select retailers for $160 USD Name: Bad Bunny x adidas BadBo 1.1 \"Simple Brown\"Colorway: Grey Three/Cloud White-Orbit GreySKU: LC5290MSRP: $160 USDRelease Date: November 7, 2026Where to Buy: adidasadidas and Bad Bunny are expanding their collaborative footprint with the upcoming release of the Bad Bunny x adidas Badbo 1.0 \"Grey Three\". First reported by Mason Tiniuc, the silhouette forms one half of a two-piece November pack alongside the low-top Badbo 1.1, continuing the Puerto Rican artist’s affinity for muted, neutral color palettes.The sneaker is defined by its tonal textural contrast, layering rich \"Grey ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2Fbad-bunny-adidas-badbo-1-0-grey-three-LC5290-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/bad-bunny-adidas-badbo-1-0-grey-three-lc5290-first-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 13,
    "title": "UNION and Nike’s Dunk Low “Natural Selection” Collection Arrives in Three Adaptable Colorways",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -67,7 +193,33 @@
    ]
   },
   {
-   "id": 4,
+   "id": 14,
+   "title": "Only 50 Pairs of Feet Will Ever Wear These Perfect Asics",
+   "source": "Highsnobiety",
+   "date": "2026-10-30",
+   "content": "The Asics x Soshiotsuki Skyhand OG takes a familiar silhouette and freaks it up with details like Chromexcel leather custom-shaped by Japanese artisans.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/asics-soshiotsuki/",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "adidas’ Chocolate Samba Is a Rather Good Seasonal Indulgence",
+   "source": "Highsnobiety",
+   "date": "2026-10-30",
+   "content": "adidas’ chocolate brown Samba pairs pale blue Three Stripes with an exaggerated fold-over tongue for a winter-ready twist on the familiar sneaker.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-samba-lt-aurora-coffee/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 16,
    "title": "Wales Bonner 以鱷魚壓紋皮革、麂皮及馬毛重塑 adidas 經典鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -80,7 +232,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 17,
    "title": "消息指 Travis Scott、CPFM 與 Nike 將於 2027 年春季推出聯乘 Flea 1",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -93,7 +245,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 18,
    "title": "Onitsuka Tiger 為 Mexico 66「Paraty」注入毛絨新面貌",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -104,7 +256,7 @@
    "relatedBrands": []
   },
   {
-   "id": 7,
+   "id": 19,
    "title": "Kobe Bryant 比賽著用雙簽名 Air Jordan 8 Lakers PE 即將登上拍賣場",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -117,7 +269,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 20,
    "title": "Kith 與 Timberland 攜手推出 2026 冬季三款聯乘靴子系列",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -130,7 +282,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 21,
    "title": "Dr. Martens 以《The Exorcist》為靈感重塑三款經典鞋型",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -141,59 +293,7 @@
    "relatedBrands": []
   },
   {
-   "id": 10,
-   "title": "Nike 復刻 1989 年復古鞋款 Lahar Low 並於日本發售",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-29",
-   "content": "名稱：Nike Air Lahar Low「Black」、Nike Air Lahar Low「Wheat」配色：Black/Orange/Black/Dark Smoke Grey、Wheat/Orange/Wheat/BlackSKU：DB9953-700、DB9953-001建議售價：¥20,900 JPY（約 $130 USD）發售日期：207 年 1 月 8 日購買點：Nike 日本官方網站Nike Lahar Low 回顧了品牌於 1989 年推出的 Lahar Escape Boot，將其關鍵細節轉化為一款強悍、復古的低筒鞋款，專為應付日常城市生活的磨損而設計。這款鞋推出兩種女裝配色「Black/Orange/Black/Dark Smoke Grey」和「Wheat/Orange/Wheat/Black」，每款皆結合了耐用的皮革結構與靈感來自越野的金屬配件，無論在平坦路面或戶外環境均表現出色。鞋面奠定了整體基調，以厚實的皮革作底，Nike 更揉合了麂皮和豬皮。麂皮令鞋款保持輕盈且容易穿脫，而較厚重的皮革則賦予其戶外血統所需的強韌度。源自原版 Lahar Escape Boot 的細節將設計與 Nike 的歷史檔案連繫起來，後跟的編織拉環則增添了實用的點綴。金屬配件在呈現戶外風格方面發揮了重要作用。鞋喉的兩側設有金屬鞋帶孔，比標準的打孔更具質感，並配以 5mm 的圓形鞋帶，營造出帶有斑點的繩索外觀。較粗的鞋帶同時具備實用功能，讓在寒冷天氣下戴著手套的手指也能輕鬆抓緊並綁緊。腳下的舒適度與抓地力同樣兼顧。柔軟的泡棉鞋墊提供靈敏的緩震效果，足以應付全天候穿著；而堅固的橡膠外底配上重型胎面紋理，則增加了耐用性，並在各種表面上保持穩定的抓地力。Nike 提醒此鞋款偏小，建議購買比平常大半碼的尺寸。兩種配色分別展現了隱蔽與大地色系的風格。黑色版本配以深煙灰色點綴，小麥色版本則傾向經典的戶外色調並加入黑色細節，兩者皆飾以橙色亮點，向這雙鞋的越野根源致敬。設定你的提醒，在 Hypebeast Drops 搶先掌握最新發售資訊。 Click here to view fu",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FNike-Air-Lahar-Low-Black-Wheat-2026-DB9953-700-DB9953-001-Japan-Re-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/nike-air-lahar-low-black-wheat-2026-db9953-700-db9953-001-japan-re-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 11,
-   "title": "HOKA 推出 KAHA 2 FROST MOC GTX，如羽絨外套般的保暖鞋履",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-29",
-   "content": "名稱：HOKA KAHA 2 FROST MOC GTX配色：River Rock Gray/Varsity NavySKU：1155210-RYV建議售價：¥33,000 JPY（約 $210 USD）發售日期：11 月 5 日購買連結：HOKA JapanHOKA 為其 KAHA 2 登山系列帶來適合寒冷天氣的全新改版——KAHA 2 FROST MOC GTX。這款具備保暖功能的 Slip-on 鞋履旨在帶來如睡袋般溫暖的著用感。鞋款保留了原版 KAHA 2 防水且適合戶外的中底設計，並將原本的靴款鞋面替換為附有刷毛內裡的絎縫設計，共推出「Black/Black」與「River Rock Grey/Varsity Navy」兩種配色。保暖是整個設計的核心，鞋面採用填充 300 克 PrimaLoft 的絎縫裁片製成。與傳統登山靴的綁帶設計不同，FROST MOC 採用 Slip-on 結構，鞋領內部更襯有彈性刷毛，使鞋口能貼合腳踝，同時保持柔軟觸感。整體設計將 KAHA 2 粗獷的靴型輪廓轉化為宛如羽絨外套般的鞋履造型。防護性與實用性同樣備受重視。鞋面內置 GORE-TEX 薄膜，外部則加上防潑水處理，提供雙重防護。上方採用附有扣吉的快速綁帶系統，讓用家只需拉動一次即可收緊鞋身，即使戴著手套也能輕鬆操作，這個貼心的小細節在專為寒冷天氣打造的鞋款上顯得格外重要。足底部分，HOKA 延續了 KAHA 2 的中底，在舒適的鞋面下保留了原本登山設定的緩震性能。搭配適合應對戶外地形的 Vibram Megagrip 大底，賦予 FROST MOC 比一般營地鞋更強的抓地力。材質選用聚酯纖維、橡膠與聚氨酯製成，「River Rock Grey/Varsity Navy」配色以淺灰鞋面配上深藍細節，而「Black/Black」版本則採用全黑色調呈現。敬請設定提醒，並密切留意 Hypebeast Drops 掌握最新發售情報。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FHOKA-KAHA-2-FROST-MOC-GTX-River-Rock-Gray-Varsity-Navy-1155210-RYV-Japan-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/hoka-kaha-2-frost-moc-gtx-river-rock-gray-varsity-navy-1155210-ryv-japan-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "HOKA"
-   ]
-  },
-  {
-   "id": 12,
-   "title": "Kiko Kostadinov x ASICS Tabi 系列迎來終章，全新 ILARGI FF Boot「Obsidian Black」正式登場",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-29",
-   "content": "名稱：Kiko Kostadinov x ASICS ILARGI FF Boots配色：Obsidian BlackSKU：待定建議零售價：待定發售日期：待定Kiko Kostadinov 與 ASICS 共同發表 ILARGI FF Boot，作為雙方 2026 年 Tabi 系列的第四章節暨最終回。採用「Obsidian Black」配色的分趾設計，靈感源自日本工作靴，並將一系列機能元素重新解構為完整的靴款輪廓，為這項長達一年的 Tabi 企劃畫上完美句號。在分趾輪廓之下，這雙鞋款融合了三個截然不同的參考基礎。整體外型源自日本傳統的分趾工作靴（Tabi），細節則取自摔跤鞋以突顯其運動特質，而底層結構則來自 Kostadinov ASICS 2019 年鞋款名單中的 GEL-Nepxa。這些元素的結合，將原本的跑步與訓練科技轉化為更堅固的靴型設計。鞋面的視覺設計最引人注目，壓印細緻線條圖案的皮革與疊加在網眼之上的條紋科技布料拼接。這種布料與網眼疊層的材質邏輯源自 ASICS METASPEED，將其與紋理皮革並列，刻意營造出表面的碰撞感，讓靴款的機能根基一覽無遺。換上「Obsidian Black」配色的 ILARGI FF Boot 同樣為 Kiko Kostadinov 在 ILARGI 與 LYASA 設計中不斷改良的分趾形態寫下終章。先前的鞋款探討了鞋型態的 Tabi 輪廓，而這次的發布則將此概念延伸至靴款領域，為系列帶來俐落的收尾。Kiko Kostadinov x ASICS ILARGI FF Boot「Obsidian Black」目前標示為即將登陸品牌官方網站作為 Kiko Kostadinov 獨家發售，官方發售日期有待公布。敬請設定提醒，並留意 Hypebeast Drops 的最新發售情報。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2FKiko-Kostadinov-ASICS-ILARGI-FF-Boots-obsidian-black-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/kiko-kostadinov-asics-ilargi-ff-boots-obsidian-black-official-images",
-   "lang": "zh",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 13,
-   "title": "New Balance 發佈 991v2 最新「Turbulence/India Ink」配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-29",
-   "content": "摘要 New Balance 將推出 991v2 全新配色「Turbulence/India Ink」鞋款以黑色網眼為基底，覆蓋上深藍色與毛絨灰色麂皮面料，並注入標誌性的 Made in England 字樣標籤此鞋款將於 11 月 1 日經由 NewBalance.com 及指定零售商正式發售，售價為 $250 美元 名稱： New Balance 991v2「Turbulence/India Ink」配色： Turbulence/India InkSKU： U991EC2建議售價： $250 美元發佈日期： 2026 年 11 月 1 日發售點： New BalanceNew Balance 正式發佈 New Balance 991v2「Turbulence/India Ink」，為這款經過升級的經典跑鞋注入深邃、多層次的配色。鞋款採用質感豐富的材質與對比鮮明的鞋身飾面，營造出沉穩的色調。鞋款以黑色網眼材質作為基底，點綴於鞋頭、鞋側與鞋領，並覆上深藍色與具備紋理的灰色絨面革。深藍色絨面革包覆鞋面下半部，並一直延伸至鞋帶孔，而灰色絨毛飾面則環繞前腳掌與鞋跟穩定片。平滑的灰色前腳掌飾面以白色對比色縫線勾勒輪廓，襯托出鞋側的銀灰色「N」字標誌。黑色鞋帶與網眼鞋舌互相呼應，並以柔軟的淺灰色內襯作點綴。經典細節依然是設計的核心，包括傳統的「Made in England」鞋舌標籤、鞋側跟部繡有的「991」字樣，以及印在後跟的「v2」徽章。鞋底部分，炭黑色與灰色雙色中底穩固了整體結構，而側影與鞋跟配置的淺色緩震組件更是亮點所在。最後配上黑色與灰色雙色橡膠外底完善整體設計。New Balance 991v2「Turbulence/India Ink」將於 2026 年 11 月 1 日發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnew-balance-991v2-turbulence-india-ink-U991EC2-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/new-balance-991v2-turbulence-india-ink-u991ec2-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 14,
+   "id": 22,
    "title": "Wales Bonner Reworks adidas Classics in Croc Leather, Suede and Pony Hair",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -206,7 +306,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 23,
    "title": "Travis Scott, CPFM, and Nike Are Rumored to Release the Flea 1 in Spring 2027",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -220,7 +320,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 24,
    "title": "Onitsuka Tiger Gives the “Paraty” Mexico 66 a Furry Makeover",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -231,7 +331,7 @@
    "relatedBrands": []
   },
   {
-   "id": 17,
+   "id": 25,
    "title": "Kobe Bryant's Game-Worn, Dual-Signed Air Jordan 8 Lakers PE Hits the Auction Block",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -244,7 +344,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 26,
    "title": "Kith and Timberland Deliver Three-Boot Footwear Collection for Winter 2026",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -258,71 +358,7 @@
    ]
   },
   {
-   "id": 19,
-   "title": "Dr. Martens Channels ‘The Exorcist’ Across Three Iconic Silhouettes",
-   "source": "Hypebeast",
-   "date": "2026-10-29",
-   "content": "Name: Dr. Martens x ‘The Exorcist’ CollectionMSRP: ¥2,750 - ¥39,600 JPY (approx. $17 - $250 USD)Release Date: Available NowWhere to Buy: Dr. Martens JapanDr. Martens heads into Halloween with a capsule inspired by William Friedkin’s 1973 cult horror classic, The Exorcist, translating some of the film’s most unsettling imagery and dialogue across three of its signature silhouettes.The 1460 boot arrives in Black/Purple, using smooth leather as a backdrop for a large-scale image of possessed Regan MacNeil across the upper, while “FAITHLESS SLIME” is debossed at the heel and repeated on an alternate set of laces. Matte black eyelets, a black-and-purple AirWair heel loop and signature yellow welt stitching complete the design.The 1461 shoe takes a darker, more understated approach in Black Vintage Smooth leather, with “I’M NOT REGAN” laser-etched across the surface so that a biscuit-brown und",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2Fdr-martens-the-exorcist-collaboration-collection-1460-1461-jadon-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/dr-martens-the-exorcist-collaboration-collection-1460-1461-jadon-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 20,
-   "title": "Nike Revives Its 1989-Inspired Lahar Low for Japan",
-   "source": "Hypebeast",
-   "date": "2026-10-29",
-   "content": "Name: Nike Air Lahar Low “Black,” Nike Air Lahar Low “Wheat”Colorway: Black/Orange/Black/Dark Smoke Grey, Wheat/Orange/Wheat/BlackSKU: DB9953-700, DB9953-001MSRP: ¥20,900 JPY (approx. $130 USD)Release Date: January 8, 207Where to Buy: Nike JapanNike’s Lahar Low looks back to the brand’s 1989 Lahar Escape Boot, pulling its key details into a tough, retro low-top designed to handle the wear and tear of everyday city life. The silhouette lands in two womens colorways, “Black/Orange/Black/Dark Smoke Grey” and “Wheat/Orange/Wheat/Black,” each pairing a durable leather build with trail-inspired hardware that works just as well off the pavement as on it.The upper sets the tone, starting with a thick leather base that Nike blends with suede and pig leather. The suede keeps the shoe feeling light and easy to slip on, while the heavier leather gives it the toughness its outdoor lineage calls for. ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2FNike-Air-Lahar-Low-Black-Wheat-2026-DB9953-700-DB9953-001-Japan-Re-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nike-air-lahar-low-black-wheat-2026-db9953-700-db9953-001-japan-re-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "HOKA’s KAHA 2 FROST MOC GTX Puts a Puffer on Your Feet",
-   "source": "Hypebeast",
-   "date": "2026-10-29",
-   "content": "Name: HOKA KAHA 2 FROST MOC GTXColorway: River Rock Gray/Varsity NavySKU: 1155210-RYVMSRP: ¥33,000 JPY (approx. $210 USD)Release Date: November 5Where to Buy: HOKA JapanHOKA is giving its KAHA 2 hiking series a cold-weather makeover with the KAHA 2 FROST MOC GTX, an insulated slip-on designed to feel like a sleeping bag for your feet. The shoe keeps the waterproof, trail-capable build of the original KAHA 2 underneath, then swaps the boot upper for a quilted, fleece-lined moc in two colorways, “Black/Black” and “River Rock Grey/Varsity Navy.”Insulation drives the entire design, starting with an upper made of quilted panels stuffed with 300g of PrimaLoft. Rather than the laced-up shaft of a traditional hiking boot, the FROST MOC adopts a slip-on construction, and its collar is lined with stretch fleece so the opening hugs the ankle while staying soft against the skin. The result trades th",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2FHOKA-KAHA-2-FROST-MOC-GTX-River-Rock-Gray-Varsity-Navy-1155210-RYV-Japan-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/hoka-kaha-2-frost-moc-gtx-river-rock-gray-varsity-navy-1155210-ryv-japan-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "HOKA",
-    "UGG"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "Kiko Kostadinov x ASICS Seal Their Tabi Saga With the ILARGI FF Boot “Obsidian Black”",
-   "source": "Hypebeast",
-   "date": "2026-10-29",
-   "content": "Name: Kiko Kostadinov x ASICS ILARGI FF BootsColorway: Obsidian BlackSKU: TBCMSRP: TBCRelease Date: TBCKiko Kostadinov and ASICS have unveiled the ILARGI FF Boot, the fourth and final chapter of the pair’s 2026 Tabi series. Rendered in “Obsidian Black,” the split-toe design takes its cue from the workwear boots of Japan and retools a lineup of performance references into a full boot silhouette, giving the year-long Tabi project a definitive closer.Underneath that split-toe profile sits a hybrid foundation built from three distinct reference points. Traditional Japanese Tabi workwear sets the overall shape, details lifted from wrestling footwear inform its athletic character, and the underlying construction comes from the GEL-Nepxa, the 2019 model from Kostadinov’s ASICS catalog. Together, those inputs push what began as running and training technology into something sturdier and boot-sha",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2FKiko-Kostadinov-ASICS-ILARGI-FF-Boots-obsidian-black-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/kiko-kostadinov-asics-ilargi-ff-boots-obsidian-black-official-images",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "New Balance Delivers the 991v2 in \"Turbulence/India Ink\"",
-   "source": "Hypebeast",
-   "date": "2026-10-29",
-   "content": "Summary New Balance is releasing a new iteration of the 991v2 in a Turbulence and India Ink color schemeThe silhouette features dark blue and fuzzy grey suede overlays across a black mesh base with signature Made in England brandingThe pair officially launches on November 1 via NewBalance.com and select retailers for $250 USD Name: New Balance 991v2 \"Turbulence/India Ink\"Colorway: Turbulence/India InkSKU: U991EC2MSRP: $250 USDRelease Date: November 1, 2026Where to Buy: New BalanceNew Balance has officially unveiled the New Balance 991v2 \"Turbulence/India Ink,\" presenting a deep, multi-tonal colorway across the updated heritage runner. The silhouette delivers a moody palette built with tactile materials and contrasting panelling.The sneaker features a black mesh base visible across the toe box, quarter panels, and collar, overlaid with rich blue and textured grey suede. Dark blue suede co",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F28%2Fnew-balance-991v2-turbulence-india-ink-U991EC2-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/new-balance-991v2-turbulence-india-ink-u991ec2-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 24,
+   "id": 27,
    "title": "Our Legacy on What's Coming With Nike: \"It's Gonna Look Slow but Feel Fast.\"",
    "source": "Highsnobiety",
    "date": "2026-10-29",
@@ -335,33 +371,7 @@
    ]
   },
   {
-   "id": 25,
-   "title": "Only 50 Pairs of Feet Will Ever Wear These Perfect Asics",
-   "source": "Highsnobiety",
-   "date": "2026-10-29",
-   "content": "The Asics x Soshiotsuki Skyhand OG takes a familiar silhouette and freaks it up with details like Chromexcel leather custom-shaped by Japanese artisans.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/asics-soshiotsuki/",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "adidas’ Chocolate Samba Is a Rather Good Seasonal Indulgence",
-   "source": "Highsnobiety",
-   "date": "2026-10-29",
-   "content": "adidas’ chocolate brown Samba pairs pale blue Three Stripes with an exaggerated fold-over tongue for a winter-ready twist on the familiar sneaker.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-samba-lt-aurora-coffee/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 27,
+   "id": 28,
    "title": "adidas Is Making Comfortable Dressing Look Considerably Cooler",
    "source": "Highsnobiety",
    "date": "2026-10-29",
@@ -374,7 +384,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 29,
    "title": "Japanese Artist Mariko Mori Predicted Our AI Future",
    "source": "Highsnobiety",
    "date": "2026-10-29",
@@ -385,37 +395,11 @@
    "relatedBrands": []
   },
   {
-   "id": 29,
-   "title": "Nike’s Oldest Sneaker Thrives in the Gray Area",
-   "source": "Highsnobiety",
-   "date": "2026-10-29",
-   "content": "Nike's slate gray moon shoe packs nearly 60 years of Swoosh heritage in one silken package.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-moon-shoe-gray/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
    "id": 30,
-   "title": "SOLDIER Reimagines the PUMA Suede Through Nigerian Heritage",
-   "source": "Hypebeast",
-   "date": "2026-10-28",
-   "content": "Summary London-based Nigerian artist SOLDIER reimagines the PUMA Suede with his signature camouflage motif and imagery drawn from his personal archive.Created to coincide with his recent New York solo exhibition, the sneaker will be released exclusively to friends and family. PUMA has teamed up with London-based Nigerian artist SOLDIER, also known as Leonard Iheagwam, to reinterpret its iconic Suede silhouette through a deeply personal exploration of cultural identity, memory and heritage.Created to coincide with the artist’s recent New York solo exhibition, Reveal Yourself, Softly, the limited-edition sneaker incorporates imagery drawn from SOLDIER’s personal archive alongside his signature camouflage motif. The design translates elements of his multidisciplinary practice into wearable form, bridging the worlds of contemporary art and streetwear.Born in Lagos, Nigeria, SOLDIER has devel",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F28%2Fsoldier-boyfriend-puma-suede-collaboration-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/soldier-boyfriend-puma-suede-collaboration",
-   "lang": "en",
-   "relatedBrands": [
-    "PUMA"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
+   "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
-   "content": "The Air Jordan 3 “Fireside” (Style Code: CK9246-200) drops in a chocolate like borwn color with other hues of brown as accents. The Fireside… The post Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "content": "The Air Jordan 3 “Fireside” (Style Code: CK9246-200) drops in a chocolate like borwn color with other hues of brown as accents. The Fireside… The post Where To Buy the Air Jordan 3 WMNS “Fireside” appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/09/ck9246-200-5-1-e1789833654816.jpg",
    "link": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
    "lang": "en",
@@ -424,7 +408,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 31,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -437,7 +421,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 32,
    "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -450,7 +434,7 @@
    ]
   },
   {
-   "id": 34,
+   "id": 33,
    "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -463,7 +447,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 34,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
@@ -477,7 +461,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 35,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -490,7 +474,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 36,
    "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -504,7 +488,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 37,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -517,7 +501,7 @@
    ]
   },
   {
-   "id": 39,
+   "id": 38,
    "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -530,7 +514,7 @@
    ]
   },
   {
-   "id": 40,
+   "id": 39,
    "title": "Nike Air Force 1 Low “Halloween Black Rat”",
    "source": "Nice Kicks",
    "date": "2026-10-22",
