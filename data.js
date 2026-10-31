@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-30 22:43",
+ "updatedAt": "2026-10-31 11:30",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,7 +16,6 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
-  "ASICS",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
@@ -194,32 +193,110 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 14,
-   "title": "Only 50 Pairs of Feet Will Ever Wear These Perfect Asics",
+   "title": "Nike’s Techy Dad Shoe Has a Secret Girly Side",
    "source": "Highsnobiety",
    "date": "2026-10-30",
-   "content": "The Asics x Soshiotsuki Skyhand OG takes a familiar silhouette and freaks it up with details like Chromexcel leather custom-shaped by Japanese artisans.",
+   "content": "Nike’s Zoom Vomero 5 gets a pink makeover with ribbon laces, silver studs, and a techy black mesh upper that balances sporty and sweet.",
    "image": "",
-   "link": "https://www.highsnobiety.com/p/asics-soshiotsuki/",
+   "link": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-pink/",
    "lang": "en",
    "relatedBrands": [
-    "ASICS"
+    "NIKE"
    ]
   },
   {
    "id": 15,
-   "title": "adidas’ Chocolate Samba Is a Rather Good Seasonal Indulgence",
+   "title": "Nike’s Oldest Sneaker Takes Balletcore to the Moon",
    "source": "Highsnobiety",
    "date": "2026-10-30",
-   "content": "adidas’ chocolate brown Samba pairs pale blue Three Stripes with an exaggerated fold-over tongue for a winter-ready twist on the familiar sneaker.",
+   "content": "Nike's \"Light Carnation\" Moon Shoe lands with satin uppers, Waffle soles, & loads of ballerina-worthy charm.",
    "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-samba-lt-aurora-coffee/",
+   "link": "https://www.highsnobiety.com/p/nike-moon-shoe-satin-pink/",
    "lang": "en",
    "relatedBrands": [
-    "ADIDAS"
+    "NIKE"
    ]
   },
   {
    "id": 16,
+   "title": "New Balance’s Skate Shoe Is Seeing Yellow and Looking Good Doing It",
+   "source": "Highsnobiety",
+   "date": "2026-10-30",
+   "content": "New Balance’s Numeric 440Wv2 pairs a black skate-shoe upper with pops of Happy Yellow for a simple color combination that stands out.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-numeric-440wv2/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "New Balance’s Saucy Hiking Sneaker Doesn’t Need the Trails To Be Great",
+   "source": "Highsnobiety",
+   "date": "2026-10-30",
+   "content": "New Balance's TL900 hiking sneaker lands in a new earthy \"Linen\" colorway, advancing the stylish model's debut.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-tl900-linen/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "New Balance’s Puffer Mary Janes Are Too Good To Be Slept-on",
+   "source": "Highsnobiety",
+   "date": "2026-10-30",
+   "content": "New Balance releases the Sleeping Jane, a stylish Mary Jane version of its winter Sleeping Moc. Here's everything on the drop.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-sleeping-jane/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Nike’s Casually Cool Sneaker Grew Tough Skin",
+   "source": "Highsnobiety",
+   "date": "2026-10-30",
+   "content": "Nike's Zoom Vomero 5 sneaker combines Cordura materials & a \"Light Orewood Brown\" colorway for a ruggedly clean release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-cordura-light-orewood-brown/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "Nike’s Ostrich-Leather Air Jordans Are Pure Jumpman Elegance",
+   "source": "Highsnobiety",
+   "date": "2026-10-30",
+   "content": "The Air Jordan 14 sneaker lands in the brand's high-end \"Black Pack\" with ostrich-leather uppers & a clean all-black colorway.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-14-low-black-pack/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "Meet the Shoe Brand That Takes “Nothing New” as a Compliment",
+   "source": "Highsnobiety",
+   "date": "2026-10-30",
+   "content": "od.A is developing the future of trail shoes by studying their past. Decades of transcendent footwear define its beautiful, unexpected, and exquisite shoes.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/oda-shoes-interview/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 22,
    "title": "Wales Bonner 以鱷魚壓紋皮革、麂皮及馬毛重塑 adidas 經典鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -232,7 +309,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 23,
    "title": "消息指 Travis Scott、CPFM 與 Nike 將於 2027 年春季推出聯乘 Flea 1",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -245,7 +322,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 24,
    "title": "Onitsuka Tiger 為 Mexico 66「Paraty」注入毛絨新面貌",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -256,7 +333,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 19,
+   "id": 25,
    "title": "Kobe Bryant 比賽著用雙簽名 Air Jordan 8 Lakers PE 即將登上拍賣場",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -269,7 +346,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 26,
    "title": "Kith 與 Timberland 攜手推出 2026 冬季三款聯乘靴子系列",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -282,7 +359,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 27,
    "title": "Dr. Martens 以《The Exorcist》為靈感重塑三款經典鞋型",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -293,7 +370,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 22,
+   "id": 28,
    "title": "Wales Bonner Reworks adidas Classics in Croc Leather, Suede and Pony Hair",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -306,7 +383,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 29,
    "title": "Travis Scott, CPFM, and Nike Are Rumored to Release the Flea 1 in Spring 2027",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -320,7 +397,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 30,
    "title": "Onitsuka Tiger Gives the “Paraty” Mexico 66 a Furry Makeover",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -331,7 +408,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 25,
+   "id": 31,
    "title": "Kobe Bryant's Game-Worn, Dual-Signed Air Jordan 8 Lakers PE Hits the Auction Block",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -344,7 +421,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 32,
    "title": "Kith and Timberland Deliver Three-Boot Footwear Collection for Winter 2026",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -358,44 +435,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
-   "title": "Our Legacy on What's Coming With Nike: \"It's Gonna Look Slow but Feel Fast.\"",
-   "source": "Highsnobiety",
-   "date": "2026-10-29",
-   "content": "Our Legacy cofounder Jockum Hallin talks working with Nike on the eve of OL Work Shop Sport's Nike-powered Procell pop-up packed with killer vintage.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/our-legacy-nike-procell/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "adidas Is Making Comfortable Dressing Look Considerably Cooler",
-   "source": "Highsnobiety",
-   "date": "2026-10-29",
-   "content": "From track jackets to comfortable pants, these Adidas picks prove you don’t have to sacrifice style to stay comfortable this winter.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-adilenium-collection/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "Japanese Artist Mariko Mori Predicted Our AI Future",
-   "source": "Highsnobiety",
-   "date": "2026-10-29",
-   "content": "Iconic Japanese artist Mariko Mori reflects on her uncanny ability to predict the future as she prepares for his first major museum show in Tokyo in 24 years.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/mariko-mori/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 30,
+   "id": 33,
    "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
@@ -408,7 +448,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 34,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -421,7 +461,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 35,
    "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -434,7 +474,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 36,
    "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -447,7 +487,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 37,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
@@ -461,7 +501,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 38,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -474,7 +514,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 39,
    "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -488,7 +528,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 40,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -501,7 +541,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 41,
    "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -514,7 +554,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 42,
    "title": "Nike Air Force 1 Low “Halloween Black Rat”",
    "source": "Nice Kicks",
    "date": "2026-10-22",
