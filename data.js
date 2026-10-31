@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-31 11:30",
+ "updatedAt": "2026-10-31 22:07",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,16 +16,94 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
+  "CLARKS",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
-  "TIMBERLAND",
   "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Nike 推出 Air Force 1 '07 紀念密爾沃基釀酒人隊奪得世界大賽冠軍",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-31",
+   "content": "摘要 Nike 推出全新的 Air Force 1 07，慶祝 Milwaukee Brewers 奪得球隊歷史上首個 World Series 總冠軍這款深藍色皮革球鞋採用金黃色縫線、鞋跟位置設有棒球手套標誌，鞋舌上則注入 2026 World Series 刺繡細節鞋款目前已於 Nike 接受預訂，售價為 $140 美元，預計將於 2027 年 3 月陸續發貨 名稱： Nike Air Force 1 '07「Milwaukee Brewers」配色： 海軍藍／黃色SKU： 待定建議零售價： $140 美元發售日期： 現已開放預購購買連結： NikeNike 正式發布 Air Force 1 ’07「Milwaukee Brewers」，以紀念該球隊在 2026 年歷史性首奪世界大賽冠軍。這款以冠軍為主題的鞋款現已開放預購，向球隊的歷史性勝利致敬。這雙紀念鞋款採用優質海軍藍皮革鞋面，並以金黃色對比縫線勾勒鞋身，呼應釀酒人隊的經典色彩。鞋跟飾有密爾沃基標誌性的棒球手套圖案，而鞋舌則直接印有「2026 World Series」字樣。其他呼應主題的細節包括金屬鞋帶扣上的 MLB 標誌，以及鞋墊上的復古 Nike Basketball 圖案，藉此向該鞋款的籃球淵源致敬。延續先前為紐約與費城地區限定 Air Force 1 '01 所採用的預購模式，此版本選用了標準的 '07 輪廓。雖然現已開放訂購，但這雙慶祝鞋款預計將於 2027 年 3 月下旬發貨，恰逢下一個美國職業棒球大聯盟賽季開鑼。Nike Air Force 1 ’07「Milwaukee Brewers」現已於 Nike.com 開放預購，售價為 $140 美元，訂單預計將於 2027 年 3 月 24 日前發貨。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-air-force-1-07-milwaukee-brewers-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nike-air-force-1-07-milwaukee-brewers-first-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "NN.07 與 Clarks Originals 推出全新聯乘 Wallabee 及 Desert Boot 鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-10-31",
+   "content": "名稱： NN.07 x Clarks Wallabee, Desert Boots配色： 待定編號： 待定定價： 待定發售日期： 11 月 10 日購買渠道： NN.07NN.07 與 Clarks Originals 攜手合作發布名為「Contrast in Conversation」的聯乘鞋款系列，將這家歷史悠久的鞋履品牌的傳統與該服裝品牌標誌性的北歐極簡主義完美融合。Desert Boot 為是次聯乘帶來更俐落的風格，經典的 Chukka 輪廓採用黑色全粒面牛皮製成，表面帶有同樣微妙的紋理。NN.07 增添了一條寬大的橫向皮革搭帶，並配備超大的銀色搭扣，為原本極簡的輪廓賦予了一種略帶實用主義、近似孟克鞋（Monk-strap）的特色。同色系的黑色生膠底將暗黑色調由鞋面延伸至鞋底，而帶有 NN.07 標誌的皮革標籤和極簡的壓紋細節則保持了聯乘的低調感。這兩款鞋共同反映了是次企劃在 Clarks 充滿歷史感的傳統與 NN.07 精緻極簡主義之間的核心張力。Wallabee 採用深朱古力啡色處理，其優質全粒面牛皮鞋面展現出明顯的荔枝紋理，為原本極簡的結構帶來更豐富、更具觸感的飾面。同色系的啡色美學延伸至相配的鞋帶，並飾有奪目的銀色金屬鞋帶頭，同時配上度身訂製的 NN.07 皮革吊牌。為確保由上至下展現俐落連貫的外觀，Wallabee 標誌性的生膠外底採用了深色塗墨側壁，完美配搭啡色皮革鞋面。記下日期，在 Hypebeast Drops 搶先了解即將發售的最新單品。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnn-07-clarks-wallabee-desert-boots-collaboration-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/10/nn-07-and-clarks-originals-rework-the-wallabee-and-desert-boot-in-new-collab",
+   "lang": "zh",
+   "relatedBrands": [
+    "CLARKS"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Nike Commemorates the Milwaukee Brewers' World Series Title With an Air Force 1 '07",
+   "source": "Hypebeast",
+   "date": "2026-10-31",
+   "content": "Summary Nike has released an Air Force 1 07 celebrating the Milwaukee Brewers first World Series championship in franchise historyThe navy leather sneaker features golden yellow stitching a baseball glove heel logo and 2026 World Series tongue embroideryPairs are currently open for pre-order on Nike for $140 USD with shipments expected to dispatch by March 2027 Name: Nike Air Force 1 '07 \"Milwaukee Brewers\"Colorway: Navy/YellowSKU: TBDMSRP: $140 USDRelease Date: Pre-Order Available NowWhere to Buy: NikeNike has officially released the Air Force 1 ’07 \"Milwaukee Brewers,\" commemorating the franchise's historic first-ever World Series victory in 2026. The championship-themed sneaker is available via immediate pre-order, arriving as a commemorative homage to the team's historic triumph.Constructed with a premium navy blue leather upper, the commemorative sneaker is outlined with golden yell",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2Fnike-air-force-1-07-milwaukee-brewers-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-air-force-1-07-milwaukee-brewers-first-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "NN.07 and Clarks Originals Rework the Wallabee and Desert Boot in New Collab",
+   "source": "Hypebeast",
+   "date": "2026-10-31",
+   "content": "Name: NN.07 x Clarks Wallabee, Desert BootsColorway: TBCSKU: TBCMSRP: TBCRelease Date: November 10Where to Buy: NN.07NN.07 and Clarks Originals have joined forces to reveal their collaborative footwear capsule, \"Contrast in Conversation,\" seamlessly blending the historic shoemaker's heritage with the apparel brand's signature Scandinavian minimalism.The Desert Boot takes the collaboration in a sharper direction, dressing the classic chukka shape in black full-grain cowhide with the same subtly textured surface. NN.07 adds a wide cross-foot leather strap secured by an oversized silver buckle, lending the otherwise stripped-back silhouette a slightly utilitarian, almost monk-strap-like character. Tonal black crepe tooling extends the dark finish from upper to sole, while an NN.07-branded leather tag and minimal embossed detailing keep the co-branding understated. Together, the two styles r",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F30%2Fnn-07-clarks-wallabee-desert-boots-collaboration-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nn-07-and-clarks-originals-rework-the-wallabee-and-desert-boot-in-new-collab",
+   "lang": "en",
+   "relatedBrands": [
+    "CLARKS"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Where To Buy the Air Jordan 14 “Forest Green”",
+   "source": "Nice Kicks",
+   "date": "2026-10-31",
+   "content": "The Air Jordan 14 “Forest Green” is set to release on October 31, 2026, via SNKRS and select retailers for $215. Check out the… The post Where To Buy the Air Jordan 14 “Forest Green” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/09/air-jordan-14-forest-green-487471-300-october-2026-release-date-info-1.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "The Evolution of New Balance’s 990 Continues",
+   "source": "Highsnobiety",
+   "date": "2026-10-31",
+   "content": "New Balance's Made in America 990v7 is the muted gray gift that just keeps on giving.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-990v7-sneaker-gray/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 7,
    "title": "曾亮相 COMME des GARÇONS HOMME 巴黎時裝展的 New Balance 1890A 迎來發售日期",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -38,7 +116,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 8,
    "title": "Nike 為杜克大學女子籃球隊推出 Caitlin 1「Duke」PE 專屬配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -51,7 +129,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 9,
    "title": "Nike Air Max Plus 最新鞋款致敬 Glasgow 著名交通錐",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -64,7 +142,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 10,
    "title": "Bad Bunny 全新 adidas BadBo Stone Slides 拖鞋猶如岩石雕刻",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -77,7 +155,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 11,
    "title": "Bad Bunny 與 adidas 攜手發布 Badbo 1.0 最新「Grey Three」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -90,7 +168,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 12,
    "title": "UNION 聯乘 Nike Dunk Low「Natural Selection」系列迎來三款配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -103,7 +181,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 13,
    "title": "ACRONYM and ALIVEFORM Launch THE BLADE in New \"SILVER FANG\" Colorway",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -114,7 +192,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 8,
+   "id": 14,
    "title": "The New Balance 1890A That Walked COMME des GARÇONS HOMME’s Paris Runway Has a Release Date",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -127,7 +205,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 15,
    "title": "Nike Unveils the Caitlin 1 \"Duke\" PE for Blue Devils Women's Basketball",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -140,7 +218,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 16,
    "title": "Nike References Glasgow's Famous Traffic Cone on the Air Max Plus",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -153,7 +231,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 17,
    "title": "Bad Bunny’s adidas BadBo Stone Slides Look Carved Straight From Rock",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -166,7 +244,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 18,
    "title": "Bad Bunny and adidas Present the Badbo 1.0 in \"Grey Three\"",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -179,7 +257,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 19,
    "title": "UNION and Nike’s Dunk Low “Natural Selection” Collection Arrives in Three Adaptable Colorways",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -192,7 +270,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 20,
    "title": "Nike’s Techy Dad Shoe Has a Secret Girly Side",
    "source": "Highsnobiety",
    "date": "2026-10-30",
@@ -205,7 +283,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 21,
    "title": "Nike’s Oldest Sneaker Takes Balletcore to the Moon",
    "source": "Highsnobiety",
    "date": "2026-10-30",
@@ -218,7 +296,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 22,
    "title": "New Balance’s Skate Shoe Is Seeing Yellow and Looking Good Doing It",
    "source": "Highsnobiety",
    "date": "2026-10-30",
@@ -231,7 +309,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 23,
    "title": "New Balance’s Saucy Hiking Sneaker Doesn’t Need the Trails To Be Great",
    "source": "Highsnobiety",
    "date": "2026-10-30",
@@ -244,7 +322,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 24,
    "title": "New Balance’s Puffer Mary Janes Are Too Good To Be Slept-on",
    "source": "Highsnobiety",
    "date": "2026-10-30",
@@ -257,7 +335,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 25,
    "title": "Nike’s Casually Cool Sneaker Grew Tough Skin",
    "source": "Highsnobiety",
    "date": "2026-10-30",
@@ -271,7 +349,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 26,
    "title": "Nike’s Ostrich-Leather Air Jordans Are Pure Jumpman Elegance",
    "source": "Highsnobiety",
    "date": "2026-10-30",
@@ -285,18 +363,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
-   "title": "Meet the Shoe Brand That Takes “Nothing New” as a Compliment",
-   "source": "Highsnobiety",
-   "date": "2026-10-30",
-   "content": "od.A is developing the future of trail shoes by studying their past. Decades of transcendent footwear define its beautiful, unexpected, and exquisite shoes.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/oda-shoes-interview/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 22,
+   "id": 27,
    "title": "Wales Bonner 以鱷魚壓紋皮革、麂皮及馬毛重塑 adidas 經典鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -309,7 +376,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 28,
    "title": "消息指 Travis Scott、CPFM 與 Nike 將於 2027 年春季推出聯乘 Flea 1",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -322,7 +389,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 29,
    "title": "Onitsuka Tiger 為 Mexico 66「Paraty」注入毛絨新面貌",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -333,7 +400,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 25,
+   "id": 30,
    "title": "Kobe Bryant 比賽著用雙簽名 Air Jordan 8 Lakers PE 即將登上拍賣場",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -346,31 +413,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
-   "title": "Kith 與 Timberland 攜手推出 2026 冬季三款聯乘靴子系列",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-29",
-   "content": "摘要 為慶祝 Kith 成立 15 週年，Kith 與 Timberland 再次攜手推出包含三款鞋履的聯乘系列這個適合冬季的膠囊系列包含「Wheat」配色的 6-Inch Shearling 40 Below，以及「Wild Dove」和「Burgundy」輪廓的鞋款全數三款鞋款將於 10 月 30 日登陸全球 Kith 門市、Kith.com 及 Kith App 登場 Kith 與 Timberland 再度合作，推出 2026 冬季聯乘系列，帶來與 Ronnie Fieg 共同設計的百搭三款鞋履膠囊系列。此次季度發布旨在慶祝 Kith 成立 15 週年，結合了檔案庫經典復刻與專為嚴寒氣候度身訂製的全新配色。領銜登場的是混合設計的「Wheat」配色 6-Inch Shearling 40 Below，它將 Timberland 經典 6-Inch Boot 的輪廓與 2013 年首度亮相的較高身 40 Below Super Boot 融為一體。鞋身結合防水磨砂皮與黑色絎縫皮革鞋領，並配備堅固的 Vibram 外底、全羊毛皮內裡，以及壓花雙品牌標誌細節。除了經典小麥色版本，系列還推出了單色「Wild Dove」配色的 40 Below Shearling Super Boot，採用防水磨砂皮、金屬鞋眼及全羊毛皮保暖設計。最後一款則是經典的 6-Inch Boot，鞋身包裹著豐富的「Burgundy」酒紅色磨砂皮，搭配金色金屬配件。每款鞋履均附有額外鞋帶，並包裝於印有插畫的紀念鞋盒中。Ronnie Fieg x Timberland 2026 冬季系列將於 2026 年 10 月 30 日與 Kith 季度服飾系列同步發售，可於全球 Kith 旗艦店、Kith 官方網站及 Kith App 購買。設定提醒，緊貼 Hypebeast Drops 掌握最新發售消息。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fkith-timberland-three-boot-footwear-collaboration-wild-dove-burgundy-wheat-winter-2026-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/kith-timberland-three-boot-footwear-collaboration-wild-dove-burgundy-wheat-winter-2026-collection-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "TIMBERLAND"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "Dr. Martens 以《The Exorcist》為靈感重塑三款經典鞋型",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-29",
-   "content": "系列名稱： Dr. Martens x《The Exorcist》聯乘系列建議售價： ¥2,750 - ¥39,600 JPY（約 $17 - $250 USD）發售日期： 現已發售購買點： Dr. Martens 日本官方網站隨著萬聖節臨近，Dr. Martens 推出以 William Friedkin 於 1973 年執導的經典恐怖片《The Exorcist》（驅魔人／大法師）為靈感的全新別注系列，將電影中最令人不安的影像與對白融入三款標誌性鞋型。1460 靴款採用黑、紫色調，以光滑皮革為背景，鞋面印有被附身的 Regan MacNeil 大幅影像。鞋跟處壓印上「FAITHLESS SLIME」字樣，並於另一組備用鞋帶上重複出現。啞光黑色鞋眼、黑紫雙色 AirWair 鞋跟提環及標誌性的黃色沿條縫線，令整體設計更添完整。1461 鞋款則選用 Black Vintage Smooth 皮革，呈現更為深邃且低調的風格。鞋面以雷射雕刻印有「I’M NOT REGAN」字樣，字體透出如餅乾般的啡色底色。黑色沿條縫線、金屬「THE EXORCIST」鞋帶飾片及額外的「FAITHLESS SLIME」圖案，為這款低筒鞋身保持視覺上的內斂，同時充滿對電影的致敬。Jadon 厚底靴為系列帶來最具戲劇性的效果，採用亮紫色 Arcadia 皮革打造，雙色磨砂效果令表面更具層次感與光澤。「I’M NOT REGAN」字樣壓印於鞋面上，配以專屬拉鏈、鞋帶飾片及黑紫雙色鞋跟提環，而厚實的防水台鞋底更進一步提升其本已強勢的輪廓。這三款鞋亦配有特別印製的鞋墊及額外的聯乘細節，將恐怖元素延伸至較不易被察覺的角落。除鞋履外，此別注系列還包括一款印有 Merrin 神父剪影的黑色皮革背囊，以及滿佈紫色「I’M NOT REGAN」字樣的提花襪。請設定提醒，並鎖定 Hypebeast Drops 掌握更多最新發售資訊。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fdr-martens-the-exorcist-collaboration-collection-1460-1461-jadon-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/dr-martens-the-exorcist-collaboration-collection-1460-1461-jadon-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 28,
+   "id": 31,
    "title": "Wales Bonner Reworks adidas Classics in Croc Leather, Suede and Pony Hair",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -383,7 +426,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 32,
    "title": "Travis Scott, CPFM, and Nike Are Rumored to Release the Flea 1 in Spring 2027",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -397,7 +440,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 33,
    "title": "Onitsuka Tiger Gives the “Paraty” Mexico 66 a Furry Makeover",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -408,34 +451,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 31,
-   "title": "Kobe Bryant's Game-Worn, Dual-Signed Air Jordan 8 Lakers PE Hits the Auction Block",
-   "source": "Hypebeast",
-   "date": "2026-10-29",
-   "content": "Summary The Realest has officially opened the auction for Kobe Bryant's game-worn and dual-signed Air Jordan 8 Lakers Player Exclusive sneakersSourced from Bryant's celebrated 2002–03 sneaker free agency season the pair features his signature and number 8 inscription across the strapsIndependently photomatched by MeiGray and SIA the size 14 sneakers are open for bidding alongside his 2003–04 game-worn jersey through November 8 The Realest has officially launched the auction for Kobe Bryant's game-worn, dual-signed Air Jordan 8 Lakers Player Exclusive sneakers. Sourced from the Black Mamba's historic 2002–03 sneaker free agency era, the rare footwear reaches the auction block following the platform’s international Gold Label Grails World Tour.Worn during the Los Angeles Lakers’ 104–96 victory over the Boston Celtics on March 21, 2003, the size 14 pair comes finished in the franchise’s sig",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F28%2Fthe-realest-kobe-bryant-game-worn-dual-signed-air-jordan-8-lakers-pe-auction-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/the-realest-kobe-bryant-game-worn-dual-signed-air-jordan-8-lakers-pe-auction-info",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "Kith and Timberland Deliver Three-Boot Footwear Collection for Winter 2026",
-   "source": "Hypebeast",
-   "date": "2026-10-29",
-   "content": "Summary Kith and Timberland have reunited for a three-piece footwear collection celebrating Kith's 15th anniversaryThe winter-ready capsule includes the 6-Inch Shearling 40 Below in Wheat alongside Wild Dove and Burgundy silhouettesAll three styles will launch on October 30 via Kith stores globally Kith.com and the Kith App Kith and Timberland have joined forces for the collaborative Winter 2026 Collection, delivering a versatile three-piece footwear capsule designed alongside Ronnie Fieg. The seasonal release celebrates Kith’s 15th anniversary by bringing together archival revivals and new colorways tailored for harsh climates.Leading the assortment is the hybrid 6-Inch Shearling 40 Below in \"Wheat,\" which fuses the profile of Timberland’s classic 6-Inch Boot with the taller 40 Below Super Boot first issued in 2013. The silhouette combines waterproof nubuck with a black quilted leather ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2Fkith-timberland-three-boot-footwear-collaboration-wild-dove-burgundy-wheat-winter-2026-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/kith-timberland-three-boot-footwear-collaboration-wild-dove-burgundy-wheat-winter-2026-collection-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "TIMBERLAND",
-    "UGG"
-   ]
-  },
-  {
-   "id": 33,
+   "id": 34,
    "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
@@ -448,7 +464,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 35,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -458,19 +474,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "NIKE"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-26",
-   "content": "The Air Jordan 14 “Forest Green” is expected to release on October 31, 2026, via SNKRS and select retailers for $215. Check out the… The post Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/air-jordan-14-forest-green-487471-300-october-2026-release-date-info-1.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
    ]
   },
   {
