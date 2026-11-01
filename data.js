@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-10-31 22:07",
+ "updatedAt": "2026-11-01 11:36",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -26,6 +26,45 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Bad Bunny 聯手 adidas 推出 BadBo 1.1 最新「Simple Brown」配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-01",
+   "content": "摘要 Bad Bunny 與 adidas 推出「Simple Brown」配色的 BadBo 1.1，延續雙方的聯乘簽名波鞋陣容這款低筒設計結合質感十足的啡色麂皮覆層、淡粉紅色合成材質內層以及生膠大底該鞋款預計於 11 月 7 日發售，售價為 $120 美元 名稱： Bad Bunny x adidas BadBo 1.1「Simple Brown」配色： Simple Brown/Feather Grey-Sandy Pink型號： LM5057定價： $120 美元發售日期： 2026 年 11 月 7 日購買點： adidasadidas 與 Bad Bunny 繼續擴展其簽名鞋款陣容，推出 Bad Bunny x adidas BadBo 1.1「Simple Brown」。這款即將登場的低筒鞋款回歸雙方早期合作的 Forum 及 Campus 系列所標誌性的熟悉大地色系美學。鞋款採用混合材質製成，鞋面以具質感的啡色絨面革覆蓋層疊加在淡粉色合成底層上，並從鞋面拼接面板之間顯露出來。中性的絨面革鞋面與俐落的白色中底形成對比，配以經典生膠外底，延續了 BadBo 系列中常見的鞋底組合。此鞋款作為初版 BadBo 1.0（自 Bad Bunny 在超級盃中場秀首度曝光後推出）的低筒改版，是這位歌手在多年來重新演繹現有三間鞋款後，首個獨立簽名鞋履系列的一部分。有別於在 Gazelle Indoor 聯乘版本如「El Yunque」、「San Juan」和「Cabo Rojo」中見到的鮮艷配色，BadBo 系列強調沉穩色調，利用柔和的粉色底層營造微妙的視覺對比。Bad Bunny x adidas BadBo 1.1「Simple Brown」預計於 2026 年 11 月 7 日發售，定價為 $120 美元。設定好提醒，緊貼 Hypebeast Drops 掌握最新發售情報。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fbad-bunny-adidas-badbo-1-1-simple-brown-lm5057-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/bad-bunny-adidas-badbo-1-1-simple-brown-lm5057-first-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Nike Basketball 與 LeBron James 正式發佈 LeBron 24",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-01",
+   "content": "摘要 Nike Basketball 與 LeBron James 正式發佈 LeBron 24，創下該系列歷史上最輕盈的簽名戰靴紀錄這款實戰鞋款引進 KingKnit 鞋面科技，並配置全掌式 React 泡棉嵌入式中底與雙重 Air Zoom 氣墊Nike LeBron 24 將於 11 月 1 日正式登場，首發的「Stars」配色則緊接於 11 月 12 日發售 Nike Basketball 與 LeBron James 正式發佈 Nike LeBron 24，成為該系列歷史上最輕盈的簽名籃球鞋。為滿足現代籃球的速度與需求而設計，這款高性能鞋型提供更輕巧、靈敏且反應迅速的配置，鼓勵新一代運動員以自己的方式追求卓越。為提供透氣包覆、靈敏緩震及出色的穩定性，LeBron 24 的鞋面首次引入 KingKnit。這項專為 LeBron 設計的針織創新技術採用獨特的紗線組合，兼具輕盈強度與透氣度，能在進行爆發性切入和變向時提供鎖定包覆效果。鞋底方面，全掌式 React 泡棉嵌入式中底系統與前掌及後跟的 Air Zoom 氣墊互相配合，並以中足穩定片加強結構支撐，配搭全新的多向抓地紋理。這款鞋型亦標誌著敘事方式的策略性轉變，從回顧過去轉而分享 James 職業生涯的理念。發佈架構圍繞五大主題支柱：Wonder、Family、Fear、Luck 與 Discovery。首發的「Stars」配色為這段故事揭開序幕，代表 Wonder 理念，靈感源自 LeBron 童年時期一支影響深遠的 AAU 籃球隊。Nike LeBron 24 將於 2026 年 11 月 1 日透過 Nike 及指定零售商發售，其後將於 2026 年 11 月 12 日推出「Stars」配色。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-basketball-lebron-james-officially-introduce-lebron-24-stars-colorway-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/nike-basketball-lebron-james-officially-introduce-lebron-24-stars-colorway-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Nike Basketball and LeBron James Officially Introduce the LeBron 24",
+   "source": "Hypebeast",
+   "date": "2026-11-01",
+   "content": "Summary Nike Basketball and LeBron James have officially unveiled the LeBron 24 as the lightest signature game shoe in the line's historyThe performance silhouette introduces KingKnit upper technology alongside a full-length React foam drop-in midsole and dual Air Zoom unitsThe Nike LeBron 24 officially launches November 1 followed by the debut Stars colorway releasing on November 12 Nike Basketball and LeBron James have officially debuted the Nike LeBron 24, marking the lightest signature game shoe in the franchise’s history. Built for the speed and demands of modern basketball, the performance model delivers a lighter, sharper, and more responsive setup encouraging the next generation of athletes to pursue greatness on their own terms.Engineered to provide breathable containment, responsive cushioning, and standout stability, the LeBron 24 introduces KingKnit across the upper. The LeBr",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F31%2Fnike-basketball-lebron-james-officially-introduce-lebron-24-stars-colorway-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/nike-basketball-lebron-james-officially-introduce-lebron-24-stars-colorway-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
    "title": "Nike 推出 Air Force 1 '07 紀念密爾沃基釀酒人隊奪得世界大賽冠軍",
    "source": "Hypebeast 中文",
    "date": "2026-10-31",
@@ -38,7 +77,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 5,
    "title": "NN.07 與 Clarks Originals 推出全新聯乘 Wallabee 及 Desert Boot 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-31",
@@ -51,7 +90,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 6,
    "title": "Nike Commemorates the Milwaukee Brewers' World Series Title With an Air Force 1 '07",
    "source": "Hypebeast",
    "date": "2026-10-31",
@@ -64,7 +103,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 7,
    "title": "NN.07 and Clarks Originals Rework the Wallabee and Desert Boot in New Collab",
    "source": "Hypebeast",
    "date": "2026-10-31",
@@ -77,7 +116,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 8,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
@@ -90,7 +129,86 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 9,
+   "title": "adidas’ Handsome Outdoor Boots Can Genuinely Weather the Storm",
+   "source": "Highsnobiety",
+   "date": "2026-10-31",
+   "content": "adidas releases the Wetherlam SPZL, an updated version of the Helvellyn with outdoor-ready details & plenty of street style.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-wetherlam-spzl/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "New Balance’s Luxe Dad Shoe Is a Half-Tweed, Half-Leather Masterpiece",
+   "source": "Highsnobiety",
+   "date": "2026-10-31",
+   "content": "New Balance releases a 991v1 Made in UK \"Tweed Luxe Leather\" sneaker, and it's exactly how it sounds. It's a luxe dad shoe made with tweed & leather.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-991v1-tweed-luxe-leather/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Nike's UGG-Coded Slipper Boot Is the Coziest Recovery Flex",
+   "source": "Highsnobiety",
+   "date": "2026-10-31",
+   "content": "Nike debuts its 24.7 boot, an UGG-coded recovery model with plenty of cushioning & nice colorways. Here's everything on the release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-24-7-boot/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Nike’s Chocolate-Covered Air Forces Are Mid-Sized Sweet Treats",
+   "source": "Highsnobiety",
+   "date": "2026-10-31",
+   "content": "Nike's Air Force 1 Mid \"Baroque Brown\" sneaker is a deliciously luxe take on the strapped-up classic, featuring a tonal chocolate-brown design.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-mid-baroque-brown/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Even in the Dark, Nike’s Winterized Dad Sneaker Still Shines",
+   "source": "Highsnobiety",
+   "date": "2026-10-31",
+   "content": "Nike's winterized Zoom Vomero Roam sneaker is back & stylish as ever in a new \"Sequoia\" colorway.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-zoom-vomero-roam-sequoia/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Nike’s Archival Racer Is Looking Berry Good",
+   "source": "Highsnobiety",
+   "date": "2026-10-31",
+   "content": "Nike’s Sprint Sister sneaker revisits a '79 women’s track spike in a striking burgundy and bright red, bringing an archival racer back into the spotlight.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-sprint-sister-red/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 15,
    "title": "The Evolution of New Balance’s 990 Continues",
    "source": "Highsnobiety",
    "date": "2026-10-31",
@@ -103,7 +221,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 16,
    "title": "曾亮相 COMME des GARÇONS HOMME 巴黎時裝展的 New Balance 1890A 迎來發售日期",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -116,7 +234,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 17,
    "title": "Nike 為杜克大學女子籃球隊推出 Caitlin 1「Duke」PE 專屬配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -129,7 +247,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 18,
    "title": "Nike Air Max Plus 最新鞋款致敬 Glasgow 著名交通錐",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -142,7 +260,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 19,
    "title": "Bad Bunny 全新 adidas BadBo Stone Slides 拖鞋猶如岩石雕刻",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -155,7 +273,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 20,
    "title": "Bad Bunny 與 adidas 攜手發布 Badbo 1.0 最新「Grey Three」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -168,7 +286,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 21,
    "title": "UNION 聯乘 Nike Dunk Low「Natural Selection」系列迎來三款配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -181,7 +299,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 22,
    "title": "ACRONYM and ALIVEFORM Launch THE BLADE in New \"SILVER FANG\" Colorway",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -192,7 +310,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 14,
+   "id": 23,
    "title": "The New Balance 1890A That Walked COMME des GARÇONS HOMME’s Paris Runway Has a Release Date",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -205,7 +323,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 24,
    "title": "Nike Unveils the Caitlin 1 \"Duke\" PE for Blue Devils Women's Basketball",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -218,7 +336,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 25,
    "title": "Nike References Glasgow's Famous Traffic Cone on the Air Max Plus",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -231,7 +349,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 26,
    "title": "Bad Bunny’s adidas BadBo Stone Slides Look Carved Straight From Rock",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -244,7 +362,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 27,
    "title": "Bad Bunny and adidas Present the Badbo 1.0 in \"Grey Three\"",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -257,7 +375,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 28,
    "title": "UNION and Nike’s Dunk Low “Natural Selection” Collection Arrives in Three Adaptable Colorways",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -270,7 +388,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 29,
    "title": "Nike’s Techy Dad Shoe Has a Secret Girly Side",
    "source": "Highsnobiety",
    "date": "2026-10-30",
@@ -283,7 +401,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 30,
    "title": "Nike’s Oldest Sneaker Takes Balletcore to the Moon",
    "source": "Highsnobiety",
    "date": "2026-10-30",
@@ -296,7 +414,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 31,
    "title": "New Balance’s Skate Shoe Is Seeing Yellow and Looking Good Doing It",
    "source": "Highsnobiety",
    "date": "2026-10-30",
@@ -309,7 +427,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 32,
    "title": "New Balance’s Saucy Hiking Sneaker Doesn’t Need the Trails To Be Great",
    "source": "Highsnobiety",
    "date": "2026-10-30",
@@ -322,48 +440,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
-   "title": "New Balance’s Puffer Mary Janes Are Too Good To Be Slept-on",
-   "source": "Highsnobiety",
-   "date": "2026-10-30",
-   "content": "New Balance releases the Sleeping Jane, a stylish Mary Jane version of its winter Sleeping Moc. Here's everything on the drop.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-sleeping-jane/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "Nike’s Casually Cool Sneaker Grew Tough Skin",
-   "source": "Highsnobiety",
-   "date": "2026-10-30",
-   "content": "Nike's Zoom Vomero 5 sneaker combines Cordura materials & a \"Light Orewood Brown\" colorway for a ruggedly clean release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-cordura-light-orewood-brown/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Nike’s Ostrich-Leather Air Jordans Are Pure Jumpman Elegance",
-   "source": "Highsnobiety",
-   "date": "2026-10-30",
-   "content": "The Air Jordan 14 sneaker lands in the brand's high-end \"Black Pack\" with ostrich-leather uppers & a clean all-black colorway.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-14-low-black-pack/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 27,
+   "id": 33,
    "title": "Wales Bonner 以鱷魚壓紋皮革、麂皮及馬毛重塑 adidas 經典鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -376,7 +453,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 34,
    "title": "消息指 Travis Scott、CPFM 與 Nike 將於 2027 年春季推出聯乘 Flea 1",
    "source": "Hypebeast 中文",
    "date": "2026-10-29",
@@ -389,31 +466,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
-   "title": "Onitsuka Tiger 為 Mexico 66「Paraty」注入毛絨新面貌",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-29",
-   "content": "名稱： Onitsuka Tiger Mexico 66「Paraty」建議售價： 190 美元發售日期： 現已發售購買點： Onitsuka TigerOnitsuka Tiger 為 2026 秋冬系列中的經典 Mexico 66「Paraty」賦予了更加柔和的個性，以長毛絨人造皮草包裹這款無鞋帶鞋型。引領最新設計的是單色「Faded Yellow」配色，將鞋面、內襯、鞋帶孔及橡膠鞋底塗上淡淡微褪的黃色。毛茸茸的表面在原本同色調的結構上帶來了明顯的紋理與陰影變化，而較為平滑的絨面革裁片則加固了鞋頭、鞋帶眼片和標誌性的 Onitsuka Tiger 虎爪紋，形成微妙的對比。儘管增加了體積，Mexico 66 標誌性的低筒輪廓依然完好無損，讓這款熟悉的復古跑鞋呈現出近乎拖鞋般的外觀。毛絨版本更擴展至更廣泛的色調，包括「Cotton Candy」粉紅色、「Airy Blue」、「Birch」和「Brown Storm」，從柔和的粉彩到溫暖的中性色調應有盡有。每款都保持了相同的無鞋帶結構，讓金屬鞋帶孔作為裝飾細節外露，而人造皮草則延伸至內部，帶來毛絨舒適的質感。Paraty 的可折疊後跟更讓鞋款具備兩種穿法——常規穿法或像踩踭鞋般踩下後跟，進一步彰顯設計的休閒特質。設定提醒並在 Hypebeast Drops 搶先了解最新發售資訊。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fonitsuka-tiger-paraty-mexico-66-official-images-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/onitsuka-tiger-paraty-mexico-66-official-images-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 30,
-   "title": "Kobe Bryant 比賽著用雙簽名 Air Jordan 8 Lakers PE 即將登上拍賣場",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-29",
-   "content": "摘要 The Realest 已正式公開拍賣 Kobe Bryant 曾於比賽親腳穿著且帶有雙簽名的 Air Jordan 8 Lakers Player Exclusive 球鞋這雙球鞋源自 Bryant 著名的 2002–03 年球鞋自由球員時期，鞋帶上帶有他的親筆簽名以及「8」號字樣經 MeiGray 和 SIA 獨立照片比對核實，這雙 14 碼球鞋將與他 2003–04 賽季比賽穿過的球衣一同開放競投，直至 11 月 8 日 The Realest 正式啟動 Kobe Bryant 比賽著用、雙簽名 Air Jordan 8 Lakers 球員專屬（Player Exclusive）球鞋的拍賣。這雙極具歷史意義的珍罕球鞋源自「黑曼巴」2002–03 賽季的球鞋自由球員時期，在經過該平台的 Gold Label Grails 世界巡迴展出後正式登上拍賣場。這雙 US 14 碼的球鞋曾於 2003 年 3 月 21 日洛杉磯湖人隊（Los Angeles Lakers）以 104–96 擊敗波士頓塞爾特人隊（Boston Celtics）的比賽中著用，並採用了湖人隊標誌性的紫、金、白配色。在 STAPLES Center 舉行的這場比賽中，Bryant 拿下 13 分、7 次助攻和 3 個籃板，為球鞋留下了明顯的實戰痕跡，並保留了原裝鞋帶和鞋墊。兩隻球鞋的標誌性交叉綁帶上均有 Bryant 以黑色麥克筆親筆簽名，並寫上他經典的「No. 8」字樣。這件文物已獲得 MeiGray 和 Sports Investors Authentication (SIA) 的獨立照片比對認證。與這雙球鞋一同登場的還有 Bryant 在 2003–04 賽季著用並簽名的 8 號湖人隊球衣，該球衣在現時的競標中已超過 712,000 美元。在拍賣前，這兩件拍品曾在洛杉磯及香港、東京、北京等亞洲主要城市巡迴展出，並曾在慕田峪長城和國家體育場（鳥巢）展出。Kobe Bryant 比賽著用 Air Jordan 8 Lakers 球員專屬版球鞋及其 2003–04 賽季著用球衣的競標將於 20",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fthe-realest-kobe-bryant-game-worn-dual-signed-air-jordan-8-lakers-pe-auction-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/the-realest-kobe-bryant-game-worn-dual-signed-air-jordan-8-lakers-pe-auction-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 31,
+   "id": 35,
    "title": "Wales Bonner Reworks adidas Classics in Croc Leather, Suede and Pony Hair",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -426,7 +479,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 36,
    "title": "Travis Scott, CPFM, and Nike Are Rumored to Release the Flea 1 in Spring 2027",
    "source": "Hypebeast",
    "date": "2026-10-29",
@@ -440,18 +493,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
-   "title": "Onitsuka Tiger Gives the “Paraty” Mexico 66 a Furry Makeover",
-   "source": "Hypebeast",
-   "date": "2026-10-29",
-   "content": "Name: Onitsuka Tiger “Paraty” Mexico 66MSRP: $190 USDRelease Date: Available NOWWhere to Buy: Onitsuka TigerOnitsuka Tiger gives its enduring “Paraty” Mexico 66 a decidedly softer personality for Fall/Winter 2026, wrapping the laceless silhouette in long-pile faux fur. Leading the latest treatment is a monochromatic “Faded Yellow” colorway, which coats the upper, lining, eyelets and rubber tooling in a pale, slightly washed yellow. The shaggy surface introduces visible shifts in texture and shadow across the otherwise tonal build, while smoother suede-like panels reinforce the toe, eyestay and signature Onitsuka Tiger Stripes for subtle contrast. Despite the added volume, the recognizable low-profile shape of the Mexico 66 remains intact, giving the familiar retro runner an almost slipper-like appearance.The furry edition extends across a broader tonal palette that also includes Cotton C",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2Fonitsuka-tiger-paraty-mexico-66-official-images-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/onitsuka-tiger-paraty-mexico-66-official-images-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 34,
+   "id": 37,
    "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
@@ -464,7 +506,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 38,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -477,7 +519,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 39,
    "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -490,7 +532,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 40,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
@@ -504,7 +546,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 41,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -517,7 +559,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 42,
    "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -531,7 +573,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 43,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -544,7 +586,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 41,
+   "id": 44,
    "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -554,19 +596,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "JORDAN"
-   ]
-  },
-  {
-   "id": 42,
-   "title": "Nike Air Force 1 Low “Halloween Black Rat”",
-   "source": "Nice Kicks",
-   "date": "2026-10-22",
-   "content": "The Nike Air Force 1 Low “Halloween Black Rat” embraces New York City’s gritty character with a playful design inspired by one of its… The post Nike Air Force 1 Low “Halloween Black Rat” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/iv4884-200-1-1-e1789839312344.jpg",
-   "link": "https://www.nicekicks.com/nike-air-force-1-low-halloween-black-rat-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
    ]
   }
  ]
