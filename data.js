@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-01 11:36",
+ "updatedAt": "2026-11-01 22:38",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -26,6 +26,45 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "率先近賞 Travis Scott x CPFM x Nike Air Flea 1「Cactus Jack」",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-01",
+   "content": "摘要 即將登場的 Travis Scott x CPFM x Nike Air Flea 1 Cactus Jack 近照現已曝光這款全新鞋型將卡其色麂皮與如同沾泥般的鞋底結合，並配備超大號加厚鞋領與隱藏式鞋舌口袋此鞋款將提供男碼尺寸，預計於 2027 年春季發售，售價為 $180 美元 鞋款名稱： Travis Scott x CPFM x Nike Flea 1「Cactus Jack」配色： Khaki/Night Forest-Oatmeal-Baroque Brown型號： IX7250-200官方定價： $180 美元發售日期： 2027 年春季購買點： NikeNike 聯同 Travis Scott 與 Cactus Plant Flea Market 帶來 Travis Scott x Nike CPFM Flea 1「Cactus Jack」，讓大眾深入一覽這款三方聯乘巨作。這對全新鞋款結合了 Cynthia Lu 與 Scott 的標誌性元素，採用厚實的輪廓設計，預計將於 2027 年春季登場。Air Flea 1 在比例上與 Nike SB Dunk Low 相似，融入了經改造的鞋眼設計、超大厚墊鞋領、重型腳踝緩震墊、條紋鞋跟標籤，以及後跟拉環。卡其色麂皮包裹整個鞋面，展現出高低不平的質感，並以鮮明的接縫縫線劃分。Scott 標誌性的隱藏式暗袋回歸至厚重的鞋舌內，配上粗鞋帶及以 Night Forest 綠色呈現的巨大倒置 Swoosh 點綴。鞋跟處飾有雙方聯乘標誌，將 Scott 的 Cactus Jack 徽號與 CPFM 的笑臉圖案巧妙結合，並在鞋舌、鞋墊及內襯加入粉紅色點綴，平衡整體視覺。下方飾有紋理的啡色中底營造出沾滿泥巴的視覺效果，開箱即展現舊化美學。Travis Scott x CPFM x Nike Air Flea 1「Cactus Jack」預計將於 2027 年春季發售，定價為 $180 美元。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Ftravis-scott-nike-cpfm-flea-1-cactus-jack-IX7250-200-closer-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/travis-scott-nike-cpfm-flea-1-cactus-jack-ix7250-200-closer-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Kids of Immigrants 為 Nike Tiempo Maestro Elite FG SE 注入「Sundial」配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-01",
+   "content": "摘要 Matheus Cunha 於球場上率先展示即將登場的 Kids of Immigrants x Nike Tiempo Maestro Elite FG SE這款釘鞋採用靈感源自該品牌 2024 年 Air Max SNDR 的「Sundial」漸變配色，並配以致敬 Honduras 與 Liberia 的輪廓線條此聯乘鞋款預計於 11 月 4 日透過 Nike 及 Kids of Immigrants 渠道正式發售 鞋款名稱： Kids of Immigrants x Nike Tiempo Maestro Elite FG SE配色： Sundial/Multi-Color產品編號： IV3429-700建議售價： $260 美元發售日期： 2026 年 11 月 4 日發售點： NikeNike 與洛杉磯品牌 Kids of Immigrants 正式在綠茵場上重聚，攜手推出 Kids of Immigrants x Nike Tiempo Maestro Elite FG SE「Sundial」。這款聯乘鞋履早前由足球員 Matheus Cunha 在比賽中率先著用，將 KOI 標誌性的鮮豔漸層色調注入 Nike 的專業級足球鞋之中。創辦人 Daniel Buezo 與 Weleh Dennis 從各自的祖國洪都拉斯及利比里亞汲取靈感，重塑了成型鞋面。有別於標準 Tiempo 的水平紋理，此鞋款加入了從中足向外輻射的立體等高線，其形狀源自兩國的多山地形。配色方面以該品牌 2024 年推出的 Air Max SNDR 上曾見過的標誌性「Sundial」色調為焦點，採用從黃到紅的漸層效果，由中段的橙色過渡，並向下流動至鞋頭與鞋跟。中足、內襯及外底均以純黑色覆蓋，暗黑的側面裁片點綴著紅色小 Swoosh 標誌，而外側前掌位置則飾有 Kids Of Immigrants 字樣。Kids of Immigrants x Nike Tiempo Maestro Elite FG SE「Sundial」預計於 2026 年 11 月 4 日發售，定價約為 $260 美",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fkids-of-immigrants-nike-tiempo-maestro-elite-fg-se-sundial-IV3429-700-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/kids-of-immigrants-brings-sundial-to-the-nike-tiempo-maestro-elite-fg-se",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Deion Sanders Jr. 主理品牌 Well Off Forever 與 Nike 攜手推出 Air DT Proto 92 聯乘鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-01",
+   "content": "摘要 Deion Sanders Jr 攜其品牌 Well Off Forever 與 Nike Air DT Proto 92 展開合作，迎來該鞋款的首次公開發售設計參考了早期的 Diamond Turf 樣鞋，以黑白兩色為基底，並融入取材自 Colorado 的金色細節作點綴此聯乘鞋款預計於 11 月 30 日登陸 Nike.com 及指定零售商，售價為 $180 美元 名稱： Well Off Forever x Nike Air DT Proto 92配色： White/Metallic Gold-Off NoirSKU： JF7593-100建議零售價： $180 美元發售日期： 2026 年 11 月 30 日發售點： NikeNike 與 Deion Sanders Jr. 旗下品牌 Well Off Forever 即將推出聯乘 Air DT Proto 92，這是該品牌首次公開發售運動鞋。此次聯乘企劃將 Coach Prime 鞋履系列中的經典原型作帶到大眾眼前。Air DT Proto 92 植根於 Deion Sanders 原創簽名系列的起源，直接取材自早期的 Diamond Turf 樣本，該樣本在外側飾有標準量產版所沒有的 Swoosh 標誌。這次聯乘版本採用黑白雙色鞋面，並加入金屬金色點綴，藉此呼應 Colorado 欖球隊的經典配色。鞋身各處的標誌性細節彰顯了雙方的合作關係。Well Off Forever 標誌醒目地配置於鞋跟處，而中足綁帶底側則飾有與該品牌直接相關的專屬刺繡字樣。除了這些個人化品牌點綴外，鞋款亦保留了 Air DT Proto 92 核心的復古底盤與結構。Well Off Forever x Nike Air DT Proto 92 預計將於 2026 年 11 月 30 日發售。敬請設定提醒，並在 Hypebeast Drops 搶先掌握最新發售資訊。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fwell-off-forever-nike-air-dt-proto-92-JF7593-100-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/well-off-forever-nike-air-dt-proto-92-jf7593-100-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
    "title": "Bad Bunny 聯手 adidas 推出 BadBo 1.1 最新「Simple Brown」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-01",
@@ -38,7 +77,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 5,
    "title": "Nike Basketball 與 LeBron James 正式發佈 LeBron 24",
    "source": "Hypebeast 中文",
    "date": "2026-11-01",
@@ -51,7 +90,59 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 6,
+   "title": "Closer Look at the Travis Scott x Nike CPFM Air Flea 1 \"Cactus Jack\"",
+   "source": "Hypebeast",
+   "date": "2026-11-01",
+   "content": "Summary A closer look has surfaced for the upcoming Travis Scott x CPFM x Nike Air Flea 1 Cactus JackThe brand-new silhouette pairs khaki suede and mud-dipped soles with oversized padded collars and a hidden tongue pocketArriving in men's sizing the sneaker is expected to release in Spring 2027 for $180 USD Name: Travis Scott x CPFM x Nike Flea 1 “Cactus Jack”Colorway: Khaki/Night Forest-Oatmeal-Baroque BrownSKU: IX7250-200MSRP: $180 USDRelease Date: Spring 2027Where to Buy: NikeNike has linked up with Travis Scott and Cactus Plant Flea Market for the Travis Scott x Nike CPFM Flea 1 \"Cactus Jack\", offering an in-depth look at the tripartite collaboration. The brand-new model unites signature motifs from Cynthia Lu and Scott across a chunky silhouette expected to arrive in Spring 2027.Drawing proportional comparisons to the Nike SB Dunk Low, the Air Flea 1 incorporates modified eyestay sh",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F30%2Ftravis-scott-nike-cpfm-flea-1-cactus-jack-IX7250-200-closer-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/travis-scott-nike-cpfm-flea-1-cactus-jack-ix7250-200-closer-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Kids of Immigrants Brings \"Sundial\" to the Nike Tiempo Maestro Elite FG SE",
+   "source": "Hypebeast",
+   "date": "2026-11-01",
+   "content": "Summary Matheus Cunha provided an on-pitch early look at the upcoming Kids of Immigrants x Nike Tiempo Maestro Elite FG SEThe cleat features a Sundial gradient inspired by the label's 2024 Air Max SNDR alongside contours referencing Honduras and LiberiaThe collaborative silhouette is slated to launch on November 4 via Nike and Kids of Immigrants channels Name: Kids of Immigrants x Nike Tiempo Maestro Elite FG SEColorway: Sundial/Multi-ColorSKU: IV3429-700MSRP: $260 USDRelease Date: November 4, 2026Where to Buy: NikeNike and Los Angeles-based label Kids of Immigrants have officially reunited on the pitch with the Kids of Immigrants x Nike Tiempo Maestro Elite FG SE \"Sundial\", debuted during a match by footballer Matheus Cunha. The collaborative silhouette brings KOI's signature vibrant gradient palette to Nike's performance football boot.Reworking the molded upper, founders Daniel Buezo a",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F30%2Fkids-of-immigrants-nike-tiempo-maestro-elite-fg-se-sundial-IV3429-700-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/kids-of-immigrants-brings-sundial-to-the-nike-tiempo-maestro-elite-fg-se",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Deion Sanders Jr.'s Well Off Forever Teams up With Nike on the Air DT Proto 92",
+   "source": "Hypebeast",
+   "date": "2026-11-01",
+   "content": "Summary Deion Sanders Jr is bringing his Well Off Forever label to the Nike Air DT Proto 92 for its first-ever public releaseThe design references an early Diamond Turf sample with a black and white base accented by Colorado-inspired gold hitsThe collaboration is scheduled to arrive on November 30 via Nike.com and select retailers for $180 USD Name: Well Off Forever x Nike Air DT Proto 92Colorway: White/Metallic Gold-Off NoirSKU: JF7593-100MSRP: $180 USDRelease Date: November 30, 2026Where to Buy: NikeNike and Deion Sanders Jr.’s imprint Well Off Forever are launching the collaborative Air DT Proto 92, delivering the brand’s first-ever public sneaker release. The collaborative project brings an archival prototype from Coach Prime's footwear lineage to consumer shelves.Rooted in the genesis of Deion Sanders’ original signature line, the Air DT Proto 92 pulls directly from an early Diamond",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F28%2Fwell-off-forever-nike-air-dt-proto-92-JF7593-100-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/well-off-forever-nike-air-dt-proto-92-jf7593-100-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Bad Bunny and adidas Introduce the BadBo 1.1 in \"Simple Brown\"",
+   "source": "Hypebeast",
+   "date": "2026-11-01",
+   "content": "Summary Bad Bunny and adidas are expanding their signature sneaker lineage with the BadBo 1.1 in Simple BrownThe low-top design combines textured brown suede overlays with pale pink synthetic underlays and a gum outsoleThe pair is scheduled to launch on November 7 for a retail price of $120 USD Name: Bad Bunny x adidas BadBo 1.1 \"Simple Brown\"Colorway: Simple Brown/Feather Grey-Sandy PinkSKU: LM5057MSRP: $120 USDRelease Date: November 7, 2026Where to Buy: adidasadidas and Bad Bunny are continuing to build out their signature footwear roster with the Bad Bunny x adidas BadBo 1.1 \"Simple Brown\". The upcoming low-top silhouette returns to the familiar earthy aesthetic that defined the duo's earlier Forum and Campus collaborations.Constructed with a mix of materials, the sneaker features tactile textured brown suede overlays layered atop a pale pink synthetic base, which reveals itself betwe",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2Fbad-bunny-adidas-badbo-1-1-simple-brown-lm5057-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/10/bad-bunny-adidas-badbo-1-1-simple-brown-lm5057-first-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 10,
    "title": "Nike Basketball and LeBron James Officially Introduce the LeBron 24",
    "source": "Hypebeast",
    "date": "2026-11-01",
@@ -64,7 +155,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 11,
    "title": "Nike 推出 Air Force 1 '07 紀念密爾沃基釀酒人隊奪得世界大賽冠軍",
    "source": "Hypebeast 中文",
    "date": "2026-10-31",
@@ -77,7 +168,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 12,
    "title": "NN.07 與 Clarks Originals 推出全新聯乘 Wallabee 及 Desert Boot 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-31",
@@ -90,7 +181,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 13,
    "title": "Nike Commemorates the Milwaukee Brewers' World Series Title With an Air Force 1 '07",
    "source": "Hypebeast",
    "date": "2026-10-31",
@@ -103,7 +194,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 14,
    "title": "NN.07 and Clarks Originals Rework the Wallabee and Desert Boot in New Collab",
    "source": "Hypebeast",
    "date": "2026-10-31",
@@ -116,7 +207,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 15,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
@@ -129,7 +220,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 16,
    "title": "adidas’ Handsome Outdoor Boots Can Genuinely Weather the Storm",
    "source": "Highsnobiety",
    "date": "2026-10-31",
@@ -142,7 +233,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 17,
    "title": "New Balance’s Luxe Dad Shoe Is a Half-Tweed, Half-Leather Masterpiece",
    "source": "Highsnobiety",
    "date": "2026-10-31",
@@ -155,7 +246,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 18,
    "title": "Nike's UGG-Coded Slipper Boot Is the Coziest Recovery Flex",
    "source": "Highsnobiety",
    "date": "2026-10-31",
@@ -169,7 +260,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 19,
    "title": "Nike’s Chocolate-Covered Air Forces Are Mid-Sized Sweet Treats",
    "source": "Highsnobiety",
    "date": "2026-10-31",
@@ -182,7 +273,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 20,
    "title": "Even in the Dark, Nike’s Winterized Dad Sneaker Still Shines",
    "source": "Highsnobiety",
    "date": "2026-10-31",
@@ -195,7 +286,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 21,
    "title": "Nike’s Archival Racer Is Looking Berry Good",
    "source": "Highsnobiety",
    "date": "2026-10-31",
@@ -208,7 +299,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 22,
    "title": "The Evolution of New Balance’s 990 Continues",
    "source": "Highsnobiety",
    "date": "2026-10-31",
@@ -221,7 +312,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 23,
    "title": "曾亮相 COMME des GARÇONS HOMME 巴黎時裝展的 New Balance 1890A 迎來發售日期",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -234,7 +325,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 24,
    "title": "Nike 為杜克大學女子籃球隊推出 Caitlin 1「Duke」PE 專屬配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -247,7 +338,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 25,
    "title": "Nike Air Max Plus 最新鞋款致敬 Glasgow 著名交通錐",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -260,7 +351,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 26,
    "title": "Bad Bunny 全新 adidas BadBo Stone Slides 拖鞋猶如岩石雕刻",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -273,7 +364,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 27,
    "title": "Bad Bunny 與 adidas 攜手發布 Badbo 1.0 最新「Grey Three」配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -286,20 +377,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
-   "title": "UNION 聯乘 Nike Dunk Low「Natural Selection」系列迎來三款配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-30",
-   "content": "鞋款：UNION x Nike Dunk Low「Natural Selection」建議售價：$130 美元發售日期：10 月 30 日購買點：UNIONUNION 與 Nike 再次攜手帶來「Natural Selection」企劃，推出三款 Dunk Low 系列，將這雙熟悉的籃球鞋款褪去繁複設計，轉化為更柔軟、寬鬆且具備高適應性的鞋款。此系列包含「Hide」、「Fatigue」與「Eclipse」，皆採用無內裡麂皮打造，捨棄常見的內部加固層，呈現更為隨性自在的無結構輪廓。其中「Hide」採用溫暖的 Palomino 啡色，麂皮表面刻有微妙的豹紋圖案，營造出同色系的動物紋效果，展現出最具張力的風格。「Fatigue」則轉換為大地色系的 Bamboo 與橄欖綠色調；而「Eclipse」則以近乎黑色的 Off Noir 和炭灰色調保持沉穩。這三款鞋作的麂皮皆向下延伸至中底，鞋眼與鞋舌周圍的粗身對比色縫線，更增添了明顯的手工質感。此外，少量的 University Gold 點綴、UNION 聯乘標誌以及訂製的鞋帶配件，為原本低調的配色帶來明亮的對比焦點。此系列最大的亮點在於後跟設計，用家可將其摺下，將每一對 Dunk 從傳統的綁帶波鞋轉變為懶人鞋，賦予鞋款一鞋兩穿的結構，完美呼應其「適應」的設計主題。 View this post on InstagramA post shared by Union Los Angeles (@unionlosangeles) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fnike-dunk-low-union-natural-selection-collaboration-capsule-collection-fatigue-if7380-200-eclipse-if7380-001-hide-ix2929-200-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/nike-dunk-low-union-natural-selection-collaboration-capsule-collection-fatigue-if7380-200-eclipse-if7380-001-hide-ix2929-200-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 22,
+   "id": 28,
    "title": "ACRONYM and ALIVEFORM Launch THE BLADE in New \"SILVER FANG\" Colorway",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -310,7 +388,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 23,
+   "id": 29,
    "title": "The New Balance 1890A That Walked COMME des GARÇONS HOMME’s Paris Runway Has a Release Date",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -323,7 +401,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 30,
    "title": "Nike Unveils the Caitlin 1 \"Duke\" PE for Blue Devils Women's Basketball",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -336,7 +414,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 31,
    "title": "Nike References Glasgow's Famous Traffic Cone on the Air Max Plus",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -349,7 +427,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 32,
    "title": "Bad Bunny’s adidas BadBo Stone Slides Look Carved Straight From Rock",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -362,33 +440,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
-   "title": "Bad Bunny and adidas Present the Badbo 1.0 in \"Grey Three\"",
-   "source": "Hypebeast",
-   "date": "2026-10-30",
-   "content": "Summary Bad Bunny and adidas have unveiled the Badbo 1.0 in a Grey Three colorway as part of an upcoming November packThe silhouette combines Grey Three suede overlays with Orbit Grey leather and signature blue lace tipsThe pair is scheduled to drop on November 7 via adidas.com and select retailers for $160 USD Name: Bad Bunny x adidas BadBo 1.1 \"Simple Brown\"Colorway: Grey Three/Cloud White-Orbit GreySKU: LC5290MSRP: $160 USDRelease Date: November 7, 2026Where to Buy: adidasadidas and Bad Bunny are expanding their collaborative footprint with the upcoming release of the Bad Bunny x adidas Badbo 1.0 \"Grey Three\". First reported by Mason Tiniuc, the silhouette forms one half of a two-piece November pack alongside the low-top Badbo 1.1, continuing the Puerto Rican artist’s affinity for muted, neutral color palettes.The sneaker is defined by its tonal textural contrast, layering rich \"Grey ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2Fbad-bunny-adidas-badbo-1-0-grey-three-LC5290-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/bad-bunny-adidas-badbo-1-0-grey-three-lc5290-first-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "UNION and Nike’s Dunk Low “Natural Selection” Collection Arrives in Three Adaptable Colorways",
-   "source": "Hypebeast",
-   "date": "2026-10-30",
-   "content": "Name: UNION x Nike Dunk Low \"Natural Selection\"MSRP: $130 USDRelease Date: October 30Where to Buy: UNIONUNION and Nike reconnect for “Natural Selection,” a three-part Dunk Low collection that strips the familiar basketball silhouette back into something softer, looser and more adaptable. The pack comprises “Hide,” “Fatigue” and “Eclipse,” each built from unlined suede without the usual internal reinforcement for a more relaxed, unstructured shape. “Hide” takes the most expressive route in warm Palomino brown, with a subtle leopard-like pattern etched across the suede for a tonal animal-print effect. “Fatigue” shifts into earthy Bamboo and olive hues, while “Eclipse” keeps things darker in near-black Off Noir and charcoal tones. Across all three, the suede extends unusually far down toward the midsole, while thick contrast stitching around the eyestays and tongue adds a visibly handmade q",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2Fnike-dunk-low-union-natural-selection-collaboration-capsule-collection-fatigue-if7380-200-eclipse-if7380-001-hide-ix2929-200-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nike-dunk-low-union-natural-selection-collaboration-capsule-collection-fatigue-if7380-200-eclipse-if7380-001-hide-ix2929-200-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 29,
+   "id": 33,
    "title": "Nike’s Techy Dad Shoe Has a Secret Girly Side",
    "source": "Highsnobiety",
    "date": "2026-10-30",
@@ -401,7 +453,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 34,
    "title": "Nike’s Oldest Sneaker Takes Balletcore to the Moon",
    "source": "Highsnobiety",
    "date": "2026-10-30",
@@ -414,7 +466,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 35,
    "title": "New Balance’s Skate Shoe Is Seeing Yellow and Looking Good Doing It",
    "source": "Highsnobiety",
    "date": "2026-10-30",
@@ -427,7 +479,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 36,
    "title": "New Balance’s Saucy Hiking Sneaker Doesn’t Need the Trails To Be Great",
    "source": "Highsnobiety",
    "date": "2026-10-30",
@@ -437,59 +489,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Wales Bonner 以鱷魚壓紋皮革、麂皮及馬毛重塑 adidas 經典鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-29",
-   "content": "名稱： adidas Originals by Wales Bonner 2026 秋冬鞋履系列建議售價： 有待公布發售日期： 10 月 29 日購買點： adidas繼 adidas Originals by Wales Bonner 2026 秋冬系列全面曝光後，本季的鞋履新作將雙方在運動傳統與奢華風格之間的熟悉對話，推進至更具質感的領域。是次帶來四款鞋型、合共五雙鞋款，首先登場的是 WB Karintha「Dark Brown」，其修長輪廓以光澤感十足的鱷魚壓紋啡色皮革覆蓋，配搭黑色三間標誌及拉絲金色鞋眼，帶來宛如正裝鞋般的精緻外觀。WB Gazelle Snake「Green Night」同樣將這種爬行動物紋理應用於這款室內足球經典作上，深寶石綠色的鞋身配上鮮明的白色三間標誌及生膠外底，並於內襯綴以令人驚喜的亮藍色。從足球鞋轉向跑鞋，WB ADIZERO Adios Suede「Wonder White」則以奶油般的米白色麂皮，為其機能鞋型注入柔和感，加上手工潤飾的專屬三間標誌，為俐落的線條增添一絲工藝氣息。壓軸登場的是首度亮相的 WB BW Pony，運用馬毛與具對比效果的蜥蜴壓紋皮革覆蓋層互相結合，重新演繹這款源自軍用設計的極簡鞋款。當中「Black Pony」版本維持近乎全黑的鞋身，透過質感與光澤的變化在經典生膠大底上展現細節；而「Khaki Pony」則換上柔和的大地色調，並於內部隱藏了豐富的酒紅色內襯。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fadidas-originals-by-wales-bonner-fall-winter-2026-footwear-collection-wb-karintha-wb-gazelle-snake-wb-adizero-adios-suede-cmapaign-images-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/adidas-originals-by-wales-bonner-fall-winter-2026-footwear-collection-wb-karintha-wb-gazelle-snake-wb-adizero-adios-suede-cmapaign-images-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "消息指 Travis Scott、CPFM 與 Nike 將於 2027 年春季推出聯乘 Flea 1",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-29",
-   "content": "摘要 據早期消息指出，Travis Scott 與 Cactus Plant Flea Market 正與 Nike 合作推出 Flea 1 Cactus Jack流出的細節顯示，該鞋款將採用反轉 Swoosh、沙色鞋面，以及鞋身內側的 Cactus Jack 標誌傳聞這款聯乘鞋款將於 2027 年春季透過 SNKRS 及指定零售商發售，定價為 $180 美元 名稱：Travis Scott x CPFM x Nike Flea 1「Cactus Jack」配色：Khaki/Night Forest-Oatmeal-Baroque Brown型號：IX7250-200建議零售價：$180 美元發售日期：2027 年春季發售點：Nike有傳 Nike、Travis Scott 和 Cactus Plant Flea Market 將攜手推出 Travis Scott x CPFM x Nike Flea 1「Cactus Jack」。根據情報帳號 @brandon1an 和 Sneaker Market RO 釋出的消息，這個三方聯乘企劃預計將為這款難產多時的鞋型翻開新一頁。據早期報導指出，設計以大地色鞋面為主，配以白色覆面和深綠色點綴，呈現「Khaki/Night Forest/Oatmeal/Baroque Brown」的色彩組合。據指鞋側保留了 Travis Scott 標誌性的倒置 Swoosh，而內側鞋踭則飾有標誌性的 Cactus Jack 臉部圖案。Flea 1 鞋型最初於 2022 年亮相，當時僅推出了「Overgrown」版本，原定的「Barley」配色則因生產問題而被擱置。Travis Scott x CPFM x Nike Flea 1「Cactus Jack」預計將於 2027 年春季透過 CPFM、Travis Scott 官方網站、Nike SNKRS 以及指定零售商發售，定價為 $180 美元。記得設定提醒，密切留意 Hypebeast Drops 帶來的最新發售消息。 Click here to view full gallery at H",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Ftravis-scott-nike-cpfm-flea-1-cactus-jack-ix7250-200-rumored-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/travis-scott-nike-cpfm-flea-1-cactus-jack-ix7250-200-rumored-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "Wales Bonner Reworks adidas Classics in Croc Leather, Suede and Pony Hair",
-   "source": "Hypebeast",
-   "date": "2026-10-29",
-   "content": "Name: adidas Originals by Wales Bonner FW26 Footwear CollectionMSRP: TBCRelease Date: October 29Where to Buy: adidasFollowing the wider reveal of adidas Originals by Wales Bonner’s Fall/Winter 2026 collection, the season’s footwear offering pushes the partnership’s familiar dialogue between sports heritage and luxury into increasingly tactile territory. Five pairs span four silhouettes, beginning with the WB Karintha “Dark Brown,” which covers its slender profile in glossy crocodile-stamped brown leather, sharpened by black Three Stripes and brushed gold-tone eyelets for an almost dress-shoe-like finish.The WB Gazelle Snake “Green Night” applies the same reptilian texture to the indoor-football classic, pairing a deep jewel-toned green upper with crisp white Three Stripes, a gum sole and an unexpected flash of bright blue at the lining. Moving from football to running, the WB ADIZERO Adi",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2Fadidas-originals-by-wales-bonner-fall-winter-2026-footwear-collection-wb-karintha-wb-gazelle-snake-wb-adizero-adios-suede-cmapaign-images-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/adidas-originals-by-wales-bonner-fall-winter-2026-footwear-collection-wb-karintha-wb-gazelle-snake-wb-adizero-adios-suede-cmapaign-images-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "Travis Scott, CPFM, and Nike Are Rumored to Release the Flea 1 in Spring 2027",
-   "source": "Hypebeast",
-   "date": "2026-10-29",
-   "content": "Summary Early reports indicate that Travis Scott and Cactus Plant Flea Market are collaborating with Nike on the Flea 1 Cactus JackLeaked details suggest the silhouette will feature a reverse Swoosh tan upper and medial Cactus Jack brandingThe collaborative sneaker is rumored to drop in Spring 2027 through SNKRS and select stockists for $180 USD Name: Travis Scott x CPFM x Nike Flea 1 \"Cactus Jack\"Colorway: Khaki/Night Forest-Oatmeal-Baroque BrownSKU: IX7250-200MSRP: $180 USDRelease Date: Spring 2027Where to Buy: NikeNike, Travis Scott, and Cactus Plant Flea Market are rumored to be uniting on the upcoming Travis Scott x CPFM x Nike Flea 1 \"Cactus Jack\". Sourced from insider leaks by @brandon1an and Sneaker Market RO, the collaborative three-way project is slated to add a new chapter to the silhouette's elusive release timeline.According to early reports, the design features a tan-based ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2Ftravis-scott-nike-cpfm-flea-1-cactus-jack-ix7250-200-rumored-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/travis-scott-nike-cpfm-flea-1-cactus-jack-ix7250-200-rumored-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
    ]
   },
   {
