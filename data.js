@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-01 22:38",
+ "updatedAt": "2026-11-02 11:42",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -19,13 +19,64 @@ window.SNEAKER_DATA = {
   "CLARKS",
   "JORDAN",
   "NEW BALANCE",
-  "NIKE",
-  "UGG"
+  "NIKE"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Action Bronson 與 New Balance 發布 Baklava 2811 全新「Clear Sky/Limelight」及「Amaranth/Limoges」配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-02",
+   "content": "摘要 Action Bronson x New Balance Baklava 2811 聯乘鞋款「Clear Sky/Limelight」及「Amaranth/Limoges」配色的官方圖片正式曝光兩款鞋型均融合網面皮革與半透明 TPU 覆層，並輔以獨特的對比色縫線與標誌性品牌細節此聯乘雙套裝預計將於 2026 年節日季登場，採用中性尺寸，售價為 $180 美元 名稱：Action Bronson x New Balance Baklava 2811配色：Clear Sky/Limelight、Amaranth/LimogesSKU：U28111IV、U28118NQ建議零售價：$180 美元發售日期：2026 年冬季發售點： New BalanceNew Balance 與長期合作夥伴 Action Bronson 官方發布了 Action Bronson x New Balance Baklava 2811 兩款對比鮮明的配色「Clear Sky/Limelight」與「Amaranth/Limoges」。最新曝光的官方圖輯展示了這位多才多藝的創作者，如何在這款充滿技術感的鞋型上生動演繹紋理與色彩碰撞。「Clear Sky/Limelight」配色結合了淺藍與霓虹綠色調，鞋頭周圍包裹著黑色皮革。寬鬆針織的網眼鞋頭飾有深藍色縫線，兩側下方鑲嵌著波浪形藍色皮革面板。半透明綠色 TPU 覆面讓底層紋理若隱若現，並配以相呼應的綠色「N」字標誌，而藍色皮革鞋舌則印有「Baklava 2811」品牌字樣。相比之下，「Amaranth/Limoges」配色以紫色為主調，淺紫色網眼底層之上覆蓋著豐富的紫色皮革（點綴於鞋頭及兩側下方），並加入了酒紅色鞋頭縫線。半透明藍色覆面貫穿外側，與半透明的「N」字標誌相互呼應，而鮮豔的藍綠色皮革鞋舌則帶來層次感，並飾有 Baklava 與 New Balance 雙重品牌標誌。Action Bronson x New Balance Baklava 2811「Clear Sky/Limelight」及「Amaranth/Limoges」預計將於",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Faction-bronson-new-balance-baklava-2811-clear-sky-limelight-u28111iv-amaranth-limoges-u28118nq-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/action-bronson-new-balance-baklava-2811-clear-sky-limelight-u28111iv-amaranth-limoges-u28118nq-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "傳 Travis Scott、Rockstar Games 與 Nike 將聯手推出《GTA 6》專屬 Air Force 1 Low 三方聯乘鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-02",
+   "content": "摘要 傳聞 Travis Scott 旗下品牌 Cactus Jack 將攜手 Rockstar Games 與 Nike，推出三款 Air Force 1 Low 配色據悉該系列預計於 11 月 19 日配合《Grand Theft Auto 6》登場同步發售每款聯乘鞋款共推出三種不同配色，發售價定為 130 美元 據報 Nike 將與 Travis Scott 的 Cactus Jack 及 Rockstar Games 聯手推出 Nike Air Force 1 Low '07 RS 系列，預計與 《Grand Theft Auto 6》 的發布同步登場。三款聯乘配色已在零售商的發售日程表上曝光。關於此企劃的猜測源於列表中的「RS」標記，據 @sneakermarketro 報道，這代表了 Rockstar Games。雖然目前尚未有流出的圖片，但日程表記錄顯示了三款獨特的配色，分別是「White/Fire Pink」、「Black/Fire Pink」以及「Multi-Color/Pale Ivory/Black/Bold Berry/Fire Pink」。在此次合作之前，Scott 已參與了遊戲配樂的製作，並發布過以 Vice City 為主題的預告。Cactus Jack x Rockstar Games x Nike Air Force 1 Low '07 RS 系列預計於 2026 年 11 月 19 日發售，定價為 $130 美元。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Ftravis-scott-rockstar-games-nike-air-force-1-low-trio-gta-6-rumored-release-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/travis-scott-rockstar-games-nike-air-force-1-low-trio-gta-6-rumored-release",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Action Bronson and New Balance Reveal Baklava 2811 in \"Clear Sky/Limelight\" and \"Amaranth/Limoges\"",
+   "source": "Hypebeast",
+   "date": "2026-11-02",
+   "content": "Summary Official images have surfaced for the Action Bronson x New Balance Baklava 2811 in Clear Sky/Limelight and Amaranth/LimogesBoth silhouettes combine mesh leather and semi-translucent TPU overlays with distinctive contrast stitching and signature brandingThe collaborative two-pack is expected to release during Holiday 2026 for $180 USD in unisex sizing Name: Action Bronson x New Balance Baklava 2811Colorway: Clear Sky/Limelight, Amaranth/LimogesSKU: U28111IV, U28118NQMSRP: $180 USDRelease Date: Holiday 2026Where to Buy: New BalanceNew Balance and long-time collaborator Action Bronson have officially revealed the Action Bronson x New Balance Baklava 2811 in two contrasting colorways \"Clear Sky/Limelight\" and \"Amaranth/Limoges.\" Newly surfaced official imagery showcases the multifaceted creator's vibrant approach to texture and colorblocking across the technical model.The \"Clear Sky/",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F01%2Faction-bronson-new-balance-baklava-2811-clear-sky-limelight-u28111iv-amaranth-limoges-u28118nq-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/action-bronson-new-balance-baklava-2811-clear-sky-limelight-u28111iv-amaranth-limoges-u28118nq-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Travis Scott, Rockstar Games, and Nike Rumored to Release Air Force 1 Low Trio for 'GTA 6'",
+   "source": "Hypebeast",
+   "date": "2026-11-02",
+   "content": "Summary Travis Scott's Cactus Jack is rumored to team up with Rockstar Games and Nike on three Air Force 1 Low colorwaysThe release is reportedly scheduled to launch on November 19 alongside the arrival of 'Grand Theft Auto 6'Each collaborative pair is listed at a 130 USD retail price point across three distinct palettes Nike is reportedly linking up with Travis Scott's Cactus Jack and Rockstar Games for the Nike Air Force 1 Low '07 RS Collection, slated to coincide with the launch of Grand Theft Auto 6. Three collaborative colorways have surfaced on retail release calendars.Speculation surrounding the project stems from the 'RS' designation in the listings, which @sneakermarketro reports denotes Rockstar Games. While leaked imagery has not yet surfaced, calendar entries reveal three distinct colorways: \"White/Fire Pink,\" \"Black/Fire Pink,\" and a \"Multi-Color/Pale Ivory/Black/Bold Berry/",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F01%2Ftravis-scott-rockstar-games-nike-air-force-1-low-trio-gta-6-rumored-release-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/travis-scott-rockstar-games-nike-air-force-1-low-trio-gta-6-rumored-release",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
    "title": "率先近賞 Travis Scott x CPFM x Nike Air Flea 1「Cactus Jack」",
    "source": "Hypebeast 中文",
    "date": "2026-11-01",
@@ -38,7 +89,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 6,
    "title": "Kids of Immigrants 為 Nike Tiempo Maestro Elite FG SE 注入「Sundial」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-01",
@@ -51,7 +102,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 7,
    "title": "Deion Sanders Jr. 主理品牌 Well Off Forever 與 Nike 攜手推出 Air DT Proto 92 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-01",
@@ -64,7 +115,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 8,
    "title": "Bad Bunny 聯手 adidas 推出 BadBo 1.1 最新「Simple Brown」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-01",
@@ -77,7 +128,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 9,
    "title": "Nike Basketball 與 LeBron James 正式發佈 LeBron 24",
    "source": "Hypebeast 中文",
    "date": "2026-11-01",
@@ -90,7 +141,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 10,
    "title": "Closer Look at the Travis Scott x Nike CPFM Air Flea 1 \"Cactus Jack\"",
    "source": "Hypebeast",
    "date": "2026-11-01",
@@ -103,7 +154,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 11,
    "title": "Kids of Immigrants Brings \"Sundial\" to the Nike Tiempo Maestro Elite FG SE",
    "source": "Hypebeast",
    "date": "2026-11-01",
@@ -116,7 +167,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 12,
    "title": "Deion Sanders Jr.'s Well Off Forever Teams up With Nike on the Air DT Proto 92",
    "source": "Hypebeast",
    "date": "2026-11-01",
@@ -129,7 +180,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 13,
    "title": "Bad Bunny and adidas Introduce the BadBo 1.1 in \"Simple Brown\"",
    "source": "Hypebeast",
    "date": "2026-11-01",
@@ -142,7 +193,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 14,
    "title": "Nike Basketball and LeBron James Officially Introduce the LeBron 24",
    "source": "Hypebeast",
    "date": "2026-11-01",
@@ -155,7 +206,86 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 15,
+   "title": "adidas’ Most Lowkey Sneaker Is Highly Luxe",
+   "source": "Highsnobiety",
+   "date": "2026-11-01",
+   "content": "adidas' latest Tobacco sneaker is a Japan-exclusive release featuring a clean all-black colorway & luxe suede uppers.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-tobacco-triple-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Nike SB's Glossy Champagne-Themed Dunks Have Expensive Taste",
+   "source": "Highsnobiety",
+   "date": "2026-11-01",
+   "content": "Nike SB debuts a patent leather Dunk Low \"Black Spruce\" skate shoe inspired by champagne bottles.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-sb-dunk-black-spruce/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Nike’s ‘Space Jam’ Air Jordans Went Full Bottega",
+   "source": "Highsnobiety",
+   "date": "2026-11-01",
+   "content": "The Air Jordan 11 gets a refresh for the 'Space Jam' collection, resulting in this tonal Bottega-style \"Green Screen\" version of the sneaker.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-11-space-jam-green-screen/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Nike’s Exquisite Olive-Green Running Shoe Is Perfect",
+   "source": "Highsnobiety",
+   "date": "2026-11-01",
+   "content": "Nike's Pegasus Premium running shoe gets an earthy \"Cargo Khaki\" makeover for its latest release. And honestly, it's quite perfect.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-pegasus-premium-cargo-khaki/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "New Balance's Next USM Collab? Modular Cold Plunge Tanks",
+   "source": "Highsnobiety",
+   "date": "2026-11-01",
+   "content": "New Balance & USM return with their newest collaboration: modular cold plunge stations for New York marathon runners.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-usm-dover-street-market/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "Wales Bonner’s Fancy adidas Sneaker Is a Rich Little Number",
+   "source": "Highsnobiety",
+   "date": "2026-11-01",
+   "content": "Wales Bonner and adidas bring a rich brown croc-effect finish to the Karintha sneaker, adding an elegant twist to the Three Stripes.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-wales-bonner-karintha-croc/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 21,
    "title": "Nike 推出 Air Force 1 '07 紀念密爾沃基釀酒人隊奪得世界大賽冠軍",
    "source": "Hypebeast 中文",
    "date": "2026-10-31",
@@ -168,7 +298,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 22,
    "title": "NN.07 與 Clarks Originals 推出全新聯乘 Wallabee 及 Desert Boot 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-10-31",
@@ -181,7 +311,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 23,
    "title": "Nike Commemorates the Milwaukee Brewers' World Series Title With an Air Force 1 '07",
    "source": "Hypebeast",
    "date": "2026-10-31",
@@ -194,7 +324,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 24,
    "title": "NN.07 and Clarks Originals Rework the Wallabee and Desert Boot in New Collab",
    "source": "Hypebeast",
    "date": "2026-10-31",
@@ -207,7 +337,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 25,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
@@ -220,99 +350,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
-   "title": "adidas’ Handsome Outdoor Boots Can Genuinely Weather the Storm",
-   "source": "Highsnobiety",
-   "date": "2026-10-31",
-   "content": "adidas releases the Wetherlam SPZL, an updated version of the Helvellyn with outdoor-ready details & plenty of street style.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-wetherlam-spzl/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "New Balance’s Luxe Dad Shoe Is a Half-Tweed, Half-Leather Masterpiece",
-   "source": "Highsnobiety",
-   "date": "2026-10-31",
-   "content": "New Balance releases a 991v1 Made in UK \"Tweed Luxe Leather\" sneaker, and it's exactly how it sounds. It's a luxe dad shoe made with tweed & leather.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-991v1-tweed-luxe-leather/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "Nike's UGG-Coded Slipper Boot Is the Coziest Recovery Flex",
-   "source": "Highsnobiety",
-   "date": "2026-10-31",
-   "content": "Nike debuts its 24.7 boot, an UGG-coded recovery model with plenty of cushioning & nice colorways. Here's everything on the release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-24-7-boot/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "Nike’s Chocolate-Covered Air Forces Are Mid-Sized Sweet Treats",
-   "source": "Highsnobiety",
-   "date": "2026-10-31",
-   "content": "Nike's Air Force 1 Mid \"Baroque Brown\" sneaker is a deliciously luxe take on the strapped-up classic, featuring a tonal chocolate-brown design.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-force-1-mid-baroque-brown/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "Even in the Dark, Nike’s Winterized Dad Sneaker Still Shines",
-   "source": "Highsnobiety",
-   "date": "2026-10-31",
-   "content": "Nike's winterized Zoom Vomero Roam sneaker is back & stylish as ever in a new \"Sequoia\" colorway.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-zoom-vomero-roam-sequoia/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "Nike’s Archival Racer Is Looking Berry Good",
-   "source": "Highsnobiety",
-   "date": "2026-10-31",
-   "content": "Nike’s Sprint Sister sneaker revisits a '79 women’s track spike in a striking burgundy and bright red, bringing an archival racer back into the spotlight.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-sprint-sister-red/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "The Evolution of New Balance’s 990 Continues",
-   "source": "Highsnobiety",
-   "date": "2026-10-31",
-   "content": "New Balance's Made in America 990v7 is the muted gray gift that just keeps on giving.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-990v7-sneaker-gray/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 23,
+   "id": 26,
    "title": "曾亮相 COMME des GARÇONS HOMME 巴黎時裝展的 New Balance 1890A 迎來發售日期",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -325,7 +363,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 27,
    "title": "Nike 為杜克大學女子籃球隊推出 Caitlin 1「Duke」PE 專屬配色",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -338,7 +376,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 28,
    "title": "Nike Air Max Plus 最新鞋款致敬 Glasgow 著名交通錐",
    "source": "Hypebeast 中文",
    "date": "2026-10-30",
@@ -351,33 +389,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
-   "title": "Bad Bunny 全新 adidas BadBo Stone Slides 拖鞋猶如岩石雕刻",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-30",
-   "content": "名稱：adidas BadBo Stone Slides「Blue」、adidas BadBo Stone Slides「Yellow」配色：有待確認SKU：LB7191、LB7194建議售價：$70 美元發售日期：2027 年 6 月據報 Bad Bunny 的 adidas BadBo Stone Slides 將於 2027 年夏季發售，成為這位歌手專屬系列的首款拖鞋。早期曝光的照片顯示，這款拖鞋備有「Blue」及「Yellow」兩款配色，兩者的鞋面均呈現出猶如鑿刻岩石般的紋理效果。岩石紋理是這款拖鞋的標誌性設計元素，並非僅作點綴，而是貫穿整個鞋面。表面深淺不一的色調突顯了凹凸不平的紋理，近看更帶有一種久經風霜的手工雕刻質感。這種類似浮雕的效果正是鞋款命名的由來，為原本簡單的輪廓增添了豐富的視覺層次。兩款配色的色彩區塊都減至最少，讓紋理成為設計焦點。「Blue」版本偏向清涼、如水洗般的色調；「Yellow」版本則以更為搶眼、如陽光般明亮的色彩呈現同樣的雕刻表面。由於鞋面沒有對比色的飾面或裁片，這種雕刻紋理從鞋頭至鞋踭呈現出連貫一體的視覺效果。這款拖鞋標誌著 Bad Bunny 與 adidas 合作進入了一個有趣的新階段。他早期與品牌的合作主要是在 Campus 和 Gazelle 等經典鞋款，以及 F50 Ghost Sprint 上融入個人風格。隨後推出的 BadBo 1.0 及 1.1 將雙方的合作推向了原創專屬鞋款的領域，而這款拖鞋則進一步將該系列拓展至更休閒的日常穿搭風格。設定提醒，緊貼 Hypebeast Drops 掌握最新發售情報。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fadidas-BadBo-Stone-Slides-Blue-Yellow-LB7191-LB7194-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/adidas-badbo-stone-slides-blue-yellow-lb7191-lb7194-official-images",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "Bad Bunny 與 adidas 攜手發布 Badbo 1.0 最新「Grey Three」配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-10-30",
-   "content": "摘要 Bad Bunny 與 adidas 正式揭曉 Badbo 1.0 全新「Grey Three」配色，作為即將於 11 月登場的系列之一鞋款結合「Grey Three」麂皮覆層與「Orbit Grey」皮革，並綴以標誌性的藍色鞋帶頭該鞋款預計於 11 月 7 日登陸 adidas.com 及指定零售商發售，售價為 $160 美元 鞋款名稱： Bad Bunny x adidas BadBo 1.1「Simple Brown」配色： Grey Three/Cloud White-Orbit Grey商品編號： LC5290定價： $160 美元發布日期： 2026 年 11 月 7 日發售地點： adidasadidas 與 Bad Bunny 即將推出 Bad Bunny x adidas Badbo 1.0「Grey Three」，進一步擴展雙方的聯乘版圖。據 Mason Tiniuc 率先報導，此鞋款將與低筒版本 Badbo 1.1 共同組成 11 月的雙鞋款套裝，延續這位波多黎各藝術家對低調中性色系的喜愛。這對運動鞋以同色系質感對比為特色，在優質的「Orbit Grey」皮革基底上鋪疊層次豐富的「Grey Three」麂皮覆面。相比起採用大膽的撞色設計，相近的色調讓光滑皮革底層與毛絨麂皮面板之間的觸感變化成為焦點所在。在鞋底部分，純淨的「Cloud White」中底營造出明亮清爽的收尾，提升了鞋款整體的視覺立體感。標誌性的聯乘細節巧妙地融入結構之中，其中最引人注目的，是印有「BB」標誌的對比色藍色鞋帶頭，在灰色鞋帶系統的襯托下格外醒目。鞋舌保留了標誌性的鋸齒狀縫線，這已成為 Badbo 1.0 鞋型的獨有特徵。其低調的展現方式，與 Bad Bunny 首個服飾系列及過往聯乘作品的美學語言一脈相承。Bad Bunny x adidas Badbo 1.0「Grey Three」預計於 2026 年 11 月 7 日正式登場，屆時將透過 adidas 官方網站及指定零售商發售，定價為 $160 美元。敬請設定提醒，並密切留意 Hypebeast Drops 掌握",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F10%2Fbad-bunny-adidas-badbo-1-0-grey-three-LC5290-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/10/bad-bunny-adidas-badbo-1-0-grey-three-lc5290-first-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 28,
+   "id": 29,
    "title": "ACRONYM and ALIVEFORM Launch THE BLADE in New \"SILVER FANG\" Colorway",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -388,7 +400,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 29,
+   "id": 30,
    "title": "The New Balance 1890A That Walked COMME des GARÇONS HOMME’s Paris Runway Has a Release Date",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -401,7 +413,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 31,
    "title": "Nike Unveils the Caitlin 1 \"Duke\" PE for Blue Devils Women's Basketball",
    "source": "Hypebeast",
    "date": "2026-10-30",
@@ -414,85 +426,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
-   "title": "Nike References Glasgow's Famous Traffic Cone on the Air Max Plus",
-   "source": "Hypebeast",
-   "date": "2026-10-30",
-   "content": "Summary Nike has designed a Scottish-themed sneaker titled the Air Max Plus GlasgowThe Black and Safety Orange colorway honors Glasgow rave culture and the famous traffic cone on the Duke of Wellington statueSignature details include embroidered Glasgow lettering alongside Mad Wae It text on the heel Tuned Air units Name: Nike Air Max Plus \"Glasgow\"Colorway: Black/Safety OrangeSKU: IX7920-001MSRP: TBDRelease Date: Fall 2026Where to Buy: NikeNike pays homage to Scottish nightlife and civic folklore with the Air Max Plus \"Glasgow\". The silhouette merges nods to the city's electronic music community and the iconic traffic cone perched atop the Duke of Wellington statue outside the Gallery of Modern Art in Royal Exchange Square.Dressed in a striking \"Black\" and \"Safety Orange\" palette, the sneaker incorporates a breathable mesh base set beneath the model's signature radiating cage overlays. ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F28%2Fnike-air-max-plus-glasgow-ix7920-001-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/nike-air-max-plus-glasgow-ix7920-001-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
    "id": 32,
-   "title": "Bad Bunny’s adidas BadBo Stone Slides Look Carved Straight From Rock",
-   "source": "Hypebeast",
-   "date": "2026-10-30",
-   "content": "Name: adidas BadBo Stone Slides “Blue,” adidas BadBo Stone Slides “Yellow”Colorway: TBCSKU: LB7191, LB7194MSRP: $70 USDRelease Date: June 2027Bad Bunny’s adidas BadBo Stone Slides are reportedly set for a Summer 2027 release, giving the artist’s signature line its first slip-on. Early images show the slide in “Blue” and “Yellow,” both defined by a textured upper engineered to resemble chiseled stone.The stone effect is the defining design element, and it runs across the entire upper rather than appearing as an accent. Slight variations in shade across the surface pick out the ridges and grooves, giving the slide a weathered, hand-cut appearance up close. That relief is what gives the model its name, and it turns a typically plain silhouette into something with real visual depth.Color blocking is kept to a minimum on both pairs, a choice that lets the texture stay front and center. The “B",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F30%2Fadidas-BadBo-Stone-Slides-Blue-Yellow-LB7191-LB7194-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/10/adidas-badbo-stone-slides-blue-yellow-lb7191-lb7194-official-images",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Nike’s Techy Dad Shoe Has a Secret Girly Side",
-   "source": "Highsnobiety",
-   "date": "2026-10-30",
-   "content": "Nike’s Zoom Vomero 5 gets a pink makeover with ribbon laces, silver studs, and a techy black mesh upper that balances sporty and sweet.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-pink/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "Nike’s Oldest Sneaker Takes Balletcore to the Moon",
-   "source": "Highsnobiety",
-   "date": "2026-10-30",
-   "content": "Nike's \"Light Carnation\" Moon Shoe lands with satin uppers, Waffle soles, & loads of ballerina-worthy charm.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-moon-shoe-satin-pink/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "New Balance’s Skate Shoe Is Seeing Yellow and Looking Good Doing It",
-   "source": "Highsnobiety",
-   "date": "2026-10-30",
-   "content": "New Balance’s Numeric 440Wv2 pairs a black skate-shoe upper with pops of Happy Yellow for a simple color combination that stands out.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-numeric-440wv2/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 36,
-   "title": "New Balance’s Saucy Hiking Sneaker Doesn’t Need the Trails To Be Great",
-   "source": "Highsnobiety",
-   "date": "2026-10-30",
-   "content": "New Balance's TL900 hiking sneaker lands in a new earthy \"Linen\" colorway, advancing the stylish model's debut.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-tl900-linen/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 37,
    "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
@@ -505,7 +439,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 33,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -518,7 +452,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 34,
    "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -531,7 +465,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 35,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
@@ -545,7 +479,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 41,
+   "id": 36,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -558,7 +492,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 42,
+   "id": 37,
    "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -572,7 +506,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 43,
+   "id": 38,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -585,7 +519,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 44,
+   "id": 39,
    "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
