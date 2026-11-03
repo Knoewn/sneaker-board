@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03 12:47",
+ "updatedAt": "2026-11-03 23:40",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -15,12 +15,12 @@
   "得物、识货：接口需签名，无法直连"
  ],
  "brands": [
+  "ADIDAS",
+  "CLARKS",
   "CONVERSE",
-  "HOKA",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
-  "ON RUNNING",
   "PUMA",
   "REEBOK",
   "SALOMON",
@@ -31,6 +31,84 @@
  "news": [
   {
    "id": 1,
+   "title": "Lil Yachty 率先預覽未發佈之 Concrete Boys x Nike Air Force 1 Mid 配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-03",
+   "content": "摘要 Lil Yachty 搶先展示了一款未發售的 Concrete Boys x Nike Air Force 1 Mid 首度曝光配色這款尚未發售鞋款的鞋面面板採用如螢光筆般的淡藍色包邊，並配以橙色輪廓勾勒的 Swoosh 標誌繼多次引起高度關注的發售後，這款波鞋進一步豐富了這位饒舌歌手日益龐大的 Air Force 1 聯乘設計陣容 據悉，Nike 與 Lil Yachty 正擴展雙方持續進行的創意合作，最新曝光了一款未曾發佈的 Concrete Boys x Nike Air Force 1 Mid 配色。此鞋款最初由 @lilnonsen5e 在社交媒體上揭曉，預覽圖讓人得以仔細欣賞這位亞特蘭大藝術家聯乘系列中最新亮相的設計。在 Instagram 上，該發文更附上一句說明：「i gave nike a million reasons why.」從釋出的圖片可見，這款中筒鞋型的鞋面裁片邊緣飾有充滿活力的淺藍色，令人聯想起螢光筆的色彩。為整體結構增添強烈對比，標誌性的 Nike Swoosh 外圍以鮮豔的橙色邊框勾勒，而鞋跟上的 Concrete Boys 徽標則採用純橙色。這對未發佈的鞋款為這位藝術家與 Swoosh 之間穩步發展的聯乘陣容再添一員，此前的作品包括他們以白色為主調的首發 Air Force 1，以及「Lucky Green」版本。敬請留意有關即將推出的聯乘企劃的更多消息。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Flil-yachty-previews-unreleased-concrete-boys-nike-air-force-1-mid-colorway-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/lil-yachty-previews-unreleased-concrete-boys-nike-air-force-1-mid-colorway",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "NEIGHBORHOOD 與 Converse 攜手帶來簡約 ALL STAR LGCY Hi 聯乘鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-03",
+   "content": "名稱： NEIGHBORHOOD x Converse ALL STAR LGCY Hi配色： 有待確定SKU： 有待確定建議零售價： 有待確定發售日期： 11 月 9 日發售點： NEIGHBORHOOD、Converse睽違七年，NEIGHBORHOOD 與 Converse 再次攜手，為旗艦鞋款 ALL STAR LGCY Hi 帶來俐落的聯乘版本。這雙高筒運動鞋充滿復古美學，整體經過逼真的仿舊處理，營造出刻意的磨損與穿著痕跡。鞋面升級了傳統結構，採用通常用於軍事外套的堅韌耐用燈芯絨布料製成，確保結構更穩固之餘，亦帶來極具質感的紋理外觀，完美契合 NEIGHBORHOOD 標誌性的街頭服飾設計語言。鞋面外側印有顯眼的 NEIGHBORHOOD 標誌，鞋墊上亦有定制的聯乘品牌細節。下方經過舊化處理的鞋底加入獨特的裝飾手法：標準的 Converse 後跟標籤與定制的 NEIGHBORHOOD 徽章交替點綴於後跟和側面，形成不對稱的左右視覺效果。這種巧妙的標籤配置，結合軍用級別材質與做舊飾面，為這款經典鞋履帶來獨具叛逆感的新詮釋。設定提醒，緊貼 Hypebeast Drops 的最新發售資訊。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fneighborhood-converse-all-star-lgcy-hi-collaboration-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/neighborhood-converse-all-star-lgcy-hi-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Diemme x Clarks Originals 最新聯乘系列將 Clarks 經典鞋款帶入高山戶外",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-03",
+   "content": "名稱：Diemme x Clarks Originals Wallabee、Diemme x Clarks Originals Desert Boot、Diemme x Clarks Originals Desert Trek配色：香檳色、可樂色、黑色型號：有待公布建議零售價：$620 美元發售日期：11 月 5 日入手渠道：DiemmeDiemme 與 Clarks Originals 攜手合作，推出包含三款鞋履的全新聯乘系列，透過高山靴的金屬配件與大底，重新演繹 Wallabee、Desert Boot 及 Desert Trek 鞋款。此系列由 Diemme 於意大利製造，在保留 Clarks 經典輪廓的高辨識度之餘，同時換上源自該意大利品牌自家登山系列的組件。最顯著的改變在於鞋底，三款鞋履皆將熟悉的鞋底換成 Diemme 標誌性的坑紋大底。這款鞋印直接取材自品牌最著名的兩款靴款 Roccia Vet 與 Cornaro，為 Clarks 的鞋楦賦予更強大的抓地力，帶來比原版更厚實、更穩固的著地感。視線移至鞋身，繫帶系統改用真正的登山 D 形環，這項功能性細節借鑒自專業高山鞋履。每雙鞋的下緣皆包裹着具保護性的橡膠擋泥板，其仿生膠紋理成為了連繫兩個品牌的視覺橋樑，既呼應了 Clarks 歷史悠久的生膠鞋底，亦提供了越野靴應有的耐磨度。每款鞋型均採用源自 Clarks Originals 經典檔案庫的獨特材質處理。Wallabee 採用香檳色麂皮製成，材質來自英國皮革廠 Charles F. Stead，該廠出產的麂皮在業內備受推崇；而 Desert Boot 則以 Clarks 標誌性的可樂色麂皮登場。Desert Trek 在結構上的改動最大，除了重塑為中筒設計，更採用黑色全粒面皮革打造，呈現出更強悍、更能應對變幻天氣的輪廓。敬請設定提醒，並密切留意 Hypebeast Drops 掌握最新發布資訊。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2FftDiemme-Clarks-Originals-Wallabee-Desert-Boot-Desert-Trek-Collaboration-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/diemme-clarks-originals-wallabee-desert-boot-desert-trek-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CLARKS"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "率先預覽 Nike Air Force 1 '01「Harajuku」",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-03",
+   "content": "摘要 為慶祝 atmoscon，Nike 與 atmos 聯手揭曉 Air Force 1 '01 Harajuku 定制版本鞋款採用全白皮革鞋面，鞋頭與鞋跟位置融入雷射雕刻的原宿街道地圖細節此鞋款將於 Tokyo atmoscon 的 Nike 展位亮相，目前尚未確認更廣泛的發售詳情 Nike 與東京選物店 atmos 共同揭曉了 Nike Air Force 1 '01「Harajuku」，為 atmoscon 帶來一項極具紀念意義的度身訂製企劃。這對限量鞋款由創意總監 Hirofumi Kojima 率先公開，距離該店於 2016 年首屆大會上推出限量 50 對的系列已有十年之久。此鞋款以重新回歸的 '01 輪廓為基礎——這款復古鞋型先前曾用於與 Nigo 和 Steven Victor 的近期聯乘企劃中——鞋身佈滿了精緻的鐳射雕刻地圖，勾勒出東京 Harajuku 區的街道網絡。雕刻地圖環繞於白色皮革鞋頭與鞋跟覆蓋層，同時保留了大面積純淨無暇的皮革。Swoosh 標誌、鞋帶孔、鞋帶以及鞋底部分則維持了原本乾淨的「Triple White」美學。該設計直接呼應了品牌的發源地，有別於 2016 年 atmoscon 版本上代表該店昔日橫跨東西岸業務的「TYO」及「NYC」大型字母。在今次發布中，atmos 選擇以地形雕刻手法，將這款鞋深深紮根於其家鄉社區。Nike Air Force 1 '01「Harajuku」將於本週末在東京 atmoscon 的 Nike 展位展出，參與者有機會贏取一對，而更廣泛的公開發售日期目前仍未公布。設定好你的提醒，緊貼 Hypebeast Drops 搶先掌握最新發售情報。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-air-force-1-low-01-harajuku-atmoscon-reveal-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/nike-air-force-1-low-01-harajuku-atmoscon-reveal-first-look",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "INVINCIBLE x adidas Consortium「Form in Motion」聯乘系列登場，動態中展現隱藏細節",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-03",
+   "content": "名稱： INVINCIBLE x adidas Consortium「Form in Motion」配色： 待定SKU： 待定建議零售價： 待定發售日期： 11 月 7 日、11 月 13 日發售點： INVINCIBLE、adidas、Confirmed AppINVINCIBLE 與 adidas Consortium 正式發表「Form in Motion」2026 秋冬聯乘系列，重新演繹 adidas Samba 鞋款，並帶來雙方首個聯乘服飾系列。整個系列涵蓋鞋履與服裝，設計焦點由表面的覆蓋層轉向結構美學，運用打褶、抓皺及多層次裁片，隨着身體的活動而展開並改變形態。Samba Dress Shoes 將這款經典運動鞋推向正裝風格。標誌性的 T 字鞋頭覆蓋層與側影飾有布洛克（Brogue）翼紋沖孔與鋸齒邊緣，將傳統正裝鞋的工藝應用於運動鞋的比例上。後跟部分打破常規，採用抓皺皮革，隨着每一步的屈曲而伸展，在鞋身彎折時展現更豐富的層次與質感。另一款 Samba 則保留了原有的熟悉輪廓與品牌標誌，但在結構上進行了重塑。裁片經過剪裁與扭轉形成重疊，並刻意露出未經修飾的接縫，呈現解構美學。靈感來自度身訂製皮具的加固縫線填補了解構裁片之間的空白，而外側的燙金 INVINCIBLE 標誌則為鞋款增添了一抹內斂的點綴。在服飾方面，四款單品均具備一個充滿玩味的細節：可撕式的 adidas 編織標籤，撕開後會露出隱藏其中的 INVINCIBLE 刺繡標誌。G-8 Flight Jacket 保留了經典飛行夾克的方形短版剪裁與 3D 立體實用口袋，並在背部加入一道活褶，當身體活動時，活褶會隨之展開，展露藏於其中的 adidas 三間標誌。其餘服飾則將剪裁藝術與運動主打單品結合。L/S Knit Jersey 以高級針織面料重新演繹足球球衣，觸感柔軟並帶有豐富紋理；而 1 Tuck Track Pants 則結合了俐落的正面打褶與長毛絨羊毛，打造出兼具西裝褲與運動褲特色的混合體。1 Tuck Track Sweat Pants 亦將同樣的打褶剪裁應用於重磅棉料上，為日常運動褲帶來更俐落、",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2FINVINCIBLE-adidas-Consortium-Form-in-Motion-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/invincible-adidas-consortium-form-in-motion-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "為 Sarah Andelman 專屬打造的 Colette Air Jordan 1 Mid「Sashiko Gals」全球唯一丹寧鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-03",
+   "content": "名稱： Colette Air Jordan 1 Mid「Sashiko Gals」配色： N/A型號： N/A定價： N/A發售日期： N/A發售點： N/AColette Air Jordan 1 Mid「Sashiko Gals」是由日本團體 Sashiko Gals 為已結業的巴黎選貨店聯合創辦人 Sarah Andelman 度身訂製的全球唯一鞋款。此作以極其稀有的親友限定版 Colette 為基礎，將大部分原版鞋面替換為手工縫製的丹寧拼布，將本就罕見的波鞋變成絕無僅有的專屬之作。Sashiko Gals 並非從空白鞋款開始創作，而是直接在該對 Colette 鞋款上進行加工，將丹寧布料層疊在大部分鞋面之上。每塊拼布的色調與剪裁都各不相同，加上該團體在兩側採用了不同的排列方式，令左右腳呈現出刻意不對稱的視覺效果，而非單調的對稱設計。外露的縫線將整個構圖巧妙結合，緊密的直角線條貫穿丹寧布料，賦予表面猶如網格般的手工質感。這種縫製工藝借鑒了日本傳統的「刺子繡」（sashiko），一種用於加固和修補破損布料的修繕技術。鞋跟部分則保持原貌，保留了原版的 Colette 標誌和「2017」細節，以此呼應這間精品店在巴黎永久結業的年份。該鞋款專為 Andelman 的個人收藏而製作，並不會作公開發售，成為該團體不斷增加的波鞋作品中，最具私密紀念價值的一件。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2FColette-Air-Jordan-1-Mid-Sashiko-Gals-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/colette-air-jordan-1-mid-sashiko-gals-official-images",
+   "lang": "zh",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 7,
    "title": "Travis Scott 分享 Shai Gilgeous-Alexander 贈送的親筆簽名球衣及上腳 Nike Shai 001",
    "source": "Hypebeast 中文",
    "date": "2026-11-03",
@@ -43,7 +121,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 8,
    "title": "率先預覽 Travis Scott x Rockstar Games x Nike Air Force 1 Low 最新「Grand Theft Auto」黑色聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-03",
@@ -56,7 +134,86 @@
    ]
   },
   {
-   "id": 3,
+   "id": 9,
+   "title": "Lil Yachty Previews Unreleased Concrete Boys x Nike Air Force 1 Mid Colorway",
+   "source": "Hypebeast",
+   "date": "2026-11-03",
+   "content": "Summary Lil Yachty has teased a first look at an unreleased Concrete Boys x Nike Air Force 1 Mid colorwayThe unreleased pair features upper panels lined in highlighter-like light blue paired with an orange-outlined SwooshThe sneaker adds to the rapper's growing archive of collaborative Air Force 1 designs following several high-profile drops Nike and Lil Yachty are reportedly expanding their ongoing creative partnership with a newly teased, unreleased colorway of the Concrete Boys x Nike Air Force 1 Mid. First revealed on social media by @lilnonsen5e, the preview provides a detailed look at the latest design to surface from the Atlanta artist's collaborative catalog. On Instagram, the reveal was accompanied by the caption that read, \"i gave nike a million reasons why.\"Suggested imagery indicates that the mid-top silhouette features upper panels lined in an energetic light blue reminiscen",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F02%2Flil-yachty-previews-unreleased-concrete-boys-nike-air-force-1-mid-colorway-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/lil-yachty-previews-unreleased-concrete-boys-nike-air-force-1-mid-colorway",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "NEIGHBORHOOD and Converse Reunite for an Understated ALL STAR LGCY Hi Collab",
+   "source": "Hypebeast",
+   "date": "2026-11-03",
+   "content": "Name: NEIGHBORHOOD x Converse ALL STAR LGCY HiColorway: TBCSKU: TBCMSRP: TBCRelease Date: November 9Where to Buy: NEIGHBORHOOD, ConverseReuniting for their first joint release in seven years, NEIGHBORHOOD and Converse have introduced a sleek collaboratie take on the flagship ALL STAR LGCY Hi silhouette. The high-top sneaker leans heavily into a vintage aesthetic, defined by a realistic, all-over aging process that gives the entire shoe a deliberately distressed and lived-in finish. Upgrading the traditional construction, the upper is built from a tough, durable cord cloth fabric typically found on military jackets, ensuring elevated structural integrity and a highly textural appearance that perfectly aligns with NEIGHBORHOOD's signature streetwear design language.A prominent NEIGHBORHOOD logo is printed across the outer lateral side of the upper, with additional custom co-branding detail",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F03%2Fneighborhood-converse-all-star-lgcy-hi-collaboration-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/neighborhood-converse-all-star-lgcy-hi-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Diemme x Clarks Originals Sends Clarks’ Classics Straight Up the Mountain",
+   "source": "Hypebeast",
+   "date": "2026-11-03",
+   "content": "Name: Diemme x Clarks Originals Wallabee, Diemme x Clarks Originals Desert Boot, Diemme x Clarks Originals Desert TrekColorway: Champagne, Cola, BlackSKU: TBCMSRP: $620 USDRelease Date: November 5Where to Buy: DiemmeDiemme and Clarks Originals have teamed up on a three-piece footwear collection that rebuilds the Wallabee, Desert Boot and Desert Trek with the hardware and outsoles of an alpine boot. Produced by Diemme in Italy, the lineup keeps each Clarks shape instantly readable while swapping in components lifted from the Italian label’s own hiking catalog.The most significant change happens underfoot, where all three styles trade their familiar soles for Diemme’s signature lug unit. That tread comes straight from two of the brand’s best-known boots, the Roccia Vet and the Cornaro, giving the Clarks lasts deeper grip and a chunkier, more planted stance than the originals ever carried.M",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F03%2FftDiemme-Clarks-Originals-Wallabee-Desert-Boot-Desert-Trek-Collaboration-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/diemme-clarks-originals-wallabee-desert-boot-desert-trek-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CLARKS"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "First Look at the Nike Air Force 1 '01 \"Harajuku\"",
+   "source": "Hypebeast",
+   "date": "2026-11-03",
+   "content": "Summary Nike and atmos have unveiled the Air Force 1 '01 Harajuku custom in celebration of atmosconThe shoe features laser-etched street map detailing of Harajuku across the toe and heel on an all-white leather upperThe pair will be featured at the Nike booth during atmoscon in Tokyo with wider release details unconfirmed Nike and Tokyo boutique atmos have revealed the Nike Air Force 1 '01 \"Harajuku\", marking a celebratory custom project for atmoscon. First shared by creative director Hirofumi Kojima, the limited pair arrives ten years after the retailer debuted a 50-pair pack at its inaugural 2016 convention.Constructed atop the reintroduced '01 silhouette—a vintage shape previously tapped for recent collaborative projects with Nigo and Steven Victor—the shoe is covered in intricate laser-etched cartography tracing the streets of Tokyo's Harajuku neighborhood. The etched map wraps acros",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F01%2Fnike-air-force-1-low-01-harajuku-atmoscon-reveal-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/nike-air-force-1-low-01-harajuku-atmoscon-reveal-first-look",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "INVINCIBLE and adidas Consortium’s “Form in Motion” Collection Hides Its Best Details Until You Move",
+   "source": "Hypebeast",
+   "date": "2026-11-03",
+   "content": "Name: INVINCIBLE x adidas Consortium “Form in Motion”Colorway: TBCSKU: TBCMSRP: TBCRelease Date: November 7, November 13Where to Buy: INVINCIBLE, adidas, Confirmed AppINVINCIBLE and adidas Consortium have unveiled “Form in Motion,” a FW26 capsule that reworks the adidas Samba and introduces the partners’ first-ever shared apparel range. Across both footwear and clothing, the collection shifts from surface-level overlays toward structural design, with pleats, gathers and layered panels that open up and change shape as the body moves.The Samba Dress Shoes push the classic trainer toward formalwear. Brogue wingtip perforations and pinked, sawtooth edges run along the signature T-toe overlay and side profile, applying traditional dress shoe finishing to athletic proportions. At the back, the usual heel counter gives way to gathered, ruched leather that flexes with each step, revealing more d",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F03%2FINVINCIBLE-adidas-Consortium-Form-in-Motion-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/invincible-adidas-consortium-form-in-motion-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "The Colette Air Jordan 1 Mid “Sashiko Gals” Is a Denim 1-of-1 Made for Sarah Andelman",
+   "source": "Hypebeast",
+   "date": "2026-11-03",
+   "content": "Name: Colette Air Jordan 1 Mid “Sashiko Gals”Colorway: N/ASKU: N/AMSRP: N/ARelease Date: N/AWhere to Buy: N/AThe Colette Air Jordan 1 Mid “Sashiko Gals” is a one-of-one custom built for Sarah Andelman, the co-founder of the late Paris boutique, by the Japanese collective Sashiko Gals. Using a scarce friends-and-family Colette pair as its base, the piece swaps much of the original upper for a hand-stitched denim patchwork, turning an already rare sneaker into something no one else will ever own.Rather than starting from a blank shoe, Sashiko Gals worked directly on top of the Colette pair, layering denim over the majority of the upper. No two patches share the same tone or cut, and the collective arranged them differently on each side, so the left and right shoes read as intentionally mismatched rather than mirrored.Exposed thread holds the entire composition together, running across the ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F03%2FColette-Air-Jordan-1-Mid-Sashiko-Gals-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/colette-air-jordan-1-mid-sashiko-gals-official-images",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 15,
    "title": "Travis Scott Gives a Closer Look at Shai Gilgeous-Alexander’s Nike Shai 001 With Signed Gifts From the Thunder Guard",
    "source": "Hypebeast",
    "date": "2026-11-03",
@@ -69,7 +226,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 16,
    "title": "First Look at the Travis Scott x Rockstar Games x Nike Air Force 1 Low \"Grand Theft Auto\" in Black",
    "source": "Hypebeast",
    "date": "2026-11-03",
@@ -83,7 +240,86 @@
    ]
   },
   {
-   "id": 5,
+   "id": 17,
+   "title": "From Salomon to New Balance, the Seven Best Sneakers to Cop This Week",
+   "source": "Highsnobiety",
+   "date": "2026-11-03",
+   "content": "From an archival all-terrain Salomon collab, to On and Sky High Farm's technical gardening clog — the cream of the sneaker crop awaits.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/sneaker-releases-2026-november-week-1/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE",
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Vans' Stitched-Up \"Wallabee\" Skate Shoe Is (Sew) Good",
+   "source": "Highsnobiety",
+   "date": "2026-11-03",
+   "content": "Vans' Wallabee-coded Premium SF Moc Low shoe gets a \"crafted\" makeover with extra stitching.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-premium-sf-moc-low-crafted-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Nike’s Green Leather Air Max Is All Puff, No Pass",
+   "source": "Highsnobiety",
+   "date": "2026-11-03",
+   "content": "Nike's Air Max 90 \"Medium Olive\" sees the classic sneaker remixed with green padded leather uppers.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-90-medium-olive/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "New Balance’s Coffee-Flavored Shoe Is Straight-up Mouthwatering",
+   "source": "Highsnobiety",
+   "date": "2026-11-03",
+   "content": "Billy's gets an exclusive New Balance 204L \"Black Coffee\" sneaker dressed in elegant materials & a rich brown colorway.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/billys-new-balance-204l-black-coffee/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "Jordan's Color-Shifting 'Space Jam' Shoes Are Genuinely Magical",
+   "source": "Highsnobiety",
+   "date": "2026-11-03",
+   "content": "The Air Jordan 11 \"Magic Ball\" is a cool, color-shifting sneaker designed for the \"Space Jam\" anniversary. Here's everything on the release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-11-space-jam-magic-ball/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Nike’s Wavy Sneaker Is a Knight in Shining Armor",
+   "source": "Highsnobiety",
+   "date": "2026-11-03",
+   "content": "Nike drops a P-6000 \"Black/Medium Soft Pink\" sneaker with medieval-ish, Thug Club-coded details.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-p-6000-black-pink/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 23,
    "title": "Colbo 全新 Sperry 鞋款融合樂福鞋與芭蕾平底鞋特色",
    "source": "Hypebeast 中文",
    "date": "2026-11-02",
@@ -94,7 +330,7 @@
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 24,
    "title": "Converse 推出全新廚房專用 Chucks 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-02",
@@ -107,7 +343,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 25,
    "title": "Sky High Farm Goods x On 聯乘系列：將農耕重新定義為「最原始的運動」",
    "source": "Hypebeast 中文",
    "date": "2026-11-02",
@@ -118,7 +354,7 @@
    "relatedBrands": []
   },
   {
-   "id": 8,
+   "id": 26,
    "title": "PUMA x JiyongKim 全新聯乘 CELL Geo 鞋款登場：展現自然歲月痕跡",
    "source": "Hypebeast 中文",
    "date": "2026-11-02",
@@ -131,86 +367,7 @@
    ]
   },
   {
-   "id": 9,
-   "title": "Salomon 攜手 THE BROKEN ARM 推出越穿越有味道的 Grolle 靴款",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-02",
-   "content": "名稱： Salomon Grolle THE BROKEN ARM配色： Black Olive/Peat/Pumkin Spice型號： L45536400定價： $210 美元發售日期： 11 月 4 日發售點： Salomon、THE BROKEN ARMSalomon 與 THE BROKEN ARM 再次聚首，為 Grolle 注入聯乘風格。這款中筒靴由這間巴黎概念店操刀，設計靈感源自在鄉村及偏遠社區成長的年輕人的日常生活。此作僅提供一款「Black Olive/Peat/Pumkin Spice」配色，中筒輪廓主體採用深橄欖啡色的一體成型皮革鞋面，表面刻意營造出不規則的龜裂效果，旨在隨穿著次數展現出更深層次的質感與舊化痕跡。亮白色的傳統鞋帶在充滿大地色彩的設計中形成強烈對比，穿過刺繡鞋眼及金屬配件，而非 Salomon 標誌性的 Quicklace 系統。對比色縫線在整體設計中清晰可見，而克制的橙色與紅色點綴——包括側面的 Salomon 品牌標誌——則在低調的結構中加入微細的亮色元素。鞋頭及兩側包裹著 Peat 色調的磨砂橡膠擋泥板，並帶有外露縫線，隨後過渡至厚實的 Salomon 經典鞋底。Pumpkin Spice 色調細節為深色底部設計引入較溫暖的對比，而帶有深坑紋的 Mud Contagrip® 外底則保持了品牌越野鞋款應有的抓地力。金屬扣、精緻刺繡以及刻意外露的結構元素加強了設計的實用與生活感，呼應 THE BROKEN ARM 探索大城市以外青年與日常生活的理念。設定提醒，緊貼 Hypebeast Drops 掌握最新發售情報。 View this post on Instagram Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fsalomon-the-broken-arm-grolle-collaboration-black-olive-peat-pumkin-spice-l45536400-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/salomon-the-broken-arm-grolle-collaboration-black-olive-peat-pumkin-spice-l45536400-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "SALOMON"
-   ]
-  },
-  {
-   "id": 10,
-   "title": "HOKA 最新深藍色「Navy」Tor Ultra Lo 迎來 atmos 獨家發售",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-02",
-   "content": "名稱： HOKA Tor Ultra Lo atmos 獨家配色配色： Navy Blue貨號： 有待確認建議零售價： ¥38,500 JPY（約 $244 USD）發售日期： 11 月 6 日發售點： atmosHOKA Tor Ultra Lo 帶著 atmos 獨家配色回歸，彰顯鞋款粗獷的戶外 DNA，同時未有令色彩變得複雜。鞋身幾乎全以深藍色覆蓋，結合厚實的磨砂皮革飾片以及遍佈前掌與側面的打孔設計，透過紋理變化打破單色鞋面的單調感。同色系鞋帶、鞋帶孔與覆面保持了內斂的外觀，而鞋領附近細小的 GORE-TEX 標籤則標誌著其內層具備防風雨性能。側面的 HOKA 標誌處理得相當低調，並非作為對比強烈的焦點，賦予這雙運動鞋更簡潔、實用的俐落質感。在鞋底部分，色彩處理延伸至 Tor Ultra Lo 標誌性的誇張立體中底，進一步強化了其作為 HOKA 經典跨界登山鞋的厚重與越野比例。厚底下方配備 Vibram® Megagrip 外底以提供技術級抓地力，細小的黃色 Vibram 標誌成為深藍色鞋身中少數的亮眼點綴。是次聯乘並未加入明顯的 atmos 圖案，主要以其獨家配色作為亮點，讓 Tor Ultra Lo 的磨砂皮革結構、打孔細節及誇張的模具繼續成為視覺焦點。記下發售時間，緊貼 Hypebeast Drops 掌握最新上架資訊。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fhoka-tor-ultra-lo-exclusive-navy-colorway-for-atmos-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/hoka-tor-ultra-lo-exclusive-navy-colorway-for-atmos-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "HOKA"
-   ]
-  },
-  {
-   "id": 11,
-   "title": "Nike SB Dunk Low「Champagne」慶祝 SB Dunk 誕生 25 周年",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-02",
-   "content": "摘要 Nike SB 即將推出一款全新「Champagne」配色，以此慶祝 SB Dunk 誕生 25 週年官方圖片展示出光澤感十足的綠色漆皮鞋面、金屬金色細節、軟木塞鞋墊以及哥德體字樣這款紀念鞋款預計將於 2026 年 11 月登陸指定滑板店及 Nike SNKRS，售價為 130 美元 名稱： Nike SB Dunk Low「Champagne」配色： Black Spruce-Black-Bright Ceramic-Metallic GoldSKU： IQ0431-300建議零售價： $180 美元發售日期： 2026 年 11 月 6 日發售點： NikeNike SB 以 Nike SB Dunk Low「Champagne」慶祝旗下標誌性旗艦鞋款即將迎來的 25 周年紀念。最新曝光的官方圖片確認了這款充滿慶祝意味的設計，為這雙 2002 年誕生的經典滑板鞋換上節慶材質，靈感直接源自正宗香檳酒瓶的外觀。鞋面以高光澤度的綠色漆皮為主軸並延伸至各個裁片，呈現光滑閃亮的外觀。鞋側 Swoosh 標誌與鞋跟穩定片加入金屬金色點綴，視覺靈感直接取自傳統香檳瓶頸上的金屬箔包裝。為進一步將主題融入結構細節，鞋款配備了紋理軟木鞋墊、內側鞋領附近的低調徽章圖案，以及哥德式風格的品牌字體。雖然鮮豔的綠色與金色組合令人聯想起 2014 年 Air Jordan 6「Champagne」的配色，但兩者並無官方連繫。這次的周年紀念版未有延續 Nike SB 從 J-Pack 系列向 Air Jordan 配色致敬的傳統，而是特別打造出專屬的致敬之作，藉此慶祝 SB Dunk 誕生 25 周年。Nike SB Dunk Low「Champagne」將於 2026 年 11 月起在指定滑板店率先發售，隨後於 Nike SNKRS 作廣泛發售，提供男裝尺寸，定價為 $130 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-sb-dunk-low-champagne-iq0431-300-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/nike-sb-dunk-low-champagne-iq0431-300-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 12,
-   "title": "褪去標誌性格狀覆面，Nike Air Max Dolce 釋出全新「Leather Croc Skin」系列",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-02",
-   "content": "名稱： Nike Air Max Dolce「Leather Croc Skin」系列配色： Black/Anthracite、Pearl Pink/Pale Pink-BlackSKU： IR8665-600、IR8665-001建議售價： $170 美元發售日期： 2026 年假日季Nike 推出全新「Leather Croc Skin」系列，為 Air Max Dolce 帶來更精緻的飾面。此系列共有兩款配色，並將標誌性的 TPU 前腳掌網狀覆面替換成光澤亮麗的鱷魚壓紋皮革。鞋款提供黑色及「Pearl Pink」兩種選擇，拿走格狀覆蓋層後，一直隱藏在底下的便服鞋輪廓終於得以展現。移除網狀覆蓋後，不僅改變了整個鞋面的視覺效果，更突顯了 Dolce 便服鞋的結構特徵。一圈立體縫線勾勒出鞋頭輪廓，而鞋面與前端交界處的皮革略顯褶皺，這些原本藏在 TPU 框架下的細節如今清晰可見。低筒、無鞋帶設計依然得以保留，維持了此鞋款標誌性的易穿脫特色。Black/Anthracite 配色採用近乎單色的設計，利用高光澤飾面和壓花紋理來營造層次感，而非依靠對比色。同色系縫線圍繞前腳掌邊緣，一個小巧的 Swoosh 標誌幾乎與鞋舌融為一體，就連鞋跟處的外露式 Air 氣墊也採用黑色設計，隱藏在深色的模壓後跟支撐片下方，與整體造型相呼應。Pearl Pink/Pale Pink-Black 配色則是較為明亮的對比，淺色皮革使鱷魚壓紋的變化更容易被察覺。寬大的長方形鱗片紋理延伸至鞋腰處，在靠近鞋頭處則轉變為更細密緊湊的形狀。粉紅色一直延伸至後跟支撐片，而黑色鞋領內襯與黑色鞋底則為淺色鞋面帶來強烈的對比。鞋底部分，兩雙鞋款均保留了 Dolce 最具辨識度的設計。鞋底從前腳掌下方極薄的設計開始，然後通過足弓向上延伸，連接到較厚實的鞋跟處並內置 Air Max 氣墊，為鞋款帶來獨特的傾斜姿態。設定你的提醒，緊貼 Hypebeast Drops 的最新發售消息。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2FNike-Air-Max-Dolce-Leather-Croc-Skin-Pack-IR8665-600-IR8665-001-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/nike-air-max-dolce-leather-croc-skin-pack-ir8665-600-ir8665-001-official-images",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 13,
-   "title": "Sky High Farm Workwear 與 On 全新聯乘 Cloud Low 防水便服鞋款登場",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-02",
-   "content": "摘要 On 與 Sky High Farm Workwear 發表無鞋帶設計的 Cloud Low Waterproof，帶來兩種低調配色鞋款採用彈性一腳踢結構、防水尼龍材質，並於 Cloud 底座下配備粗獷的深溝大底此聯乘鞋款預計於 2026 年 11 月登場，每雙發售價格為 240 美元 名稱： Sky High Farm Workwear x On Running Cloud Low配色： Date/Torchwood, BlackSKU： 3MG30936417, 3MG30931043定價： $240 美元發售日期： 2026 年 11 月購買點： OnOn 與推廣再生農業的品牌 Sky High Farm Workwear 正式介紹雙方聯乘的 On Cloud Low Waterproof 鞋款，從早前的 Cloud 6 合作款式轉化成實用的便服鞋設計。這款全天候鞋款結合了戶外防護功能與俐落的工作服美學。鞋款採用全防水結構以抵禦惡劣天氣，完全捨棄傳統鞋帶設計，改以彈性鞋領開口取代，方便快速穿脫。無鞋帶的尼龍鞋面於鞋舌及後跟飾有細緻的拉環，並印有 Sky High Farm 與 On 的雙方品牌標誌。下方鞋底結合了這家瑞士品牌標誌性的 Cloud 風格大底，並配備深刻的防滑紋理，增強在崎嶇地形上的抓地力。是次發布帶來兩種低調配色：以大地色系為主的「Date/Torchwood」版本，鞋面與鞋底採用統一的同色調設計；以及維持全黑飾面的單色「Black」版本。此企劃標誌著雙方自 2025 年 10 月建立多年合作夥伴關係以來的最新篇章，旨在支持 Sky High Farm 提倡再生農業及擴大紐約食物供應網絡的使命。Sky High Farm Workwear x On Cloud Low Waterproof 預計將於 2026 年 11 月發售，定價為 $240 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fsky-high-farm-workwear-on-running-cloud-low-date-torchwood-3mg30936417-black-3mg30931043-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/sky-high-farm-workwear-on-running-cloud-low-date-torchwood-3mg30936417-black-3mg30931043-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ON RUNNING"
-   ]
-  },
-  {
-   "id": 14,
-   "title": "Kids of Immigrants x Nike Tiempo Streetgato 最新聯乘配色「Amarillo」官方照片釋出",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-02",
-   "content": "摘要 即將登場的 Kids of Immigrants x Nike Tiempo Streetgato「Amarillo」官方圖片現已曝光此聯乘鞋款為鞋型注入額外的大底包邊與後跟護層，並搭配明亮耀眼的黃、紅及霓虹綠調這款生活休閒足球鞋預計將於 2026 年 11 月登場，並伴隨同色調配套的 Tiempo Maestro Elite FG 足球鞋一同推出 名稱：Kids of Immigrants x Nike Tiempo Streetgato配色：Amarillo/Multi-ColorSKU：IV3430-700建議零售價：$125 美元發售日期：2026 年 11 月購買點：NikeNike 與 Los Angeles 品牌 Kids of Immigrants 官方正式發布了 Kids of Immigrants x Nike Tiempo Streetgato「Amarillo」，進一步擴展雙方以足球為靈感的聯乘鞋履系列。最新曝光的官方照片證實了這款日常街頭足球鞋經過全面改造，換上鮮豔的色調並重新配置了結構性的覆面。這次聯乘並非僅僅在配色上作表面修改，而是為整個鞋款輪廓引入了實質性的結構改動。鞋面採用了新增的擋泥板及鞋跟保護片加固，環繞著鞋底邊緣與後跟穩定器，令這雙休閒足球鞋呈現出明顯更厚實、充滿復古氣息的輪廓。奪目的黃色塗層覆蓋了主要鞋面，鞋領內側邊緣配有對比鮮明的紅色內襯，並以鮮豔的螢光綠色細節點綴全鞋。在此次發布之前，Kids of Immigrants 曾將 Nike Total 90 改造成露跟穆勒鞋，向拉丁美洲家庭中常見的「chancletas」（拖鞋）致敬。如今重新回歸運動根源，這款升級版 Streetgato 的設計旨在與一雙專為球場而設的同款 Tiempo Maestro Elite FG 專業足球鞋互相呼應。Kids of Immigrants x Nike Tiempo Streetgato 預計將於 2026 年 11 月與 Tiempo Maestro Elite FG 一同登場。 Click here to view full g",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fkids-of-immigrants-nike-tiempo-streetgato-amarillo-iv3430-700-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/kids-of-immigrants-nike-tiempo-streetgato-amarillo-iv3430-700-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 15,
+   "id": 27,
    "title": "Colbo's New Sperry Is Part Loafer, Part Ballet Flat",
    "source": "Hypebeast",
    "date": "2026-11-02",
@@ -221,7 +378,7 @@
    "relatedBrands": []
   },
   {
-   "id": 16,
+   "id": 28,
    "title": "Converse Really Cooked With Its New Kitchen-Ready Chucks",
    "source": "Hypebeast",
    "date": "2026-11-02",
@@ -234,7 +391,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 29,
    "title": "Sky High Goods & On Reframe Farming as the Original Sport",
    "source": "Hypebeast",
    "date": "2026-11-02",
@@ -245,7 +402,7 @@
    "relatedBrands": []
   },
   {
-   "id": 18,
+   "id": 30,
    "title": "PUMA and JiyongKim Channel Natural Aging on the Collaborative CELL Geo",
    "source": "Hypebeast",
    "date": "2026-11-02",
@@ -258,115 +415,7 @@
    ]
   },
   {
-   "id": 19,
-   "title": "Salomon and THE BROKEN ARM’s Grolle Boot Is Built to Age With Wear",
-   "source": "Hypebeast",
-   "date": "2026-11-02",
-   "content": "Name: Salomon Grolle THE BROKEN ARMColorway: Black Olive/Peat/Pumkin SpiceSKU: L45536400MSRP: $210 USDRelease Date: November 4Where to Buy: Salomon, THE BROKEN ARMSalomon and THE BROKEN ARM have reunited for a collaborative spin on the Grolle, a mid-cut boot that the Paris concept store builds around the lives of young people coming of age in villages and rural communities. Arriving in a single “Black Olive/Peat/Pumkin Spice” colorway, the mid-cut silhouette is built around a largely single-piece leather upper in a deep olive-brown shade, finished with an intentionally irregular, cracked surface that is designed to gain further depth and patina through wear.Bright white conventional laces cut sharply through the earthy palette, threaded through embroidered eyelets and metal hardware rather than Salomon’s familiar Quicklace system. Contrast stitching remains deliberately visible throughou",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F02%2Fsalomon-the-broken-arm-grolle-collaboration-black-olive-peat-pumkin-spice-l45536400-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/salomon-the-broken-arm-grolle-collaboration-black-olive-peat-pumkin-spice-l45536400-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "SALOMON",
-    "UGG"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "HOKA’s Deep “Navy” Tor Ultra Lo Arrives as an atmos-Exclusive",
-   "source": "Hypebeast",
-   "date": "2026-11-02",
-   "content": "Name: HOKA Tor Ultra Lo atmos ExclusiveColorway: Navy BlueSKU: TBCMSRP: ¥38,500 JPY (approx. $244 USD)Release Date: November 6Where to Buy: atmosHOKA’s Tor Ultra Lo returns with an atmos-exclusive colorway that leans into the model’s rugged outdoor DNA without overcomplicating its palette. Dressed almost entirely in deep navy, the pair combines thick nubuck panels with perforated sections across the forefoot and sidewalls, allowing shifts in texture to break up the otherwise monochromatic upper. Tonal laces, eyelets and overlays keep the look restrained, while a small GORE-TEX label near the collar signals the weather-resistant lining underneath. Subtle HOKA branding is worked into the lateral side rather than treated as a contrasting focal point, giving the sneaker a cleaner, more utilitarian finish.Underfoot, the color treatment continues across the Tor Ultra Lo’s oversized, sculpted m",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F02%2Fhoka-tor-ultra-lo-exclusive-navy-colorway-for-atmos-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/hoka-tor-ultra-lo-exclusive-navy-colorway-for-atmos-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "HOKA",
-    "UGG"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "Nike SB Dunk Low \"Champagne\" Celebrates 25th Anniversary of SB Dunks",
-   "source": "Hypebeast",
-   "date": "2026-11-02",
-   "content": "Summary Nike SB is commemorating the 25th anniversary of the SB Dunk with an upcoming Champagne colorwayOfficial imagery reveals glossy green patent leather uppers metallic gold accents cork insoles and gothic typographyThe celebratory sneaker is scheduled to arrive at select skate shops and Nike SNKRS in November 2026 for 130 USD Name: Nike SB Dunk Low \"Champagne\"Colorway: Black Spruce-Black-Bright Ceramic-Metallic GoldSKU: IQ0431-300MSRP: $180 USDRelease Date: November 6, 2026Where to Buy: NikeNike SB is celebrating the upcoming 25th anniversary of its iconic flagship silhouette with the Nike SB Dunk Low \"Champagne\". Newly surfaced official imagery confirms the celebratory design, outfitting the 2002 skateboarding staple in festive materials inspired directly by the presentation of authentic champagne bottles.The upper is anchored by high-gloss green patent leather that extends across ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F01%2Fnike-sb-dunk-low-champagne-iq0431-300-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/nike-sb-dunk-low-champagne-iq0431-300-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "The Nike Air Max Dolce Sheds Its Netting for a “Leather Croc Skin” Pack",
-   "source": "Hypebeast",
-   "date": "2026-11-02",
-   "content": "Name: Nike Air Max Dolce “Leather Croc Skin” PackColorway: Black/Anthracite, Pearl Pink/Pale Pink-BlackSKU: IR8665-600, IR8665-001MSRP: $170 USDRelease Date: Holiday 2026Nike is giving the Air Max Dolce a more polished finish with its “Leather Croc Skin” Pack, a two-colorway release that replaces the model’s signature TPU forefoot netting with glossy, croc-embossed leather. Offered in Black and “Pearl Pink,” the update pulls away the shoe’s caged overlay to expose the slip-on loafer form that has always sat underneath.Removing the netting changes how the entire upper reads, pushing the Dolce’s loafer construction to the forefront. A ring of raised stitching outlines the toe box, while the leather bunches slightly where the vamp meets the front of the shoe, a detail that was previously hidden beneath the TPU cage. The low-cut, laceless build stays intact, preserving the easy step-in profi",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F02%2FNike-Air-Max-Dolce-Leather-Croc-Skin-Pack-IR8665-600-IR8665-001-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/nike-air-max-dolce-leather-croc-skin-pack-ir8665-600-ir8665-001-official-images",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "Sky High Farm Workwear and On Debut the Cloud Low Waterproof Slip-On",
-   "source": "Hypebeast",
-   "date": "2026-11-02",
-   "content": "Summary On and Sky High Farm Workwear have unveiled the laceless Cloud Low Waterproof in two subdued colorwaysThe silhouette features an elasticated slip-on entry waterproof nylon construction and rugged deep lugs beneath a Cloud soleThe collaborative pairs are set to launch in November 2026 for a retail price of 240 USD each Name: Sky High Farm Workwear x On Running Cloud LowColorway: Date/Torchwood, BlackSKU: 3MG30936417, 3MG30931043Retail Price: $240 USDRelease Date: November 2026Where to Buy: OnOn and regenerative agricultural imprint Sky High Farm Workwear have officially introduced the collaborative On Cloud Low Waterproof, transitioning from their prior Cloud 6 collaboration into a utilitarian slip-on design. The weather-ready model delivers a functional blend of outdoor protection and streamlined workwear aesthetics.Constructed with a fully waterproof build to keep out inclement ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F01%2Fsky-high-farm-workwear-on-running-cloud-low-date-torchwood-3mg30936417-black-3mg30931043-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/sky-high-farm-workwear-on-running-cloud-low-date-torchwood-3mg30936417-black-3mg30931043-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ON RUNNING",
-    "UGG"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "Official Images Surface for the Kids of Immigrants x Nike Tiempo Streetgato \"Amarillo\"",
-   "source": "Hypebeast",
-   "date": "2026-11-02",
-   "content": "Summary Official images have surfaced for the upcoming Kids of Immigrants x Nike Tiempo Streetgato AmarilloThe collaboration updates the silhouette with extra mudguard and heel guard overlays alongside a vibrant yellow red and neon green paletteThe lifestyle soccer model is scheduled to launch in November 2026 alongside a matching Tiempo Maestro Elite FG cleat Name: Kids of Immigrants x Nike Tiempo StreetgatoColorway: Amarillo/Multi-ColorSKU: IV3430-700MSRP: $125 USDRelease Date: November 2026Where to Buy: Nike, HBXNike and Los Angeles brand Kids of Immigrants have officially unveiled the Kids of Immigrants x Nike Tiempo Streetgato \"Amarillo\", expanding their ongoing soccer-inspired footwear lineage. Newly surfaced official imagery confirms an overhauled take on the everyday street soccer shoe outfitted with vibrant hues and retooled structural overlays.Moving beyond a standard cosmetic ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F01%2Fkids-of-immigrants-nike-tiempo-streetgato-amarillo-iv3430-700-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/kids-of-immigrants-nike-tiempo-streetgato-amarillo-iv3430-700-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "Vans' Stitched-Up \"Wallabee\" Skate Shoe Is (Sew) Good",
-   "source": "Highsnobiety",
-   "date": "2026-11-02",
-   "content": "Vans' Wallabee-coded Premium SF Moc Low shoe gets a \"crafted\" makeover with extra stitching.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-premium-sf-moc-low-crafted-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Nike’s Green Leather Air Max Is All Puff, No Pass",
-   "source": "Highsnobiety",
-   "date": "2026-11-02",
-   "content": "Nike's Air Max 90 \"Medium Olive\" sees the classic sneaker remixed with green padded leather uppers.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-90-medium-olive/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 27,
+   "id": 31,
    "title": "New Balance Trackside Makes Uniform Dressing Easy (& Elevated)",
    "source": "Highsnobiety",
    "date": "2026-11-02",
@@ -379,20 +428,7 @@
    ]
   },
   {
-   "id": 28,
-   "title": "New Balance’s Coffee-Flavored Shoe Is Straight-up Mouthwatering",
-   "source": "Highsnobiety",
-   "date": "2026-11-02",
-   "content": "Billy's gets an exclusive New Balance 204L \"Black Coffee\" sneaker dressed in elegant materials & a rich brown colorway.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/billys-new-balance-204l-black-coffee/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 29,
+   "id": 32,
    "title": "Hollywood’s Original Shoemaker Wants its Flowers",
    "source": "Highsnobiety",
    "date": "2026-11-02",
@@ -403,33 +439,7 @@
    "relatedBrands": []
   },
   {
-   "id": 30,
-   "title": "Jordan's Color-Shifting 'Space Jam' Shoes Are Genuinely Magical",
-   "source": "Highsnobiety",
-   "date": "2026-11-02",
-   "content": "The Air Jordan 11 \"Magic Ball\" is a cool, color-shifting sneaker designed for the \"Space Jam\" anniversary. Here's everything on the release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-11-space-jam-magic-ball/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "Nike’s Wavy Sneaker Is a Knight in Shining Armor",
-   "source": "Highsnobiety",
-   "date": "2026-11-02",
-   "content": "Nike drops a P-6000 \"Black/Medium Soft Pink\" sneaker with medieval-ish, Thug Club-coded details.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-p-6000-black-pink/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 32,
+   "id": 33,
    "title": "Back When Your Outfit Mattered as Much as Your Record Collection",
    "source": "Highsnobiety",
    "date": "2026-11-02",
@@ -442,7 +452,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 34,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
@@ -455,7 +465,7 @@
    ]
   },
   {
-   "id": 34,
+   "id": 35,
    "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
@@ -468,7 +478,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 36,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -481,7 +491,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 37,
    "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -494,7 +504,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 38,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
@@ -508,7 +518,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 39,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -521,7 +531,7 @@
    ]
   },
   {
-   "id": 39,
+   "id": 40,
    "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -535,7 +545,7 @@
    ]
   },
   {
-   "id": 40,
+   "id": 41,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -548,7 +558,7 @@
    ]
   },
   {
-   "id": 41,
+   "id": 42,
    "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
