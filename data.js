@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-03 01:37",
+ "updatedAt": "2026-11-03 12:47",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -15,7 +15,7 @@ window.SNEAKER_DATA = {
   "得物、识货：接口需签名，无法直连"
  ],
  "brands": [
-  "ADIDAS",
+  "CONVERSE",
   "HOKA",
   "JORDAN",
   "NEW BALANCE",
@@ -24,12 +24,90 @@ window.SNEAKER_DATA = {
   "PUMA",
   "REEBOK",
   "SALOMON",
-  "UGG"
+  "UGG",
+  "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Travis Scott 分享 Shai Gilgeous-Alexander 贈送的親筆簽名球衣及上腳 Nike Shai 001",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-03",
+   "content": "摘要 Travis Scott 分享了即將推出的 Nike Shai 001 近照，以及由 Shai Gilgeous-Alexander 贈送的簽名版 OKC Thunder 球衣於 Instagram 發佈的照片顯示，Scott 穿着粉紅撞色球鞋，身旁放着寫有「To Jack」的球衣在這場禮物交流之前，Scott 與 Drake 一同觀看 Rockets 對戰 Thunder 的賽事，於球場邊的合照更在網絡引發熱烈討論 獲格林美提名的 Travis Scott 分享了即將推出的 Nike Shai 001 的近距離照片，展示了直接從 Oklahoma City Thunder 球星 Shai Gilgeous-Alexander 處收到的親筆簽名禮物。兩人早前在 Houston 的球場邊碰面後，Scott 在 Instagram 限時動態上展示了這款雙色粉紅的球員專屬鞋款，以及一件親筆簽名的 OKC Thunder 球衣。Scott 發布了自己穿著這款低筒球鞋並舉起簽名球衣的照片，球衣上清晰可見在這位全明星後衛的簽名旁寫著「To: Jack」。這次交流發生在 Houston Rockets 對陣 Oklahoma City 的比賽之後，當時 Scott 和 Drake 被發現並肩坐在場邊觀戰。這次公開露面為 Scott 和 Drake 關係的傳聞增添了另一層神祕色彩，尤其是在近期業界的緊張局勢之後。Drake 在場邊的出現也突顯了他深厚的籃球人脈，從他與 Kevin Durant 的長久友誼，到與 Gilgeous-Alexander 的共同加拿大背景。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Ftravis-scott-closer-look-shai-gilgeous-alexander-nike-shai-001-signed-shoes-okc-jersey-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/travis-scott-closer-look-shai-gilgeous-alexander-nike-shai-001-signed-shoes-okc-jersey-revealed",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "率先預覽 Travis Scott x Rockstar Games x Nike Air Force 1 Low 最新「Grand Theft Auto」黑色聯乘鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-03",
+   "content": "摘要 網絡流出諜照，首次曝光 Travis Scott、Rockstar Games 與 Nike 三方聯乘的 Air Force 1 Low「Black」配色鞋款設計融入取材自《Grand Theft Auto》的細節，包括鞋頭位置綁着的紙幣束帶以及六星通緝等級圖案據悉此聯乘球鞋預計將於 11 月 19 日配合《Grand Theft Auto VI》發售同步登場 根據最新流出的圖片顯示，Nike 據報與 Travis Scott 的 Cactus Jack 及 Rockstar Games 攜手合作，推出全新 Nike Air Force 1 Low「Grand Theft Auto」黑色聯乘鞋款。是次合作最早由情報帳號 @prm.stocks.01 分享，整體設計直接從該開放世界電子遊戲系列汲取靈感。從圖片可見，鞋身以黑色為主調，並融入多個與即將推出的《Grand Theft Auto VI》相關之元素。當中亮點包括環繞鞋頭的獨特點鈔帶設計，以及代表經典六顆星通緝等級的圖案細節——此標誌性機制在《GTA 5》中被剔除後，如今再度回歸系列。這對低筒球鞋將 Scott 旗下 Cactus Jack 的街頭美學與 Rockstar Games 的遊戲傳統完美融合。Travis Scott x Rockstar Games x Nike Air Force 1 Low「Grand Theft Auto」黑色聯乘鞋款預計將於 11 月 19 日正式發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Ftravis-scott-cactus-jack-rockstar-games-nike-air-force-1-low-grand-theft-auto-6-black-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/travis-scott-cactus-jack-rockstar-games-nike-air-force-1-low-grand-theft-auto-6-black-first-look",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Travis Scott Gives a Closer Look at Shai Gilgeous-Alexander’s Nike Shai 001 With Signed Gifts From the Thunder Guard",
+   "source": "Hypebeast",
+   "date": "2026-11-03",
+   "content": "Summary Travis Scott shared an up-close look at the upcoming Nike Shai 001 and a signed OKC Thunder jersey gifted by Shai Gilgeous-AlexanderImages posted to Instagram showed Scott wearing the color-blocked pink sneakers alongside a jersey inscribed To JackThe gift exchange followed a viral courtside appearance where Scott and Drake attended the Rockets vs Thunder game together Grammy-nominated artist Travis Scott has shared a closer look at the upcoming Nike Shai 001, showcasing signed gifts received directly from Oklahoma City Thunder star Shai Gilgeous-Alexander. Taking to Instagram Stories, Scott unveiled the two-tone pink player exclusive alongside an autographed OKC Thunder jersey following their courtside link-up in Houston.Scott posted images wearing the low-top silhouette while holding up the signed jersey, where visible handwriting read \"To: Jack\" beside the All-NBA guard's sign",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F02%2Ftravis-scott-closer-look-shai-gilgeous-alexander-nike-shai-001-signed-shoes-okc-jersey-revealed-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/travis-scott-closer-look-shai-gilgeous-alexander-nike-shai-001-signed-shoes-okc-jersey-revealed",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "First Look at the Travis Scott x Rockstar Games x Nike Air Force 1 Low \"Grand Theft Auto\" in Black",
+   "source": "Hypebeast",
+   "date": "2026-11-03",
+   "content": "Summary Leaked images have surfaced showcasing a first look at the Travis Scott and Rockstar Games collaborative Nike Air Force 1 Low in BlackThe design features 'Grand Theft Auto'-inspired accents including a toe-box money band and a six-star wanted level graphicThe sneaker collaboration is reportedly slated to drop on November 19 alongside the arrival of 'Grand Theft Auto VI' Nike has reportedly teamed up with Travis Scott's Cactus Jack and Rockstar Games on the Nike Air Force 1 Low \"Grand Theft Auto\" in Black, according to newly surfaced leak imagery. First shared by @prm.stocks.01, the purported collaboration delivers a thematic execution inspired directly by the open-world video game franchise.Suggested imagery reveals a black-based construction incorporating multiple elements tied to the upcoming Grand Theft Auto VI. Notable features include a distinctive money band wrapped around ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F02%2Ftravis-scott-cactus-jack-rockstar-games-nike-air-force-1-low-grand-theft-auto-6-black-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/travis-scott-cactus-jack-rockstar-games-nike-air-force-1-low-grand-theft-auto-6-black-first-look",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Colbo 全新 Sperry 鞋款融合樂福鞋與芭蕾平底鞋特色",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-02",
+   "content": "摘要 Sperry 與 Colbo 第 4 度合作，推出全新鞋型 Sirah Loafer，將經典樂福鞋與芭蕾舞平底鞋融合。這款低調的便鞋提供 Black 皮革與 Earth 磨砂革兩種版本，配置緩震中底、Sperry 標誌性的 Wave-Siping 刮痕防滑技術，並採用能隨著歲月養成自然色澤與質感的面料。Sirah Loafer 定價為 $225 美元，將提供美規男碼 4 至 13 號，可經由 Sperry.com、Colbo.nyc 以及 Colbo 的 New York 門市選購。 Sperry 與以紐約為基地的品牌 Colbo 第 4 度合作，今次推出全新鞋款，設計介乎經典樂福鞋、復古正裝鞋與芭蕾平底鞋之間。全新聯乘鞋款命名為 Sirah Loafer，將 Sperry 的傳統鞋履設計融入 Colbo 的休閒穿搭風格中，打造出一款低筒套穿鞋，兼具正裝鞋的精緻感與日常穿著的舒適度。Sirah 備有「Black」與「Earth」兩種配色，採用優質皮革與磨砂革製成，隨時間推移會展現出自然的光澤。「Black」版本是 Colbo 首款全黑產品，而「Earth」則保留了品牌標誌性的色調，將溫暖的磨砂革與對比色縫線結合。鞋底方面，這款鞋採用了 Sperry 經典的 Cloud 結構、緩震鞋墊，以及專為 Colbo 研發的獨家外底圖案，並配備品牌標誌性的 Wave-Siping 技術以提升抓地力。Colbo 共同創辦人兼設計師 Tal Silberstein 表示：「Sirah 是我們與 Sperry 的第 4 次合作，也是最個人化的一次。這是一個全新的鞋款，一款感覺優雅但輕鬆的套穿鞋，由我們所能找到的最優質皮革與磨砂革製成。」Sirah 這個名字對 Silberstein 來說亦具個人意義，旨在向他的文化背景致敬。Sperry x Colbo Sirah Loafer 售價為 $225 美元，將提供美國男裝尺碼 4 至 13，於 Sperry.com、Colbo.nyc 及 Colbo 紐約實體店發售，官方發售日期尚待公布。 Click here to view full",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fcolbo-sperry-sirah-loafer-ballet-flat-release-featured-image.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/colbo-sperry-sirah-loafer-ballet-flat-release",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 6,
+   "title": "Converse 推出全新廚房專用 Chucks 鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-02",
+   "content": "坦白說，服務業在鞋款選擇上一直備受冷落。多年來，「廚師鞋」一詞幾乎等同於外型笨重的矯形運動鞋或木屐，設計上往往只顧及舒適度，難以讓人在廚房中展現時尚穿搭。Converse 希望透過全新 「At Your Service」 系列改變此現狀，以標誌性的 Chuck Taylor All Star 重新演繹傳統廚房鞋款。你可以將其視為專為熱愛 Chucks 的廚師而設的系列，讓他們在漫長的廚房輪班工作中，終於能安全且舒適地穿上心頭好。系列包含 Chuck Taylor All Star High Top、Low Top 及 Slip-On，保留了熟悉的輪廓，同時加入一系列針對工作環境的升級配置。這些升級包括防滑菱形外底、提供全天舒適感的 CX 緩震技術，以及能抵禦嚴苛廚房環境的耐用材質。帆布款式配備透氣、抗水防油的鞋面，皮革版本則提供易於清潔的飾面。該系列符合甚至超越 ASTM SRO 與 ISO 職業鞋款的防滑標準，為這個傳統上功能勝於外型的領域注入了久違的個性。Converse 「At Your Service」 系列將於 11 月 3 日經由 Converse.com 及指定零售商發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fconverse-kitchen-ready-chucks-at-your-service-collection-00.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/converse-kitchen-ready-chucks-at-your-service-collection",
+   "lang": "zh",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 7,
    "title": "Sky High Farm Goods x On 聯乘系列：將農耕重新定義為「最原始的運動」",
    "source": "Hypebeast 中文",
    "date": "2026-11-02",
@@ -40,7 +118,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 8,
    "title": "PUMA x JiyongKim 全新聯乘 CELL Geo 鞋款登場：展現自然歲月痕跡",
    "source": "Hypebeast 中文",
    "date": "2026-11-02",
@@ -53,7 +131,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 9,
    "title": "Salomon 攜手 THE BROKEN ARM 推出越穿越有味道的 Grolle 靴款",
    "source": "Hypebeast 中文",
    "date": "2026-11-02",
@@ -66,7 +144,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 10,
    "title": "HOKA 最新深藍色「Navy」Tor Ultra Lo 迎來 atmos 獨家發售",
    "source": "Hypebeast 中文",
    "date": "2026-11-02",
@@ -79,7 +157,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 11,
    "title": "Nike SB Dunk Low「Champagne」慶祝 SB Dunk 誕生 25 周年",
    "source": "Hypebeast 中文",
    "date": "2026-11-02",
@@ -93,7 +171,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 12,
    "title": "褪去標誌性格狀覆面，Nike Air Max Dolce 釋出全新「Leather Croc Skin」系列",
    "source": "Hypebeast 中文",
    "date": "2026-11-02",
@@ -106,7 +184,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 13,
    "title": "Sky High Farm Workwear 與 On 全新聯乘 Cloud Low 防水便服鞋款登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-02",
@@ -119,7 +197,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 14,
    "title": "Kids of Immigrants x Nike Tiempo Streetgato 最新聯乘配色「Amarillo」官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-02",
@@ -132,20 +210,31 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
-   "title": "傳 Travis Scott、Rockstar Games 與 Nike 將聯手推出《GTA 6》專屬 Air Force 1 Low 三方聯乘鞋款",
-   "source": "Hypebeast 中文",
+   "id": 15,
+   "title": "Colbo's New Sperry Is Part Loafer, Part Ballet Flat",
+   "source": "Hypebeast",
    "date": "2026-11-02",
-   "content": "摘要 傳聞 Travis Scott 旗下品牌 Cactus Jack 將攜手 Rockstar Games 與 Nike，推出三款 Air Force 1 Low 配色據悉該系列預計於 11 月 19 日配合《Grand Theft Auto 6》登場同步發售每款聯乘鞋款共推出三種不同配色，發售價定為 130 美元 據報 Nike 將與 Travis Scott 的 Cactus Jack 及 Rockstar Games 聯手推出 Nike Air Force 1 Low '07 RS 系列，預計與 《Grand Theft Auto 6》 的發布同步登場。三款聯乘配色已在零售商的發售日程表上曝光。關於此企劃的猜測源於列表中的「RS」標記，據 @sneakermarketro 報道，這代表了 Rockstar Games。雖然目前尚未有流出的圖片，但日程表記錄顯示了三款獨特的配色，分別是「White/Fire Pink」、「Black/Fire Pink」以及「Multi-Color/Pale Ivory/Black/Bold Berry/Fire Pink」。在此次合作之前，Scott 已參與了遊戲配樂的製作，並發布過以 Vice City 為主題的預告。Cactus Jack x Rockstar Games x Nike Air Force 1 Low '07 RS 系列預計於 2026 年 11 月 19 日發售，定價為 $130 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Ftravis-scott-rockstar-games-nike-air-force-1-low-trio-gta-6-rumored-release-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/travis-scott-rockstar-games-nike-air-force-1-low-trio-gta-6-rumored-release",
-   "lang": "zh",
+   "content": "Summary Sperry and Colbo reunite for their fourth collaboration, introducing the Sirah Loafer, an all-new silhouette that blends a classic loafer with a ballet flat.Available in Black leather and Earth nubuck, the low-profile slip-on features cushioned insoles, Sperry's signature Wave-Siping technology, and materials designed to develop a natural patina.Priced at $225 USD, the Sirah Loafer will be available in US men's sizes 4–13 via Sperry.com, Colbo.nyc, and Colbo's New York storefront. Sperry and New York-based label Colbo are back for round four, this time introducing an entirely new silhouette that sits somewhere between a classic loafer, a vintage suiting shoe, and a ballet flat.Dubbed the Sirah Loafer, the latest collaboration takes Sperry's heritage footwear design and filters it through Colbo's relaxed approach to dressing. The result is a low-profile slip-on that balances the r",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F02%2Fcolbo-sperry-sirah-loafer-ballet-flat-release-featured-image.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/colbo-sperry-sirah-loafer-ballet-flat-release",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 16,
+   "title": "Converse Really Cooked With Its New Kitchen-Ready Chucks",
+   "source": "Hypebeast",
+   "date": "2026-11-02",
+   "content": "Summary Converse’s At Your Service collection reimagines traditional kitchen footwear, combining the iconic Chuck Taylor silhouette with industry-standard safety features and all-day comfort.The collection includes Chuck Taylor All Star High Top, Low Top, and Slip-On models, featuring slip-resistant soles, CX cushioning, and water- and oil-repellent canvas or easy-to-clean leather uppers.The Converse At Your Service collection launches November 3 via Converse.com and select retailers. The service industry has, quite frankly, been underserved when it comes to footwear. For years, the term \"line cook shoes\" has been synonymous with orthopedic-looking sneakers and clogs designed more for comfort than getting a 'fit off in the kitchen.Converse is looking to change that with its new At Your Service collection, reimagining traditional kitchen footwear through its iconic Chuck Taylor All Star. ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F02%2Fconverse-kitchen-ready-chucks-at-your-service-collection-00.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/converse-kitchen-ready-chucks-at-your-service-collection",
+   "lang": "en",
    "relatedBrands": [
-    "NIKE"
+    "CONVERSE"
    ]
   },
   {
-   "id": 10,
+   "id": 17,
    "title": "Sky High Goods & On Reframe Farming as the Original Sport",
    "source": "Hypebeast",
    "date": "2026-11-02",
@@ -156,7 +245,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 11,
+   "id": 18,
    "title": "PUMA and JiyongKim Channel Natural Aging on the Collaborative CELL Geo",
    "source": "Hypebeast",
    "date": "2026-11-02",
@@ -169,7 +258,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 19,
    "title": "Salomon and THE BROKEN ARM’s Grolle Boot Is Built to Age With Wear",
    "source": "Hypebeast",
    "date": "2026-11-02",
@@ -183,7 +272,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 20,
    "title": "HOKA’s Deep “Navy” Tor Ultra Lo Arrives as an atmos-Exclusive",
    "source": "Hypebeast",
    "date": "2026-11-02",
@@ -197,7 +286,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 21,
    "title": "Nike SB Dunk Low \"Champagne\" Celebrates 25th Anniversary of SB Dunks",
    "source": "Hypebeast",
    "date": "2026-11-02",
@@ -211,7 +300,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 22,
    "title": "The Nike Air Max Dolce Sheds Its Netting for a “Leather Croc Skin” Pack",
    "source": "Hypebeast",
    "date": "2026-11-02",
@@ -224,7 +313,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 23,
    "title": "Sky High Farm Workwear and On Debut the Cloud Low Waterproof Slip-On",
    "source": "Hypebeast",
    "date": "2026-11-02",
@@ -238,11 +327,11 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 24,
    "title": "Official Images Surface for the Kids of Immigrants x Nike Tiempo Streetgato \"Amarillo\"",
    "source": "Hypebeast",
    "date": "2026-11-02",
-   "content": "Summary Official images have surfaced for the upcoming Kids of Immigrants x Nike Tiempo Streetgato AmarilloThe collaboration updates the silhouette with extra mudguard and heel guard overlays alongside a vibrant yellow red and neon green paletteThe lifestyle soccer model is scheduled to launch in November 2026 alongside a matching Tiempo Maestro Elite FG cleat Name: Kids of Immigrants x Nike Tiempo StreetgatoColorway: Amarillo/Multi-ColorSKU: IV3430-700MSRP: $125 USDRelease Date: November 2026Where to Buy: NikeNike and Los Angeles brand Kids of Immigrants have officially unveiled the Kids of Immigrants x Nike Tiempo Streetgato \"Amarillo\", expanding their ongoing soccer-inspired footwear lineage. Newly surfaced official imagery confirms an overhauled take on the everyday street soccer shoe outfitted with vibrant hues and retooled structural overlays.Moving beyond a standard cosmetic color",
+   "content": "Summary Official images have surfaced for the upcoming Kids of Immigrants x Nike Tiempo Streetgato AmarilloThe collaboration updates the silhouette with extra mudguard and heel guard overlays alongside a vibrant yellow red and neon green paletteThe lifestyle soccer model is scheduled to launch in November 2026 alongside a matching Tiempo Maestro Elite FG cleat Name: Kids of Immigrants x Nike Tiempo StreetgatoColorway: Amarillo/Multi-ColorSKU: IV3430-700MSRP: $125 USDRelease Date: November 2026Where to Buy: Nike, HBXNike and Los Angeles brand Kids of Immigrants have officially unveiled the Kids of Immigrants x Nike Tiempo Streetgato \"Amarillo\", expanding their ongoing soccer-inspired footwear lineage. Newly surfaced official imagery confirms an overhauled take on the everyday street soccer shoe outfitted with vibrant hues and retooled structural overlays.Moving beyond a standard cosmetic ",
    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F01%2Fkids-of-immigrants-nike-tiempo-streetgato-amarillo-iv3430-700-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
    "link": "https://hypebeast.com/2026/11/kids-of-immigrants-nike-tiempo-streetgato-amarillo-iv3430-700-official-look-release-info",
    "lang": "en",
@@ -251,33 +340,96 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
-   "title": "Action Bronson and New Balance Reveal Baklava 2811 in \"Clear Sky/Limelight\" and \"Amaranth/Limoges\"",
-   "source": "Hypebeast",
+   "id": 25,
+   "title": "Vans' Stitched-Up \"Wallabee\" Skate Shoe Is (Sew) Good",
+   "source": "Highsnobiety",
    "date": "2026-11-02",
-   "content": "Summary Official images have surfaced for the Action Bronson x New Balance Baklava 2811 in Clear Sky/Limelight and Amaranth/LimogesBoth silhouettes combine mesh leather and semi-translucent TPU overlays with distinctive contrast stitching and signature brandingThe collaborative two-pack is expected to release during Holiday 2026 for $180 USD in unisex sizing Name: Action Bronson x New Balance Baklava 2811Colorway: Clear Sky/Limelight, Amaranth/LimogesSKU: U28111IV, U28118NQMSRP: $180 USDRelease Date: Holiday 2026Where to Buy: New BalanceNew Balance and long-time collaborator Action Bronson have officially revealed the Action Bronson x New Balance Baklava 2811 in two contrasting colorways \"Clear Sky/Limelight\" and \"Amaranth/Limoges.\" Newly surfaced official imagery showcases the multifaceted creator's vibrant approach to texture and colorblocking across the technical model.The \"Clear Sky/",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F01%2Faction-bronson-new-balance-baklava-2811-clear-sky-limelight-u28111iv-amaranth-limoges-u28118nq-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/action-bronson-new-balance-baklava-2811-clear-sky-limelight-u28111iv-amaranth-limoges-u28118nq-official-look-release-info",
+   "content": "Vans' Wallabee-coded Premium SF Moc Low shoe gets a \"crafted\" makeover with extra stitching.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-premium-sf-moc-low-crafted-black/",
    "lang": "en",
    "relatedBrands": [
-    "NEW BALANCE"
+    "VANS"
    ]
   },
   {
-   "id": 19,
-   "title": "Travis Scott, Rockstar Games, and Nike Rumored to Release Air Force 1 Low Trio for 'GTA 6'",
-   "source": "Hypebeast",
+   "id": 26,
+   "title": "Nike’s Green Leather Air Max Is All Puff, No Pass",
+   "source": "Highsnobiety",
    "date": "2026-11-02",
-   "content": "Summary Travis Scott's Cactus Jack is rumored to team up with Rockstar Games and Nike on three Air Force 1 Low colorwaysThe release is reportedly scheduled to launch on November 19 alongside the arrival of 'Grand Theft Auto 6'Each collaborative pair is listed at a 130 USD retail price point across three distinct palettes Nike is reportedly linking up with Travis Scott's Cactus Jack and Rockstar Games for the Nike Air Force 1 Low '07 RS Collection, slated to coincide with the launch of Grand Theft Auto 6. Three collaborative colorways have surfaced on retail release calendars.Speculation surrounding the project stems from the 'RS' designation in the listings, which @sneakermarketro reports denotes Rockstar Games. While leaked imagery has not yet surfaced, calendar entries reveal three distinct colorways: \"White/Fire Pink,\" \"Black/Fire Pink,\" and a \"Multi-Color/Pale Ivory/Black/Bold Berry/",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F01%2Ftravis-scott-rockstar-games-nike-air-force-1-low-trio-gta-6-rumored-release-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/travis-scott-rockstar-games-nike-air-force-1-low-trio-gta-6-rumored-release",
+   "content": "Nike's Air Max 90 \"Medium Olive\" sees the classic sneaker remixed with green padded leather uppers.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-90-medium-olive/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
    ]
   },
   {
-   "id": 20,
+   "id": 27,
+   "title": "New Balance Trackside Makes Uniform Dressing Easy (& Elevated)",
+   "source": "Highsnobiety",
+   "date": "2026-11-02",
+   "content": "Striking his perfect balance between comfy and fly, our editor, Jason Meggyesy, steps out in the new Trackside collection, merging function and fashion for everyday wear.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/hs-new-balance-trackside/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 28,
+   "title": "New Balance’s Coffee-Flavored Shoe Is Straight-up Mouthwatering",
+   "source": "Highsnobiety",
+   "date": "2026-11-02",
+   "content": "Billy's gets an exclusive New Balance 204L \"Black Coffee\" sneaker dressed in elegant materials & a rich brown colorway.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/billys-new-balance-204l-black-coffee/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 29,
+   "title": "Hollywood’s Original Shoemaker Wants its Flowers",
+   "source": "Highsnobiety",
+   "date": "2026-11-02",
+   "content": "Ferragamo's Criterion collaboration taps into the brand's Hollywood lore, adding another notch in the luxury label's mission to reclaim its turf in Tinseltown.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/ferragamo-criterion/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 30,
+   "title": "Jordan's Color-Shifting 'Space Jam' Shoes Are Genuinely Magical",
+   "source": "Highsnobiety",
+   "date": "2026-11-02",
+   "content": "The Air Jordan 11 \"Magic Ball\" is a cool, color-shifting sneaker designed for the \"Space Jam\" anniversary. Here's everything on the release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-11-space-jam-magic-ball/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 31,
+   "title": "Nike’s Wavy Sneaker Is a Knight in Shining Armor",
+   "source": "Highsnobiety",
+   "date": "2026-11-02",
+   "content": "Nike drops a P-6000 \"Black/Medium Soft Pink\" sneaker with medieval-ish, Thug Club-coded details.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-p-6000-black-pink/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 32,
    "title": "Back When Your Outfit Mattered as Much as Your Record Collection",
    "source": "Highsnobiety",
    "date": "2026-11-02",
@@ -287,163 +439,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "REEBOK"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "The Seven Best adidas Sneaker Releases This Week",
-   "source": "Highsnobiety",
-   "date": "2026-11-02",
-   "content": "This week was so chock-full of adidas standouts, we picked... seven of them.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-sneaker-releases-october-week-5/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "The Seven Best Nike Sneaker Releases This Week",
-   "source": "Highsnobiety",
-   "date": "2026-11-02",
-   "content": "This week, Nike is injecting a little weird into the familiar favourites, and we are here for it.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-sneaker-releases-october-week-5/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "adidas’ Most Lowkey Sneaker Is Highly Luxe",
-   "source": "Highsnobiety",
-   "date": "2026-11-02",
-   "content": "adidas' latest Tobacco sneaker is a Japan-exclusive release featuring a clean all-black colorway & luxe suede uppers.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-tobacco-triple-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "Nike SB's Glossy Champagne-Themed Dunks Have Expensive Taste",
-   "source": "Highsnobiety",
-   "date": "2026-11-02",
-   "content": "Nike SB debuts a patent leather Dunk Low \"Black Spruce\" skate shoe inspired by champagne bottles.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-sb-dunk-black-spruce/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "Nike’s ‘Space Jam’ Air Jordans Went Full Bottega",
-   "source": "Highsnobiety",
-   "date": "2026-11-02",
-   "content": "The Air Jordan 11 gets a refresh for the 'Space Jam' collection, resulting in this tonal Bottega-style \"Green Screen\" version of the sneaker.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-11-space-jam-green-screen/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Nike’s Exquisite Olive-Green Running Shoe Is Perfect",
-   "source": "Highsnobiety",
-   "date": "2026-11-02",
-   "content": "Nike's Pegasus Premium running shoe gets an earthy \"Cargo Khaki\" makeover for its latest release. And honestly, it's quite perfect.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-pegasus-premium-cargo-khaki/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "New Balance's Next USM Collab? Modular Cold Plunge Tanks",
-   "source": "Highsnobiety",
-   "date": "2026-11-02",
-   "content": "New Balance & USM return with their newest collaboration: modular cold plunge stations for New York marathon runners.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-usm-dover-street-market/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "率先近賞 Travis Scott x CPFM x Nike Air Flea 1「Cactus Jack」",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-01",
-   "content": "摘要 即將登場的 Travis Scott x CPFM x Nike Air Flea 1 Cactus Jack 近照現已曝光這款全新鞋型將卡其色麂皮與如同沾泥般的鞋底結合，並配備超大號加厚鞋領與隱藏式鞋舌口袋此鞋款將提供男碼尺寸，預計於 2027 年春季發售，售價為 $180 美元 鞋款名稱： Travis Scott x CPFM x Nike Flea 1「Cactus Jack」配色： Khaki/Night Forest-Oatmeal-Baroque Brown型號： IX7250-200官方定價： $180 美元發售日期： 2027 年春季購買點： NikeNike 聯同 Travis Scott 與 Cactus Plant Flea Market 帶來 Travis Scott x Nike CPFM Flea 1「Cactus Jack」，讓大眾深入一覽這款三方聯乘巨作。這對全新鞋款結合了 Cynthia Lu 與 Scott 的標誌性元素，採用厚實的輪廓設計，預計將於 2027 年春季登場。Air Flea 1 在比例上與 Nike SB Dunk Low 相似，融入了經改造的鞋眼設計、超大厚墊鞋領、重型腳踝緩震墊、條紋鞋跟標籤，以及後跟拉環。卡其色麂皮包裹整個鞋面，展現出高低不平的質感，並以鮮明的接縫縫線劃分。Scott 標誌性的隱藏式暗袋回歸至厚重的鞋舌內，配上粗鞋帶及以 Night Forest 綠色呈現的巨大倒置 Swoosh 點綴。鞋跟處飾有雙方聯乘標誌，將 Scott 的 Cactus Jack 徽號與 CPFM 的笑臉圖案巧妙結合，並在鞋舌、鞋墊及內襯加入粉紅色點綴，平衡整體視覺。下方飾有紋理的啡色中底營造出沾滿泥巴的視覺效果，開箱即展現舊化美學。Travis Scott x CPFM x Nike Air Flea 1「Cactus Jack」預計將於 2027 年春季發售，定價為 $180 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Ftravis-scott-nike-cpfm-flea-1-cactus-jack-IX7250-200-closer-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/travis-scott-nike-cpfm-flea-1-cactus-jack-ix7250-200-closer-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "Kids of Immigrants 為 Nike Tiempo Maestro Elite FG SE 注入「Sundial」配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-01",
-   "content": "摘要 Matheus Cunha 於球場上率先展示即將登場的 Kids of Immigrants x Nike Tiempo Maestro Elite FG SE這款釘鞋採用靈感源自該品牌 2024 年 Air Max SNDR 的「Sundial」漸變配色，並配以致敬 Honduras 與 Liberia 的輪廓線條此聯乘鞋款預計於 11 月 4 日透過 Nike 及 Kids of Immigrants 渠道正式發售 鞋款名稱： Kids of Immigrants x Nike Tiempo Maestro Elite FG SE配色： Sundial/Multi-Color產品編號： IV3429-700建議售價： $260 美元發售日期： 2026 年 11 月 4 日發售點： NikeNike 與洛杉磯品牌 Kids of Immigrants 正式在綠茵場上重聚，攜手推出 Kids of Immigrants x Nike Tiempo Maestro Elite FG SE「Sundial」。這款聯乘鞋履早前由足球員 Matheus Cunha 在比賽中率先著用，將 KOI 標誌性的鮮豔漸層色調注入 Nike 的專業級足球鞋之中。創辦人 Daniel Buezo 與 Weleh Dennis 從各自的祖國洪都拉斯及利比里亞汲取靈感，重塑了成型鞋面。有別於標準 Tiempo 的水平紋理，此鞋款加入了從中足向外輻射的立體等高線，其形狀源自兩國的多山地形。配色方面以該品牌 2024 年推出的 Air Max SNDR 上曾見過的標誌性「Sundial」色調為焦點，採用從黃到紅的漸層效果，由中段的橙色過渡，並向下流動至鞋頭與鞋跟。中足、內襯及外底均以純黑色覆蓋，暗黑的側面裁片點綴著紅色小 Swoosh 標誌，而外側前掌位置則飾有 Kids Of Immigrants 字樣。Kids of Immigrants x Nike Tiempo Maestro Elite FG SE「Sundial」預計於 2026 年 11 月 4 日發售，定價約為 $260 美",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fkids-of-immigrants-nike-tiempo-maestro-elite-fg-se-sundial-IV3429-700-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/kids-of-immigrants-brings-sundial-to-the-nike-tiempo-maestro-elite-fg-se",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Deion Sanders Jr. 主理品牌 Well Off Forever 與 Nike 攜手推出 Air DT Proto 92 聯乘鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-01",
-   "content": "摘要 Deion Sanders Jr 攜其品牌 Well Off Forever 與 Nike Air DT Proto 92 展開合作，迎來該鞋款的首次公開發售設計參考了早期的 Diamond Turf 樣鞋，以黑白兩色為基底，並融入取材自 Colorado 的金色細節作點綴此聯乘鞋款預計於 11 月 30 日登陸 Nike.com 及指定零售商，售價為 $180 美元 名稱： Well Off Forever x Nike Air DT Proto 92配色： White/Metallic Gold-Off NoirSKU： JF7593-100建議零售價： $180 美元發售日期： 2026 年 11 月 30 日發售點： NikeNike 與 Deion Sanders Jr. 旗下品牌 Well Off Forever 即將推出聯乘 Air DT Proto 92，這是該品牌首次公開發售運動鞋。此次聯乘企劃將 Coach Prime 鞋履系列中的經典原型作帶到大眾眼前。Air DT Proto 92 植根於 Deion Sanders 原創簽名系列的起源，直接取材自早期的 Diamond Turf 樣本，該樣本在外側飾有標準量產版所沒有的 Swoosh 標誌。這次聯乘版本採用黑白雙色鞋面，並加入金屬金色點綴，藉此呼應 Colorado 欖球隊的經典配色。鞋身各處的標誌性細節彰顯了雙方的合作關係。Well Off Forever 標誌醒目地配置於鞋跟處，而中足綁帶底側則飾有與該品牌直接相關的專屬刺繡字樣。除了這些個人化品牌點綴外，鞋款亦保留了 Air DT Proto 92 核心的復古底盤與結構。Well Off Forever x Nike Air DT Proto 92 預計將於 2026 年 11 月 30 日發售。敬請設定提醒，並在 Hypebeast Drops 搶先掌握最新發售資訊。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fwell-off-forever-nike-air-dt-proto-92-JF7593-100-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/well-off-forever-nike-air-dt-proto-92-jf7593-100-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "Closer Look at the Travis Scott x Nike CPFM Air Flea 1 \"Cactus Jack\"",
-   "source": "Hypebeast",
-   "date": "2026-11-01",
-   "content": "Summary A closer look has surfaced for the upcoming Travis Scott x CPFM x Nike Air Flea 1 Cactus JackThe brand-new silhouette pairs khaki suede and mud-dipped soles with oversized padded collars and a hidden tongue pocketArriving in men's sizing the sneaker is expected to release in Spring 2027 for $180 USD Name: Travis Scott x CPFM x Nike Flea 1 “Cactus Jack”Colorway: Khaki/Night Forest-Oatmeal-Baroque BrownSKU: IX7250-200MSRP: $180 USDRelease Date: Spring 2027Where to Buy: NikeNike has linked up with Travis Scott and Cactus Plant Flea Market for the Travis Scott x Nike CPFM Flea 1 \"Cactus Jack\", offering an in-depth look at the tripartite collaboration. The brand-new model unites signature motifs from Cynthia Lu and Scott across a chunky silhouette expected to arrive in Spring 2027.Drawing proportional comparisons to the Nike SB Dunk Low, the Air Flea 1 incorporates modified eyestay sh",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F30%2Ftravis-scott-nike-cpfm-flea-1-cactus-jack-IX7250-200-closer-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/travis-scott-nike-cpfm-flea-1-cactus-jack-ix7250-200-closer-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "Kids of Immigrants Brings \"Sundial\" to the Nike Tiempo Maestro Elite FG SE",
-   "source": "Hypebeast",
-   "date": "2026-11-01",
-   "content": "Summary Matheus Cunha provided an on-pitch early look at the upcoming Kids of Immigrants x Nike Tiempo Maestro Elite FG SEThe cleat features a Sundial gradient inspired by the label's 2024 Air Max SNDR alongside contours referencing Honduras and LiberiaThe collaborative silhouette is slated to launch on November 4 via Nike and Kids of Immigrants channels Name: Kids of Immigrants x Nike Tiempo Maestro Elite FG SEColorway: Sundial/Multi-ColorSKU: IV3429-700MSRP: $260 USDRelease Date: November 4, 2026Where to Buy: NikeNike and Los Angeles-based label Kids of Immigrants have officially reunited on the pitch with the Kids of Immigrants x Nike Tiempo Maestro Elite FG SE \"Sundial\", debuted during a match by footballer Matheus Cunha. The collaborative silhouette brings KOI's signature vibrant gradient palette to Nike's performance football boot.Reworking the molded upper, founders Daniel Buezo a",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F30%2Fkids-of-immigrants-nike-tiempo-maestro-elite-fg-se-sundial-IV3429-700-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/kids-of-immigrants-brings-sundial-to-the-nike-tiempo-maestro-elite-fg-se",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
    ]
   },
   {
