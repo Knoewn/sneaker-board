@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-03 23:40",
+ "updatedAt": "2026-11-04 12:12",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -21,16 +21,65 @@ window.SNEAKER_DATA = {
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
-  "PUMA",
-  "REEBOK",
   "SALOMON",
-  "UGG",
-  "VANS"
+  "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "率先預覽 Nike CPFM Flea 1「Cave Purple」配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-04",
+   "content": "摘要 Cactus Plant Flea Market 率先預覽了聯乘鞋款 Nike Flea 1 的全新「Cave Purple」配色鞋款採用紫色麂皮鞋面，輔以幾何紋理質感，並配上標誌性的泥土造型超大外底此鞋款預計將於 2026 年假期季登場，售價為 $180 美元，屆時將透過 CPFM 官方網站抽籤發售 鞋款： Nike CPFM Flea 1「Cave Purple」配色： Cave Purple/Dark Raisin-Purple DynastySKU： IU5238-500建議售價： $180 美元發售日期： 2026 年假日季發售點： NikeNike 與 Cactus Plant Flea Market 釋出其聯乘鞋款 Nike CPFM Flea 1 的全新配色「Cave Purple」。這次預告在 CPFM 的 Instagram 限時動態中率先曝光，展示這雙設計破格的運動鞋，並預計將與另一款「Barely」配色於 2026 年假日季同步登場。這款低筒設計延續了過往版本中獨特的輪廓，最搶眼的莫過於誇張的厚底，表面刻意營造出仿如泥土附著的紋理。鞋面大面積採用單色紫絨面革包覆，並疊加幾何形狀，為鞋側帶來更豐富的層次。厚實的外底同樣採用深紫色橡膠物料製成，而鞋跟處的黑白太極標誌，則為整體單一的紫色調點綴出難得的對比細節。儘管過往曝光的 Nike CPFM Flea 1 依然鮮少有確切的發售消息，但「Cave Purple」預計將成為首批登陸門市的配色之一。此外，此系列的推出預期將早於近期曝光、計劃於 2027 年春季登場的 Travis Scott 聯乘企劃。CPFM x Nike Flea 1「Cave Purple」預計於 2026 年假日季發售，定價為 $180 美元，很大機會將透過 Cactus Plant Flea Market 官方網站的抽籤形式發售。設定好你的提醒，鎖定 Hypebeast Drops 掌握最新發售消息。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-cpfm-flea-1-cave-purple-iu5238-500-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/nike-cpfm-flea-1-cave-purple-iu5238-500-first-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Nike Air Max 90 推出極簡設計「Medium Olive」配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-04",
+   "content": "摘要 Nike 推出全新升級版 Air Max 90「Medium Olive」，採用解構風格的皮革結構，並省去標準的品牌標誌外罩鞋款將經典的網眼材質與塑料鞋帶孔眼扣，替換為平滑與打孔設計的橄欖綠色皮革裁片該鞋款預計於 11 月 13 日登陸 Nike 及指定零售商發售，售價為 $170 美元 名稱：Nike Air Max 90「Medium Olive」配色：Medium Olive/Sequoia型號：IV4504-201建議售價：$170 美元發售日期：2026 年 11 月 13 日購買點：NikeNike 正式透過全新「Medium Olive」配色為經典鞋款 Air Max 90 進行升級，採用流線型的解構設計，並移除了標誌性的徽章。這款即將推出的新作以統一的皮革包覆結構，取代了傳統的網眼材質拼接與塑膠硬件。平滑的橄欖色皮革覆蓋鞋頭及鞋身兩側，取代鞋款標誌性的網眼基底，帶來更精緻、高級的質感。在標準熱塑性鞋眼片的位置上，打孔皮革構築了綁帶系統，並一直延伸至未見傳統凸起 Nike Air 標誌的鞋跟標籤。此外，一塊空白縫線皮革覆蓋層取代了常見的側邊開窗品牌設計，僅在鞋舌與鞋墊上保留了低調的 Nike 標誌。單一的綠色主題貫穿了皮革 Swoosh、鞋帶、擋泥板以及鞋面的同色系縫線，而微打孔設計則點綴著鞋舌。透氣網眼材質僅嚴格保留在內側領口襯裡。下方中底維持橄欖色調，並以深色坑紋包裹可視鞋跟 Air 氣墊作對比，最後以配備前掌鬆餅紋路的深色橡膠外底作結。Nike Air Max 90「Medium Olive」將於 2026 年 11 月 13 日透過 Nike 及指定零售商發售，定價為 $170 美元。設定提醒，緊貼 Hypebeast Drops 的最新發售資訊。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-air-max-90-medium-olive-IV4504-201-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/nike-air-max-90-medium-olive-iv4504-201-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "First Look at the Nike CPFM Flea 1 \"Cave Purple\"",
+   "source": "Hypebeast",
+   "date": "2026-11-04",
+   "content": "Summary Cactus Plant Flea Market has previewed a new Cave Purple iteration of the collaborative Nike Flea 1 silhouetteThe model features a purple suede upper accented by geometric textures and a signature dirt-like oversized outsoleThe pair is expected to launch during Holiday 2026 for $180 via a raffle on CPFM's website Name: Nike CPFM Flea 1 \"Cave Purple\"Colorway: Cave Purple/Dark Raisin-Purple DynastySKU: IU5238-500MSRP: $180 USDRelease Date: Holiday 2026Where to Buy: NikeNike and Cactus Plant Flea Market have revealed an upcoming colorway of their joint silhouette, the Nike CPFM Flea 1 \"Cave Purple\". The preview, which was teased on CPFM's Instagram Stories, showcases the eccentric sneaker ahead of its expected Holiday 2026 arrival alongside a companion \"Barely\" makeup.Retaining the unusual shape seen on earlier iterations, the low-top design is defined by an exaggerated, oversized s",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F03%2Fnike-cpfm-flea-1-cave-purple-iu5238-500-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/nike-cpfm-flea-1-cave-purple-iu5238-500-first-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Nike Strips Away Iconic Badging for the Air Max 90 \"Medium Olive\"",
+   "source": "Hypebeast",
+   "date": "2026-11-04",
+   "content": "Summary Nike is releasing an updated Air Max 90 Medium Olive featuring a deconstructed leather build without standard branding badgesThe silhouette swaps classic mesh and plastic eyestays for smooth and perforated olive leather panelsThe sneaker is scheduled to arrive on November 13 for 170 USD via Nike and select retailers Name: Nike Air Max 90 \"Medium Olive\"Colorway: Medium Olive/SequoiaSKU: IV4504-201MSRP: $170 USDRelease Date: November 13, 2026Where to Buy: NikeNike is officially revamping its classic silhouette with the Air Max 90 \"Medium Olive\", opting for a streamlined, deconstructed approach that removes its iconic badges. The forthcoming release swaps traditional mesh panels and molded plastic hardware for a unified, leather-wrapped construction.Smooth olive leather blankets the toe box and side quarters, replacing the model's signature mesh base for a more sophisticated, elevat",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F01%2Fnike-air-max-90-medium-olive-IV4504-201-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/nike-air-max-90-medium-olive-iv4504-201-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
    "title": "Lil Yachty 率先預覽未發佈之 Concrete Boys x Nike Air Force 1 Mid 配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-03",
@@ -43,7 +92,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 6,
    "title": "NEIGHBORHOOD 與 Converse 攜手帶來簡約 ALL STAR LGCY Hi 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-03",
@@ -56,7 +105,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 7,
    "title": "Diemme x Clarks Originals 最新聯乘系列將 Clarks 經典鞋款帶入高山戶外",
    "source": "Hypebeast 中文",
    "date": "2026-11-03",
@@ -69,7 +118,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 8,
    "title": "率先預覽 Nike Air Force 1 '01「Harajuku」",
    "source": "Hypebeast 中文",
    "date": "2026-11-03",
@@ -82,7 +131,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 9,
    "title": "INVINCIBLE x adidas Consortium「Form in Motion」聯乘系列登場，動態中展現隱藏細節",
    "source": "Hypebeast 中文",
    "date": "2026-11-03",
@@ -95,7 +144,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 10,
    "title": "為 Sarah Andelman 專屬打造的 Colette Air Jordan 1 Mid「Sashiko Gals」全球唯一丹寧鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-03",
@@ -108,7 +157,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 11,
    "title": "Travis Scott 分享 Shai Gilgeous-Alexander 贈送的親筆簽名球衣及上腳 Nike Shai 001",
    "source": "Hypebeast 中文",
    "date": "2026-11-03",
@@ -121,7 +170,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 12,
    "title": "率先預覽 Travis Scott x Rockstar Games x Nike Air Force 1 Low 最新「Grand Theft Auto」黑色聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-03",
@@ -134,7 +183,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 13,
    "title": "Lil Yachty Previews Unreleased Concrete Boys x Nike Air Force 1 Mid Colorway",
    "source": "Hypebeast",
    "date": "2026-11-03",
@@ -148,7 +197,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 14,
    "title": "NEIGHBORHOOD and Converse Reunite for an Understated ALL STAR LGCY Hi Collab",
    "source": "Hypebeast",
    "date": "2026-11-03",
@@ -161,7 +210,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 15,
    "title": "Diemme x Clarks Originals Sends Clarks’ Classics Straight Up the Mountain",
    "source": "Hypebeast",
    "date": "2026-11-03",
@@ -174,7 +223,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 16,
    "title": "First Look at the Nike Air Force 1 '01 \"Harajuku\"",
    "source": "Hypebeast",
    "date": "2026-11-03",
@@ -187,7 +236,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 17,
    "title": "INVINCIBLE and adidas Consortium’s “Form in Motion” Collection Hides Its Best Details Until You Move",
    "source": "Hypebeast",
    "date": "2026-11-03",
@@ -200,7 +249,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 18,
    "title": "The Colette Air Jordan 1 Mid “Sashiko Gals” Is a Denim 1-of-1 Made for Sarah Andelman",
    "source": "Hypebeast",
    "date": "2026-11-03",
@@ -213,7 +262,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 19,
    "title": "Travis Scott Gives a Closer Look at Shai Gilgeous-Alexander’s Nike Shai 001 With Signed Gifts From the Thunder Guard",
    "source": "Hypebeast",
    "date": "2026-11-03",
@@ -226,7 +275,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 20,
    "title": "First Look at the Travis Scott x Rockstar Games x Nike Air Force 1 Low \"Grand Theft Auto\" in Black",
    "source": "Hypebeast",
    "date": "2026-11-03",
@@ -240,7 +289,83 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 21,
+   "title": "Japanese Grannies Turn Rare Jordans Into One-off Handstitched Treasures",
+   "source": "Highsnobiety",
+   "date": "2026-11-03",
+   "content": "The Sashiko Gals have designed a custom colette Air Jordan 1 High for Sarah Andelman, turning the rare shoe into a one-off handstitched treasure.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/colette-jordan-1-sashiko-gals/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Kith’s Suede adidas Ballet Flats Are Genuinely En Pointe",
+   "source": "Highsnobiety",
+   "date": "2026-11-03",
+   "content": "Kith takes on adidas' Stan Smith Ballet flats, giving the model a cozy-luxe suede makeover.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/kith-adidas-stan-smith-ballet/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Converse's Slick Chuck Taylor Cook Shoes Are Here to Serve",
+   "source": "Highsnobiety",
+   "date": "2026-11-03",
+   "content": "Converse launches At Your Service shoes, featuring Chuck Taylors re-engineered for the kitchen.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/converse-at-your-service-chuck-taylors/",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "Nike’s Coolest Air Max Outdoor Boot Wears Carhartt Workwear Now",
+   "source": "Highsnobiety",
+   "date": "2026-11-03",
+   "content": "Carhartt WIP debuts three Nike Air Max Goadome Low boots, the brand's first Swoosh collab in eight years.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/carhartt-nike-air-max-goadome-low/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "A 52-Year-Old Nike Runner Becomes a New-Old SKIMS Sneaker",
+   "source": "Highsnobiety",
+   "date": "2026-11-03",
+   "content": "SKIMS' next Nike sneaker is a vintage-style Waffle Racer offered in three colorways. Here's everything on the release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/skims-nike-waffle-racer/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Yes, You Did See Oxfords at the NYC Marathon",
+   "source": "Highsnobiety",
+   "date": "2026-11-03",
+   "content": "On Sunday in NYC, Italian footwear brand Santoni sent out three racers in suits, ties, and its new ultra-light Oxfords.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/santoni-easy-run-nyc-marathon/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 27,
    "title": "From Salomon to New Balance, the Seven Best Sneakers to Cop This Week",
    "source": "Highsnobiety",
    "date": "2026-11-03",
@@ -254,72 +379,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
-   "title": "Vans' Stitched-Up \"Wallabee\" Skate Shoe Is (Sew) Good",
-   "source": "Highsnobiety",
-   "date": "2026-11-03",
-   "content": "Vans' Wallabee-coded Premium SF Moc Low shoe gets a \"crafted\" makeover with extra stitching.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-premium-sf-moc-low-crafted-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "Nike’s Green Leather Air Max Is All Puff, No Pass",
-   "source": "Highsnobiety",
-   "date": "2026-11-03",
-   "content": "Nike's Air Max 90 \"Medium Olive\" sees the classic sneaker remixed with green padded leather uppers.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-90-medium-olive/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "New Balance’s Coffee-Flavored Shoe Is Straight-up Mouthwatering",
-   "source": "Highsnobiety",
-   "date": "2026-11-03",
-   "content": "Billy's gets an exclusive New Balance 204L \"Black Coffee\" sneaker dressed in elegant materials & a rich brown colorway.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/billys-new-balance-204l-black-coffee/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "Jordan's Color-Shifting 'Space Jam' Shoes Are Genuinely Magical",
-   "source": "Highsnobiety",
-   "date": "2026-11-03",
-   "content": "The Air Jordan 11 \"Magic Ball\" is a cool, color-shifting sneaker designed for the \"Space Jam\" anniversary. Here's everything on the release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-11-space-jam-magic-ball/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "Nike’s Wavy Sneaker Is a Knight in Shining Armor",
-   "source": "Highsnobiety",
-   "date": "2026-11-03",
-   "content": "Nike drops a P-6000 \"Black/Medium Soft Pink\" sneaker with medieval-ish, Thug Club-coded details.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-p-6000-black-pink/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 23,
+   "id": 28,
    "title": "Colbo 全新 Sperry 鞋款融合樂福鞋與芭蕾平底鞋特色",
    "source": "Hypebeast 中文",
    "date": "2026-11-02",
@@ -330,7 +390,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 24,
+   "id": 29,
    "title": "Converse 推出全新廚房專用 Chucks 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-02",
@@ -343,31 +403,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
-   "title": "Sky High Farm Goods x On 聯乘系列：將農耕重新定義為「最原始的運動」",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-02",
-   "content": "Sky High Farm Goods x On 即將迎來雙方第二次聯乘系列，除了帶來全新 Cloud Low WP SHG 鞋款外，更推出以農夫為本的服裝系列，並預計於 11 月 5 日正式發布。繼 SS26 首度合作後，兩個品牌進一步鞏固彼此的關係，並釋出由 Jack Davison 掌鏡的官方 Farm Strong 企劃，以充滿詩意的影像，詮釋雙方共同的理念基礎。從表面看來，推動糧食平權計劃 Sky High Farm 的品牌 Sky High Farm Goods，與運動服飾品牌 On 似乎沒有太多共通點。Sky High Farm Goods 以工裝為靈感的單品，旨在支持位於紐約哈德遜的非牟利組織，該項目致力於建立一個更公平的糧食系統；而 On 則紮根於大西洋彼岸的瑞士，專注打造頂級的鞋履、服飾及配件，適用於跑步、戶外遠足、網球等多項運動。然而，藉著「將農耕視為最原始的運動」，雙方的 FW26 企劃展示出兩個品牌在理念上的契合程度，遠超表面所見。「Farm Strong 企劃將農耕視為最原始的運動，讓這個意念變得鮮活立體。」—— On 產品部全球高級總監 Lucy Delacherois-Day這個意念不僅展現於視覺影像上，更延伸至產品的實際開發過程中。在系列發布前，On 產品部全球高級總監 Lucy Delacherois-Day 解釋道：「對於 FW26，我們將合作推展至機能工裝領域，並透過 On 對人體動態的理解，來審視農耕對體力的要求。」她補充指，合作夥伴「與 Sky High Farm 社區的真實農夫共同研發並進行實地測試」，確保「日常實用性是設計的核心所在」。Sky High Farm Goods 聯合創辦人兼行政總裁 Daphne Seybold 亦表示，農夫的反饋在很大程度上塑造了最終的設計決策，讓他們能夠創造出一個「積極應對農夫日常工作時的功能及實用需求」的系列。FW26 系列的焦點之作是 Cloud Low WP SHG。這款易於穿脫的 Moc 風格鞋履以 Cloud Hi 為基礎，具備防水結構，並搭載 Missiongrip™ 外底技術",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fsky-high-goods-x-on-cloud-low-wp-shg-collection-fw26-fall-winter-2026-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/sky-high-goods-x-on-cloud-low-wp-shg-collection-fw26-fall-winter-2026-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 26,
-   "title": "PUMA x JiyongKim 全新聯乘 CELL Geo 鞋款登場：展現自然歲月痕跡",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-02",
-   "content": "PUMA 與韓國設計師 JiyongKim 正式推出全新聯乘 PUMA CELL Geo 鞋款，透過歲月與風化的視角，重新定義這款極具未來感的機能鞋型。是次合作將科技運動服飾的創新與手工表面處理技術相結合，呈現對現代鞋履仿舊美學的深入探討。JiyongKim 以實驗性男裝聞名，經常將日曬褪色、環境污漬及風化紋理融入設計之中。今次他將其獨特的仿舊哲學直接應用於 CELL Geo 之上。鞋款充滿雕塑感的結構經過重新塑造，加入了仿舊布料、破壞細節、磨損鞋帶以及特殊的表面處理。每一處刻意的瑕疵皆反映出隨時間自然累積的痕跡，巧妙地在 PUMA 的科技結構與風化美學之間建立起深刻的對話。在鞋底方面，這款運動鞋保留了標誌性的分離式 CELL 緩震中底，為鞋型提供幾何結構與先進的緩震性能。流線型的裁切線條與半包覆式的鞋帶設計，在保留鞋款流線型未來輪廓的同時，更加突顯出與有機表面處理形成的鮮明對比。除了常規系列外，一款獨家黑色配色將會限量發售，僅限 JiyongKim 官方零售渠道獨家發售。PUMA x JiyongKim CELL Geo 將於 2026 年 11 月 7 日透過PUMA 官方網站、PUMA 旗艦店、指定零售商以及 JiyongKim 的線上及首爾旗艦店發售，隨後將於 11 月 14 日在日本進行專屬發售，並於 GR8 舉辦期間限定店。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fjiyongkim-puma-cell-geo-1-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/jiyongkim-puma-cell-geo-1-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "PUMA"
-   ]
-  },
-  {
-   "id": 27,
+   "id": 30,
    "title": "Colbo's New Sperry Is Part Loafer, Part Ballet Flat",
    "source": "Hypebeast",
    "date": "2026-11-02",
@@ -378,7 +414,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 28,
+   "id": 31,
    "title": "Converse Really Cooked With Its New Kitchen-Ready Chucks",
    "source": "Hypebeast",
    "date": "2026-11-02",
@@ -391,68 +427,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
-   "title": "Sky High Goods & On Reframe Farming as the Original Sport",
-   "source": "Hypebeast",
-   "date": "2026-11-02",
-   "content": "With an official launch slated for November 5, Sky High Goods x On is readying its second collaborative collection, this time introducing the all-new Cloud Low WP SHG, alongside a farmer-focused apparel range. Strengthening their ties after an SS26 debut, the two labels have unveiled the official Farm Strong campaign shot by Jack Davison, a poetic illustration of their shared foundations. On paper, Sky High Goods, the brand powering the food equity initiative Sky High Farm, and activewear label On may not appear to have much in common. The workwear-inspired pieces from Sky High Goods support the Hudson, NY non-profit — a project centered around cultivating a more just food system. On finds its roots across the Atlantic in Switzerland, crafting premium footwear, apparel, and accessories for activities like running, outdoor treks, tennis, and more. However, by “framing farming as the origi",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2Fsky-high-goods-x-on-cloud-low-wp-shg-collection-fw26-fall-winter-2026-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/sky-high-goods-x-on-cloud-low-wp-shg-collection-fw26-fall-winter-2026-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 30,
-   "title": "PUMA and JiyongKim Channel Natural Aging on the Collaborative CELL Geo",
-   "source": "Hypebeast",
-   "date": "2026-11-02",
-   "content": "PUMA and Korean designer JiyongKim have officially introduced the collaborative PUMA CELL Geo, redefining the futuristic performance silhouette through the lens of weathering and time. Merging technical sportswear innovation with artisanal surface treatments, the collaboration presents a worn-in study of contemporary footwear.Renowned for experimental menswear that incorporates solar fading, environmental stains, and weather-shaped textures, JiyongKim applies his unique aging philosophy directly to the CELL Geo. The shoe's sculptural architecture is reworked with aged fabrics, distressed detailing, frayed laces, and specialized surface treatments. Each deliberate imperfection reflects the marks that accumulate naturally over time, creating a deliberate dialogue between PUMA's technical construction and a weathered aesthetic.At the foundation, the sneaker retains its signature decoupled C",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F02%2Fjiyongkim-puma-cell-geo-1-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/jiyongkim-puma-cell-geo-1-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "PUMA"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "New Balance Trackside Makes Uniform Dressing Easy (& Elevated)",
-   "source": "Highsnobiety",
-   "date": "2026-11-02",
-   "content": "Striking his perfect balance between comfy and fly, our editor, Jason Meggyesy, steps out in the new Trackside collection, merging function and fashion for everyday wear.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/hs-new-balance-trackside/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
    "id": 32,
-   "title": "Hollywood’s Original Shoemaker Wants its Flowers",
-   "source": "Highsnobiety",
-   "date": "2026-11-02",
-   "content": "Ferragamo's Criterion collaboration taps into the brand's Hollywood lore, adding another notch in the luxury label's mission to reclaim its turf in Tinseltown.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/ferragamo-criterion/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 33,
-   "title": "Back When Your Outfit Mattered as Much as Your Record Collection",
-   "source": "Highsnobiety",
-   "date": "2026-11-02",
-   "content": "Ewen Spencer reflects on the style, sound and cultural legacy of UK garage, and Reebok Classics' enduring influence.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/reebok-oh-my-mosch-ewen-spencer/",
-   "lang": "en",
-   "relatedBrands": [
-    "REEBOK"
-   ]
-  },
-  {
-   "id": 34,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
@@ -465,7 +440,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 33,
    "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
@@ -478,7 +453,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 34,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -491,7 +466,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 35,
    "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -504,7 +479,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 36,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
@@ -518,7 +493,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 37,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -531,7 +506,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 38,
    "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -545,7 +520,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 41,
+   "id": 39,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -558,7 +533,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 42,
+   "id": 40,
    "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
