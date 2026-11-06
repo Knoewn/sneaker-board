@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-05 23:58",
+ "updatedAt": "2026-11-06 12:29",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,6 +16,7 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
+  "ASICS",
   "CROCS",
   "HOKA",
   "JORDAN",
@@ -28,6 +29,32 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Travis Scott 曝光限量版 Nike Air Force 1 Low「GTA 6」",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-06",
+   "content": "摘要 Travis Scott 公開為致敬《Grand Theft Auto 6》及 Rockstar Games 而打造的限量版 Nike Air Force 1 Low鞋款設計採用黑色漆皮迷彩防刮布面料、粉紅色點綴，以及六星「通緝懸賞」（Wanted）圖案雖然公開的這款為親友獨佔限定（Friends and Family），但其他配色將於 11 月 19 日登場，售價為 $130 美元 獲格林美獎提名的 Travis Scott 曝光了一雙限量版 Nike Air Force 1 Low「GTA 6」，藉此與 Rockstar Games 聯乘向這款經典遊戲系列致敬。這位 Houston 饒舌歌手親自於 Instagram 上展示了這雙以《GTA 6》為靈感的度身訂製波鞋，並宣布不會作公開發售，而是計劃將其直接贈予長年支持者、遊戲粉絲專頁及親密好友。這款波鞋採用優質混合物料鞋面，流線型的黑色漆皮與側邊的迷彩防撕裂尼龍及鮮豔的粉紅色覆面相得益彰。Scott 標誌性的倒置 Swoosh 採用極大的白色荔枝皮製成，而中底外側傳統的「AIR」壓紋字樣則替換為訂製的「GTA」文字。中底內側環繞著六顆亮粉紅色星星，向《Grand Theft Auto》的最高通緝等級致敬，與嵌入橡膠外底的六顆星圖案互相呼應。為強調其限量特質，Scott 呼籲死忠粉絲直接私訊他所在位置，以爭取獲得這雙波鞋的機會。雖然這款親友專屬配色不會作傳統公開發售，但該聯乘系列中其他配色預計將於未來幾週內上架。雖然這款限量版親友專屬配色仍是不對外公開發售，但其他 Travis Scott x Nike Air Force 1「GTA 6」配色預計將於 2026 年 11 月 19 日發布，售價為 $130 美元。 View this post on InstagramA post shared by flame (@travisscott) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Ftravis-scott-reveals-limited-edition-nike-air-force-1-low-gta-6-friends-family-exclusive-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/travis-scott-reveals-limited-edition-nike-air-force-1-low-gta-6-friends-family-exclusive-first-look",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Travis Scott Reveals Limited-Edition Nike Air Force 1 Low \"GTA 6\"",
+   "source": "Hypebeast",
+   "date": "2026-11-06",
+   "content": "Summary Travis Scott has revealed a limited-edition Nike Air Force 1 Low celebrating 'Grand Theft Auto 6' and Rockstar GamesThe design features black patent leather camo ripstop panels pink accents and a six-star Wanted level graphicWhile the revealed pair serves as a Friends and Family exclusive additional colorways arrive November 19 for $130 USD Grammy-nominated artist Travis Scott has revealed a limited-edition Nike Air Force 1 Low “GTA 6”, celebrating the iconic gaming franchise in collaboration with Rockstar Games. The Houston rapper debuted the custom GTA 6-inspired sneaker himself on his Instagram, announcing plans to gift pairs directly to longtime supporters, gaming fan pages, and close friends rather than staging a public retail drop.Constructed with a premium mixed-material upper, the sneaker features sleek black patent leather complemented by camouflage ripstop nylon along t",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F06%2Ftravis-scott-reveals-limited-edition-nike-air-force-1-low-gta-6-friends-family-exclusive-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/travis-scott-reveals-limited-edition-nike-air-force-1-low-gta-6-friends-family-exclusive-first-look",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
    "title": "HOKA x Marni 再次攜手以三款搶眼配色重新演繹 Clifton 11",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -40,7 +67,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 4,
    "title": "SOREL 將 Maharishi 經典 Bonsai Tigerstripe 迷彩隱藏於 Daystorm Horizon ZIP GTX 靴款之中",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -51,7 +78,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 3,
+   "id": 5,
    "title": "Carhartt WIP x Nike Air Max Goadome Low 首波官方圖輯釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -64,7 +91,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 6,
    "title": "NikeSKIMS 釋出 Waffle Racer 聯乘系列，保留原版經典設計",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -77,7 +104,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 7,
    "title": "Tune Squad 再次集結：Space Jam x Crocs Classic Clog 聯乘鞋款正式發布",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -91,7 +118,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 8,
    "title": "Nike Mind 002 Flyknit 「Black and Anthracite」官方發售日期確認",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -104,7 +131,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 9,
    "title": "HOKA x Marni Reunite to Rework the Clifton 11 in Three Bold Colorways",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -117,7 +144,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 10,
    "title": "The Carhartt WIP x Nike Air Max Goadome Low Gets Its First Official Look",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -131,7 +158,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 11,
    "title": "NikeSKIMS Is Dropping a Waffle Racer Collection, and It Keeps the Original Untouched",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -144,7 +171,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 12,
    "title": "Salomon and BEAMS Launch XT-QUEST BEAMS Collaboration Collection Celebrating 50th Anniversary",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -157,7 +184,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 13,
    "title": "The Tune Squad Suits Up Again in the ‘Space Jam’ x Crocs Classic Clog",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -171,7 +198,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 14,
    "title": "The Nike Mind 002 Flyknit “Black and Anthracite” Has an Official Release Date",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -184,7 +211,57 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 15,
+   "title": "Why Do Brands Keep Returning to Fashion's Favorite Florist?",
+   "source": "Highsnobiety",
+   "date": "2026-11-05",
+   "content": "A \"Cecilie Bahnsen flower\" is the indie Danish brand's signature, giving it an easily adaptable motif for collabs at UNIQLO, The North Face, and ASICS.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/cecilie-bahnsen-uniqlo-tnf/",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Yeezy Is Officially Sampling Itself",
+   "source": "Highsnobiety",
+   "date": "2026-11-05",
+   "content": "You know what season it is. Ye just seized the means of production, and re-launched his fashion line Yeezy with a perfectly self-referential runway.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/yeezy-season-01-new/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "The Best Nike Sneaker Releases This Week",
+   "source": "Highsnobiety",
+   "date": "2026-11-05",
+   "content": "This week of our Nike release round-up is all about performance tech that is also perfect for the streets.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-sneaker-releases-november-week-1/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Painters Need Tough Ass Trail Shoes, Too",
+   "source": "Highsnobiety",
+   "date": "2026-11-05",
+   "content": "Hiking shoes for painters, please! Who knew art could be so rough and tumble? Phileo and KEEN, apparently.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/phileo-keen-artist-matt-dillon-fw26-new/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 19,
    "title": "This Is, In Form and Function, The Marni-est Hoka",
    "source": "Highsnobiety",
    "date": "2026-11-05",
@@ -197,7 +274,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 20,
    "title": "Salomon and BEAMS' New Hiking Shoe Is Built Like a Tank",
    "source": "Highsnobiety",
    "date": "2026-11-05",
@@ -210,20 +287,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
-   "title": "This Two-in-One Shoe Was Made For Professional Arc'teryxmaxxers",
-   "source": "Highsnobiety",
-   "date": "2026-11-05",
-   "content": "The outerwear brand's two-in-one Postour is made for professional Arc'teryxmaxxers, combining a UGG-like boot with a fully removable slipper.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/arcteryx-postour-boot/",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 16,
+   "id": 21,
    "title": "Denim Tears x adidas Originals 首個聯乘系列的靈感泉源：經典格紋大袋",
    "source": "Hypebeast 中文",
    "date": "2026-11-04",
@@ -236,7 +300,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 22,
    "title": "The Whitaker Group 聯乘 New Balance 全新 2010「Willful Bias For Identity」系列發佈",
    "source": "Hypebeast 中文",
    "date": "2026-11-04",
@@ -249,7 +313,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 23,
    "title": "Nike Zoom Hyperflight 最新「Safari」配色經典圖案回歸",
    "source": "Hypebeast 中文",
    "date": "2026-11-04",
@@ -262,7 +326,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 24,
    "title": "率先近賞 Justin Bieber 參與設計之 SKYLRK 全新鞋款「Sensory Runner」",
    "source": "Hypebeast 中文",
    "date": "2026-11-04",
@@ -273,20 +337,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 20,
-   "title": "Peanuts x Crocs 全新聯乘 Joe Cool 充氣鞋面保暖 Classic Lined Clog 曝光",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-04",
-   "content": "摘要 Crocs 與 Peanuts 攜手推出全新 Joe Cool Classic Lined Clog，靈感源自紅色羽絨外套鞋款採用菱格絎縫填充鞋面、抽繩扣件、黑色羊羔絨內裡，並配備專屬 Snoopy Jibbitz 鞋扣這款迎合冬日的 Clog 預計於 12 月 8 日登陸 Crocs 官方網站，定價為 $100 美元 名稱：Peanuts Joe x Cool Classic Lined Clog配色：Multi款式編號（SKU）：215868-90H零售價：$100 美元發售日期：2026 年 12 月 8 日發售點：CrocsCrocs 與經典人氣漫畫《Peanuts》正式揭曉即將推出的 Peanuts Joe Cool Classic Lined Clog，將這款招牌鞋型注入冬日外套風格。是次聯乘鞋款採用紅色充氣羽絨外套風格的絎縫鞋面，配搭柔軟的內層刷毛，並綴以專屬的角色細節。這款鞋的鞋面設計靈感直接取材自經典紅色冬日羽絨外套，以鮮紅布料結合縫線厚實襯墊，完美重現應季羽絨服的質感。實用的外套風格輔以索扣設計及小巧的金屬配件點綴，令整體造型更突出。鞋內採用對比鮮明的黑色刷毛內襯，提供充足的隔熱保暖及緩震效果，而底部則保留了經典 Crocs 鞋底標誌性的舒適注模設計。前掌位置點綴著《Peanuts》主題的專屬 Jibbitz 鞋扣，旁邊印有 Snoopy 的圖案，向他戴著太陽眼鏡的經典「Joe Cool」形象致敬。其他角色細節亦直接印在可旋轉後跟帶上，並刻意圍繞充氣部分排列，確保搶眼的紅色絎縫布料得以充分展現。Peanuts Joe Cool Classic Lined Clog 將於 2026 年 12 月 8 日正式發售。敬請設定提示，緊貼 Hypebeast Drops 的最新發售資訊。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fpeanuts-joe-cool-classic-lined-clog-215868-90H-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/peanuts-joe-cool-classic-lined-clog-215868-90h-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "CROCS"
-   ]
-  },
-  {
-   "id": 21,
+   "id": 25,
    "title": "The Muse for Denim Tears x adidas Originals Debut? The Big Plaid Bag",
    "source": "Hypebeast",
    "date": "2026-11-04",
@@ -299,7 +350,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 26,
    "title": "The Whitaker Group and New Balance Unveil 2010 \"Willful Bias For Identity\" Collection",
    "source": "Hypebeast",
    "date": "2026-11-04",
@@ -312,7 +363,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 27,
    "title": "Nike Brings Classic Patterning to the Zoom Hyperflight \"Safari\"",
    "source": "Hypebeast",
    "date": "2026-11-04",
@@ -325,7 +376,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 28,
    "title": "Closer Look at Justin Bieber's SKYLRK \"Sensory Runner\"",
    "source": "Hypebeast",
    "date": "2026-11-04",
@@ -336,20 +387,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 25,
-   "title": "JW Anderson Unveils UGG Collaboration Campaign Starring Kaia Gerber and Dev Hynes",
-   "source": "Hypebeast",
-   "date": "2026-11-04",
-   "content": "Summary JW Anderson has officially unveiled the campaign for its collaborative collection with UGGThe visual series stars model Kaia Gerber and musician Dev Hynes captured across intimate domestic settingsThe collaborative collection is currently available in physical stores and online via the JW Anderson webstore British fashion house JW Anderson has officially debuted the campaign for its collaborative collection with UGG, starring Kaia Gerber and Dev Hynes. Captured by photography duo Tanya and Zhenya Posternak, the visuals showcase the cross-disciplinary creative pair in a series of intimate, domestic vignettes that explore the boundary between everyday ease and considered dressing.Continuing Jonathan Anderson’s longstanding practice of casting talent across distinct creative fields, the campaign brings together Gerber’s presence across fashion and acting alongside Hynes’ musical art",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F03%2Fjw-anderson-ugg-collaboration-campaign-starring-kaia-gerber-dev-hynes-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/jw-anderson-ugg-collaboration-campaign-starring-kaia-gerber-dev-hynes-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 26,
+   "id": 29,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -362,7 +400,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 30,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
@@ -375,7 +413,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 31,
    "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
@@ -388,7 +426,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 32,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -401,7 +439,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 33,
    "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -414,7 +452,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 34,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
@@ -428,7 +466,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 35,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -441,7 +479,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 36,
    "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -455,7 +493,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 37,
    "title": "Nike Air Griffey Max 1 “Cincinnati Reds”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
