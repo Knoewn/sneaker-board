@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-06 12:29",
+ "updatedAt": "2026-11-06 23:30",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -29,6 +29,30 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Story mfg. 與 ASICS 聯手推出 GEL-TRANSCEND FJ 全新鞋款，注入經典行山毛毯格紋",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-06",
+   "content": "名稱： Story mfg. x ASICS GEL-TRANSCEND FJ配色： 深啡色、黑色SKU： 1203B194-200, 1203B194-001建議零售價： $180 美元發售日期： 11 月 11 日（Story mfg.），11 月 20 日（ASICS）發售點： Story mfg.、ASICSStory mfg. 與 ASICS 再次攜手推出 GEL-TRANSCEND FJ 聯乘鞋款，設計圍繞著「Rambling（漫遊）」的理念。這家英國工藝品牌與日本運動服裝巨頭對此詞語有三種解讀：漫無目的地遊走、無拘無束地交談，以及在未經計劃的地方肆意生長。這種由好奇心引領的探索精神，由內而外地塑造了整個企劃——從取材自經典行山鞋的基底，到邀請各路創作者與實踐者在各自熟悉的環境下拍攝宣傳企劃，皆體現了這一點。此鞋款的根基充滿濃厚的經典復古氣息。GEL-TRANSCEND FJ 追溯至 ASICS 1990 年代的行山與步行鞋履檔案，而雙方選擇進一步凸顯這股戶外 DNA，而非刻意將其淡化。堅固的合成皮革覆蓋層包裹鞋面，點綴著 Story mfg. 標誌性的格紋圖案——靈感源自昔日行山必備的傳統羊毛氈。新作備有兩種配色：「黑/灰」組合散發冷峻的科技感，而層次豐富的啡色版本則讓人聯想起森林泥地，而非都市的柏油路。翻轉鞋身，其卓越性能更是展露無遺。鋸齒狀外底直接移植自 GEL-FujiTrabuco 7 越野鞋，將專為抓地力、耐用度與輕巧緩震而設的坑紋，巧妙融入這款偏向生活休閒風格的輪廓之中。Story mfg. 創辦人 Saeed Al-Rubeyi 顯然對此讚不絕口：「這款鞋底令人驚嘆：坑紋設計進取卻十分輕巧。其柔軟度與抓地力極佳，甚至連參與拍攝的鐵匠亦表示穿上後打磨速度能提升 20%，更要求保留一雙作工作之用。」他在官方發佈中如此說道。這位鐵匠正是本次宣傳企劃的核心人物之一，不僅呼應了 ASICS 的日本根源，更延續了雙方品牌一貫聚焦真實人物及其熱枕所在之作風。採集者、舞者、農夫及單車手亦加入陣容，各自透過肢體動作、手工藝或與大自然共處的時光，展現對「漫遊」的",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2FStory-mfg-ASICS-GEL-TRANSCEND-FJ-1203B194-200-1203B194-001-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/story-mfg-asics-gel-transcend-fj-1203b194-200-1203b194-001-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "《Sonic the Hedgehog》x Heelys 聯乘系列正式發布",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-06",
+   "content": "摘要 Heelys 攜手 SEGA 推出 Sonic the Hedgehog Gio 鞋款系列此限量系列包含致敬 Sonic 與 Amy Rose 的角色主題配色，並配備可拆卸的鞋跟滑輪兩款鞋款現已登陸 Heelys 及全球指定零售商，售價為 $70 美元 滑輪鞋先驅 Heelys 正式與 SEGA 合作推出 《Sonic the Hedgehog》 x Heelys Gio 系列，將經典的滑輪鞋款化身為向遊戲界標誌性角色致敬的極速之作。這個在 Texas 州 Carrollton 亮相的限量聯乘企劃，結合了復古遊戲的懷舊感與滑板功能，並推出兩款以角色為靈感的鞋款。此系列以備受粉絲喜愛的 Heelys Gio 鞋款為藍本，並融入慶祝該系列 Green Hill Zone 傳統的精緻美學細節。Sonic Gio 採用刺蝟標誌性的鮮豔藍色調，鞋面綴以標誌性的金環圖案作點綴。與主打款式互相呼應的 Amy Rose Gio 則以全粉紅色呈現，鞋跟位置印有閃爍細節。兩款鞋均配備 Heelys 標誌性的隱藏式後跟滾輪，讓用家在步行與滑行之間無縫切換。SEGA of America 授權及合作夥伴關係副總裁 Alexander Gomez 表示：「我們很高興能將《Sonic the Hedgehog》與 Heelys 這兩個標誌性品牌結合，在融合遊戲文化與創新鞋履設計的合作夥伴關係中攜手合作。」Heelys 社交媒體及合作夥伴策略師 Sara Arbelaez 則強調粉絲的熱情，她補充道：「粉絲們多年來一直要求促成這次合作，我們對於終於能一起推出這個系列並看到大家玩得開心感到無比興奮。」《Sonic the Hedgehog》x Heelys 系列現已登陸 Heelys 官方網站及全球指定零售商，定價為 $70 美元。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fsega-sonic-the-hedgehog-heelys-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/sega-sonic-the-hedgehog-heelys-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 3,
    "title": "Travis Scott 曝光限量版 Nike Air Force 1 Low「GTA 6」",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -41,7 +65,32 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 4,
+   "title": "Story mfg. and ASICS Send the GEL-TRANSCEND FJ Rambling in Hiking-Blanket Check",
+   "source": "Hypebeast",
+   "date": "2026-11-06",
+   "content": "Name: Story mfg. x ASICS GEL-TRANSCEND FJColorway: Dark Brown, BlackSKU: 1203B194-200, 1203B194-001MSRP: $180 USDRelease Date: November 11 (Story mfg.), November 20 (ASICS)Where to Buy: Story mfg., ASICSStory mfg. and ASICS are back together with the GEL-TRANSCEND FJ, a collaborative sneaker built around the idea of rambling. The UK craft label and the Japanese sportswear giant read the word three ways: wandering with no set endpoint, talking past the point of necessity, and growing somewhere you didn’t plan to. That spirit of curiosity-led movement shapes everything here, from the archival hiking base to a campaign cast of makers and movers photographed on their own turf.The foundation is pure archive. The GEL-TRANSCEND FJ traces back to ASICS’ 1990s catalog of hiking and walking footwear, and the collaborators lean into that outdoor DNA rather than smoothing it over. Rugged synthetic l",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F06%2FStory-mfg-ASICS-GEL-TRANSCEND-FJ-1203B194-200-1203B194-001-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/story-mfg-asics-gel-transcend-fj-1203b194-200-1203b194-001-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS",
+    "UGG"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Roll Around at the Speed of Sound With the 'Sonic the Hedgehog' x Heelys Collection",
+   "source": "Hypebeast",
+   "date": "2026-11-06",
+   "content": "Summary Heelys has partnered with SEGA to debut the Sonic the Hedgehog Gio footwear collectionThe limited-edition release includes character-themed colorways honoring Sonic and Amy Rose with removable heel wheelsBoth models are available now for $70 USD via Heelys and select global retailers Wheeled footwear pioneer Heelys has officially teamed up with SEGA to release the Sonic the Hedgehog x Heelys Gio Collection, transforming the classic rolling silhouette into a high-speed tribute to the gaming icon. Unveiled in Carrollton, Texas, the limited-edition collaboration merges retro gaming nostalgia with skate functionality across two character-inspired models.The capsule adapts the fan-favorite Heelys Gio footwear silhouette with detailed aesthetic cues celebrating the franchise's Green Hill Zone heritage. The Sonic Gio arrives dressed in the hedgehog’s signature vibrant blue shade, highli",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F05%2Fsega-sonic-the-hedgehog-heelys-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/sega-sonic-the-hedgehog-heelys-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 6,
    "title": "Travis Scott Reveals Limited-Edition Nike Air Force 1 Low \"GTA 6\"",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -54,7 +103,33 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 7,
+   "title": "Nike's Answer to the Winter Boot? A Rugged Basketball Shoe",
+   "source": "Highsnobiety",
+   "date": "2026-11-06",
+   "content": "Nike's Jordan Winterized 6 Rings looks like a basketball shoe that picked up a winter job, complete with chunky soles and boot-style lacing.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-jordan-winterized-6-rings/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Painters Need Tough Ass Trail Shoes, Too",
+   "source": "Highsnobiety",
+   "date": "2026-11-06",
+   "content": "Hiking shoes for painters, please! Who knew art could be so rough and tumble? Phileo and KEEN, apparently.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/phileo-keen-artist-matt-dillon-fw26-new/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 9,
    "title": "HOKA x Marni 再次攜手以三款搶眼配色重新演繹 Clifton 11",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -67,7 +142,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 10,
    "title": "SOREL 將 Maharishi 經典 Bonsai Tigerstripe 迷彩隱藏於 Daystorm Horizon ZIP GTX 靴款之中",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -78,7 +153,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 5,
+   "id": 11,
    "title": "Carhartt WIP x Nike Air Max Goadome Low 首波官方圖輯釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -91,7 +166,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 12,
    "title": "NikeSKIMS 釋出 Waffle Racer 聯乘系列，保留原版經典設計",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -104,7 +179,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 13,
    "title": "Tune Squad 再次集結：Space Jam x Crocs Classic Clog 聯乘鞋款正式發布",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -118,7 +193,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 14,
    "title": "Nike Mind 002 Flyknit 「Black and Anthracite」官方發售日期確認",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -131,11 +206,11 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 15,
    "title": "HOKA x Marni Reunite to Rework the Clifton 11 in Three Bold Colorways",
    "source": "Hypebeast",
    "date": "2026-11-05",
-   "content": "Name: Marni x HOKA Clifton 11MSRP: $275 USDRelease Date: November 12Where to Buy: HOKAHOKA and Marni have reunited for a second collaboration, this time reworking the Clifton 11, HOKA’s everyday trainer, as the Clifton Marni. The Clifton’s running credentials stay intact: an engineered mesh upper sits on a compression-molded EVA foam midsole, with HOKA’s Smooth MetaRocker geometry for rolling transitions and a rearfoot-focused Active Foot Frame that supports the heel.MARNI’s influence shows in how those functional parts are treated. Raised 3D silicone lines sweep in waves from the midfoot toward the heel, and the plush collar is lined with a textured knit that contrasts with the smooth mesh.Each of the three colorways takes a different approach to contrast. The Black version is almost completely tonal, from the mesh down to the midsole, with a cream collar lining and red lace loops addin",
+   "content": "Name: HOKA Clifton MARNIMSRP: $275 USDRelease Date: November 12Where to Buy: HOKAHOKA and Marni have reunited for a second collaboration, this time reworking the Clifton 11, HOKA’s everyday trainer, as the Clifton MARNI. The Clifton’s running credentials stay intact: an engineered mesh upper sits on a compression-molded EVA foam midsole, with HOKA’s Smooth MetaRocker geometry for rolling transitions and a rearfoot-focused Active Foot Frame that supports the heel.MARNI’s influence shows in how those functional parts are treated. Raised 3D silicone lines sweep in waves from the midfoot toward the heel, and the plush collar is lined with a textured knit that contrasts with the smooth mesh.Each of the three colorways takes a different approach to contrast. The Black version is almost completely tonal, from the mesh down to the midsole, with a cream collar lining and red lace loops adding war",
    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F05%2Fftmarni-hoka-clifton-11-collaboration-orange-white-black-release-info.jpg?w=800&cbr=1&q=90&fit=max",
    "link": "https://hypebeast.com/2026/11/hoka-x-marni-reunite-to-rework-the-clifton-11-in-three-bold-colorways",
    "lang": "en",
@@ -144,7 +219,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 16,
    "title": "The Carhartt WIP x Nike Air Max Goadome Low Gets Its First Official Look",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -158,7 +233,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 17,
    "title": "NikeSKIMS Is Dropping a Waffle Racer Collection, and It Keeps the Original Untouched",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -171,7 +246,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 18,
    "title": "Salomon and BEAMS Launch XT-QUEST BEAMS Collaboration Collection Celebrating 50th Anniversary",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -184,7 +259,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 19,
    "title": "The Tune Squad Suits Up Again in the ‘Space Jam’ x Crocs Classic Clog",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -198,7 +273,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 20,
    "title": "The Nike Mind 002 Flyknit “Black and Anthracite” Has an Official Release Date",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -211,7 +286,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 21,
    "title": "Why Do Brands Keep Returning to Fashion's Favorite Florist?",
    "source": "Highsnobiety",
    "date": "2026-11-05",
@@ -224,7 +299,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 22,
    "title": "Yeezy Is Officially Sampling Itself",
    "source": "Highsnobiety",
    "date": "2026-11-05",
@@ -237,7 +312,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 23,
    "title": "The Best Nike Sneaker Releases This Week",
    "source": "Highsnobiety",
    "date": "2026-11-05",
@@ -250,44 +325,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
-   "title": "Painters Need Tough Ass Trail Shoes, Too",
-   "source": "Highsnobiety",
-   "date": "2026-11-05",
-   "content": "Hiking shoes for painters, please! Who knew art could be so rough and tumble? Phileo and KEEN, apparently.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/phileo-keen-artist-matt-dillon-fw26-new/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 19,
-   "title": "This Is, In Form and Function, The Marni-est Hoka",
-   "source": "Highsnobiety",
-   "date": "2026-11-05",
-   "content": "Are your shoes Marni-thicc or HOKA-thicc? Now, they can be both.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/marni-hoka-exclusive-new/",
-   "lang": "en",
-   "relatedBrands": [
-    "HOKA"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "Salomon and BEAMS' New Hiking Shoe Is Built Like a Tank",
-   "source": "Highsnobiety",
-   "date": "2026-11-05",
-   "content": "The Salomon XT-Quest GTX BEAMS hiking shoe brings a battle-ready look to winter footwear, with bold buckle details and GORE-TEX protection.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/salomon-xt-quest-gtx-beams/",
-   "lang": "en",
-   "relatedBrands": [
-    "SALOMON"
-   ]
-  },
-  {
-   "id": 21,
+   "id": 24,
    "title": "Denim Tears x adidas Originals 首個聯乘系列的靈感泉源：經典格紋大袋",
    "source": "Hypebeast 中文",
    "date": "2026-11-04",
@@ -300,7 +338,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 25,
    "title": "The Whitaker Group 聯乘 New Balance 全新 2010「Willful Bias For Identity」系列發佈",
    "source": "Hypebeast 中文",
    "date": "2026-11-04",
@@ -313,7 +351,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 26,
    "title": "Nike Zoom Hyperflight 最新「Safari」配色經典圖案回歸",
    "source": "Hypebeast 中文",
    "date": "2026-11-04",
@@ -326,18 +364,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
-   "title": "率先近賞 Justin Bieber 參與設計之 SKYLRK 全新鞋款「Sensory Runner」",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-04",
-   "content": "摘要 網路近日流出 Justin Bieber 主理品牌 SKYLRK Sensory Runner 鞋款的近照，展現其極具未來感的外型架構該鞋廓形採用黑白配色設計，輔以網狀覆層點綴，並配備流線型厚實大底這款鞋履據悉歷經長達四年的研發過程，並於 8 月首度公開亮相 鞋履品牌 SKYLRK 率先釋出即將推出的全新鞋款「Sensory Runner」近賞圖輯，該款運動鞋是與 Justin Bieber 共同開發。這雙極具未來感的跑鞋最初於 8 月亮相，據稱已歷經四年研發，展現了這位藝術家最新鞋履項目背後的漫長設計歷程。詳細圖片突顯了該鞋款標誌性的黑白視覺風格，鞋面覆蓋著複雜的網狀結構。在下方，充滿未來感的輪廓被顯眼的誇張雕塑感厚底所提升，定義了其龐大且非傳統的形狀。設計利用高對比度的顏色劃分和立體幾何框架，來展現其引人注目的跑鞋比例。雖然全新近賞圖輯提供了迄今為止最清晰的鞋款結構視角，但官方零售安排及發售渠道尚未公布。 View this post on InstagramA post shared by Justin Bieber (@lilbieber) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fjustin-bieber-skylrk-sensory-runner-closer-look-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/justin-bieber-skylrk-sensory-runner-closer-look",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 25,
+   "id": 27,
    "title": "The Muse for Denim Tears x adidas Originals Debut? The Big Plaid Bag",
    "source": "Hypebeast",
    "date": "2026-11-04",
@@ -350,7 +377,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 28,
    "title": "The Whitaker Group and New Balance Unveil 2010 \"Willful Bias For Identity\" Collection",
    "source": "Hypebeast",
    "date": "2026-11-04",
@@ -361,30 +388,6 @@ window.SNEAKER_DATA = {
    "relatedBrands": [
     "NEW BALANCE"
    ]
-  },
-  {
-   "id": 27,
-   "title": "Nike Brings Classic Patterning to the Zoom Hyperflight \"Safari\"",
-   "source": "Hypebeast",
-   "date": "2026-11-04",
-   "content": "Summary Nike is revisiting its basketball archive with the upcoming Zoom Hyperflight in a new Safari colorwayThe retro model features speckled print across its molded upper paired with vibrant orange accents and a translucent outsoleThe pair is scheduled to release during Holiday 2026 for 180 USD in men's sizing via Nike and select retailers Name: Nike Zoom Hyperflight \"Safari\"Colorway: Black/Summit White-Ice-Total OrangeSKU: IZ2573-010MSRP: $170 USDRelease Date: Holiday 2026Where to Buy: NikeNike is dipping back into its performance basketball archive to reintroduce the Zoom Hyperflight \"Safari\", applying a classic heritage graphic to the turn-of-the-century court model. Newly surfaced official imagery confirms the return of the silhouette closely associated with Jason Williams in a distinctive speckled execution.The release fits directly into Nike Basketball's ongoing initiative of rev",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F02%2Fnike-zoom-hyperflight-safari-IZ2573-010-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/nike-zoom-hyperflight-safari-iz2573-010-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "Closer Look at Justin Bieber's SKYLRK \"Sensory Runner\"",
-   "source": "Hypebeast",
-   "date": "2026-11-04",
-   "content": "Summary A closer look at Justin Bieber's SKYLRK Sensory Runner has surfaced online showcasing its futuristic buildThe silhouette features a black-and-white color scheme accented by web-like overlays and a chunky sculpted soleThe footwear model was first revealed in August following a reported four-year development process Footwear label SKYLRK has provided an up-close look at the upcoming Sensory Runner, a brand-new silhouette developed alongside Justin Bieber. Initially revealed back in August, the futuristic runner has reportedly been in development for four years, reflecting an extensive design timeline behind the artist's latest footwear venture.Detailed imagery highlights the sneaker's distinct black-and-white visual identity, which is anchored by complex, web-like overlays that stretch across the upper panels. Below, the futuristic silhouette is elevated by a prominent, chunky scul",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F04%2Fjustin-bieber-skylrk-sensory-runner-closer-look-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/justin-bieber-skylrk-sensory-runner-closer-look",
-   "lang": "en",
-   "relatedBrands": []
   },
   {
    "id": 29,
