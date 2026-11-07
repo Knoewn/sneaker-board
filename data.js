@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-07 11:56",
+ "updatedAt": "2026-11-07 22:33",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -29,6 +29,46 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Bad Bunny x adidas Badbo 1.1 最新「Blanch Blue」配色官方照片釋出",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-07",
+   "content": "摘要 adidas 與 Bad Bunny 正式公開 Badbo 1.1 的「Blanch Blue」配色官方圖片這款低筒鞋型採用淺藍色麂皮搭配三角形網眼剪裁，並配備經典的生膠大底鞋款預計於 2026 年假期季登場，售價為 $120 美元，將透過 adidas CONFIRMED 及指定零售商發售 鞋款： Bad Bunny x adidas Badbo 1.1「Blanch Blue」配色： Blanch Blue/WhiteSKU： LB9014建議售價： $120 美元發售日期： 2026 年冬季發售點： adidasadidas 正式釋出即將推出的 Bad Bunny x adidas Badbo 1.1「Blanch Blue」官方照片，展現這款聯乘低筒鞋作的最新面貌。此全新版本繼早前曝光的「Chalk White」與「Simple Brown」配色之後登場，在冬季來臨前進一步擴展這位波多黎各歌手的標誌性鞋履系列。延續 Badbo 1.0 的基本設計語言，這款升級版本改用較低的鞋領與重新設計的腳踝面板。鞋身主要由淺藍色麂皮構成，俐落地覆蓋在淺藍色網眼底層之上，兩側鞋腰位置透過獨特的三角形鏤空設計將其展露出來。柔和的色彩配搭呼應了早前 Badbo 1.0「Puerto Rican Night」所採用的色調。俐落的白色細節點綴鞋舌與中底，打破了單色鞋身的沉悶，並與鞋領內襯及鞋舌邊緣的淺灰色飾邊達致平衡。鞋底採用經典生膠外底，為這款低調的跑鞋提供對比效果與抓地力。Bad Bunny x adidas Badbo 1.1「Blanch Blue」預計將於 2026 年冬季（或為 12 月）登場，定價為 $120 美元，並將透過 adidas CONFIRMED 及全球指定零售商發售。敬請設定提醒，並密切留意 Hypebeast Drops 掌握最新發售情報。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fbad-bunny-adidas-badbo-1-1-blanch-blue-lb9014-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/bad-bunny-adidas-badbo-1-1-blanch-blue-lb9014-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Official Images Surface for the Bad Bunny x adidas Badbo 1.1 \"Blanch Blue\"",
+   "source": "Hypebeast",
+   "date": "2026-11-07",
+   "content": "Summary adidas and Bad Bunny have revealed official imagery of the Badbo 1.1 in a Blanch Blue colorwayThe low-top silhouette features pale blue suede triangular mesh cutouts and a classic gum rubber outsoleThe pair is expected to release during Holiday 2026 for $120 USD via adidas CONFIRMED and select retailers Name: Bad Bunny x adidas Badbo 1.1 \"Blanch Blue\"Colorway: Blanch Blue/WhiteSKU: LB9014MSRP: $120 USDRelease Date: Holiday 2026Where to Buy: adidasadidas has unveiled official imagery for the upcoming Bad Bunny x adidas Badbo 1.1 “Blanch Blue”, showcasing the latest iteration of the collaborative low-top silhouetteThe forthcoming release follows previously revealed “Chalk White” and “Simple Brown” editions, expanding the Puerto Rican artist’s signature footwear line ahead of the winter season.Carrying over the fundamental design language of the Badbo 1.0, this updated version modif",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F05%2Fbad-bunny-adidas-badbo-1-1-blanch-blue-lb9014-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/bad-bunny-adidas-badbo-1-1-blanch-blue-lb9014-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "This Archival Jordan Was Built Like a German Sports Car",
+   "source": "Highsnobiety",
+   "date": "2026-11-07",
+   "content": "Nike's Air Jordan 6 “White Infrared” returns in its original '91 design, bringing back the sneaker inspired by German sports cars and MJ’s winning streak.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-jordan-6-white-infrared/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
    "title": "Kith x New Balance 2011「Monuments」系列將紐約地標融入每一片裁片",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -41,7 +81,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 5,
    "title": "Story mfg. 與 ASICS 聯手推出 GEL-TRANSCEND FJ 全新鞋款，注入經典行山毛毯格紋",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -54,7 +94,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 6,
    "title": "《Sonic the Hedgehog》x Heelys 聯乘系列正式發布",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -65,7 +105,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 4,
+   "id": 7,
    "title": "Travis Scott 曝光限量版 Nike Air Force 1 Low「GTA 6」",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -78,7 +118,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 8,
    "title": "The Kith x New Balance 2011 “Monuments” Collection Builds New York Landmarks Into Every Panel",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -91,7 +131,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 9,
    "title": "Story mfg. and ASICS Send the GEL-TRANSCEND FJ Rambling in Hiking-Blanket Check",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -105,7 +145,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 10,
    "title": "Roll Around at the Speed of Sound With the 'Sonic the Hedgehog' x Heelys Collection",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -116,7 +156,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 8,
+   "id": 11,
    "title": "Travis Scott Reveals Limited-Edition Nike Air Force 1 Low \"GTA 6\"",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -129,7 +169,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 12,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -142,7 +182,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 13,
    "title": "New Balance’s Street-Ready Hiking Sneaker Looks Good in Stealth Mode",
    "source": "Highsnobiety",
    "date": "2026-11-06",
@@ -155,7 +195,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 14,
    "title": "The Seven Best adidas Sneaker Releases This Week",
    "source": "Highsnobiety",
    "date": "2026-11-06",
@@ -168,7 +208,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 15,
    "title": "adidas' Cutest Samba Mary Janes Are Also Quite Fancy",
    "source": "Highsnobiety",
    "date": "2026-11-06",
@@ -181,7 +221,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 16,
    "title": "Jordan's Fuzzy Green Dad Shoe Looks Like Bottega Was Here",
    "source": "Highsnobiety",
    "date": "2026-11-06",
@@ -195,7 +235,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 17,
    "title": "This Is Nike's Most Italian Air Max Yet",
    "source": "Highsnobiety",
    "date": "2026-11-06",
@@ -208,7 +248,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 18,
    "title": "Nike’s Stacked Running Shoe Is an Autumnal Treat",
    "source": "Highsnobiety",
    "date": "2026-11-06",
@@ -221,7 +261,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 19,
    "title": "HOKA x Marni 再次攜手以三款搶眼配色重新演繹 Clifton 11",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -234,7 +274,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 20,
    "title": "SOREL 將 Maharishi 經典 Bonsai Tigerstripe 迷彩隱藏於 Daystorm Horizon ZIP GTX 靴款之中",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -245,7 +285,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 18,
+   "id": 21,
    "title": "Carhartt WIP x Nike Air Max Goadome Low 首波官方圖輯釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -258,7 +298,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 22,
    "title": "NikeSKIMS 釋出 Waffle Racer 聯乘系列，保留原版經典設計",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -271,7 +311,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 23,
    "title": "Tune Squad 再次集結：Space Jam x Crocs Classic Clog 聯乘鞋款正式發布",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -285,7 +325,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 24,
    "title": "Nike Mind 002 Flyknit 「Black and Anthracite」官方發售日期確認",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -298,7 +338,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 25,
    "title": "HOKA x Marni Reunite to Rework the Clifton 11 in Three Bold Colorways",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -311,7 +351,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 26,
    "title": "The Carhartt WIP x Nike Air Max Goadome Low Gets Its First Official Look",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -325,7 +365,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 27,
    "title": "NikeSKIMS Is Dropping a Waffle Racer Collection, and It Keeps the Original Untouched",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -338,7 +378,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 28,
    "title": "Salomon and BEAMS Launch XT-QUEST BEAMS Collaboration Collection Celebrating 50th Anniversary",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -351,7 +391,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 29,
    "title": "The Tune Squad Suits Up Again in the ‘Space Jam’ x Crocs Classic Clog",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -365,7 +405,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 30,
    "title": "The Nike Mind 002 Flyknit “Black and Anthracite” Has an Official Release Date",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -378,7 +418,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 31,
    "title": "Denim Tears x adidas Originals 首個聯乘系列的靈感泉源：經典格紋大袋",
    "source": "Hypebeast 中文",
    "date": "2026-11-04",
@@ -391,33 +431,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
-   "title": "The Whitaker Group 聯乘 New Balance 全新 2010「Willful Bias For Identity」系列發佈",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-04",
-   "content": "摘要 The Whitaker Group 與 New Balance 於「Willful Bias For Identity」系列下推出了兩款聯乘 2010 配色兩款鞋款均以流蘇絨面革、露縫線設計、橙色 N 字標誌細節及鞋面未經處理的毛邊為特色該系列將於 11 月 5 日經由 The Whitaker Group 及 A Ma Maniére 抽籤發售，售價均為 $155 美元 名稱：The Whitaker Group x New Balance 2010「Willful Bias for Identity」配色：Multi-ColorSKU：U20104WP, U20106KH定價：$155 美元發佈日期：2026 年 11 月 5 日購買點：New Balance, The Whitaker Group, A Ma ManiéreNew Balance 正式攜手 The Whitaker Group 推出兩款聯乘 New Balance 2010 配色，為持續進行的「Willful Bias」系列帶來最新篇章，主題名為「Willful Bias For Identity」。該聯乘系列延續以往圍繞探索、教育和社區的主題，透過解構設計語言將個人傳承融入其中。系列中的兩個版本均採用磨邊麂皮面板、外露縫線與未修邊細節，賦予鞋款一種仿舊的觸感。其中一款結合了奶油色網眼基底、大地粉色麂皮覆面以及對比鮮明的灰色中底。另一款則以灰色網眼基底搭配紫色麂皮面板及奶油色中底。兩款設計均於中足處標誌性的「N」字徽標上，點綴了亮眼的橙色細節。伴隨鞋款發佈的宣傳企劃由攝影師 Antiisoulcial 和 Nuku 操刀，透過個人的創意視角詮釋身分認同的主題。Antiisoulcial 在工作室場景中融入花卉佈置與南方黑人文化元素，而 Nuku 則以社區餐廳吧檯的共享餐點為背景，紀錄鞋款的風貌。The Whitaker Group x New Balance 2010「Willful Bias For Identity」系列兩款配色將於 2026 年 11 月 5 日發售，每款定價為 $1",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fthe-whitaker-group-new-balance-2010-willful-bias-for-identity-collection-u20104wp-u20106kh-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/the-whitaker-group-new-balance-2010-willful-bias-for-identity-collection-u20104wp-u20106kh-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "The Muse for Denim Tears x adidas Originals Debut? The Big Plaid Bag",
-   "source": "Hypebeast",
-   "date": "2026-11-04",
-   "content": "Denim Tears’ first outing with adidas is, fittingly, a walk down Canal Street. After weeks of speculation, Tremaine Emory’s imprint has officially unveiled its first collaboration with the Three Stripes, introducing a plaid-clad rework of two of its signature silhouettes: the Stan Smith and Superstar.With a release date yet to come, an early look shared with Hypebeast reveals the pairs outfitted in a black, blue, red, and cream woven plaid, lifted from the “Ghana Must Go,” or Market, bag. Cream keeps things clean on the soles and the Superstar’s shell toe. A Sankofa symbol also graces both pairs, sitting beneath co-branded details on the tongue. And, as those familiar with Emory’s work will know, the surface aesthetics are just half the story.Anyone who’s taken a trip to Denim Tears’ flagship, African Diaspora Goods, in the last few years may pick up the pattern from the in-store hangers",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F04%2Fdenim-tears-adidas-originals-collaboration-tremaine-emory-interview-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/denim-tears-adidas-originals-collaboration-tremaine-emory-interview",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 31,
+   "id": 32,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -430,7 +444,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 33,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
@@ -443,7 +457,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 34,
    "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
@@ -456,7 +470,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 35,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -469,7 +483,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 36,
    "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -482,7 +496,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 37,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
@@ -496,7 +510,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 38,
    "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
    "source": "Nice Kicks",
    "date": "2026-10-23",
@@ -509,7 +523,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 39,
    "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-23",
