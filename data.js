@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-08 11:41",
+ "updatedAt": "2026-11-08 22:39",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -31,6 +31,19 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "MARK & LONA x ASICS 全新 Tassel Striders 鞋款正式發佈",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-08",
+   "content": "名稱：MARK & LONA x ASICS Tassel Striders配色：Black型號：MLS-26C-SS03建議售價：¥47,300 日圓（約 $300 美元）發售日期：現已發售購買點：MARK & LONAMARK & LONA 與 ASICS 在 FW26 季度為 Tassel Striders 帶來單色重塑，以黑色磨砂質感皮革與白色漆面細節重建這雙聯乘高爾夫球鞋。全新款式保留了早前廣受好評的 Tassel Striders 鞋型，同時由上至下重新設計其材質與配色。此鞋款的輪廓源自籃球場。Tassel Striders 以 ASICS 於 1981 年推出並成為球員長年最愛的籃球鞋 FABRE JAPAN S 為基礎。MARK & LONA 將該設計改造成高爾夫球鞋，並注入自家的設計語言，而這個最新版本保留了原本的形狀，同時幾乎改變了表面的所有細節。最大的改變在於鞋面，採用黑色合成皮革製成，表面帶有柔軟的磨砂質感。MARK & LONA 的 BLOCK 標誌壓印在整個表面，增加了立體紋理而未引入任何新顏色。ASICS 的條紋以亮面白色漆皮合成皮革呈現，啞光黑色底座與閃亮條紋之間的對比賦予這雙鞋獨特的外觀。功能性主要針對高爾夫球場。覆蓋鞋帶的可拆式護蓋能減少沙子和碎屑進入，無論是否裝上護蓋，鞋子外觀都有明顯不同。包裝盒內附有兩套不同顏色的鞋帶，供進一步調整。內部防潑水襯裡可應付比賽期間不斷變化的情況，儘管 MARK & LONA 指出該鞋並非完全防水。專為高爾夫設計的無釘外底在草地上提供抓地力和穩定性，適合長時間比賽。此鞋款設計為中性，尺寸由 23 至 29.5 厘米不等。廣泛的尺碼選擇和簡潔的黑白調色板，使 Tassel Striders 能夠輕鬆搭配各種高爾夫球服裝。設定好你的提醒，緊貼 Hypebeast Drops 上的最新發售消息。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fmark-lona-asics-tassel-striders-black-mls-26c-ss03-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/mark-lona-asics-tassel-striders-black-mls-26c-ss03-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 2,
    "title": "無覆面設計之 Nike Air Max 90 SP「Black Leather」確定 2026 年 11 月發售",
    "source": "Hypebeast 中文",
    "date": "2026-11-08",
@@ -43,7 +56,20 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 3,
+   "title": "MARK & LONA x ASICS Black Out the Tassel Striders for FW26",
+   "source": "Hypebeast",
+   "date": "2026-11-08",
+   "content": "Name: MARK & LONA x ASICS Tassel StridersColorway: BlackSKU: MLS-26C-SS03MSRP: ¥47,300 JPY (approx. $300 USD)Release Date: Available nowWhere to Buy: MARK & LONAMARK & LONA and ASICS are giving the Tassel Striders a monochrome reset for FW26, rebuilding the collaborative golf shoe in black nubuck-style leather and white patent accents. The new model keeps the shape of the earlier, well-received Tassel Striders while reworking its materials and colors from top to bottom.The silhouette starts on the basketball court. The Tassel Striders is based on the FABRE JAPAN S, a basketball shoe ASICS released in 1981 that became a long-running favorite with players. MARK & LONA adapted that design for golf and layered in its own design language, and this latest version keeps that shape intact while changing almost everything on the surface.Most of the change is in the upper, which is made from a bla",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F05%2Fmark-lona-asics-tassel-striders-black-mls-26c-ss03-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/mark-lona-asics-tassel-striders-black-mls-26c-ss03-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 4,
    "title": "The Overlay-Free Nike Air Max 90 SP “Black Leather” Receives a November 2026 Release Date",
    "source": "Hypebeast",
    "date": "2026-11-08",
@@ -56,7 +82,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 5,
    "title": "Bad Bunny x adidas Badbo 1.1 最新「Blanch Blue」配色官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-07",
@@ -69,7 +95,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 6,
    "title": "Official Images Surface for the Bad Bunny x adidas Badbo 1.1 \"Blanch Blue\"",
    "source": "Hypebeast",
    "date": "2026-11-07",
@@ -82,7 +108,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 7,
    "title": "New Balance Turns a Pro Skate Shoe Into a Tasty \"Breakfast\" Flex",
    "source": "Highsnobiety",
    "date": "2026-11-07",
@@ -95,7 +121,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 8,
    "title": "Vans’ Slip-on Skate Shoe Wears Pre-Worn Corduroy Pants",
    "source": "Highsnobiety",
    "date": "2026-11-07",
@@ -108,7 +134,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 9,
    "title": "Converse’s Fluffy \"UGG\" Has the Sole of a Running Shoe",
    "source": "Highsnobiety",
    "date": "2026-11-07",
@@ -122,7 +148,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 10,
    "title": "Nike’s Khaki Air Max Is a Full-on Fall Heater",
    "source": "Highsnobiety",
    "date": "2026-11-07",
@@ -135,7 +161,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 11,
    "title": "Nike’s Ruggedized Recovery Sneaker Is Ready for Cold Days",
    "source": "Highsnobiety",
    "date": "2026-11-07",
@@ -149,7 +175,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 12,
    "title": "This Archival Jordan Was Built Like a German Sports Car",
    "source": "Highsnobiety",
    "date": "2026-11-07",
@@ -163,7 +189,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 13,
    "title": "Kith x New Balance 2011「Monuments」系列將紐約地標融入每一片裁片",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -176,7 +202,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 14,
    "title": "Story mfg. 與 ASICS 聯手推出 GEL-TRANSCEND FJ 全新鞋款，注入經典行山毛毯格紋",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -189,7 +215,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 15,
    "title": "《Sonic the Hedgehog》x Heelys 聯乘系列正式發布",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -200,7 +226,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 14,
+   "id": 16,
    "title": "Travis Scott 曝光限量版 Nike Air Force 1 Low「GTA 6」",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -213,7 +239,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 17,
    "title": "The Kith x New Balance 2011 “Monuments” Collection Builds New York Landmarks Into Every Panel",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -226,7 +252,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 18,
    "title": "Story mfg. and ASICS Send the GEL-TRANSCEND FJ Rambling in Hiking-Blanket Check",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -240,7 +266,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 19,
    "title": "Roll Around at the Speed of Sound With the 'Sonic the Hedgehog' x Heelys Collection",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -251,7 +277,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 18,
+   "id": 20,
    "title": "Travis Scott Reveals Limited-Edition Nike Air Force 1 Low \"GTA 6\"",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -264,7 +290,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 21,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -277,7 +303,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 22,
    "title": "New Balance’s Street-Ready Hiking Sneaker Looks Good in Stealth Mode",
    "source": "Highsnobiety",
    "date": "2026-11-06",
@@ -290,7 +316,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 23,
    "title": "The Seven Best adidas Sneaker Releases This Week",
    "source": "Highsnobiety",
    "date": "2026-11-06",
@@ -303,7 +329,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 24,
    "title": "adidas' Cutest Samba Mary Janes Are Also Quite Fancy",
    "source": "Highsnobiety",
    "date": "2026-11-06",
@@ -316,7 +342,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 25,
    "title": "HOKA x Marni 再次攜手以三款搶眼配色重新演繹 Clifton 11",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -329,7 +355,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 26,
    "title": "SOREL 將 Maharishi 經典 Bonsai Tigerstripe 迷彩隱藏於 Daystorm Horizon ZIP GTX 靴款之中",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -340,7 +366,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 25,
+   "id": 27,
    "title": "Carhartt WIP x Nike Air Max Goadome Low 首波官方圖輯釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -353,7 +379,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 28,
    "title": "NikeSKIMS 釋出 Waffle Racer 聯乘系列，保留原版經典設計",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -366,7 +392,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 29,
    "title": "Tune Squad 再次集結：Space Jam x Crocs Classic Clog 聯乘鞋款正式發布",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -380,20 +406,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
-   "title": "Nike Mind 002 Flyknit 「Black and Anthracite」官方發售日期確認",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-05",
-   "content": "名稱：Nike Mind 002 Flyknit「Black and Anthracite」配色：Black/Anthracite/Dark Smoke GreySKU： IR2176-002建議售價：$145 美元發售日期：11 月 10 日購買點：SNKRS早前僅預告於秋季登場的 Nike Mind 002 Flyknit「Black and Anthracite」，現在終於確認了發售日期。Nike 已正式將這雙鞋款列入 11 月 10 日的發售日程。隨著日期敲定，現在正是仔細欣賞這款全黑版本設計的好時機。此鞋款採用 Nike Mind 科技打造，該系統由品牌的內部 Mind Science Department 研發。外底設有 22 個獨立節點，隨著穿著者的步伐上下移動，以特定模式按壓腳底。Nike 表示，科學證明這能激活大腦的感覺區域。Nike 指出這項設計的目的是讓步伐更平穩，讓穿著者無論身在何處都能保持專注。為了讓這個機制穿起來舒適，腳底需要經過精心的分層設計。彈性布料鋪滿鞋床，為每個節點提供移動空間，同時保持貼近皮膚的柔軟觸感。在布料下方，柔軟的泡沫中底提供舒適、靈敏的緩震效果，讓這雙鞋適合全天候穿著，而不僅僅是運動後才穿的恢復拖鞋。鞋面上半部的 Flyknit 針織材質，正是此版本與標準版 Mind 002 的不同之處。針織布料上經過特殊設計的沖孔有助空氣流通，其豐富的紋理結構即使在幾乎全黑的配色中也能賦予鞋款層次感。搭配通體黑色與無煙煤色，這款現已確認發售日期的鞋款，是將 Nike 注重腦部感官的鞋類融入日常穿搭中最低調的選擇。設定好你的提醒，搶先掌握 Hypebeast Drops 的最新發售消息。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2FNike-Mind-002-Flyknit-Black-Anthracite-IR2176-002-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/nike-mind-002-flyknit-black-anthracite-ir2176-002-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 29,
+   "id": 30,
    "title": "HOKA x Marni Reunite to Rework the Clifton 11 in Three Bold Colorways",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -406,7 +419,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 31,
    "title": "The Carhartt WIP x Nike Air Max Goadome Low Gets Its First Official Look",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -420,7 +433,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 32,
    "title": "NikeSKIMS Is Dropping a Waffle Racer Collection, and It Keeps the Original Untouched",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -433,7 +446,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 33,
    "title": "Salomon and BEAMS Launch XT-QUEST BEAMS Collaboration Collection Celebrating 50th Anniversary",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -443,20 +456,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "SALOMON"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "The Tune Squad Suits Up Again in the ‘Space Jam’ x Crocs Classic Clog",
-   "source": "Hypebeast",
-   "date": "2026-11-05",
-   "content": "Name: Space Jam x Crocs Classic Clog “Tune Squad”Colorway: MultiSKU: 214509-90HMSRP: $70 USDRelease Date: November 9Where to Buy: CrocsCrocs is bringing the Tune Squad back to the court with the Space Jam x Crocs Classic Clog “Tune Squad,” a jersey-inspired take on its signature silhouette. The release arrives three decades after Space Jam first hit theaters in 1996, and it’s set to come in both adult and kids’ sizing.The design starts with the uniforms Michael Jordan and the Looney Tunes wore in the film’s climactic game against the Monstars. Those kits were mostly white with red and blue accents, and Crocs follows the same proportions. The clog’s body stays white, while the team colors appear on the trim around the foot opening and along the heel strap.The forefoot carries the most visual weight. Each shoe gets an oversized Tune Squad logo Jibbitz charm that covers much of the toe box,",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F05%2FSpace-Jam-Crocs-Classic-Clog-Tune-Squad-214509-90H-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/space-jam-crocs-classic-clog-tune-squad-214509-90h-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CROCS",
-    "JORDAN"
    ]
   },
   {
