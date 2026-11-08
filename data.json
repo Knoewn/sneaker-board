@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07 22:33",
+ "updatedAt": "2026-11-08 11:41",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,18 +17,46 @@
  "brands": [
   "ADIDAS",
   "ASICS",
+  "CONVERSE",
   "CROCS",
   "HOKA",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
   "SALOMON",
-  "UGG"
+  "UGG",
+  "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "無覆面設計之 Nike Air Max 90 SP「Black Leather」確定 2026 年 11 月發售",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-08",
+   "content": "名稱： Nike Air Max 90 SP「Black Leather」配色： 黑色編號： IV4504-001建議售價： $170 美元發售日期： 11 月 13 日購買渠道： NikeNike Air Max 90 SP「Black Leather」現已確定發售日期，這款極簡風格的經典跑鞋將於 11 月 13 日登場。作為 Nike 2026 年秋季系列的一部分，此鞋款捨棄了標誌性的層疊設計，改以幾乎全皮革材質打造，並以縫線取代堆疊的飾片。隨著日期確定，焦點轉向這款鞋與標準 Air Max 90 的不同之處。一般版本通常將皮革、網眼和塑膠部件層層疊加來塑造鞋身，但此版本幾乎全以皮革處理。Nike 沒有添加額外的覆面，而是運用縫線勾勒出 Swoosh 標誌、擋泥板及側板。各個元素在黑色背景下依然清晰可見，整體表面比一般鞋型明顯更為平坦俐落。打孔皮革取代了通常使用對比材質的區域。塑膠鞋眼被移除，改為與鞋面其他部分齊平的打孔皮革，相同材質也包覆了鞋跟，而 Nike 在此處捨棄了常見的 Nike Air 標誌。鞋舌上的同色系標誌是唯一保留的明顯印記，黑色鞋帶則融入鞋面，沒有破壞整體的單色調設計。所有改造皆於鞋底處停止。熟悉的 Air Max 90 中底及可見式鞋跟 Air 氣墊原封不動地保留下來，並與橡膠外底一同以黑色呈現。深色調中唯一的突破是 Air 視窗內透出淡淡的藍色。這種化繁為簡的設計，相較於一般的 Air Max 90，反而更接近 NikeLab 多年來推出的極簡風格。敬請設定提醒，並密切留意 Hypebeast Drops 掌握最新發售情報。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-air-max-90-sp-black-leather-iv4504-001-release-info-date-000-black-leather.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/nike-air-max-90-sp-black-leather-iv4504-001-release-info-date",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "The Overlay-Free Nike Air Max 90 SP “Black Leather” Receives a November 2026 Release Date",
+   "source": "Hypebeast",
+   "date": "2026-11-08",
+   "content": "Name: Nike Air Max 90 SP “Black Leather”Colorway: BlackSKU: IV4504-001MSRP: $170 USDRelease Date: November 13Where to Buy: NikeThe Nike Air Max 90 SP “Black Leather” now has a firm release date, with the pared-down take on the classic runner set to arrive on November 13. Part of Nike’s Fall 2026 slate, the pair swaps the silhouette’s signature layering for a mostly leather build defined by stitching instead of stacked panels.With the date locked in, the focus turns to how different this pair looks from a standard Air Max 90. A typical version builds its shape from leather, mesh and plastic pieces layered on top of one another, but this release handles nearly everything in leather. Rather than adding separate overlays, Nike uses stitch lines to trace the Swoosh, the mudguard and the side panels. Each element stays readable against the black, while the overall surface ends up noticeably fl",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F05%2Fnike-air-max-90-sp-black-leather-iv4504-001-release-info-date-000-black-leather.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/nike-air-max-90-sp-black-leather-iv4504-001-release-info-date",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
    "title": "Bad Bunny x adidas Badbo 1.1 最新「Blanch Blue」配色官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-07",
@@ -41,7 +69,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 4,
    "title": "Official Images Surface for the Bad Bunny x adidas Badbo 1.1 \"Blanch Blue\"",
    "source": "Hypebeast",
    "date": "2026-11-07",
@@ -54,7 +82,74 @@
    ]
   },
   {
-   "id": 3,
+   "id": 5,
+   "title": "New Balance Turns a Pro Skate Shoe Into a Tasty \"Breakfast\" Flex",
+   "source": "Highsnobiety",
+   "date": "2026-11-07",
+   "content": "New Balance's Numeric Franky Villani 417 lands in \"Breakfast Tea,\" resulting in a tasty tan version of the pro skate shoe.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-numeric-frankie-villani-417-breakfast-tea/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Vans’ Slip-on Skate Shoe Wears Pre-Worn Corduroy Pants",
+   "source": "Highsnobiety",
+   "date": "2026-11-07",
+   "content": "Vans debuts a vintage-style corduroy version of its Premium Classic Slip-on 98 skate shoe. Here's everything on the cozy-luxe release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-premium-classic-slip-on-98-corduroy/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Converse’s Fluffy \"UGG\" Has the Sole of a Running Shoe",
+   "source": "Highsnobiety",
+   "date": "2026-11-07",
+   "content": "Converse's T-Bone Slide Moccasin Boa shoe is a smooth slip-on hybrid with fur touches, UGG flavor, & chunky running-style soles.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/converse-t-bone-slide-moccasin-boa/",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Nike’s Khaki Air Max Is a Full-on Fall Heater",
+   "source": "Highsnobiety",
+   "date": "2026-11-07",
+   "content": "Nike's Air Max 90 sneaker gets the cleanest fall makeover with the \"Cargo Khaki\" release. It's literally the Air Max of the season.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-90-cargo-khaki/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Nike’s Ruggedized Recovery Sneaker Is Ready for Cold Days",
+   "source": "Highsnobiety",
+   "date": "2026-11-07",
+   "content": "Nike's Rejuven8 Run 4x4 sneaker is a winterized recovery shoe featuring thick muddied-up soles & cozy suede uppers.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-rejuven8-run-4x4/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 10,
    "title": "This Archival Jordan Was Built Like a German Sports Car",
    "source": "Highsnobiety",
    "date": "2026-11-07",
@@ -68,7 +163,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 11,
    "title": "Kith x New Balance 2011「Monuments」系列將紐約地標融入每一片裁片",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -81,7 +176,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 12,
    "title": "Story mfg. 與 ASICS 聯手推出 GEL-TRANSCEND FJ 全新鞋款，注入經典行山毛毯格紋",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -94,7 +189,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 13,
    "title": "《Sonic the Hedgehog》x Heelys 聯乘系列正式發布",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -105,7 +200,7 @@
    "relatedBrands": []
   },
   {
-   "id": 7,
+   "id": 14,
    "title": "Travis Scott 曝光限量版 Nike Air Force 1 Low「GTA 6」",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -118,7 +213,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 15,
    "title": "The Kith x New Balance 2011 “Monuments” Collection Builds New York Landmarks Into Every Panel",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -131,7 +226,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 16,
    "title": "Story mfg. and ASICS Send the GEL-TRANSCEND FJ Rambling in Hiking-Blanket Check",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -145,7 +240,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 17,
    "title": "Roll Around at the Speed of Sound With the 'Sonic the Hedgehog' x Heelys Collection",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -156,7 +251,7 @@
    "relatedBrands": []
   },
   {
-   "id": 11,
+   "id": 18,
    "title": "Travis Scott Reveals Limited-Edition Nike Air Force 1 Low \"GTA 6\"",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -169,7 +264,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 19,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -182,7 +277,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 20,
    "title": "New Balance’s Street-Ready Hiking Sneaker Looks Good in Stealth Mode",
    "source": "Highsnobiety",
    "date": "2026-11-06",
@@ -195,7 +290,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 21,
    "title": "The Seven Best adidas Sneaker Releases This Week",
    "source": "Highsnobiety",
    "date": "2026-11-06",
@@ -208,7 +303,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 22,
    "title": "adidas' Cutest Samba Mary Janes Are Also Quite Fancy",
    "source": "Highsnobiety",
    "date": "2026-11-06",
@@ -221,47 +316,7 @@
    ]
   },
   {
-   "id": 16,
-   "title": "Jordan's Fuzzy Green Dad Shoe Looks Like Bottega Was Here",
-   "source": "Highsnobiety",
-   "date": "2026-11-06",
-   "content": "Nike's Jordan DMSN 95 \"Green Noise\" sneaker lands as an all-green, Bottega-flavored take on the dadcore model.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-dmsn-95-green-noise/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "This Is Nike's Most Italian Air Max Yet",
-   "source": "Highsnobiety",
-   "date": "2026-11-06",
-   "content": "One Block Down's Nike Air Max 95 Lux sneakers come in four Italy-inspired colorways, complete with Italian leather uppers.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/one-block-down-nike-air-max-95-lux-italy/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "Nike’s Stacked Running Shoe Is an Autumnal Treat",
-   "source": "Highsnobiety",
-   "date": "2026-11-06",
-   "content": "Nike's Vomero Plus running shoe slips into a very good-looking \"Dark Hazel\" colorway for the fall season.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-vomero-plus-dark-hazel/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
+   "id": 23,
    "title": "HOKA x Marni 再次攜手以三款搶眼配色重新演繹 Clifton 11",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -274,7 +329,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 24,
    "title": "SOREL 將 Maharishi 經典 Bonsai Tigerstripe 迷彩隱藏於 Daystorm Horizon ZIP GTX 靴款之中",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -285,7 +340,7 @@
    "relatedBrands": []
   },
   {
-   "id": 21,
+   "id": 25,
    "title": "Carhartt WIP x Nike Air Max Goadome Low 首波官方圖輯釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -298,7 +353,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 26,
    "title": "NikeSKIMS 釋出 Waffle Racer 聯乘系列，保留原版經典設計",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -311,7 +366,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 27,
    "title": "Tune Squad 再次集結：Space Jam x Crocs Classic Clog 聯乘鞋款正式發布",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -325,7 +380,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 28,
    "title": "Nike Mind 002 Flyknit 「Black and Anthracite」官方發售日期確認",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -338,7 +393,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 29,
    "title": "HOKA x Marni Reunite to Rework the Clifton 11 in Three Bold Colorways",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -351,7 +406,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 30,
    "title": "The Carhartt WIP x Nike Air Max Goadome Low Gets Its First Official Look",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -365,7 +420,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 31,
    "title": "NikeSKIMS Is Dropping a Waffle Racer Collection, and It Keeps the Original Untouched",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -378,7 +433,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 32,
    "title": "Salomon and BEAMS Launch XT-QUEST BEAMS Collaboration Collection Celebrating 50th Anniversary",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -391,7 +446,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 33,
    "title": "The Tune Squad Suits Up Again in the ‘Space Jam’ x Crocs Classic Clog",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -405,33 +460,7 @@
    ]
   },
   {
-   "id": 30,
-   "title": "The Nike Mind 002 Flyknit “Black and Anthracite” Has an Official Release Date",
-   "source": "Hypebeast",
-   "date": "2026-11-05",
-   "content": "Name: Nike Mind 002 Flyknit “Black and Anthracite”Colorway: Black/Anthracite/Dark Smoke GreySKU: IR2176-002MSRP: $145 USDRelease Date: November 10Where to Buy: SNKRSAfter getting previewed with only a loose fall window, the Nike Mind 002 Flyknit “Black and Anthracite” now has a confirmed release date, as Nike has officially placed the pair on its launch calendar for November 10. With that date locked, it’s a good moment to look at what this all-dark version brings to the table.The shoe is built on Nike Mind technology, a system that came out of the brand’s in-house Mind Science Department. Twenty-two individual nodes sit in the outsole and move up and down as the wearer walks, pressing into the bottom of the foot in a pattern Nike says science has shown to activate sensory areas of the brain. Nike frames the intended result as a more grounded stride that keeps wearers tuned in to whereve",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F04%2FNike-Mind-002-Flyknit-Black-Anthracite-IR2176-002-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/nike-mind-002-flyknit-black-anthracite-ir2176-002-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "Denim Tears x adidas Originals 首個聯乘系列的靈感泉源：經典格紋大袋",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-04",
-   "content": "Denim Tears 與 adidas 的首度合作，恰如其分地從 Canal Street 街頭漫步展開。經過數週的期待，Tremaine Emory 掌舵的品牌正式發佈與這三間品牌的首個聯乘系列，為兩款標誌性鞋款 Stan Smith 與 Superstar 帶來披上格紋的嶄新演繹。雖然發售日期尚未公佈，但 Hypebeast 率先獲得的照片顯示，這兩雙鞋款換上了源自「Ghana Must Go」市集手挽袋的黑、藍、紅及米色編織格紋。鞋底與 Superstar 的貝殼鞋頭則以米色保持簡潔。兩雙鞋款的鞋舌聯乘細節下方，均點綴了 Sankofa 圖案。對於熟悉 Emory 作品的擁躉而言，表面上的美學設計顯然只是故事的一半。近年曾到訪 Denim Tears 旗艦店 African Diaspora Goods 的人，或許會對店內衣架與購物袋上的格紋圖案感到眼熟。然而，早於進駐 SoHo 的高級店舖之前，Canal Street Station 出口兩旁早已佈滿這種格紋，街頭攤檔擺滿了以此包裝的手袋、服裝及電子配件。「這是紐約的特色，而我們是一個深受紐約啟發的品牌。」Emory 在獨家專訪中談及此企劃時表示：「在我們參考與使用的眾多圖案之中，我從未將其應用於 Denim Tears 的服飾上。當我準備首次展開 [collaboration] 與 adidas Originals 的合作時，我便希望將其融入鞋款設計之中。」「這代表著海外流散社群的文化圖騰。許多人並不了解它如何交織了非洲與亞洲的歷史，以及它為何最終會出現在 Canal Street。」從 Virgil Abloh 操刀的 Free the Youth x Off White™、Sandy Liang x Baggu 聯乘系列，以至推著手推車的街坊婆婆，這款格紋大袋無疑是跨界別的時尚寵兒。「這代表著海外流散社群的文化圖騰。」不僅在黑人社群中引起共鳴，更廣受不同群體使用。然而，正如 Emory 指出，這款跨越世代與大洲的經典單品，其複雜的起源卻往往被人遺忘。「許多人並不了解它如何交織了非洲與亞洲的歷史，以及它為",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fdenim-tears-adidas-originals-collaboration-tremaine-emory-interview-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/denim-tears-adidas-originals-collaboration-tremaine-emory-interview",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 32,
+   "id": 34,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -444,7 +473,33 @@
    ]
   },
   {
-   "id": 33,
+   "id": 35,
+   "title": "The Classic Air Jordan 4 OG “Bred” is Coming Back",
+   "source": "Nice Kicks",
+   "date": "2026-11-03",
+   "content": "Interested readers can expect the Air Jordan 4 OG “Bred” to release on November 27, 2026, via SNKRS and select retailers for $230. Check… The post The Classic Air Jordan 4 OG “Bred” is Coming Back appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/02/jd_809078_b-1-scaled-e1787276213984.jpg",
+   "link": "https://www.nicekicks.com/air-jordan-4-og-bred-2026-ix8180-001-drop/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 36,
+   "title": "Air Jordan 3 “Not Nice” November 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-11-02",
+   "content": "The Air Jordan 3 “Not Nice” (Style Code: IF4396-001) drops in an unusual colorway inspired by the iconic Air Jordan 1 chimney ad from… The post Air Jordan 3 “Not Nice” November 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/07/air-jordan-3-not-nice-1.png",
+   "link": "https://www.nicekicks.com/air-jordan-3-not-nice-if4396-001/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 37,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
@@ -457,7 +512,7 @@
    ]
   },
   {
-   "id": 34,
+   "id": 38,
    "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
@@ -470,7 +525,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 39,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -483,7 +538,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 40,
    "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -496,40 +551,13 @@
    ]
   },
   {
-   "id": 37,
+   "id": 41,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
    "content": "The Air Jordan 12 “Fireside” is set to release on October 24, 2026, via Nike.com and select retailers for $215. Check out the photo… The post The Air Jordan 12 “Fireside” Releases Today appeared first on Nice Kicks .",
    "image": "https://www.nicekicks.com/files/2026/10/ct8013-105-5-1-e1791640160431.jpg",
    "link": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 38,
-   "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
-   "source": "Nice Kicks",
-   "date": "2026-10-23",
-   "content": "The Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat” is releasing on October 1, 2026, via Nike.com and select retailers for $180. Check out the photos below and… The post Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/io1875-700-1-1-e1791406526382.jpg",
-   "link": "https://www.nicekicks.com/nike-air-force-1-mid-se-gore-tex-vibram-wheat/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-23",
-   "content": "The Air Jordan 41 “Ruby” is set to release on October 25, 2026, via Nike.com and select retailers for $205. Check out the photo below and… The post Air Jordan 41 “Ruby” (HV6474-601) October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/08/air-jordan-release-dates-air-jordan-41-ruby-hv6474-601-1.png",
-   "link": "https://www.nicekicks.com/air-jordan-41-ruby-hv6474-601/",
    "lang": "en",
    "relatedBrands": [
     "JORDAN",
