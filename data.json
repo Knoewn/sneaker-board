@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08 22:39",
+ "updatedAt": "2026-11-09 11:54",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,7 +17,6 @@
  "brands": [
   "ADIDAS",
   "ASICS",
-  "CONVERSE",
   "CROCS",
   "HOKA",
   "JORDAN",
@@ -83,6 +82,73 @@
   },
   {
    "id": 5,
+   "title": "adidas' Smartly Dressed Sneaker Is for \"Spezial\" Occasions",
+   "source": "Highsnobiety",
+   "date": "2026-11-08",
+   "content": "adidas' FW26 Albrecht II SPZL is a dressy leather sneaker committed to casual flexing. Here's everything on the release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-albrecht-ll-spzl/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Vans’ Waterproof Skate Shoe Stays Fresh When Wet",
+   "source": "Highsnobiety",
+   "date": "2026-11-08",
+   "content": "Vans releases a clean light grey version of its Half Cab GORE-TEX sneaker, just in time for the cold weather.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-half-cab-gore-tex-light-grey/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "This Beautifully Blacked-Out Air Jordan Packs a Luxe Sting",
+   "source": "Highsnobiety",
+   "date": "2026-11-08",
+   "content": "Nike's Air Jordan 17 Low \"Black Pack\" is collection's fourth luxurious all-black sneaker featuring stingray leather.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-17-low-black-pack/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Nike's Mid Jordans Are Even Better as Hare-y 'Space Jam' Sneakers",
+   "source": "Highsnobiety",
+   "date": "2026-11-08",
+   "content": "The Air Jordan 1 Mid \"Space Jam Hare\" is a clever Bugs Bunny-inspired sneaker featuring fuzzy grey textures & a Jumpman Hare motif.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-1-mid-space-jam-hare/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Nike’s Creamy Air Max Is Full of Surprises",
+   "source": "Highsnobiety",
+   "date": "2026-11-08",
+   "content": "Nike's Air Max 90 \"Cream II\" sneaker marries a low-key color scheme with stylish twists. Spoiler: mini Swooshes ahead.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-90-cream/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
    "title": "Bad Bunny x adidas Badbo 1.1 最新「Blanch Blue」配色官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-07",
@@ -95,7 +161,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 11,
    "title": "Official Images Surface for the Bad Bunny x adidas Badbo 1.1 \"Blanch Blue\"",
    "source": "Hypebeast",
    "date": "2026-11-07",
@@ -108,88 +174,7 @@
    ]
   },
   {
-   "id": 7,
-   "title": "New Balance Turns a Pro Skate Shoe Into a Tasty \"Breakfast\" Flex",
-   "source": "Highsnobiety",
-   "date": "2026-11-07",
-   "content": "New Balance's Numeric Franky Villani 417 lands in \"Breakfast Tea,\" resulting in a tasty tan version of the pro skate shoe.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-numeric-frankie-villani-417-breakfast-tea/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 8,
-   "title": "Vans’ Slip-on Skate Shoe Wears Pre-Worn Corduroy Pants",
-   "source": "Highsnobiety",
-   "date": "2026-11-07",
-   "content": "Vans debuts a vintage-style corduroy version of its Premium Classic Slip-on 98 skate shoe. Here's everything on the cozy-luxe release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-premium-classic-slip-on-98-corduroy/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 9,
-   "title": "Converse’s Fluffy \"UGG\" Has the Sole of a Running Shoe",
-   "source": "Highsnobiety",
-   "date": "2026-11-07",
-   "content": "Converse's T-Bone Slide Moccasin Boa shoe is a smooth slip-on hybrid with fur touches, UGG flavor, & chunky running-style soles.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/converse-t-bone-slide-moccasin-boa/",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 10,
-   "title": "Nike’s Khaki Air Max Is a Full-on Fall Heater",
-   "source": "Highsnobiety",
-   "date": "2026-11-07",
-   "content": "Nike's Air Max 90 sneaker gets the cleanest fall makeover with the \"Cargo Khaki\" release. It's literally the Air Max of the season.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-90-cargo-khaki/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 11,
-   "title": "Nike’s Ruggedized Recovery Sneaker Is Ready for Cold Days",
-   "source": "Highsnobiety",
-   "date": "2026-11-07",
-   "content": "Nike's Rejuven8 Run 4x4 sneaker is a winterized recovery shoe featuring thick muddied-up soles & cozy suede uppers.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-rejuven8-run-4x4/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
    "id": 12,
-   "title": "This Archival Jordan Was Built Like a German Sports Car",
-   "source": "Highsnobiety",
-   "date": "2026-11-07",
-   "content": "Nike's Air Jordan 6 “White Infrared” returns in its original '91 design, bringing back the sneaker inspired by German sports cars and MJ’s winning streak.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-jordan-6-white-infrared/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 13,
    "title": "Kith x New Balance 2011「Monuments」系列將紐約地標融入每一片裁片",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -202,7 +187,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 13,
    "title": "Story mfg. 與 ASICS 聯手推出 GEL-TRANSCEND FJ 全新鞋款，注入經典行山毛毯格紋",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -215,7 +200,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 14,
    "title": "《Sonic the Hedgehog》x Heelys 聯乘系列正式發布",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -226,7 +211,7 @@
    "relatedBrands": []
   },
   {
-   "id": 16,
+   "id": 15,
    "title": "Travis Scott 曝光限量版 Nike Air Force 1 Low「GTA 6」",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -239,7 +224,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 16,
    "title": "The Kith x New Balance 2011 “Monuments” Collection Builds New York Landmarks Into Every Panel",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -252,7 +237,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 17,
    "title": "Story mfg. and ASICS Send the GEL-TRANSCEND FJ Rambling in Hiking-Blanket Check",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -266,7 +251,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 18,
    "title": "Roll Around at the Speed of Sound With the 'Sonic the Hedgehog' x Heelys Collection",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -277,7 +262,7 @@
    "relatedBrands": []
   },
   {
-   "id": 20,
+   "id": 19,
    "title": "Travis Scott Reveals Limited-Edition Nike Air Force 1 Low \"GTA 6\"",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -290,7 +275,7 @@
    ]
   },
   {
-   "id": 21,
+   "id": 20,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -303,46 +288,7 @@
    ]
   },
   {
-   "id": 22,
-   "title": "New Balance’s Street-Ready Hiking Sneaker Looks Good in Stealth Mode",
-   "source": "Highsnobiety",
-   "date": "2026-11-06",
-   "content": "New Balance's TL900 hiking-style sneaker gets a classic black makeover, resulting in the stealthiest pair yet.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-tl900-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "The Seven Best adidas Sneaker Releases This Week",
-   "source": "Highsnobiety",
-   "date": "2026-11-06",
-   "content": "This week was so chock-full of adidas standouts, we picked... seven of them.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-sneaker-releases-november-week-1/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "adidas' Cutest Samba Mary Janes Are Also Quite Fancy",
-   "source": "Highsnobiety",
-   "date": "2026-11-06",
-   "content": "The adidas Samba Mary Jane sneaker gets its cutest makeover yet with bows, velvet, & pearls. It's only available at JD Sports, too.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-samba-jane-bow/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 25,
+   "id": 21,
    "title": "HOKA x Marni 再次攜手以三款搶眼配色重新演繹 Clifton 11",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -355,7 +301,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 22,
    "title": "SOREL 將 Maharishi 經典 Bonsai Tigerstripe 迷彩隱藏於 Daystorm Horizon ZIP GTX 靴款之中",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -366,7 +312,7 @@
    "relatedBrands": []
   },
   {
-   "id": 27,
+   "id": 23,
    "title": "Carhartt WIP x Nike Air Max Goadome Low 首波官方圖輯釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -379,7 +325,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 24,
    "title": "NikeSKIMS 釋出 Waffle Racer 聯乘系列，保留原版經典設計",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -392,7 +338,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 25,
    "title": "Tune Squad 再次集結：Space Jam x Crocs Classic Clog 聯乘鞋款正式發布",
    "source": "Hypebeast 中文",
    "date": "2026-11-05",
@@ -406,7 +352,7 @@
    ]
   },
   {
-   "id": 30,
+   "id": 26,
    "title": "HOKA x Marni Reunite to Rework the Clifton 11 in Three Bold Colorways",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -419,7 +365,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 27,
    "title": "The Carhartt WIP x Nike Air Max Goadome Low Gets Its First Official Look",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -433,7 +379,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 28,
    "title": "NikeSKIMS Is Dropping a Waffle Racer Collection, and It Keeps the Original Untouched",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -446,7 +392,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 29,
    "title": "Salomon and BEAMS Launch XT-QUEST BEAMS Collaboration Collection Celebrating 50th Anniversary",
    "source": "Hypebeast",
    "date": "2026-11-05",
@@ -459,7 +405,7 @@
    ]
   },
   {
-   "id": 34,
+   "id": 30,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -472,7 +418,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 31,
    "title": "The Classic Air Jordan 4 OG “Bred” is Coming Back",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -485,7 +431,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 32,
    "title": "Air Jordan 3 “Not Nice” November 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-11-02",
@@ -498,7 +444,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 33,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
@@ -511,7 +457,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 34,
    "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
@@ -524,7 +470,7 @@
    ]
   },
   {
-   "id": 39,
+   "id": 35,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -537,7 +483,7 @@
    ]
   },
   {
-   "id": 40,
+   "id": 36,
    "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -550,7 +496,7 @@
    ]
   },
   {
-   "id": 41,
+   "id": 37,
    "title": "The Air Jordan 12 “Fireside” Releases Today",
    "source": "Nice Kicks",
    "date": "2026-10-24",
