@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-10 02:04",
+ "updatedAt": "2026-11-10 13:27",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,6 +17,7 @@ window.SNEAKER_DATA = {
  "brands": [
   "ADIDAS",
   "ASICS",
+  "BALENCIAGA",
   "CONVERSE",
   "CROCS",
   "GUCCI",
@@ -31,6 +32,45 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "率先預覽首款《Tekken》x Nike .SWOOSH Air Max 1「King」",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-10",
+   "content": "名稱：《Tekken》 x Nike .SWOOSH Air Max 1型號：IW1290-001發售日期：2026 年假日季《Tekken》 與 Nike 再度聯手，是次以 Air Max 1 為藍本，而 Nike 旗下的 .SWOOSH 團隊更透過 Instagram 發布一段簡短預告片率先揭曉此企劃。片段主角正是 《Tekken》 中戴上美洲豹面具的摔角手 King，他在看似位於 Oregon 州 Beaverton 的 Nike 全球總部的戶外咖啡室悠閒地休息。King 坐在池畔的白色網面椅子上，身穿一套寶藍色度身訂製 Nike Tech Fleece 運動套裝，正面及兩側均飾有豹紋圖案拼布，呼應他在《Tekken 3》的經典造型。當 King 察覺到有鏡頭拍攝並轉身望向鏡頭時，畫面隨即切換至水面飄浮的樹葉，最後浮現 .SWOOSH 標誌與《Tekken》的版權字樣。雖然該鞋款僅短暫閃過，但明顯與 King 的服飾互相配襯。鞋款採用海軍藍色鞋面，搭配白底黑斑紋的擋泥板，呼應運動套裝的圖案，外側則飾有鮮紅色 Swoosh 標誌，形成強烈對比。下方為淺灰色中底，並搭載 Air Max 1 標誌性的可見式 Air 氣墊。 View this post on Instagram A post shared by .SWOOSH (@dotswoosh) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Ftekken-nike-swoosh-air-max-1-collaboration-first-look-teaser-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/tekken-nike-swoosh-air-max-1-collaboration-first-look-teaser",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "New Balance Dips the 1890 in Rich \"Mulled Wine\"",
+   "source": "Hypebeast",
+   "date": "2026-11-10",
+   "content": "Summary New Balance has revealed the 1890 runner in a dark burgundy Mulled Wine colorwayThe silhouette features breathable mesh synthetic overlays with silver piping and an ABZORB midsoleThe pair is scheduled to release in Holiday 2026 for $180 USD via New Balance and select retailers Name: New Balance 1890 \"Mulled Wine\"Colorway: Mulled Wine/Silver/Black/WhiteSKU: U18903SMMSRP: $180 USDRelease Date: Holiday 2026Where to Buy: New BalanceBoston athletic imprint New Balance has unveiled the new 1890 in “Mulled Wine,” delivering a rich seasonal treatment to the performance-lifestyle runner ahead of the winter season. The forthcoming sneaker arrives dressed in a saturated dark burgundy color scheme punctuated by metallic silver accents and sharp black overlays.Constructed with a breathable dark burgundy mesh base, the upper incorporates dynamic synthetic panels that curve across the side wall",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F08%2Fnew-balance-1890-mulled-wine-U18903SM-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/new-balance-1890-mulled-wine-u18903sm-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Nike Teases an Upcoming Air Max 1 ‘Tekken’ Collab",
+   "source": "Hypebeast",
+   "date": "2026-11-10",
+   "content": "Name: Tekken x Nike .SWOOSH Air Max 1SKU: IW1290-001Release Date: Holiday 2026Tekken and Nike are reuniting, this time on the Air Max 1, with Nike’s .SWOOSH division revealing the project through a short teaser on Instagram. The clip stars King, Tekken’s jaguar-masked luchador, relaxing at an outdoor café on what appears to be Nike’s world headquarters in Beaverton, Oregon.Seated among white mesh chairs beside a pond, he wears a custom Nike Tech Fleece tracksuit in bright royal blue with spotted animal-print panels down the front and sides, a nod to his outfit in Tekken 3. When King realizes he’s being filmed and turns toward the camera, the shot cuts to leaves floating on the water, followed by the .SWOOSH logo and Tekken copyright text.The sneakers appear only briefly, but they clearly match King’s outfit. The pair has a navy upper and a white-and-black spotted mudguard that echoes the",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F09%2Ftekken-nike-swoosh-air-max-1-collaboration-first-look-teaser-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/tekken-nike-swoosh-air-max-1-collaboration-first-look-teaser",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
    "title": "HAVEN x Converse 攜手重塑質感羊絨麂皮 Chuck 70",
    "source": "Hypebeast 中文",
    "date": "2026-11-09",
@@ -43,7 +83,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 5,
    "title": "HOKA Speed Loafer 推出最新「Carbon Grey/Washed Blue」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-09",
@@ -56,20 +96,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
-   "title": "New Balance Made in UK Allerdale Harris Tweed 推出防水設計",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-09",
-   "content": "鞋款名稱：New Balance Made in UK Allerdale Harris Tweed Luxe Leather配色：Raven with Chipmunk商品編號： UADWHTW建議零售價：249.99 美元發售日期：11 月 20 日發售地點：New BalanceNew Balance 為其 Made in UK Allerdale 帶來充滿季度色彩的特別版改款，並選用英國最知名的兩種物料打造。這款中性設計的「Raven with Chipmunk」將 Harris Tweed Hebrides 布料與柔軟的黑色摔紋皮革互相結合，表面看來滿載鄉村的裁縫美學，而鞋底更隱藏了出眾的性能技術。鞋面首要是關於物料的故事。New Balance 以皮革作為鞋款的結構骨幹，並為紡織裁片保留了 Harris Tweed，當中飾有黑、卡其與啡色的千鳥格紋。這三種色調讓圖案可以平靜地與深色皮革共存。品牌將千鳥格與蘇格蘭編織聯繫起來，並將這種圖案追溯至 1880 年代的蘇格蘭，當時千鳥格正是戶外服裝的主打元素。這款 Allerdale 跨越了純粹的美學，其重點在於防護氣候。鞋面經打蠟處理，為將羊毛布料與皮革結合的鞋款提供防水機能。傳統的繫帶開合系統上飾有從遠足汲取靈感的 D 型金屬扣，增添粗獷氣息，同時確保能隨意調整鬆緊度。鞋鞍位置以刺繡 Flying NB 標誌取代縫合的裁片，令設計與花呢布料保持一致。鞋底單元則採用更具現代感的手法。FuelCell 泡棉包裹在杯型外底中，因此鞋款保留了經典而紮實的輪廓，同時具備 New Balance 性能系列中為人熟悉的彈性與活力。Ortholite 緩震鞋墊增加緩衝性，橡膠外底則提供牽引力。設定你的提醒，並前往 Hypebeast Drops 率先了解接下來即將推出的單品。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2FFTNew-Balance-Made-in-UK-Allerdale-Harris-Tweed-Luxe-Leather-UADWHTW-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/new-balances-made-in-uk-allerdale-takes-harris-tweed-out-in-the-rain",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 4,
+   "id": 6,
    "title": "Nike 為 Air Force 1 Low Pony Hair 推出全新「Atomic Violet」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-09",
@@ -82,7 +109,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 7,
    "title": "HAVEN and Converse Rework the Chuck 70 in Textured Cashmere Suede",
    "source": "Hypebeast",
    "date": "2026-11-09",
@@ -95,7 +122,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 8,
    "title": "The HOKA Speed Loafer Receives a “Carbon Grey/Washed Blue” Colorway",
    "source": "Hypebeast",
    "date": "2026-11-09",
@@ -108,7 +135,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 9,
    "title": "BEAMS x Crocs Round Six: Reimagining the MA-1 and Sukajan",
    "source": "Hypebeast",
    "date": "2026-11-09",
@@ -122,7 +149,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 10,
    "title": "New Balance’s Made in UK Allerdale Takes Harris Tweed Out in the Rain",
    "source": "Hypebeast",
    "date": "2026-11-09",
@@ -136,7 +163,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 11,
    "title": "Vans and GUCCIMAZE Unveil Second Collaboration",
    "source": "Hypebeast",
    "date": "2026-11-09",
@@ -150,7 +177,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 12,
    "title": "Nike Drapes the Air Force 1 Low Pony Hair in \"Atomic Violet\"",
    "source": "Hypebeast",
    "date": "2026-11-09",
@@ -163,7 +190,87 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 13,
+   "title": "Vans' Slip-on Is Even Cooler as a Puffer Snow Boot",
+   "source": "Highsnobiety",
+   "date": "2026-11-09",
+   "content": "Vans releases a Mid-Slip Puff shoe, a padded winter model based on the classic Slip-On skate shoe.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-mid-slip-puff-shoe/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "adidas’ Cute “UGG” Boots Were Skate Shoes in Their Past Life",
+   "source": "Highsnobiety",
+   "date": "2026-11-09",
+   "content": "adidas releases new Campus 00s Winter boots, which have even more UGG flavor than the last. Here's everything on the cozy-cute drop.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-campus-00s-winter/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "UGG"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Nike’s Ruggedized Dad Shoe Is Quiet But Mighty",
+   "source": "Highsnobiety",
+   "date": "2026-11-09",
+   "content": "Nike's P-6000 sneaker gets another rugged Cordura treatment, this time landing in a dark \"Anthracite\" colorway.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-p-6000-cordura-anthracite/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Nike's Stacked Air Max Is a Red Velvet Cake in Sneaker Form",
+   "source": "Highsnobiety",
+   "date": "2026-11-09",
+   "content": "Nike's Air Max Muse \"Mystic Dates\" sneaker marries cozy textures with a rich burgundy color scheme for a delicious fall release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-muse-mystic-dates/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "'Space Jam' Magic Made This Dreamy Jordan 1 Possible",
+   "source": "Highsnobiety",
+   "date": "2026-11-09",
+   "content": "The Air Jordan 1 Low \"Magic Ball\" sneaker brings a colorful iridescent design & glowy soles to the \"Space Jam\" 30th-anniversary collection.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-1-low-space-jam-magic-ball/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Balenciaga Let Damien Hirst Turn a Le City Bag Into Le Footwear",
+   "source": "Highsnobiety",
+   "date": "2026-11-09",
+   "content": "The Balenciaga Le City just turned 25, and to honor the silhouette’s fully-formed frontal lobe, the French brand tapped Damien Hirst to design some irreverent icons.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/balenciaga-damien-hirst-le-city-new-collab/",
+   "lang": "en",
+   "relatedBrands": [
+    "BALENCIAGA"
+   ]
+  },
+  {
+   "id": 19,
    "title": "adidas' Latest Running Shoe Is Richer Than Your Dessert Menu",
    "source": "Highsnobiety",
    "date": "2026-11-09",
@@ -176,7 +283,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 20,
    "title": "This Elite Athlete Swears By adidas Sport Eyewear",
    "source": "Highsnobiety",
    "date": "2026-11-09",
@@ -189,74 +296,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
-   "title": "adidas' Smartly Dressed Sneaker Is for \"Spezial\" Occasions",
-   "source": "Highsnobiety",
-   "date": "2026-11-09",
-   "content": "adidas' FW26 Albrecht II SPZL is a dressy leather sneaker committed to casual flexing. Here's everything on the release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-albrecht-ll-spzl/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 14,
-   "title": "Vans’ Waterproof Skate Shoe Stays Fresh When Wet",
-   "source": "Highsnobiety",
-   "date": "2026-11-09",
-   "content": "Vans releases a clean light grey version of its Half Cab GORE-TEX sneaker, just in time for the cold weather.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-half-cab-gore-tex-light-grey/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 15,
-   "title": "This Beautifully Blacked-Out Air Jordan Packs a Luxe Sting",
-   "source": "Highsnobiety",
-   "date": "2026-11-09",
-   "content": "Nike's Air Jordan 17 Low \"Black Pack\" is collection's fourth luxurious all-black sneaker featuring stingray leather.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-17-low-black-pack/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 16,
-   "title": "Nike's Mid Jordans Are Even Better as Hare-y 'Space Jam' Sneakers",
-   "source": "Highsnobiety",
-   "date": "2026-11-09",
-   "content": "The Air Jordan 1 Mid \"Space Jam Hare\" is a clever Bugs Bunny-inspired sneaker featuring fuzzy grey textures & a Jumpman Hare motif.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-1-mid-space-jam-hare/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "Nike’s Creamy Air Max Is Full of Surprises",
-   "source": "Highsnobiety",
-   "date": "2026-11-09",
-   "content": "Nike's Air Max 90 \"Cream II\" sneaker marries a low-key color scheme with stylish twists. Spoiler: mini Swooshes ahead.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-90-cream/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 18,
+   "id": 21,
    "title": "MARK & LONA x ASICS 全新 Tassel Striders 鞋款正式發佈",
    "source": "Hypebeast 中文",
    "date": "2026-11-08",
@@ -269,7 +309,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 22,
    "title": "無覆面設計之 Nike Air Max 90 SP「Black Leather」確定 2026 年 11 月發售",
    "source": "Hypebeast 中文",
    "date": "2026-11-08",
@@ -282,7 +322,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 23,
    "title": "MARK & LONA x ASICS Black Out the Tassel Striders for FW26",
    "source": "Hypebeast",
    "date": "2026-11-08",
@@ -295,7 +335,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 24,
    "title": "The Overlay-Free Nike Air Max 90 SP “Black Leather” Receives a November 2026 Release Date",
    "source": "Hypebeast",
    "date": "2026-11-08",
@@ -308,7 +348,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 25,
    "title": "Bad Bunny x adidas Badbo 1.1 最新「Blanch Blue」配色官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-07",
@@ -321,7 +361,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 26,
    "title": "Official Images Surface for the Bad Bunny x adidas Badbo 1.1 \"Blanch Blue\"",
    "source": "Hypebeast",
    "date": "2026-11-07",
@@ -334,20 +374,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
-   "title": "Kith x New Balance 2011「Monuments」系列將紐約地標融入每一片裁片",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-06",
-   "content": "名稱：Kith x New Balance 2011配色：Maroon/Atomic Yellow, Amazon/Lilac, Princess Blue/SilverSKU：待定建議零售價：待定發售日期：11 月 9 日發售點：KithKith 與 New Balance 再次以 2011 鞋款推出「Monuments」系列，這三款配色各自向紐約市最具辨識度的地標致敬。該鞋型於今年初作為 Kith 15 週年紀念活動的一部分首次亮相，其名稱直接指向這家零售商開業的年份。這一次，由紐約市的天際線負責講述故事，而材質則擔綱重任。每款配色的底部架構均相同。Kith 從零開始打造 2011 的鞋面，採用分層、多片式的圖案設計，而非修改現有的 New Balance 鞋楦，然後將其置於最初為 New Balance 2002 開發的 ABZORB 中底單元之上。這種組合賦予了這雙鞋熟悉且具備緩震效果的腳感，同時其結構又是獨一無二的，讓每款「Monuments」配色都能自由發揮紋理與飾面的變化。「Maroon & Atomic Yellow」版本承載了最深厚的 Kith 血統，重溫了 2014 年在 Kith 發售的 Ronnie Fieg for New Balance 530。以打孔牛巴革為基礎，覆蓋上打孔牛巴革與皮革飾片，並在鞋面與鞋領處飾以菱格絎縫。鞋跟處佈滿滿版凹印的 2011 圖案，兩側點綴對比鮮明的 N-lock 標誌，銀絲點綴的鞋帶增添微妙的光澤，鞋舌與鞋跟穩定器上亦有額外的品牌標識。「Amazon & Lilac」版本則採用更大膽的色塊設計，在絨面革底層之上覆蓋打孔絨面革飾片。內外側牆的 N 字標誌具備反光效果，能在夜間折射光線，而鞋舌與鞋跟處印有 New Balance 和 Kith 的雙重品牌標識，外側腳踝處則點綴 2011 字樣。作為系列的最後一員，「Princess Blue & Silver」版本改用透氣網眼底座，搭配鮮豔的絨面革飾片。鞋眼、N 字標誌與鞋跟品牌標識處的橙色點綴打破了冷色調，並配有聯名鞋舌與外側鞋跟的 2011 細節。三款球鞋均採用 ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2FftKith-New-Balance-2011-Monuments-Collection-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/kith-new-balance-2011-monuments-collection-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 25,
+   "id": 27,
    "title": "Story mfg. 與 ASICS 聯手推出 GEL-TRANSCEND FJ 全新鞋款，注入經典行山毛毯格紋",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -360,7 +387,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 28,
    "title": "《Sonic the Hedgehog》x Heelys 聯乘系列正式發布",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -371,7 +398,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 27,
+   "id": 29,
    "title": "Travis Scott 曝光限量版 Nike Air Force 1 Low「GTA 6」",
    "source": "Hypebeast 中文",
    "date": "2026-11-06",
@@ -384,7 +411,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 30,
    "title": "The Kith x New Balance 2011 “Monuments” Collection Builds New York Landmarks Into Every Panel",
    "source": "Hypebeast",
    "date": "2026-11-06",
@@ -395,31 +422,6 @@ window.SNEAKER_DATA = {
    "relatedBrands": [
     "NEW BALANCE"
    ]
-  },
-  {
-   "id": 29,
-   "title": "Story mfg. and ASICS Send the GEL-TRANSCEND FJ Rambling in Hiking-Blanket Check",
-   "source": "Hypebeast",
-   "date": "2026-11-06",
-   "content": "Name: Story mfg. x ASICS GEL-TRANSCEND FJColorway: Dark Brown, BlackSKU: 1203B194-200, 1203B194-001MSRP: $180 USDRelease Date: November 11 (Story mfg.), November 20 (ASICS)Where to Buy: Story mfg., ASICSStory mfg. and ASICS are back together with the GEL-TRANSCEND FJ, a collaborative sneaker built around the idea of rambling. The UK craft label and the Japanese sportswear giant read the word three ways: wandering with no set endpoint, talking past the point of necessity, and growing somewhere you didn’t plan to. That spirit of curiosity-led movement shapes everything here, from the archival hiking base to a campaign cast of makers and movers photographed on their own turf.The foundation is pure archive. The GEL-TRANSCEND FJ traces back to ASICS’ 1990s catalog of hiking and walking footwear, and the collaborators lean into that outdoor DNA rather than smoothing it over. Rugged synthetic l",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F06%2FStory-mfg-ASICS-GEL-TRANSCEND-FJ-1203B194-200-1203B194-001-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/story-mfg-asics-gel-transcend-fj-1203b194-200-1203b194-001-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS",
-    "UGG"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Roll Around at the Speed of Sound With the 'Sonic the Hedgehog' x Heelys Collection",
-   "source": "Hypebeast",
-   "date": "2026-11-06",
-   "content": "Summary Heelys has partnered with SEGA to debut the Sonic the Hedgehog Gio footwear collectionThe limited-edition release includes character-themed colorways honoring Sonic and Amy Rose with removable heel wheelsBoth models are available now for $70 USD via Heelys and select global retailers Wheeled footwear pioneer Heelys has officially teamed up with SEGA to release the Sonic the Hedgehog x Heelys Gio Collection, transforming the classic rolling silhouette into a high-speed tribute to the gaming icon. Unveiled in Carrollton, Texas, the limited-edition collaboration merges retro gaming nostalgia with skate functionality across two character-inspired models.The capsule adapts the fan-favorite Heelys Gio footwear silhouette with detailed aesthetic cues celebrating the franchise's Green Hill Zone heritage. The Sonic Gio arrives dressed in the hedgehog’s signature vibrant blue shade, highli",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F05%2Fsega-sonic-the-hedgehog-heelys-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/sega-sonic-the-hedgehog-heelys-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": []
   },
   {
    "id": 31,
@@ -449,6 +451,17 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 33,
+   "title": "SOREL 將 Maharishi 經典 Bonsai Tigerstripe 迷彩隱藏於 Daystorm Horizon ZIP GTX 靴款之中",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-05",
+   "content": "名稱：SOREL x Maharishi Daystorm Horizon ZIP GTX® 靴款配色：待定SKU：待定建議零售價：$350 美元發售日期：11 月 5 日入手渠道：SORELSOREL 與 Maharishi 攜手合作推出 Daystorm Horizon ZIP GTX，將 Maharishi 標誌性的迷彩美學注入 SOREL 的全天候靴款之中。鞋底保留了定義該型號的技術骨幹：GORE-TEX 防水結構、耐磨帆布，以及前方帶有五條凹凸坑紋的 SOREL 雕塑感橡膠鞋頭。在此基礎上，Maharishi 運用其「和平主義軍事設計」（Pacifist Military Design）理念，汲取品牌三十年來對迷彩、軍用裝備及實用服裝的研究精華。鞋面以橄欖綠色帆布配搭黑色的鴨嘴靴（duck boot）風格橡膠下半部，並搭載坑紋 Vibram 大底，確保在潮濕和崎嶇地面上提供卓越抓地力。中央拉鏈設計令鞋履更易於穿脫。拉鏈上方設有可拆卸的橄欖綠色皮革護罩，外圍環繞著軍事風格的鞋帶系統，將粗壯的橄欖綠色繩索穿過金屬鞋帶孔固定。鞋舌與內側鞋領飾有 Maharishi 的 DPM: Bonsai Tigerstripe 圖案，這款設計改良自越戰時期的經典虎紋迷彩，以棕褐、啡、黑三色呈現。該圖案隱藏於橄欖綠色帆布之下，拉開拉鏈後方可看見。品牌標誌設計低調，大多採用凹印技術。鞋跟處的一塊墓碑狀橄欖綠色皮革貼片印有 Maharishi 的徽標與字樣。拉鏈護罩旁設有一條纖細的「MAHARISHI」標籤，而 SOREL 的名字則壓印於細小的 GORE-TEX 標籤旁的黑色橡膠鞋踭穩定器上。整雙鞋唯一鮮明的色彩來自鞋側及大底上的黃色 Vibram 標誌，為綠黑主色調增添了一抹點綴。敬請設定提醒，並在 Hypebeast Drops 搶先了解最新發售資訊。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fsorel-maharishi-daystorm-horizon-zip-gtx-boot-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/sorel-maharishi-daystorm-horizon-zip-gtx-boot-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 34,
    "title": "Nike Air Foamposite One “Mummy” December 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -461,7 +474,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 35,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -471,19 +484,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "NIKE"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "The Classic Air Jordan 4 OG “Bred” is Coming Back",
-   "source": "Nice Kicks",
-   "date": "2026-11-03",
-   "content": "Interested readers can expect the Air Jordan 4 OG “Bred” to release on November 27, 2026, via SNKRS and select retailers for $230. Check… The post The Classic Air Jordan 4 OG “Bred” is Coming Back appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/02/jd_809078_b-1-scaled-e1787276213984.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-4-og-bred-2026-ix8180-001-drop/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
    ]
   },
   {
@@ -549,6 +549,19 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 41,
+   "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
+   "source": "Nice Kicks",
+   "date": "2026-10-23",
+   "content": "The Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat” is releasing on October 1, 2026, via Nike.com and select retailers for $180. Check out the photos below and… The post Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat” appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/io1875-700-1-1-e1791406526382.jpg",
+   "link": "https://www.nicekicks.com/nike-air-force-1-mid-se-gore-tex-vibram-wheat/",
+   "lang": "en",
+   "relatedBrands": [
     "NIKE"
    ]
   }
