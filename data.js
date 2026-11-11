@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-10 23:58",
+ "updatedAt": "2026-11-11 11:58",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,9 +17,7 @@ window.SNEAKER_DATA = {
  "brands": [
   "ADIDAS",
   "ASICS",
-  "BALENCIAGA",
   "CONVERSE",
-  "HOKA",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
@@ -32,6 +30,70 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "率先近賞 Nike CPFM Flea 1「Cave Purple」",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-11",
+   "content": "摘要 繼 LeBron James 率先上腳後，即將登場的 CPFM x Nike Flea 1「Cave Purple」配色迎來更清晰的近賞特寫鞋款融入紫色麂皮面料、幾何構圖覆層、做舊泥污風格的厚實中底，以及後跟的陰陽圖案刺繡這雙聯乘鞋款預計於 2026 年 Holiday 季度透過 CPFM 抽籤發售，售價為 $180 美元，屆時將與「Barley」配色一同登場 名稱：Nike CPFM Flea 1「Cave Purple」配色：Cave Purple/Dark Raisin-Purple Dynasty型號：IU5238-500建議零售價：$180 美元發售日期：2026 年冬季購買點：NikeCactus Plant Flea Market 與 Nike 聯乘系列即將迎來全新鞋款 CPFM x Nike Flea 1「Cave Purple」，更多近賞圖片現已曝光。繼 LeBron James 率先上腳後，詳細圖片揭示了這雙鞋非傳統的層疊結構，據報其設計元素借鑑了 Dunk 和 Air Force 1。根據曝光照片，該鞋款採用濃郁的紫色麂皮鞋面，兩側飾有幾何紋理覆蓋層。搶眼的設計配有巨大的填充鞋舌、厚實的鞋領以及粗糙、帶有泥土紋理的深紫色中底。最後，低調的 CPFM 標誌點綴於鞋身，後跟則繡有黑白陰陽圖案，令整體美感更顯完整。傳聞 CPFM x Nike Flea 1「Cave Purple」將於 2026 年冬季發售。 View this post on InstagramA post shared by Philadelphia 76ers (@sixers) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-cpfm-flea-1-cave-purple-iu5238-500-closer-look-lebron-james-first-spotted-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/nike-cpfm-flea-1-cave-purple-iu5238-500-closer-look-lebron-james-first-spotted-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "消息指南 Nike Air More Uptempo「Animal」將於 2027 年夏季復刻回歸",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-11",
+   "content": "摘要 據傳 Nike 將於 2027 年夏季復刻推出 Air More Uptempo「Animal/White/Black」鞋款採用白色皮革鞋面，並在「AIR」字樣點綴豹紋與蛇紋圖案早期消息指出，此復刻版本的可視化 Air 氣墊內部注入紅色細節飾點 名稱： Nike Air More Uptempo「Animal」配色： Animal/White/Black款式代碼： DZ4838-100建議售價： $135 美元發售日期： 2026 年 11 月 16 日購買地點： Nike有傳 Nike 正計劃復刻推出 Air More Uptempo「Animal」，早期消息指預計將於 2027 年夏季重新發售。這款於 2022 年 11 月首度面世的 1996 年經典籃球鞋，在 Wilson Smith 標誌性的塗鴉字體輪廓中融入了別具一格的野生動物紋理，演繹出獨特的異國風情。根據球鞋業界內部人士透露的發售消息，這款即將推出的復刻版預計會保留其原有的設計規格。鞋身採用俐落的白色皮革鞋面，搭配相襯的白色中底及外底配置。這款鞋的焦點依然是其標誌性的超大「AIR」品牌字樣，字母面板上飾有形成對比的豹紋與蛇紋紋理。下方可見的全掌 Air-sole 緩震氣墊，其視窗內點綴著鮮明的紅色細節。Nike Air More Uptempo「Animal」據悉計劃於 2027 年夏季重新發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-air-more-uptempo-animal-DZ4838-100-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/nike-air-more-uptempo-animal-dz4838-100-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Closer Look at the Nike CPFM Flea 1 \"Cave Purple\"",
+   "source": "Hypebeast",
+   "date": "2026-11-11",
+   "content": "Summary A closer look has surfaced at the upcoming CPFM x Nike Flea 1 in Cave Purple after LeBron James was first spotted wearing the sneakerThe silhouette incorporates purple suede panels geometric overlays a dirt-styled thick midsole and yin-yang heel embroideryThe collaborative shoe is expected to drop in Holiday 2026 via CPFM raffle for 180 USD alongside a Barley colorway Name: Nike CPFM Flea 1 “Cave Purple”Colorway: Cave Purple/Dark Raisin-Purple DynastySKU: IU5238-500MSRP: $180 USDRelease Date: Holiday 2026Where to Buy: NikeA closer look has surfaced at the upcoming Cactus Plant Flea Market and Nike collaborative silhouette, highlighting the CPFM x Nike Flea 1 \"Cave Purple.\" After LeBron James was the first to be spotted wearing the pair on-foot, detailed imagery now reveals the shoe's unconventional layered construction that reportedly borrows design elements from both the Dunk an",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F10%2Fnike-cpfm-flea-1-cave-purple-iu5238-500-closer-look-lebron-james-first-spotted-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/nike-cpfm-flea-1-cave-purple-iu5238-500-closer-look-lebron-james-first-spotted-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Nike Air More Uptempo \"Animal\" Reportedly Re-Releasing Summer 2027",
+   "source": "Hypebeast",
+   "date": "2026-11-11",
+   "content": "Summary Nike is rumored to be re-releasing the Air More Uptempo Animal/White/Black in Summer 2027The silhouette features a white leather upper accented by leopard and snakeskin prints on the AIR letteringEarly reports indicate the retro features red accents inside the visible air units Name: Nike Air More Uptempo \"Animal\"Colorway: Animal/White/BlackSKU: DZ4838-100MSRP: $135 USDRelease Date: November 16, 2026Where to Buy: NikeNike is rumored to be planning a retro return for the Air More Uptempo “Animal,” with early reports pointing toward a scheduled re-release in Summer 2027. Originally released in November 2022, the exotic interpretation of the heritage 1996 basketball shoe incorporates distinct safari-inspired textures across Wilson Smith's iconic graffiti-lettered silhouette.According to release reports from sneaker insiders, the upcoming retro is expected to retain its original desi",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F09%2Fnike-air-more-uptempo-animal-DZ4838-100-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/nike-air-more-uptempo-animal-dz4838-100-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Why All Your Favorite Sneakers Have Been Derby-fied",
+   "source": "Highsnobiety",
+   "date": "2026-11-11",
+   "content": "In November 10's Shopper newsletter, editor Max Migowski teaches a lesson in derbies.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/the-derby-fication-of-footwear/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 6,
    "title": "Tyler, The Creator 發布全新 Converse Bronco Boot Low 及 1908 系列",
    "source": "Hypebeast 中文",
    "date": "2026-11-10",
@@ -44,7 +106,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 7,
    "title": "UGG 與 Aimé Leon Dore 官方宣布首度聯乘推出 UGG ALD Slipper",
    "source": "Hypebeast 中文",
    "date": "2026-11-10",
@@ -57,7 +119,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 8,
    "title": "Supreme 與 Timberland 再次聯手推出 Fall 2026 Bandana Field Boot 靴款",
    "source": "Hypebeast 中文",
    "date": "2026-11-10",
@@ -70,7 +132,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 9,
    "title": "JJJJound 將 Danner Mountain Light 靴款化作街頭必備單品",
    "source": "Hypebeast 中文",
    "date": "2026-11-10",
@@ -81,7 +143,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 5,
+   "id": 10,
    "title": "Converse 為 First String Jack Purcell 推出「Bleached Mauve」與「Brown」磨砂革版本",
    "source": "Hypebeast 中文",
    "date": "2026-11-10",
@@ -95,7 +157,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 11,
    "title": "University of Oregon 旗下 Ducks of a Feather 推出兩款全新 Nike SB Dunk Low",
    "source": "Hypebeast 中文",
    "date": "2026-11-10",
@@ -108,7 +170,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 12,
    "title": "Salomon 舉辦香港 Gravel Running「盲盒 City Run」重塑路跑體驗",
    "source": "Hypebeast 中文",
    "date": "2026-11-10",
@@ -121,7 +183,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 13,
    "title": "Union x Nike Dunk Low 最新「Hide」配色官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-10",
@@ -134,7 +196,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 14,
    "title": "率先預覽首款《Tekken》x Nike .SWOOSH Air Max 1「King」",
    "source": "Hypebeast 中文",
    "date": "2026-11-10",
@@ -147,7 +209,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 15,
    "title": "Tyler, The Creator Introduces the Bronco Boot Low, His Converse Workwear Boot Gone Low-Top",
    "source": "Hypebeast",
    "date": "2026-11-10",
@@ -161,7 +223,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 16,
    "title": "UGG and Aimé Leon Dore Announce Debut Collaboration With the UGG ALD Slipper",
    "source": "Hypebeast",
    "date": "2026-11-10",
@@ -174,7 +236,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 17,
    "title": "Supreme and Timberland Reunite on the Bandana Field Boot for Fall 2026",
    "source": "Hypebeast",
    "date": "2026-11-10",
@@ -188,7 +250,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 18,
    "title": "Converse Dresses the First String Jack Purcell in “Bleached Mauve” and “Brown” Nubuck",
    "source": "Hypebeast",
    "date": "2026-11-10",
@@ -202,7 +264,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 19,
    "title": "Kith and New Balance Celebrate New York With the 2011 \"Monuments Collection\"",
    "source": "Hypebeast",
    "date": "2026-11-10",
@@ -215,7 +277,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 20,
    "title": "ASICS WORKING x FreshService Reimagines the WINJOB CP229 BOA Working Shoe in All-Black",
    "source": "Hypebeast",
    "date": "2026-11-10",
@@ -228,7 +290,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 21,
    "title": "University of Oregon's Ducks of a Feather Unveils Two Nike SB Dunk Lows",
    "source": "Hypebeast",
    "date": "2026-11-10",
@@ -241,7 +303,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 22,
    "title": "Official Look at the Union x Nike Dunk Low \"Hide\"",
    "source": "Hypebeast",
    "date": "2026-11-10",
@@ -254,7 +316,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 23,
    "title": "New Balance Dips the 1890 in Rich \"Mulled Wine\"",
    "source": "Hypebeast",
    "date": "2026-11-10",
@@ -267,20 +329,98 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
-   "title": "Nike Teases an Upcoming Air Max 1 ‘Tekken’ Collab",
-   "source": "Hypebeast",
+   "id": 24,
+   "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
+   "source": "Nice Kicks",
    "date": "2026-11-10",
-   "content": "Name: Tekken x Nike .SWOOSH Air Max 1SKU: IW1290-001Release Date: Holiday 2026Tekken and Nike are reuniting, this time on the Air Max 1, with Nike’s .SWOOSH division revealing the project through a short teaser on Instagram. The clip stars King, Tekken’s jaguar-masked luchador, relaxing at an outdoor café on what appears to be Nike’s world headquarters in Beaverton, Oregon.Seated among white mesh chairs beside a pond, he wears a custom Nike Tech Fleece tracksuit in bright royal blue with spotted animal-print panels down the front and sides, a nod to his outfit in Tekken 3. When King realizes he’s being filmed and turns toward the camera, the shot cuts to leaves floating on the water, followed by the .SWOOSH logo and Tekken copyright text.The sneakers appear only briefly, but they clearly match King’s outfit. The pair has a navy upper and a white-and-black spotted mudguard that echoes the",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F09%2Ftekken-nike-swoosh-air-max-1-collaboration-first-look-teaser-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/tekken-nike-swoosh-air-max-1-collaboration-first-look-teaser",
+   "content": "As the days get shorter and temperatures begin to dip, fall brings a fresh opportunity to rethink everyday style. Lightweight layers give way to… The post Fall Style Starts With adidas and the Essentials for Cooler Days appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/11/imgi_41_xcat_fw26_holiday_oct_htt_orig_tcc_d_e2806cd349.jpeg",
+   "link": "https://www.nicekicks.com/fall-style-starts-with-adidas/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Don’t Call Ever Lola Bunny's Clean Air Jordan “Doll”",
+   "source": "Highsnobiety",
+   "date": "2026-11-10",
+   "content": "Lola Bunny gets her own clean pink Air Jordan 3 Retro sneaker for 30th anniversary of \"Space Jam.\"",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-3-space-jam-lola-bunny/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Vans’ Peachy Sneaker Is a Winterized Stomper With Summer Steez",
+   "source": "Highsnobiety",
+   "date": "2026-11-10",
+   "content": "Vans drops a Half Cab GORE-TEX sneaker in pink suede, bringing pretty summer vibes to the winterized model.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-half-cab-gore-tex-warm-blush/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 27,
+   "title": "This Brown Suede adidas Gazelle Is Flat-Out Perfect",
+   "source": "Highsnobiety",
+   "date": "2026-11-10",
+   "content": "ÉDIFICE & IÉNA drop a collaborative adidas Gazelle Lo Pro sneaker in luxe brown suede. Here's everything on the stylish release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/edifice-iena-adidas-gazelle-lo-pro/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 28,
+   "title": "Nike's Extra-Clean Air Max Soccer Shoe Is the Best of Both Worlds",
+   "source": "Highsnobiety",
+   "date": "2026-11-10",
+   "content": "Nike releases an Air Max Joga Bonito sneaker in \"Black/Medium Fuchsia.\" It's yet another clean iteration of the hybrid model.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-joga-bonito-black-medium-fuchsia/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
    ]
   },
   {
-   "id": 20,
+   "id": 29,
+   "title": "Santa Claus’ Air Jordan Sneakers Are Almost Too Nice",
+   "source": "Highsnobiety",
+   "date": "2026-11-10",
+   "content": "The Air Jordan 3 \"Santa\" sneaker lands with leather uppers & black fur accents, resulting in a clean flex for Mr. Claus.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-3-santa/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 30,
+   "title": "Nike's Techy Retro Runner Has No Time for Winter Blues",
+   "source": "Highsnobiety",
+   "date": "2026-11-10",
+   "content": "Nike's P-6000 CORDURA gives the retro runner a tougher edge, with hard-wearing fabric and a blue finish ready for winter.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-p-6000-cordura-thunder-blue-/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 31,
    "title": "Buddy, Your Basics Are in Dire Need of Some Merino Wool",
    "source": "Highsnobiety",
    "date": "2026-11-10",
@@ -293,100 +433,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
-   "title": "Vans' Slip-on Is Even Cooler as a Puffer Snow Boot",
-   "source": "Highsnobiety",
-   "date": "2026-11-10",
-   "content": "Vans releases a Mid-Slip Puff shoe, a padded winter model based on the classic Slip-On skate shoe.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-mid-slip-puff-shoe/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "adidas’ Cute “UGG” Boots Were Skate Shoes in Their Past Life",
-   "source": "Highsnobiety",
-   "date": "2026-11-10",
-   "content": "adidas releases new Campus 00s Winter boots, which have even more UGG flavor than the last. Here's everything on the cozy-cute drop.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-campus-00s-winter/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "UGG"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "Nike’s Ruggedized Dad Shoe Is Quiet But Mighty",
-   "source": "Highsnobiety",
-   "date": "2026-11-10",
-   "content": "Nike's P-6000 sneaker gets another rugged Cordura treatment, this time landing in a dark \"Anthracite\" colorway.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-p-6000-cordura-anthracite/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "Nike's Stacked Air Max Is a Red Velvet Cake in Sneaker Form",
-   "source": "Highsnobiety",
-   "date": "2026-11-10",
-   "content": "Nike's Air Max Muse \"Mystic Dates\" sneaker marries cozy textures with a rich burgundy color scheme for a delicious fall release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-muse-mystic-dates/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "'Space Jam' Magic Made This Dreamy Jordan 1 Possible",
-   "source": "Highsnobiety",
-   "date": "2026-11-10",
-   "content": "The Air Jordan 1 Low \"Magic Ball\" sneaker brings a colorful iridescent design & glowy soles to the \"Space Jam\" 30th-anniversary collection.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-1-low-space-jam-magic-ball/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Balenciaga Let Damien Hirst Turn a Le City Bag Into Le Footwear",
-   "source": "Highsnobiety",
-   "date": "2026-11-10",
-   "content": "The Balenciaga Le City just turned 25, and to honor the silhouette’s fully-formed frontal lobe, the French brand tapped Damien Hirst to design some irreverent icons.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/balenciaga-damien-hirst-le-city-new-collab/",
-   "lang": "en",
-   "relatedBrands": [
-    "BALENCIAGA"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "adidas' Latest Running Shoe Is Richer Than Your Dessert Menu",
-   "source": "Highsnobiety",
-   "date": "2026-11-10",
-   "content": "The adidas Terra Mono Lightstrike brings a sculptural, futuristic shape to the running shoe, finished in a rich brown that looks like melted chocolate.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-terra-mono-lightstrike/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 28,
+   "id": 32,
    "title": "HAVEN x Converse 攜手重塑質感羊絨麂皮 Chuck 70",
    "source": "Hypebeast 中文",
    "date": "2026-11-09",
@@ -399,46 +446,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
-   "title": "HOKA Speed Loafer 推出最新「Carbon Grey/Washed Blue」配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-09",
-   "content": "鞋款：HOKA Speed Loafer配色：「Carbon Grey/Washed Blue」SKU：1162170-CBNG建議售價：$185 美元發售日期：現已發售購買點：HOKAHOKA 為其 Speed Loafer 系列增添全新「Carbon Grey/Washed Blue」配色，繼續以越野風格演繹這款傳統男裝鞋款。鞋面保留了經典的 Slip-on 輪廓，鞋頭採用光滑皮革，而側面及鞋跟則包覆著麂皮材質。最標誌性的細節在於 HOKA 獨特的「速度流蘇（speed tassel）」設計——有別於傳統的皮革流蘇，此鞋款改用穿過金屬抽繩扣的繩索式鞋帶，巧妙呼應了 HOKA 運動鞋的快速綁帶系統。這款被譽為完全建立在品牌自身設計 DNA 上的跨界鞋款，搭載了 HOKA 知名越野跑鞋 Speedgoat 5 的中底結構。這堅固的基底配備了主打抓地力的 Vibram Megagrip 大底，確保在各種城市與自然地形上皆能提供可靠的穩定性與抓地力。低調卻獨特的品牌標誌將整體外觀完美結合，特別是鞋跟處飾有 HOKA 標誌性飛鳥 Logo 的皮革補丁，而平滑的皮革鞋墊則為內部帶來額外的頂級舒適感。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fhoka-speed-loafer-carbon-grey-washed-blue-1162170-cbng-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/hoka-speed-loafer-carbon-grey-washed-blue-1162170-cbng-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "HOKA"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Nike 為 Air Force 1 Low Pony Hair 推出全新「Atomic Violet」配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-09",
-   "content": "摘要 Nike 官方正式公開了 Air Force 1 Low Pony Hair 的「Atomic Violet」配色圖片這款低頂波鞋的鞋面至鞋底皆採用了「Atomic Violet」與「Hyper Purple」配色的超長毛絨材質該鞋款將於 11 月 20 日發售男裝尺碼，售價為 $140 美元，可透過 SNKRS 及指定零售商購入 名稱： Nike Air Force 1 Low Pony Hair「Atomic Violet」配色： Atomic Violet/White-Voltage PurpleSKU： IR1940-500建議售價： $140 美元發售日期： 2026 年 11 月 20 日發售點： Nike運動鞋巨頭 Nike 官方宣布推出 Air Force 1 Low Pony Hair「Atomic Violet」，為這雙經典籃球鞋帶來大膽且充滿觸感的轉變。繼早前的預告及曝光的橙色配色後，這款佈滿毛髮的低筒鞋款全面採用充滿活力的紫色調，突顯了這款標誌性休閒鞋款在物料運用上的破格嘗試。雖然在厚重的毛料之下，Air Force 1 Low 標誌性的鞋身輪廓依然忠於原版設計，但其結構卻與標準的平滑皮革截然不同。整雙鞋被特長的人造毛料包覆，與傳統皮革版本相比，外觀顯得更加粗獷且具立體感。此充滿活力的主題透過 Atomic Violet 與 Hyper Purple 的同色系搭配來呈現，完全覆蓋了具質感的鞋面、覆蓋層和橡膠鞋底。由於豐富的紫色調幾乎延伸至整雙運動鞋，各部分之間的對比度極低，使人們的焦點完全集中在其毛絨結構和獨特的表面處理上。Nike Air Force 1 Low Pony Hair「Atomic Violet」將於 2026 年 11 月 20 日透過 Nike SNKRS 及指定零售商發售，提供男裝尺寸，售價為 $140 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-air-force-1-low-atomic-violet-IR1940-500-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/nike-air-force-1-low-atomic-violet-ir1940-500-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "HAVEN and Converse Rework the Chuck 70 in Textured Cashmere Suede",
-   "source": "Hypebeast",
-   "date": "2026-11-09",
-   "content": "Summary HAVEN and Converse have officially unveiled a collaborative Chuck 70 inspired by tactile craftsmanshipThe silhouette features smooth cashmere suede contrasting hairy suede a leather toe cap and a lateral side zipperThe sneaker releases on November 12 via HAVEN before arriving at Converse channels on November 17 Canadian menswear retailer HAVEN has officially collaborated with Converse to introduce the collaborative Converse Chuck 70, combining functional utilitarian upgrades with a dedicated focus on artisanal craft. Framed through the organic woodworking practice of visual artist and carpenter Graham Landin, the collaborative footwear project updates the classic court silhouette through subtle technical intervention and tactile materiality.Preserving the recognizable proportions of the heritage model, the Chuck 70 features a tonal interplay that contrasts smooth cashmere suede a",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F09%2Fhaven-converse-chuck-70-reworked-textured-cashmere-suede-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/haven-converse-chuck-70-reworked-textured-cashmere-suede-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 32,
+   "id": 33,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -451,7 +459,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 34,
    "title": "Nike Air Foamposite One “Mummy” December 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -464,7 +472,20 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 35,
+   "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
+   "source": "Nice Kicks",
+   "date": "2026-11-04",
+   "content": "Milwaukee’s own Eric “Shake” James is once again teaming up with adidas for another collaboration that brings together storytelling, creativity, and community. Continuing their… The post Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/11/DSC08494-1-scaled-e1794351315291.jpg",
+   "link": "https://www.nicekicks.com/adidas-animal-kingdom-sneex-wild-rivals-pack/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 36,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -477,7 +498,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 37,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
@@ -490,7 +511,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 38,
    "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
@@ -503,7 +524,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 39,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -516,7 +537,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 40,
    "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
    "source": "Nice Kicks",
    "date": "2026-10-26",
@@ -526,33 +547,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "JORDAN"
-   ]
-  },
-  {
-   "id": 39,
-   "title": "The Air Jordan 12 “Fireside” Releases Today",
-   "source": "Nice Kicks",
-   "date": "2026-10-24",
-   "content": "The Air Jordan 12 “Fireside” is set to release on October 24, 2026, via Nike.com and select retailers for $215. Check out the photo… The post The Air Jordan 12 “Fireside” Releases Today appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/ct8013-105-5-1-e1791640160431.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat”",
-   "source": "Nice Kicks",
-   "date": "2026-10-23",
-   "content": "The Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat” is releasing on October 1, 2026, via Nike.com and select retailers for $180. Check out the photos below and… The post Nike Air Force 1 Mid SE GORE-TEX Vibram “Wheat” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/io1875-700-1-1-e1791406526382.jpg",
-   "link": "https://www.nicekicks.com/nike-air-force-1-mid-se-gore-tex-vibram-wheat/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
    ]
   }
  ]
