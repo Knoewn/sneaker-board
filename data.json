@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11 23:44",
+ "updatedAt": "2026-11-12 13:08",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -20,8 +20,7 @@
   "CONVERSE",
   "JORDAN",
   "NIKE",
-  "UGG",
-  "VANS"
+  "UGG"
  ],
  "releases": [],
  "news": [
@@ -310,95 +309,19 @@
   },
   {
    "id": 23,
-   "title": "Don’t Call Ever Lola Bunny's Clean Air Jordan “Doll”",
+   "title": "The Seasonal Style Guide to the Low-Key, Not Low-Effort Look",
    "source": "Highsnobiety",
    "date": "2026-11-11",
-   "content": "Lola Bunny gets her own clean pink Air Jordan 3 Retro sneaker for 30th anniversary of \"Space Jam.\"",
+   "content": "Whether you’re inside catching a Christmas movie or en route to family festivities (we know how the holiday hustle and bustle can get) UGG has the perfect footwear to take you through the season ahead, whatever the weather—or your winter plans—may bring.",
    "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-3-space-jam-lola-bunny/",
+   "link": "https://www.highsnobiety.com/p/gift-guide-season-style-with-ugg/",
    "lang": "en",
    "relatedBrands": [
-    "JORDAN"
+    "UGG"
    ]
   },
   {
    "id": 24,
-   "title": "Vans’ Peachy Sneaker Is a Winterized Stomper With Summer Steez",
-   "source": "Highsnobiety",
-   "date": "2026-11-11",
-   "content": "Vans drops a Half Cab GORE-TEX sneaker in pink suede, bringing pretty summer vibes to the winterized model.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-half-cab-gore-tex-warm-blush/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "This Brown Suede adidas Gazelle Is Flat-Out Perfect",
-   "source": "Highsnobiety",
-   "date": "2026-11-11",
-   "content": "ÉDIFICE & IÉNA drop a collaborative adidas Gazelle Lo Pro sneaker in luxe brown suede. Here's everything on the stylish release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/edifice-iena-adidas-gazelle-lo-pro/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Why All Your Favorite Sneakers Have Been Derby-fied",
-   "source": "Highsnobiety",
-   "date": "2026-11-11",
-   "content": "In November 10's Shopper newsletter, editor Max Migowski teaches a lesson in derbies.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/the-derby-fication-of-footwear/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 27,
-   "title": "Nike's Extra-Clean Air Max Soccer Shoe Is the Best of Both Worlds",
-   "source": "Highsnobiety",
-   "date": "2026-11-11",
-   "content": "Nike releases an Air Max Joga Bonito sneaker in \"Black/Medium Fuchsia.\" It's yet another clean iteration of the hybrid model.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-joga-bonito-black-medium-fuchsia/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "Santa Claus’ Air Jordan Sneakers Are Almost Too Nice",
-   "source": "Highsnobiety",
-   "date": "2026-11-11",
-   "content": "The Air Jordan 3 \"Santa\" sneaker lands with leather uppers & black fur accents, resulting in a clean flex for Mr. Claus.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-3-santa/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "Nike's Techy Retro Runner Has No Time for Winter Blues",
-   "source": "Highsnobiety",
-   "date": "2026-11-11",
-   "content": "Nike's P-6000 CORDURA gives the retro runner a tougher edge, with hard-wearing fabric and a blue finish ready for winter.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-p-6000-thunder-blue-cordura/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 30,
    "title": "Tyler, The Creator 發布全新 Converse Bronco Boot Low 及 1908 系列",
    "source": "Hypebeast 中文",
    "date": "2026-11-10",
@@ -411,7 +334,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 25,
    "title": "UGG 與 Aimé Leon Dore 官方宣布首度聯乘推出 UGG ALD Slipper",
    "source": "Hypebeast 中文",
    "date": "2026-11-10",
@@ -424,7 +347,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 26,
    "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
    "source": "Nice Kicks",
    "date": "2026-11-10",
@@ -437,7 +360,20 @@
    ]
   },
   {
-   "id": 33,
+   "id": 27,
+   "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
+   "source": "Nice Kicks",
+   "date": "2026-11-09",
+   "content": "Ducks of a Feather is bringing Oregon Ducks pride to the skate scene with two limited-edition Nike SB Dunk colorways created in partnership with… The post Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/11/DOAF-x-Nike-SB-Dunk-_-Flight-Club-x-GOAT-HERO-1-scaled.jpg",
+   "link": "https://www.nicekicks.com/ducks-of-a-feather-nike-sb-pack/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 28,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -450,7 +386,7 @@
    ]
   },
   {
-   "id": 34,
+   "id": 29,
    "title": "Tremaine Emory Brings a Piece of Canal Street to adidas Originals",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -463,7 +399,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 30,
    "title": "Nike Air Foamposite One “Mummy” December 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -476,7 +412,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 31,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
@@ -489,7 +425,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 32,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -502,7 +438,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 33,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
@@ -515,7 +451,7 @@
    ]
   },
   {
-   "id": 39,
+   "id": 34,
    "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
@@ -525,19 +461,6 @@
    "lang": "en",
    "relatedBrands": [
     "JORDAN"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-26",
-   "content": "The Supreme x Nike Air Force 1 Low “Snow Camo” puts a fresh spin on the iconic silhouette with a bold black, white, and… The post Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/imgi_38_866590109_18645556018024764_9165763201282690259_n.jpeg",
-   "link": "https://www.nicekicks.com/supreme-nike-air-force-1-low-urban-camo-cu9225-901/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
    ]
   }
  ]
