@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12 13:08",
+ "updatedAt": "2026-11-13 00:28",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -18,25 +18,212 @@
   "ADIDAS",
   "ASICS",
   "CONVERSE",
+  "CROCS",
   "JORDAN",
+  "NEW BALANCE",
   "NIKE",
-  "UGG"
+  "REEBOK",
+  "TIMBERLAND",
+  "UGG",
+  "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
-   "title": "thisisneverthat x Danner 聯乘 Cascade Range 低筒鞋款注入越野級防護",
+   "title": "The Whitaker Group 全新重塑 New Balance 950「Grey Croc」鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-12",
+   "content": "摘要 The Whitaker Group 與 New Balance 攜手發佈全新 New Balance 950「Grey Croc」這款靈感源自籃球鞋的鞋款採用亮面鱷魚紋漆皮、內嵌式 N 字標誌以及米白色中底此聯乘鞋款預計將於 2026 年 11 月透過 A Ma Maniére、APB 及 Social Status 發售，售價為 120 美元 鞋款名稱： The Whitaker Group x New Balance SMU 950「Grey Croc」配色： Grey Croc/WhiteSKU： U9502KV建議零售價： $120 美元發售日期： 2026 年 11 月發售地點： A Ma Maniére零售集團 The Whitaker Group 攜手 New Balance 推出 New Balance 950「Grey Croc」的首個聯乘版本。這款以籃球為靈感的鞋款在今年較早時候由 Cooper Flagg 率先著用奶油色版本亮相後，該集團如今透過獨特質感的材質處理，重新演繹這雙低筒設計。有別於傳統運動鞋的結構，「Grey Croc」版本鞋面滿佈充滿光澤的鱷魚紋壓花漆皮，並一直延伸至鞋頭與鞋跟。凹陷的「N」字標誌巧妙融入帶有紋理的側邊面板中，而鞋舌則採用素雅的灰色設計。為了與深色鞋面形成對比，奶油色鞋帶與中底的米白色調互相呼應，為這款源自球場的設計定調。作為該鞋款首度曝光的聯乘作品，此輪廓在籃球風格的基礎上展現出更高雅的美學。設計將光澤感十足的紋理皮革鞋身與米白色鞋底組件結合，呈現出百搭的生活風格，在經典運動服飾結構與精緻細節之間取得平衡。The Whitaker Group x New Balance 950「Grey Croc」預計將於 2026 年 11 月底前正式登場。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fthe-whitaker-group-new-balance-smu-950-grey-croc-U9502KV-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/the-whitaker-group-new-balance-smu-950-grey-croc-u9502kv-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "solebox 為經典 Timberland 6 吋靴款注入高級馬毛材質",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-12",
+   "content": "鞋名： solebox x Timberland Premium 6-Inch Boot配色： Brown貨號： 待定定價： 200 歐元（約 $221 美元）發售日期： 11 月 14 日發售渠道： soleboxsolebox 與 Timberland 迎來首度合作，為標誌性的 Timberland 6 吋靴款注入獨特風格。是次聯乘放棄重新設計外型，轉而採用大膽的物料升級，證明了某些經典不需重塑，只需嶄新視角。solebox x Timberland Premium 6-Inch Boot 保留了原版鞋款的所有經典元素，包括雙層大底設計、皮革襯墊鞋領及金屬配件，但將整個鞋面換上質感十足的高級啡色馬毛，為這款實用靴款帶來奢華格調。鞋身各處皆可見到聯乘標誌，鞋跟位置 Timberland 標誌性的樹木圖案下方印有 solebox 草寫商標。此外，靴款專屬吊牌及壓花皮革鞋墊上亦印有 solebox 標誌。solebox x Timberland Premium 6-Inch Boot 將於 11 月 14 日透過 solebox 官方網站及實體店舖限量發售。 View this post on Instagram A post shared by solebox (@solebox) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fsolebox-timeberland-6-inch-boot-brown-pony-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/solebox-timberland-6-inch-boot-brown-pony-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "TIMBERLAND"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Pokémon 與 Crocs 攜手推出 Pikachu、Gengar 及 Jigglypuff 30 週年聯乘鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-12",
+   "content": "摘要 Crocs 與 Pokémon 攜手打造 30 週年紀念聯乘系列，主打 Pikachu、Gengar 及 Jigglypuff鞋款設計直接對應每個角色的標誌性配色，涵蓋 Classic Clog 及 Classic Platform Clog此慶典系列預計於 11 月 17 日發售，售價介乎 ¥13,200 JPY 至 ¥13,750 JPY 之間 Crocs 宣布與 Pokémon 攜手合作，慶祝系列踏入 30 週年的重要里程碑，推出 Pokémon x Crocs Classic Clogs 聯乘系列。這個即將登場的三款鞋履系列以備受粉絲喜愛的 Pikachu、Gengar 及 Jigglypuff 為主題，將各個角色的經典美學轉化為適合日常穿著的懶人鞋款，其配色更與每個 Pokémon 完美呼應。作為系列的核心，Pikachu 與 Gengar 的專屬款式均以 Crocs 標誌性的 Classic Clog 為基礎。Pikachu 鞋款採用鮮黃色調，完美呼應這款電屬性 Pokémon；而 Gengar 版本則選用深紫色，展現幽靈屬性角色的神祕氣息。相反，Jigglypuff 則於增高的 Classic Platform Clog 上登場，換上柔和的粉紅色調，忠實還原這款氣球 Pokémon 的迷人色彩。這個紀念系列以日常舒適感與懷舊風格為設計主軸，將各個角色的獨特專屬色彩與 Crocs 標誌性的輕量泡沫材質及透氣鞋頭設計結合。每款鞋履均以高辨識度的設計向 Pokémon 系列 30 年來的輝煌歷史致敬。Pokémon 30 週年 x Crocs 聯乘系列預計將於 2026 年 11 月 17 日在官方網站正式發售，Pikachu 與 Gengar Classic Clogs 的售價為 ¥13,200 JPY，而 Jigglypuff Classic Platform Clog 則售 ¥13,750 JPY。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fpokemon-crocs-classic-clogs-30th-anniversary-pikachu-gengar-jigglypuff-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/pokemon-crocs-classic-clogs-30th-anniversary-pikachu-gengar-jigglypuff-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Drake 旗下 NOCTA x Nike Air Modmax 最新「Pink Spell」配色全新圖輯曝光",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-12",
+   "content": "摘要 Drake 即將推出的 NOCTA x Nike Air Modmax「Pink Spell」鞋款曝光了最新圖片該鞋款採用粉紅漸變鞋面，後跟搭配三個半透明琥珀色氣墊搭載 Nike 全新 Air Modmax 科技，此鞋款預計於 2026 年底發售，售價為 180 美元 鞋款名稱： NOCTA x Nike Air Modmax「Pink Spell」配色： Pink Spell/Volt/Amarillo/Cobalt TintSKU： IQ6711-600建議零售價： $180 美元發售日期： 2026 年冬季發售點： NikeNike 與 NOCTA 即將推出的 Nike Air Modmax「Pink Spell」全新圖輯曝光，讓大眾搶先預覽這位加拿大饒舌歌手 Drake 的最新聯乘波鞋。作為 NOCTA 系列的最新一員，此鞋款將 Nike 最新研發的 Air Modmax 科技引入至雙方持續合作的鞋履企劃之中。根據曝光的產品細節，這款鞋採用官方標示為 Pink Spell、Volt、Amarillo 與 Cobalt Tint 的配色組合。鞋面以充滿活力的粉紅色漸變效果作為整個設計的視覺焦點。鞋底後方位置則配備三個半透明的琥珀色氣墊單元，充分展現出鞋款前衛的底部結構與 Air Modmax 緩震系統。新作將極具表現力的漸變色塊與清晰可見的科技組件完美結合，進一步擴展了 Drake 與 Nike 攜手打造的 NOCTA 系列中，那些風格獨特且具前瞻性的鞋款陣容。Drake 主理的 NOCTA x Nike Air Modmax「Pink Spell」預計於 2026 年底發售，定價為 $180 美元。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fdrake-nocta-nike-air-modmax-pink-spell-iq6711-600-new-images-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/drake-nocta-nike-air-modmax-pink-spell-iq6711-600-new-images-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "A Guide to UGG’s Best Holiday Gifts for the Whole Family",
+   "source": "Hypebeast",
+   "date": "2026-11-12",
+   "content": "Sheepskin boots and slippers are popular holiday gifts for a reason. They arrive just as the weather turns, and few presents get worn as often or as eagerly once they’re unwrapped, whether that’s for a quick coffee run, a lazy morning at home or a full day out in the cold — delivering an everyday style that proves their value long past the holidays.The appeal of a pair of UGG goes beyond warmth. The brand’s Classic Boot began life on the beaches of Southern California, where it kept surfers warm after early-morning sessions, and it has since grown into a symbol of laid-back West Coast style. That heritage now runs through a lineup spanning knee-high statement boots, low-profile slip-ons and house slippers sturdy enough to step outside in.Signature silhouettes such as the Classic Short and Tasman II remain go-to choices, but this season’s range stretches much further, with fluffed-up text",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F03%2Fugg-fall-2026-gift-guide-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/ugg-holiday-2026-gift-guide",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Behind the Doors of Dolomite’s ICONICA Launch Event",
+   "source": "Hypebeast",
+   "date": "2026-11-12",
+   "content": "Dolomite, the heritage mountaineering brand, took over Antonia Milano last week with a special event celebrating the launch of its ICONICA footwear collection. Landing on the brand’s 130th anniversary, the technical range offers a refined expression of its DNA – from alpine landscapes to now contemporary settings across the globe. Comprising a low-cut model, high version and a women's silhouette, ICONICA models come wrapped in fine wax suede leather, crafted to adopt scratches over their lifetime of wear, while details like visible stitching, contrasting panels and metal hardware lean into its forward-thinking design approach. At the recent event, Hypebeast caught up with Dolomite’s head of creative and innovation, Enrico Pizzolato, to find out more about the collection. He shared, “For the 130th anniversary of the brand, we looked closely at our heritage. With mountain boots and technic",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F10%2Fdolomite-iconica-antonia-milan-launch-event-recap-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/dolomite-iconica-antonia-milan-launch-event-recap",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 7,
+   "title": "The Whitaker Group Reimagines the New Balance 950 in \"Grey Croc\"",
+   "source": "Hypebeast",
+   "date": "2026-11-12",
+   "content": "Summary The Whitaker Group and New Balance have unveiled the New Balance 950 in Grey CrocThe basketball-inspired shoe features glossy croc-embossed patent leather recessed N logos and an off-white midsoleThe collaborative silhouette is expected to release in November 2026 for 120 USD via A Ma Maniére APB and Social Status Name: The Whitaker Group x New Balance SMU 950 \"Grey Croc\"Colorway: Grey Croc/WhiteSKU: U9502KVMSRP: $120 USDRelease Date: November 2026Where to Buy: A Ma ManiéreRetail banner The Whitaker Group has teamed up with New Balance to deliver the first collaborative edition of the New Balance 950 \"Grey Croc.\" After the basketball-inspired silhouette initially debuted on Cooper Flagg in a cream colorway earlier this year, the collective reinterprets the low-top model with a distinctive, textural material treatment.Diverging from traditional athletic builds, the \"Grey Croc\" ite",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F11%2Fthe-whitaker-group-new-balance-smu-950-grey-croc-U9502KV-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/the-whitaker-group-new-balance-smu-950-grey-croc-u9502kv-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "solebox wraps the Iconic Timberland 6-Inch Boot in Premium Pony Hair",
+   "source": "Hypebeast",
+   "date": "2026-11-12",
+   "content": "Name: solebox x Timberland Premium 6-Inch BootColorway: BrownSKU: TBCMSRP: €200 (approx. $221 USD)Release Date: November 14Where to Buy: soleboxsolebox and Timberland are joining forces for the very first time to put a unique spin on the iconic Timberland 6-Inch Boot. Opting for a bold material overhaul instead of a redesign, this collaboration shows that some icons don’t need a rebuild, just a new perspective.The solebox x Timberland Premium 6-Inch Boot retains all the classic components of the original shoe, including its double-sole design, padded leather collar, and metal hardware, but replaces the entire upper with a premium and tactile brown pony hair, bringing a luxurious edge to the utilitarian boot.Co-branding can be found throughout the boot, with solebox’s script logo stamped directly beneath Timberland’s signature tree motif on the heel. Additional solebox logos can be found ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F12%2Fsolebox-timeberland-6-inch-boot-brown-pony-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/solebox-timberland-6-inch-boot-brown-pony-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "TIMBERLAND"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Pokémon and Crocs Celebrate 30th Anniversary With Pikachu, Gengar, and Jigglypuff",
+   "source": "Hypebeast",
+   "date": "2026-11-12",
+   "content": "Summary Crocs and Pokémon have teamed up for a 30th anniversary collection highlighting Pikachu Gengar and JigglypuffThe footwear styles directly correspond to the signature colors of each character across the Classic Clog and Classic Platform ClogThe celebratory collection is scheduled to release on November 17 priced between ¥13,200 JPY and ¥13,750 JPY Crocs has joined forces with Pokémon to celebrate the franchise's milestone 30th anniversary, introducing the collaborative Pokémon x Crocs Classic Clogs collection. The upcoming three-piece footwear capsule highlights fan-favorite characters Pikachu, Gengar, and Jigglypuff, translating each creature's iconic aesthetic into wearable slip-on silhouettes with colorways that directly correspond to each Pokémon.Anchoring the collection, both Pikachu and Gengar receive dedicated makeups built upon Crocs' signature Classic Clog. The Pikachu pa",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F11%2Fpokemon-crocs-classic-clogs-30th-anniversary-pikachu-gengar-jigglypuff-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/pokemon-crocs-classic-clogs-30th-anniversary-pikachu-gengar-jigglypuff-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "New Imagery Surfaces of Drake's NOCTA x Nike Air Modmax \"Pink Spell\"",
+   "source": "Hypebeast",
+   "date": "2026-11-12",
+   "content": "Summary New imagery has surfaced of Drake's upcoming NOCTA x Nike Air Modmax Pink Spell sneakerThe silhouette features a pink gradient upper paired with three translucent amber-colored pods at the heelEquipped with Nike's new Air Modmax technology the shoe is scheduled to release at the end of 2026 for 180 USD Name: NOCTA x Nike Air Modmax \"Pink Spell\"Colorway: Pink Spell/Volt/Amarillo/Cobalt TintSKU: IQ6711-600MSRP: $180 USDRelease Date: Holiday 2026Where to Buy: NikeNew imagery has surfaced of Nike and NOCTA's upcoming Nike Air Modmax \"Pink Spell,\" offering a fresh look at Canadian rapper Drake’s newest collaborative sneaker. Arriving as the latest addition to the ongoing NOCTA Collection, the silhouette introduces Nike's newly developed Air Modmax technology to the ongoing footwear partnership.According to the surfaced product details, the model is dressed in an official color palette",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F11%2Fdrake-nocta-nike-air-modmax-pink-spell-iq6711-600-new-images-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/drake-nocta-nike-air-modmax-pink-spell-iq6711-600-new-images-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Nathan Fielder’s Most Convincing Argument Might Be His New Balances",
+   "source": "Highsnobiety",
+   "date": "2026-11-12",
+   "content": "In You Can See Everything, Nathan Fielder and Elizabeth Holmes prove that New Balances are the concept of ”earnestness,“ sneaker-fied.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-nathan-fielder-992-new/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Reebok Recodes Allen Iverson’s Question Mid for a New Generation",
+   "source": "Highsnobiety",
+   "date": "2026-11-12",
+   "content": "Reebok updates Allen Iverson’s iconic Question Mid with modern cushioning, improved traction and two new Recoded colourways.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/reebok-recodes-allen-iversons-question-mid-for-a-new-generation/",
+   "lang": "en",
+   "relatedBrands": [
+    "REEBOK"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "The Best Basketball Shoes of the 2026-27 Season",
+   "source": "Highsnobiety",
+   "date": "2026-11-12",
+   "content": "We take a look at the best basketball shoes of the 2025-2026 season, featuring signature models and in-line styles from adidas, Nike, Converse, and more.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/best-basketball-shoes/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "CONVERSE",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "From Vans to FILA, the Seven Best Sneakers to Cop This Week",
+   "source": "Highsnobiety",
+   "date": "2026-11-12",
+   "content": "From a Scott-ish skate from Vans x Pringle, to a low-profile court classic by FILA x Highsnobiety — the cream of the sneaker crop awaits.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/sneaker-releases-2026-november-week-2/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "thisisneverthat 與 Danner 聯乘 Cascade Range 低筒鞋款注入越野級防護",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
-   "content": "名稱：thisisneverthat x Danner「Cascade Range」配色：有待確認SKU：有待確認建議零售價：有待確認發售日期：11 月 13 日發售點： thisisneverthatthisisneverthat 與 Danner 攜手合作推出 Cascade Range，這款低筒登山鞋汲取了品牌標誌性 Danner Light 靴款的設計語彙與穩固貼合感。經由這個駐紮 Seoul 品牌的重新演繹，此次聯乘捨棄了原版的極高筒設計，改為更輕盈、靈活的輪廓，不僅適合日常穿著，亦保留了適合越野的底部硬件。鞋面結合了兩種具備不同功能特性的材質。啡色麂皮為鞋身覆面帶來溫暖感與經典的戶外質感，而 CORDURA 1000D 尼龍面板則在最容易磨損的區域增加耐磨性。兩者共同賦予 Cascade Range 堅固耐用的雙色結構，在貼近地面的同時，亦直接致敬了 Danner Light 的設計。鞋款從內到外提供全天候防護。Danner 為其配備了品牌自家的防水透氣薄膜 DANNER DRY，旨在阻擋雨水與水窪，同時讓濕氣排出。底部搭載 Vibram 外底提供牽引力，為這款低筒鞋帶來可靠的抓地力，無論是在濕滑路面還是崎嶇地形都能輕鬆應對。聯乘細節保持專注與實用。鞋舌上的熱壓標籤標誌著雙方的合作，作為此企劃最鮮明的印記，同時不會令鞋面顯得凌亂。每對鞋亦附贈兩款呈現對比視覺效果的鞋帶，讓用家可根據不同造型風格，選擇偏向簡潔的城市風格或更具戶外氣息的配搭。敬請設定提醒，並密切留意 Hypebeast Drops 掌握最新發售情報。 在 Instagram 上查看此帖文Danner JP (@danner_jp) 分享的帖文 Click here to view full gallery at Hypebeast",
+   "content": "名稱： thisisneverthat x Danner「Cascade Range」配色： 待定SKU： 待定建議零售價： 待定發售日期： 11 月 13 日購買點： thisisneverthatthisisneverthat 與 Danner 攜手推出 Cascade Range 低筒登山鞋，其設計語言與穩固包覆感均借鑒了品牌標誌性的 Danner Light 靴款。經過此首爾品牌的重新演繹，是次聯乘將原版的高筒設計改為更輕巧靈活的輪廓，以迎合日常穿著需求，同時亦保留了適合越野的底部硬件配置。鞋面結合了兩種功用截然不同的材質：覆蓋層的啡色麂皮散發溫暖感與經典戶外質感，而 CORDURA 1000D 尼龍面料則在最易受損的區域提供耐磨保護。兩者共同為 Cascade Range 賦予堅固的雙色結構，直接呼應了 Danner Light，並同時具備更貼地靈活的優勢。防護功能從內到外均照顧周到。Danner 為鞋款配備了品牌專利的 DANNER DRY 防水透氣薄膜，旨在阻擋雨水與水窪，同時讓濕氣排出。底部採用 Vibram 外底提供強大抓地力，確保這款低筒鞋在濕滑路面與崎嶇地形上同樣表現出色。聯乘細節保持精簡與實用。鞋舌上的熱壓標籤標誌著雙方合作，成為整個企劃最鮮明的印記，同時保持鞋面簡潔。每對鞋均附贈兩款風格對比的鞋帶，讓穿著者可根據造型需求，隨意切換至俐落的城市風格或濃厚的戶外氣息。敬請設定提醒，並密切留意 Hypebeast Drops 掌握最新發售情報。 View this post on InstagramA post shared by Danner JP (@danner_jp) Click here to view full gallery at Hypebeast",
    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fthisisneverthat-Danner-Cascade-Range-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
    "link": "https://hypebeast.com/zh/2026/11/thisisneverthat-danner-cascade-range-release-info",
    "lang": "zh",
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 16,
    "title": "adidas Originals x Drama Call 聯乘 ClimaCool 1 GTX「Drama」鞋款發佈",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -50,7 +237,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 17,
    "title": "Jordan 4 Retro TD「Bred」將 MJ 1989 年經典戰靴由籃球場帶到草地",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -63,7 +250,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 18,
    "title": "NOCTA 釋出搭載「Mod Max」技術的全新 Nike 聯乘鞋款預告",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -76,7 +263,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 19,
    "title": "Nike Book 2「Be Legendary」以標誌性紫色致敬 Kobe Bryant",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -89,7 +276,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 20,
    "title": "Nike Moon Shoe OG Suede 重塑 70 年代跑鞋輪廓，注入現代舒適腳感",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -102,7 +289,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 21,
    "title": "鞋底布滿全掌葉片：Rick Owens x adidas Springblade 系列正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -115,7 +302,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 22,
    "title": "JUNTAE KIM x ASICS GEL-KINETIC FR 聯乘鞋款發售情報",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -128,33 +315,7 @@
    ]
   },
   {
-   "id": 9,
-   "title": "率先近賞 Nike CPFM Flea 1「Cave Purple」",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-11",
-   "content": "摘要 繼 LeBron James 率先上腳後，即將登場的 CPFM x Nike Flea 1「Cave Purple」配色迎來更清晰的近賞特寫鞋款融入紫色麂皮面料、幾何構圖覆層、做舊泥污風格的厚實中底，以及後跟的陰陽圖案刺繡這雙聯乘鞋款預計於 2026 年 Holiday 季度透過 CPFM 抽籤發售，售價為 $180 美元，屆時將與「Barley」配色一同登場 名稱：Nike CPFM Flea 1「Cave Purple」配色：Cave Purple/Dark Raisin-Purple Dynasty型號：IU5238-500建議零售價：$180 美元發售日期：2026 年冬季購買點：NikeCactus Plant Flea Market 與 Nike 聯乘系列即將迎來全新鞋款 CPFM x Nike Flea 1「Cave Purple」，更多近賞圖片現已曝光。繼 LeBron James 率先上腳後，詳細圖片揭示了這雙鞋非傳統的層疊結構，據報其設計元素借鑑了 Dunk 和 Air Force 1。根據曝光照片，該鞋款採用濃郁的紫色麂皮鞋面，兩側飾有幾何紋理覆蓋層。搶眼的設計配有巨大的填充鞋舌、厚實的鞋領以及粗糙、帶有泥土紋理的深紫色中底。最後，低調的 CPFM 標誌點綴於鞋身，後跟則繡有黑白陰陽圖案，令整體美感更顯完整。傳聞 CPFM x Nike Flea 1「Cave Purple」將於 2026 年冬季發售。 View this post on InstagramA post shared by Philadelphia 76ers (@sixers) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-cpfm-flea-1-cave-purple-iu5238-500-closer-look-lebron-james-first-spotted-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/nike-cpfm-flea-1-cave-purple-iu5238-500-closer-look-lebron-james-first-spotted-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 10,
-   "title": "消息指南 Nike Air More Uptempo「Animal」將於 2027 年夏季復刻回歸",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-11",
-   "content": "摘要 據傳 Nike 將於 2027 年夏季復刻推出 Air More Uptempo「Animal/White/Black」鞋款採用白色皮革鞋面，並在「AIR」字樣點綴豹紋與蛇紋圖案早期消息指出，此復刻版本的可視化 Air 氣墊內部注入紅色細節飾點 名稱： Nike Air More Uptempo「Animal」配色： Animal/White/Black款式代碼： DZ4838-100建議售價： $135 美元發售日期： 2026 年 11 月 16 日購買地點： Nike有傳 Nike 正計劃復刻推出 Air More Uptempo「Animal」，早期消息指預計將於 2027 年夏季重新發售。這款於 2022 年 11 月首度面世的 1996 年經典籃球鞋，在 Wilson Smith 標誌性的塗鴉字體輪廓中融入了別具一格的野生動物紋理，演繹出獨特的異國風情。根據球鞋業界內部人士透露的發售消息，這款即將推出的復刻版預計會保留其原有的設計規格。鞋身採用俐落的白色皮革鞋面，搭配相襯的白色中底及外底配置。這款鞋的焦點依然是其標誌性的超大「AIR」品牌字樣，字母面板上飾有形成對比的豹紋與蛇紋紋理。下方可見的全掌 Air-sole 緩震氣墊，其視窗內點綴著鮮明的紅色細節。Nike Air More Uptempo「Animal」據悉計劃於 2027 年夏季重新發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-air-more-uptempo-animal-DZ4838-100-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/nike-air-more-uptempo-animal-dz4838-100-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 11,
+   "id": 23,
    "title": "See How Three Creatives Are Styling Burna Boy and On’s New Collab",
    "source": "Hypebeast",
    "date": "2026-11-11",
@@ -165,7 +326,7 @@
    "relatedBrands": []
   },
   {
-   "id": 12,
+   "id": 24,
    "title": "thisisneverthat and Danner’s Cascade Range Packs Trail-Grade Armor Into a Low-Top",
    "source": "Hypebeast",
    "date": "2026-11-11",
@@ -178,7 +339,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 25,
    "title": "adidas Originals x Drama Call Scatter Star Emblems Across the ClimaCool 1 GTX “Drama”",
    "source": "Hypebeast",
    "date": "2026-11-11",
@@ -192,7 +353,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 26,
    "title": "NOCTA Teases Upcoming Nike Sneaker Equipped With \"Mod Max\" Technology",
    "source": "Hypebeast",
    "date": "2026-11-11",
@@ -205,7 +366,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 27,
    "title": "Jordan 4 Retro TD “Bred” Takes MJ’s ‘89 Classic From Hardwood to Turf",
    "source": "Hypebeast",
    "date": "2026-11-11",
@@ -218,7 +379,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 28,
    "title": "Altra Rewrites Its Running DNA for the City With the Ease",
    "source": "Hypebeast",
    "date": "2026-11-11",
@@ -229,86 +390,7 @@
    "relatedBrands": []
   },
   {
-   "id": 17,
-   "title": "Nike Book 2 \"Be Legendary\" Honors Kobe Bryant in Signature Purple",
-   "source": "Hypebeast",
-   "date": "2026-11-11",
-   "content": "Summary Nike and Devin Booker are releasing the Book 2 in a purple Be Legendary colorway honoring Kobe BryantThe silhouette features light purple tumbled leather dark purple ripstop and a black patent leather SwooshThe pair is expected to release on November 20 in men's sizing for 145 USD via Nike and select retailers Name: Nike Book 2 \"Be Legendary\"Colorway: Bright Violet/Black-Wolf GreySKU: FZ7013-501MSRP: $145 USDRelease Date: November 20, 2026Where to Buy: NikeNike and Phoenix Suns guard Devin Booker are set to release the Nike Book 2 “Be Legendary,” porting one of Booker’s most meaningful Kobe Bryant-inspired aesthetics over to his second signature silhouette. The forthcoming colorway translates a career-defining personal tribute into a general release ahead of the winter basketball season.The design lineage traces back to 2016 during Bryant's final NBA campaign, when the late legen",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F08%2Fnike-book-2-be-legendary-fz7013-501-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/nike-book-2-be-legendary-honors-kobe-bryant-in-signature-purple",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 18,
-   "title": "The Nike Moon Shoe OG Suede Reshapes a ’70s Runner for Modern Comfort",
-   "source": "Hypebeast",
-   "date": "2026-11-11",
-   "content": "Name: Nike Moon Shoe OG Suede “Sanddrift,” Nike Moon Shoe OG Suede “Baroque Brown”Colorway: Sanddrift/Pale Ivory/Gum Light Brown/White, Baroque Brown/Tar/Gum Dark Brown/SailSKU: IU5934-100, IU5934-201MSRP: ¥15,730 JPY (approx. $100 USD)Release Date: Available nowWhere to Buy: Nike JapanNike is giving the women’s Moon Shoe OG Suede a quiet but meaningful update, refining the fit of its heritage runner while holding onto the vintage profile that defines it. The new pair keeps the low, slim lines of the original ’70s design, then layers in plush suede, a smoother interior and a reshaped last aimed squarely at all-day comfort.The biggest change is one you feel before you see it. Nike has redrawn the overall shape of the Moon Shoe to sit more comfortably on foot, a notable adjustment for a silhouette rooted in early running design. From the outside, the proportions still read as unmistakably ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F11%2FNike-Moon-Shoe-OG-Suede-Sanddrift-Baroque-Brown-IU5934-100-IU5934-201-Japan-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/nike-moon-shoe-og-suede-sanddrift-baroque-brown-iu5934-100-iu5934-201-japan-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "The Rick Owens x adidas Springblade Collection Runs on a Full-Length Bed of Blades",
-   "source": "Hypebeast",
-   "date": "2026-11-11",
-   "content": "Name: Rick Owens x adidas Springblade Runner, Rick Owens x adidas Springblade BootColorway: Core Black/Core Black/Light Brown, Core Black/Core Black/Light Brown, Light Brown/Light Brown/Core BlackSKU: KJ3110, KJ5663, KJ3122MSRP: $590 USD, $850 USDRelease Date: November 17Where to Buy: adidas CONFIRMED App, adidas, Rick OwensThe Rick Owens x adidas Springblade collection marks the first major step in bringing back adidas’ blade-cushioned performance model from the 2010s, with Owens among the earliest collaborators to put his stamp on its return. The capsule spans three pairs in total, built from a pair of low-top runners and a dramatic matching boot, all sitting on the Springblade’s signature row of individual cushioning blades.Everything about the collection starts with the sole. Rather than a conventional foam midsole, the Springblade relies on a series of separate, angled blade element",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F11%2FRick-Owens-adidas-Springblade-runner-boot-Fall-2026-Collection-KJ3110-KJ5663-KJ3122-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/rick-owens-adidas-springblade-runner-boot-fall-2026-collection-kj3110-kj5663-kj3122-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "ASICS and JUNTAE KIM Unveil Hybrid GEL-KINETIC FR Dress Sneaker",
-   "source": "Hypebeast",
-   "date": "2026-11-11",
-   "content": "Summary ASICS and JUNTAE KIM have unveiled their debut collaboration featuring the hybrid GEL-KINETIC FR dress sneakerThe design explores the concept of wilting flowers through gradient uppers genuine leather paneling and detachable floral hardwareArriving in Black Navy and Red colorways the collaborative footwear is scheduled to release on November 20 Japanese sportswear stalwart ASICS has officially teamed up with fashion label JUNTAE KIM for their debut collaboration, introducing the GEL-KINETIC FR. Reinterpreting the designer's signature floral motif through a romantic yet punk aesthetic, the hybrid dress sneaker seamlessly bridges the formal refinement of traditional dress shoes with the functional, technical silhouette of performance athletic footwear.Rather than capturing flowers at the peak of their bloom, the partnership investigates the imperfect beauty found in the natural pro",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F10%2Fjuntae-kim-asics-gel-kinetic-fr-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/juntae-kim-asics-gel-kinetic-fr-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "Ojos x Sorel Unveil First Footwear Collection \"Stars on the Ground\"",
-   "source": "Hypebeast",
-   "date": "2026-11-11",
-   "content": "Seoul-based contemporary womenswear brand Ojos and winter outdoor footwear brand Sorel are launching their first global collaborative collection, 'Stars on the Ground'.This collaboration blends Sorel's technical prowess for braving harsh winter environments with Ojos' aesthetic of translating functional materials into experimental designs. The collection features two models—tall boots and clogs—that blur the line between outdoor gear and everyday wear.First, the 'Ona Avenue Alpine Tall LX WP' takes a rugged outdoor boot silhouette and adds Ojos' signature flair. The upper features premium suede, while a natural shearling tongue, fleece lining, and 100g of insulation bolster winter warmth. A waterproof construction elevates its practicality, and Ojos' signature gray color and interchangeable shoelaces provide design variations.The accompanying 'Ambler Fireside WP' is a waterproof clog ins",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fojos-x-sorel-launches-first-footwear-collection-stars-on-the-ground-ft.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/ojos-x-sorel-launches-first-footwear-collection-stars-on-the-ground",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "Closer Look at the Nike CPFM Flea 1 \"Cave Purple\"",
-   "source": "Hypebeast",
-   "date": "2026-11-11",
-   "content": "Summary A closer look has surfaced at the upcoming CPFM x Nike Flea 1 in Cave Purple after LeBron James was first spotted wearing the sneakerThe silhouette incorporates purple suede panels geometric overlays a dirt-styled thick midsole and yin-yang heel embroideryThe collaborative shoe is expected to drop in Holiday 2026 via CPFM raffle for 180 USD alongside a Barley colorway Name: Nike CPFM Flea 1 “Cave Purple”Colorway: Cave Purple/Dark Raisin-Purple DynastySKU: IU5238-500MSRP: $180 USDRelease Date: Holiday 2026Where to Buy: NikeA closer look has surfaced at the upcoming Cactus Plant Flea Market and Nike collaborative silhouette, highlighting the CPFM x Nike Flea 1 \"Cave Purple.\" After LeBron James was the first to be spotted wearing the pair on-foot, detailed imagery now reveals the shoe's unconventional layered construction that reportedly borrows design elements from both the Dunk an",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F10%2Fnike-cpfm-flea-1-cave-purple-iu5238-500-closer-look-lebron-james-first-spotted-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/nike-cpfm-flea-1-cave-purple-iu5238-500-closer-look-lebron-james-first-spotted-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 23,
+   "id": 29,
    "title": "The Seasonal Style Guide to the Low-Key, Not Low-Effort Look",
    "source": "Highsnobiety",
    "date": "2026-11-11",
@@ -321,33 +403,7 @@
    ]
   },
   {
-   "id": 24,
-   "title": "Tyler, The Creator 發布全新 Converse Bronco Boot Low 及 1908 系列",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-10",
-   "content": "名稱：Tyler, The Creator x Converse Bronco Boot Low、Tyler The Creator x Converse Pro Leather、Tyler The Creator x Converse Jogger配色：Cocoa Brown、New Wheat、Eden、Black（Bronco Boot Low）、Tendril、Quarry（Pro Leather）、High Risk Red、Golden Haze（Jogger）SKU：有待公布建議零售價：有待公布發售日期：11 月 12 日購買點：Converse、GOLF le FLEUR*Converse 與 Tyler, The Creator 正式揭曉 1908 系列的最新篇章，由全新 Bronco Boot Low 領銜，並帶來以麂皮重塑的 Pro Leather 及 Jogger 新作。雖然這三款鞋型各自取材自 Converse 典藏檔案庫的不同角落，但它們共通之處在於材質，本次發售的每一款鞋履皆採用了麂皮製作。Bronco Boot Low 將 Tyler 去年推出的 1908 Bronco Boot 剪裁成低筒版本，同時保留了適應戶外環境的粗獷硬體配件。結構上，鞋頭配備模製橡膠鞋頭蓋，下方設有提供抓地力的坑紋沿條外底；沿條上方加入橡膠邊條，以加強鞋履最易磨損部位的耐用度。鞋面混合了麂皮與皮革材質，細節處盡顯 Tyler 的個人風格，包括特製編織圓形鞋帶、扣於最底鞋帶孔的 le FLEUR* 鞋帶扣，以及印有雙方品牌標誌的鞋墊。此鞋款的設計靈感主要源自 Converse 在 1990 年代推出的 Mud Chunk，那是一款結合模製橡膠鞋面、拼接鞋身及粗獷坑紋外底的運動鞋與靴子混合體。Bronco Boot Low 共推出 Cocoa Brown、New Wheat、Eden 及 Black 四種配色。Tyler 版本的闊身 Pro Leather 在兩款新作中捨棄了慣用的平滑表面，改用麂皮材質，並保留了誇張的比例設計。這意味著相同的寬大鞋頭、特大鞋帶孔排、粗",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Ftyler-the-creator-converse-bronco-boot-low-new-pro-leather-jogger-collaboration-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/tyler-the-creator-converse-bronco-boot-low-new-pro-leather-jogger-collaboration-collection-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "UGG 與 Aimé Leon Dore 官方宣布首度聯乘推出 UGG ALD Slipper",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-10",
-   "content": "摘要 UGG 與 Aimé Leon Dore 宣布推出首個鞋款聯乘企劃，主打 UGG ALD Slipper這款全粒面皮革 Moccasin 印有壓印 Queens Crest 標誌，並帶來兩種季度配色由 Method Man 與 Redman 主演的宣傳企劃，在 11 月 12 日正式發售前率先預覽此系列 鞋履品牌 UGG 與紐約服飾品牌 Aimé Leon Dore 宣布即將首度聯乘，推出 UGG ALD Slipper。首發聯乘鞋款由 Hip-hop 巨星 Method Man 與 Redman 擔任企劃主角，將 UGG 標誌性的悠閒舒適傳統與 Aimé Leon Dore 精緻考究的現代街頭服飾美學融為一體。這次是美國西岸生活品牌巨頭與紮根 Queens 品牌的重大合作。全新鞋款的發布焦點落於一段在 Harlem 住宅門前台階拍攝的宣傳短片。企劃由相識多年的 Method Man 和 Redman 穿上全新鞋款，捕捉了兩人真摯隨性的無劇本對話，回顧家庭、共同經歷以及作為文化先鋒的人生點滴。二人之間的互相尊重、獨特的身份認同及真實性，正好反映出連繫兩個品牌的核心理念。UGG ALD Slipper 採用優質全粒面皮革打造，重新演繹經典的莫卡辛鞋款設計，完美過渡室內居家與戶外城市穿搭。皮革鞋面飾有低調的聯乘標誌，結合壓花 UGG 品牌字樣及 Aimé Leon Dore 標誌性的 Queens 徽章。聯乘鞋款展現了對工藝的嚴謹講究，並帶來兩款豐富應季的配色：「Dark Coffee Bean」及「Goldenrod」。UGG ALD Slipper 將於美東時間 2026 年 11 月 12 日中午 12 時正式發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fugg-aime-leon-dore-announce-debut-collaboration-slipper-method-man-redman-campaign-teaser-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/ugg-aime-leon-dore-announce-debut-collaboration-slipper-method-man-redman-campaign-teaser",
-   "lang": "zh",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 26,
+   "id": 30,
    "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
    "source": "Nice Kicks",
    "date": "2026-11-10",
@@ -360,7 +416,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 31,
    "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
    "source": "Nice Kicks",
    "date": "2026-11-09",
@@ -373,7 +429,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 32,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -386,7 +442,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 33,
    "title": "Tremaine Emory Brings a Piece of Canal Street to adidas Originals",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -399,7 +455,7 @@
    ]
   },
   {
-   "id": 30,
+   "id": 34,
    "title": "Nike Air Foamposite One “Mummy” December 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -412,7 +468,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 35,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
@@ -425,7 +481,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 36,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -438,7 +494,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 37,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
@@ -451,7 +507,7 @@
    ]
   },
   {
-   "id": 34,
+   "id": 38,
    "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
