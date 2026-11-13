@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-13 12:24",
+ "updatedAt": "2026-11-13 23:49",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,19 +16,139 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
-  "CONVERSE",
+  "ASICS",
+  "BIRKENSTOCK",
   "CROCS",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
   "REEBOK",
   "TIMBERLAND",
-  "UGG"
+  "UGG",
+  "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Vans 與 Pringle of Scotland 聯乘推出 Premium 經典系列鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-13",
+   "content": "名稱： Vans x Pringle of Scotland 聯乘系列建議售價：$110 - $130 美元發售日期：現已發售發售點：VansVans 與 Pringle of Scotland 攜手推出全新冬季聯乘系列，將南加州滑板文化與蘇格蘭超過兩百年的針織工藝完美結合。是次以鞋履為主的系列，焦點落在三款 Vans 的 Premium 經典鞋款上：Authentic 44、Sk8-Hi Reissue 38 及 Classic Slip-On 98。每款鞋履均換上 Pringle 標誌性的菱格紋，並捨棄帆布，改用磨毛及氈縮羊毛製成。這賦予了鞋款一種毛茸茸、宛如毛衣般的質感，菱格圖案邊緣顯得柔和模糊，彷彿是從一件備受珍愛的針織衫上剪裁下來。鞋款底部則保留了 Premium 系列的升級配置：加厚鞋領與鞋面、配備 Sola Foam ADC 內底以提供全天候緩震效果的精緻鞋墊、具光澤感的加高鞋側、靈感源自 Vans 90 年代加固大底的沿條，以及品牌標誌性的窩夫格紋外底。系列共有兩種主要配色，以菱格紋與丑角菱形拼接的方式呈現，而非單一的重複圖案。Classic Slip-On 與 Sk8-Hi 採用的「Navy/Marshmallow White」配色，混合了海軍藍、酒紅、橄欖綠與鼠尾草綠，較大的菱格紋上交織著幼細的奶油色線條，鞋頭則包裹著鼠尾草綠與海軍藍相間的格紋拼接。Sk8-Hi 在鞋頭、鞋帶孔及鞋跟處加入了海軍藍麂皮覆面，並配搭同色系海軍藍 Sidestripe 及相應鞋帶。Authentic 與另一款 Classic Slip-On 採用的「Black/Marshmallow White」配色，則呈現出更強烈的對比，結合了黑色、白色及胭脂粉色菱格，Authentic 更配以黑色鞋領滾邊與白色鞋帶。每對鞋款均配備具光澤感的「Marshmallow White」鞋側，並綴以對比鮮明的沿條。綁帶鞋款的鞋舌上飾有「Vans x Pringle」聯乘標籤，而宣傳照片亦展示了鞋跟側面、經典的「Off The Wall」標籤上方繡有 Pringle 標誌性的躍獅圖案，底部則配上",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fvans-pringle-of-scotland-footwear-collection-premium-classic-slip-on-shoe-5315-premium-authentic-shoe-5310-premium-sk8-hi-shoe-5325-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/vans-pringle-of-scotland-footwear-collection-premium-classic-slip-on-shoe-5315-premium-authentic-shoe-5310-premium-sk8-hi-shoe-5325-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Jordan Brand 推出 Air Jordan 4 全新「Spotlight」鱷魚紋皮革鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-13",
+   "content": "摘要 Jordan Brand 正式公開即將推出的 Air Jordan 4「Spotlight」零售商官方圖片這款近乎全黑的鞋款採用素面黑色皮革，搭配鞋頭與鞋帶孔翼片的仿鱷魚皮紋理，並輔以金屬銀色細節點綴Air Jordan 4「Spotlight」定價為 $215 美元，將於 2027 年 1 月 15 日透過 Nike SNKRS 及指定零售商發售 鞋款： Air Jordan 4「Spotlight」配色： Black/Black Croc型號： HV0823-002定價： $215 美元發售日期： 2027 年 1 月 15 日購買渠道： NikeJordan Brand 推出全新 Air Jordan 4「Spotlight」，延續近期「Black Cat」系列的暗黑美學。在 2027 年春季正式登場前，官方零售商率先釋出這對備受歡迎的 Air Jordan 鞋款照片。全黑配色結合充滿異國情調的質感與金屬亮點，令人眼前一亮。鞋面主要部分採用素面黑色皮革製成，鞋頭和鞋帶孔兩側則包裹著仿鱷魚紋皮革覆面，彰顯獨特風格。這種爬行動物紋理早前被拿來與 Michael Jackson 在 1992 年聯同 Michael Jordan 演出的《Jam》音樂錄影帶中所穿的平底鞋相提並論，為這款單色基調增添了豐富質感。與深色結構形成對比的是巧妙點綴的銀色細節，包括閃亮的鞋舌品牌標誌、金屬鞋帶孔夾，以及略帶光澤的中底部分。後跟處則飾有同色系的黑底黑字 Jumpman 標誌，完美融入設計之中。延續 Jordan Brand 四款「Black Cat」系列鞋款所奠定的異國材質設計方向，此版本在日常實穿性與提升表面對比度之間取得完美平衡。每一項物料選擇都突顯了這款經典籃球鞋在光滑皮革、爬行動物鱗片與閃耀金屬配件之間那份低調的交錯互動。Air Jordan 4「Spotlight」將於 2027 年 1 月 15 日發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fair-jordan-4-spotlight-HV0823-002-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/air-jordan-4-spotlight-hv0823-002-first-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "HERALBONY x ASICS 攜手將 GEL-1130 化作可穿戴畫布",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-13",
+   "content": "名稱：ASICS GEL-1130™ by HERALBONY配色：CreamSKU：1203B187-100建議售價：¥19,800 JPY（約 $124 USD）發售日期：11 月 13 日購買點：ASICS、HERALBONY、NotreASICS SPORTSTYLE 與 HERALBONY 攜手合作，向備受喜愛的復古跑鞋 ASICS GEL-1130 致敬。是次聯乘以「INSPIRE WORLD」概念為靈感，超越純粹的裝飾，將這款復古跑鞋化作可穿戴的畫布。鞋款採用藝術家小山美智子的作品，她以密集且錯綜複雜的畫風見稱，畫中佈滿身高僅略超 1 厘米、各具特色的小人。這些人物都有獨特的表情、姿勢和髮型。她的一幅作品《Atmosphere Pressure Distribution》被應用於鞋款的奶白色基底上。這件製成品遠看呈現和諧的色調，近看則能發現錯綜複雜的細節。為重現原作的觸感，這款聯乘 GEL-1130 的表面具有獨特的仿紙質感。ASICS 設計團隊更細心調整鞋面布料的編織紋理，以模仿小山作品的筆觸。鞋頭、鞋帶周圍、側面和鞋跟均加入了藍綠色、紅色和橙色等鮮艷色彩。淺色的 ASICS 條紋跨越部分圖案，凸顯了藝術品的複雜圖案及跑鞋的結構。鞋跟標誌性的 GEL 緩震技術保持原樣，並藏於乾淨的奶白色中底內，與豐富的鞋面取得平衡。藝術氣息更延伸至包裝上，特製鞋盒的內外均印有小山的畫作。ASICS GEL-1130™ by HERALBONY 將於 11 月 13 日起在 ASICS 官方網站、東京的 HERALBONY 期間限定店，以及 Chicago 的 Notre 門市發售。 View this post on Instagram A post shared by HERALBONY (@heralbony_global) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fheralbony-asics-sportstyle-gel-1130-collab-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/heralbony-x-asics-sportstyle-gel-1130-1203b187-100-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Vans and Pringle of Scotland Wrap Three Premium Icons in Fuzzy Argyle Wool",
+   "source": "Hypebeast",
+   "date": "2026-11-13",
+   "content": "Name: Vans x Pringle of Scotland CollectionMSRP: $110 - $130 USDRelease Date: Available NowWhere to Buy: VansVans and Pringle of Scotland have joined forces on a winter collection that combines Southern California skate culture with more than two centuries of Scottish knitwear heritage.At the heart of the footwear-led lineup are three of Vans’ Premium icons: the Authentic 44, the Sk8-Hi Reissue 38 and the Classic Slip-On 98. Each is dressed in Pringle’s signature argyle, rendered in brushed and felted wool rather than canvas. The result is a fuzzy, almost sweater-like texture, with diamonds that look slightly soft and blurred at the edges, as if cut from a well-loved knit. Underneath, the shoes keep their Premium upgrades: padded collars and uppers, a refined footbed with a Sola Foam ADC insole for all-day cushioning, taller sidewalls with a glossy finish, foxing tape inspired by Vans’ r",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F13%2Fvans-pringle-of-scotland-footwear-collection-premium-classic-slip-on-shoe-5315-premium-authentic-shoe-5310-premium-sk8-hi-shoe-5325-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/vans-pringle-of-scotland-footwear-collection-premium-classic-slip-on-shoe-5315-premium-authentic-shoe-5310-premium-sk8-hi-shoe-5325-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Jordan Brand Dresses the Air Jordan 4 \"Spotlight\" in Faux-Crocodile Leather",
+   "source": "Hypebeast",
+   "date": "2026-11-13",
+   "content": "Summary Jordan Brand has revealed official retailer images of the upcoming Air Jordan 4 \"Spotlight\"The nearly all-black sneaker pairs plain black leather with faux-crocodile leather on the toe tip and eyestay wings alongside metallic silver accentsPriced at $215 USD, the Air Jordan 4 \"Spotlight\" releases on January 15, 2027 via Nike SNKRS and select retailers Name: Air Jordan 4 \"Spotlight\"Colorway: Black/Black CrocSKU: HV0823-002MSRP: $215 USDRelease Date: January 15, 2027Where to Buy: NikeJordan Brand is extending the stealthy aesthetic of its recent \"Black Cat\" collection with the upcoming Air Jordan 4 “Spotlight.” Unveiled via official retailer images ahead of its Spring 2027 arrival, the silhouette dresses the beloved Air Jordan model in a nearly all-black colorway accented with exotic textures and metallic highlights.Constructed primarily from plain black leather across the main upp",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F12%2Fair-jordan-4-spotlight-HV0823-002-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/air-jordan-4-spotlight-hv0823-002-first-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CROCS",
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Birkenstock x Etro Drop Shearling-Lined Bostons and the First-Ever Arizona Collaboration",
+   "source": "Hypebeast",
+   "date": "2026-11-13",
+   "content": "German footwear pioneer Birkenstock and Milanese luxury house Etro have unveiled their second collaboration. The launch introduces two exclusive models, marking the highly anticipated debut of the Arizona sandal in the two brands' collaborative lineup.Built on Birkenstock’s anatomically shaped footbed, this latest release incorporates Etro’s signature Western flair and a rich mink colorway. The collection seamlessly blends the defining design codes of both brands into classic, everyday staples.The Boston clog features a suede upper lined with plush, sand-colored shearling, adding a rich tactile contrast to its classic, architectural silhouette. Meanwhile, the Arizona—originally designed by Karl Birkenstock in 1973 with Brutalist ideals in mind—pairs a suede upper with a tonal nappa leather footbed, beautifully elevating the iconic open-toe silhouette.Both models are detailed with custom ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fbirkenstock-x-etro-collaboration-vol2-boston-arizona-info00.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/birkenstock-x-etro-collaboration-vol2-boston-arizona-info",
+   "lang": "en",
+   "relatedBrands": [
+    "BIRKENSTOCK"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "HERALBONY and ASICS Turn the GEL-1130 Into a Wearable Canvas",
+   "source": "Hypebeast",
+   "date": "2026-11-13",
+   "content": "Name: ASICS GEL-1130™ by HERALBONYColorway: CreamSKU: 1203B187-100MSRP: ¥19,800 JPY (Approx. $124 USD)Release Date: November 13Where to Buy: ASICS, HERALBONY, NotreASICS SPORTSTYLE and HERALBONY have teamed up to celebrate the beloved retro runner, ASICS GEL-1130. Inspired by the concept of “INSPIRE WORLD”, the collaboration moves beyond simple decoration to turn the retro runner into a wearable canvas.The shoe features artwork from Michiko Koyama, famous for her dense and intricate artwork filled with tiny, distinct human figures measuring just over 1cm tall. The figures all have unique expressions, poses and hairstyles. One of her pieces, Atmosphere Pressure Distribution, is applied across the shoe’s cream-colored base. The resulting work features a harmonious color scheme when viewed from afar, while revealing intricate details when viewed up close.To recreate the tactile feel of the ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F12%2Fheralbony-asics-sportstyle-gel-1130-collab-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/heralbony-x-asics-sportstyle-gel-1130-1203b187-100-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "The Best Nike Sneaker Releases This Week",
+   "source": "Highsnobiety",
+   "date": "2026-11-13",
+   "content": "This week of our Nike release round-up is all about performance tech that is also perfect for the streets.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-sneaker-releases-november-week-2/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "These Winter-Proof Shoes Are Worth Giving Boots the Boot",
+   "source": "Highsnobiety",
+   "date": "2026-11-13",
+   "content": "Who needs winter boots when everything else is getting GORE-TEX? From trail-ready sneakers to weatherproof derbies, these are the best men's winter shoes.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/best-non-boot-winter-shoes-salomon-sorel-roa-merrell/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 10,
    "title": "UGG 與 Aimé Leon Dore 迎來預告後的首度聯乘拖鞋",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -41,20 +161,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
-   "title": "The Whitaker Group 全新重塑 New Balance 950「Grey Croc」鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-12",
-   "content": "摘要 The Whitaker Group 與 New Balance 攜手發佈全新 New Balance 950「Grey Croc」這款靈感源自籃球鞋的鞋款採用亮面鱷魚紋漆皮、內嵌式 N 字標誌以及米白色中底此聯乘鞋款預計將於 2026 年 11 月透過 A Ma Maniére、APB 及 Social Status 發售，售價為 120 美元 鞋款名稱： The Whitaker Group x New Balance SMU 950「Grey Croc」配色： Grey Croc/WhiteSKU： U9502KV建議零售價： $120 美元發售日期： 2026 年 11 月發售地點： A Ma Maniére零售集團 The Whitaker Group 攜手 New Balance 推出 New Balance 950「Grey Croc」的首個聯乘版本。這款以籃球為靈感的鞋款在今年較早時候由 Cooper Flagg 率先著用奶油色版本亮相後，該集團如今透過獨特質感的材質處理，重新演繹這雙低筒設計。有別於傳統運動鞋的結構，「Grey Croc」版本鞋面滿佈充滿光澤的鱷魚紋壓花漆皮，並一直延伸至鞋頭與鞋跟。凹陷的「N」字標誌巧妙融入帶有紋理的側邊面板中，而鞋舌則採用素雅的灰色設計。為了與深色鞋面形成對比，奶油色鞋帶與中底的米白色調互相呼應，為這款源自球場的設計定調。作為該鞋款首度曝光的聯乘作品，此輪廓在籃球風格的基礎上展現出更高雅的美學。設計將光澤感十足的紋理皮革鞋身與米白色鞋底組件結合，呈現出百搭的生活風格，在經典運動服飾結構與精緻細節之間取得平衡。The Whitaker Group x New Balance 950「Grey Croc」預計將於 2026 年 11 月底前正式登場。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fthe-whitaker-group-new-balance-smu-950-grey-croc-U9502KV-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/the-whitaker-group-new-balance-smu-950-grey-croc-u9502kv-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 3,
+   "id": 11,
    "title": "solebox 為經典 Timberland 6 吋靴款注入高級馬毛材質",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -67,7 +174,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 12,
    "title": "Pokémon 與 Crocs 攜手推出 Pikachu、Gengar 及 Jigglypuff 30 週年聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -80,7 +187,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 13,
    "title": "Drake 旗下 NOCTA x Nike Air Modmax 最新「Pink Spell」配色全新圖輯曝光",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -93,7 +200,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 14,
    "title": "UGG and Aimé Leon Dore Deliver Debut Collaborative Slipper Following Teaser Campaign",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -106,7 +213,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 15,
    "title": "A Guide to UGG’s Best Holiday Gifts for the Whole Family",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -119,7 +226,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 16,
    "title": "Behind the Doors of Dolomite’s ICONICA Launch Event",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -130,7 +237,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 9,
+   "id": 17,
    "title": "The Whitaker Group Reimagines the New Balance 950 in \"Grey Croc\"",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -143,7 +250,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 18,
    "title": "solebox wraps the Iconic Timberland 6-Inch Boot in Premium Pony Hair",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -156,7 +263,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 19,
    "title": "Pokémon and Crocs Celebrate 30th Anniversary With Pikachu, Gengar, and Jigglypuff",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -169,7 +276,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 20,
    "title": "New Imagery Surfaces of Drake's NOCTA x Nike Air Modmax \"Pink Spell\"",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -182,7 +289,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 21,
    "title": "The Seven Best adidas Sneaker Releases This Week",
    "source": "Highsnobiety",
    "date": "2026-11-12",
@@ -195,18 +302,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
-   "title": "These Winter-Proof Shoes Are Worth Giving Boots the Boot",
-   "source": "Highsnobiety",
-   "date": "2026-11-12",
-   "content": "Who needs winter boots when everything else is getting GORE-TEX? From trail-ready sneakers to weatherproof derbies, these are the best men's winter shoes.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/best-non-boot-winter-shoes-salomon-sorel-roa-merrell/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 15,
+   "id": 22,
    "title": "Nathan Fielder’s Most Convincing Argument Might Be His New Balances",
    "source": "Highsnobiety",
    "date": "2026-11-12",
@@ -219,7 +315,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 23,
    "title": "Reebok Recodes Allen Iverson’s Question Mid for a New Generation",
    "source": "Highsnobiety",
    "date": "2026-11-12",
@@ -232,22 +328,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
-   "title": "The Best Basketball Shoes of the 2026-27 Season",
-   "source": "Highsnobiety",
-   "date": "2026-11-12",
-   "content": "We take a look at the best basketball shoes of the 2025-2026 season, featuring signature models and in-line styles from adidas, Nike, Converse, and more.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/best-basketball-shoes/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "CONVERSE",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 18,
+   "id": 24,
    "title": "thisisneverthat 與 Danner 聯乘 Cascade Range 低筒鞋款注入越野級防護",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -258,7 +339,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 19,
+   "id": 25,
    "title": "adidas Originals x Drama Call 聯乘 ClimaCool 1 GTX「Drama」鞋款發佈",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -272,7 +353,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 26,
    "title": "Jordan 4 Retro TD「Bred」將 MJ 1989 年經典戰靴由籃球場帶到草地",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -285,7 +366,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 27,
    "title": "NOCTA 釋出搭載「Mod Max」技術的全新 Nike 聯乘鞋款預告",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -298,7 +379,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 28,
    "title": "Nike Book 2「Be Legendary」以標誌性紫色致敬 Kobe Bryant",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -311,33 +392,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
-   "title": "Nike Moon Shoe OG Suede 重塑 70 年代跑鞋輪廓，注入現代舒適腳感",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-11",
-   "content": "名稱：Nike Moon Shoe OG Suede「Sanddrift」、Nike Moon Shoe OG Suede「Baroque Brown」配色：Sanddrift/Pale Ivory/Gum Light Brown/White、Baroque Brown/Tar/Gum Dark Brown/Sail型號：IU5934-100、IU5934-201建議售價：¥15,730 JPY（約 $100 USD）發售日期：現已發售入手渠道：Nike JapanNike 為女裝 Moon Shoe OG Suede 迎來低調而富有巧思的升級，在保留標誌性復古輪廓的同時，進一步改善這款經典跑鞋的貼合度。新款保留了源自 70 年代原版設計的低筒修長線條，並加入柔軟麂皮、更平滑的內襯以及重新塑造的鞋楦，旨在提供全天候的舒適腳感。最大的改變在於穿著體驗而非視覺外觀。Nike 重新調整了 Moon Shoe 的整體鞋型，使其穿上腳時更加舒適，這對於一款植根於早期跑鞋設計的鞋款來說，是一項顯著的改良。從外觀上看，其比例依然散發著強烈的復古氣息，因此這次升級主要體現在穿著感受上。材質的運用是鞋面設計的一大亮點。鞋面結合尼龍與柔軟麂皮，這種配搭不僅減輕了重量，還提升了耐用度，並為覆層增添了更豐富的層次感。內部方面，平滑的內襯帶來更優質的入腳體驗，而泡棉鞋墊則為足底增加了一層舒適感。此外，Nike 亦為鞋跟拉環換上全新材質，這項小細節令鞋款後方視覺更加俐落。來到鞋底，橡膠 Waffle 大底展現了其跑鞋血統。網格狀的凸紋圖案不僅能在路面上提供良好的抓地力，更成為 Moon Shoe 最具辨識度的視覺特徵，將這款升級作與品牌早期的田徑鞋設計巧妙連結。兩款配色均主打溫暖的大地色調。「Sanddrift」版本以淺沙色鞋面配搭 Pale Ivory 與白色細節，並搭載淺色生膠大底；而「Baroque Brown」則採用更深沉的色調，以 Tar 與 Sail 細節點綴，並配備深色生膠大底。兩種色調皆能完美呼應鞋款的復古格調，並輕鬆融入寒冷天氣的日常穿搭。立即設定提醒，緊貼 Hypebeast ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2FNike-Moon-Shoe-OG-Suede-Sanddrift-Baroque-Brown-IU5934-100-IU5934-201-Japan-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/nike-moon-shoe-og-suede-sanddrift-baroque-brown-iu5934-100-iu5934-201-japan-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "鞋底布滿全掌葉片：Rick Owens x adidas Springblade 系列正式登場",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-11",
-   "content": "名稱：Rick Owens x adidas Springblade Runner、Rick Owens x adidas Springblade Boot配色：Core Black/Core Black/Light Brown、Core Black/Core Black/Light Brown、Light Brown/Light Brown/Core Black編號：KJ3110、KJ5663、KJ3122建議售價：$590 美元、$850 美元發售日期：11 月 17 日購買地點：adidas CONFIRMED App、adidas、Rick OwensRick Owens x adidas Springblade 系列的誕生，標誌着 adidas 將 2010 年代葉片緩震機能鞋款重新帶回大眾視野的重要一步，而 Owens 則是首批為此回歸之作注入個人風格的設計師之一。是次別注系列共帶來三雙鞋款，包括兩款低筒跑鞋及一對充滿戲劇張力的同款長靴，全部均搭載了 Springblade 標誌性的一排獨立緩震葉片。整個系列的靈魂始於鞋底。有別於傳統的泡棉中底，Springblade 採用了一系列從後跟一直延伸至腳尖的獨立傾斜葉片元素，賦予每雙鞋履極具辨識度的外觀及層次分明的足跡。Owens 基本上原封不動地保留了這項結構，讓這款誇張的鞋底成為三款設計在視覺與功能上的核心所在。跑鞋款式刻意保持鞋面設計的簡潔，讓葉片鞋底成為焦點。鞋身以流線型的網眼材質為基礎，並透過中足及腳尖處的皮革覆面加強結構。兩側飾有超大尺寸的 adidas 標誌，為低筒設計在簡約構造中注入搶眼的圖案細節。兩款跑鞋的差異在於色塊運用。一款以「Light Brown」為主調，另一款則以「Core Black」作主軸，兩者巧妙地將這兩種色調交替運用於鞋面、三間標誌及鞋底本身。這對如同鏡像般的組合展現出高度的協調性，非常契合這位向來偏好緊湊、大地色系調色板的設計師風格。至於靴款則將這款鞋型的輪廓推向更具戲劇性的領域。靴筒採用高出腳踝的褶皺布料結構，捨棄了跑鞋緊繃的網眼，轉而採用更柔軟、具垂墜感的鞋面，散發着濃厚",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2FRick-Owens-adidas-Springblade-runner-boot-Fall-2026-Collection-KJ3110-KJ5663-KJ3122-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/rick-owens-adidas-springblade-runner-boot-fall-2026-collection-kj3110-kj5663-kj3122-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 25,
+   "id": 29,
    "title": "See How Three Creatives Are Styling Burna Boy and On’s New Collab",
    "source": "Hypebeast",
    "date": "2026-11-11",
@@ -346,59 +401,6 @@ window.SNEAKER_DATA = {
    "link": "https://hypebeast.com/2026/11/on-burna-boy-cloudmonster-bb-collaboration-lookbook-info",
    "lang": "en",
    "relatedBrands": []
-  },
-  {
-   "id": 26,
-   "title": "thisisneverthat and Danner’s Cascade Range Packs Trail-Grade Armor Into a Low-Top",
-   "source": "Hypebeast",
-   "date": "2026-11-11",
-   "content": "Name: thisisneverthat x Danner “Cascade Range”Colorway: TBCSKU: TBCMSRP: TBCRelease Date: November 13Where to Buy: thisisneverthatthisisneverthat and Danner have joined forces on the Cascade Range, a low-cut hiker that borrows its design language and secure fit from the brand’s iconic Danner Light boot. Reworked through the Seoul-based label’s lens, the collaboration trades the original’s high shaft for a lighter, more agile profile tuned for daily wear without giving up the trail-ready hardware underneath.The upper pairs two materials chosen for very different jobs. Brown suede brings warmth and a classic outdoor texture across the overlays, while panels of CORDURA 1000D nylon add abrasion resistance in the zones that take the most punishment. Together they give the Cascade Range a rugged, two-tone build that nods directly to the Danner Light while sitting closer to the ground.Weather p",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F11%2Fthisisneverthat-Danner-Cascade-Range-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/thisisneverthat-danner-cascade-range-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "adidas Originals x Drama Call Scatter Star Emblems Across the ClimaCool 1 GTX “Drama”",
-   "source": "Hypebeast",
-   "date": "2026-11-11",
-   "content": "Name: adidas Originals x Drama Call ClimaCool 1 GTX “Drama”Colorway: “Drama”SKU: TBCMSRP: TBCRelease Date: November 14Where to Buy: Drama Call, CONFIRMEDadidas Originals and Manchester streetwear label Drama Call are reuniting for their fourth collaborative drop, presenting a weather-ready reimagining of a beloved silhouette with the ClimaCool 1 GTX \"Drama\". Designed by Drama Call founder Charlie Bows, the limited-edition release is deeply inspired by Manchester's unpredictable climate, specifically addressing the city's notorious rain. The campaign, fronted by local rapper Suggz, operates under the concept \"Manchester is my mountain,\" framing the urban landscape as a terrain that requires rugged, Founded by Charlie Bows, Drama Call draws on Manchester’s streetwear, music and local community, and this release turns a familiar local frustration into a design brief. “With the ClimaCool 1 G",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F11%2Fadidas-originals-drama-call-climacool-1-gtx-drama-collaboration-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/adidas-originals-drama-call-climacool-1-gtx-drama-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "UGG"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "NOCTA Teases Upcoming Nike Sneaker Equipped With \"Mod Max\" Technology",
-   "source": "Hypebeast",
-   "date": "2026-11-11",
-   "content": "Summary NOCTA's Matte Babel has shared a closer look at the brand's upcoming Nike sneaker featuring new Mod Max technologyThe silhouette showcases a bright pink upper chunky cushioning pods and neon green accents along the outsoleReposted by Drake on Instagram the experimental tooling is designed to improve stability and impact absorption NOCTA and Nike appear to be preparing their next collaborative footwear offering, as early imagery reveals an upcoming silhouette powered by newly introduced Mod Max technology. Initially shared by NOCTA's Matte Babel and subsequently reposted to Drake's personal Instagram Story, the preview highlights an experimental design engineered to optimize impact absorption and underfoot stability.According to the surfaced look, the upcoming sneaker is defined by an energetic bright pink upper contrasted against neon green detailing across the outsole. The focal",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F11%2Fdrake-nocta-teases-new-nike-sneaker-equipped-with-mod-max-technology-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/drake-nocta-teases-new-nike-sneaker-equipped-with-mod-max-technology",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "Jordan 4 Retro TD “Bred” Takes MJ’s ‘89 Classic From Hardwood to Turf",
-   "source": "Hypebeast",
-   "date": "2026-11-11",
-   "content": "Name: Jordan 4 Retro TD \"Bred\"Colorway: Black/Cement Grey/White/Fire RedSKU: HQ0207-001MSRP: $205 USDRelease Date: November 27Where to Buy: SNKRSThe Jordan 4 Retro TD “Bred” moves Michael Jordan’s 1989 game shoe onto the football field, translating one of the most celebrated sneakers in the Jumpman catalog into a fully functional cleat. Dressed in Black, Cement Grey, White and Fire Red, the pair revives one of the AJ4’s first colorways while swapping its basketball outsole for a stud plate made for the gridiron.Few colorways carry the weight of the “Bred” 4. The black-and-red scheme was among the looks that launched the silhouette in 1989, and it has since become one of the most coveted versions of the shoe. It also has a place in playoff history, as Jordan wore the pair when he hit “The Shot” over Craig Ehlo to eliminate the Cleveland Cavaliers that same year. Bringing that colorway to ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F11%2FJordan-4-Retro-TD-Bred-HQ0207-001-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/jordan-4-retro-td-bred-hq0207-001-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
   },
   {
    "id": 30,
