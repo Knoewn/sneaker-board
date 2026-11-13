@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13 00:28",
+ "updatedAt": "2026-11-13 12:24",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,7 +16,6 @@
  ],
  "brands": [
   "ADIDAS",
-  "ASICS",
   "CONVERSE",
   "CROCS",
   "JORDAN",
@@ -24,13 +23,25 @@
   "NIKE",
   "REEBOK",
   "TIMBERLAND",
-  "UGG",
-  "VANS"
+  "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "UGG 與 Aimé Leon Dore 迎來預告後的首度聯乘拖鞋",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-12",
+   "content": "摘要 繼早前的預告後，UGG 與 Aimé Leon Dore 正式推出首款聯乘鞋履系列，帶來 UGG ALD Slipper這款靈感源自莫卡辛鞋（Moccasin）的輪廓採用優質全粒面皮革打造，綴有壓印品牌標誌及 Queens 徽章這款 Slip-on 提供「Dark Coffee Bean」與「Goldenrod」兩種配色，將於 11 月 12 日在兩大品牌的旗艦店及官方網站同步發售 經過數週的宣傳預告後，全球生活休閒品牌 UGG 與紐約時尚品牌 Aimé Leon Dore 終於正式推出其首個聯乘鞋款，帶來 UGG ALD Slipper。這次合作的鞋款將焦點完全放在提升休閒感與低調的街頭實用性上，結合了 UGG 的標誌性舒適基礎，以及 Aimé Leon Dore 對日常設計的講究。這款混合鞋履旨在輕鬆穿梭於居家休息和戶外城市環境之間，透過現代視角重新詮釋經典莫卡辛鞋型。鞋面由柔軟的全粒面皮革製成，提供持久的耐用性、天然紋理和精緻結構。極簡品牌標誌點綴著頂級皮革鞋面，將壓花 UGG 字樣與 Aimé Leon Dore 標誌性的 Queens Crest 徽章並列。這款百搭的便鞋帶來兩種大地色系配色：濃郁的「Dark Coffee Bean」及溫暖的「Goldenrod」。奠基於雙方對頂級物料、工藝和世代設計的共同承諾，這次聯乘在正式發布前，帶來了一組真實視覺宣傳活動，由嘻哈偶像 Method Man 與 Redman 在 Harlem 階梯上領銜演繹，突顯兩個品牌共同擁有的深厚文化遺產。UGG ALD Slipper 預計於 2026 年 11 月 12 日起，透過 UGG、Aimé Leon Dore、全球指定 UGG 門市、Aimé Leon Dore 旗艦店以及全球精選頂級零售商發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Faime-leon-dore-ugg-debut-collaborative-slipper-dark-coffee-bean-goldenrod-colorways-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/aime-leon-dore-ugg-debut-collaborative-slipper-dark-coffee-bean-goldenrod-colorways-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "UGG"
+   ]
+  },
+  {
+   "id": 2,
    "title": "The Whitaker Group 全新重塑 New Balance 950「Grey Croc」鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -43,7 +54,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 3,
    "title": "solebox 為經典 Timberland 6 吋靴款注入高級馬毛材質",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -56,7 +67,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 4,
    "title": "Pokémon 與 Crocs 攜手推出 Pikachu、Gengar 及 Jigglypuff 30 週年聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -69,7 +80,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 5,
    "title": "Drake 旗下 NOCTA x Nike Air Modmax 最新「Pink Spell」配色全新圖輯曝光",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -82,7 +93,20 @@
    ]
   },
   {
-   "id": 5,
+   "id": 6,
+   "title": "UGG and Aimé Leon Dore Deliver Debut Collaborative Slipper Following Teaser Campaign",
+   "source": "Hypebeast",
+   "date": "2026-11-12",
+   "content": "Summary Following initial teasers UGG and Aime Leon Dore have released their debut footwear collaboration featuring the UGG ALD SlipperThe moccasin-inspired silhouette is built from premium full-grain leather with debossed branding and the Queens CrestOffered in Dark Coffee Bean and Goldenrod the slip-on launches November 12 across both brands' flagships and online Following weeks of campaign teasers, global lifestyle brand UGG and New York fashion label Aimé Leon Dore have officially delivered their first joint footwear release, introducing the UGG ALD Slipper. Centered entirely on elevated leisure and understated street utility, the collaborative silhouette unites UGG's signature comfort foundation with Aimé Leon Dore's considered approach to everyday design.Engineered to transition effortlessly between home relaxation and outdoor city environments, the hybrid shoe reinterprets classic",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F10%2Faime-leon-dore-ugg-debut-collaborative-slipper-dark-coffee-bean-goldenrod-colorways-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/aime-leon-dore-ugg-debut-collaborative-slipper-dark-coffee-bean-goldenrod-colorways-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG"
+   ]
+  },
+  {
+   "id": 7,
    "title": "A Guide to UGG’s Best Holiday Gifts for the Whole Family",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -95,7 +119,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 8,
    "title": "Behind the Doors of Dolomite’s ICONICA Launch Event",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -106,7 +130,7 @@
    "relatedBrands": []
   },
   {
-   "id": 7,
+   "id": 9,
    "title": "The Whitaker Group Reimagines the New Balance 950 in \"Grey Croc\"",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -119,7 +143,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 10,
    "title": "solebox wraps the Iconic Timberland 6-Inch Boot in Premium Pony Hair",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -132,7 +156,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 11,
    "title": "Pokémon and Crocs Celebrate 30th Anniversary With Pikachu, Gengar, and Jigglypuff",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -145,7 +169,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 12,
    "title": "New Imagery Surfaces of Drake's NOCTA x Nike Air Modmax \"Pink Spell\"",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -158,7 +182,31 @@
    ]
   },
   {
-   "id": 11,
+   "id": 13,
+   "title": "The Seven Best adidas Sneaker Releases This Week",
+   "source": "Highsnobiety",
+   "date": "2026-11-12",
+   "content": "This week was so chock-full of adidas standouts, we picked... seven of them.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-sneaker-releases-november-week-2/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "These Winter-Proof Shoes Are Worth Giving Boots the Boot",
+   "source": "Highsnobiety",
+   "date": "2026-11-12",
+   "content": "Who needs winter boots when everything else is getting GORE-TEX? From trail-ready sneakers to weatherproof derbies, these are the best men's winter shoes.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/best-non-boot-winter-shoes-salomon-sorel-roa-merrell/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 15,
    "title": "Nathan Fielder’s Most Convincing Argument Might Be His New Balances",
    "source": "Highsnobiety",
    "date": "2026-11-12",
@@ -171,7 +219,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 16,
    "title": "Reebok Recodes Allen Iverson’s Question Mid for a New Generation",
    "source": "Highsnobiety",
    "date": "2026-11-12",
@@ -184,7 +232,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 17,
    "title": "The Best Basketball Shoes of the 2026-27 Season",
    "source": "Highsnobiety",
    "date": "2026-11-12",
@@ -199,20 +247,7 @@
    ]
   },
   {
-   "id": 14,
-   "title": "From Vans to FILA, the Seven Best Sneakers to Cop This Week",
-   "source": "Highsnobiety",
-   "date": "2026-11-12",
-   "content": "From a Scott-ish skate from Vans x Pringle, to a low-profile court classic by FILA x Highsnobiety — the cream of the sneaker crop awaits.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/sneaker-releases-2026-november-week-2/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 15,
+   "id": 18,
    "title": "thisisneverthat 與 Danner 聯乘 Cascade Range 低筒鞋款注入越野級防護",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -223,7 +258,7 @@
    "relatedBrands": []
   },
   {
-   "id": 16,
+   "id": 19,
    "title": "adidas Originals x Drama Call 聯乘 ClimaCool 1 GTX「Drama」鞋款發佈",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -237,7 +272,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 20,
    "title": "Jordan 4 Retro TD「Bred」將 MJ 1989 年經典戰靴由籃球場帶到草地",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -250,7 +285,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 21,
    "title": "NOCTA 釋出搭載「Mod Max」技術的全新 Nike 聯乘鞋款預告",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -263,7 +298,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 22,
    "title": "Nike Book 2「Be Legendary」以標誌性紫色致敬 Kobe Bryant",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -276,7 +311,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 23,
    "title": "Nike Moon Shoe OG Suede 重塑 70 年代跑鞋輪廓，注入現代舒適腳感",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -289,7 +324,7 @@
    ]
   },
   {
-   "id": 21,
+   "id": 24,
    "title": "鞋底布滿全掌葉片：Rick Owens x adidas Springblade 系列正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -302,20 +337,7 @@
    ]
   },
   {
-   "id": 22,
-   "title": "JUNTAE KIM x ASICS GEL-KINETIC FR 聯乘鞋款發售情報",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-11",
-   "content": "摘要 ASICS 與 JUNTAE KIM 揭曉雙方的首次聯乘企劃，推出結合正裝與運動鞋元素的混合鞋款 GEL-KINETIC FR設計透過漸變色鞋面、真皮裁片及可拆卸的花卉五金配件，探索花朵凋零的概念此聯乘鞋款將推出「Black」、「Navy」及「Red」三款配色，預計於 11 月 20 日正式發售 日本運動品牌 ASICS 官方宣布與時尚品牌 JUNTAE KIM 攜手展開首次合作，推出全新 GEL-KINETIC FR。這款結合正裝與運動鞋的混血鞋款，以浪漫又帶有龐克美學的手法重新演繹設計師標誌性的花卉圖案，完美地將傳統正裝鞋履的精緻優雅與機能運動鞋的實用輪廓融為一體。雙方的合作並非捕捉花朵綻放的最美時刻，而是探討在自然枯萎過程中發現的不完美之美，聚焦於花瓣隨時間流逝而變乾、捲曲及逐漸失去色澤與紋理的過程。枯萎花瓣和雄蕊不規則、有機的形態，轉化為「Black」、「Navy」及「Red」三種同色系配色的細膩漸變色彩處理。這種褪色效果精心應用於鞋面、前掌以及 ASICS 標誌線條上，在低調的正式優雅與富雕塑感的運動鞋結構之間營造出刻意的對話。鞋款由合成皮革與真皮精心混合製成，在充滿動感的機能基礎上，注入了精緻的紋理與高雅氣質。設計的一大亮點是可拆卸的花卉金屬配件，讓單一鞋款也能展現百變的造型。這個模組化元素讓穿著者能在正裝鞋履的浪漫優雅與街頭運動鞋的現代態度之間自由切換，提供了一種能適應個性與個人風格的流暢設計。ASICS x JUNTAE KIM GEL-KINETIC FR 將於 2026 年 11 月 20 日正式發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fjuntae-kim-asics-gel-kinetic-fr-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/juntae-kim-asics-gel-kinetic-fr-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 23,
+   "id": 25,
    "title": "See How Three Creatives Are Styling Burna Boy and On’s New Collab",
    "source": "Hypebeast",
    "date": "2026-11-11",
@@ -326,7 +348,7 @@
    "relatedBrands": []
   },
   {
-   "id": 24,
+   "id": 26,
    "title": "thisisneverthat and Danner’s Cascade Range Packs Trail-Grade Armor Into a Low-Top",
    "source": "Hypebeast",
    "date": "2026-11-11",
@@ -339,7 +361,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 27,
    "title": "adidas Originals x Drama Call Scatter Star Emblems Across the ClimaCool 1 GTX “Drama”",
    "source": "Hypebeast",
    "date": "2026-11-11",
@@ -353,7 +375,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 28,
    "title": "NOCTA Teases Upcoming Nike Sneaker Equipped With \"Mod Max\" Technology",
    "source": "Hypebeast",
    "date": "2026-11-11",
@@ -366,7 +388,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 29,
    "title": "Jordan 4 Retro TD “Bred” Takes MJ’s ‘89 Classic From Hardwood to Turf",
    "source": "Hypebeast",
    "date": "2026-11-11",
@@ -376,30 +398,6 @@
    "lang": "en",
    "relatedBrands": [
     "JORDAN"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "Altra Rewrites Its Running DNA for the City With the Ease",
-   "source": "Hypebeast",
-   "date": "2026-11-11",
-   "content": "Name: Altra EaseColorway: Black, White, GreySKU: TBCMSRP: $130 USDRelease Date: November 11Where to Buy: AltraAltra is stepping beyond running with the Ease, a brand-new sneaker silhouette that the brand calls its first lifestyle shoe after 15 years of making foot-shaped footwear for runners. Instead of designing for one setting, Altra’s design team built the Ease around the commute: the walk to the station, the bike ride across town, the coffee stop on the way to the office, the trip from the gym to dinner. The idea is that city life rarely stops; it just changes speed. “So instead of designing for a destination, we designed Ease around that constant state of transition. It’s footwear designed for the journey itself,” the team explained in an exclusive statement.The design centers on a translucent TPU exoskeleton that wraps around the shoe and gradually fades into a soft, collapsible me",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F10%2Faltra-ease-sneaker-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/altra-ease-sneaker-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 29,
-   "title": "The Seasonal Style Guide to the Low-Key, Not Low-Effort Look",
-   "source": "Highsnobiety",
-   "date": "2026-11-11",
-   "content": "Whether you’re inside catching a Christmas movie or en route to family festivities (we know how the holiday hustle and bustle can get) UGG has the perfect footwear to take you through the season ahead, whatever the weather—or your winter plans—may bring.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/gift-guide-season-style-with-ugg/",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
    ]
   },
   {
@@ -456,19 +454,6 @@
   },
   {
    "id": 34,
-   "title": "Nike Air Foamposite One “Mummy” December 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-11-05",
-   "content": "The Nike Air Foamposite One “Mummy” is finally releasing on December 5, 2026, via SNKRS and select retailers for $250. Do you prefer the… The post Nike Air Foamposite One “Mummy” December 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/08/iz1476-001-5-1-e1788192455783.jpg",
-   "link": "https://www.nicekicks.com/nike-air-foamposite-one-mummy-iz1476-001/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 35,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
@@ -481,7 +466,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 35,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -494,7 +479,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 36,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
@@ -507,7 +492,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 37,
    "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
@@ -517,6 +502,19 @@
    "lang": "en",
    "relatedBrands": [
     "JORDAN"
+   ]
+  },
+  {
+   "id": 38,
+   "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
+   "source": "Nice Kicks",
+   "date": "2026-10-26",
+   "content": "The Supreme x Nike Air Force 1 Low “Snow Camo” puts a fresh spin on the iconic silhouette with a bold black, white, and… The post Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/10/imgi_38_866590109_18645556018024764_9165763201282690259_n.jpeg",
+   "link": "https://www.nicekicks.com/supreme-nike-air-force-1-low-urban-camo-cu9225-901/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
    ]
   }
  ]
