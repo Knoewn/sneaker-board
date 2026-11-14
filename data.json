@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13 23:49",
+ "updatedAt": "2026-11-14 12:21",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -18,11 +18,11 @@
   "ADIDAS",
   "ASICS",
   "BIRKENSTOCK",
+  "CLARKS",
   "CROCS",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
-  "REEBOK",
   "TIMBERLAND",
   "UGG",
   "VANS"
@@ -31,6 +31,32 @@
  "news": [
   {
    "id": 1,
+   "title": "Nike Zoom Vomero 5 Vapor Pro「Black/Metallic Silver」美式足球鞋正式登場",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-14",
+   "content": "名稱：Nike Zoom Vomero 5 Vapor Pro「Black/Metallic Silver」配色：Black/White-Metallic SilverSKU：JF3428-001建議售價：$200 美元發售日期：11 月 16 日購買連結：NikeNike 今次為 Zoom Vomero 5 帶來全新美式足球鞋款 Zoom Vomero 5 Vapor Pro「Black/Metallic Silver」，將品牌旗下備受追捧的休閒鞋款轉化為專業運動裝備。設計上保留了原版極具辨識度的層次感鞋面，並將厚實的跑步中底替換為立體鞋釘，並加入專為綠茵賽場打造的鞋領。Vomero 5 早在 2000 年代末便以機能跑鞋之姿面世，近期的強勢回歸更使其成為 Y2K 休閒風潮的指標之作。正因如此，這款變奏版更顯特別：Nike 將長期代表其速度型美式足球鞋的 Vapor 之名，套用於一雙日常休閒穿搭多於賽場衝刺的鞋款之上。上方採用黑色網眼為基底，完整保留了 Vomero 5 的核心 DNA。銀色金屬感覆面由鞋頭一直延伸至鞋帶區域，兩側更飾有大型的銀色 Swoosh。這款鞋經典的羅紋面板依舊點綴於 Swoosh 下方，中足周圍加入灰色條紋，而鞋跟則有隱約的三角形印花，為整體增添細膩質感。與原版跑鞋最顯著的分別在於腳踝部分。向上延伸的黑色針織鞋領可緊貼小腿，前後均設有拉環方便穿著，鞋帶上方更縫有 Nike Vapor 標籤，突顯其專業性能。鞋款預設為白色鞋帶，而產品圖亦顯示將附贈黑、紅、亮綠色鞋帶，讓球員可根據球隊顏色自由配搭。鞋底方面，亮白色大底貫穿全鞋，並延伸至立體鞋釘，與深色鞋面形成鮮明對比。前掌板位更設有圓形視窗，透出 Air Zoom 標誌，呼應賦予 Vomero 系列名稱的緩震科技。敬請設定提醒，並在 Hypebeast Drops 搶先了解最新發售資訊。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2FNike-Zoom-Vomero-5-Vapor-Pro-Black-Metallic-Silver-JF3428-001-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/nike-zoom-vomero-5-vapor-pro-black-metallic-silver-jf3428-001-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "The Nike Zoom Vomero 5 Vapor Pro “Black/Metallic Silver” Takes the Lifestyle Icon to the Gridiron",
+   "source": "Hypebeast",
+   "date": "2026-11-14",
+   "content": "Name: Nike Zoom Vomero 5 Vapor Pro “Black/Metallic Silver”Colorway: Black/White-Metallic SilverSKU: JF3428-001MSRP: $200 USDRelease Date: November 16Where to Buy: NikeNike is taking the Zoom Vomero 5 onto the field with the Zoom Vomero 5 Vapor Pro “Black/Metallic Silver,” a football cleat that translates one of the Swoosh’s most in-demand lifestyle silhouettes into performance gear. The design holds onto enough of the original’s layered upper to stay instantly recognizable, then swaps the chunky running sole for a studded plate and a collar built for the gridiron.The Vomero 5 first arrived in the late 2000s as a technical running shoe before its recent revival turned it into a fixture of the Y2K-inspired lifestyle wave. That history is part of what makes this conversion notable, as Nike is applying the Vapor name, long attached to its speed-focused football cleats, to a model better know",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F12%2FNike-Zoom-Vomero-5-Vapor-Pro-Black-Metallic-Silver-JF3428-001-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/nike-zoom-vomero-5-vapor-pro-black-metallic-silver-jf3428-001-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
    "title": "Vans 與 Pringle of Scotland 聯乘推出 Premium 經典系列鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-13",
@@ -43,7 +69,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 4,
    "title": "Jordan Brand 推出 Air Jordan 4 全新「Spotlight」鱷魚紋皮革鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-13",
@@ -57,7 +83,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 5,
    "title": "HERALBONY x ASICS 攜手將 GEL-1130 化作可穿戴畫布",
    "source": "Hypebeast 中文",
    "date": "2026-11-13",
@@ -70,7 +96,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 6,
    "title": "Vans and Pringle of Scotland Wrap Three Premium Icons in Fuzzy Argyle Wool",
    "source": "Hypebeast",
    "date": "2026-11-13",
@@ -83,7 +109,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 7,
    "title": "Jordan Brand Dresses the Air Jordan 4 \"Spotlight\" in Faux-Crocodile Leather",
    "source": "Hypebeast",
    "date": "2026-11-13",
@@ -98,7 +124,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 8,
    "title": "Birkenstock x Etro Drop Shearling-Lined Bostons and the First-Ever Arizona Collaboration",
    "source": "Hypebeast",
    "date": "2026-11-13",
@@ -111,7 +137,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 9,
    "title": "HERALBONY and ASICS Turn the GEL-1130 Into a Wearable Canvas",
    "source": "Hypebeast",
    "date": "2026-11-13",
@@ -124,31 +150,110 @@
    ]
   },
   {
-   "id": 8,
-   "title": "The Best Nike Sneaker Releases This Week",
+   "id": 10,
+   "title": "New Balance’s Tiffany-Coded Skate Shoe Catches an Atlantic Wave",
    "source": "Highsnobiety",
    "date": "2026-11-13",
-   "content": "This week of our Nike release round-up is all about performance tech that is also perfect for the streets.",
+   "content": "Atlantic Drift takes New Balance Numeric 600 skate shoe for a spin. The results are this black & teal collab covered in its signature jellyfish motif.",
    "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-sneaker-releases-november-week-2/",
+   "link": "https://www.highsnobiety.com/p/atlantic-drift-new-balance-numeric-600/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "This adidas Runner Is Fit for an Intergalactic Hellscape",
+   "source": "Highsnobiety",
+   "date": "2026-11-13",
+   "content": "Pushing technical boundaries into its own signature aesthetic territory, Hellstar returns with the Hellstar x adidas Megaride S2 Black/Solar Lemon.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/hellstar-adidas-megaride-s2-black-solar-lemon/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "adidas’ Next Flat Suede Sneaker Is Extra “Spezial”",
+   "source": "Highsnobiety",
+   "date": "2026-11-13",
+   "content": "adidas' Halewood SPZL model joins the FW26 collection as a new low-soled everyday suede sneaker.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-halewood-spzl/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "One Good Tennis Sneaker That’s Even Better Off the Court",
+   "source": "Highsnobiety",
+   "date": "2026-11-13",
+   "content": "The FILA x Highsnobiety Sneaker Weathervane is casual and lightweight, with a silhouette chic enough to go anywhere.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/one-good-tennis-sneaker-even-better-off-the-court/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 14,
+   "title": "adidas' Archival Climbing Shoe Is Back as a “Zuper” Cool Brain Dead Sneaker",
+   "source": "Highsnobiety",
+   "date": "2026-11-13",
+   "content": "Brain Dead debuts its next adidas sneaker collab, a remixed Zuperklimb wrapped in hairy suede & other stylish details.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/brain-dead-adidas-zuperklimb-shoes/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "This Is How Nike’s 36-Year-Old Air Max Looks in 2027",
+   "source": "Highsnobiety",
+   "date": "2026-11-13",
+   "content": "Nike's Air Max 90 sneaker gets a \"Tech\" makeover, resulting in this clean & modern take on the classic Swoosh model.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-90-tech/",
    "lang": "en",
    "relatedBrands": [
     "NIKE"
    ]
   },
   {
-   "id": 9,
-   "title": "These Winter-Proof Shoes Are Worth Giving Boots the Boot",
+   "id": 16,
+   "title": "Jumpman Remixed Mid Air Jordans Into an Otherworldly ‘Space Jam’ Flex",
    "source": "Highsnobiety",
    "date": "2026-11-13",
-   "content": "Who needs winter boots when everything else is getting GORE-TEX? From trail-ready sneakers to weatherproof derbies, these are the best men's winter shoes.",
+   "content": "Another Air Jordan 1 Mid joins the 2026 \"Space Jam\" collection, appeaing with cool otherworldly details like a remixed Swoosh.",
    "image": "",
-   "link": "https://www.highsnobiety.com/p/best-non-boot-winter-shoes-salomon-sorel-roa-merrell/",
+   "link": "https://www.highsnobiety.com/p/jordan-1-mid-space-jam/",
    "lang": "en",
-   "relatedBrands": []
+   "relatedBrands": [
+    "JORDAN"
+   ]
   },
   {
-   "id": 10,
+   "id": 17,
+   "title": "Ye Olde Clarks Have No Business Being This Hot (Exclusive)",
+   "source": "Highsnobiety",
+   "date": "2026-11-13",
+   "content": "Highsnobiety can exclusively reveal the Lugger Ballerina, a new collaborative shoe from British heritage brand Clarks and the young Barcelona label LAAGAM.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/clarks-laagam/",
+   "lang": "en",
+   "relatedBrands": [
+    "CLARKS",
+    "UGG"
+   ]
+  },
+  {
+   "id": 18,
    "title": "UGG 與 Aimé Leon Dore 迎來預告後的首度聯乘拖鞋",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -161,7 +266,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 19,
    "title": "solebox 為經典 Timberland 6 吋靴款注入高級馬毛材質",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -174,7 +279,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 20,
    "title": "Pokémon 與 Crocs 攜手推出 Pikachu、Gengar 及 Jigglypuff 30 週年聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -187,7 +292,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 21,
    "title": "Drake 旗下 NOCTA x Nike Air Modmax 最新「Pink Spell」配色全新圖輯曝光",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -200,7 +305,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 22,
    "title": "UGG and Aimé Leon Dore Deliver Debut Collaborative Slipper Following Teaser Campaign",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -213,7 +318,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 23,
    "title": "A Guide to UGG’s Best Holiday Gifts for the Whole Family",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -226,7 +331,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 24,
    "title": "Behind the Doors of Dolomite’s ICONICA Launch Event",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -237,7 +342,7 @@
    "relatedBrands": []
   },
   {
-   "id": 17,
+   "id": 25,
    "title": "The Whitaker Group Reimagines the New Balance 950 in \"Grey Croc\"",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -250,7 +355,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 26,
    "title": "solebox wraps the Iconic Timberland 6-Inch Boot in Premium Pony Hair",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -263,7 +368,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 27,
    "title": "Pokémon and Crocs Celebrate 30th Anniversary With Pikachu, Gengar, and Jigglypuff",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -276,7 +381,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 28,
    "title": "New Imagery Surfaces of Drake's NOCTA x Nike Air Modmax \"Pink Spell\"",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -289,46 +394,7 @@
    ]
   },
   {
-   "id": 21,
-   "title": "The Seven Best adidas Sneaker Releases This Week",
-   "source": "Highsnobiety",
-   "date": "2026-11-12",
-   "content": "This week was so chock-full of adidas standouts, we picked... seven of them.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-sneaker-releases-november-week-2/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "Nathan Fielder’s Most Convincing Argument Might Be His New Balances",
-   "source": "Highsnobiety",
-   "date": "2026-11-12",
-   "content": "In You Can See Everything, Nathan Fielder and Elizabeth Holmes prove that New Balances are the concept of ”earnestness,“ sneaker-fied.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-nathan-fielder-992-new/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "Reebok Recodes Allen Iverson’s Question Mid for a New Generation",
-   "source": "Highsnobiety",
-   "date": "2026-11-12",
-   "content": "Reebok updates Allen Iverson’s iconic Question Mid with modern cushioning, improved traction and two new Recoded colourways.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/reebok-recodes-allen-iversons-question-mid-for-a-new-generation/",
-   "lang": "en",
-   "relatedBrands": [
-    "REEBOK"
-   ]
-  },
-  {
-   "id": 24,
+   "id": 29,
    "title": "thisisneverthat 與 Danner 聯乘 Cascade Range 低筒鞋款注入越野級防護",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -339,7 +405,7 @@
    "relatedBrands": []
   },
   {
-   "id": 25,
+   "id": 30,
    "title": "adidas Originals x Drama Call 聯乘 ClimaCool 1 GTX「Drama」鞋款發佈",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -353,7 +419,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 31,
    "title": "Jordan 4 Retro TD「Bred」將 MJ 1989 年經典戰靴由籃球場帶到草地",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -366,7 +432,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 32,
    "title": "NOCTA 釋出搭載「Mod Max」技術的全新 Nike 聯乘鞋款預告",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -379,31 +445,7 @@
    ]
   },
   {
-   "id": 28,
-   "title": "Nike Book 2「Be Legendary」以標誌性紫色致敬 Kobe Bryant",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-11",
-   "content": "摘要 Nike 與 Devin Booker 正式推出致敬 Kobe Bryant 的 Book 2 紫色「Be Legendary」配色鞋款採用淺紫色荔枝皮、深紫色 Ripstop 防撕裂布料，並配上黑色漆皮 Swoosh此鞋款預計於 11 月 20 日發售，提供男裝尺寸，售價為 $145 美元，可經由 Nike 及指定零售商購買 名稱： Nike Book 2「Be Legendary」配色： Bright Violet/Black-Wolf GreySKU： FZ7013-501建議售價： $145 美元發售日期： 2026 年 11 月 20 日購買點： NikeNike 與 Phoenix Suns 後衛 Devin Booker 即將發布 Nike Book 2「Be Legendary」，將 Booker 最具意義的 Kobe Bryant 致敬設計移植至其第二代簽名鞋款。這款即將登場的配色將他職業生涯中深具個人意義的致敬之作化為常規發售版本，於冬季籃球賽季前亮相。設計淵源可追溯至 2016 年 Bryant 的最後一個 NBA 賽季，當時這位已故傳奇球星贈送 Booker 一雙親筆簽名的 Kobe 11，並寫上「Be Legendary」字句。Booker 曾於 2021 年 NBA 總決賽期間將這款極具紀念價值的紫色調應用於 Kobe 4 PE 上，其後再推出專屬的 Book 1 PE。如今過渡至 Book 2，這雙低筒球鞋在下擋泥板及覆面採用較淺紫色的荔枝皮，與鞋面裁片上耐磨的深紫色防撕裂尼龍形成對比。外側飾有亮黑色漆皮 Swoosh，配上紫色鞋帶、同色鞋舌及具紋理的內層鞋墊。雖然市售版略去了「Be Legendary」字樣，但標誌性的細節依然保留，包括鞋舌上的 Booker 品牌標誌，以及垂直鞋跟拉環上的「Chapter Two」字樣。底部配備灰色斑點中底提供緩震，最後以冰藍色半透明橡膠外底作結。Nike Book 2「Be Legendary」預計將於 2026 年 11 月 20 日發售。 Click here to view full gal",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-book-2-be-legendary-fz7013-501-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/nike-book-2-be-legendary-honors-kobe-bryant-in-signature-purple",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "See How Three Creatives Are Styling Burna Boy and On’s New Collab",
-   "source": "Hypebeast",
-   "date": "2026-11-11",
-   "content": "The latest chapter of Burna Boy and On’s partnership is taking a closer look at the people behind the artist's global success. Titled “No Giant Stands Alone,” it brings his family and band members front and center through portraits and an intimate video to mark the launch of his new limited-edition On silhouettes.In celebration of the chapter, Hypebeast now connects with three multi-faceted tastemakers from our own creative network. Spotlighting Melissa Bon, Kodjo Kuakumensah, and Koffi Wanji, they each wear the Cloudmonster BB “Sienna” from the new drop. We shoot their looks from the ground up, drawing inspiration from Burna Boy’s Twice as Tall album cover to capture their unique street style. Keep reading the round-up below to see how the collective brings out their inner giant with the bold sneakers. Melissa BonStanding tall has never been a problem for Melissa Bon. After spending yea",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F04%2Fon-burna-boy-cloudmonster-bb-collaboration-lookbook-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/on-burna-boy-cloudmonster-bb-collaboration-lookbook-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 30,
+   "id": 33,
    "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
    "source": "Nice Kicks",
    "date": "2026-11-10",
@@ -416,7 +458,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 34,
    "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
    "source": "Nice Kicks",
    "date": "2026-11-09",
@@ -429,7 +471,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 35,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -442,7 +484,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 36,
    "title": "Tremaine Emory Brings a Piece of Canal Street to adidas Originals",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -455,7 +497,7 @@
    ]
   },
   {
-   "id": 34,
+   "id": 37,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
@@ -468,7 +510,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 38,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -481,7 +523,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 39,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
@@ -494,7 +536,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 40,
    "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
    "source": "Nice Kicks",
    "date": "2026-10-28",
@@ -507,7 +549,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 41,
    "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
    "source": "Nice Kicks",
    "date": "2026-10-26",
