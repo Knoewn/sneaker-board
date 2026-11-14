@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14 12:21",
+ "updatedAt": "2026-11-14 22:40",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -18,7 +18,6 @@
   "ADIDAS",
   "ASICS",
   "BIRKENSTOCK",
-  "CLARKS",
   "CROCS",
   "JORDAN",
   "NEW BALANCE",
@@ -57,6 +56,32 @@
   },
   {
    "id": 3,
+   "title": "Getting Ahead of the Gifting Game With Wearables That'll Pull Their Weight",
+   "source": "Highsnobiety",
+   "date": "2026-11-14",
+   "content": "Get ahead of the gifting game with our adidas gift guide, featuring the clothes and sneakers worth giving this holiday season.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-holiday-gift-guide/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "HUNI Worldwide's Megaride Looks Pretty in Pink",
+   "source": "Highsnobiety",
+   "date": "2026-11-14",
+   "content": "The bold HUNI Worldwide x adidas Megaride S2 Black/Pink is an emphatic statement of intent.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/huni-worldwide-adidas-megaride-s2/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 5,
    "title": "Vans 與 Pringle of Scotland 聯乘推出 Premium 經典系列鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-13",
@@ -69,7 +94,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 6,
    "title": "Jordan Brand 推出 Air Jordan 4 全新「Spotlight」鱷魚紋皮革鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-13",
@@ -83,7 +108,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 7,
    "title": "HERALBONY x ASICS 攜手將 GEL-1130 化作可穿戴畫布",
    "source": "Hypebeast 中文",
    "date": "2026-11-13",
@@ -96,7 +121,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 8,
    "title": "Vans and Pringle of Scotland Wrap Three Premium Icons in Fuzzy Argyle Wool",
    "source": "Hypebeast",
    "date": "2026-11-13",
@@ -109,7 +134,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 9,
    "title": "Jordan Brand Dresses the Air Jordan 4 \"Spotlight\" in Faux-Crocodile Leather",
    "source": "Hypebeast",
    "date": "2026-11-13",
@@ -124,7 +149,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 10,
    "title": "Birkenstock x Etro Drop Shearling-Lined Bostons and the First-Ever Arizona Collaboration",
    "source": "Hypebeast",
    "date": "2026-11-13",
@@ -137,7 +162,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 11,
    "title": "HERALBONY and ASICS Turn the GEL-1130 Into a Wearable Canvas",
    "source": "Hypebeast",
    "date": "2026-11-13",
@@ -150,7 +175,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 12,
    "title": "New Balance’s Tiffany-Coded Skate Shoe Catches an Atlantic Wave",
    "source": "Highsnobiety",
    "date": "2026-11-13",
@@ -163,7 +188,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 13,
    "title": "This adidas Runner Is Fit for an Intergalactic Hellscape",
    "source": "Highsnobiety",
    "date": "2026-11-13",
@@ -176,7 +201,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 14,
    "title": "adidas’ Next Flat Suede Sneaker Is Extra “Spezial”",
    "source": "Highsnobiety",
    "date": "2026-11-13",
@@ -189,7 +214,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 15,
    "title": "One Good Tennis Sneaker That’s Even Better Off the Court",
    "source": "Highsnobiety",
    "date": "2026-11-13",
@@ -200,7 +225,7 @@
    "relatedBrands": []
   },
   {
-   "id": 14,
+   "id": 16,
    "title": "adidas' Archival Climbing Shoe Is Back as a “Zuper” Cool Brain Dead Sneaker",
    "source": "Highsnobiety",
    "date": "2026-11-13",
@@ -213,7 +238,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 17,
    "title": "This Is How Nike’s 36-Year-Old Air Max Looks in 2027",
    "source": "Highsnobiety",
    "date": "2026-11-13",
@@ -223,33 +248,6 @@
    "lang": "en",
    "relatedBrands": [
     "NIKE"
-   ]
-  },
-  {
-   "id": 16,
-   "title": "Jumpman Remixed Mid Air Jordans Into an Otherworldly ‘Space Jam’ Flex",
-   "source": "Highsnobiety",
-   "date": "2026-11-13",
-   "content": "Another Air Jordan 1 Mid joins the 2026 \"Space Jam\" collection, appeaing with cool otherworldly details like a remixed Swoosh.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-1-mid-space-jam/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "Ye Olde Clarks Have No Business Being This Hot (Exclusive)",
-   "source": "Highsnobiety",
-   "date": "2026-11-13",
-   "content": "Highsnobiety can exclusively reveal the Lugger Ballerina, a new collaborative shoe from British heritage brand Clarks and the young Barcelona label LAAGAM.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/clarks-laagam/",
-   "lang": "en",
-   "relatedBrands": [
-    "CLARKS",
-    "UGG"
    ]
   },
   {
