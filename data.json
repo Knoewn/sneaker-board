@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14 22:40",
+ "updatedAt": "2026-11-15 12:04",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -30,6 +30,19 @@
  "news": [
   {
    "id": 1,
+   "title": "ASICS GEL-CUMULUS 16 推出三款全新大地色系",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-15",
+   "content": "名稱： ASICS GEL-CUMULUS 16配色： Mocha/Burnt Umber、Pink Sand/Coconut、Burnt Umber/Pink SandSKU： 1203B439.200、1203B439.201、1203B439.800建議售價： €120 歐元（約 $133 美元）發售日期： 2026 年 11 月ASICS 即將擴展其復古跑鞋陣容，為 GEL-CUMULUS 16 推出三款全新的大地色系版本：「Mocha/Burnt Umber」、「Pink Sand/Coconut」及「Burnt Umber/Pink Sand」。鞋款保留了原有的層次結構，以透氣網眼材質作為基礎，並覆蓋上光澤感合成材質及無縫線面板。賦予此鞋款優良口碑的緩震配置亦得以保留。前掌與後跟均配備 GEL 亞瑟膠，搭配 FLUIDRIDE 中底與 FLYTEFOAM 材質，為長距離跑步提供柔軟平順的腳感。中底設計厚實且立體，外底邊緣設有分段式區塊，而雙色層次設計則為每一款配色增添了立體感。「Mocha/Burnt Umber」採用朱古力啡色的網眼鞋面，搭配光澤感啡色覆面、飾有淡粉色輪廓的焦赭色 ASICS 條紋，並配有米白粉紅雙色中底及粉紅色外底。而「Pink Sand/Coconut」則是三款中最柔和的一款，將淡粉色網眼與米色覆面結合，ASICS 條紋以深啡色勾勒，配上玫瑰色調中底帶及深色外底。至於「Burnt Umber/Pink Sand」，則大膽地以鐵鏽紅網眼鞋面、淡粉色條紋及淡粉色中底覆蓋於米色基礎之上。品牌標誌設計遵循原版風格：鞋領附近的鞋面覆面上印有「GEL-CUMULUS 16」字樣，而後跟及鞋墊上則飾有 ASICS 標誌。每一雙鞋款均配有兩組對比鮮明的鞋帶，分別為焦赭色與淡粉色、焦赭色與深啡色、以及淡粉色與米色交織，為整體層次豐富的外觀增添玩味。設定提醒，搶先了解 Hypebeast Drops 上的最新發售資訊。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fasics-gel-cumulus-16-1203b439-200-mocha-burnt-umber-1203b439-201-pink-sand-coconut-1203b439-800-burnt-umber-pink-sand-official-images-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/asics-gel-cumulus-16-1203b439-200-mocha-burnt-umber-1203b439-201-pink-sand-coconut-1203b439-800-burnt-umber-pink-sand-official-images-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 2,
    "title": "Nike Zoom Vomero 5 Vapor Pro「Black/Metallic Silver」美式足球鞋正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-14",
@@ -42,7 +55,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 3,
    "title": "The Nike Zoom Vomero 5 Vapor Pro “Black/Metallic Silver” Takes the Lifestyle Icon to the Gridiron",
    "source": "Hypebeast",
    "date": "2026-11-14",
@@ -55,7 +68,85 @@
    ]
   },
   {
-   "id": 3,
+   "id": 4,
+   "title": "Vans’ Wingtip Skate Shoes Have Never Looked More Dapper",
+   "source": "Highsnobiety",
+   "date": "2026-11-14",
+   "content": "ABC-Mart debuts a classy leather Vans Authentic Wingtip Brogue sneaker in black & brown colorways.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-authentic-wingtip-brogue/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "adidas Springs Back to the Future With This Bladed Runner",
+   "source": "Highsnobiety",
+   "date": "2026-11-14",
+   "content": "Lately we’re seeing a fresh appetite for pairs that look ready for the future. Standing tall (literally) among them is the adidas Springblade Lucid Blue.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-springblade-lucid-blue/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "adidas’ Slick Rain Boots Want To Be the Next Splash Hit",
+   "source": "Highsnobiety",
+   "date": "2026-11-14",
+   "content": "adidas release its own Wellington rain boots, featuring wateproof rubber & Three Stripes. Here's everything on the drop.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-rainboots/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Social Status Is Behind These Beautiful \"Sashiko\" Air Jordans",
+   "source": "Highsnobiety",
+   "date": "2026-11-14",
+   "content": "Social Status' Air Jordan 1 Low \"Sashiko\" sneaker surfaces with impressive stitching & vintage \"Chicago\" flavor.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/social-status-jordan-1-low-sashiko/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "NOCTA's Got Its Own Nike “Shox” Air Maxes",
+   "source": "Highsnobiety",
+   "date": "2026-11-14",
+   "content": "NOCTA gets a brand-new Nike Shox-style sneaker called the Air Modmax featuring the Swoosh's latest technology.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nocta-nike-air-modmax/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Nike’s Flipped Air Max Is Just as Clean as the Original",
+   "source": "Highsnobiety",
+   "date": "2026-11-14",
+   "content": "Nike's \"Infrared Flip\" Air Max 90 sneaker is a clean remix of the iconic color scheme. Here's everything on the release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-90-infrared-flip/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
    "title": "Getting Ahead of the Gifting Game With Wearables That'll Pull Their Weight",
    "source": "Highsnobiety",
    "date": "2026-11-14",
@@ -68,7 +159,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 11,
    "title": "HUNI Worldwide's Megaride Looks Pretty in Pink",
    "source": "Highsnobiety",
    "date": "2026-11-14",
@@ -81,7 +172,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 12,
    "title": "Vans 與 Pringle of Scotland 聯乘推出 Premium 經典系列鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-13",
@@ -94,7 +185,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 13,
    "title": "Jordan Brand 推出 Air Jordan 4 全新「Spotlight」鱷魚紋皮革鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-13",
@@ -108,7 +199,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 14,
    "title": "HERALBONY x ASICS 攜手將 GEL-1130 化作可穿戴畫布",
    "source": "Hypebeast 中文",
    "date": "2026-11-13",
@@ -121,7 +212,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 15,
    "title": "Vans and Pringle of Scotland Wrap Three Premium Icons in Fuzzy Argyle Wool",
    "source": "Hypebeast",
    "date": "2026-11-13",
@@ -134,7 +225,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 16,
    "title": "Jordan Brand Dresses the Air Jordan 4 \"Spotlight\" in Faux-Crocodile Leather",
    "source": "Hypebeast",
    "date": "2026-11-13",
@@ -149,7 +240,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 17,
    "title": "Birkenstock x Etro Drop Shearling-Lined Bostons and the First-Ever Arizona Collaboration",
    "source": "Hypebeast",
    "date": "2026-11-13",
@@ -162,7 +253,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 18,
    "title": "HERALBONY and ASICS Turn the GEL-1130 Into a Wearable Canvas",
    "source": "Hypebeast",
    "date": "2026-11-13",
@@ -175,83 +266,7 @@
    ]
   },
   {
-   "id": 12,
-   "title": "New Balance’s Tiffany-Coded Skate Shoe Catches an Atlantic Wave",
-   "source": "Highsnobiety",
-   "date": "2026-11-13",
-   "content": "Atlantic Drift takes New Balance Numeric 600 skate shoe for a spin. The results are this black & teal collab covered in its signature jellyfish motif.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/atlantic-drift-new-balance-numeric-600/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 13,
-   "title": "This adidas Runner Is Fit for an Intergalactic Hellscape",
-   "source": "Highsnobiety",
-   "date": "2026-11-13",
-   "content": "Pushing technical boundaries into its own signature aesthetic territory, Hellstar returns with the Hellstar x adidas Megaride S2 Black/Solar Lemon.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/hellstar-adidas-megaride-s2-black-solar-lemon/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 14,
-   "title": "adidas’ Next Flat Suede Sneaker Is Extra “Spezial”",
-   "source": "Highsnobiety",
-   "date": "2026-11-13",
-   "content": "adidas' Halewood SPZL model joins the FW26 collection as a new low-soled everyday suede sneaker.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-halewood-spzl/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 15,
-   "title": "One Good Tennis Sneaker That’s Even Better Off the Court",
-   "source": "Highsnobiety",
-   "date": "2026-11-13",
-   "content": "The FILA x Highsnobiety Sneaker Weathervane is casual and lightweight, with a silhouette chic enough to go anywhere.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/one-good-tennis-sneaker-even-better-off-the-court/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 16,
-   "title": "adidas' Archival Climbing Shoe Is Back as a “Zuper” Cool Brain Dead Sneaker",
-   "source": "Highsnobiety",
-   "date": "2026-11-13",
-   "content": "Brain Dead debuts its next adidas sneaker collab, a remixed Zuperklimb wrapped in hairy suede & other stylish details.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/brain-dead-adidas-zuperklimb-shoes/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "This Is How Nike’s 36-Year-Old Air Max Looks in 2027",
-   "source": "Highsnobiety",
-   "date": "2026-11-13",
-   "content": "Nike's Air Max 90 sneaker gets a \"Tech\" makeover, resulting in this clean & modern take on the classic Swoosh model.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-90-tech/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 18,
+   "id": 19,
    "title": "UGG 與 Aimé Leon Dore 迎來預告後的首度聯乘拖鞋",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -264,7 +279,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 20,
    "title": "solebox 為經典 Timberland 6 吋靴款注入高級馬毛材質",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -277,7 +292,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 21,
    "title": "Pokémon 與 Crocs 攜手推出 Pikachu、Gengar 及 Jigglypuff 30 週年聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -290,7 +305,7 @@
    ]
   },
   {
-   "id": 21,
+   "id": 22,
    "title": "Drake 旗下 NOCTA x Nike Air Modmax 最新「Pink Spell」配色全新圖輯曝光",
    "source": "Hypebeast 中文",
    "date": "2026-11-12",
@@ -303,7 +318,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 23,
    "title": "UGG and Aimé Leon Dore Deliver Debut Collaborative Slipper Following Teaser Campaign",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -316,7 +331,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 24,
    "title": "A Guide to UGG’s Best Holiday Gifts for the Whole Family",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -329,7 +344,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 25,
    "title": "Behind the Doors of Dolomite’s ICONICA Launch Event",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -340,7 +355,7 @@
    "relatedBrands": []
   },
   {
-   "id": 25,
+   "id": 26,
    "title": "The Whitaker Group Reimagines the New Balance 950 in \"Grey Croc\"",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -353,7 +368,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 27,
    "title": "solebox wraps the Iconic Timberland 6-Inch Boot in Premium Pony Hair",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -366,7 +381,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 28,
    "title": "Pokémon and Crocs Celebrate 30th Anniversary With Pikachu, Gengar, and Jigglypuff",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -379,7 +394,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 29,
    "title": "New Imagery Surfaces of Drake's NOCTA x Nike Air Modmax \"Pink Spell\"",
    "source": "Hypebeast",
    "date": "2026-11-12",
@@ -392,7 +407,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 30,
    "title": "thisisneverthat 與 Danner 聯乘 Cascade Range 低筒鞋款注入越野級防護",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -403,7 +418,7 @@
    "relatedBrands": []
   },
   {
-   "id": 30,
+   "id": 31,
    "title": "adidas Originals x Drama Call 聯乘 ClimaCool 1 GTX「Drama」鞋款發佈",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -417,7 +432,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 32,
    "title": "Jordan 4 Retro TD「Bred」將 MJ 1989 年經典戰靴由籃球場帶到草地",
    "source": "Hypebeast 中文",
    "date": "2026-11-11",
@@ -427,19 +442,6 @@
    "lang": "zh",
    "relatedBrands": [
     "JORDAN"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "NOCTA 釋出搭載「Mod Max」技術的全新 Nike 聯乘鞋款預告",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-11",
-   "content": "摘要 NOCTA 的 Matte Babel 分享了品牌即將推出、搭載全新 Mod Max 科技的 Nike 步鞋近照鞋款採用鮮艷的粉紅色鞋面、厚實的緩震膠囊設計，以及外底上的螢光綠細節點綴這款經 Drake 於 Instagram 轉發的實驗性底台設計，旨在提升穩定性與吸震效果 NOCTA 與 Nike 似乎正準備推出下一款聯乘鞋履，早期諜照揭露了一款搭載全新「Mod Max」技術的即將登場鞋型。這組預告最初由 NOCTA 的 Matte Babel 分享，隨後獲 Drake 於個人 Instagram Story 轉發，展示了旨在優化衝擊吸收與足底穩定性的實驗性設計。根據曝光的圖片，這款即將推出的運動鞋以充滿活力的亮粉色鞋面為特色，並與外底的螢光綠細節形成鮮明對比。設計的焦點在於其複雜的足底結構，直接在鞋底組件中融入了明顯且厚實的緩震艙。作為 Nike 專利「Mod Max」模具的首發畫布，此技術平台專為提升整體穿著舒適度而打造，在減少強力踩踏衝擊的同時，亦能維持橫向支撐。敬請留意有關發售的進一步詳情。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fdrake-nocta-teases-new-nike-sneaker-equipped-with-mod-max-technology-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/drake-nocta-teases-new-nike-sneaker-equipped-with-mod-max-technology",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
    ]
   },
   {
