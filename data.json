@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16 12:04",
+ "updatedAt": "2026-11-17 01:43",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,19 +17,56 @@
  "brands": [
   "ADIDAS",
   "ASICS",
-  "BIRKENSTOCK",
   "CLARKS",
   "CROCS",
   "JORDAN",
   "NIKE",
-  "TIMBERLAND",
-  "UGG",
+  "ON RUNNING",
   "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Nike Dunk Low「Grandma's Couch」將復古客廳魅力注入經典籃球鞋",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-16",
+   "content": "名稱：Nike Dunk Low Retro Premium「Grandma's Couch」配色：Golden Hops/Velvet BrownSKU：JF4566-900建議售價：$130 美元發售日期：現已發售購買連結：NikeNike 最新推出的 Dunk Low Retro Premium「Grandma's Couch」帶來了濃厚的懷舊氣息，並正式採用「Golden Hops/Velvet Brown」配色。如其趣味的別名所示，整雙鞋的鞋面均包裹在一層豐富且具有質感的絲絨布料中，上面飾有精緻的復古花卉錦緞圖案。金黃色與絲絨啡色的深秋色調營造出經典客廳沙發那種令人感到舒適且熟悉的感覺。這種充滿圖案的設計將傳統籃球鞋款轉化為一款極具觸感、以生活品味為主的搶眼單品，非常適合秋冬季節著用。與充滿花卉圖案的鞋面形成對比，這款設計巧妙地融入了品牌標誌與結構性的裝飾。鞋身兩側標誌性的 Nike Swoosh 獨特地使用了立體的白色縫線製成，並以低調的啡色滾邊勾勒出輪廓，賦予標誌鮮明的三維立體感。為了平衡溫暖的色調，一塊柔和的「Pale Ivory」帆布鞋舌配以相襯的鞋帶和高級皮革內襯。最後配以經典的橡膠鞋底，這款「Grandma's Couch」Dunk Low 將傳統運動基因與舒適的祖母風美學完美結合。設定提醒，緊貼 Hypebeast Drops 搶先了解最新發售資訊。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-dunk-low-retro-premium-grandmas-couch-golden-hops-velvet-brown-jf4566-900-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/nike-dunk-low-retro-premium-grandmas-couch-golden-hops-velvet-brown-jf4566-900-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Marvel 與 Crocs 攜手推出「Doctor Doom」聯乘 Classic Clog",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-16",
+   "content": "摘要 Marvel 與 Crocs 攜手合作，推出以標誌性反派 Doctor Doom 為靈感的全新 Classic Clog鞋款採用深綠色鞋面，配上隱約的漫畫圖案，淺灰色鞋底則印有隱藏的面具圖樣此聯乘鞋款將於 12 月 3 日在 Crocs、Foot Locker 及指定零售商正式登場 名稱： Marvel x Crocs Classic Clog「Doctor Doom」配色： 綠/灰/黑SKU： 212995-90H建議零售價： 待定發售日期： 2026 年 12 月 3 日發售點： CrocsMarvel 與 Crocs 正式發布最新聯乘鞋款，推出 Marvel x Crocs Classic Clog「Doctor Doom」。新鞋款趕在該反派角色於《Avengers: Doomsday》萬眾期待的回歸大銀幕前登場，將角色標誌性的邪惡美學轉化為舒適的日常必備單品。這款 Classic Clog 直接從該反派經典的綠色披風與金屬面具汲取靈感，採用俐落的雙色調設計。鞋款配備深綠色鞋面，滿佈精緻的同色系漫畫圖案。與深色鞋面形成對比的，是淺灰色的鞋底與同色灰色鞋墊。為了增添隱藏細節，鞋底直接印有 Doctor Doom 的面具圖案，穿著時會保持隱藏狀態。為提升主題設計感，鞋跟綁帶以金色圓形金屬配件點綴。此鞋款亦配有三款獨家 Jibbitz 飾物供自訂造型，包括迷你漫畫封面、坐在王座上的 Doom，以及精緻的面具臉龐雕塑。設計各處均印有顯眼的 Marvel 標誌，令聯乘設計更臻完美。Marvel x Crocs Classic Clog「Doctor Doom」將於 2026 年 12 月 3 日發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fmarvel-crocs-classic-clog-doctor-doom-212995-90H-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/marvel-crocs-classic-clog-doctor-doom-212995-90h-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "adidas Rainboot 登場：經典雨靴注入 Continental 橡膠外底",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-16",
+   "content": "名稱：adidas Japan Rainboot「Core Black」、adidas Japan Rainboot「Khaki Three」、adidas Japan Rainboot「Earth Strata」配色：Core Black/Cloud White/Core Black、Khaki Three/Cloud White/Khaki Three、Earth Strata/Earth Strata/Cloud WhiteSKU：LC1783、LC1784、LC1786建議零售價：¥16,500 日圓發售日期：11 月 20 日購買點：adidas Japanadidas Originals 發布了 adidas Rainboot，改良了經典威靈頓雨靴，專為在潮濕城市出行而設計，有別於傳統的農用靴。它保留了熟悉的穿脫款式，並加入了品牌球鞋的結構細節，設計簡約，能配搭日常或亮眼造型。這款靴子由防水橡膠製成，長度及膝，提供全面保護，同時沒有傳統野外靴的僵硬感。adidas 加寬了小腿位置，使步行時靴筒不會夾腳，且更易於穿脫。採用常規版型設計，大多數穿著用家可購買慣用的尺寸。在鞋面下方，Rainboot 借鑒了 adidas 的功能性系列。外底採用 Continental 橡膠，這是 adidas 長期用於跑步和越野鞋的材料，能在濕滑表面提供抓地力。內部設有紡織面料鞋墊，提升了長時間穿著橡膠靴的舒適度，這對適合全天穿著的靴子尤為重要。設計上刻意保持極簡。平滑簡潔的靴筒配以簡單的 adidas 標誌，讓靴型成為焦點，呼應了 Originals 將實用性與街頭風格融合的理念。備有三種配色可供選擇：「Core Black/Cloud White」、「Khaki Three/Cloud White」及「Earth Strata/Cloud White」，一系列黑色、卡其色和啡色，非常適合雨季。設定好你的提醒，在 Hypebeast Drops 搶先掌握最新發售情報。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fadidas-Japan-Rainboot-Core-Black-Khaki-Three-Earth-Strata-LC1783-LC1784-LC1786-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/adidas-japan-rainboot-core-black-khaki-three-earth-strata-lc1783-lc1784-lc1786-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 4,
    "title": "Kith、PROLETA RE ART 與 Clarks Originals 攜手推出獨家 Wallabee 鞋款與服飾",
    "source": "Hypebeast 中文",
    "date": "2026-11-16",
@@ -42,7 +79,20 @@
    ]
   },
   {
-   "id": 2,
+   "id": 5,
+   "title": "Sneaker Politics x ASICS 攜手呈獻珍珠母貝光澤「Oyster Pack」聯乘系列",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-16",
+   "content": "名稱：Sneaker Politics x ASICS Gel-Cumulus 16「Pearl」、Sneaker Politics x ASICS Gel-Kayano 12.1「Shell」配色：Cream/Mist、Phantom/Acai型號： 1203B346.100、1203B348.020定價：$180 美元、$190 美元發售日期： 11 月 21 日發售點：Sneaker PoliticsSneaker Politics 與 ASICS 正式發布「Oyster Pack」雙鞋款聯乘系列，將生蠔一分為二，帶來 Gel-Kayano 12.1「Shell」及 Gel-Cumulus 16「Pearl」。兩款設計皆融入回收生蠔殼元素，而是次發布亦旨在支持 Louisiana 海岸的珊瑚礁修復工作。Sneaker Politics 本身便是發跡於 Louisiana 的精品店，因此這個主題對品牌而言別具意義。Gel-Kayano 12.1「Shell」的設計靈感源自生蠔外殼，採用 Phantom/Acai 配色，中底經過舊化處理，仿如長年浸泡於水中的蠔殼。而 Gel-Cumulus 16「Pearl」則呈現生蠔內部，以 Cream/Mist 為基調，並注入珍珠母貝般的幻彩藍紫光澤，顏色會隨着穿着者的步伐而變化。兩款鞋履採用相同鞋面設計。合成漆皮與帶有珍珠光澤的 TPU 覆面覆蓋於通風網眼物料上，在不同角度下折射出迷人光線。鞋帶飾有珍珠鞋帶扣，鞋舌及定制鞋墊上印有 Sneaker Politics 標誌，其中「Shell」更於鞋跟處飾有品牌 Logo。緩震系統方面則保留了兩款型號的跑步基因。Gel-Cumulus 16 配備 FLYTEFOAM 中底，兩對鞋均採用 GEL 與 FLUIDRIDE 緩震技術，並結合 GUIDANCE LINE 穩定系統與橡膠外底。每對鞋履均附贈後備鞋帶，並附送外形如生蠔網般的聯乘專屬鞋盒。此外，保育行動不僅止於主題設計。Sneaker Politics 與非牟利組織 Coalition to Restore Coastal Lou",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2FftSneaker-Politics-ASICS-Gel-Cumulus-16-pearl-Gel-Kayano-12.1-shell-1203B346-100-1203B348-020-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/sneaker-politics-asics-gel-cumulus-16-pearl-gel-kayano-12-1-shell-1203b346-100-1203b348-020-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 6,
    "title": "Devin Booker 穿上 Nike Book 2「Mag」回到未來",
    "source": "Hypebeast 中文",
    "date": "2026-11-16",
@@ -55,7 +105,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 7,
    "title": "Drake 與 Nike NOCTA 聯乘全新鞋款 Air Modmax 官方發售日期正式確認",
    "source": "Hypebeast 中文",
    "date": "2026-11-16",
@@ -68,7 +118,97 @@
    ]
   },
   {
-   "id": 4,
+   "id": 8,
+   "title": "Sorel Pushes Its Icons Forward With the “Age of Discovery” Collection",
+   "source": "Hypebeast",
+   "date": "2026-11-16",
+   "content": "On the eve of its 65th anniversary year, Sorel is heading into Fall/Winter 2026 with its “Age of Discovery” collection, a lineup that merges the brand’s heritage with new innovation. At its center are three new men’s styles: the Callsign Enigma GTX sneaker, the Daystorm Horizon Zip GTX boot and the Caribou Horizon Zip GTX boot. Each one pairs arctic-grade performance with a sharper, street-ready attitude.The Callsign Enigma GTX blends street style with outdoor grit. A waterproof GORE-TEX® textile upper is finished with a leather mudguard and a gusseted rubberized zip shroud. Speed laces with a cord-lock and SOREL-branded aglets handle the closure, and reflective SOREL branding runs along both quarters. Underfoot, a lightweight molded LIVELYFOAM midsole and a removable Ortholite footbed sit on a Vibram XS TREK EVO outsole. The sneaker comes in “Black/Black,” “Tawny Buff/Black” and “Deep W",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F10%2Fsorel-pushes-its-icons-forward-with-the-age-of-discovery-collection-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/sorel-pushes-its-icons-forward-with-the-age-of-discovery-collection",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 9,
+   "title": "The Nike Dunk Low “Grandma’s Couch” Brings Vintage Living-Room Charm to the Court Classic",
+   "source": "Hypebeast",
+   "date": "2026-11-16",
+   "content": "Name: Nike Dunk Low Retro Premium “Grandma’s Couch”Colorway: Golden Hops/Velvet BrownSKU: JF4566-900MSRP: $130 USDRelease Date: Available NowWhere to Buy: NikeNike brings a heavy dose of nostalgia to its latest release with the Dunk Low Retro Premium “Grandma’s Couch,” officially arriving in a “Golden Hops/Velvet Brown” colorway. True to its playful nickname, the sneaker’s entire upper is wrapped in a rich, textured velvet fabric decorated with an elaborate, vintage-inspired floral brocade pattern. The deep autumnal palette of golden hues and velvety browns evokes the comforting, familiar aesthetic of classic living room upholstery. This heavily patterned execution transforms the traditional basketball silhouette into a highly tactile, lifestyle-focused statement piece perfect for the fall and winter seasons.Contrasting the busy floral upper, the design incorporates carefully considered ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2Fnike-dunk-low-retro-premium-grandmas-couch-golden-hops-velvet-brown-jf4566-900-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/nike-dunk-low-retro-premium-grandmas-couch-golden-hops-velvet-brown-jf4566-900-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Marvel and Crocs Unite for a \"Doctor Doom\" Classic Clog",
+   "source": "Hypebeast",
+   "date": "2026-11-16",
+   "content": "Summary Marvel and Crocs have teamed up to release a new Classic Clog inspired by the iconic villain Doctor DoomThe footwear features a dark green upper with subtle comic artwork and a light grey sole equipped with a hidden mask graphicThe collaborative pair officially drops on December 3 at Crocs, Foot Locker, and select retailers Name: Marvel x Crocs Classic Clog \"Doctor Doom\"Colorway: Green/Grey/BlackSKU: 212995-90HRetail Price: TBDRelease Date: December 3, 2026Where to Buy: CrocsMarvel and Crocs have officially unveiled their latest collaborative footwear endeavor, introducing the Marvel x Crocs Classic Clog \"Doctor Doom.\" Arriving ahead of the villain's highly anticipated theatrical return in Avengers: Doomsday, the new silhouette translates the character's signature menacing aesthetic into a comfortable, everyday staple.Drawing direct inspiration from the antagonist's iconic green ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F15%2Fmarvel-crocs-classic-clog-doctor-doom-212995-90H-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/marvel-crocs-classic-clog-doctor-doom-212995-90h-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "The adidas Rainboot Puts Continental Grip Under a Classic Wellington",
+   "source": "Hypebeast",
+   "date": "2026-11-16",
+   "content": "Name: adidas Japan Rainboot “Core Black,” adidas Japan Rainboot “Khaki Three,” adidas Japan Rainboot “Earth Strata”Colorway: Core Black/Cloud White/Core Black, Khaki Three/Cloud White/Khaki Three, Earth Strata/Earth Strata/Cloud WhiteSKU: LC1783, LC1784, LC1786MSRP: ¥16,500 (JPY)Release Date: November 20Where to Buy: adidas Japanadidas Originals has unveiled the adidas Rainboot, an updated take on the classic Wellington made for getting around a wet city rather than working in the fields. It keeps the familiar pull-on shape and adds construction details from the brand’s sneaker side, with simple styling meant to work with both everyday and more statement-making outfits.The boot is built from waterproof rubber and rises almost to the knee, giving it full coverage without the stiffness of a traditional field boot. adidas gave the calf extra room, so the shaft doesn’t pinch while walking an",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2Fadidas-Japan-Rainboot-Core-Black-Khaki-Three-Earth-Strata-LC1783-LC1784-LC1786-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/adidas-japan-rainboot-core-black-khaki-three-earth-strata-lc1783-lc1784-lc1786-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "ON RUNNING"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Kith, PROLETA RE ART, and Clarks Originals Debut Exclusive Wallabees and Apparel",
+   "source": "Hypebeast",
+   "date": "2026-11-16",
+   "content": "Summary Ronnie Fieg commissioned Japanese artist PROT for a 15-piece collection to celebrate Kith's 15th anniversaryThe partnership includes ten extremely limited Classic Logo Hoodies alongside regional Clarks Originals WallabeesThe collaborative collection releases on November 16 via Kith online and at select global flagship locations Kith founder Ronnie Fieg has tapped Japanese artist PROT of PROLETA RE ART for a monumental anniversary collaboration, enlisting Clarks Originals to deliver an incredibly limited run of the iconic Wallabee. Created to commemorate Kith's 15th anniversary, the partnership merges Fieg's archival silhouettes with century-old Japanese craftsmanship.The project initially began as a 15-piece, 1-of-1 collection for Fieg’s personal archive, reimagining staples like the Alonzo Jacket, Webster Jean, and Knicks headwear using discarded Japanese denim and pre-WWII band",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F15%2Fkith-proleta-re-art-clarks-originals-wallabees-apparel-collaboration-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/kith-proleta-re-art-clarks-originals-wallabees-apparel-collaboration-collection-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CLARKS"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "ASICS NOVALIS by Kiko Kostadinov Drops \"Season 6\" Featuring New Colors of the GEL-TEREMOA II",
+   "source": "Hypebeast",
+   "date": "2026-11-16",
+   "content": "The latest \"Season 6\" collection has arrived from ASICS NOVALIS, the unisex line co-created by Kiko Kostadinov Studio—led by London-based Bulgarian designer Kiko Kostadinov—and ASICS.This season features footwear and apparel that bring unique coloring and silhouettes to sportswear. The footwear lineup includes the GEL-TEREMOA II, which pairs a vibrant red upper with a dark navy sole. On the apparel side, the collection offers fleece jackets with burgundy accents and striped knit vests with geometric paneling, alongside blousons, hooded coats, and sweatshirts.\"Season 6\" will pre-launch at KIKO KOSTADINOV TOKYO on Saturday, November 14. It will then roll out to various retailers starting Tuesday, November 17. Prices are set at 36,300 yen for the GEL-TEREMOA II, 18,700 to 86,900 yen for apparel, and 12,100 to 15,400 yen for accessories. (*All prices include tax.) Click here to view full gal",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fgel-teremoa-ii-asics-novalis-season-6-release-info00.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/gel-teremoa-ii-asics-novalis-season-6-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Sneaker Politics x ASICS Shuck Open a Pearlescent “Oyster Pack”",
+   "source": "Hypebeast",
+   "date": "2026-11-16",
+   "content": "Name: Sneaker Politics x ASICS Gel-Cumulus 16 “Pearl,” Sneaker Politics x ASICS Gel-Kayano 12.1 “Shell”Colorway: Cream/Mist, Phantom/AcaiSKU: 1203B346.100, 1203B348.020MSRP: $180 USD, $190 USDRelease Date: November 21Where to Buy: Sneaker PoliticsSneaker Politics and ASICS have unveiled the “Oyster Pack,” a two-shoe collaboration that splits the oyster in half across the Gel-Kayano 12.1 “Shell” and the Gel-Cumulus 16 “Pearl.” Both are built around recycled oyster shells, and the release supports reef restoration along the Louisiana coast. Sneaker Politics is a Louisiana-born boutique, so the theme is close to homeThe Gel-Kayano 12.1 “Shell” takes the outside of the oyster. It comes in Phantom/Acai, with a midsole given a weathered, worn-in finish that looks like a shell after years in the water. The Gel-Cumulus 16 “Pearl” goes for the inside, dressing a Cream/Mist base in the iridescent ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2FftSneaker-Politics-ASICS-Gel-Cumulus-16-pearl-Gel-Kayano-12.1-shell-1203B346-100-1203B348-020-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/sneaker-politics-asics-gel-cumulus-16-pearl-gel-kayano-12-1-shell-1203b346-100-1203b348-020-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 15,
    "title": "Devin Booker Travels Back to the Future With the Nike Book 2 \"Mag\"",
    "source": "Hypebeast",
    "date": "2026-11-16",
@@ -81,7 +221,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 16,
    "title": "Drake and Nike NOCTA's New Air Modmax Has an Official Release Date",
    "source": "Hypebeast",
    "date": "2026-11-16",
@@ -94,7 +234,123 @@
    ]
   },
   {
-   "id": 6,
+   "id": 17,
+   "title": "Anthony Edwards and adidas Continue Their Signature Legacy With the AE 3",
+   "source": "Nice Kicks",
+   "date": "2026-11-16",
+   "content": "Anthony Edwards has never been short on confidence, and neither has his partnership with adidas Basketball. Since joining the Three Stripes in 2020, the… The post Anthony Edwards and adidas Continue Their Signature Legacy With the AE 3 appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/11/image-e1794796688838.jpeg",
+   "link": "https://www.nicekicks.com/anthony-edwards-adidas-signature-legacy-with-ae-3/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Devin Booker and Nike Turn the Page With the New Book 3",
+   "source": "Nice Kicks",
+   "date": "2026-11-16",
+   "content": "Devin Booker is writing another chapter in his signature sneaker story with Nike Basketball. Following the success of the Book 1 and Book 2,… The post Devin Booker and Nike Turn the Page With the New Book 3 appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/11/nike-inc-world-of-athletes-nike-book-3-scaled.jpg",
+   "link": "https://www.nicekicks.com/devin-booker-and-nike-turn-the-page-with-the-new-book-3/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "The Best Gifts for Runners — and Their Wannabes",
+   "source": "Highsnobiety",
+   "date": "2026-11-16",
+   "content": "This running-sport inspired gift guide has legs. As will those gifted. Find treats for pro, amateur and wannabe runners alike, from Satisfy to Nike!",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/gift-guide-for-runners/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "The Ultimate Black Friday Cheat Sheet",
+   "source": "Highsnobiety",
+   "date": "2026-11-16",
+   "content": "Every Black Friday 2026 code and sale worth using, from adidas and Nike to SSENSE and Farfetch. Updated daily by Highsnobiety’s Shopping team",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/black-friday-codes/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "Some Very Good Gifts for Some Very Specific People",
+   "source": "Highsnobiety",
+   "date": "2026-11-16",
+   "content": "From sneakerheads and fashion fanatics to collectors and creatives, discover GOAT's gift guides packed with standout gifts for every personality.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/goat-gift-guide-gifts-for-every-personality/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 22,
+   "title": "adidas’ Crispy-Clean Court Shoe Is Even Cooler as a Mary Jane",
+   "source": "Highsnobiety",
+   "date": "2026-11-16",
+   "content": "adidas' Grand Court Lo Mary Jane sneaker sees the flat tennis-style sneaker reimagined as a ballerina-worthy stepper.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-grand-court-lo-mary-jane/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Nike’s Swooshless Running Shoe Comes With a Sweet Bubblegum Boost",
+   "source": "Highsnobiety",
+   "date": "2026-11-16",
+   "content": "Nike's Vomero Plus \"Sea Glass\" is another Swoosh-free running shoe with stacked sweet pink soles.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-vomero-plus-sea-glass/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "atmos Turns a 30-Year-Old Air Jordan Into a Wearable Jade Jewel",
+   "source": "Highsnobiety",
+   "date": "2026-11-16",
+   "content": "atmos releases an Air Jordan 12 Jade sneaker for the model's 30th anniversary, revisiting its famous design.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-12-atmos-jade/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Nike’s Puffy Leather Air Max Is the Good Kind of Rusty",
+   "source": "Highsnobiety",
+   "date": "2026-11-16",
+   "content": "Nike releases a third puff leather Air Max 90 sneaker in a fall-worthy \"Dark Russet\" colorway. Here's everything on the perfectly padded orange shoe.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-90-dark-russet/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 26,
    "title": "Brain Dead 與 adidas Originals 復刻長絨毛麂皮 Adventure ZUPERKLIMB",
    "source": "Hypebeast 中文",
    "date": "2026-11-15",
@@ -107,7 +363,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 27,
    "title": "Nike Air Force 1 Low「Iridescent Wolf Grey」閃耀藍紫幻彩光芒",
    "source": "Hypebeast 中文",
    "date": "2026-11-15",
@@ -120,7 +376,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 28,
    "title": "ASICS GEL-CUMULUS 16 推出三款全新大地色系",
    "source": "Hypebeast 中文",
    "date": "2026-11-15",
@@ -133,7 +389,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 29,
    "title": "Brain Dead and adidas Originals Revive the Adventure ZUPERKLIMB in Shaggy Suede",
    "source": "Hypebeast",
    "date": "2026-11-15",
@@ -146,7 +402,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 30,
    "title": "Nike Air Force 1 Low “Iridescent Wolf Grey” Shimmers With Blue and Lavender Hues",
    "source": "Hypebeast",
    "date": "2026-11-15",
@@ -159,7 +415,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 31,
    "title": "ASICS Dresses the GEL-CUMULUS 16 in Three Earthy, Warm-Toned Colorways",
    "source": "Hypebeast",
    "date": "2026-11-15",
@@ -172,72 +428,7 @@
    ]
   },
   {
-   "id": 12,
-   "title": "adidas’ Crispy-Clean Court Shoe Is Even Cooler as a Mary Jane",
-   "source": "Highsnobiety",
-   "date": "2026-11-15",
-   "content": "adidas' Grand Court Lo Mary Jane sneaker sees the flat tennis-style sneaker reimagined as a ballerina-worthy stepper.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-grand-court-lo-mary-jane/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 13,
-   "title": "Nike’s Swooshless Running Shoe Comes With a Sweet Bubblegum Boost",
-   "source": "Highsnobiety",
-   "date": "2026-11-15",
-   "content": "Nike's Vomero Plus \"Sea Glass\" is another Swoosh-free running shoe with stacked sweet pink soles.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-vomero-plus-sea-glass/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 14,
-   "title": "atmos Turns a 30-Year-Old Air Jordan Into a Wearable Jade Jewel",
-   "source": "Highsnobiety",
-   "date": "2026-11-15",
-   "content": "atmos releases an Air Jordan 12 Jade sneaker for the model's 30th anniversary, revisiting its famous design.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-12-atmos-jade/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 15,
-   "title": "Nike’s Puffy Leather Air Max Is the Good Kind of Rusty",
-   "source": "Highsnobiety",
-   "date": "2026-11-15",
-   "content": "Nike releases a third puff leather Air Max 90 sneaker in a fall-worthy \"Dark Russet\" colorway. Here's everything on the perfectly padded orange shoe.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-90-dark-russet/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 16,
-   "title": "Nike Chanel-ified the Air Force 1",
-   "source": "Highsnobiety",
-   "date": "2026-11-15",
-   "content": "Fan-favorites are extra difficult to reinvent. The Nike Air Force 1 Quilted White proves just how to do it.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-force-1-quilted-white/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 17,
+   "id": 32,
    "title": "Nike Zoom Vomero 5 Vapor Pro「Black/Metallic Silver」美式足球鞋正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-14",
@@ -250,59 +441,7 @@
    ]
   },
   {
-   "id": 18,
-   "title": "The Nike Zoom Vomero 5 Vapor Pro “Black/Metallic Silver” Takes the Lifestyle Icon to the Gridiron",
-   "source": "Hypebeast",
-   "date": "2026-11-14",
-   "content": "Name: Nike Zoom Vomero 5 Vapor Pro “Black/Metallic Silver”Colorway: Black/White-Metallic SilverSKU: JF3428-001MSRP: $200 USDRelease Date: November 16Where to Buy: NikeNike is taking the Zoom Vomero 5 onto the field with the Zoom Vomero 5 Vapor Pro “Black/Metallic Silver,” a football cleat that translates one of the Swoosh’s most in-demand lifestyle silhouettes into performance gear. The design holds onto enough of the original’s layered upper to stay instantly recognizable, then swaps the chunky running sole for a studded plate and a collar built for the gridiron.The Vomero 5 first arrived in the late 2000s as a technical running shoe before its recent revival turned it into a fixture of the Y2K-inspired lifestyle wave. That history is part of what makes this conversion notable, as Nike is applying the Vapor name, long attached to its speed-focused football cleats, to a model better know",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F12%2FNike-Zoom-Vomero-5-Vapor-Pro-Black-Metallic-Silver-JF3428-001-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/nike-zoom-vomero-5-vapor-pro-black-metallic-silver-jf3428-001-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "Vans’ Wingtip Skate Shoes Have Never Looked More Dapper",
-   "source": "Highsnobiety",
-   "date": "2026-11-14",
-   "content": "ABC-Mart debuts a classy leather Vans Authentic Wingtip Brogue sneaker in black & brown colorways.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-authentic-wingtip-brogue/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "adidas Springs Back to the Future With This Bladed Runner",
-   "source": "Highsnobiety",
-   "date": "2026-11-14",
-   "content": "Lately we’re seeing a fresh appetite for pairs that look ready for the future. Standing tall (literally) among them is the adidas Springblade Lucid Blue.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-springblade-lucid-blue/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "adidas’ Slick Rain Boots Want To Be the Next Splash Hit",
-   "source": "Highsnobiety",
-   "date": "2026-11-14",
-   "content": "adidas release its own Wellington rain boots, featuring wateproof rubber & Three Stripes. Here's everything on the drop.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-rainboots/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 22,
+   "id": 33,
    "title": "Vans 與 Pringle of Scotland 聯乘推出 Premium 經典系列鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-13",
@@ -315,140 +454,7 @@
    ]
   },
   {
-   "id": 23,
-   "title": "Jordan Brand 推出 Air Jordan 4 全新「Spotlight」鱷魚紋皮革鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-13",
-   "content": "摘要 Jordan Brand 正式公開即將推出的 Air Jordan 4「Spotlight」零售商官方圖片這款近乎全黑的鞋款採用素面黑色皮革，搭配鞋頭與鞋帶孔翼片的仿鱷魚皮紋理，並輔以金屬銀色細節點綴Air Jordan 4「Spotlight」定價為 $215 美元，將於 2027 年 1 月 15 日透過 Nike SNKRS 及指定零售商發售 鞋款： Air Jordan 4「Spotlight」配色： Black/Black Croc型號： HV0823-002定價： $215 美元發售日期： 2027 年 1 月 15 日購買渠道： NikeJordan Brand 推出全新 Air Jordan 4「Spotlight」，延續近期「Black Cat」系列的暗黑美學。在 2027 年春季正式登場前，官方零售商率先釋出這對備受歡迎的 Air Jordan 鞋款照片。全黑配色結合充滿異國情調的質感與金屬亮點，令人眼前一亮。鞋面主要部分採用素面黑色皮革製成，鞋頭和鞋帶孔兩側則包裹著仿鱷魚紋皮革覆面，彰顯獨特風格。這種爬行動物紋理早前被拿來與 Michael Jackson 在 1992 年聯同 Michael Jordan 演出的《Jam》音樂錄影帶中所穿的平底鞋相提並論，為這款單色基調增添了豐富質感。與深色結構形成對比的是巧妙點綴的銀色細節，包括閃亮的鞋舌品牌標誌、金屬鞋帶孔夾，以及略帶光澤的中底部分。後跟處則飾有同色系的黑底黑字 Jumpman 標誌，完美融入設計之中。延續 Jordan Brand 四款「Black Cat」系列鞋款所奠定的異國材質設計方向，此版本在日常實穿性與提升表面對比度之間取得完美平衡。每一項物料選擇都突顯了這款經典籃球鞋在光滑皮革、爬行動物鱗片與閃耀金屬配件之間那份低調的交錯互動。Air Jordan 4「Spotlight」將於 2027 年 1 月 15 日發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fair-jordan-4-spotlight-HV0823-002-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/air-jordan-4-spotlight-hv0823-002-first-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "HERALBONY x ASICS 攜手將 GEL-1130 化作可穿戴畫布",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-13",
-   "content": "名稱：ASICS GEL-1130™ by HERALBONY配色：CreamSKU：1203B187-100建議售價：¥19,800 JPY（約 $124 USD）發售日期：11 月 13 日購買點：ASICS、HERALBONY、NotreASICS SPORTSTYLE 與 HERALBONY 攜手合作，向備受喜愛的復古跑鞋 ASICS GEL-1130 致敬。是次聯乘以「INSPIRE WORLD」概念為靈感，超越純粹的裝飾，將這款復古跑鞋化作可穿戴的畫布。鞋款採用藝術家小山美智子的作品，她以密集且錯綜複雜的畫風見稱，畫中佈滿身高僅略超 1 厘米、各具特色的小人。這些人物都有獨特的表情、姿勢和髮型。她的一幅作品《Atmosphere Pressure Distribution》被應用於鞋款的奶白色基底上。這件製成品遠看呈現和諧的色調，近看則能發現錯綜複雜的細節。為重現原作的觸感，這款聯乘 GEL-1130 的表面具有獨特的仿紙質感。ASICS 設計團隊更細心調整鞋面布料的編織紋理，以模仿小山作品的筆觸。鞋頭、鞋帶周圍、側面和鞋跟均加入了藍綠色、紅色和橙色等鮮艷色彩。淺色的 ASICS 條紋跨越部分圖案，凸顯了藝術品的複雜圖案及跑鞋的結構。鞋跟標誌性的 GEL 緩震技術保持原樣，並藏於乾淨的奶白色中底內，與豐富的鞋面取得平衡。藝術氣息更延伸至包裝上，特製鞋盒的內外均印有小山的畫作。ASICS GEL-1130™ by HERALBONY 將於 11 月 13 日起在 ASICS 官方網站、東京的 HERALBONY 期間限定店，以及 Chicago 的 Notre 門市發售。 View this post on Instagram A post shared by HERALBONY (@heralbony_global) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fheralbony-asics-sportstyle-gel-1130-collab-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/heralbony-x-asics-sportstyle-gel-1130-1203b187-100-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 25,
-   "title": "Vans and Pringle of Scotland Wrap Three Premium Icons in Fuzzy Argyle Wool",
-   "source": "Hypebeast",
-   "date": "2026-11-13",
-   "content": "Name: Vans x Pringle of Scotland CollectionMSRP: $110 - $130 USDRelease Date: Available NowWhere to Buy: VansVans and Pringle of Scotland have joined forces on a winter collection that combines Southern California skate culture with more than two centuries of Scottish knitwear heritage.At the heart of the footwear-led lineup are three of Vans’ Premium icons: the Authentic 44, the Sk8-Hi Reissue 38 and the Classic Slip-On 98. Each is dressed in Pringle’s signature argyle, rendered in brushed and felted wool rather than canvas. The result is a fuzzy, almost sweater-like texture, with diamonds that look slightly soft and blurred at the edges, as if cut from a well-loved knit. Underneath, the shoes keep their Premium upgrades: padded collars and uppers, a refined footbed with a Sola Foam ADC insole for all-day cushioning, taller sidewalls with a glossy finish, foxing tape inspired by Vans’ r",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F13%2Fvans-pringle-of-scotland-footwear-collection-premium-classic-slip-on-shoe-5315-premium-authentic-shoe-5310-premium-sk8-hi-shoe-5325-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/vans-pringle-of-scotland-footwear-collection-premium-classic-slip-on-shoe-5315-premium-authentic-shoe-5310-premium-sk8-hi-shoe-5325-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Jordan Brand Dresses the Air Jordan 4 \"Spotlight\" in Faux-Crocodile Leather",
-   "source": "Hypebeast",
-   "date": "2026-11-13",
-   "content": "Summary Jordan Brand has revealed official retailer images of the upcoming Air Jordan 4 \"Spotlight\"The nearly all-black sneaker pairs plain black leather with faux-crocodile leather on the toe tip and eyestay wings alongside metallic silver accentsPriced at $215 USD, the Air Jordan 4 \"Spotlight\" releases on January 15, 2027 via Nike SNKRS and select retailers Name: Air Jordan 4 \"Spotlight\"Colorway: Black/Black CrocSKU: HV0823-002MSRP: $215 USDRelease Date: January 15, 2027Where to Buy: NikeJordan Brand is extending the stealthy aesthetic of its recent \"Black Cat\" collection with the upcoming Air Jordan 4 “Spotlight.” Unveiled via official retailer images ahead of its Spring 2027 arrival, the silhouette dresses the beloved Air Jordan model in a nearly all-black colorway accented with exotic textures and metallic highlights.Constructed primarily from plain black leather across the main upp",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F12%2Fair-jordan-4-spotlight-HV0823-002-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/air-jordan-4-spotlight-hv0823-002-first-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CROCS",
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "Birkenstock x Etro Drop Shearling-Lined Bostons and the First-Ever Arizona Collaboration",
-   "source": "Hypebeast",
-   "date": "2026-11-13",
-   "content": "German footwear pioneer Birkenstock and Milanese luxury house Etro have unveiled their second collaboration. The launch introduces two exclusive models, marking the highly anticipated debut of the Arizona sandal in the two brands' collaborative lineup.Built on Birkenstock’s anatomically shaped footbed, this latest release incorporates Etro’s signature Western flair and a rich mink colorway. The collection seamlessly blends the defining design codes of both brands into classic, everyday staples.The Boston clog features a suede upper lined with plush, sand-colored shearling, adding a rich tactile contrast to its classic, architectural silhouette. Meanwhile, the Arizona—originally designed by Karl Birkenstock in 1973 with Brutalist ideals in mind—pairs a suede upper with a tonal nappa leather footbed, beautifully elevating the iconic open-toe silhouette.Both models are detailed with custom ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fbirkenstock-x-etro-collaboration-vol2-boston-arizona-info00.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/birkenstock-x-etro-collaboration-vol2-boston-arizona-info",
-   "lang": "en",
-   "relatedBrands": [
-    "BIRKENSTOCK"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "HERALBONY and ASICS Turn the GEL-1130 Into a Wearable Canvas",
-   "source": "Hypebeast",
-   "date": "2026-11-13",
-   "content": "Name: ASICS GEL-1130™ by HERALBONYColorway: CreamSKU: 1203B187-100MSRP: ¥19,800 JPY (Approx. $124 USD)Release Date: November 13Where to Buy: ASICS, HERALBONY, NotreASICS SPORTSTYLE and HERALBONY have teamed up to celebrate the beloved retro runner, ASICS GEL-1130. Inspired by the concept of “INSPIRE WORLD”, the collaboration moves beyond simple decoration to turn the retro runner into a wearable canvas.The shoe features artwork from Michiko Koyama, famous for her dense and intricate artwork filled with tiny, distinct human figures measuring just over 1cm tall. The figures all have unique expressions, poses and hairstyles. One of her pieces, Atmosphere Pressure Distribution, is applied across the shoe’s cream-colored base. The resulting work features a harmonious color scheme when viewed from afar, while revealing intricate details when viewed up close.To recreate the tactile feel of the ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F12%2Fheralbony-asics-sportstyle-gel-1130-collab-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/heralbony-x-asics-sportstyle-gel-1130-1203b187-100-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "UGG 與 Aimé Leon Dore 迎來預告後的首度聯乘拖鞋",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-12",
-   "content": "摘要 繼早前的預告後，UGG 與 Aimé Leon Dore 正式推出首款聯乘鞋履系列，帶來 UGG ALD Slipper這款靈感源自莫卡辛鞋（Moccasin）的輪廓採用優質全粒面皮革打造，綴有壓印品牌標誌及 Queens 徽章這款 Slip-on 提供「Dark Coffee Bean」與「Goldenrod」兩種配色，將於 11 月 12 日在兩大品牌的旗艦店及官方網站同步發售 經過數週的宣傳預告後，全球生活休閒品牌 UGG 與紐約時尚品牌 Aimé Leon Dore 終於正式推出其首個聯乘鞋款，帶來 UGG ALD Slipper。這次合作的鞋款將焦點完全放在提升休閒感與低調的街頭實用性上，結合了 UGG 的標誌性舒適基礎，以及 Aimé Leon Dore 對日常設計的講究。這款混合鞋履旨在輕鬆穿梭於居家休息和戶外城市環境之間，透過現代視角重新詮釋經典莫卡辛鞋型。鞋面由柔軟的全粒面皮革製成，提供持久的耐用性、天然紋理和精緻結構。極簡品牌標誌點綴著頂級皮革鞋面，將壓花 UGG 字樣與 Aimé Leon Dore 標誌性的 Queens Crest 徽章並列。這款百搭的便鞋帶來兩種大地色系配色：濃郁的「Dark Coffee Bean」及溫暖的「Goldenrod」。奠基於雙方對頂級物料、工藝和世代設計的共同承諾，這次聯乘在正式發布前，帶來了一組真實視覺宣傳活動，由嘻哈偶像 Method Man 與 Redman 在 Harlem 階梯上領銜演繹，突顯兩個品牌共同擁有的深厚文化遺產。UGG ALD Slipper 預計於 2026 年 11 月 12 日起，透過 UGG、Aimé Leon Dore、全球指定 UGG 門市、Aimé Leon Dore 旗艦店以及全球精選頂級零售商發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Faime-leon-dore-ugg-debut-collaborative-slipper-dark-coffee-bean-goldenrod-colorways-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/aime-leon-dore-ugg-debut-collaborative-slipper-dark-coffee-bean-goldenrod-colorways-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "solebox 為經典 Timberland 6 吋靴款注入高級馬毛材質",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-12",
-   "content": "鞋名： solebox x Timberland Premium 6-Inch Boot配色： Brown貨號： 待定定價： 200 歐元（約 $221 美元）發售日期： 11 月 14 日發售渠道： soleboxsolebox 與 Timberland 迎來首度合作，為標誌性的 Timberland 6 吋靴款注入獨特風格。是次聯乘放棄重新設計外型，轉而採用大膽的物料升級，證明了某些經典不需重塑，只需嶄新視角。solebox x Timberland Premium 6-Inch Boot 保留了原版鞋款的所有經典元素，包括雙層大底設計、皮革襯墊鞋領及金屬配件，但將整個鞋面換上質感十足的高級啡色馬毛，為這款實用靴款帶來奢華格調。鞋身各處皆可見到聯乘標誌，鞋跟位置 Timberland 標誌性的樹木圖案下方印有 solebox 草寫商標。此外，靴款專屬吊牌及壓花皮革鞋墊上亦印有 solebox 標誌。solebox x Timberland Premium 6-Inch Boot 將於 11 月 14 日透過 solebox 官方網站及實體店舖限量發售。 View this post on Instagram A post shared by solebox (@solebox) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fsolebox-timeberland-6-inch-boot-brown-pony-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/solebox-timberland-6-inch-boot-brown-pony-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "TIMBERLAND"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "UGG and Aimé Leon Dore Deliver Debut Collaborative Slipper Following Teaser Campaign",
-   "source": "Hypebeast",
-   "date": "2026-11-12",
-   "content": "Summary Following initial teasers UGG and Aime Leon Dore have released their debut footwear collaboration featuring the UGG ALD SlipperThe moccasin-inspired silhouette is built from premium full-grain leather with debossed branding and the Queens CrestOffered in Dark Coffee Bean and Goldenrod the slip-on launches November 12 across both brands' flagships and online Following weeks of campaign teasers, global lifestyle brand UGG and New York fashion label Aimé Leon Dore have officially delivered their first joint footwear release, introducing the UGG ALD Slipper. Centered entirely on elevated leisure and understated street utility, the collaborative silhouette unites UGG's signature comfort foundation with Aimé Leon Dore's considered approach to everyday design.Engineered to transition effortlessly between home relaxation and outdoor city environments, the hybrid shoe reinterprets classic",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F10%2Faime-leon-dore-ugg-debut-collaborative-slipper-dark-coffee-bean-goldenrod-colorways-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/aime-leon-dore-ugg-debut-collaborative-slipper-dark-coffee-bean-goldenrod-colorways-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "A Guide to UGG’s Best Holiday Gifts for the Whole Family",
-   "source": "Hypebeast",
-   "date": "2026-11-12",
-   "content": "Sheepskin boots and slippers are popular holiday gifts for a reason. They arrive just as the weather turns, and few presents get worn as often or as eagerly once they’re unwrapped, whether that’s for a quick coffee run, a lazy morning at home or a full day out in the cold — delivering an everyday style that proves their value long past the holidays.The appeal of a pair of UGG goes beyond warmth. The brand’s Classic Boot began life on the beaches of Southern California, where it kept surfers warm after early-morning sessions, and it has since grown into a symbol of laid-back West Coast style. That heritage now runs through a lineup spanning knee-high statement boots, low-profile slip-ons and house slippers sturdy enough to step outside in.Signature silhouettes such as the Classic Short and Tasman II remain go-to choices, but this season’s range stretches much further, with fluffed-up text",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F03%2Fugg-fall-2026-gift-guide-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/ugg-holiday-2026-gift-guide",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG"
-   ]
-  },
-  {
-   "id": 33,
+   "id": 34,
    "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
    "source": "Nice Kicks",
    "date": "2026-11-10",
@@ -461,7 +467,7 @@
    ]
   },
   {
-   "id": 34,
+   "id": 35,
    "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
    "source": "Nice Kicks",
    "date": "2026-11-09",
@@ -474,7 +480,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 36,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -487,7 +493,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 37,
    "title": "Tremaine Emory Brings a Piece of Canal Street to adidas Originals",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -500,7 +506,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 38,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
@@ -513,7 +519,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 39,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -526,7 +532,7 @@
    ]
   },
   {
-   "id": 39,
+   "id": 40,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
@@ -536,32 +542,6 @@
    "lang": "en",
    "relatedBrands": [
     "JORDAN"
-   ]
-  },
-  {
-   "id": 40,
-   "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
-   "source": "Nice Kicks",
-   "date": "2026-10-28",
-   "content": "The Air Jordan 3 “Fireside” (Style Code: CK9246-200) drops in a chocolate like borwn color with other hues of brown as accents. The Fireside… The post Where To Buy the Air Jordan 3 WMNS “Fireside” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/ck9246-200-5-1-e1789833654816.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
-   ]
-  },
-  {
-   "id": 41,
-   "title": "Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info",
-   "source": "Nice Kicks",
-   "date": "2026-10-26",
-   "content": "The Supreme x Nike Air Force 1 Low “Snow Camo” puts a fresh spin on the iconic silhouette with a bold black, white, and… The post Supreme x Nike Air Force 1 Low “Urban Camo” October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/10/imgi_38_866590109_18645556018024764_9165763201282690259_n.jpeg",
-   "link": "https://www.nicekicks.com/supreme-nike-air-force-1-low-urban-camo-cu9225-901/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
    ]
   }
  ]
