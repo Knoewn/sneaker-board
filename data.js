@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-17 13:54",
+ "updatedAt": "2026-11-18 01:16",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,12 +17,11 @@ window.SNEAKER_DATA = {
  "brands": [
   "ADIDAS",
   "ASICS",
-  "CLARKS",
   "CROCS",
+  "HOKA",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
-  "ON RUNNING",
   "UGG",
   "VANS"
  ],
@@ -30,6 +29,82 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Nike 與 Devin Booker 正式發布 Book 3 簽名鞋及 fragment design 聯乘鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-17",
+   "content": "摘要 Nike 與 Phoenix Suns 後衛 Devin Booker 正式發表全新 Nike Book 3 籃球鞋款這款全新鞋型採用以網眼為主的鞋面，並搭配前掌 Zoom Strobel 與 Cushlon 3.0 中底Book 3 及其隨附的服飾系列預計於 2027 年春季在全球發售 Nike 與 Devin Booker 正式發表了 Nike Book 3，標誌著這位運動員簽名籃球鞋系列的最新進化。作為品牌 World of Athletes 展覽的一部分亮相，這款新鞋繼續遊走於球場上的靈敏實戰性能與永恆的日常風格之間。Nike Book 3 專為重視活動自由度與貼地腳感的球員而設，完美平衡了運動員專屬的實戰系統與 Book 系列標誌性的經典易襯設計語言。深入探討技術規格，Book 3 鞋面主要採用網眼材質構成，提供輕盈透氣度。鞋底方面，這款球鞋配備前掌 Zoom Strobel 氣墊及 Cushlon 3.0 中底，帶來高度回彈與靈活的腳感。為了在快速橫向移動時確保穩定性，設計中加入了提供支撐的 TPU 穩定片，而外底經改良的人字紋圖案則將抓地力發揮到極致。在這次鞋款首波發布中，Booker 帶來了三款截然不同的配色。名為「Sun」的橙色版本直接致敬 Phoenix Suns，並與鮮豔的「Pink Rattlesnake」款式一同登場。最後一款是與藤原浩的 fragment design 合作打造的低調黑色版本，正式確立了這位運動員在整個夏天不斷暗示的創意合作關係。Nike Book 3 及其服飾系列將於 2027 年春季透過 Nike 及指定零售商發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fdevin-booker-nike-book-3-official-launch-announcement-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/devin-booker-nike-book-3-official-launch-announcement",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Crocs 推出全新「Puerto Rico」Classic Clog 鞋款致敬波多黎各",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-17",
+   "content": "摘要 Crocs 發表最新版本的 Classic Clog，旨在慶祝 Puerto Rico這款白色 Croslite 鞋款以環繞鞋側的該島旗幟為特色，並配有主題 Jibbitz 鞋扣這款慶祝鞋款預計於 2026 年 Holiday 季度透過 Crocs 及指定零售商發售 名稱： Crocs Classic Clog「Puerto Rico」配色： 白／藍／紅SKU： 216181-100建議零售價： $70 美元發售日期： 2026 年假日季節購買渠道： CrocsCrocs 推出全新鞋款，正式發表 Classic Clog「Puerto Rico」，以此向波多黎各致敬。這款即將推出的鞋履將品牌標誌性的舒適結構與充滿活力的文化故事相結合，超越了傳統的紅、白、藍配色，呈現出細節豐富的輪廓。這款紀念版 Classic Clog 採用純白色的 Croslite 鞋面，搭配同色系後跟帶和標誌，為設計奠定基礎。沿著鞋側，波多黎各國旗的條紋在底部上下起伏，然後在鞋頭周圍變窄。在後跟處，一個淺藍色三角形和一顆白色星星營造出國旗在鞋身周圍飄揚的視覺效果。此鞋款的亮點在於配有 8 款尺寸和飾面各異、可拆卸且具備文化主題的 Jibbitz 飾片。這些專屬配件包括一頂編織 pava 帽、一隻銀色 Taíno 風格的 coquí 樹蛙、一張白色膠椅以及波多黎各島的金色輪廓。此外，還有兩塊金啡色的炸大蕉（tostones）、一個「Wepa!」圖案，以及一個印有紅色飛拖鞋的「¡Toma!」飾片，令這套充滿趣味的配件更臻完美。這 8 件飾片均可自由組裝在鞋面的透氣孔上。Crocs Classic Clog「Puerto Rico」將於 2026 年假日季節發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fcrocs-classic-clog-puerto-rico-216181-100-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/crocs-classic-clog-puerto-rico-216181-100-official-look-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "HOKA 聯乘 WTAPS 推出如裝甲般的全新 Speedgoat TS 鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-17",
+   "content": "名稱： WTAPS x HOKA Speedgoat TS配色： Galactic Grey/High Rise、Black/Volcanic AshSKU： 1185590-GHG、1185590-BKVL建議零售價： $175 美元發售日期： 11 月 27 日購買連結： HOKAWTAPS 與 HOKA 延續其合作關係，推出全新 Speedgoat TS 鞋款，完美融合 WTAPS 的實用街頭美學與 HOKA 著名的越野跑機能。此鞋款將推出兩種配色：「Galactic Grey/High Rise」與「Black/Volcanic Ash」。鞋身採用透氣網眼材質，並在鞋頭、中足及後跟處覆蓋大面積的防護面板，賦予鞋款猶如裝甲般的外觀。「Galactic Grey」版本運用不同深淺的灰色，並在後跟拉環與中底點綴鮮明的紫色；而「Black/Volcanic Ash」版本則採用較深沉的色調，將黑灰鞋面與潔白的鞋底形成強烈對比。Speedgoat TS 兼顧都市穿搭與越野機能，搭載 HOKA 標誌性的實用元素，包括提供卓越緩震與衝擊吸收力的 EVA 中底。鞋底採用堅固耐用的 Vibram Megagrip 大底，配備深溝紋坑紋，確保在乾濕路面上皆能提供出色的抓地力。設計上融入了低調卻醒目的 WTAPS 品牌元素：鞋側顯眼印有「VISUAL UPARMORED」字樣，後跟則點綴「WTAPS」標誌，進一步鞏固這款備受矚目之作充滿軍事風格與街頭氣息的設計。請設定提醒，並在 Hypebeast Drops 上搶先了解最新發售資訊。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fwtaps-hoka-speedgoat-ts-galactic-grey-black-volcanic-ash-1185590-ghg-1185590-bkvl-collaboration-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/wtaps-hoka-speedgoat-ts-galactic-grey-black-volcanic-ash-1185590-ghg-1185590-bkvl-collaboration-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "HOKA"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Bare Knuckles 重新帶回復刻版 Brooks Cascadia 1 越野跑鞋",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-17",
+   "content": "名稱： Brooks x Bare Knuckles Cascadia 1配色： 待定SKU： 待定建議零售價： $160 美元發售日期： 現已發售發售點： Bare Knuckles、BrooksBrooks Running 與 Portland 服裝品牌 Bare Knuckles 攜手合作，重新發行 Cascadia 1，將 Brooks 最具歷史意義的其中一款越野跑鞋從經典檔案館中帶回，並以限量版形式推出。Cascadia 1 於 2004 年首次面世，並在腳下建立了其聲譽：Brooks 運動員 Scott Jurek 在他第六次連續贏得 Western States 100 賽事時曾穿著它。這版本保留了該性能血統，恢復了原版的 Pivot Post 技術、防傾桿和 HydroFlow，並加入了升級泡棉，讓你在越野和日常穿著時更加舒適。厚實的深啡色鞋底單元承載著經典輪廓，帶有雕塑感側壁，外側中底壓印有「PIVOT」字樣，外底向上延伸的深邃粗獷凸紋設計更是一絕。這次聯乘源於兩個品牌對深思熟慮的設計、優質物料和工藝的專注，引導越野跑鞋邁向日常穿著，同時不失其技術根基。Bare Knuckles 的影響力主要體現在物料上。鞋面採用泥土啡色調，以做舊的灰褐色麂皮為基底，並在鞋頭及兩側疊加深朱古力色的長絨毛麂皮覆蓋層。深色且不規則的縫線在麂皮裁片上勾勒出蜿蜒的輪廓，增添了手工感與有機紋理。平滑的透氣朱古力色皮革加固了鞋頭與鞋跟，而深啡色的網眼鞋舌與鞋領則完成了整體結構。Brooks 的標誌僅在外側以灰色縫線輪廓呈現，這也是貫穿全鞋的低調聯乘標誌手法的一部分。兩款對比鮮明的鞋帶選項增添了明亮的點綴：一雙淡黃色鞋帶，以及一雙帶有啡色斑點的奶油色圓繩鞋帶，在原本單色的啡色鞋面上顯得格外搶眼。設定提醒並在 Hypebeast Drops 搶先掌握即將推出的最新單品。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fbrooks-bare-knuckles-cascadia-1-collaboration-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/bare-knuckles-brings-brooks-archival-cascadia-1-back-to-the-trail",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 5,
+   "title": "近賞 Travis Scott x Nike Air Force 1「GTA 6」黑白配色鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-17",
+   "content": "摘要 有消息指 Travis Scott、Rockstar Games 與 Nike 正攜手打造全新的 Air Force 1 Low 聯乘系列公開發售版本預計將主打「White/Fire Pink」與「Black/Fire Pink」兩種配色這款備受期待的鞋款系列傳聞將於 11 月 21 日正式登場 名稱： Travis Scott x Rockstar x Nike Air Force 1 Low ’07「GTA 6」配色： Black/Fire Pink、White/Fire Pink型號： JJ7604-001, JJ7602-100建議售價： $130 美元發售日期： 2026 年 11 月 21 日發售點： Nike據悉 Nike、Travis Scott 與 Rockstar Games 將攜手合作，推出備受期待的聯乘企劃，有傳聞指出三方將帶來 Nike Air Force 1 Low「GTA 6」聯乘系列。該系列目前預計於今秋登場，早期消息指公開發售的版本將主要集中於這款經典鞋型的黑白兩種版本。根據早期的產品名單，公開發售將提供兩個主要選項：White/Fire Pink 與 Black/Fire Pink 配色。雖然實物波鞋的官方圖片尚未流出，但目前的猜測主要源於鞋款代號中出現的「RS」字樣（據悉代表 Rockstar Games）。此外，傳聞中還有一款 Multi-Color 多色版本正在醞釀，但目前預計僅為親友限定（Friends & Family）專屬。傳聞中的鞋款系列建基於這位 Houston 藝術家與即將推出的電子遊戲之間原有的聯繫。繼確認其歌曲《RHYNO》收錄於遊戲配樂，加上他親自暗示與 Jack of Hearts 俱樂部有關的預告後，這雙聯乘 Air Force 1 進一步鞏固了 Cactus Jack 品牌在 Vice City 中的足跡。Travis Scott x Rockstar Games x Nike Air Force 1 Low「GTA 6」聯乘系列目前預計將於 2026 年 11 月 21 日正式發售。 Click ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Ftravis-scott-rockstar-nike-air-force-1-low-07-gta-6-black-white-fire-pink-jj7604-001-jj7602-100-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/travis-scott-rockstar-nike-air-force-1-low-07-gta-6-black-white-fire-pink-jj7604-001-jj7602-100-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Nike Mind 擴展陣容：Sock、Moc Flyknit、Slip 及 Sneaker 預計於 2027 年夏季登場",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-17",
+   "content": "摘要 Nike 正將 Nike Mind 從一款單一鞋款升級為完整的感知平台，涵蓋鞋款與服飾，全方位支援運動員從備戰到復原的每個階段全天候款式採用全新的足底二級結構，將 22 個泡綿節點連接起來，帶來更柔軟的腳感；而比賽日款式則保持節點獨立運動該平台由 Nike Sport Research Lab 研發，其中的 Nike Mind Science 團隊專門研究感知、神經科學與認知學 Nike 正將 Nike Mind 從最初的單一鞋款，擴展至建基於感官設計的更廣泛平台，計劃在鞋款及服飾方面支援運動員從準備到恢復的各個階段。整個系列的核心技術保持不變，不同之處在於其 22 個泡棉凸點與足部的接觸方式，這首次為穿著者提供了腳底下感官體驗的選擇。每款 Nike Mind 鞋履均保留了該平台標誌性的 22 個泡棉凸點，而 Nike 現在於其下方增加了一層次級結構。在適合全天候穿著的型號中，這新一層將凸點連結起來，帶來更柔軟的腳感；而 Nike Mind Sock 則讓全部 22 個凸點獨立運作，帶來更強烈、更鮮明的觸感。結果是同一個感官系統，被微調以適應運動員一天中兩個截然不同的時刻。全新陣容由此劃分。Nike Mind Sock 與原版的 Nike Mind 001 一樣，針對比賽日的準備階段；而 Moc Flyknit、Slip 及 Sneaker 則專為全天候穿著而設。這使該平台擁有一雙專門為賽前而設的鞋款，以及三款將舒適度置於強烈觸感之上的日常選擇。這些科學依據來自 Nike 運動研究實驗室（Nike Sport Research Lab）內的 Nike Mind Science 團隊。研究人員探討感知、神經科學與認知領域，以了解大腦與身體如何協同運作。Nike 將腳底感覺視為對運動員心理狀態的一種輸入，這使此次擴展成為品牌以研究為導向的重要舉措之一。Nike 已經明確表示，鞋履只是起步。「對於 Nike Mind 來說，鞋款只是開始。」執行副總裁兼首席創新、設計及產品總監 Phil McCartney 在新聞稿中指出，並補充說公司正以其研究成果為基礎，為運動員在鞋款",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2FNike-Mind-Slip-Mind-Moc-Flyknit-Mind-Sneaker-Mind-Sock-Announcement-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/nike-mind-slip-mind-moc-flyknit-mind-sneaker-mind-sock-announcement-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 7,
    "title": "Nike Vomero 19 及 Vaporfly 5 搭載全新 ZoomX 及 ReactX 泡棉減重登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -42,7 +117,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 8,
    "title": "Social Status 與 Jordan Brand 攜手以 Sashiko 布料重塑 Air Jordan 1 Low OG",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -56,7 +131,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 9,
    "title": "Atlantic Drift x New Balance Numeric Tom Knox 600 最新聯乘鞋款正式發佈",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -69,7 +144,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 10,
    "title": "Devin Booker 率先著用 Nike Book 3 最新「Twilight」配色上陣",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -82,7 +157,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 11,
    "title": "Sperry 攜手 BEAMS PLUS 升級軍事風格 MIL CVO 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -93,7 +168,97 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 12,
+   "title": "Nike and Devin Booker Officially Unveil the Book 3 Alongside a fragment design Collaboration",
+   "source": "Hypebeast",
+   "date": "2026-11-17",
+   "content": "Summary Nike and Phoenix Suns guard Devin Booker have officially introduced the Nike Book 3 basketball sneakerThe new silhouette pairs a predominantly mesh upper with a forefoot Zoom Strobel and Cushlon 3.0 midsoleThe Book 3 and its accompanying apparel collection are set to release globally in Spring 2027 Nike and Devin Booker have officially introduced the Nike Book 3, marking the next evolution in the athlete's signature basketball franchise. Unveiled as part of the brand's World of Athletes showcase, the new silhouette continues to operate at the intersection of responsive on-court performance and timeless, everyday style.Created for players who prioritize freedom of movement and a low-to-the-ground court feel, the Nike Book 3 perfectly balances an athlete-curated performance system with the classic, wearable design language that defines the Book line. Diving into the technical speci",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2Fdevin-booker-nike-book-3-official-launch-announcement-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/devin-booker-nike-book-3-official-launch-announcement",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Crocs Honors the Island With the \"Puerto Rico\" Classic Clog",
+   "source": "Hypebeast",
+   "date": "2026-11-17",
+   "content": "Summary Crocs has unveiled a new iteration of its Classic Clog dedicated to celebrating Puerto RicoThe white Croslite silhouette features the island's flag wrapping around the sides alongside thematic Jibbitz charmsThe celebratory footwear is scheduled to arrive during the Holiday 2026 season via Crocs and select retailers Name: Crocs Classic Clog \"Puerto Rico\"Colorway: White/Blue/RedSKU: 216181-100MSRP: $70 USDRelease Date: Holiday 2026Where to Buy: CrocsCrocs is paying homage to the island of Puerto Rico with its latest footwear release, officially introducing the Classic Clog \"Puerto Rico.\" Blending the brand's signature comfortable construction with vibrant cultural storytelling, the upcoming drop goes well beyond traditional red, white, and blue color blocking to deliver a highly detailed silhouette.Anchoring the commemorative design, the Classic Clog utilizes a crisp white Croslite",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2Fcrocs-classic-clog-puerto-rico-216181-100-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/crocs-classic-clog-puerto-rico-216181-100-official-look-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "HOKA Taps WTAPS for an Armor-Inspired Speedgoat TS Sneaker",
+   "source": "Hypebeast",
+   "date": "2026-11-17",
+   "content": "Name: WTAPS x HOKA Speedgoat TSColorway: Galactic Grey/High Rise, Black/Volcanic AshSKU: 1185590-GHG, 1185590-BKVLMSRP: $175 USDRelease Date: November 27Where to Buy: HOKAThe ongoing collaboration between WTAPS and HOKA continues with the Speedgoat TS, blending WTAPS’ utilitarian streetwear aesthetic with HOKA’s renowned trail-running performance.Releasing in two distinct colorways - “Galactic Grey/High Rise” and “Black/Volcanic Ash” - the silhouette utilizes a breathable mesh base overlaid with extensive protective paneling across the toe, midfoot, and heel, giving the sneaker an almost armor-like appearance. The “Galactic Grey” iteration relies on varying shades of grey accented by sharp pops of purple on the heel pull tab and midsole, while the “Black/Volcanic Ash” version takes a darker approach, juxtaposing its black and grey upper against a crisp white sole unit for a sharp visual ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F17%2Fwtaps-hoka-speedgoat-ts-galactic-grey-black-volcanic-ash-1185590-ghg-1185590-bkvl-collaboration-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/wtaps-hoka-speedgoat-ts-galactic-grey-black-volcanic-ash-1185590-ghg-1185590-bkvl-collaboration-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "HOKA"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Bare Knuckles Brings Brooks’ Archival Cascadia 1 Back to the Trail",
+   "source": "Hypebeast",
+   "date": "2026-11-17",
+   "content": "Name: Brooks x Bare Knuckles Cascadia 1Colorway: TBCSKU: TBCMSRP: $160 USDRelease Date: Available NowWhere to Buy: Bare Knuckles, BrooksBrooks Running and Portland clothing label Bare Knuckles have teamed up to reissue the Cascadia 1, bringing one of Brooks’ most storied trail shoes back from the archive in a limited-edition release.First introduced in 2004, the Cascadia 1 earned its reputation underfoot: Brooks athlete Scott Jurek wore it during his sixth consecutive Western States 100 victory. This version keeps that performance lineage intact, restoring the original Pivot Post technology, roll bar and HydroFlow, and adding upgraded foam for more comfort on the trail and in daily wear. A chunky, dark brown sole unit carries the archival profile, with sculpted sidewalls, “PIVOT” embossed on the lateral midsole and deep, aggressive lugs wrapping up from the outsole. The collaboration gro",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F17%2Fbrooks-bare-knuckles-cascadia-1-collaboration-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/bare-knuckles-brings-brooks-archival-cascadia-1-back-to-the-trail",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 16,
+   "title": "Closer Look at the Black and White Pairs of the Travis Scott x Nike Air Force 1 \"GTA 6\"",
+   "source": "Hypebeast",
+   "date": "2026-11-17",
+   "content": "Summary Reports suggest Travis Scott, Rockstar Games, and Nike are teaming up for a collaborative Air Force 1 Low collectionThe public release is expected to focus on a duo of White/Fire Pink and Black/Fire Pink colorwaysThe highly anticipated footwear pack is currently rumored to launch on November 21 Name: Travis Scott x Rockstar x Nike Air Force 1 Low ’07 “GTA 6”Colorway: Black/Fire Pink, White/Fire PinkSKU: JJ7604-001, JJ7602-100MSRP: $130 USDRelease Date: November 21, 2026Where to Buy: NikeNike, Travis Scott, and Rockstar Games are reportedly joining forces for a highly anticipated crossover release, with rumors pointing to a collaborative Nike Air Force 1 Low \"GTA 6\" pack. Currently expected to drop this fall, early reports indicate the public retail launch will primarily focus on distinct black and white iterations of the classic silhouette.According to early listings, the public ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F17%2Ftravis-scott-rockstar-nike-air-force-1-low-07-gta-6-black-white-fire-pink-jj7604-001-jj7602-100-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/travis-scott-rockstar-nike-air-force-1-low-07-gta-6-black-white-fire-pink-jj7604-001-jj7602-100-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE",
+    "UGG"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Nike Mind Expands With the Sock, Moc Flyknit, Slip and Sneaker for Summer 2027",
+   "source": "Hypebeast",
+   "date": "2026-11-17",
+   "content": "Summary Nike is turning Nike Mind from a single shoe into a full sensory platform that covers footwear and apparel and supports athletes from preparation through recoveryA new secondary underfoot construction links the 22 foam nodes in the all-day models for a softer feel, while the game-day styles keep the nodes moving independentlyThe platform comes out of the Nike Sport Research Lab, where the Nike Mind Science team studies perception, neuroscience and cognition Nike is expanding Nike Mind beyond its original single silhouette into a wider platform built on sensory-based design, with plans to support athletes in both footwear and apparel from preparation through recovery. The core technology stays the same across the line. What changes is how its 22 foam nodes meet the foot, and that gives wearers a choice of underfoot sensation for the first time.Every Nike Mind shoe retains the plat",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F17%2FNike-Mind-Slip-Mind-Moc-Flyknit-Mind-Sneaker-Mind-Sock-Announcement-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/nike-mind-slip-mind-moc-flyknit-mind-sneaker-mind-sock-announcement-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "The Nike Vomero 19 and Vaporfly 5 Shed Weight With New ZoomX and ReactX Foams",
+   "source": "Hypebeast",
+   "date": "2026-11-17",
+   "content": "Summary Nike Running is previewing two new road shoes, a maximum-cushioned daily trainer and a race-day super shoe aimed at distances from 5K to the half marathonThe Vomero 19 pairs plush ZoomX with a new lightweight ReactX LT compound, losing weight while keeping the Vomero 18’s stack heightThe Vaporfly 5 places a new wave-shaped Flyplate between standard ZoomX and the new ZoomX LT, which is 17% lighter and returns 8% more energy Nike has revealed the Vomero 19 and Vaporfly 5, two running shoes at opposite ends of the road lineup that both work toward the same goal of cutting weight. The Vomero 19 keeps the plush daily-trainer formula that defined its predecessor. The Vaporfly 5, still at the prototype stage, is Nike’s most aggressive version of its race shoe so far.Nike takes a measured approach to the Vomero 19, keeping the cushioning, stability and familiar geometry of the Vomero 18 ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2FftNike-Vomero-19-Vaporly-5-Announcement-Info.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/nike-vomero-19-vaporly-5-announcement-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 19,
    "title": "Social Status and Jordan Brand Reimagine the Air Jordan 1 Low OG With Sashiko Fabric",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -107,7 +272,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 20,
    "title": "Atlantic Drift and New Balance Unveil the Numeric Tom Knox 600",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -120,7 +285,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 21,
    "title": "Devin Booker Debuts the Nike Book 3 \"Twilight\" on Court",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -134,7 +299,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 22,
    "title": "Sperry Taps BEAMS PLUS to Elevate the Military-Inspired MIL CVO",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -145,7 +310,127 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 10,
+   "id": 23,
+   "title": "DIOS Goes Hunting With adidas' Rising Star",
+   "source": "Highsnobiety",
+   "date": "2026-11-17",
+   "content": "Teaming up with Houston's finest, the Three Stripes welcomes the DIOS x adidas Adistar Control 5 The Road Less Traveled.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/dios-adidas-adistar-control-5/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "From ASICS to adidas, the Seven Best Sneakers to Cop This Week",
+   "source": "Highsnobiety",
+   "date": "2026-11-17",
+   "content": "From a blanket inspired all-terrain ASICS x Story MFG collab, to a textured trail runner from Brain Dead x adidas— the cream of the sneaker crop awaits.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/the-seven-best-sneakers-to-cop-this-week-november-week-3/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "ASICS"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Nike Should Be Much Weirder",
+   "source": "Highsnobiety",
+   "date": "2026-11-17",
+   "content": "Nike is a leader in sportswear brands, that’s not up for debate. But, in the modern age, what keeps it at the fore is a dedication to getting freaky.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-performance-air-rift-new-shoes/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Jordan’s Sporty-Casual Sneaker Belongs in the Skate Park",
+   "source": "Highsnobiety",
+   "date": "2026-11-17",
+   "content": "The new Jordan Strada is a skate shoe dressed in casual clothes, complete with Nike Air tech & stylish colorways.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-strada-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 27,
+   "title": "adidas’ Floral Mary Jane Sneaker Is a Work of Balletcore Art",
+   "source": "Highsnobiety",
+   "date": "2026-11-17",
+   "content": "adidas releases a new Anfu Mary Jane covered in floral details. It's the most crafty version of the balletcore shoe yet.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-anfu-mary-jane-shoes/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 28,
+   "title": "adidas’ Brand-New Loafer Is in an (Ivy) League of Its Own",
+   "source": "Highsnobiety",
+   "date": "2026-11-17",
+   "content": "BEAMS debuts an adidas Loafer collaboration for its 50th anniversary. Here's everything on the classy birthday release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/beams-adidas-loafer/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 29,
+   "title": "Vans UGG-ified Its Skate-able Boat Shoes",
+   "source": "Highsnobiety",
+   "date": "2026-11-17",
+   "content": "Vans drops a new sherpa version of its 2-Eyeley Boat Shoe, resulting in an fluffy winter-ready version of the hybrid model.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-2-eyelet-boat-shoes/",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG",
+    "VANS"
+   ]
+  },
+  {
+   "id": 30,
+   "title": "Even in Camo, Nike’s Split-Toe Sneaker Refuses to Blend In",
+   "source": "Highsnobiety",
+   "date": "2026-11-17",
+   "content": "Nike rereleases its camouflage Air Rift sneaker-sandal for the fall. Here's everything on the drop that's anything but hidden.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-rift-hemp-camo/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 31,
+   "title": "adidas' 3D-Printed Runner Is a Nod to the Future",
+   "source": "Highsnobiety",
+   "date": "2026-11-17",
+   "content": "With the release of the adidas Futurecool Off White, the Three Stripes might be giving us an insight into what's to come.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-futurecool-off-white/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 32,
    "title": "Nike Dunk Low「Grandma's Couch」將復古客廳魅力注入經典籃球鞋",
    "source": "Hypebeast 中文",
    "date": "2026-11-16",
@@ -158,85 +443,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
-   "title": "Marvel 與 Crocs 攜手推出「Doctor Doom」聯乘 Classic Clog",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-16",
-   "content": "摘要 Marvel 與 Crocs 攜手合作，推出以標誌性反派 Doctor Doom 為靈感的全新 Classic Clog鞋款採用深綠色鞋面，配上隱約的漫畫圖案，淺灰色鞋底則印有隱藏的面具圖樣此聯乘鞋款將於 12 月 3 日在 Crocs、Foot Locker 及指定零售商正式登場 名稱： Marvel x Crocs Classic Clog「Doctor Doom」配色： 綠/灰/黑SKU： 212995-90H建議零售價： 待定發售日期： 2026 年 12 月 3 日發售點： CrocsMarvel 與 Crocs 正式發布最新聯乘鞋款，推出 Marvel x Crocs Classic Clog「Doctor Doom」。新鞋款趕在該反派角色於《Avengers: Doomsday》萬眾期待的回歸大銀幕前登場，將角色標誌性的邪惡美學轉化為舒適的日常必備單品。這款 Classic Clog 直接從該反派經典的綠色披風與金屬面具汲取靈感，採用俐落的雙色調設計。鞋款配備深綠色鞋面，滿佈精緻的同色系漫畫圖案。與深色鞋面形成對比的，是淺灰色的鞋底與同色灰色鞋墊。為了增添隱藏細節，鞋底直接印有 Doctor Doom 的面具圖案，穿著時會保持隱藏狀態。為提升主題設計感，鞋跟綁帶以金色圓形金屬配件點綴。此鞋款亦配有三款獨家 Jibbitz 飾物供自訂造型，包括迷你漫畫封面、坐在王座上的 Doom，以及精緻的面具臉龐雕塑。設計各處均印有顯眼的 Marvel 標誌，令聯乘設計更臻完美。Marvel x Crocs Classic Clog「Doctor Doom」將於 2026 年 12 月 3 日發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fmarvel-crocs-classic-clog-doctor-doom-212995-90H-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/marvel-crocs-classic-clog-doctor-doom-212995-90h-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "CROCS"
-   ]
-  },
-  {
-   "id": 12,
-   "title": "adidas Rainboot 登場：經典雨靴注入 Continental 橡膠外底",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-16",
-   "content": "名稱：adidas Japan Rainboot「Core Black」、adidas Japan Rainboot「Khaki Three」、adidas Japan Rainboot「Earth Strata」配色：Core Black/Cloud White/Core Black、Khaki Three/Cloud White/Khaki Three、Earth Strata/Earth Strata/Cloud WhiteSKU：LC1783、LC1784、LC1786建議零售價：¥16,500 日圓發售日期：11 月 20 日購買點：adidas Japanadidas Originals 發布了 adidas Rainboot，改良了經典威靈頓雨靴，專為在潮濕城市出行而設計，有別於傳統的農用靴。它保留了熟悉的穿脫款式，並加入了品牌球鞋的結構細節，設計簡約，能配搭日常或亮眼造型。這款靴子由防水橡膠製成，長度及膝，提供全面保護，同時沒有傳統野外靴的僵硬感。adidas 加寬了小腿位置，使步行時靴筒不會夾腳，且更易於穿脫。採用常規版型設計，大多數穿著用家可購買慣用的尺寸。在鞋面下方，Rainboot 借鑒了 adidas 的功能性系列。外底採用 Continental 橡膠，這是 adidas 長期用於跑步和越野鞋的材料，能在濕滑表面提供抓地力。內部設有紡織面料鞋墊，提升了長時間穿著橡膠靴的舒適度，這對適合全天穿著的靴子尤為重要。設計上刻意保持極簡。平滑簡潔的靴筒配以簡單的 adidas 標誌，讓靴型成為焦點，呼應了 Originals 將實用性與街頭風格融合的理念。備有三種配色可供選擇：「Core Black/Cloud White」、「Khaki Three/Cloud White」及「Earth Strata/Cloud White」，一系列黑色、卡其色和啡色，非常適合雨季。設定好你的提醒，在 Hypebeast Drops 搶先掌握最新發售情報。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fadidas-Japan-Rainboot-Core-Black-Khaki-Three-Earth-Strata-LC1783-LC1784-LC1786-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/adidas-japan-rainboot-core-black-khaki-three-earth-strata-lc1783-lc1784-lc1786-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 13,
-   "title": "Kith、PROLETA RE ART 與 Clarks Originals 攜手推出獨家 Wallabee 鞋款與服飾",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-16",
-   "content": "摘要 為慶祝 Kith 成立 15 週年，Ronnie Fieg 特別邀請日本藝術家 PROT 打造包含 15 款單品的獨家系列是次合作帶來 10 款極限量 Classic Logo 連帽衛衣，以及各地區限定的 Clarks Originals Wallabees此聯乘系列將於 11 月 16 日透過 Kith 官方網站及全球指定旗艦店發售 Kith 創辦人 Ronnie Fieg 邀請 PROLETA RE ART 的日本藝術家 PROT 進行了一次別具意義的週年紀念聯乘，並找來 Clarks Originals 共同打造極度限量的標誌性 Wallabee。此合作項目為紀念 Kith 成立 15 週年而生，將 Fieg 的經典設計與百年歷史的日本工藝完美結合。整個企劃最初是為 Fieg 個人檔案庫打造的 15 件專屬單品系列，利用廢棄的日本牛仔布與二戰前的頭巾，重新演繹 Alonzo Jacket、Webster Jean 及 Knicks 帽款等經典單品。為讓公眾一同慶祝，雙方特別推出剛好十件的 Kith for PROLETA RE ART Classic Logo Hoodie 公開發售，同時為 Tokyo、Osaka、Manhattan、Paris 及 London 的旗艦店帶來限定版 Wallabee。每間旗艦店都會發售一款由訂製回收布料製作的專屬配色。這項鞋履企劃由 PROT 與刺繡大師 E 於其 Tokyo 工作室手工製作，歷時近三年才大功告成。最終呈現的 Wallabee 採用復古解構牛仔布鞋面，並仔細地疊上古董靛藍染色頭巾。複雜的拼布鞋面運用傳統日本襤褸修補技術、刺子繡手工縫線及獨特的訂製飾釘打造，搭配 Clarks 傳統的縐膠鞋底，最後飾以訂製壓花標籤。Kith for PROLETA RE ART 服飾系列將於美國東部時間 2026 年 11 月 16 日上午 11 時獨家登陸 網店 及 Kith 應用程式。聯乘版 Clarks Originals Wallabee 亦會於同日在全球指定 Kith 旗艦店發售。 Click here to vie",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fkith-proleta-re-art-clarks-originals-wallabees-apparel-collaboration-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/kith-proleta-re-art-clarks-originals-wallabees-apparel-collaboration-collection-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "CLARKS"
-   ]
-  },
-  {
-   "id": 14,
-   "title": "Sneaker Politics x ASICS 攜手呈獻珍珠母貝光澤「Oyster Pack」聯乘系列",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-16",
-   "content": "名稱：Sneaker Politics x ASICS Gel-Cumulus 16「Pearl」、Sneaker Politics x ASICS Gel-Kayano 12.1「Shell」配色：Cream/Mist、Phantom/Acai型號： 1203B346.100、1203B348.020定價：$180 美元、$190 美元發售日期： 11 月 21 日發售點：Sneaker PoliticsSneaker Politics 與 ASICS 正式發布「Oyster Pack」雙鞋款聯乘系列，將生蠔一分為二，帶來 Gel-Kayano 12.1「Shell」及 Gel-Cumulus 16「Pearl」。兩款設計皆融入回收生蠔殼元素，而是次發布亦旨在支持 Louisiana 海岸的珊瑚礁修復工作。Sneaker Politics 本身便是發跡於 Louisiana 的精品店，因此這個主題對品牌而言別具意義。Gel-Kayano 12.1「Shell」的設計靈感源自生蠔外殼，採用 Phantom/Acai 配色，中底經過舊化處理，仿如長年浸泡於水中的蠔殼。而 Gel-Cumulus 16「Pearl」則呈現生蠔內部，以 Cream/Mist 為基調，並注入珍珠母貝般的幻彩藍紫光澤，顏色會隨着穿着者的步伐而變化。兩款鞋履採用相同鞋面設計。合成漆皮與帶有珍珠光澤的 TPU 覆面覆蓋於通風網眼物料上，在不同角度下折射出迷人光線。鞋帶飾有珍珠鞋帶扣，鞋舌及定制鞋墊上印有 Sneaker Politics 標誌，其中「Shell」更於鞋跟處飾有品牌 Logo。緩震系統方面則保留了兩款型號的跑步基因。Gel-Cumulus 16 配備 FLYTEFOAM 中底，兩對鞋均採用 GEL 與 FLUIDRIDE 緩震技術，並結合 GUIDANCE LINE 穩定系統與橡膠外底。每對鞋履均附贈後備鞋帶，並附送外形如生蠔網般的聯乘專屬鞋盒。此外，保育行動不僅止於主題設計。Sneaker Politics 與非牟利組織 Coalition to Restore Coastal Lou",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2FftSneaker-Politics-ASICS-Gel-Cumulus-16-pearl-Gel-Kayano-12.1-shell-1203B346-100-1203B348-020-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/sneaker-politics-asics-gel-cumulus-16-pearl-gel-kayano-12-1-shell-1203b346-100-1203b348-020-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 15,
-   "title": "Devin Booker 穿上 Nike Book 2「Mag」回到未來",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-16",
-   "content": "摘要 Devin Booker 率先展示了一款靈感源自《Back to the Future》的全新個人簽名鞋款 Nike Book 2這款波鞋採用淺灰色鞋面，配上水藍色細節與潑墨中底，令人想起經典的 Nike Mag目前尚未確認這款帶有電影色彩的配色會公開發售，還是僅作為運動員的球員專屬（PE）版本 Phoenix Suns 球星 Devin Booker 正式發表了其第二雙簽名鞋款的電影風全新版本，推出 Nike Book 2「Mag」。這款球鞋由運動員本人透過 Instagram Stories 曝光，並附有一段利用人工智能生成的影片，將他直接置身於 1989 年電影《Back to the Future Part II》的世界中，藉此直接向 Marty McFly 著用的經典自動綁帶鞋致敬。這款充滿情懷的設計採用淺灰色鞋面搭配湖水藍細節，並配備潑墨中底，忠實地將原版電影道具的整體配色移植至籃球場上。雖然它並未具備 2011 年及 2016 年實體發售版本所採用的運作中自動綁帶系統，但鞋款依然巧妙地融入了多個向原作致敬的視覺元素。鞋跟周圍，較大的 Nike 標誌下方設有綠色、黃色及紅色的三個小 Swoosh，這特定的顏色排列與原版鞋款鞋跟處的 LED 指示燈如出一轍。Booker 近日在一場對陣 Charlotte Hornets 的比賽中穿上這對主題球鞋（這對鞋還曾在一塊懸浮滑板複製品上拍攝），他在 35 分鐘的上陣時間內攻入 30 分並交出 7 次助攻。目前尚未知道這款主題設計會作公開發售，還是維持其專屬鞋款的身份。 View this post on InstagramA post shared by Phoenix Suns (@suns) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fdevin-back-to-the-future-nike-book-2-mag-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/devin-back-to-the-future-nike-book-2-mag-first-look",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 16,
-   "title": "Drake 與 Nike NOCTA 聯乘全新鞋款 Air Modmax 官方發售日期正式確認",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-16",
-   "content": "摘要 Drake 與 Nike 旗下的 NOCTA 支線正式公開 Air Modmax 鞋款，配備全新的獨家緩震科技這款採用人體工學設計的鞋型，結合靈感源自足球鞋的衍縫鞋面與加壓處理的複雜鞋底單元，可優化穩定度與吸震效果該鞋款將連同一系列 Cardinal Stock 服飾推出，預計於 11 月 16 日登陸 NOCTA、11 月 17 日登陸 Nike SNKRS 發售，售價為 $160 美元 名稱：NOCTA x Nike Air Modmax「Pink Spell」配色：Pink Spell/Volt/Amarillo/Cobalt TintSKU：IQ6711-600定價：$180 美元發售日期：11 月 16 日、11 月 17 日發售點：NOCTA、Nike為進一步擴展聯乘鞋款系列，Drake 與 Nike 合作打造的子品牌 NOCTA 正式發表了全新 NOCTA x Nike Air Modmax。這款全新輪廓最初由 NOCTA 的 Matte Babel 曝光，是這家總部位於 Beaverton 的運動品牌巨頭研發的首款模組化緩震科技的全球首秀。Air Modmax 以鮮豔的「Pink Spell/Volt/Amarillo/Cobalt Tint」配色登場，其絎縫鞋面設計汲取了經典足球鞋的獨特視覺元素。然而，這款運動鞋的真正亮點在於鞋底設計。鞋底經過精心構造，旨在符合人體工學，同時優化吸震與穩定性，並採用了 6 個可獨立調校的模組化 Air Max 氣墊，每個氣墊都發揮著特定功能。後跟的 4 個氣墊加壓至 17 psi，以緩衝強烈衝擊；而前方的 2 個 7 psi 氣墊則專為促進中足至前足的順暢過渡而設計。除了可見的 Air Max 科技外，鞋底系統還結合了 Nike Cushlon 泡棉中底，以及一個將後跟穩定器與中足穩定片結合的 TPU 承載結構，以進一步提升結構穩定性。內側、外側及腳趾部位亦加入了額外的 TPU 緩衝塊，確保在運動時提供最大程度的包覆與保護。為完成這項極具科技感的設計，鞋款配備了 G-Tek 黏性橡膠外底，並搭配「Dynamic ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnocta-nike-air-modmax-pink-spell-IQ6711-600-official-release-date-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/nocta-nike-air-modmax-pink-spell-iq6711-600-official-release-date",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 17,
+   "id": 33,
    "title": "Sorel Pushes Its Icons Forward With the “Age of Discovery” Collection",
    "source": "Hypebeast",
    "date": "2026-11-16",
@@ -247,99 +454,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 18,
-   "title": "The Nike Dunk Low “Grandma’s Couch” Brings Vintage Living-Room Charm to the Court Classic",
-   "source": "Hypebeast",
-   "date": "2026-11-16",
-   "content": "Name: Nike Dunk Low Retro Premium “Grandma’s Couch”Colorway: Golden Hops/Velvet BrownSKU: JF4566-900MSRP: $130 USDRelease Date: Available NowWhere to Buy: NikeNike brings a heavy dose of nostalgia to its latest release with the Dunk Low Retro Premium “Grandma’s Couch,” officially arriving in a “Golden Hops/Velvet Brown” colorway. True to its playful nickname, the sneaker’s entire upper is wrapped in a rich, textured velvet fabric decorated with an elaborate, vintage-inspired floral brocade pattern. The deep autumnal palette of golden hues and velvety browns evokes the comforting, familiar aesthetic of classic living room upholstery. This heavily patterned execution transforms the traditional basketball silhouette into a highly tactile, lifestyle-focused statement piece perfect for the fall and winter seasons.Contrasting the busy floral upper, the design incorporates carefully considered ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2Fnike-dunk-low-retro-premium-grandmas-couch-golden-hops-velvet-brown-jf4566-900-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/nike-dunk-low-retro-premium-grandmas-couch-golden-hops-velvet-brown-jf4566-900-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "Marvel and Crocs Unite for a \"Doctor Doom\" Classic Clog",
-   "source": "Hypebeast",
-   "date": "2026-11-16",
-   "content": "Summary Marvel and Crocs have teamed up to release a new Classic Clog inspired by the iconic villain Doctor DoomThe footwear features a dark green upper with subtle comic artwork and a light grey sole equipped with a hidden mask graphicThe collaborative pair officially drops on December 3 at Crocs, Foot Locker, and select retailers Name: Marvel x Crocs Classic Clog \"Doctor Doom\"Colorway: Green/Grey/BlackSKU: 212995-90HRetail Price: TBDRelease Date: December 3, 2026Where to Buy: CrocsMarvel and Crocs have officially unveiled their latest collaborative footwear endeavor, introducing the Marvel x Crocs Classic Clog \"Doctor Doom.\" Arriving ahead of the villain's highly anticipated theatrical return in Avengers: Doomsday, the new silhouette translates the character's signature menacing aesthetic into a comfortable, everyday staple.Drawing direct inspiration from the antagonist's iconic green ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F15%2Fmarvel-crocs-classic-clog-doctor-doom-212995-90H-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/marvel-crocs-classic-clog-doctor-doom-212995-90h-official-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CROCS"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "The adidas Rainboot Puts Continental Grip Under a Classic Wellington",
-   "source": "Hypebeast",
-   "date": "2026-11-16",
-   "content": "Name: adidas Japan Rainboot “Core Black,” adidas Japan Rainboot “Khaki Three,” adidas Japan Rainboot “Earth Strata”Colorway: Core Black/Cloud White/Core Black, Khaki Three/Cloud White/Khaki Three, Earth Strata/Earth Strata/Cloud WhiteSKU: LC1783, LC1784, LC1786MSRP: ¥16,500 (JPY)Release Date: November 20Where to Buy: adidas Japanadidas Originals has unveiled the adidas Rainboot, an updated take on the classic Wellington made for getting around a wet city rather than working in the fields. It keeps the familiar pull-on shape and adds construction details from the brand’s sneaker side, with simple styling meant to work with both everyday and more statement-making outfits.The boot is built from waterproof rubber and rises almost to the knee, giving it full coverage without the stiffness of a traditional field boot. adidas gave the calf extra room, so the shaft doesn’t pinch while walking an",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2Fadidas-Japan-Rainboot-Core-Black-Khaki-Three-Earth-Strata-LC1783-LC1784-LC1786-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/adidas-japan-rainboot-core-black-khaki-three-earth-strata-lc1783-lc1784-lc1786-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "ON RUNNING"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "Kith, PROLETA RE ART, and Clarks Originals Debut Exclusive Wallabees and Apparel",
-   "source": "Hypebeast",
-   "date": "2026-11-16",
-   "content": "Summary Ronnie Fieg commissioned Japanese artist PROT for a 15-piece collection to celebrate Kith's 15th anniversaryThe partnership includes ten extremely limited Classic Logo Hoodies alongside regional Clarks Originals WallabeesThe collaborative collection releases on November 16 via Kith online and at select global flagship locations Kith founder Ronnie Fieg has tapped Japanese artist PROT of PROLETA RE ART for a monumental anniversary collaboration, enlisting Clarks Originals to deliver an incredibly limited run of the iconic Wallabee. Created to commemorate Kith's 15th anniversary, the partnership merges Fieg's archival silhouettes with century-old Japanese craftsmanship.The project initially began as a 15-piece, 1-of-1 collection for Fieg’s personal archive, reimagining staples like the Alonzo Jacket, Webster Jean, and Knicks headwear using discarded Japanese denim and pre-WWII band",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F15%2Fkith-proleta-re-art-clarks-originals-wallabees-apparel-collaboration-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/kith-proleta-re-art-clarks-originals-wallabees-apparel-collaboration-collection-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CLARKS"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "ASICS NOVALIS by Kiko Kostadinov Drops \"Season 6\" Featuring New Colors of the GEL-TEREMOA II",
-   "source": "Hypebeast",
-   "date": "2026-11-16",
-   "content": "The latest \"Season 6\" collection has arrived from ASICS NOVALIS, the unisex line co-created by Kiko Kostadinov Studio—led by London-based Bulgarian designer Kiko Kostadinov—and ASICS.This season features footwear and apparel that bring unique coloring and silhouettes to sportswear. The footwear lineup includes the GEL-TEREMOA II, which pairs a vibrant red upper with a dark navy sole. On the apparel side, the collection offers fleece jackets with burgundy accents and striped knit vests with geometric paneling, alongside blousons, hooded coats, and sweatshirts.\"Season 6\" will pre-launch at KIKO KOSTADINOV TOKYO on Saturday, November 14. It will then roll out to various retailers starting Tuesday, November 17. Prices are set at 36,300 yen for the GEL-TEREMOA II, 18,700 to 86,900 yen for apparel, and 12,100 to 15,400 yen for accessories. (*All prices include tax.) Click here to view full gal",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fgel-teremoa-ii-asics-novalis-season-6-release-info00.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/gel-teremoa-ii-asics-novalis-season-6-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "Sneaker Politics x ASICS Shuck Open a Pearlescent “Oyster Pack”",
-   "source": "Hypebeast",
-   "date": "2026-11-16",
-   "content": "Name: Sneaker Politics x ASICS Gel-Cumulus 16 “Pearl,” Sneaker Politics x ASICS Gel-Kayano 12.1 “Shell”Colorway: Cream/Mist, Phantom/AcaiSKU: 1203B346.100, 1203B348.020MSRP: $180 USD, $190 USDRelease Date: November 21Where to Buy: Sneaker PoliticsSneaker Politics and ASICS have unveiled the “Oyster Pack,” a two-shoe collaboration that splits the oyster in half across the Gel-Kayano 12.1 “Shell” and the Gel-Cumulus 16 “Pearl.” Both are built around recycled oyster shells, and the release supports reef restoration along the Louisiana coast. Sneaker Politics is a Louisiana-born boutique, so the theme is close to homeThe Gel-Kayano 12.1 “Shell” takes the outside of the oyster. It comes in Phantom/Acai, with a midsole given a weathered, worn-in finish that looks like a shell after years in the water. The Gel-Cumulus 16 “Pearl” goes for the inside, dressing a Cream/Mist base in the iridescent ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2FftSneaker-Politics-ASICS-Gel-Cumulus-16-pearl-Gel-Kayano-12.1-shell-1203B346-100-1203B348-020-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/sneaker-politics-asics-gel-cumulus-16-pearl-gel-kayano-12-1-shell-1203b346-100-1203b348-020-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "Devin Booker Travels Back to the Future With the Nike Book 2 \"Mag\"",
-   "source": "Hypebeast",
-   "date": "2026-11-16",
-   "content": "Summary Devin Booker has previewed a new Back to the Future-inspired iteration of his signature Nike Book 2 silhouetteThe sneaker features a light grey upper with aqua blue accents and a speckled midsole reminiscent of the iconic Nike MagIt remains unconfirmed whether the cinematic colorway will see a public release or remain a player-exclusive for the athlete Phoenix Suns star Devin Booker has officially unveiled a cinematic new iteration of his second signature silhouette, introducing the Nike Book 2 \"Mag.\" Revealed by the athlete via Instagram Stories alongside artificial intelligence-generated footage placing him directly in the world of 1989's Back to the Future Part II, the sneaker pays direct homage to the iconic self-lacing shoes worn by Marty McFly.The nostalgic design utilizes a light grey upper paired with aqua blue accents and a speckled midsole, faithfully adapting the gener",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F15%2Fdevin-back-to-the-future-nike-book-2-mag-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/devin-back-to-the-future-nike-book-2-mag-first-look",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 25,
+   "id": 34,
    "title": "Anthony Edwards and adidas Continue Their Signature Legacy With the AE 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -352,7 +467,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 35,
    "title": "Devin Booker and Nike Turn the Page With the New Book 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -361,126 +476,6 @@ window.SNEAKER_DATA = {
    "link": "https://www.nicekicks.com/devin-booker-and-nike-turn-the-page-with-the-new-book-3/",
    "lang": "en",
    "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "Nike Should Be Much Weirder",
-   "source": "Highsnobiety",
-   "date": "2026-11-16",
-   "content": "Nike is a leader in sportswear brands, that’s not up for debate. But, in the modern age, what keeps it at the fore is a dedication to getting freaky.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-performance-air-rift-new-shoes/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "Jordan’s Sporty-Casual Sneaker Belongs in the Skate Park",
-   "source": "Highsnobiety",
-   "date": "2026-11-16",
-   "content": "The new Jordan Strada is a skate shoe dressed in casual clothes, complete with Nike Air tech & stylish colorways.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-strada-sneakers/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "adidas’ Floral Mary Jane Sneaker Is a Work of Balletcore Art",
-   "source": "Highsnobiety",
-   "date": "2026-11-16",
-   "content": "adidas releases a new Anfu Mary Jane covered in floral details. It's the most crafty version of the balletcore shoe yet.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-anfu-mary-jane-shoes/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "adidas’ Brand-New Loafer Is in an (Ivy) League of Its Own",
-   "source": "Highsnobiety",
-   "date": "2026-11-16",
-   "content": "BEAMS debuts an adidas Loafer collaboration for its 50th anniversary. Here's everything on the classy birthday release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/beams-adidas-loafer/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "Vans UGG-ified Its Skate-able Boat Shoes",
-   "source": "Highsnobiety",
-   "date": "2026-11-16",
-   "content": "Vans drops a new sherpa version of its 2-Eyeley Boat Shoe, resulting in an fluffy winter-ready version of the hybrid model.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-2-eyelet-boat-shoes/",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG",
-    "VANS"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "Even in Camo, Nike’s Split-Toe Sneaker Refuses to Blend In",
-   "source": "Highsnobiety",
-   "date": "2026-11-16",
-   "content": "Nike rereleases its camouflage Air Rift sneaker-sandal for the fall. Here's everything on the drop that's anything but hidden.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-rift-hemp-camo/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "adidas' 3D-Printed Runner Is a Nod to the Future",
-   "source": "Highsnobiety",
-   "date": "2026-11-16",
-   "content": "With the release of the adidas Futurecool Off White, the Three Stripes might be giving us an insight into what's to come.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-futurecool-off-white/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "The Best Gifts for Runners — and Their Wannabes",
-   "source": "Highsnobiety",
-   "date": "2026-11-16",
-   "content": "This running-sport inspired gift guide has legs. As will those gifted. Find treats for pro, amateur and wannabe runners alike, from Satisfy to Nike!",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/gift-guide-for-runners/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 35,
-   "title": "The Ultimate Black Friday Cheat Sheet",
-   "source": "Highsnobiety",
-   "date": "2026-11-16",
-   "content": "Every Black Friday 2026 code and sale worth using, from adidas and Nike to SSENSE and Farfetch. Updated daily by Highsnobiety’s Shopping team",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/black-friday-codes/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
     "NIKE"
    ]
   },
