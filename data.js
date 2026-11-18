@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-18 01:16",
+ "updatedAt": "2026-11-18 13:23",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -311,6 +311,85 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 23,
+   "title": "Vans’ Reborn Outdoor Sneaker Looks Good in Needles Streetwear",
+   "source": "Highsnobiety",
+   "date": "2026-11-17",
+   "content": "Needles cooks up extra-rugged Vans Mountain Edition sneakers, featuring Vibram & Cordura finishes. Here's everything on the collab.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/needles-vans-mountain-edition-vibram-shoes/",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG",
+    "VANS"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "Ignore the Suits — Vans Will Always Be The People’s Sneaker",
+   "source": "Highsnobiety",
+   "date": "2026-11-17",
+   "content": "They want you to think Vans is slipping, but they’ve actually never been better. The skate shoe brand is expanding every day in ways that only make us fall deeper in love.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-new-sneakers-hype/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "adidas’ Winterized Sneaker Is Part Hiker, All Spezial",
+   "source": "Highsnobiety",
+   "date": "2026-11-17",
+   "content": "adidas debuts a Handball Spezial WTR, a winterized sneaker with trail-style details. Here's everything on the new brown release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-handball-spezial-winter/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Makeway’s New Impressively Sleek Nike Collab Is a Family Affair",
+   "source": "Highsnobiety",
+   "date": "2026-11-17",
+   "content": "Toronto's Makeway debuts its mega-sleek Nike Shox R4 sneaker collaboration, which is exclusive to friends & family.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/makeway-nike-shox-r4/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 27,
+   "title": "adidas' Formidable Samba Has Lost Its Heel but Found Its Fluff",
+   "source": "Highsnobiety",
+   "date": "2026-11-17",
+   "content": "The adidas Samba OG Mule gives the iconic terrace sneaker a cozy makeover, complete with a fluffy lining, slip-on silhouette, and the addition of... laces?",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-samba-og-mule-preloved-brown/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 28,
+   "title": "Nike's Color-Changing Air Forces Are the Coolest Rainy Day Flex",
+   "source": "Highsnobiety",
+   "date": "2026-11-17",
+   "content": "Nike releases an all-white Air Force 1 Low GORE-TEX with color-changing properties & trail-style laces.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-gore-tex/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 29,
    "title": "DIOS Goes Hunting With adidas' Rising Star",
    "source": "Highsnobiety",
    "date": "2026-11-17",
@@ -323,7 +402,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 30,
    "title": "From ASICS to adidas, the Seven Best Sneakers to Cop This Week",
    "source": "Highsnobiety",
    "date": "2026-11-17",
@@ -337,100 +416,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
-   "title": "Nike Should Be Much Weirder",
-   "source": "Highsnobiety",
-   "date": "2026-11-17",
-   "content": "Nike is a leader in sportswear brands, that’s not up for debate. But, in the modern age, what keeps it at the fore is a dedication to getting freaky.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-performance-air-rift-new-shoes/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "Jordan’s Sporty-Casual Sneaker Belongs in the Skate Park",
-   "source": "Highsnobiety",
-   "date": "2026-11-17",
-   "content": "The new Jordan Strada is a skate shoe dressed in casual clothes, complete with Nike Air tech & stylish colorways.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-strada-sneakers/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "adidas’ Floral Mary Jane Sneaker Is a Work of Balletcore Art",
-   "source": "Highsnobiety",
-   "date": "2026-11-17",
-   "content": "adidas releases a new Anfu Mary Jane covered in floral details. It's the most crafty version of the balletcore shoe yet.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-anfu-mary-jane-shoes/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "adidas’ Brand-New Loafer Is in an (Ivy) League of Its Own",
-   "source": "Highsnobiety",
-   "date": "2026-11-17",
-   "content": "BEAMS debuts an adidas Loafer collaboration for its 50th anniversary. Here's everything on the classy birthday release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/beams-adidas-loafer/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "Vans UGG-ified Its Skate-able Boat Shoes",
-   "source": "Highsnobiety",
-   "date": "2026-11-17",
-   "content": "Vans drops a new sherpa version of its 2-Eyeley Boat Shoe, resulting in an fluffy winter-ready version of the hybrid model.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-2-eyelet-boat-shoes/",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG",
-    "VANS"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Even in Camo, Nike’s Split-Toe Sneaker Refuses to Blend In",
-   "source": "Highsnobiety",
-   "date": "2026-11-17",
-   "content": "Nike rereleases its camouflage Air Rift sneaker-sandal for the fall. Here's everything on the drop that's anything but hidden.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-rift-hemp-camo/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
    "id": 31,
-   "title": "adidas' 3D-Printed Runner Is a Nod to the Future",
-   "source": "Highsnobiety",
-   "date": "2026-11-17",
-   "content": "With the release of the adidas Futurecool Off White, the Three Stripes might be giving us an insight into what's to come.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-futurecool-off-white/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 32,
    "title": "Nike Dunk Low「Grandma's Couch」將復古客廳魅力注入經典籃球鞋",
    "source": "Hypebeast 中文",
    "date": "2026-11-16",
@@ -443,7 +429,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 32,
    "title": "Sorel Pushes Its Icons Forward With the “Age of Discovery” Collection",
    "source": "Hypebeast",
    "date": "2026-11-16",
@@ -454,7 +440,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 34,
+   "id": 33,
    "title": "Anthony Edwards and adidas Continue Their Signature Legacy With the AE 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -467,7 +453,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 34,
    "title": "Devin Booker and Nike Turn the Page With the New Book 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -480,7 +466,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 35,
    "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
    "source": "Nice Kicks",
    "date": "2026-11-10",
@@ -493,7 +479,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 36,
    "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
    "source": "Nice Kicks",
    "date": "2026-11-09",
@@ -506,7 +492,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 37,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -519,7 +505,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 38,
    "title": "Tremaine Emory Brings a Piece of Canal Street to adidas Originals",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -532,7 +518,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 39,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
@@ -545,7 +531,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 41,
+   "id": 40,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -558,7 +544,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 42,
+   "id": 41,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
