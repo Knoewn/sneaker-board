@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-18 13:23",
+ "updatedAt": "2026-11-19 00:51",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,12 +16,12 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
-  "ASICS",
   "CROCS",
   "HOKA",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
+  "PUMA",
   "UGG",
   "VANS"
  ],
@@ -29,6 +29,187 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "率先預覽 Jae Tips x Nike Air Bakin Low 最新「Chile Red」配色",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-18",
+   "content": "摘要 Jae Tips 官方正式揭曉其即將推出的 Nike Air Bakin Low 聯乘鞋款之第二款配色全新版本採用白色與 Chile Red 為基底，輔以綠色迷彩底層以及 Savior Worldwide 標誌作點綴這款備受期待的鞋款企劃預計將於 2027 年春季登場，售價為 $160 美元 名稱： Jae Tips Nike Air Bakin Low「Chile Red」配色： Chile Red/Cobalt Bliss-Varsity Maize-Atlantic Blue-Pine Green編號： IV6795-400定價： $160 美元發售日期： 2027 年春季購買點： NikeNike 與出生於 Bronx 的設計師 Jae Tips 共同揭曉了聯乘鞋款 Nike Air Bakin Low 的第二種配色。從昔日在 Bronx 的 Foot Locker 協助顧客尋找稀有鞋款，到如今專注於個人的首個 Swoosh 聯乘系列，這位設計師將其標誌性的 Savior Worldwide 設計語言注入這雙 90 年代末的低筒籃球鞋中。延續上個月率先曝光的黑紫配色熱潮，最新版本採用大膽的白與鮮紅配色組合。新鞋款保留了聯乘系列一貫的美學風格，並沿用了第一雙鞋款的綠色迷彩底層與鮮綠色內襯。獨特的細節彰顯了創作者的獨立精神，包括鞋頭設計成代表其 Savior Worldwide 品牌的「S」字型小 Swoosh 標誌，以及鞋跟處顯眼的「Savior」字樣。最後，鞋身巨大的「Air」字樣交織著多種對比鮮明的色彩，為這款充滿活力的設計畫上完美句號。延續上個月 ComplexCon 前夕曝光的黑紫配色熱潮，最新版本採用大膽的白與鮮紅配色組合。新鞋款保留了聯乘系列一貫的美學風格，並沿用了第一雙鞋款的綠色迷彩底層與鮮綠色內襯。獨特的細節彰顯了創作者的獨立精神，包括鞋頭設計成代表其 Savior Worldwide 品牌的「S」字型小 Swoosh 標誌，以及鞋跟處顯眼的「Savior」字樣。最後，鞋身巨大的「Air」字樣交織著多種對比鮮明的色彩，為這款充滿活力的設計畫上",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fjae-tips-nike-air-bakin-low-chile-red-first-look-IV6795-400-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/jae-tips-nike-air-bakin-low-chile-red-first-look-iv6795-400-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Nike 推出 Tuned Air，為下一個 50 年重塑 Air 科技",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-18",
+   "content": "摘要 Nike 推出 Tuned Air，一種用於度身訂製緩震效果的數碼列印技術。該技術摒棄了硬質結構，帶來個人化且無拘無束的足底感受。這項技術將於 2027 年底率先為跑手推出，隨後再擴展至更多領域。 Nike 推出了一種製造 Air 氣墊的全新技術——Tuned Air，品牌將其視為近 50 年來 Air 創新歷史的下一個篇章。有別於以往依賴傳統支柱、堅硬區域及氣墊高度來塑造 Air 氣墊的表現，Tuned Air 採用了印在每個氣墊內部的專利數碼墨水，據 Nike 表示，這項技術耗時約十年研發。然後，透過選擇性層壓工藝，氣墊的內部核心僅在沒有塗抹墨水的區域接合，讓 Nike 的工程師能以更高的精準度控制每個氣墊的內部結構。這個成果帶來了更廣泛的形狀、幾何形態和視覺設計，讓 Nike 能夠更精細地控制 Air 氣墊的外觀、腳感和性能。這個名字其實早有先例：「Tuned Air」也是 1998 年推出的跑鞋 Air Max Plus（更為人熟知的名字是 TN）背後的緩震系統，不過 Nike 的發布會則以獨立姿態展示這項新技術。繼本月在 Nike 的 World of Athletes 展覽中獨家率先亮相後，這款創新的緩震系統預計將於 2027 年末正式推出，率先應用於專業跑鞋。這次針對跑步性能的首發將作為日後廣泛應用的基礎，Tuned Air 技術預計將整合至多個運動領域及更廣泛的 Nike Sportswear 系列中。透過消除長久以來的機械製造限制，Nike 旨在迅速擴展這種度身訂製的腳下體驗，標誌著其擁有近 50 年歷史的 Air 傳統進入一個高度適應性的新時代。設定好你的提醒，搶先了解 Hypebeast Drops 上即將發布的新品。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-tuned-air-technology-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/nike-tuned-air-technology-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Vibram Opens the Doors to Its North Brookfield Factory for Second Annual Creator Program",
+   "source": "Hypebeast",
+   "date": "2026-11-18",
+   "content": "Most people recognize Vibram by the signature yellow octagon on the bottom of their favorite boots, though far fewer have seen where those outsoles actually come from. From November 4 to 6, the brand opened the doors of its US headquarters in North Brookfield, Massachusetts, for the second edition of Made in North Brookfield. This year’s program brought together 15 creators, designers and brand partners from across the US and Canada, including Nicole McLaughlin, Ella Emhoff, Bailey Goldberg, John Chen of ArchivePDF, Gabriele Fazi of Kith and Victoria Wells of Arc’teryx. The three days centered on New England craft and American bootmaking heritage.North Brookfield is Vibram’s primary US manufacturing center, with factory roots in Massachusetts dating back to 1965. Now owned by Vibram, the plant makes soles for everything from industrial footwear to a classic American boot. It is one of th",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2Fone-block-down-nike-air-max-95-lux-italy-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/vibram-opens-the-doors-to-its-north-brookfield-factory-for-second-annual-creator-program",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 4,
+   "title": "Jae Tips Nike Air Bakin Low \"Chile Red\" First Look",
+   "source": "Hypebeast",
+   "date": "2026-11-18",
+   "content": "Summary Jae Tips has officially unveiled a second colorway of his upcoming Nike Air Bakin Low collaborationThe new iteration features a white and chile red base accented by green camo underlays and Savior Worldwide brandingThe highly anticipated footwear project is expected to launch in Spring 2027 for $160 USD Name: Jae Tips Nike Air Bakin Low \"Chile Red\"Colorway: Chile Red/Cobalt Bliss-Varsity Maize-Atlantic Blue-Pine GreenSKU: IV6795-400MSRP: $160 USDRelease Date: Spring 2027Where to Buy: NikeNike and Bronx-born creative Jae Tips have revealed a second colorway of the collaborative Nike Air Bakin Low. Transitioning from his days helping customers track down highly coveted pairs at a Foot Locker in the Bronx, the designer has officially shifted his focus to his debut Swoosh collaboration, reimagining the late-’90s low-top basketball silhouette with his signature Savior Worldwide design",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F17%2Fjae-tips-nike-air-bakin-low-chile-red-first-look-IV6795-400-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/jae-tips-nike-air-bakin-low-chile-red-first-look-iv6795-400-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Nike Is Reinventing Air for the Next 50 Years With Tuned Air",
+   "source": "Hypebeast",
+   "date": "2026-11-18",
+   "content": "Summary Nike debuts Tuned Air, a digital printing process for custom cushioning.It removes rigid structures to create tailored, limitless underfoot sensations.The technology launches for runners in late 2027 before broader expansion. Nike has introduced Tuned Air, a new way of making its Air cushioning units that the brand presents as the next chapter in nearly 50 years of Air innovation.Instead of relying on traditional pins, rigid zones and the unit’s height to shape how Air behaves, Tuned Air uses a proprietary digital ink printed inside each unit, which Nike says took about a decade to develop. A selective lamination process then bonds the unit’s internal core only where no ink has been applied, letting Nike’s engineers control each unit’s internal structure with much greater precision.The result opens up a far wider range of shapes, geometries and visual designs, giving Nike finer c",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F18%2Fnike-tuned-air-technology-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/nike-tuned-air-technology-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "66°North Gives HOKA's Hiking Icon an Icelandic Makeover",
+   "source": "Highsnobiety",
+   "date": "2026-11-18",
+   "content": "HOKA and 66°North invited us to Iceland to experience its first-ever footwear collaboration, a winter-ready reimagining of HOKA's wildly popular Tor Ultra Lo.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/66north-gives-hokas-hiking-icon-an-icelandic-makeover/",
+   "lang": "en",
+   "relatedBrands": [
+    "HOKA"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "“Jordans Are Universal Shoes”: Osamason on the Bred 4 Being Bigger Than Culture",
+   "source": "Highsnobiety",
+   "date": "2026-11-18",
+   "content": "Osamason & Jahmyr Gibbs talk the Air Jordan 4 Bred's titanic cultural impact on the eve of the historic sneaker's most recent reissue.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-bred-4-osamason-interview/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "New Balance's Retro Dad Shoe Is a Masterclass in Color Theory",
+   "source": "Highsnobiety",
+   "date": "2026-11-18",
+   "content": "Refreshing the archival shape through deconstruction, the New Balance 992 Made in USA Black/Turtledove is one to bookmark.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-992-black-turtledove/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "A$AP Rocky’s Fortnite Skin Wears His '90s PUMAs, Too",
+   "source": "Highsnobiety",
+   "date": "2026-11-18",
+   "content": "On Friday in NYC, A$AP Rocky threw a ‘90s rave to celebrate his latest PUMA drop.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/asap-rocky-puma-suede-94/",
+   "lang": "en",
+   "relatedBrands": [
+    "PUMA"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Nike's Most Controversial Silhouette Just Got Monochromed",
+   "source": "Highsnobiety",
+   "date": "2026-11-18",
+   "content": "We’re happy to see the Swoosh's most controversial model back, looking more pared-back than we’re used to, as the Nike Air Bakin Black/White.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-bakin-black-white/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Vans’ Reborn Outdoor Sneaker Looks Good in Needles Streetwear",
+   "source": "Highsnobiety",
+   "date": "2026-11-18",
+   "content": "Needles cooks up extra-rugged Vans Mountain Edition sneakers, featuring Vibram & Cordura finishes. Here's everything on the collab.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/needles-vans-mountain-edition-vibram-shoes/",
+   "lang": "en",
+   "relatedBrands": [
+    "UGG",
+    "VANS"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Ignore the Suits — Vans Will Always Be The People’s Sneaker",
+   "source": "Highsnobiety",
+   "date": "2026-11-18",
+   "content": "They want you to think Vans is slipping, but they’ve actually never been better. The skate shoe brand is expanding every day in ways that only make us fall deeper in love.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/vans-new-sneakers-hype/",
+   "lang": "en",
+   "relatedBrands": [
+    "VANS"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Makeway’s New Impressively Sleek Nike Collab Is a Family Affair",
+   "source": "Highsnobiety",
+   "date": "2026-11-18",
+   "content": "Toronto's Makeway debuts its mega-sleek Nike Shox R4 sneaker collaboration, which is exclusive to friends & family.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/makeway-nike-shox-r4/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "adidas' Formidable Samba Has Lost Its Heel but Found Its Fluff",
+   "source": "Highsnobiety",
+   "date": "2026-11-18",
+   "content": "The adidas Samba OG Mule gives the iconic terrace sneaker a cozy makeover, complete with a fluffy lining, slip-on silhouette, and the addition of... laces?",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-samba-og-mule-preloved-brown/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 15,
    "title": "Nike 與 Devin Booker 正式發布 Book 3 簽名鞋及 fragment design 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -41,7 +222,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 16,
    "title": "Crocs 推出全新「Puerto Rico」Classic Clog 鞋款致敬波多黎各",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -54,7 +235,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 17,
    "title": "HOKA 聯乘 WTAPS 推出如裝甲般的全新 Speedgoat TS 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -67,7 +248,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 18,
    "title": "Bare Knuckles 重新帶回復刻版 Brooks Cascadia 1 越野跑鞋",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -78,7 +259,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 5,
+   "id": 19,
    "title": "近賞 Travis Scott x Nike Air Force 1「GTA 6」黑白配色鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -91,7 +272,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 20,
    "title": "Nike Mind 擴展陣容：Sock、Moc Flyknit、Slip 及 Sneaker 預計於 2027 年夏季登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -104,7 +285,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 21,
    "title": "Nike Vomero 19 及 Vaporfly 5 搭載全新 ZoomX 及 ReactX 泡棉減重登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -117,7 +298,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 22,
    "title": "Social Status 與 Jordan Brand 攜手以 Sashiko 布料重塑 Air Jordan 1 Low OG",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -131,7 +312,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 23,
    "title": "Atlantic Drift x New Balance Numeric Tom Knox 600 最新聯乘鞋款正式發佈",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -144,7 +325,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 24,
    "title": "Devin Booker 率先著用 Nike Book 3 最新「Twilight」配色上陣",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -157,18 +338,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
-   "title": "Sperry 攜手 BEAMS PLUS 升級軍事風格 MIL CVO 鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-17",
-   "content": "摘要 Sperry 與 BEAMS PLUS 再次攜手，推出全新限量版 Circular Vamp Oxford這款聯乘 MIL CVO 系列採用柔軟的反毛皮鞋面，提供啡黃色、藏青色與白色三種配色選擇這款靈感源自軍裝的鞋款現已登陸兩大品牌的官方網站及指定零售商 Sperry 與 BEAMS PLUS 再次官方宣布攜手合作，重新演繹標誌性的 Sperry x BEAMS PLUS MIL CVO。這次限量系列將美國鞋履品牌深厚的航海與軍事歷史，與日本品牌對經典美式風格的精湛詮釋完美結合，以優質的觸感紋理為 1935 年的經典鞋型注入全新魅力。這款 Circular Vamp Oxford 的最新版本直接從經典美式麂皮大衣及品牌典藏核心色彩中汲取靈感，將傳統帆布替換為柔軟飽滿的麂皮鞋面。備有駝色、海軍藍及白色可供選擇，這種精緻的材質為實用鞋款增添了一絲優雅與考究的感覺，同時致敬了該設計最初作為二戰期間美國海軍配發鞋履的歷史淵源。BEAMS PLUS 總監 Hideki \"Harry\" Mizobata 解釋道：「這個系列背後的理念是『盛裝打扮』運動鞋——將運動鞋的輕鬆感與皮鞋的精緻感相結合。Sperry 的 CVO 傳統賦予我們重新詮釋這種風格的自由，探索休閒舒適與經典考究之間的平衡。」透過將這些軍事風格元素現代化，這次聯乘展現了雙方品牌對傳統與日常百搭性的共同喜好。ALDO Product Services 總裁 Jonathan Frankel 補充說：「我們與 BEAMS PLUS 的持續合作讓我們能夠透過對經典美式風格的共同欣賞，重新審視 Sperry 的典藏。這個系列將 CVO 的傳奇帶入一個更精緻的語境，將豐富的麂皮紋理與熟悉的 Sperry 色彩搭配，為經典帶來全新面貌。」Sperry x BEAMS PLUS MIL CVO 系列定價為 $130 美元，現已透過 Sperry、BEAMS、日本的 BEAMS PLUS 門市及全球指定專門零售商發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fsperry-beams-plus-mil-cvo-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/sperry-beams-plus-mil-cvo-collaboration-release-info",
-   "lang": "zh",
-   "relatedBrands": []
-  },
-  {
-   "id": 12,
+   "id": 25,
    "title": "Nike and Devin Booker Officially Unveil the Book 3 Alongside a fragment design Collaboration",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -181,7 +351,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 26,
    "title": "Crocs Honors the Island With the \"Puerto Rico\" Classic Clog",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -194,7 +364,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 27,
    "title": "HOKA Taps WTAPS for an Armor-Inspired Speedgoat TS Sneaker",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -207,7 +377,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 28,
    "title": "Bare Knuckles Brings Brooks’ Archival Cascadia 1 Back to the Trail",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -218,7 +388,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 16,
+   "id": 29,
    "title": "Closer Look at the Black and White Pairs of the Travis Scott x Nike Air Force 1 \"GTA 6\"",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -232,7 +402,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 30,
    "title": "Nike Mind Expands With the Sock, Moc Flyknit, Slip and Sneaker for Summer 2027",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -245,7 +415,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 31,
    "title": "The Nike Vomero 19 and Vaporfly 5 Shed Weight With New ZoomX and ReactX Foams",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -258,7 +428,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 32,
    "title": "Social Status and Jordan Brand Reimagine the Air Jordan 1 Low OG With Sashiko Fabric",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -272,7 +442,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 33,
    "title": "Atlantic Drift and New Balance Unveil the Numeric Tom Knox 600",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -285,59 +455,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
-   "title": "Devin Booker Debuts the Nike Book 3 \"Twilight\" on Court",
-   "source": "Hypebeast",
-   "date": "2026-11-17",
-   "content": "Summary Devin Booker has officially debuted his upcoming third signature sneaker on the hardwoodThe Nike Book 3 was unveiled in a sleek all-black colorway dubbed TwilightAn official release date and pricing details remain unconfirmed by the sportswear brand Nike and Phoenix Suns guard Devin Booker have unofficially unveiled the highly anticipated Nike Book 3. Giving fans an early look at his third signature shoe, the athlete debuted the unreleased model on the court in a stealthy all-black \"Twilight\" colorway.Due to the blacked-out makeup of the \"Twilight\" iteration, the specific technical elements and nuanced design details remain difficult to discern. However, early on-court glimpses suggest that the forthcoming silhouette maintains the fairly simple, streamlined design language established by its predecessors, bypassing the bulky and futuristic aesthetic commonly found in modern perfo",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2Fdevin-booker-debuts-nike-book-3-twilight-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/devin-booker-debuts-nike-book-3-twilight-first-look",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 22,
-   "title": "Sperry Taps BEAMS PLUS to Elevate the Military-Inspired MIL CVO",
-   "source": "Hypebeast",
-   "date": "2026-11-17",
-   "content": "Summary Sperry and BEAMS PLUS have reunited to release a new limited-edition iteration of the Circular Vamp OxfordThe collaborative MIL CVO collection features a soft suede upper available in tan, navy, and white colorwaysThe military-inspired footwear is currently available via both brands' official platforms and select retailers Sperry and BEAMS PLUS have officially joined forces once more to reimagine the iconic Sperry x BEAMS PLUS MIL CVO. Blending the American footwear brand's deep maritime and military heritage with the Japanese label's masterful interpretation of classic Americana, the limited-edition collection elevates the 1935 silhouette with premium, tactile textures.Drawing direct inspiration from classic Americana suede coats and archival core colors, the latest iteration of the Circular Vamp Oxford swaps traditional canvas for a soft, saturated suede upper. Available in tan",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2Fsperry-beams-plus-mil-cvo-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/sperry-beams-plus-mil-cvo-collaboration-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 23,
-   "title": "Vans’ Reborn Outdoor Sneaker Looks Good in Needles Streetwear",
-   "source": "Highsnobiety",
-   "date": "2026-11-17",
-   "content": "Needles cooks up extra-rugged Vans Mountain Edition sneakers, featuring Vibram & Cordura finishes. Here's everything on the collab.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/needles-vans-mountain-edition-vibram-shoes/",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG",
-    "VANS"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "Ignore the Suits — Vans Will Always Be The People’s Sneaker",
-   "source": "Highsnobiety",
-   "date": "2026-11-17",
-   "content": "They want you to think Vans is slipping, but they’ve actually never been better. The skate shoe brand is expanding every day in ways that only make us fall deeper in love.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-new-sneakers-hype/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 25,
+   "id": 34,
    "title": "adidas’ Winterized Sneaker Is Part Hiker, All Spezial",
    "source": "Highsnobiety",
    "date": "2026-11-17",
@@ -350,97 +468,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
-   "title": "Makeway’s New Impressively Sleek Nike Collab Is a Family Affair",
-   "source": "Highsnobiety",
-   "date": "2026-11-17",
-   "content": "Toronto's Makeway debuts its mega-sleek Nike Shox R4 sneaker collaboration, which is exclusive to friends & family.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/makeway-nike-shox-r4/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 27,
-   "title": "adidas' Formidable Samba Has Lost Its Heel but Found Its Fluff",
-   "source": "Highsnobiety",
-   "date": "2026-11-17",
-   "content": "The adidas Samba OG Mule gives the iconic terrace sneaker a cozy makeover, complete with a fluffy lining, slip-on silhouette, and the addition of... laces?",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-samba-og-mule-preloved-brown/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 28,
-   "title": "Nike's Color-Changing Air Forces Are the Coolest Rainy Day Flex",
-   "source": "Highsnobiety",
-   "date": "2026-11-17",
-   "content": "Nike releases an all-white Air Force 1 Low GORE-TEX with color-changing properties & trail-style laces.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-force-1-gore-tex/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "DIOS Goes Hunting With adidas' Rising Star",
-   "source": "Highsnobiety",
-   "date": "2026-11-17",
-   "content": "Teaming up with Houston's finest, the Three Stripes welcomes the DIOS x adidas Adistar Control 5 The Road Less Traveled.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/dios-adidas-adistar-control-5/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "From ASICS to adidas, the Seven Best Sneakers to Cop This Week",
-   "source": "Highsnobiety",
-   "date": "2026-11-17",
-   "content": "From a blanket inspired all-terrain ASICS x Story MFG collab, to a textured trail runner from Brain Dead x adidas— the cream of the sneaker crop awaits.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/the-seven-best-sneakers-to-cop-this-week-november-week-3/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "ASICS"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "Nike Dunk Low「Grandma's Couch」將復古客廳魅力注入經典籃球鞋",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-16",
-   "content": "名稱：Nike Dunk Low Retro Premium「Grandma's Couch」配色：Golden Hops/Velvet BrownSKU：JF4566-900建議售價：$130 美元發售日期：現已發售購買連結：NikeNike 最新推出的 Dunk Low Retro Premium「Grandma's Couch」帶來了濃厚的懷舊氣息，並正式採用「Golden Hops/Velvet Brown」配色。如其趣味的別名所示，整雙鞋的鞋面均包裹在一層豐富且具有質感的絲絨布料中，上面飾有精緻的復古花卉錦緞圖案。金黃色與絲絨啡色的深秋色調營造出經典客廳沙發那種令人感到舒適且熟悉的感覺。這種充滿圖案的設計將傳統籃球鞋款轉化為一款極具觸感、以生活品味為主的搶眼單品，非常適合秋冬季節著用。與充滿花卉圖案的鞋面形成對比，這款設計巧妙地融入了品牌標誌與結構性的裝飾。鞋身兩側標誌性的 Nike Swoosh 獨特地使用了立體的白色縫線製成，並以低調的啡色滾邊勾勒出輪廓，賦予標誌鮮明的三維立體感。為了平衡溫暖的色調，一塊柔和的「Pale Ivory」帆布鞋舌配以相襯的鞋帶和高級皮革內襯。最後配以經典的橡膠鞋底，這款「Grandma's Couch」Dunk Low 將傳統運動基因與舒適的祖母風美學完美結合。設定提醒，緊貼 Hypebeast Drops 搶先了解最新發售資訊。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-dunk-low-retro-premium-grandmas-couch-golden-hops-velvet-brown-jf4566-900-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/nike-dunk-low-retro-premium-grandmas-couch-golden-hops-velvet-brown-jf4566-900-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 32,
-   "title": "Sorel Pushes Its Icons Forward With the “Age of Discovery” Collection",
-   "source": "Hypebeast",
-   "date": "2026-11-16",
-   "content": "On the eve of its 65th anniversary year, Sorel is heading into Fall/Winter 2026 with its “Age of Discovery” collection, a lineup that merges the brand’s heritage with new innovation. At its center are three new men’s styles: the Callsign Enigma GTX sneaker, the Daystorm Horizon Zip GTX boot and the Caribou Horizon Zip GTX boot. Each one pairs arctic-grade performance with a sharper, street-ready attitude.The Callsign Enigma GTX blends street style with outdoor grit. A waterproof GORE-TEX® textile upper is finished with a leather mudguard and a gusseted rubberized zip shroud. Speed laces with a cord-lock and SOREL-branded aglets handle the closure, and reflective SOREL branding runs along both quarters. Underfoot, a lightweight molded LIVELYFOAM midsole and a removable Ortholite footbed sit on a Vibram XS TREK EVO outsole. The sneaker comes in “Black/Black,” “Tawny Buff/Black” and “Deep W",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F10%2Fsorel-pushes-its-icons-forward-with-the-age-of-discovery-collection-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/sorel-pushes-its-icons-forward-with-the-age-of-discovery-collection",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 33,
+   "id": 35,
    "title": "Anthony Edwards and adidas Continue Their Signature Legacy With the AE 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -453,7 +481,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 36,
    "title": "Devin Booker and Nike Turn the Page With the New Book 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -466,7 +494,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 37,
    "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
    "source": "Nice Kicks",
    "date": "2026-11-10",
@@ -479,7 +507,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 38,
    "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
    "source": "Nice Kicks",
    "date": "2026-11-09",
@@ -492,7 +520,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 39,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -505,7 +533,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 40,
    "title": "Tremaine Emory Brings a Piece of Canal Street to adidas Originals",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -518,7 +546,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 41,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
@@ -531,7 +559,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 42,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -544,7 +572,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 41,
+   "id": 43,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
