@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-19 00:51",
+ "updatedAt": "2026-11-19 13:19",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -16,19 +16,84 @@ window.SNEAKER_DATA = {
  ],
  "brands": [
   "ADIDAS",
+  "ASICS",
   "CROCS",
   "HOKA",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
   "PUMA",
-  "UGG",
-  "VANS"
+  "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Caitlin Clark 率先預覽具備變色功能的 Nike Caitlin 1 原型鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-19",
+   "content": "摘要 Indiana Fever 後衛 Caitlin Clark 展示了其簽名鞋款 Nike Caitlin 1 的全新配色版本，搭載具未來感的變色科技這款尚未發售的原型鞋款在 Swoosh 標誌下方設有按鈕，能將鞋面由淺色基底切換為黑色目前官方尚未公佈這項變色科技是否或何時會公開發售的具體資訊 Nike 與 Indiana Fever 後衛 Caitlin Clark 正式預告了極具未來感的 Nike Caitlin 1 原型鞋款。這雙能改變顏色的籃球鞋在 2026 年 WNBA 賽季結束後為球迷帶來巨大驚喜，近日由這位運動員本人作客 New Heights Podcast 節目時親自展示。這雙未發售的原型鞋款展現了品牌最新的鞋履技術，其特殊鞋面能從淺灰色或白色底色主動轉換為純黑飾面。根據 Clark 在節目中的示範，這種充滿未來感的變色模式由位於外側 Nike Swoosh 下方的專屬按鈕控制，穿著者可藉此隨時開啟或關閉變色效果。此外，她還提到輕觸鞋跟便可啟動不同的視覺模式。透過 Clark Instagram 限時動態分享的近照揭示了更多設計細節，包括她的標誌性「CC」Logo 以及採用對比強烈之金屬銀色呈現的三重 Nike Swoosh。雖然這位明星後衛表示希望這雙鞋能在她於場上投籃命中時發光，但她並未確認是否真的會在職業比賽中穿上這雙鞋。The color-changing technology in the CC1s is absolutely INSANE 🤯NEW EPISODE OUT NOW!!! https://t.co/aGsTP4Kdd9— New Heights (@newheightshow) November 18, 2026FIRST LOOK: Caitlin Clark reveals a color-shifting Nike Caitlin 1 👀🥶 @CaitlinClark22 https://t.co/wnIUCtsmVp— KicksFinder (@KicksFinder) November 17, 2026 Cli",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fcaitlin-clark-previews-color-changing-nike-caitlin-1-prototype-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/caitlin-clark-previews-color-changing-nike-caitlin-1-prototype",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "New Balance 992 推出全新「Black/Turtledove」配色加入外露皮革飾邊",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-19",
+   "content": "摘要 New Balance 為 992 鞋型推出全新「Black/Turtledove」配色，亮點在于外露的淺啡色皮革邊緣這款鞋履加入了由創意總監 Teddy Santis 主理的品牌陣容龐大的 Made in USA 2026 秋冬系列為慶祝 992 問世 20 週年，這款充滿細節的球鞋將於 11 月 19 日透過 New Balance 及指定零售商發售 名稱：New Balance 992「Black/Turtledove」配色：Black/Turtledove-NB Navy型號：U992LB定價：$200 美元發售日期：2026 年 11 月 19 日購買連結：New BalanceNew Balance 官方正式為其季度陣容增添了一款細節滿載的作品——即將登場的 New Balance 992「Black/Turtledove」。適逢這家 Boston 鞋履品牌迎來經典 992 鞋型誕生 20 週年，這款全新版本亦加入了由 Teddy Santis 策劃的 Made in USA 2026 秋冬系列之列。「Black/Turtledove」配色以其解構、近乎內外反轉的美學為特點，運用獨特的材質潤飾來提升這款經典跑鞋的質感。淺啡色的原色皮革邊緣勾勒出鞋身的黑色面板，自然地框住各個覆蓋層，而不會為鞋面引入過於鮮豔的色彩。這種對比極大地突顯了鞋款錯綜複雜的層次感，同時保持了官方名為 Black、Turtledove 和 Afterglow 的刻意克制色調。為了呼應外露的皮革飾邊，此鞋款配備了重度泛黃的中底設計。這種刻意的復古處理為運動鞋帶來了歷經歲月、充滿穿著痕跡的飾面，與鞋面裁邊那種原始、未經修飾的特質完美契合。作為季度 Made in USA 陣容中 9 款鞋履發布之一，是次發售為今年已經充滿這款 2006 年跑鞋特別版的市場提供了另一個強勁的選擇。New Balance 992「Black/Turtledove」將於 2026 年 11 月 19 日發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnew-balance-992-black-turtledove-u992lb-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/new-balance-992-black-turtledove-u992lb-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Caitlin Clark Previews Color-Changing Nike Caitlin 1 Prototype",
+   "source": "Hypebeast",
+   "date": "2026-11-19",
+   "content": "Summary Indiana Fever guard Caitlin Clark has previewed a futuristic, color-changing iteration of her signature Nike Caitlin 1The unreleased prototype features a button under the Swoosh that shifts the upper from a light base to blackCurrently, there is no official release information regarding if or when the color-changing technology will hit retail shelves Nike and Indiana Fever guard Caitlin Clark have officially teased a futuristic new prototype of the Nike Caitlin 1. Serving as a massive surprise following the conclusion of the 2026 WNBA season, the color-changing basketball shoe was recently unveiled by the athlete herself during a guest appearance on the New Heights podcast.Showcasing the brand's latest footwear technology, the unreleased prototype features a specialized upper that actively shifts from a Light Grey or white base to a solid black finish. According to Clark's demons",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F18%2Fcaitlin-clark-previews-color-changing-nike-caitlin-1-prototype-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/caitlin-clark-previews-color-changing-nike-caitlin-1-prototype",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "New Balance Adds Exposed Leather Trim to the 992 \"Black/Turtledove\"",
+   "source": "Hypebeast",
+   "date": "2026-11-19",
+   "content": "Summary New Balance is releasing a new \"Black/Turtledove\" colorway of the 992 silhouette featuring exposed light brown leather edgesThe shoe joins the brand's expansive Made in USA Fall/Winter 2026 collection curated by creative director Teddy SantisCelebrating the 20th anniversary of the 992, the detailed sneaker drops on November 19 through New Balance and select retailers Name: New Balance 992 \"Black/Turtledove\"Colorway: Black/Turtledove-NB NavySKU: U992LBMSRP: $200 USDRelease Date: November 19, 2026Where to Buy: New BalanceNew Balance has officially unveiled a heavily detailed addition to its seasonal lineup with the upcoming New Balance 992 \"Black/Turtledove.\" Joining the brand's expansive Made in USA Fall/Winter 2026 collection curated by Teddy Santis, the new iteration arrives as the Boston footwear brand celebrates the 20th anniversary of the iconic 992 silhouette.Defined by its ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2Fnew-balance-992-black-turtledove-u992lb-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/new-balance-992-black-turtledove-u992lb-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "ASICS SportStyle 與 Dime 再次攜手推出賽車靈感 GEL-SD Lyte 聯乘系列",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-18",
+   "content": "摘要 ASICS SportStyle 與總部位於 Montreal 的品牌 Dime 攜手合作，推出兩款全新配色的 GEL-SD LYTE，並同步帶來配套服飾系列該系列靈感源自碳纖維在汽車設計中的應用，將輕量化結構與受賽車運動啟發的金屬質感細節融為一體完整的鞋款與服飾膠囊系列將於 11 月 21 日透過 Dime 官方網站及實體門市正式發售 ASICS SportStyle 與 Montréal 品牌 Dime 再次合作，推出 Dime x ASICS GEL-SD LYTE 鞋款，並帶來相應的運動套裝及帽款系列。此聯乘系列從高性能跑車及汽車設計中的碳纖維技術美學汲取靈感，探索速度、耐用度與輕量化結構之間的平衡。聯乘版 GEL-SD LYTE 最初從蛋殼的保護結構中汲取靈感，採用模壓鞋面設計，提供極具支撐力的貼合感。經過 Dime 的重新詮釋，升級後的鞋款採用雙色網眼結構，並以呼應系列汽車靈感的亮面金屬細節作點綴。鞋底部分，運動鞋搭載 FLYTEFOAM™ PROPEL 緩震科技，確保足底帶來靈敏的舒適感與吸震效果。將賽車靈感延伸至日常穿搭，此鞋款更配有一系列協調的服飾，包括運動外套、長褲及帽款，提供相輔相成的黑色與灰色選擇。休閒運動套裝直接借鑒 ASICS 經典訓練服，採用防潑水布料與透氣網眼細節，將機能性品牌特色與 Dime 低調的街頭美學無縫結合。Dime x ASICS SportStyle 聯乘系列將於 2026 年 11 月 21 日透過 Dime 官方網站及實體門市發售。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fdime-asics-gel-sd-lyte-footwear-apparel-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/dime-asics-gel-sd-lyte-footwear-apparel-collection-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 6,
    "title": "率先預覽 Jae Tips x Nike Air Bakin Low 最新「Chile Red」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-18",
@@ -41,7 +106,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 7,
    "title": "Nike 推出 Tuned Air，為下一個 50 年重塑 Air 科技",
    "source": "Hypebeast 中文",
    "date": "2026-11-18",
@@ -54,7 +119,33 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 8,
+   "title": "Hypebeast LATAM Laces Up With New Balance for Its First Run Club",
+   "source": "Hypebeast",
+   "date": "2026-11-18",
+   "content": "New Balance brought a change of pace to Hypebeast LATAM’s events during Latin Music’s Busiest Week, joining Hypebeast LATAM for its first-ever Run Club. More than 80 guests gathered for a five-kilometer run in Las Vegas, putting running on an itinerary otherwise packed with interviews, dinners, and late-night festivities.The 9 a.m. start came with its own kit: New Balance run gear built to boost the pace, getting the group ready for the route ahead. For five kilometers, the run became a meeting point for music and running, with guests including Arcángel, Ryan Castro, Corridos del Rey, DJ Dynamiq, and more.The morning also saw the New Balance Ellipse Pykrete put to the test, highlighting its performance in motion. Against the backdrop of Las Vegas, the launch found its setting out on the pavement, alongside a community tapped into every beat. From unreleased gear to the latest pack releas",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F18%2Fhypebeast-latam-new-balance-run-club-las-vegas-info-0.png?w=800&cbr=1&q=90&format=png&fit=max",
+   "link": "https://hypebeast.com/2026/11/hypebeast-latam-new-balance-run-club-las-vegas-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "ASICS SportStyle and Dime Reunite for a Motorsport-Inspired GEL-SD Lyte Collection",
+   "source": "Hypebeast",
+   "date": "2026-11-18",
+   "content": "Summary ASICS SportStyle and Montreal-based label Dime have teamed up to release the GEL-SD LYTE in two new colorways alongside a matching apparel rangeInspired by the use of carbon fiber in automotive design, the collection blends lightweight construction with motorsport-influenced metallic finishesThe full footwear and apparel capsule officially drops on November 21 through Dime's website and physical store locations ASICS SportStyle and Montréal-based label Dime have come together once again to introduce the Dime x ASICS GEL-SD LYTE, accompanied by a matching collection of tracksuits and caps. Inspired by high-performance sports cars and the technical aesthetic of carbon fiber in automotive design, the collaborative capsule explores the balance between speed, durability, and lightweight construction.Originally taking inspiration from the protective structure of an eggshell, the collab",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F18%2Fdime-asics-gel-sd-lyte-footwear-apparel-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/dime-asics-gel-sd-lyte-footwear-apparel-collection-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 10,
    "title": "Vibram Opens the Doors to Its North Brookfield Factory for Second Annual Creator Program",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -65,7 +156,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 4,
+   "id": 11,
    "title": "Jae Tips Nike Air Bakin Low \"Chile Red\" First Look",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -78,7 +169,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 12,
    "title": "Nike Is Reinventing Air for the Next 50 Years With Tuned Air",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -91,7 +182,31 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 13,
+   "title": "Plastic Shoes Are in Their Luxury Era",
+   "source": "Highsnobiety",
+   "date": "2026-11-18",
+   "content": "Plastic shoes have been around forever, but it’s only recently that they’ve become a fashion staple. Now, TPU shoes have entered the luxury brand matrix.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/plastic-shoes/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 14,
+   "title": "adidas Has a New Techy Runner for the Big Dogs",
+   "source": "Highsnobiety",
+   "date": "2026-11-18",
+   "content": "We're in the midst of a generational run of good collabs. Next up is the UNheardof x adidas Originals Adistar Control 5.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/unheardof-adidas-adistar-control-5-doggy-runner/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 15,
    "title": "66°North Gives HOKA's Hiking Icon an Icelandic Makeover",
    "source": "Highsnobiety",
    "date": "2026-11-18",
@@ -104,7 +219,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 16,
    "title": "“Jordans Are Universal Shoes”: Osamason on the Bred 4 Being Bigger Than Culture",
    "source": "Highsnobiety",
    "date": "2026-11-18",
@@ -117,7 +232,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 17,
    "title": "New Balance's Retro Dad Shoe Is a Masterclass in Color Theory",
    "source": "Highsnobiety",
    "date": "2026-11-18",
@@ -130,7 +245,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 18,
    "title": "A$AP Rocky’s Fortnite Skin Wears His '90s PUMAs, Too",
    "source": "Highsnobiety",
    "date": "2026-11-18",
@@ -143,7 +258,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 19,
    "title": "Nike's Most Controversial Silhouette Just Got Monochromed",
    "source": "Highsnobiety",
    "date": "2026-11-18",
@@ -156,60 +271,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
-   "title": "Vans’ Reborn Outdoor Sneaker Looks Good in Needles Streetwear",
-   "source": "Highsnobiety",
-   "date": "2026-11-18",
-   "content": "Needles cooks up extra-rugged Vans Mountain Edition sneakers, featuring Vibram & Cordura finishes. Here's everything on the collab.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/needles-vans-mountain-edition-vibram-shoes/",
-   "lang": "en",
-   "relatedBrands": [
-    "UGG",
-    "VANS"
-   ]
-  },
-  {
-   "id": 12,
-   "title": "Ignore the Suits — Vans Will Always Be The People’s Sneaker",
-   "source": "Highsnobiety",
-   "date": "2026-11-18",
-   "content": "They want you to think Vans is slipping, but they’ve actually never been better. The skate shoe brand is expanding every day in ways that only make us fall deeper in love.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/vans-new-sneakers-hype/",
-   "lang": "en",
-   "relatedBrands": [
-    "VANS"
-   ]
-  },
-  {
-   "id": 13,
-   "title": "Makeway’s New Impressively Sleek Nike Collab Is a Family Affair",
-   "source": "Highsnobiety",
-   "date": "2026-11-18",
-   "content": "Toronto's Makeway debuts its mega-sleek Nike Shox R4 sneaker collaboration, which is exclusive to friends & family.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/makeway-nike-shox-r4/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 14,
-   "title": "adidas' Formidable Samba Has Lost Its Heel but Found Its Fluff",
-   "source": "Highsnobiety",
-   "date": "2026-11-18",
-   "content": "The adidas Samba OG Mule gives the iconic terrace sneaker a cozy makeover, complete with a fluffy lining, slip-on silhouette, and the addition of... laces?",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-samba-og-mule-preloved-brown/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 15,
+   "id": 20,
    "title": "Nike 與 Devin Booker 正式發布 Book 3 簽名鞋及 fragment design 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -222,7 +284,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 21,
    "title": "Crocs 推出全新「Puerto Rico」Classic Clog 鞋款致敬波多黎各",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -235,7 +297,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 22,
    "title": "HOKA 聯乘 WTAPS 推出如裝甲般的全新 Speedgoat TS 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -248,7 +310,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 23,
    "title": "Bare Knuckles 重新帶回復刻版 Brooks Cascadia 1 越野跑鞋",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -259,7 +321,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 19,
+   "id": 24,
    "title": "近賞 Travis Scott x Nike Air Force 1「GTA 6」黑白配色鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -272,7 +334,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 25,
    "title": "Nike Mind 擴展陣容：Sock、Moc Flyknit、Slip 及 Sneaker 預計於 2027 年夏季登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -285,7 +347,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 26,
    "title": "Nike Vomero 19 及 Vaporfly 5 搭載全新 ZoomX 及 ReactX 泡棉減重登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -298,47 +360,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
-   "title": "Social Status 與 Jordan Brand 攜手以 Sashiko 布料重塑 Air Jordan 1 Low OG",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-17",
-   "content": "摘要 The Whitaker Group 旗下的 Social Status 與 Jordan Brand 攜手合作，全新演繹 Air Jordan 1 Low OG這款採用「Chicago」撞色設計的鞋款，配備作舊紅色皮革覆層，以及藍色刺子繡（Sashiko）風格的中段面板該聯乘鞋款預計於 2026 年 12 月登場，並附有同款設計的特製鞋盒 名稱： Social Status x Air Jordan 1 Low OG「Sashiko」配色： Varsity Red/Sail-Game Royal-BlackSKU： IU4982-600建議零售價： $155 美元發售日期： 2026 年 12 月購買點： Social StatusSocial Status 與 Jordan Brand 將於年底攜手推出細節豐富的聯乘鞋款，正式發布 Social Status x Air Jordan 1 Low OG「Sashiko」。這款由 The Whitaker Group 旗下零售品牌打造的新作預計於今年 12 月登場，透過造舊元素與紋理布面重塑經典的 1985 年鞋款。這雙聯乘鞋面保留了經典紅、白、黑的 Chicago 配色，並注入獨特的仿舊美學。鞋頭的純白皮革保持原樣，與磨損造舊的紅色皮革覆蓋層形成強烈對比。中足內外側一改標準的光滑皮革，改用藍色 Sashiko 風格編織布料，徹底改變了側面的質感。為確保設計忠於原版規格，鞋款配以傳統的尼龍鞋舌作結。為了提升整個發售體驗，是次聯乘放棄了標準的 Nike Air 包裝，改為全面度身訂製。隨附的鞋盒完全包覆着與球鞋相同的藍色編織圖案，頂部更印有巨大的 Social Status 標誌。Social Status x Air Jordan 1 Low OG「Sashiko」將於 2026 年 12 月透過 Social Status 發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fsocial-status-air-jordan-1-low-og-sashiko-IU4982-600-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/social-status-air-jordan-1-low-og-sashiko-iu4982-600-first-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 23,
-   "title": "Atlantic Drift x New Balance Numeric Tom Knox 600 最新聯乘鞋款正式發佈",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-17",
-   "content": "摘要 來自 London 的滑板手 Tom Knox 攜手 Atlantic Drift 與 New Balance 合作，推出聯乘鞋款 Numeric 600這款靈感源自海洋的鞋款採用充液鞋舌標籤設計，封存著浮動的水母圖案，並配以半透明大底圖案鞋款搭載 FuelCell 泡棉緩震中底與全粒面皮革鞋面，目前已於指定零售商發售，並將於星期一迎來更大規模的登場 名稱： Atlantic Drift x New Balance Numeric Tom Knox 600配色： Black/Team Teal型號： UN600ATC建議零售價： $110 美元發售日期： 現已發售購買點： New BalanceNew Balance 與 Atlantic Drift 正式攜手合作，推出 Numeric Tom Knox 600 最新聯乘鞋款。是次企劃對這位知名英國滑板選手意義非凡，旨在向 Knox 與由 Jacob Harris 拍攝的滑板系列之間深厚的淵源致敬。該系列自 2017 年首播以來，現已發展成席捲全球的熱潮。為展現 Atlantic Drift 的海洋美學，這雙滑板鞋融入了以系列標誌性水母圖案為中心的各種海洋細節。當中最注目的設計元素是注滿液體的鞋舌標誌，內有小水母在如雪花玻璃球般的空間中浮動。此外，鞋墊及半透明外底下方均飾有顯眼的水母圖案。這款鞋型的設計靈感源自 1990 年代室內足球鞋的經典檔案，在低調的外觀下巧妙隱藏現代機能技術。鞋款配備 New Balance 標誌性的 FuelCell 泡沫緩震中底，以及專為應付高強度滑板運動而設的 Ndurance 橡膠外底。最後在技術規格方面，Black 與 Team Teal 配色採用全粒面皮革鞋面，並加入 FantomFit 技術，提供更強的貼合支撐。Atlantic Drift x New Balance Numeric Tom Knox 600 現已於指定滑板店舖及 New Balance 官方網站上架。 View this post on InstagramA post shared by New Balanc",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fatlantic-drift-new-balance-numeric-tom-knox-600-black-team-teal-un600atc-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/atlantic-drift-new-balance-numeric-tom-knox-600-black-team-teal-un600atc-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 24,
-   "title": "Devin Booker 率先著用 Nike Book 3 最新「Twilight」配色上陣",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-17",
-   "content": "摘要 Devin Booker 已在賽場上正式亮相其即將推出的第 3 代簽名球鞋全新 Nike Book 3 以名為「Twilight」的俐落全黑配色率先登場品牌目前尚未確認官方發售日期及發售價格等細節 Nike 與 Phoenix Suns 後衛 Devin Booker 已經非正式地揭曉了備受期待的 Nike Book 3。這位球員在球場上率先穿著這款尚未發佈的鞋型，以全黑的「Twilight」配色神秘登場，讓球迷搶先一睹他的第三代個人簽名球鞋。由於「Twilight」版本採用全黑設計，具體的技術細節與微妙的設計元素仍然難以看清。然而，從早期的場上曝光來看，這款即將推出的鞋型似乎延續了前作相對簡單、流線的設計語言，避開了現代實戰籃球鞋常見的笨重與未來感美學。第三代鞋款的出現，暗示著 Booker 個人簽名系列的發佈時間表可能發生轉變。在初代鞋款近兩年的生命週期，以及 Book 2 於 2026 年初上市之後，這次在年底的場上首秀，意味著可能轉向更傳統的年度發佈節奏。由於 Nike 尚未官方宣布這款球鞋，「Twilight」配色的性能細節及發售資訊仍然未知。 View this post on InstagramA post shared by Phoenix Suns (@suns) Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fdevin-booker-debuts-nike-book-3-twilight-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/devin-booker-debuts-nike-book-3-twilight-first-look",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 25,
+   "id": 27,
    "title": "Nike and Devin Booker Officially Unveil the Book 3 Alongside a fragment design Collaboration",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -351,7 +373,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 28,
    "title": "Crocs Honors the Island With the \"Puerto Rico\" Classic Clog",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -364,7 +386,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 29,
    "title": "HOKA Taps WTAPS for an Armor-Inspired Speedgoat TS Sneaker",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -377,7 +399,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 30,
    "title": "Bare Knuckles Brings Brooks’ Archival Cascadia 1 Back to the Trail",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -388,7 +410,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 29,
+   "id": 31,
    "title": "Closer Look at the Black and White Pairs of the Travis Scott x Nike Air Force 1 \"GTA 6\"",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -402,73 +424,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
-   "title": "Nike Mind Expands With the Sock, Moc Flyknit, Slip and Sneaker for Summer 2027",
-   "source": "Hypebeast",
-   "date": "2026-11-17",
-   "content": "Summary Nike is turning Nike Mind from a single shoe into a full sensory platform that covers footwear and apparel and supports athletes from preparation through recoveryA new secondary underfoot construction links the 22 foam nodes in the all-day models for a softer feel, while the game-day styles keep the nodes moving independentlyThe platform comes out of the Nike Sport Research Lab, where the Nike Mind Science team studies perception, neuroscience and cognition Nike is expanding Nike Mind beyond its original single silhouette into a wider platform built on sensory-based design, with plans to support athletes in both footwear and apparel from preparation through recovery. The core technology stays the same across the line. What changes is how its 22 foam nodes meet the foot, and that gives wearers a choice of underfoot sensation for the first time.Every Nike Mind shoe retains the plat",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F17%2FNike-Mind-Slip-Mind-Moc-Flyknit-Mind-Sneaker-Mind-Sock-Announcement-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/nike-mind-slip-mind-moc-flyknit-mind-sneaker-mind-sock-announcement-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "The Nike Vomero 19 and Vaporfly 5 Shed Weight With New ZoomX and ReactX Foams",
-   "source": "Hypebeast",
-   "date": "2026-11-17",
-   "content": "Summary Nike Running is previewing two new road shoes, a maximum-cushioned daily trainer and a race-day super shoe aimed at distances from 5K to the half marathonThe Vomero 19 pairs plush ZoomX with a new lightweight ReactX LT compound, losing weight while keeping the Vomero 18’s stack heightThe Vaporfly 5 places a new wave-shaped Flyplate between standard ZoomX and the new ZoomX LT, which is 17% lighter and returns 8% more energy Nike has revealed the Vomero 19 and Vaporfly 5, two running shoes at opposite ends of the road lineup that both work toward the same goal of cutting weight. The Vomero 19 keeps the plush daily-trainer formula that defined its predecessor. The Vaporfly 5, still at the prototype stage, is Nike’s most aggressive version of its race shoe so far.Nike takes a measured approach to the Vomero 19, keeping the cushioning, stability and familiar geometry of the Vomero 18 ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2FftNike-Vomero-19-Vaporly-5-Announcement-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/nike-vomero-19-vaporly-5-announcement-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
    "id": 32,
-   "title": "Social Status and Jordan Brand Reimagine the Air Jordan 1 Low OG With Sashiko Fabric",
-   "source": "Hypebeast",
-   "date": "2026-11-17",
-   "content": "Summary The Whitaker Group's Social Status has partnered with Jordan Brand for a new take on the Air Jordan 1 Low OGThe Chicago-blocked sneaker features distressed red leather overlays alongside blue Sashiko-style mid-panelsThe collaborative footwear is scheduled to release in December 2026 packaged in a matching custom shoebox Name: Social Status x Air Jordan 1 Low OG \"Sashiko\"Colorway: Varsity Red/Sail-Game Royal-BlackSKU: IU4982-600MSRP: $155 USDRelease Date: December 2026Where to Buy: Social StatusSocial Status and Jordan Brand are joining forces to close out the year with a heavily detailed footwear collaboration, officially introducing the Social Status x Air Jordan 1 Low OG \"Sashiko.\" Slated to drop this coming December, the new release from The Whitaker Group’s retail imprint reimagines the iconic 1985 silhouette with distressed elements and textured textile finishes.Maintaining ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2Fsocial-status-air-jordan-1-low-og-sashiko-IU4982-600-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/social-status-air-jordan-1-low-og-sashiko-iu4982-600-first-look-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Atlantic Drift and New Balance Unveil the Numeric Tom Knox 600",
-   "source": "Hypebeast",
-   "date": "2026-11-17",
-   "content": "Summary London skater Tom Knox and Atlantic Drift have teamed up with New Balance to release a collaborative take on the Numeric 600The marine-inspired sneaker features a liquid-filled tongue badge encasing floating jellyfish alongside translucent outsole graphicsBuilt with FuelCell foam cushioning and a full-grain leather upper, the shoe is currently available at select retailers with a wider release dropping Monday Name: Atlantic Drift x New Balance Numeric Tom Knox 600Colorway: Black/Team TealSKU: UN600ATCMSRP: $110 USDRelease Date: Available NowWhere to Buy: New BalanceNew Balance and Atlantic Drift have officially teamed up to release a collaborative iteration of the Numeric Tom Knox 600. Serving as a full-circle moment for the celebrated English skater, the new drop honors Knox's deep ties to the Jacob Harris-shot skate series, which first launched in 2017 and has since evolved int",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2Fatlantic-drift-new-balance-numeric-tom-knox-600-black-team-teal-un600atc-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/atlantic-drift-new-balance-numeric-tom-knox-600-black-team-teal-un600atc-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 34,
-   "title": "adidas’ Winterized Sneaker Is Part Hiker, All Spezial",
-   "source": "Highsnobiety",
-   "date": "2026-11-17",
-   "content": "adidas debuts a Handball Spezial WTR, a winterized sneaker with trail-style details. Here's everything on the new brown release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-handball-spezial-winter/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 35,
    "title": "Anthony Edwards and adidas Continue Their Signature Legacy With the AE 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -481,7 +437,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 33,
    "title": "Devin Booker and Nike Turn the Page With the New Book 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -494,7 +450,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 34,
    "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
    "source": "Nice Kicks",
    "date": "2026-11-10",
@@ -507,7 +463,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 35,
    "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
    "source": "Nice Kicks",
    "date": "2026-11-09",
@@ -520,7 +476,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 36,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -533,7 +489,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 37,
    "title": "Tremaine Emory Brings a Piece of Canal Street to adidas Originals",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -546,7 +502,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 41,
+   "id": 38,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
@@ -559,7 +515,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 42,
+   "id": 39,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -572,7 +528,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 43,
+   "id": 40,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
