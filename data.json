@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20 00:58",
+ "updatedAt": "2026-11-20 13:05",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -119,6 +119,19 @@
   },
   {
    "id": 8,
+   "title": "adidas Is Making the Case for Square-Toed Hoop Shoes",
+   "source": "Highsnobiety",
+   "date": "2026-11-19",
+   "content": "Over the last forty something years, it’s seen little change excluding one major departure: the adidas Originals Forum SQ Trainer.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-forum-sq-trainer-white/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 9,
    "title": "adidas’ Brain Dead Climbing Shoe Is a Proper Oddball",
    "source": "Highsnobiety",
    "date": "2026-11-19",
@@ -131,7 +144,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 10,
    "title": "The Best Nike Sneaker Releases This Week",
    "source": "Highsnobiety",
    "date": "2026-11-19",
@@ -144,7 +157,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 11,
    "title": "Nike’s GORE-TEX Air Max Is Ready to Retire Your Winter Boots",
    "source": "Highsnobiety",
    "date": "2026-11-19",
@@ -154,19 +167,6 @@
    "lang": "en",
    "relatedBrands": [
     "NIKE"
-   ]
-  },
-  {
-   "id": 11,
-   "title": "adidas Has a New Techy Runner for the Big Dogs",
-   "source": "Highsnobiety",
-   "date": "2026-11-19",
-   "content": "We're in the midst of a generational run of good collabs. Next up is the UNheardof x adidas Originals Adistar Control 5.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/unheardof-adidas-adistar-control-5-doggy-runner/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
    ]
   },
   {
@@ -273,17 +273,6 @@
   },
   {
    "id": 20,
-   "title": "Plastic Shoes Are in Their Luxury Era",
-   "source": "Highsnobiety",
-   "date": "2026-11-18",
-   "content": "Plastic shoes have been around forever, but it’s only recently that they’ve become a fashion staple. Now, TPU shoes have entered the luxury brand matrix.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/plastic-shoes/",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 21,
    "title": "Nike 與 Devin Booker 正式發布 Book 3 簽名鞋及 fragment design 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -296,7 +285,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 21,
    "title": "Crocs 推出全新「Puerto Rico」Classic Clog 鞋款致敬波多黎各",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -309,7 +298,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 22,
    "title": "HOKA 聯乘 WTAPS 推出如裝甲般的全新 Speedgoat TS 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -322,7 +311,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 23,
    "title": "Bare Knuckles 重新帶回復刻版 Brooks Cascadia 1 越野跑鞋",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -333,7 +322,7 @@
    "relatedBrands": []
   },
   {
-   "id": 25,
+   "id": 24,
    "title": "近賞 Travis Scott x Nike Air Force 1「GTA 6」黑白配色鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -346,7 +335,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 25,
    "title": "Nike Mind 擴展陣容：Sock、Moc Flyknit、Slip 及 Sneaker 預計於 2027 年夏季登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -359,7 +348,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 26,
    "title": "Nike and Devin Booker Officially Unveil the Book 3 Alongside a fragment design Collaboration",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -372,7 +361,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 27,
    "title": "Crocs Honors the Island With the \"Puerto Rico\" Classic Clog",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -385,7 +374,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 28,
    "title": "HOKA Taps WTAPS for an Armor-Inspired Speedgoat TS Sneaker",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -398,7 +387,7 @@
    ]
   },
   {
-   "id": 30,
+   "id": 29,
    "title": "Anthony Edwards and adidas Continue Their Signature Legacy With the AE 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -411,7 +400,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 30,
    "title": "Devin Booker and Nike Turn the Page With the New Book 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -424,7 +413,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 31,
    "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
    "source": "Nice Kicks",
    "date": "2026-11-10",
@@ -437,7 +426,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 32,
    "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
    "source": "Nice Kicks",
    "date": "2026-11-09",
@@ -450,7 +439,7 @@
    ]
   },
   {
-   "id": 34,
+   "id": 33,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -463,7 +452,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 34,
    "title": "Tremaine Emory Brings a Piece of Canal Street to adidas Originals",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -476,7 +465,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 35,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
@@ -489,7 +478,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 36,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -502,7 +491,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 37,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
