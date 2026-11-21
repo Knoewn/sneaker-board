@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21 00:32",
+ "updatedAt": "2026-11-21 12:59",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -63,6 +63,98 @@
   },
   {
    "id": 4,
+   "title": "adidas’ Great-Looking Loafer Got a Promotion",
+   "source": "Highsnobiety",
+   "date": "2026-11-20",
+   "content": "adidas' Handball Spezial Loafer got an fancy horsebit upgrade for the fall. Here's everything on the new look.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-handball-spezial-loafer-brown-suede/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Nike Just Revived Fashion’s Most Experimental Running Line",
+   "source": "Highsnobiety",
+   "date": "2026-11-20",
+   "content": "Gyakusou may mean “running in reverse”, but the brand is one of the most forward thinking performance wear lines. Nike brings back one of its best collab collections.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-undercover-fashion-new/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "How to Make Flawless Converse Chuck Taylors? Add Waterproof Suede",
+   "source": "Highsnobiety",
+   "date": "2026-11-20",
+   "content": "Converse winterizes its classic Chuck Taylor, resulting in the Chuck 70 GORE-TEX Hairy Suede sneaker.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/converse-chuck-70-gore-tex-hairy-suede/",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Nike’s Luxe Air Forces Are \"Chanel\" Bags for Your Feet",
+   "source": "Highsnobiety",
+   "date": "2026-11-20",
+   "content": "Nike's Air Force 1 Low Quilted sneaker appears in an all-black colorway, giving the shoe even more Chanel-ish charm.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-quilted-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Nike’s OG \"Space Jam\" Air Jordans Still Hit After 30 Years",
+   "source": "Highsnobiety",
+   "date": "2026-11-20",
+   "content": "The Air Jordan 11 \"Space Jam\" sneaker returns for the movie's 30th anniversary with original details.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-11-space-jam-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "The Debut Collab for Nike's Signature Hoops Shoe Is A'bsolutely Clean",
+   "source": "Highsnobiety",
+   "date": "2026-11-20",
+   "content": "Playa Society's Nike A'Two sneaker collab finally hits the streets, complete with a surprise second \"Ocean Bliss\" colorway.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/playa-society-nike-atwo-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "The Three Stripes Are Getting Down to Business This Black Friday",
+   "source": "Highsnobiety",
+   "date": "2026-11-20",
+   "content": "Explore the best adidas Black Friday deals, from sneakers and track jackets to sweatpants, chinos, bags, and accessories, all at a fraction of the price.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-black-friday-guide/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 11,
    "title": "The Seven Best adidas Sneaker Releases This Week",
    "source": "Highsnobiety",
    "date": "2026-11-20",
@@ -75,20 +167,7 @@
    ]
   },
   {
-   "id": 5,
-   "title": "Caitlin Clark's Nike Baller Gets a Textured Take on Neutrals",
-   "source": "Highsnobiety",
-   "date": "2026-11-20",
-   "content": "The Nike Caitlin 1 “Cave Stone” trades the bold colors of Caitlin Clark’s debut sneaker for an earthy palette, letting its sculptural textures do the work.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-caitlin-1-cave-stone/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 6,
+   "id": 12,
    "title": "Noah x Converse 最新聯乘 Chuck 70 回歸 90 年代風格 Black Watch 經典格紋",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -101,7 +180,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 13,
    "title": "Nike 與 Zellerfeld 聯手為 3D 打印鞋款 AIRMAX 1000 帶來更多度身訂製選項",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -114,7 +193,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 14,
    "title": "Caitlin Clark 率先預覽具備變色功能的 Nike Caitlin 1 原型鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -127,7 +206,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 15,
    "title": "Noah and Converse Take the Chuck 70 Back to the ’90s in Black Watch Tartan",
    "source": "Hypebeast",
    "date": "2026-11-19",
@@ -140,7 +219,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 16,
    "title": "Nike's 3D-Printed AIRMAX 1000 Just Got Even More Customizable With Zellerfeld",
    "source": "Hypebeast",
    "date": "2026-11-19",
@@ -153,7 +232,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 17,
    "title": "Caitlin Clark Previews Color-Changing Nike Caitlin 1 Prototype",
    "source": "Hypebeast",
    "date": "2026-11-19",
@@ -166,7 +245,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 18,
    "title": "New Balance Adds Exposed Leather Trim to the 992 \"Black/Turtledove\"",
    "source": "Hypebeast",
    "date": "2026-11-19",
@@ -179,33 +258,7 @@
    ]
   },
   {
-   "id": 13,
-   "title": "adidas Is Making the Case for Square-Toed Hoop Shoes",
-   "source": "Highsnobiety",
-   "date": "2026-11-19",
-   "content": "Over the last forty something years, it’s seen little change excluding one major departure: the adidas Originals Forum SQ Trainer.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-forum-sq-trainer-white/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 14,
-   "title": "adidas’ Brain Dead Climbing Shoe Is a Proper Oddball",
-   "source": "Highsnobiety",
-   "date": "2026-11-19",
-   "content": "Brain Dead and adidas introduce a new Five Ten NIAD collaboration, bringing the climbing shoe into the sneaker spotlight with an unconventional design.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-niad-brain-dead/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 15,
+   "id": 19,
    "title": "ASICS SportStyle 與 Dime 再次攜手推出賽車靈感 GEL-SD Lyte 聯乘系列",
    "source": "Hypebeast 中文",
    "date": "2026-11-18",
@@ -218,7 +271,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 20,
    "title": "率先預覽 Jae Tips x Nike Air Bakin Low 最新「Chile Red」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-18",
@@ -231,7 +284,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 21,
    "title": "Nike 推出 Tuned Air，為下一個 50 年重塑 Air 科技",
    "source": "Hypebeast 中文",
    "date": "2026-11-18",
@@ -244,7 +297,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 22,
    "title": "Hypebeast LATAM Laces Up With New Balance for Its First Run Club",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -257,7 +310,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 23,
    "title": "ASICS SportStyle and Dime Reunite for a Motorsport-Inspired GEL-SD Lyte Collection",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -270,7 +323,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 24,
    "title": "Vibram Opens the Doors to Its North Brookfield Factory for Second Annual Creator Program",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -281,7 +334,7 @@
    "relatedBrands": []
   },
   {
-   "id": 21,
+   "id": 25,
    "title": "Jae Tips Nike Air Bakin Low \"Chile Red\" First Look",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -294,7 +347,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 26,
    "title": "Nike Is Reinventing Air for the Next 50 Years With Tuned Air",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -307,7 +360,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 27,
    "title": "Nike 與 Devin Booker 正式發布 Book 3 簽名鞋及 fragment design 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -320,7 +373,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 28,
    "title": "Crocs 推出全新「Puerto Rico」Classic Clog 鞋款致敬波多黎各",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -333,7 +386,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 29,
    "title": "HOKA 聯乘 WTAPS 推出如裝甲般的全新 Speedgoat TS 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -346,7 +399,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 30,
    "title": "Bare Knuckles 重新帶回復刻版 Brooks Cascadia 1 越野跑鞋",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -357,7 +410,7 @@
    "relatedBrands": []
   },
   {
-   "id": 27,
+   "id": 31,
    "title": "近賞 Travis Scott x Nike Air Force 1「GTA 6」黑白配色鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -370,7 +423,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 32,
    "title": "Nike and Devin Booker Officially Unveil the Book 3 Alongside a fragment design Collaboration",
    "source": "Hypebeast",
    "date": "2026-11-17",
@@ -383,7 +436,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 33,
    "title": "Anthony Edwards and adidas Continue Their Signature Legacy With the AE 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -396,7 +449,7 @@
    ]
   },
   {
-   "id": 30,
+   "id": 34,
    "title": "Devin Booker and Nike Turn the Page With the New Book 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -409,7 +462,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 35,
    "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
    "source": "Nice Kicks",
    "date": "2026-11-10",
@@ -422,7 +475,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 36,
    "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
    "source": "Nice Kicks",
    "date": "2026-11-09",
@@ -435,7 +488,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 37,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -448,7 +501,7 @@
    ]
   },
   {
-   "id": 34,
+   "id": 38,
    "title": "Tremaine Emory Brings a Piece of Canal Street to adidas Originals",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -461,7 +514,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 39,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
@@ -474,7 +527,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 40,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -487,7 +540,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 41,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
