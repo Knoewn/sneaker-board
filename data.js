@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-22 12:22",
+ "updatedAt": "2026-11-22 23:48",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -19,6 +19,7 @@ window.SNEAKER_DATA = {
   "ASICS",
   "CONVERSE",
   "CROCS",
+  "FEAR OF GOD",
   "HOKA",
   "JORDAN",
   "NEW BALANCE",
@@ -28,6 +29,21 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Jerry Lorenzo 在與 adidas 終止合作後發表自家 Fear of God Trainer 鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-22",
+   "content": "摘要 Jerry Lorenzo 正式揭曉 Fear of God Trainer，作為他自 2025 年與 adidas 分道揚鑣後的首款獨立運動鞋型這款低頂輪廓採用輕量網眼基底，配以模製合成框架與撞色麂皮鞋頭這款全新運動鞋官方預計將於 2027 年夏季登場 Jerry Lorenzo 在 2025 年高調結束與 adidas 的合作後，正式發表了自家獨立推出的 Fear of God Trainer。儘管這位設計師早前被拍到穿著復古 Moon Shoes 而引發外界猜測他可能回歸 Nike，這款全新輪廓無疑標誌著這個美國奢華品牌正式回歸完全自家設計的鞋履路線。Fear of God Trainer 採用低筒輪廓，以透氣輕量的網眼材質作為基底。模製合成支架從綁帶系統一路延伸並環繞後跟，側面的鏤空設計展露出底層的網眼。圓形奶白色鞋帶直接穿梭於此結構性支架之中，而鞋頭前緣則包覆著對比鮮明的灰藍色麂皮條，打破了鞋面單一的奶白色調。品牌標誌延續了標誌性的極簡風格，Fear of God 字樣以黑色印在鞋墊上，並在後跟拉環正下方配置了一塊小型長方形徽章。在鞋底方面，中底採用超臨界發泡材質打造，提供現代頂級緩震效果，最後搭載幾乎覆蓋整個外底的人字紋抓地圖案。根據 Lorenzo 透露，Fear of God Trainer 將於 2027 年夏季發布。 View this post on InstagramA post shared by JERRY LORENZO (@jerrylorenzo) Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fjerry-lorenzo-unveils-fear-of-god-trainer-following-adidas-split-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/jerry-lorenzo-unveils-fear-of-god-trainer-following-adidas-split-first-look",
+   "lang": "zh",
+   "relatedBrands": [
+    "ADIDAS",
+    "FEAR OF GOD",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
    "title": "Robert Pattinson 落實接任下一任占士邦之際，《Twilight》x Crocs 正式推出「Edward and Bella」Classic Clog",
    "source": "Hypebeast 中文",
    "date": "2026-11-22",
@@ -40,7 +56,22 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 3,
+   "title": "Jerry Lorenzo Unveils the Independent Fear of God Trainer Following adidas Split",
+   "source": "Hypebeast",
+   "date": "2026-11-22",
+   "content": "Summary Jerry Lorenzo has officially unveiled the Fear of God Trainer as his first independent sneaker model since parting ways with adidas in 2025The low-top silhouette features a lightweight mesh base overlaid with a molded synthetic cage and a contrasting suede toe capThe new athletic sneaker is officially slated to release in Summer 2027 Following his highly publicized departure from adidas in 2025, Jerry Lorenzo has officially introduced the independent Fear of God Trainer. Despite recent speculation regarding a potential return to Nike after the designer was spotted wearing vintage Moon Shoes, the new silhouette marks a definitive return to entirely in-house footwear for the luxury American label.The Fear of God Trainer opts for a low-cut profile, anchored by a breathable lightweight mesh base. A molded synthetic cage runs continuously from the lacing system around the heel, featur",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F20%2Fjerry-lorenzo-unveils-fear-of-god-trainer-following-adidas-split-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/jerry-lorenzo-unveils-fear-of-god-trainer-following-adidas-split-first-look",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "FEAR OF GOD",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 4,
    "title": "'Twilight' x Crocs Unveils \"Edward and Bella\" Classic Clog After Robert Pattinson is Named Next James Bond",
    "source": "Hypebeast",
    "date": "2026-11-22",
@@ -53,7 +84,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 5,
    "title": "adidas Took the New Balance Route With Its All-New Techy Sneaker-Loafer",
    "source": "Highsnobiety",
    "date": "2026-11-21",
@@ -67,7 +98,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 6,
    "title": "UP THERE’s Techy New Balance Dad Shoe Is Surprising Suave",
    "source": "Highsnobiety",
    "date": "2026-11-21",
@@ -80,7 +111,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 7,
    "title": "Nike's Velvet Mary Jane Is a Cozy Lil' Ballerina Sneaker",
    "source": "Highsnobiety",
    "date": "2026-11-21",
@@ -93,7 +124,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 8,
    "title": "Nike’s Olive Suede Sneaker-Boot Is a Dream Winter Shoe",
    "source": "Highsnobiety",
    "date": "2026-11-21",
@@ -106,7 +137,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 9,
    "title": "GTA's Most Wanted? Cactus Jack's Six-Star Nike Air Forces",
    "source": "Highsnobiety",
    "date": "2026-11-21",
@@ -119,7 +150,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 10,
    "title": "ERL 推出全新 Wall Street 樂福鞋與穆勒鞋",
    "source": "Hypebeast 中文",
    "date": "2026-11-20",
@@ -130,7 +161,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 9,
+   "id": 11,
    "title": "ERL Launches the New Wall Street Loafer and Mule",
    "source": "Hypebeast",
    "date": "2026-11-20",
@@ -141,7 +172,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 10,
+   "id": 12,
    "title": "UP THERE and New Balance’s 1890 “Horizon” Trades Mesh for Shiny Nylon Under Australian Skies",
    "source": "Hypebeast",
    "date": "2026-11-20",
@@ -154,7 +185,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 13,
    "title": "adidas’ Great-Looking Loafer Got a Promotion",
    "source": "Highsnobiety",
    "date": "2026-11-20",
@@ -167,7 +198,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 14,
    "title": "Nike Just Revived Fashion’s Most Experimental Running Line",
    "source": "Highsnobiety",
    "date": "2026-11-20",
@@ -180,7 +211,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 15,
    "title": "Noah x Converse 最新聯乘 Chuck 70 回歸 90 年代風格 Black Watch 經典格紋",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -193,7 +224,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 16,
    "title": "Nike 與 Zellerfeld 聯手為 3D 打印鞋款 AIRMAX 1000 帶來更多度身訂製選項",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -206,7 +237,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 17,
    "title": "Caitlin Clark 率先預覽具備變色功能的 Nike Caitlin 1 原型鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -219,7 +250,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 18,
    "title": "Noah and Converse Take the Chuck 70 Back to the ’90s in Black Watch Tartan",
    "source": "Hypebeast",
    "date": "2026-11-19",
@@ -232,7 +263,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 19,
    "title": "Nike's 3D-Printed AIRMAX 1000 Just Got Even More Customizable With Zellerfeld",
    "source": "Hypebeast",
    "date": "2026-11-19",
@@ -245,7 +276,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 20,
    "title": "Caitlin Clark Previews Color-Changing Nike Caitlin 1 Prototype",
    "source": "Hypebeast",
    "date": "2026-11-19",
@@ -258,7 +289,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 21,
    "title": "New Balance Adds Exposed Leather Trim to the 992 \"Black/Turtledove\"",
    "source": "Hypebeast",
    "date": "2026-11-19",
@@ -271,7 +302,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 22,
    "title": "ASICS SportStyle 與 Dime 再次攜手推出賽車靈感 GEL-SD Lyte 聯乘系列",
    "source": "Hypebeast 中文",
    "date": "2026-11-18",
@@ -284,7 +315,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 23,
    "title": "率先預覽 Jae Tips x Nike Air Bakin Low 最新「Chile Red」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-18",
@@ -297,7 +328,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 24,
    "title": "Nike 推出 Tuned Air，為下一個 50 年重塑 Air 科技",
    "source": "Hypebeast 中文",
    "date": "2026-11-18",
@@ -310,7 +341,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 25,
    "title": "Hypebeast LATAM Laces Up With New Balance for Its First Run Club",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -323,7 +354,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 26,
    "title": "ASICS SportStyle and Dime Reunite for a Motorsport-Inspired GEL-SD Lyte Collection",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -336,7 +367,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 27,
    "title": "Vibram Opens the Doors to Its North Brookfield Factory for Second Annual Creator Program",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -347,7 +378,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 26,
+   "id": 28,
    "title": "Jae Tips Nike Air Bakin Low \"Chile Red\" First Look",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -360,20 +391,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
-   "title": "Nike Is Reinventing Air for the Next 50 Years With Tuned Air",
-   "source": "Hypebeast",
-   "date": "2026-11-18",
-   "content": "Summary Nike debuts Tuned Air, a digital printing process for custom cushioning.It removes rigid structures to create tailored, limitless underfoot sensations.The technology launches for runners in late 2027 before broader expansion. Nike has introduced Tuned Air, a new way of making its Air cushioning units that the brand presents as the next chapter in nearly 50 years of Air innovation.Instead of relying on traditional pins, rigid zones and the unit’s height to shape how Air behaves, Tuned Air uses a proprietary digital ink printed inside each unit, which Nike says took about a decade to develop. A selective lamination process then bonds the unit’s internal core only where no ink has been applied, letting Nike’s engineers control each unit’s internal structure with much greater precision.The result opens up a far wider range of shapes, geometries and visual designs, giving Nike finer c",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F18%2Fnike-tuned-air-technology-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/nike-tuned-air-technology-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 28,
+   "id": 29,
    "title": "Nike 與 Devin Booker 正式發布 Book 3 簽名鞋及 fragment design 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -386,7 +404,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 30,
    "title": "Crocs 推出全新「Puerto Rico」Classic Clog 鞋款致敬波多黎各",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -399,7 +417,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 31,
    "title": "HOKA 聯乘 WTAPS 推出如裝甲般的全新 Speedgoat TS 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -410,17 +428,6 @@ window.SNEAKER_DATA = {
    "relatedBrands": [
     "HOKA"
    ]
-  },
-  {
-   "id": 31,
-   "title": "Bare Knuckles 重新帶回復刻版 Brooks Cascadia 1 越野跑鞋",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-17",
-   "content": "名稱： Brooks x Bare Knuckles Cascadia 1配色： 待定SKU： 待定建議零售價： $160 美元發售日期： 現已發售發售點： Bare Knuckles、BrooksBrooks Running 與 Portland 服裝品牌 Bare Knuckles 攜手合作，重新發行 Cascadia 1，將 Brooks 最具歷史意義的其中一款越野跑鞋從經典檔案館中帶回，並以限量版形式推出。Cascadia 1 於 2004 年首次面世，並在腳下建立了其聲譽：Brooks 運動員 Scott Jurek 在他第六次連續贏得 Western States 100 賽事時曾穿著它。這版本保留了該性能血統，恢復了原版的 Pivot Post 技術、防傾桿和 HydroFlow，並加入了升級泡棉，讓你在越野和日常穿著時更加舒適。厚實的深啡色鞋底單元承載著經典輪廓，帶有雕塑感側壁，外側中底壓印有「PIVOT」字樣，外底向上延伸的深邃粗獷凸紋設計更是一絕。這次聯乘源於兩個品牌對深思熟慮的設計、優質物料和工藝的專注，引導越野跑鞋邁向日常穿著，同時不失其技術根基。Bare Knuckles 的影響力主要體現在物料上。鞋面採用泥土啡色調，以做舊的灰褐色麂皮為基底，並在鞋頭及兩側疊加深朱古力色的長絨毛麂皮覆蓋層。深色且不規則的縫線在麂皮裁片上勾勒出蜿蜒的輪廓，增添了手工感與有機紋理。平滑的透氣朱古力色皮革加固了鞋頭與鞋跟，而深啡色的網眼鞋舌與鞋領則完成了整體結構。Brooks 的標誌僅在外側以灰色縫線輪廓呈現，這也是貫穿全鞋的低調聯乘標誌手法的一部分。兩款對比鮮明的鞋帶選項增添了明亮的點綴：一雙淡黃色鞋帶，以及一雙帶有啡色斑點的奶油色圓繩鞋帶，在原本單色的啡色鞋面上顯得格外搶眼。設定提醒並在 Hypebeast Drops 搶先掌握即將推出的最新單品。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fbrooks-bare-knuckles-cascadia-1-collaboration-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/bare-knuckles-brings-brooks-archival-cascadia-1-back-to-the-trail",
-   "lang": "zh",
-   "relatedBrands": []
   },
   {
    "id": 32,
