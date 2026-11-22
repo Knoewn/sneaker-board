@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-21 23:49",
+ "updatedAt": "2026-11-22 12:22",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -28,6 +28,98 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Robert Pattinson 落實接任下一任占士邦之際，《Twilight》x Crocs 正式推出「Edward and Bella」Classic Clog",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-22",
+   "content": "摘要 《Twilight》正式攜手 Crocs，以 Edward 與 Bella 為核心，為 Classic Clog 帶來全新演繹設計靈感源自經典的草地場景，配上專屬台詞 Jibbitz、角色肖像以及撞色拼接方案此聯乘鞋款將於今年 12 月登場，在此之前官方才剛宣布 Robert Pattinson 將飾演 James Bond 名稱： 《Twilight》 x Crocs Classic Clog「Edward and Bella」配色： Multi-Color型號： 215785-90H建議售價： $90 美元發售日期： 2026 年 12 月 4 日發售點： Crocs在官方宣布 Robert Pattinson 將接演經典角色占士邦（James Bond）後不久，Crocs 即推出官方 《Twilight》 x Crocs Classic Clog「Edward and Bella」，帶領粉絲重溫這位男星閃耀的吸血鬼歲月。這款聯乘鞋履散發 2000 年代中期的強烈懷舊氣息，設計明確向那場著名的草地場景致敬——Bella 正是在那裡的陽光下，初次發現 Edward 的真實面貌。為了帶來完整的敘事體驗，這款主題 Clog 被設計成從右至左閱讀，拼湊出 Edward 在該場景中最著名的台詞。右鞋頭印有這位吸血鬼的肖像，旁邊配有寫上「and so the lion」與「fell in love」的定製 Jibbitz 鞋飾。至於左鞋頭的外緣，Bella 回眸望去，並配上「with the lamb」鞋飾，為整句經典對白畫上句號。色彩組合直接呼應電影中的草地場景，以綠色與紫色的不對稱設計為主調。綠色從鞋頭一直延伸至兩雙鞋的內側，而紫色則沿外側順滑地蔓延至後跟帶。鞋面大量飾有花朵圖案 Jibbitz 與紫色寶石，後跟則以額外的寶石、金屬配件及電影中其他耳熟能詳的台詞作點綴。《Twilight》 x Crocs Classic Clog「Edward and Bella」將於 2026 年 12 月 4 日推出，定價為 $90 美元，備有男女通用尺碼。讀者可於 Crocs ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Ftwilight-crocs-classic-clog-edward-and-bella-215785-90H-following-robert-pattinson-named-next-james-bond-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/twilight-crocs-classic-clog-edward-and-bella-215785-90h-following-robert-pattinson-named-next-james-bond-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "'Twilight' x Crocs Unveils \"Edward and Bella\" Classic Clog After Robert Pattinson is Named Next James Bond",
+   "source": "Hypebeast",
+   "date": "2026-11-22",
+   "content": "Summary 'Twilight' has officially teamed up with Crocs for a new take on the Classic Clog centered around Edward and BellaThe design channels the iconic meadow scene with dedicated quote Jibbitz, character portraits, and a split color schemeThe collaborative pair drops this December shortly after the official announcement that Robert Pattinson will play James Bond Name: Twilight x Crocs Classic Clog \"Edward and Bella\"Colorway: Multi-ColorSKU: 215785-90HMSRP: $90 USDRelease Date: December 4, 2026Where to Buy: CrocsShortly after the massive official announcement that Robert Pattinson will step into the iconic role of James Bond, Crocs is bringing fans right back to the actor's sparkly vampire days with the official Twilight x Crocs Classic Clog \"Edward and Bella.\" Channeling the heavy nostalgia of the mid-2000s, the collaborative footwear explicitly references the famous meadow scene where",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F19%2Ftwilight-crocs-classic-clog-edward-and-bella-215785-90H-following-robert-pattinson-named-next-james-bond-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/twilight-crocs-classic-clog-edward-and-bella-215785-90h-following-robert-pattinson-named-next-james-bond-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "CROCS"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "adidas Took the New Balance Route With Its All-New Techy Sneaker-Loafer",
+   "source": "Highsnobiety",
+   "date": "2026-11-21",
+   "content": "adidas drops a Formotion F50 Loafer inspired by its dadcore running shoe. It's also oozing New Balance energy.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-formotion-f50-loafer/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS",
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "UP THERE’s Techy New Balance Dad Shoe Is Surprising Suave",
+   "source": "Highsnobiety",
+   "date": "2026-11-21",
+   "content": "UP THERE's next New Balance collaboration is a grey suede 1890 sneaker inspired by Australian's horizons.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/up-there-new-balance-1890-sneakers/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Nike's Velvet Mary Jane Is a Cozy Lil' Ballerina Sneaker",
+   "source": "Highsnobiety",
+   "date": "2026-11-21",
+   "content": "Nike's Shox Z Calistra lands with soft black velvet uppers ahead of the winter season. Here's everything on the coziest Swoosh Mary Jane hybrid.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-shox-z-calistra-black-velvet/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Nike’s Olive Suede Sneaker-Boot Is a Dream Winter Shoe",
+   "source": "Highsnobiety",
+   "date": "2026-11-21",
+   "content": "Nike's Air Max Goadome Low sneaker-boot gets an olive green suede makeover for its \"Twilight Marsh\" drop.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-twilight-marsh/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "GTA's Most Wanted? Cactus Jack's Six-Star Nike Air Forces",
+   "source": "Highsnobiety",
+   "date": "2026-11-21",
+   "content": "Cactus Jack releases GTA Nike Air Force 1 Low sneakers with six-star stamps & money bands, all in honor of the latest video game launch.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/cactus-jack-gta-nike-air-force-1-shoes/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 8,
    "title": "ERL 推出全新 Wall Street 樂福鞋與穆勒鞋",
    "source": "Hypebeast 中文",
    "date": "2026-11-20",
@@ -38,7 +130,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 9,
    "title": "ERL Launches the New Wall Street Loafer and Mule",
    "source": "Hypebeast",
    "date": "2026-11-20",
@@ -49,7 +141,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 3,
+   "id": 10,
    "title": "UP THERE and New Balance’s 1890 “Horizon” Trades Mesh for Shiny Nylon Under Australian Skies",
    "source": "Hypebeast",
    "date": "2026-11-20",
@@ -62,7 +154,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 11,
    "title": "adidas’ Great-Looking Loafer Got a Promotion",
    "source": "Highsnobiety",
    "date": "2026-11-20",
@@ -75,7 +167,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 12,
    "title": "Nike Just Revived Fashion’s Most Experimental Running Line",
    "source": "Highsnobiety",
    "date": "2026-11-20",
@@ -88,86 +180,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
-   "title": "How to Make Flawless Converse Chuck Taylors? Add Waterproof Suede",
-   "source": "Highsnobiety",
-   "date": "2026-11-20",
-   "content": "Converse winterizes its classic Chuck Taylor, resulting in the Chuck 70 GORE-TEX Hairy Suede sneaker.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/converse-chuck-70-gore-tex-hairy-suede/",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 7,
-   "title": "Nike’s Luxe Air Forces Are \"Chanel\" Bags for Your Feet",
-   "source": "Highsnobiety",
-   "date": "2026-11-20",
-   "content": "Nike's Air Force 1 Low Quilted sneaker appears in an all-black colorway, giving the shoe even more Chanel-ish charm.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-force-1-quilted-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 8,
-   "title": "Nike’s OG \"Space Jam\" Air Jordans Still Hit After 30 Years",
-   "source": "Highsnobiety",
-   "date": "2026-11-20",
-   "content": "The Air Jordan 11 \"Space Jam\" sneaker returns for the movie's 30th anniversary with original details.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/jordan-11-space-jam-2026/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 9,
-   "title": "The Debut Collab for Nike's Signature Hoops Shoe Is A'bsolutely Clean",
-   "source": "Highsnobiety",
-   "date": "2026-11-20",
-   "content": "Playa Society's Nike A'Two sneaker collab finally hits the streets, complete with a surprise second \"Ocean Bliss\" colorway.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/playa-society-nike-atwo-sneakers/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 10,
-   "title": "The Three Stripes Are Getting Down to Business This Black Friday",
-   "source": "Highsnobiety",
-   "date": "2026-11-20",
-   "content": "Explore the best adidas Black Friday deals, from sneakers and track jackets to sweatpants, chinos, bags, and accessories, all at a fraction of the price.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-black-friday-guide/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 11,
-   "title": "The Seven Best adidas Sneaker Releases This Week",
-   "source": "Highsnobiety",
-   "date": "2026-11-20",
-   "content": "From an unstructured running icon to a leather dress sneaker, this week was so full of adidas standouts, we couldn't decide on one and picked... seven of them.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-sneaker-releases-november-week-3/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 12,
+   "id": 13,
    "title": "Noah x Converse 最新聯乘 Chuck 70 回歸 90 年代風格 Black Watch 經典格紋",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -180,7 +193,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 14,
    "title": "Nike 與 Zellerfeld 聯手為 3D 打印鞋款 AIRMAX 1000 帶來更多度身訂製選項",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -193,7 +206,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 15,
    "title": "Caitlin Clark 率先預覽具備變色功能的 Nike Caitlin 1 原型鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -206,7 +219,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 16,
    "title": "Noah and Converse Take the Chuck 70 Back to the ’90s in Black Watch Tartan",
    "source": "Hypebeast",
    "date": "2026-11-19",
@@ -219,7 +232,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 17,
    "title": "Nike's 3D-Printed AIRMAX 1000 Just Got Even More Customizable With Zellerfeld",
    "source": "Hypebeast",
    "date": "2026-11-19",
@@ -232,7 +245,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 18,
    "title": "Caitlin Clark Previews Color-Changing Nike Caitlin 1 Prototype",
    "source": "Hypebeast",
    "date": "2026-11-19",
@@ -245,7 +258,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 19,
    "title": "New Balance Adds Exposed Leather Trim to the 992 \"Black/Turtledove\"",
    "source": "Hypebeast",
    "date": "2026-11-19",
@@ -258,7 +271,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 20,
    "title": "ASICS SportStyle 與 Dime 再次攜手推出賽車靈感 GEL-SD Lyte 聯乘系列",
    "source": "Hypebeast 中文",
    "date": "2026-11-18",
@@ -271,7 +284,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 21,
    "title": "率先預覽 Jae Tips x Nike Air Bakin Low 最新「Chile Red」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-18",
@@ -284,7 +297,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 22,
    "title": "Nike 推出 Tuned Air，為下一個 50 年重塑 Air 科技",
    "source": "Hypebeast 中文",
    "date": "2026-11-18",
@@ -297,7 +310,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 23,
    "title": "Hypebeast LATAM Laces Up With New Balance for Its First Run Club",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -310,7 +323,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 24,
    "title": "ASICS SportStyle and Dime Reunite for a Motorsport-Inspired GEL-SD Lyte Collection",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -323,7 +336,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 25,
    "title": "Vibram Opens the Doors to Its North Brookfield Factory for Second Annual Creator Program",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -334,7 +347,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 25,
+   "id": 26,
    "title": "Jae Tips Nike Air Bakin Low \"Chile Red\" First Look",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -347,7 +360,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 27,
    "title": "Nike Is Reinventing Air for the Next 50 Years With Tuned Air",
    "source": "Hypebeast",
    "date": "2026-11-18",
@@ -360,7 +373,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 28,
    "title": "Nike 與 Devin Booker 正式發布 Book 3 簽名鞋及 fragment design 聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -373,7 +386,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 29,
    "title": "Crocs 推出全新「Puerto Rico」Classic Clog 鞋款致敬波多黎各",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -386,7 +399,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 30,
    "title": "HOKA 聯乘 WTAPS 推出如裝甲般的全新 Speedgoat TS 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -399,7 +412,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 31,
    "title": "Bare Knuckles 重新帶回復刻版 Brooks Cascadia 1 越野跑鞋",
    "source": "Hypebeast 中文",
    "date": "2026-11-17",
@@ -410,33 +423,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 31,
-   "title": "近賞 Travis Scott x Nike Air Force 1「GTA 6」黑白配色鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-17",
-   "content": "摘要 有消息指 Travis Scott、Rockstar Games 與 Nike 正攜手打造全新的 Air Force 1 Low 聯乘系列公開發售版本預計將主打「White/Fire Pink」與「Black/Fire Pink」兩種配色這款備受期待的鞋款系列傳聞將於 11 月 21 日正式登場 名稱： Travis Scott x Rockstar x Nike Air Force 1 Low ’07「GTA 6」配色： Black/Fire Pink、White/Fire Pink型號： JJ7604-001, JJ7602-100建議售價： $130 美元發售日期： 2026 年 11 月 21 日發售點： Nike據悉 Nike、Travis Scott 與 Rockstar Games 將攜手合作，推出備受期待的聯乘企劃，有傳聞指出三方將帶來 Nike Air Force 1 Low「GTA 6」聯乘系列。該系列目前預計於今秋登場，早期消息指公開發售的版本將主要集中於這款經典鞋型的黑白兩種版本。根據早期的產品名單，公開發售將提供兩個主要選項：White/Fire Pink 與 Black/Fire Pink 配色。雖然實物波鞋的官方圖片尚未流出，但目前的猜測主要源於鞋款代號中出現的「RS」字樣（據悉代表 Rockstar Games）。此外，傳聞中還有一款 Multi-Color 多色版本正在醞釀，但目前預計僅為親友限定（Friends & Family）專屬。傳聞中的鞋款系列建基於這位 Houston 藝術家與即將推出的電子遊戲之間原有的聯繫。繼確認其歌曲《RHYNO》收錄於遊戲配樂，加上他親自暗示與 Jack of Hearts 俱樂部有關的預告後，這雙聯乘 Air Force 1 進一步鞏固了 Cactus Jack 品牌在 Vice City 中的足跡。Travis Scott x Rockstar Games x Nike Air Force 1 Low「GTA 6」聯乘系列目前預計將於 2026 年 11 月 21 日正式發售。 Click ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Ftravis-scott-rockstar-nike-air-force-1-low-07-gta-6-black-white-fire-pink-jj7604-001-jj7602-100-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/travis-scott-rockstar-nike-air-force-1-low-07-gta-6-black-white-fire-pink-jj7604-001-jj7602-100-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
    "id": 32,
-   "title": "Nike and Devin Booker Officially Unveil the Book 3 Alongside a fragment design Collaboration",
-   "source": "Hypebeast",
-   "date": "2026-11-17",
-   "content": "Summary Nike and Phoenix Suns guard Devin Booker have officially introduced the Nike Book 3 basketball sneakerThe new silhouette pairs a predominantly mesh upper with a forefoot Zoom Strobel and Cushlon 3.0 midsoleThe Book 3 and its accompanying apparel collection are set to release globally in Spring 2027 Nike and Devin Booker have officially introduced the Nike Book 3, marking the next evolution in the athlete's signature basketball franchise. Unveiled as part of the brand's World of Athletes showcase, the new silhouette continues to operate at the intersection of responsive on-court performance and timeless, everyday style.Created for players who prioritize freedom of movement and a low-to-the-ground court feel, the Nike Book 3 perfectly balances an athlete-curated performance system with the classic, wearable design language that defines the Book line. Diving into the technical speci",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F16%2Fdevin-booker-nike-book-3-official-launch-announcement-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/devin-booker-nike-book-3-official-launch-announcement",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 33,
    "title": "Anthony Edwards and adidas Continue Their Signature Legacy With the AE 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -449,7 +436,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 33,
    "title": "Devin Booker and Nike Turn the Page With the New Book 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -462,7 +449,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 34,
    "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
    "source": "Nice Kicks",
    "date": "2026-11-10",
@@ -475,7 +462,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 35,
    "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
    "source": "Nice Kicks",
    "date": "2026-11-09",
@@ -488,7 +475,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 36,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -501,7 +488,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 37,
    "title": "Tremaine Emory Brings a Piece of Canal Street to adidas Originals",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -514,7 +501,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 38,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
@@ -527,7 +514,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 39,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -540,7 +527,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 41,
+   "id": 40,
    "title": "Where To Buy the Air Jordan 14 “Forest Green”",
    "source": "Nice Kicks",
    "date": "2026-10-31",
