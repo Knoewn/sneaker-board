@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24 15:48",
+ "updatedAt": "2026-11-25 03:14",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -21,10 +21,12 @@
   "CONVERSE",
   "CROCS",
   "FEAR OF GOD",
+  "HOKA",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
   "PUMA",
+  "SALOMON",
   "UGG",
   "VANS"
  ],
@@ -32,6 +34,32 @@
  "news": [
   {
    "id": 1,
+   "title": "Ronnie Fieg 與 ASICS 最新《Star Wars》聯乘鞋款注入 Darth Vader 元素",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-24",
+   "content": "摘要 Ronnie Fieg 與 ASICS 重溫雙方於 2008 年發佈的「Black Patent」，正式推出以 Darth Vader 為靈感的 GEL-LYTE III Remastered。這款「Castlerock」配色採用磨砂革打孔設計、皮革覆層、紅色點綴及角色圖案鞋墊，並配備紀念鞋盒。鞋款售價為 $220 美元，將於 11 月 25 日透過 Kith 全球發售。 名稱： STAR WARS x Ronnie Fieg for ASICS GEL-LYTE III Remastered「Darth Vader」配色： CastlerockSKU： 1203B520-020建議零售價： $220 美元發售日期： 11 月 20 日（Kith London 率先發售），11 月 25 日（全球發售）發售點： KithRonnie Fieg 與 ASICS 再度合作，推出 GEL-LYTE III Remastered「Castlerock」配色，這款《Star Wars》官方聯乘之作從整個系列中的 Darth Vader 形象汲取靈感。此鞋款回顧了 Fieg 效力 David Z. 期間與 ASICS 共同設計的 2008 年「Black Patent」GEL-LYTE III，當年該版本因非官方地神似這位 Sith Lord 而為人熟知。這雙重塑版本忠於前作，將沖孔磨砂布底層與優質皮革覆面結合，並於鞋身兩側飾有標誌性的 Tiger Stripes。鞋眼與邊緣處點綴的紅色打破了深色調的沉悶，巧妙地呼應了 Vader 的經典配色，同時又不會過於像戲服。聯乘細節點綴了鞋款的內外設計。鞋跟處飾有 Fieg 與 ASICS 的聯乘標誌，側跟則保留了標準的 GEL-LYTE 字樣。鞋內配備印有 Darth Vader 插圖的鞋墊，並壓印了 Kith、ASICS 與《Star Wars》的三方品牌標誌。鞋款採用與 2008 年版本相同的鞋帶，並隨附獨特的紀念鞋盒。STAR WARS x Ronnie Fieg for ASICS GEL-LYTE III Remaster",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fstar-wars-ronnie-fieg-asics-gel-lyte-iii-remastered-darth-vader-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/star-wars-ronnie-fieg-asics-gel-lyte-iii-remastered-darth-vader-1203b520-020-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Ronnie Fieg and ASICS Channel Darth Vader in New Star Wars Collaboration",
+   "source": "Hypebeast",
+   "date": "2026-11-24",
+   "content": "Summary Ronnie Fieg and ASICS revisit their 2008 “Black Patent” release with an official Darth Vader-inspired GEL-LYTE III Remastered.The “Castlerock” colorway features perforated nubuck, leather overlays, red accents, and character insoles in a commemorative case.Retailing for $220 USD, the pair releases globally via Kith on November 25. Name: STAR WARS x Ronnie Fieg for ASICS GEL-LYTE III Remastered “Darth Vader”Colorway: CastlerockSKU: 1203B520-020MSRP: $220 USDRelease Date: November 20 (Kith London Early Release), November 25 (Global)Where to Buy: KithRonnie Fieg and ASICS have reunited for the GEL-LYTE III Remastered in “Castlerock,” an official Star Wars collaboration drawing from Darth Vader’s depiction throughout the franchise. The pair looks back to the 2008 “Black Patent” GEL-LYTE III that Fieg and ASICS designed during his tenure at David Z., a release that became known for it",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F24%2Fstar-wars-ronnie-fieg-asics-gel-lyte-iii-remastered-darth-vader-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/star-wars-ronnie-fieg-asics-gel-lyte-iii-remastered-darth-vader-1203b520-020-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 3,
    "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
    "source": "Nice Kicks",
    "date": "2026-11-24",
@@ -44,7 +72,100 @@
    ]
   },
   {
-   "id": 2,
+   "id": 4,
+   "title": "From Converse to Salomon, the Seven Best Sneakers to Cop This Week",
+   "source": "Highsnobiety",
+   "date": "2026-11-24",
+   "content": "From an ivy-inspired Noah x Converse collaboration to a HOKA runner given a tactical upgrade— the cream of the sneaker crop awaits.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/the-seven-best-sneakers-to-cop-this-week-november-week-4/",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE",
+    "HOKA",
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "This British-Made New Balance Staple Has Mastered the Pop of Color",
+   "source": "Highsnobiety",
+   "date": "2026-11-24",
+   "content": "The 991 returns in an understated, dressier execution in the New Balance 991 Made in UK Luxe Black Leather.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-991-made-in-uk-luxe-black-leather/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "New Balance’s Remastered 990 Dad Shoe Joins the Dark Side",
+   "source": "Highsnobiety",
+   "date": "2026-11-24",
+   "content": "The New Balance 990v7 run continues with the release of an all-black colorway. Here's everything on the newest drop.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-990v7-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "The Loafer-fication of adidas’ Techy Dad Sneaker",
+   "source": "Highsnobiety",
+   "date": "2026-11-24",
+   "content": "adidas' Formotion F50 becomes a suede sneaker-loafer that mixes business with performance tech. Here's everything on the new dressy model.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-formation-f50-loafer-brown/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Nike’s Slim Suede Sneaker Proves It's the Sibling With Good Taste",
+   "source": "Highsnobiety",
+   "date": "2026-11-24",
+   "content": "Nike's Spring Sister sneaker continues its tasteful run with a smooth suede \"Flax\" release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-sprint-sister-flax/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Playa Society’s *Other* Nike Hoops Sneaker Is Even Sweeter",
+   "source": "Highsnobiety",
+   "date": "2026-11-24",
+   "content": "Playa Society's Nike A'Two sneaker collab appears in a chocolate-brown colorway dubbed \"Dark Russet.\" Here's everything on the sweet release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/playa-society-nike-atwo-dark-russet/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "This Ain’t Your Normal Nike Sneaker-Boot — It’s Better",
+   "source": "Highsnobiety",
+   "date": "2026-11-24",
+   "content": "Nike's Air Max Goadome Low Foam sneaker-boot gets a stealthy all-black makeover. It's easily the cleanest release yet.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-foam-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 11,
    "title": "SOMEWHERE x ASICS 最新聯乘 GEL-Stratus MC「Chocolate City」正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -57,7 +178,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 12,
    "title": "New Balance 991 Made in UK 釋出「Luxe Black Leather」全新配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -70,7 +191,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 13,
    "title": "Nike Ovolo 2.0「Black/Stealth」將 Shox R4 輪廓融入增高鞋踭設計",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -83,7 +204,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 14,
    "title": "Chevy x Nike Book 2 最新「Light Chocolate」配色發售情報",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -96,7 +217,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 15,
    "title": "Carlos Alcaraz 著用未公開 Lil Yachty Concrete Boys x Nike Air Force 1 Mid「Yellow」",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -109,7 +230,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 16,
    "title": "大案揭秘：14 人涉嫌盜竊高達 2,200 萬美元 Nike 波鞋，猶如火車大劫案",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -122,7 +243,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 17,
    "title": "SOMEWHERE and ASICS Honor D.C. Heritage With the GEL Stratus MC “Chocolate City”",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -136,7 +257,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 18,
    "title": "New Balance 991 Made in UK Surfaces in \"Luxe Black Leather\"",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -149,7 +270,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 19,
    "title": "Nike Ovolo 2.0 \"Black/Stealth\" Brings the Shox R4 Look to a Lifted Heel",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -162,7 +283,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 20,
    "title": "Devin Booker Unites with Chevy for the Nike Book 2 \"Light Chocolate\"",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -175,7 +296,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 21,
    "title": "Carlos Alcaraz Spotted in Lil Yachty's Concrete Boys x Nike Air Force 1 Mid 'Yellow'",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -189,7 +310,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 22,
    "title": "The Great Swoosh Heist: 14 Charged in $22 Million USD Train Robbery Targeting Nike Sneakers",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -203,7 +324,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 23,
    "title": "Michael Jordan’s 4 Best Moments in the Air Jordan 4",
    "source": "Nice Kicks",
    "date": "2026-11-23",
@@ -216,7 +337,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 24,
    "title": "No Marathon DNA: PUMA Unveils a Race Shoe Built Only for HYROX",
    "source": "Nice Kicks",
    "date": "2026-11-23",
@@ -229,33 +350,7 @@
    ]
   },
   {
-   "id": 16,
-   "title": "New Balance’s Remastered 990 Dad Shoe Joins the Dark Side",
-   "source": "Highsnobiety",
-   "date": "2026-11-23",
-   "content": "The New Balance 990v7 run continues with the release of an all-black colorway. Here's everything on the newest drop.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-990v7-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "The Loafer-fication of adidas’ Techy Dad Sneaker",
-   "source": "Highsnobiety",
-   "date": "2026-11-23",
-   "content": "adidas' Formotion F50 becomes a suede sneaker-loafer that mixes business with performance tech. Here's everything on the new dressy model.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-formation-f50-loafer-brown/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 18,
+   "id": 25,
    "title": "All the Best Shoes Look Like Your Grandma’s Couch",
    "source": "Highsnobiety",
    "date": "2026-11-23",
@@ -270,46 +365,7 @@
    ]
   },
   {
-   "id": 19,
-   "title": "Nike’s Slim Suede Sneaker Proves It's the Sibling With Good Taste",
-   "source": "Highsnobiety",
-   "date": "2026-11-23",
-   "content": "Nike's Spring Sister sneaker continues its tasteful run with a smooth suede \"Flax\" release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-sprint-sister-flax/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "Playa Society’s *Other* Nike Hoops Sneaker Is Even Sweeter",
-   "source": "Highsnobiety",
-   "date": "2026-11-23",
-   "content": "Playa Society's Nike A'Two sneaker collab appears in a chocolate-brown colorway dubbed \"Dark Russet.\" Here's everything on the sweet release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/playa-society-nike-atwo-dark-russet/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 21,
-   "title": "This Ain’t Your Normal Nike Sneaker-Boot — It’s Better",
-   "source": "Highsnobiety",
-   "date": "2026-11-23",
-   "content": "Nike's Air Max Goadome Low Foam sneaker-boot gets a stealthy all-black makeover. It's easily the cleanest release yet.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-foam-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 22,
+   "id": 26,
    "title": "Jerry Lorenzo 在與 adidas 終止合作後發表自家 Fear of God Trainer 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-22",
@@ -324,7 +380,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 27,
    "title": "Robert Pattinson 落實接任下一任占士邦之際，《Twilight》x Crocs 正式推出「Edward and Bella」Classic Clog",
    "source": "Hypebeast 中文",
    "date": "2026-11-22",
@@ -337,7 +393,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 28,
    "title": "Jerry Lorenzo Unveils the Independent Fear of God Trainer Following adidas Split",
    "source": "Hypebeast",
    "date": "2026-11-22",
@@ -352,7 +408,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 29,
    "title": "'Twilight' x Crocs Unveils \"Edward and Bella\" Classic Clog After Robert Pattinson is Named Next James Bond",
    "source": "Hypebeast",
    "date": "2026-11-22",
@@ -365,7 +421,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 30,
    "title": "ERL 推出全新 Wall Street 樂福鞋與穆勒鞋",
    "source": "Hypebeast 中文",
    "date": "2026-11-20",
@@ -376,7 +432,7 @@
    "relatedBrands": []
   },
   {
-   "id": 27,
+   "id": 31,
    "title": "ERL Launches the New Wall Street Loafer and Mule",
    "source": "Hypebeast",
    "date": "2026-11-20",
@@ -387,7 +443,7 @@
    "relatedBrands": []
   },
   {
-   "id": 28,
+   "id": 32,
    "title": "UP THERE and New Balance’s 1890 “Horizon” Trades Mesh for Shiny Nylon Under Australian Skies",
    "source": "Hypebeast",
    "date": "2026-11-20",
@@ -400,7 +456,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 33,
    "title": "Noah x Converse 最新聯乘 Chuck 70 回歸 90 年代風格 Black Watch 經典格紋",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -413,7 +469,7 @@
    ]
   },
   {
-   "id": 30,
+   "id": 34,
    "title": "Nike 與 Zellerfeld 聯手為 3D 打印鞋款 AIRMAX 1000 帶來更多度身訂製選項",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -426,20 +482,7 @@
    ]
   },
   {
-   "id": 31,
-   "title": "Caitlin Clark 率先預覽具備變色功能的 Nike Caitlin 1 原型鞋款",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-19",
-   "content": "摘要 Indiana Fever 後衛 Caitlin Clark 展示了其簽名鞋款 Nike Caitlin 1 的全新配色版本，搭載具未來感的變色科技這款尚未發售的原型鞋款在 Swoosh 標誌下方設有按鈕，能將鞋面由淺色基底切換為黑色目前官方尚未公佈這項變色科技是否或何時會公開發售的具體資訊 Nike 與 Indiana Fever 後衛 Caitlin Clark 正式預告了極具未來感的 Nike Caitlin 1 原型鞋款。這雙能改變顏色的籃球鞋在 2026 年 WNBA 賽季結束後為球迷帶來巨大驚喜，近日由這位運動員本人作客 New Heights Podcast 節目時親自展示。這雙未發售的原型鞋款展現了品牌最新的鞋履技術，其特殊鞋面能從淺灰色或白色底色主動轉換為純黑飾面。根據 Clark 在節目中的示範，這種充滿未來感的變色模式由位於外側 Nike Swoosh 下方的專屬按鈕控制，穿著者可藉此隨時開啟或關閉變色效果。此外，她還提到輕觸鞋跟便可啟動不同的視覺模式。透過 Clark Instagram 限時動態分享的近照揭示了更多設計細節，包括她的標誌性「CC」Logo 以及採用對比強烈之金屬銀色呈現的三重 Nike Swoosh。雖然這位明星後衛表示希望這雙鞋能在她於場上投籃命中時發光，但她並未確認是否真的會在職業比賽中穿上這雙鞋。The color-changing technology in the CC1s is absolutely INSANE 🤯NEW EPISODE OUT NOW!!! https://t.co/aGsTP4Kdd9— New Heights (@newheightshow) November 18, 2026FIRST LOOK: Caitlin Clark reveals a color-shifting Nike Caitlin 1 👀🥶 @CaitlinClark22 https://t.co/wnIUCtsmVp— KicksFinder (@KicksFinder) November 17, 2026 Cli",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fcaitlin-clark-previews-color-changing-nike-caitlin-1-prototype-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/caitlin-clark-previews-color-changing-nike-caitlin-1-prototype",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 32,
+   "id": 35,
    "title": "Noah and Converse Take the Chuck 70 Back to the ’90s in Black Watch Tartan",
    "source": "Hypebeast",
    "date": "2026-11-19",
@@ -452,20 +495,7 @@
    ]
   },
   {
-   "id": 33,
-   "title": "Nike's 3D-Printed AIRMAX 1000 Just Got Even More Customizable With Zellerfeld",
-   "source": "Hypebeast",
-   "date": "2026-11-19",
-   "content": "Summary Nike updates the Zellerfeld 3D-printed AIRMAX 1000 on Nike By You with embossed custom heel text.A new Lilac upper colorway joins Black and Stone, alongside seven independent Air unit colors for each shoe.Options launch November 19 on Nike's website. Name: Nike AIRMAX 1000 By YouColorway: Multi-Color/Multi-ColorSKU: JK3542-900MSRP: $190 USDRelease Date: November 19Where to Buy: NikeNike is once again pushing the boundaries of footwear customization with a major update to the AIRMAX 1000. Following its initial October debut, the 3D-printed silhouette, developed in partnership with Zellerfeld, is rolling out with a new suite of personalization features with Nike's By You feature that leans even deeper into individual expression.AIRMAX 1000 owners can add custom text directly onto the sneaker’s heel, positioned just above the Air unit. Rather than relying on traditional screen print",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F19%2Fnike-airmax-1000-nike-by-you-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/zellerfeld-nike-airmax-1000-by-you-jk3542-900-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 34,
+   "id": 36,
    "title": "Anthony Edwards and adidas Continue Their Signature Legacy With the AE 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -478,7 +508,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 37,
    "title": "Devin Booker and Nike Turn the Page With the New Book 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -491,7 +521,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 38,
    "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
    "source": "Nice Kicks",
    "date": "2026-11-10",
@@ -504,7 +534,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 39,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -517,7 +547,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 40,
    "title": "Tremaine Emory Brings a Piece of Canal Street to adidas Originals",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -530,7 +560,7 @@
    ]
   },
   {
-   "id": 39,
+   "id": 41,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
@@ -543,7 +573,7 @@
    ]
   },
   {
-   "id": 40,
+   "id": 42,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
