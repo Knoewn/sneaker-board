@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-24 03:41",
+ "updatedAt": "2026-11-24 15:48",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,6 +17,7 @@ window.SNEAKER_DATA = {
  "brands": [
   "ADIDAS",
   "ASICS",
+  "CLARKS",
   "CONVERSE",
   "CROCS",
   "FEAR OF GOD",
@@ -31,6 +32,19 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
+   "source": "Nice Kicks",
+   "date": "2026-11-24",
+   "content": "Ducks of a Feather is bringing Oregon Ducks pride to the skate scene with two limited-edition Nike SB Dunk colorways created in partnership with… The post Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/11/DOAF-x-Nike-SB-Dunk-_-Flight-Club-x-GOAT-HERO-1-scaled.jpg",
+   "link": "https://www.nicekicks.com/ducks-of-a-feather-nike-sb-pack/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
    "title": "SOMEWHERE x ASICS 最新聯乘 GEL-Stratus MC「Chocolate City」正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -43,7 +57,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 3,
    "title": "New Balance 991 Made in UK 釋出「Luxe Black Leather」全新配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -56,7 +70,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 4,
    "title": "Nike Ovolo 2.0「Black/Stealth」將 Shox R4 輪廓融入增高鞋踭設計",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -69,7 +83,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 5,
    "title": "Chevy x Nike Book 2 最新「Light Chocolate」配色發售情報",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -82,7 +96,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 6,
    "title": "Carlos Alcaraz 著用未公開 Lil Yachty Concrete Boys x Nike Air Force 1 Mid「Yellow」",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -95,7 +109,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 7,
    "title": "大案揭秘：14 人涉嫌盜竊高達 2,200 萬美元 Nike 波鞋，猶如火車大劫案",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -108,7 +122,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 8,
    "title": "SOMEWHERE and ASICS Honor D.C. Heritage With the GEL Stratus MC “Chocolate City”",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -122,7 +136,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 9,
    "title": "New Balance 991 Made in UK Surfaces in \"Luxe Black Leather\"",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -135,7 +149,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 10,
    "title": "Nike Ovolo 2.0 \"Black/Stealth\" Brings the Shox R4 Look to a Lifted Heel",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -148,8 +162,8 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
-   "title": "Chevy x Nike Book 2 \"Light Chocolate\" IO9841-200 Release Info",
+   "id": 11,
+   "title": "Devin Booker Unites with Chevy for the Nike Book 2 \"Light Chocolate\"",
    "source": "Hypebeast",
    "date": "2026-11-23",
    "content": "Summary Devin Booker expands his signature footwear lineage with a new Chevy-inspired iteration of the Nike Book 2The upcoming 'Light Chocolate' colorway features a glossy patent leather upper to mimic a classic candy paint jobThe collaborative basketball sneaker is scheduled to officially release on December 1 for $155 USD Name: Chevy x Nike Book 2 \"Light Chocolate\"Colorway: Light Chocolate/Sail-Metallic Silver-BlackSKU: IO9841-200MSRP: $155 USDRelease Date: December 1, 2026Where to Buy: NikeNike and Chevy have officially teamed up once again for the release of the Nike Book 2 \"Light Chocolate.\" Expanding on a collaborative series that dates back to the Impala editions of his first signature silhouette, the latest colorway joins a growing lineup of sneakers directly modeled after the classic cars in Devin Booker's personal garage.The new iteration elevates the basketball silhouette with",
@@ -161,7 +175,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 12,
    "title": "Carlos Alcaraz Spotted in Lil Yachty's Concrete Boys x Nike Air Force 1 Mid 'Yellow'",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -175,7 +189,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 13,
    "title": "The Great Swoosh Heist: 14 Charged in $22 Million USD Train Robbery Targeting Nike Sneakers",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -189,7 +203,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 14,
    "title": "Michael Jordan’s 4 Best Moments in the Air Jordan 4",
    "source": "Nice Kicks",
    "date": "2026-11-23",
@@ -202,7 +216,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 15,
    "title": "No Marathon DNA: PUMA Unveils a Race Shoe Built Only for HYROX",
    "source": "Nice Kicks",
    "date": "2026-11-23",
@@ -215,39 +229,26 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
-   "title": "adidas’ Steel-Toe Superstar Works Hard, Flexes Harder",
-   "source": "Highsnobiety",
-   "date": "2026-11-23",
-   "content": "Nati Lopez treats her adidas Superstar II sneaker like a work boot, giving it \"steel toes\" & vintage-style leather.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nati-lopez-adidas-superstar-ii-shoes/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
    "id": 16,
-   "title": "adidas' Iced-Out Samba Is Vice City-Coded",
+   "title": "New Balance’s Remastered 990 Dad Shoe Joins the Dark Side",
    "source": "Highsnobiety",
    "date": "2026-11-23",
-   "content": "The adidas Samba transforms into a tonal ice blue \"Miami\" sneaker. It's GTA VI-ready, to say the least.",
+   "content": "The New Balance 990v7 run continues with the release of an all-black colorway. Here's everything on the newest drop.",
    "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-samba-miami/",
+   "link": "https://www.highsnobiety.com/p/new-balance-990v7-black/",
    "lang": "en",
    "relatedBrands": [
-    "ADIDAS"
+    "NEW BALANCE"
    ]
   },
   {
    "id": 17,
-   "title": "adidas’ Handball Loafer Matured into a Wonderfully Elderly Moc",
+   "title": "The Loafer-fication of adidas’ Techy Dad Sneaker",
    "source": "Highsnobiety",
    "date": "2026-11-23",
-   "content": "adidas releases a Handball Loafer Freizeit model featuring an updated moccasin-style design. Here's everything on the debut.",
+   "content": "adidas' Formotion F50 becomes a suede sneaker-loafer that mixes business with performance tech. Here's everything on the new dressy model.",
    "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-handball-loafer-freizeit/",
+   "link": "https://www.highsnobiety.com/p/adidas-formation-f50-loafer-brown/",
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
@@ -255,6 +256,60 @@ window.SNEAKER_DATA = {
   },
   {
    "id": 18,
+   "title": "All the Best Shoes Look Like Your Grandma’s Couch",
+   "source": "Highsnobiety",
+   "date": "2026-11-23",
+   "content": "Kith and Proleta Re Art's artisanal spin on Clarks fits a trend at ASICS, Vans, and Dr. Martens towards textural footwear that looks made from an old couch.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/clarks-kith-grandma-shoes/",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS",
+    "CLARKS",
+    "VANS"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Nike’s Slim Suede Sneaker Proves It's the Sibling With Good Taste",
+   "source": "Highsnobiety",
+   "date": "2026-11-23",
+   "content": "Nike's Spring Sister sneaker continues its tasteful run with a smooth suede \"Flax\" release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-sprint-sister-flax/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "Playa Society’s *Other* Nike Hoops Sneaker Is Even Sweeter",
+   "source": "Highsnobiety",
+   "date": "2026-11-23",
+   "content": "Playa Society's Nike A'Two sneaker collab appears in a chocolate-brown colorway dubbed \"Dark Russet.\" Here's everything on the sweet release.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/playa-society-nike-atwo-dark-russet/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "This Ain’t Your Normal Nike Sneaker-Boot — It’s Better",
+   "source": "Highsnobiety",
+   "date": "2026-11-23",
+   "content": "Nike's Air Max Goadome Low Foam sneaker-boot gets a stealthy all-black makeover. It's easily the cleanest release yet.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-foam-black/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 22,
    "title": "Jerry Lorenzo 在與 adidas 終止合作後發表自家 Fear of God Trainer 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-22",
@@ -269,7 +324,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 23,
    "title": "Robert Pattinson 落實接任下一任占士邦之際，《Twilight》x Crocs 正式推出「Edward and Bella」Classic Clog",
    "source": "Hypebeast 中文",
    "date": "2026-11-22",
@@ -282,7 +337,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 24,
    "title": "Jerry Lorenzo Unveils the Independent Fear of God Trainer Following adidas Split",
    "source": "Hypebeast",
    "date": "2026-11-22",
@@ -297,7 +352,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 25,
    "title": "'Twilight' x Crocs Unveils \"Edward and Bella\" Classic Clog After Robert Pattinson is Named Next James Bond",
    "source": "Hypebeast",
    "date": "2026-11-22",
@@ -310,7 +365,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 26,
    "title": "ERL 推出全新 Wall Street 樂福鞋與穆勒鞋",
    "source": "Hypebeast 中文",
    "date": "2026-11-20",
@@ -321,7 +376,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 23,
+   "id": 27,
    "title": "ERL Launches the New Wall Street Loafer and Mule",
    "source": "Hypebeast",
    "date": "2026-11-20",
@@ -332,7 +387,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 24,
+   "id": 28,
    "title": "UP THERE and New Balance’s 1890 “Horizon” Trades Mesh for Shiny Nylon Under Australian Skies",
    "source": "Hypebeast",
    "date": "2026-11-20",
@@ -345,7 +400,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
+   "id": 29,
    "title": "Noah x Converse 最新聯乘 Chuck 70 回歸 90 年代風格 Black Watch 經典格紋",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -358,7 +413,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 30,
    "title": "Nike 與 Zellerfeld 聯手為 3D 打印鞋款 AIRMAX 1000 帶來更多度身訂製選項",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -371,7 +426,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 31,
    "title": "Caitlin Clark 率先預覽具備變色功能的 Nike Caitlin 1 原型鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -384,7 +439,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 32,
    "title": "Noah and Converse Take the Chuck 70 Back to the ’90s in Black Watch Tartan",
    "source": "Hypebeast",
    "date": "2026-11-19",
@@ -397,7 +452,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 33,
    "title": "Nike's 3D-Printed AIRMAX 1000 Just Got Even More Customizable With Zellerfeld",
    "source": "Hypebeast",
    "date": "2026-11-19",
@@ -410,7 +465,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 34,
    "title": "Anthony Edwards and adidas Continue Their Signature Legacy With the AE 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -423,7 +478,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 31,
+   "id": 35,
    "title": "Devin Booker and Nike Turn the Page With the New Book 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -436,7 +491,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 32,
+   "id": 36,
    "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
    "source": "Nice Kicks",
    "date": "2026-11-10",
@@ -449,7 +504,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 37,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -462,7 +517,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 38,
    "title": "Tremaine Emory Brings a Piece of Canal Street to adidas Originals",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -475,7 +530,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 39,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
@@ -488,7 +543,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 40,
    "title": "Nike Mind 001 WMNS “Summit White”",
    "source": "Nice Kicks",
    "date": "2026-11-03",
@@ -498,19 +553,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "NIKE"
-   ]
-  },
-  {
-   "id": 37,
-   "title": "Where To Buy the Air Jordan 14 “Forest Green”",
-   "source": "Nice Kicks",
-   "date": "2026-10-31",
-   "content": "The Air Jordan 14 “Forest Green” is set to release on October 31, 2026, via SNKRS and select retailers for $215. Check out the… The post Where To Buy the Air Jordan 14 “Forest Green” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/09/air-jordan-14-forest-green-487471-300-october-2026-release-date-info-1.jpg",
-   "link": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN"
    ]
   }
  ]
