@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-25 03:14",
+ "updatedAt": "2026-11-25 14:20",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,7 +17,7 @@ window.SNEAKER_DATA = {
  "brands": [
   "ADIDAS",
   "ASICS",
-  "CLARKS",
+  "BIRKENSTOCK",
   "CONVERSE",
   "CROCS",
   "FEAR OF GOD",
@@ -34,6 +34,31 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "Original HAFERL x nonnative Collaborate on New Richard Cow Leather Shoes",
+   "source": "Hypebeast",
+   "date": "2026-11-25",
+   "content": "A new collaboration shoe, the RICHARD COW LEATHER, is launching from Original HAFERL, a historic footwear manufacturer from the Allgäu region in Bavaria, southern Germany, and nonnative.The base model, the RICHARD, is a mid-cut silhouette that carries on the legacy of the Haferlschuhe, a traditional shoe from the Allgäu region of southern Germany. Unlike the offset lacing typical of standard Haferl shoes, it features a distinctive center-laced design.It uses the traditional Zwiegenäht (double stitch) construction, resulting in a durable and water-resistant finish. The upper materials are tailored to each colorway: the BLACK version is uniform in smooth leather, right down to the collar and lining. Meanwhile, the LT. BROWN utilizes suede leather, creating a striking contrast with the tan leather lining.Furthermore, the meticulous attention to detail from both brands is evident in features",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Foriginal-haferl-nonnative-richard-cow-leather-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/original-haferl-nonnative-richard-cow-leather-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 2,
+   "title": "BIRKENSTOCK Celebrates the 40th Anniversary of Its Iconic London Style with the \"Camden's Clubs\" Collection",
+   "source": "Hypebeast",
+   "date": "2026-11-25",
+   "content": "German footwear brand BIRKENSTOCK has unveiled \"1774 Camden's Clubs,\" a new collection inspired by London's music, fashion, and subcultures. Building on four of the brand's signature models—the Arizona, London, Boston, and Maria—the collection features silver cone studs and glossy brushed leather. It adds a rebellious edge evocative of punk and grunge to classic silhouettes.The collection takes its name from the legendary music clubs scattered throughout London's Camden neighborhood. It focuses on the city's creative soil, where music, fashion, and various subcultures have intersected from King's Road to Camden.This is rooted in the London youth culture of the early 1990s. Around Camden Lock at the time, grunge, hippie, and romantic styles mixed. It was common to see outfits layering delicate materials like lace and chiffon paired with rugged boots or BIRKENSTOCK clogs. The unique contra",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fbirkenstock-london-40th-anniversary-camdens-clubs-collection-info00.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/birkenstock-london-40th-anniversary-camdens-clubs-collection-info",
+   "lang": "en",
+   "relatedBrands": [
+    "BIRKENSTOCK",
+    "UGG"
+   ]
+  },
+  {
+   "id": 3,
    "title": "Ronnie Fieg 與 ASICS 最新《Star Wars》聯乘鞋款注入 Darth Vader 元素",
    "source": "Hypebeast 中文",
    "date": "2026-11-24",
@@ -46,7 +71,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 4,
    "title": "Ronnie Fieg and ASICS Channel Darth Vader in New Star Wars Collaboration",
    "source": "Hypebeast",
    "date": "2026-11-24",
@@ -59,7 +84,18 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 5,
+   "title": "Nice Kicks Presents the Fourth Annual Sneaker of the Year (SOTY) Awards",
+   "source": "Nice Kicks",
+   "date": "2026-11-24",
+   "content": "From groundbreaking designs and unexpected collaborations to powerful storytelling and unforgettable releases, 2026 was another defining year for sneaker culture. Brands, designers, and independent… The post Nice Kicks Presents the Fourth Annual Sneaker of the Year (SOTY) Awards appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/11/site-graphic-2.jpg",
+   "link": "https://www.nicekicks.com/nice-kicks-presents-the-fourth-annual-sneaker-of-the-year-soty-awards/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 6,
    "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
    "source": "Nice Kicks",
    "date": "2026-11-24",
@@ -72,7 +108,87 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 7,
+   "title": "Sole Food: We All Deserve a Whimsical Lil’ Sneaker-Heel",
+   "source": "Highsnobiety",
+   "date": "2026-11-24",
+   "content": "Sneaker-heels are being pushed by brands as big as Nike and Converse. Who's to thank (or blame)? And why are they so everywhere right now?",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/sneaker-heels-trend/",
+   "lang": "en",
+   "relatedBrands": [
+    "CONVERSE",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "A Long-Lost New Balance Dad Shoe, Reborn as a Japan-Made Masterpiece",
+   "source": "Highsnobiety",
+   "date": "2026-11-24",
+   "content": "New Balance reveals a luxurious 991v1 \"Made in Japan\" sneaker inspired by a lost prototype. Here's everything on the 25th anniversary pairs.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-991v1-made-in-japan/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "WTAPS’ HOKA Trail Runner Has No Business Being This Sexy",
+   "source": "Highsnobiety",
+   "date": "2026-11-24",
+   "content": "WTAPS debuts its HOKA Speedgoat TS sneaker collaboration, resulting in perhaps the most stylish take on the model yet.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/wtaps-hoka-speedgoat-ts/",
+   "lang": "en",
+   "relatedBrands": [
+    "HOKA"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Nike’s Green “Mid” Air Jordan Shoe Has a Heart of Gold",
+   "source": "Highsnobiety",
+   "date": "2026-11-24",
+   "content": "The Air Jordan 1 Mid gets an impressive \"Faded Spruce\" makeover, complete with smooth textures & gold Swooshes.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jordan-1-mid-faded-spruce/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Nike Put Its Gloriously Stacked Running Shoe on Ice",
+   "source": "Highsnobiety",
+   "date": "2026-11-24",
+   "content": "Nike's Vomero Plus running sneaker lands in a \"Light Armory Blue\" colorway, resulting in this icy take on the model.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-vomero-plus-light-armory-blue/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "A Ma Maniére Made Clean Nike Air Forces That’ll (Sorta) Never Drop",
+   "source": "Highsnobiety",
+   "date": "2026-11-24",
+   "content": "A Ma Maniére releases six exclusive Nike Air Force 1 sneakers that'll \"never launch,\" according to brand. But here's how to make them yours.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/a-ma-maniere-nike-air-force-1-shoes-2026/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 13,
    "title": "From Converse to Salomon, the Seven Best Sneakers to Cop This Week",
    "source": "Highsnobiety",
    "date": "2026-11-24",
@@ -87,7 +203,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 14,
    "title": "This British-Made New Balance Staple Has Mastered the Pop of Color",
    "source": "Highsnobiety",
    "date": "2026-11-24",
@@ -100,72 +216,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
-   "title": "New Balance’s Remastered 990 Dad Shoe Joins the Dark Side",
-   "source": "Highsnobiety",
-   "date": "2026-11-24",
-   "content": "The New Balance 990v7 run continues with the release of an all-black colorway. Here's everything on the newest drop.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/new-balance-990v7-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 7,
-   "title": "The Loafer-fication of adidas’ Techy Dad Sneaker",
-   "source": "Highsnobiety",
-   "date": "2026-11-24",
-   "content": "adidas' Formotion F50 becomes a suede sneaker-loafer that mixes business with performance tech. Here's everything on the new dressy model.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-formation-f50-loafer-brown/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 8,
-   "title": "Nike’s Slim Suede Sneaker Proves It's the Sibling With Good Taste",
-   "source": "Highsnobiety",
-   "date": "2026-11-24",
-   "content": "Nike's Spring Sister sneaker continues its tasteful run with a smooth suede \"Flax\" release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-sprint-sister-flax/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 9,
-   "title": "Playa Society’s *Other* Nike Hoops Sneaker Is Even Sweeter",
-   "source": "Highsnobiety",
-   "date": "2026-11-24",
-   "content": "Playa Society's Nike A'Two sneaker collab appears in a chocolate-brown colorway dubbed \"Dark Russet.\" Here's everything on the sweet release.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/playa-society-nike-atwo-dark-russet/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 10,
-   "title": "This Ain’t Your Normal Nike Sneaker-Boot — It’s Better",
-   "source": "Highsnobiety",
-   "date": "2026-11-24",
-   "content": "Nike's Air Max Goadome Low Foam sneaker-boot gets a stealthy all-black makeover. It's easily the cleanest release yet.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-foam-black/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 11,
+   "id": 15,
    "title": "SOMEWHERE x ASICS 最新聯乘 GEL-Stratus MC「Chocolate City」正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -178,7 +229,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 16,
    "title": "New Balance 991 Made in UK 釋出「Luxe Black Leather」全新配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -191,7 +242,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 17,
    "title": "Nike Ovolo 2.0「Black/Stealth」將 Shox R4 輪廓融入增高鞋踭設計",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -204,7 +255,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 18,
    "title": "Chevy x Nike Book 2 最新「Light Chocolate」配色發售情報",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -217,7 +268,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 19,
    "title": "Carlos Alcaraz 著用未公開 Lil Yachty Concrete Boys x Nike Air Force 1 Mid「Yellow」",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -230,7 +281,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 20,
    "title": "大案揭秘：14 人涉嫌盜竊高達 2,200 萬美元 Nike 波鞋，猶如火車大劫案",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -243,7 +294,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 21,
    "title": "SOMEWHERE and ASICS Honor D.C. Heritage With the GEL Stratus MC “Chocolate City”",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -257,7 +308,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 22,
    "title": "New Balance 991 Made in UK Surfaces in \"Luxe Black Leather\"",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -270,7 +321,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 19,
+   "id": 23,
    "title": "Nike Ovolo 2.0 \"Black/Stealth\" Brings the Shox R4 Look to a Lifted Heel",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -283,7 +334,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 24,
    "title": "Devin Booker Unites with Chevy for the Nike Book 2 \"Light Chocolate\"",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -296,7 +347,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 25,
    "title": "Carlos Alcaraz Spotted in Lil Yachty's Concrete Boys x Nike Air Force 1 Mid 'Yellow'",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -310,7 +361,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 26,
    "title": "The Great Swoosh Heist: 14 Charged in $22 Million USD Train Robbery Targeting Nike Sneakers",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -324,7 +375,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
+   "id": 27,
    "title": "Michael Jordan’s 4 Best Moments in the Air Jordan 4",
    "source": "Nice Kicks",
    "date": "2026-11-23",
@@ -337,7 +388,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
+   "id": 28,
    "title": "No Marathon DNA: PUMA Unveils a Race Shoe Built Only for HYROX",
    "source": "Nice Kicks",
    "date": "2026-11-23",
@@ -350,22 +401,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 25,
-   "title": "All the Best Shoes Look Like Your Grandma’s Couch",
-   "source": "Highsnobiety",
-   "date": "2026-11-23",
-   "content": "Kith and Proleta Re Art's artisanal spin on Clarks fits a trend at ASICS, Vans, and Dr. Martens towards textural footwear that looks made from an old couch.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/clarks-kith-grandma-shoes/",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS",
-    "CLARKS",
-    "VANS"
-   ]
-  },
-  {
-   "id": 26,
+   "id": 29,
    "title": "Jerry Lorenzo 在與 adidas 終止合作後發表自家 Fear of God Trainer 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-22",
@@ -380,7 +416,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 30,
    "title": "Robert Pattinson 落實接任下一任占士邦之際，《Twilight》x Crocs 正式推出「Edward and Bella」Classic Clog",
    "source": "Hypebeast 中文",
    "date": "2026-11-22",
@@ -393,7 +429,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 31,
    "title": "Jerry Lorenzo Unveils the Independent Fear of God Trainer Following adidas Split",
    "source": "Hypebeast",
    "date": "2026-11-22",
@@ -408,7 +444,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 32,
    "title": "'Twilight' x Crocs Unveils \"Edward and Bella\" Classic Clog After Robert Pattinson is Named Next James Bond",
    "source": "Hypebeast",
    "date": "2026-11-22",
@@ -421,7 +457,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 30,
+   "id": 33,
    "title": "ERL 推出全新 Wall Street 樂福鞋與穆勒鞋",
    "source": "Hypebeast 中文",
    "date": "2026-11-20",
@@ -432,7 +468,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 31,
+   "id": 34,
    "title": "ERL Launches the New Wall Street Loafer and Mule",
    "source": "Hypebeast",
    "date": "2026-11-20",
@@ -443,20 +479,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 32,
-   "title": "UP THERE and New Balance’s 1890 “Horizon” Trades Mesh for Shiny Nylon Under Australian Skies",
-   "source": "Hypebeast",
-   "date": "2026-11-20",
-   "content": "Name: UP THERE x New Balance 1890 “Horizon”Colorway: TBCSKU: U18901CYMSRP: $280 AUD (approx. $185 USD)Release Date: November 27Where to Buy: UP THEREThe New Balance 1890 “Horizon” by UP THERE lands as the two partners close in on five years of collaboration, reworking one of New Balance’s standout silhouettes of 2026 around a distinctly Australian color story. UP THERE leans on material swaps, a heritage New Balance shade and a few of its own long-running signatures to make the model its own.The inline 1890 usually pairs mesh with synthetic overlays, but UP THERE builds its version from shiny nylon and natural suede for a richer, more tactile finish. Instead of carrying over the printed graphics found on the general release, the suede panels are debossed, letting the detailing show through texture alone. Underfoot, full-length ABZORB tooling handles cushioning from heel to toe.The palett",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F20%2FUP-THERE-New-Balance-1890-Horizon-U18901CY-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/up-there-new-balance-1890-horizon-u18901cy-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 33,
+   "id": 35,
    "title": "Noah x Converse 最新聯乘 Chuck 70 回歸 90 年代風格 Black Watch 經典格紋",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -469,7 +492,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 36,
    "title": "Nike 與 Zellerfeld 聯手為 3D 打印鞋款 AIRMAX 1000 帶來更多度身訂製選項",
    "source": "Hypebeast 中文",
    "date": "2026-11-19",
@@ -482,20 +505,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
-   "title": "Noah and Converse Take the Chuck 70 Back to the ’90s in Black Watch Tartan",
-   "source": "Hypebeast",
-   "date": "2026-11-19",
-   "content": "Name: Noah x Converse Chuck 70 TartanColorway: TBCSKU: TBCMSRP: TBCRelease Date: November 19Where to Buy: Converse, NoahConverse and Noah have teamed up on a new Chuck 70 Ox in Black Watch tartan, the navy and green check that began in the Scottish Highlands roughly 300 years ago and later became a mainstay of collegiate style. The pair keeps the focus on its materials and construction, giving the traditional plaid a Chuck 70 built to ’90s specs.The upper does most of the work. It is made from a three-tone woven canvas with the Black Watch plaid running across the whole shoe, so the pattern comes from the weave itself rather than a surface print. That gives the check a richer, more textured look than a printed plaid, and it suits the cold-weather timing of the release.Noah based the shoe’s build on Chucks from the ’90s. The brand removed the wing tongue stitch seen on the current Chuck 7",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F17%2FftNoah-Converse-Chuck-70-Tartan-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/noah-converse-chuck-70-tartan-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "CONVERSE"
-   ]
-  },
-  {
-   "id": 36,
+   "id": 37,
    "title": "Anthony Edwards and adidas Continue Their Signature Legacy With the AE 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -508,7 +518,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 38,
    "title": "Devin Booker and Nike Turn the Page With the New Book 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -521,7 +531,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 39,
    "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
    "source": "Nice Kicks",
    "date": "2026-11-10",
@@ -534,7 +544,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 39,
+   "id": 40,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -547,7 +557,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 40,
+   "id": 41,
    "title": "Tremaine Emory Brings a Piece of Canal Street to adidas Originals",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -560,7 +570,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 41,
+   "id": 42,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
@@ -570,19 +580,6 @@ window.SNEAKER_DATA = {
    "lang": "en",
    "relatedBrands": [
     "ADIDAS"
-   ]
-  },
-  {
-   "id": 42,
-   "title": "Nike Mind 001 WMNS “Summit White”",
-   "source": "Nice Kicks",
-   "date": "2026-11-03",
-   "content": "The Nike Mind 001 WMNS “Summit White” will be restocking on November 5, 2026, via Nike and select retailers for $95. Check out the photos below… The post Nike Mind 001 WMNS “Summit White” appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/08/hq4309-101-1-e1787072626688.jpg",
-   "link": "https://www.nicekicks.com/nike-mind-001-wmns-summit-white-hq4309-101/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
    ]
   }
  ]
