@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26 02:19",
+ "updatedAt": "2026-11-26 14:12",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -26,13 +26,51 @@
   "NEW BALANCE",
   "NIKE",
   "PUMA",
-  "UGG",
-  "VANS"
+  "UGG"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Nike Air Max 95 Big Bubble Premium Debuts New \"Black/Dark Smoke Grey\" Colorway",
+   "source": "Hypebeast",
+   "date": "2026-11-26",
+   "content": "The Nike Air Max 95 Big Bubble Premium is set to arrive in a new \"Black/Dark Smoke Grey\" colorway.This model stays true to its original design, which was famously inspired by human anatomy. The upper combines synthetic leather with highly breathable mesh, creating a gradient layered style through its signature undulating, overlapping panels. For cushioning, it features large visible Max Air units in the heel and forefoot, delivering lightweight, exceptional comfort. Flex grooves in the midsole and outsole also support the foot's natural movement. The anatomy-inspired details remain a standout, with the sole representing the spine, the upper panels mimicking muscles, and the laces evoking ribs.The new \"Black / Dark Smoke Grey\" colorway features a black base overlaid with varying shades of grey to create a gradient effect. The wavy side panels emphasize the color transition, while the mix ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fnike-air-max-95-big-bubble-premium-black-dark-smoke-grey-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/nike-air-max-95-big-bubble-premium-black-dark-smoke-grey-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "INVINCIBLE x MADNESS x ASICS SportStyle Team Up for the Second Collaborative GEL-KAYANO 12.1",
+   "source": "Hypebeast",
+   "date": "2026-11-26",
+   "content": "As the second triple collaboration between Taiwanese select shop INVINCIBLE (established in 2007), independent label MADNESS (founded in 2014 by Hong Kong actor Shawn Yue), and ASICS SportStyle, the GEL-KAYANO 12.1 “Shadow Fragments” has arrived.For this second installment, the design is inspired by outdoor exploration and obsidian. The deep tones and textures unique to volcanic glass are expressed through an all-black color palette and a combination of contrasting materials. The upper features layered leather, nubuck, suede, and mesh, with each distinct texture and surface finish creating a multidimensional look.Furthermore, the shoe incorporates details like enlarged ASICS Tiger Stripes, a spiral that extends to the midsole, and TS stripes. Special design elements are applied to the finer points as well, including collaborative leather insoles, exposed stitching, and black leather hang",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Finvincible-madness-asics-2nd-collabo-gel-kayano-12-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/invincible-madness-asics-2nd-collabo-gel-kayano-12-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "WTAPS and HOKA Collaborate on New Collection Featuring Speedgoat Redesigned with a Unique Perspective",
+   "source": "Hypebeast",
+   "date": "2026-11-26",
+   "content": "WTAPS and HOKA have unveiled their second collaborative collection. Following up on their initial 2024 partnership, this release uses HOKA's signature trail running shoe, the Speedgoat, as a foundation, applying WTAPS's utility-focused design philosophy across a range of footwear and accessories.The centerpiece of the collection, the Speedgoat TS WTAPS, maintains the model's signature performance—exceptional grip, responsive cushioning, and stability—while reconstructing it through WTAPS's distinct lens. The result is a fusion of trail-ready functionality and a design easily incorporated into everyday styling. It arrives in two colorways inspired by urban landscapes: Galactic Grey / High Rise and Black / Volcanic Ash.Furthermore, this collaboration marks the first time accessories join the footwear lineup. The HOKA Trail Run Vest 8L WTAPS is designed for lightweight performance and stora",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fwtaps-hoka-speedgoat-collabo-collection-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/wtaps-hoka-speedgoat-collabo-collection-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "HOKA"
+   ]
+  },
+  {
+   "id": 4,
    "title": "LISA 於 F1 Las Vegas Grand Prix 率先著用 Nike Zoom Streak 3 全新「Black/Red」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-25",
@@ -45,7 +83,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 5,
    "title": "Cactus Plant Flea Market x Nike Flea 1 最新「Cave Purple」官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-25",
@@ -58,7 +96,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 6,
    "title": "LISA Gives The Nike Zoom Streak 3 \"Black/Red\" an Early Debut at the F1 Las Vegas Grand Prix",
    "source": "Hypebeast",
    "date": "2026-11-25",
@@ -71,7 +109,7 @@
    ]
   },
   {
-   "id": 4,
+   "id": 7,
    "title": "Official Images of the Cactus Plant Flea Market x Nike Flea 1 “Cave Purple”",
    "source": "Hypebeast",
    "date": "2026-11-25",
@@ -85,7 +123,7 @@
    ]
   },
   {
-   "id": 5,
+   "id": 8,
    "title": "Original HAFERL x nonnative Collaborate on New Richard Cow Leather Shoes",
    "source": "Hypebeast",
    "date": "2026-11-25",
@@ -96,7 +134,7 @@
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 9,
    "title": "BIRKENSTOCK Celebrates the 40th Anniversary of Its Iconic London Style with the \"Camden's Clubs\" Collection",
    "source": "Hypebeast",
    "date": "2026-11-25",
@@ -110,7 +148,20 @@
    ]
   },
   {
-   "id": 7,
+   "id": 10,
+   "title": "Nike's Latest Winter Tank Is Built for Anything",
+   "source": "Highsnobiety",
+   "date": "2026-11-25",
+   "content": "The Swoosh delivers another winter banger in the form of the Nike Air Goadome Low Foamposite Black/Dark Smoke Grey.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-goadome-low-foam-black-dark-smoke-grey/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 11,
    "title": "Hoka Has Only Gone and Built a Brutalist Trail Runner",
    "source": "Highsnobiety",
    "date": "2026-11-25",
@@ -123,7 +174,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 12,
    "title": "Nike’s Ice-Cold Hoop Shoe Is Bringing the Chill This Winter",
    "source": "Highsnobiety",
    "date": "2026-11-25",
@@ -136,7 +187,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 13,
    "title": "These High-Heat Dunks Are Built on Oregon Lore",
    "source": "Highsnobiety",
    "date": "2026-11-25",
@@ -149,7 +200,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 14,
    "title": "Sole Food: We All Deserve a Whimsical Lil’ Sneaker-Heel",
    "source": "Highsnobiety",
    "date": "2026-11-25",
@@ -163,7 +214,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 15,
    "title": "A Long-Lost New Balance Dad Shoe, Reborn as a Japan-Made Masterpiece",
    "source": "Highsnobiety",
    "date": "2026-11-25",
@@ -176,20 +227,7 @@
    ]
   },
   {
-   "id": 12,
-   "title": "WTAPS’ HOKA Trail Runner Has No Business Being This Sexy",
-   "source": "Highsnobiety",
-   "date": "2026-11-25",
-   "content": "WTAPS debuts its HOKA Speedgoat TS sneaker collaboration, resulting in perhaps the most stylish take on the model yet.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/wtaps-hoka-speedgoat-ts/",
-   "lang": "en",
-   "relatedBrands": [
-    "HOKA"
-   ]
-  },
-  {
-   "id": 13,
+   "id": 16,
    "title": "Ronnie Fieg 與 ASICS 最新《Star Wars》聯乘鞋款注入 Darth Vader 元素",
    "source": "Hypebeast 中文",
    "date": "2026-11-24",
@@ -202,7 +240,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 17,
    "title": "Ronnie Fieg and ASICS Channel Darth Vader in New Star Wars Collaboration",
    "source": "Hypebeast",
    "date": "2026-11-24",
@@ -215,7 +253,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 18,
    "title": "Nice Kicks Presents the Fourth Annual Sneaker of the Year (SOTY) Awards",
    "source": "Nice Kicks",
    "date": "2026-11-24",
@@ -226,7 +264,7 @@
    "relatedBrands": []
   },
   {
-   "id": 16,
+   "id": 19,
    "title": "Michael Jordan’s 4 Best Moments in the Air Jordan 4",
    "source": "Nice Kicks",
    "date": "2026-11-24",
@@ -239,7 +277,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 20,
    "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
    "source": "Nice Kicks",
    "date": "2026-11-24",
@@ -252,7 +290,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 21,
    "title": "SOMEWHERE x ASICS 最新聯乘 GEL-Stratus MC「Chocolate City」正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -265,7 +303,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 22,
    "title": "New Balance 991 Made in UK 釋出「Luxe Black Leather」全新配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -278,7 +316,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 23,
    "title": "Nike Ovolo 2.0「Black/Stealth」將 Shox R4 輪廓融入增高鞋踭設計",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -291,7 +329,7 @@
    ]
   },
   {
-   "id": 21,
+   "id": 24,
    "title": "Chevy x Nike Book 2 最新「Light Chocolate」配色發售情報",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -304,7 +342,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 25,
    "title": "Carlos Alcaraz 著用未公開 Lil Yachty Concrete Boys x Nike Air Force 1 Mid「Yellow」",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -317,7 +355,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 26,
    "title": "大案揭秘：14 人涉嫌盜竊高達 2,200 萬美元 Nike 波鞋，猶如火車大劫案",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -330,7 +368,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 27,
    "title": "SOMEWHERE and ASICS Honor D.C. Heritage With the GEL Stratus MC “Chocolate City”",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -344,7 +382,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 28,
    "title": "New Balance 991 Made in UK Surfaces in \"Luxe Black Leather\"",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -357,7 +395,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 29,
    "title": "Nike Ovolo 2.0 \"Black/Stealth\" Brings the Shox R4 Look to a Lifted Heel",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -370,7 +408,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 30,
    "title": "Devin Booker Unites with Chevy for the Nike Book 2 \"Light Chocolate\"",
    "source": "Hypebeast",
    "date": "2026-11-23",
@@ -383,35 +421,7 @@
    ]
   },
   {
-   "id": 28,
-   "title": "Carlos Alcaraz Spotted in Lil Yachty's Concrete Boys x Nike Air Force 1 Mid 'Yellow'",
-   "source": "Hypebeast",
-   "date": "2026-11-23",
-   "content": "Summary Tennis star Carlos Alcaraz was recently seen wearing a new Concrete Boys x Nike Air Force 1 MidThe unexpected sighting occurred shortly after the athlete advanced to the ATP FinalsThe unreleased sneaker features a vibrant yellow colorway tied to Lil Yachty's collective Tennis standout Carlos Alcaraz recently broke out the unreleased Concrete Boys x Nike Air Force 1 Mid 'Yellow'. The unexpected footwear sighting occurred shortly after the athlete successfully advanced to the ATP Finals, providing fans with a fresh look at a highly anticipated collaboration from Lil Yachty's creative collective.Based on the recent on-foot appearance at the tournament, the silhouette appears to retain the classic structural elements of the iconic Air Force 1 Mid while introducing a striking yellow palette. Imagery suggests the pair continues the design language established by Lil Yachty's previous N",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F22%2Fcarlos-alcaraz-wears-lil-yachty-concrete-boys-nike-air-force-1-mid-yellow-atp-tour-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/carlos-alcaraz-wears-lil-yachty-concrete-boys-nike-air-force-1-mid-yellow-atp-tour",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "The Great Swoosh Heist: 14 Charged in $22 Million USD Train Robbery Targeting Nike Sneakers",
-   "source": "Hypebeast",
-   "date": "2026-11-23",
-   "content": "Summary A massive 17-count federal indictment has led to the arrest of 14 defendants in Los Angeles for orchestrating a series of freight train burglariesThe coordinated crew allegedly stole over $22 million USDworth of Nike sneakers and other high-value cargo between February 2024 and August 2026Members of the criminal ring reportedly sold thousands of stolen pairs to an unnamed local resale store for approximately $1.1 million USD In a massive cargo operation that sounds more like a video game heist than real life, 14 defendants have been arrested in Los Angeles for a sprawling train robbery scheme heavily targeting Nike sneakers. According to a 17-count federal indictment, the crew is charged with burglarizing as many as three dozen freight trains across Southern California between February 2024 and August 2026, resulting in the theft of over $22 million USD in goods.Federal agents al",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F22%2Fthe-great-swoosh-heist-14-charged-22-million-usd-train-robbery-targeting-nike-sneakers-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/the-great-swoosh-heist-14-charged-22-million-usd-train-robbery-targeting-nike-sneakers",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "VANS"
-   ]
-  },
-  {
-   "id": 30,
+   "id": 31,
    "title": "No Marathon DNA: PUMA Unveils a Race Shoe Built Only for HYROX",
    "source": "Nice Kicks",
    "date": "2026-11-23",
@@ -424,7 +434,7 @@
    ]
   },
   {
-   "id": 31,
+   "id": 32,
    "title": "Jerry Lorenzo 在與 adidas 終止合作後發表自家 Fear of God Trainer 鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-22",
@@ -439,7 +449,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 33,
    "title": "Robert Pattinson 落實接任下一任占士邦之際，《Twilight》x Crocs 正式推出「Edward and Bella」Classic Clog",
    "source": "Hypebeast 中文",
    "date": "2026-11-22",
@@ -449,21 +459,6 @@
    "lang": "zh",
    "relatedBrands": [
     "CROCS"
-   ]
-  },
-  {
-   "id": 33,
-   "title": "Jerry Lorenzo Unveils the Independent Fear of God Trainer Following adidas Split",
-   "source": "Hypebeast",
-   "date": "2026-11-22",
-   "content": "Summary Jerry Lorenzo has officially unveiled the Fear of God Trainer as his first independent sneaker model since parting ways with adidas in 2025The low-top silhouette features a lightweight mesh base overlaid with a molded synthetic cage and a contrasting suede toe capThe new athletic sneaker is officially slated to release in Summer 2027 Following his highly publicized departure from adidas in 2025, Jerry Lorenzo has officially introduced the independent Fear of God Trainer. Despite recent speculation regarding a potential return to Nike after the designer was spotted wearing vintage Moon Shoes, the new silhouette marks a definitive return to entirely in-house footwear for the luxury American label.The Fear of God Trainer opts for a low-cut profile, anchored by a breathable lightweight mesh base. A molded synthetic cage runs continuously from the lacing system around the heel, featur",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F20%2Fjerry-lorenzo-unveils-fear-of-god-trainer-following-adidas-split-first-look-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/jerry-lorenzo-unveils-fear-of-god-trainer-following-adidas-split-first-look",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS",
-    "FEAR OF GOD",
-    "NIKE"
    ]
   },
   {
