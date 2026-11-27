@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-27 01:59",
+ "updatedAt": "2026-11-27 14:01",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -30,6 +30,30 @@ window.SNEAKER_DATA = {
  "news": [
   {
    "id": 1,
+   "title": "BAPE STA 25 週年中國限定版採用黑色及裂紋銀細節",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-27",
+   "content": "名稱： A Bathing Ape BAPE STA 中國限定版配色： 黑、白SKU： 待定建議零售價： 待定發售日期： 11 月 28 日、12 月 5 日、12 月 18 日發售地點： BAPE GALLERY Shanghai、BAPE STORE 三里屯太古里、BAPE STORE 太古滙、BAPE STORE 太古里BAPE 慶祝其標誌性運動鞋誕生 25 週年，特別推出 BAPE STA 25 週年中國限定版，提供兩款單色選擇，各限量 250 對。兩者均以頂級小牛皮打造，分別為全黑及全白設計，讓週年紀念細節在簡潔的鞋面上更顯突出。最大的亮點在於 STA 圖案本身，採用了液態銀色澤並加上裂紋效果，打破了兩款配色原有的光潔皮革感。硬件亦有所升級：金屬鞋帶扣飾有「25」週年標誌，每對鞋舌背面更印有獨立編號，標示其在 250 對中的限量位置。資深擁躉或許會率先留意到外側的中底。BAPE 標誌中的「APE」字樣採用對比色調，直接致敬原版 BAPE STA 的經典設計。配搭裂紋銀細節，這項復古元素讓此限定版在致敬歷史檔案之餘，依然流露現代感。這款新舊交融的設計，非常適合一雙其故事多由聯乘企劃編織而成的經典鞋款。過去 25 年間，BAPE STA 成為了連繫音樂、藝術與運動的橋樑。它曾由 Daft Punk 及 Kanye West，以至 KAWS、KidSuper 和 Virgil Abloh 等設計師及藝術家重新演繹，更與 DC Comics 及 Marvel 等娛樂巨頭合作，每次合作都將這款鞋推向街頭文化的更深處。希望親身見證這段歷史的擁躉，可參觀於 2026 年 11 月 28 日至 12 月 31 日在 BAPE GALLERY Shanghai 舉行的 BAPE STA 25 週年展覽。該展覽將匯集超過 30 款從未在中國展出的珍藏 BAPE STA 鞋款，涵蓋了奠定其街頭文化經典地位的代表作。BAPE STA 25 週年中國限定版將於 2026 年 11 月 28 日在 BAPE GALLERY Shanghai 率先發售，隨後於 12 月 5 日登陸北京三里",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fa-bathing-ape-bape-sta-25th-anniversary-china-exclusives-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/a-bathing-ape-bape-sta-25th-anniversary-china-exclusives-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 2,
+   "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
+   "source": "Nice Kicks",
+   "date": "2026-11-27",
+   "content": "Ducks of a Feather is bringing Oregon Ducks pride to the skate scene with two limited-edition Nike SB Dunk colorways created in partnership with… The post Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/11/DOAF-x-Nike-SB-Dunk-_-Flight-Club-x-GOAT-HERO-1-scaled.jpg",
+   "link": "https://www.nicekicks.com/ducks-of-a-feather-nike-sb-pack/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
    "title": "Nike Mind 001 推出朱古力啡色獨立節點鞋底「Palomino」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-26",
@@ -42,7 +66,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 2,
+   "id": 4,
    "title": "Lil Uzi Vert 以幻彩紗線重塑 Vans Authentic 44 最新「Pink Cosmos」鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-26",
@@ -55,7 +79,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 5,
    "title": "Maison Kitsuné 攜手 Paraboot 推出 2026 秋冬聯乘 Chambord 經典鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-26",
@@ -66,7 +90,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 4,
+   "id": 6,
    "title": "The Nike Mind 001 Sets Its Moving Nodes in Chocolate Brown for \"Palomino\"",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -79,7 +103,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 7,
    "title": "Lil Uzi Vert Weaves a Rainbow of Thread Into the Vans Authentic 44 \"Pink Cosmos\"",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -92,7 +116,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 6,
+   "id": 8,
    "title": "Maison Kitsuné and Paraboot Rework the Classic Chambord for Fall/Winter 2026",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -103,7 +127,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 7,
+   "id": 9,
    "title": "Nike Air Max 95 Big Bubble Premium Debuts New \"Black/Dark Smoke Grey\" Colorway",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -116,7 +140,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 10,
    "title": "INVINCIBLE x MADNESS x ASICS SportStyle Team Up for the Second Collaborative GEL-KAYANO 12.1",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -129,7 +153,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 9,
+   "id": 11,
    "title": "WTAPS and HOKA Collaborate on New Collection Featuring Speedgoat Redesigned with a Unique Perspective",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -142,7 +166,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 12,
    "title": "The Seven Best adidas Sneakers to Cop This Black Friday",
    "source": "Highsnobiety",
    "date": "2026-11-26",
@@ -155,7 +179,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 13,
    "title": "adidas’ Football-Inspired Dad Shoe Has a Futuristic Edge",
    "source": "Highsnobiety",
    "date": "2026-11-26",
@@ -168,7 +192,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
+   "id": 14,
    "title": "adidas Gives Its Subtle Retro Runner a Whole New Stance",
    "source": "Highsnobiety",
    "date": "2026-11-26",
@@ -181,7 +205,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 13,
+   "id": 15,
    "title": "Nike's Latest Winter Tank Is Built for Anything",
    "source": "Highsnobiety",
    "date": "2026-11-26",
@@ -194,7 +218,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 14,
+   "id": 16,
    "title": "LISA 於 F1 Las Vegas Grand Prix 率先著用 Nike Zoom Streak 3 全新「Black/Red」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-25",
@@ -207,7 +231,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 15,
+   "id": 17,
    "title": "Cactus Plant Flea Market x Nike Flea 1 最新「Cave Purple」官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-25",
@@ -220,7 +244,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 16,
+   "id": 18,
    "title": "LISA Gives The Nike Zoom Streak 3 \"Black/Red\" an Early Debut at the F1 Las Vegas Grand Prix",
    "source": "Hypebeast",
    "date": "2026-11-25",
@@ -233,7 +257,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 19,
    "title": "Official Images of the Cactus Plant Flea Market x Nike Flea 1 “Cave Purple”",
    "source": "Hypebeast",
    "date": "2026-11-25",
@@ -247,7 +271,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
+   "id": 20,
    "title": "Original HAFERL x nonnative Collaborate on New Richard Cow Leather Shoes",
    "source": "Hypebeast",
    "date": "2026-11-25",
@@ -258,7 +282,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 19,
+   "id": 21,
    "title": "BIRKENSTOCK Celebrates the 40th Anniversary of Its Iconic London Style with the \"Camden's Clubs\" Collection",
    "source": "Hypebeast",
    "date": "2026-11-25",
@@ -272,7 +296,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 20,
+   "id": 22,
    "title": "Ronnie Fieg 與 ASICS 最新《Star Wars》聯乘鞋款注入 Darth Vader 元素",
    "source": "Hypebeast 中文",
    "date": "2026-11-24",
@@ -285,7 +309,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 21,
+   "id": 23,
    "title": "Ronnie Fieg and ASICS Channel Darth Vader in New Star Wars Collaboration",
    "source": "Hypebeast",
    "date": "2026-11-24",
@@ -298,7 +322,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 22,
+   "id": 24,
    "title": "Nice Kicks Presents the Fourth Annual Sneaker of the Year (SOTY) Awards",
    "source": "Nice Kicks",
    "date": "2026-11-24",
@@ -309,7 +333,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 23,
+   "id": 25,
    "title": "Michael Jordan’s 4 Best Moments in the Air Jordan 4",
    "source": "Nice Kicks",
    "date": "2026-11-24",
@@ -322,20 +346,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 24,
-   "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
-   "source": "Nice Kicks",
-   "date": "2026-11-24",
-   "content": "Ducks of a Feather is bringing Oregon Ducks pride to the skate scene with two limited-edition Nike SB Dunk colorways created in partnership with… The post Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions appeared first on Nice Kicks .",
-   "image": "https://www.nicekicks.com/files/2026/11/DOAF-x-Nike-SB-Dunk-_-Flight-Club-x-GOAT-HERO-1-scaled.jpg",
-   "link": "https://www.nicekicks.com/ducks-of-a-feather-nike-sb-pack/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 25,
+   "id": 26,
    "title": "SOMEWHERE x ASICS 最新聯乘 GEL-Stratus MC「Chocolate City」正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -348,7 +359,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 27,
    "title": "New Balance 991 Made in UK 釋出「Luxe Black Leather」全新配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -361,7 +372,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 28,
    "title": "Nike Ovolo 2.0「Black/Stealth」將 Shox R4 輪廓融入增高鞋踭設計",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -374,7 +385,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
+   "id": 29,
    "title": "Chevy x Nike Book 2 最新「Light Chocolate」配色發售情報",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -387,26 +398,13 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 29,
+   "id": 30,
    "title": "Carlos Alcaraz 著用未公開 Lil Yachty Concrete Boys x Nike Air Force 1 Mid「Yellow」",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
    "content": "摘要 網球巨星 Carlos Alcaraz 近日被拍到穿上全新 Concrete Boys x Nike Air Force 1 Mid這次驚喜曝光恰好發生在這位運動員晉級 ATP 年終總決賽後不久這雙尚未發售的鞋款採用與 Lil Yachty 旗下團隊相關的鮮艷黃色配色 網球好手 Carlos Alcaraz 近日換上了尚未發佈的 Concrete Boys x Nike Air Force 1 Mid「Yellow」。這次令人驚喜的著用，發生在他成功晉級 ATP 總決賽後不久，讓球迷得以率先一窺 Lil Yachty 創意團隊備受期待的最新聯乘之作。根據近日在賽場上的著用情況，該鞋款似乎保留了經典 Air Force 1 Mid 的結構元素，同時引入了搶眼的黃色調。照片顯示，此雙鞋款延續了 Lil Yachty 過往 Nike 企劃所建立的設計語言，不過具體的聯乘細節、材質選擇及包裝更新等細節依然充滿未知。整個鞋面採用仿蛇皮紋理，以螢光黃色調呈現。鞋舌標籤、縫線、鞋帶以及中底和外底則以黑色勾勒，令整體設計更趨完善。有興趣的讀者不妨瀏覽上方圖片，近賞這雙鞋款的細節。 Click here to view full gallery at Hypebeast",
    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fcarlos-alcaraz-wears-lil-yachty-concrete-boys-nike-air-force-1-mid-yellow-atp-tour-000.jpg?w=800&cbr=1&q=90&fit=max",
    "link": "https://hypebeast.com/zh/2026/11/carlos-alcaraz-wears-lil-yachty-concrete-boys-nike-air-force-1-mid-yellow-atp-tour",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "大案揭秘：14 人涉嫌盜竊高達 2,200 萬美元 Nike 波鞋，猶如火車大劫案",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-23",
-   "content": "摘要 一份涉及 17 條控罪的龐大聯邦起訴書，導致 14 名被告在 Los Angeles 被捕，他們涉嫌策劃一系列貨運火車盜竊案這個分工明確的團夥據稱在 2024 年 2 月至 2026 年 8 月期間，盜取了價值超過 2,200 萬美元的 Nike 球鞋及其他高價值貨物據報道，該犯罪集團的成員將數千雙盜得的球鞋轉售予本地一家未具名的轉售店，獲利約 110 萬美元 一場聽起來更像電子遊戲而非現實生活的大規模貨運盜竊案中，14 名被告在 Los Angeles 被捕，他們涉嫌參與一場針對 Nike 波鞋的龐大火車劫案。根據一項包含 17 項指控的聯邦起訴書，該集團被控在 2024 年 2 月至 2026 年 8 月期間，於南加州一帶盜竊多達 36 輛貨運火車，導致超過 2,200 萬美元的貨物被盜。聯邦探員指控 21 歲的 Nathan Angel 領導了這場明目張膽的行動，專門追蹤並鎖定運送 Nike 產品的高價值火車。據稱，Angel 利用 Instagram 協調他們的犯罪活動，指示同案被告駕駛租來的貨車和客貨車直接駛上鐵路路軌，登上貨車車廂。該集團甚至記錄了他們的罪行，影片證據似乎顯示疑犯切開貨櫃，並炫耀裡面偷來的 Nike 波鞋。根據官方起訴書，這場行動迅速轉化為可觀的黑市利潤。在 2025 年 5 月至 10 月期間，該集團成員據稱將數千雙偷來的 Nike 波鞋輸送至一家不知名的 Los Angeles 轉售店，淨賺約 110 萬美元現金。第一助理美國檢察官 Bill Essayli 稱這次盜竊的規模「令人震驚」，而 Los Angeles 縣地區檢察官 Nathan J. Hochman 則指出，這項為期 14 個月的調查表明了他們致力從實體盜竊直接到零售黑市瓦解犯罪組織的嚴格承諾。被告現在面臨嚴厲的聯邦刑罰，包括每項盜竊罪最高可判處 10 年監禁，以及針對鐵路車輛的暴力行為最高可判處終身監禁。This morning we arrested a train robbery crew.Nathan Daniel Angel, 21, of East Los",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fthe-great-swoosh-heist-14-charged-22-million-usd-train-robbery-targeting-nike-sneakers-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/the-great-swoosh-heist-14-charged-22-million-usd-train-robbery-targeting-nike-sneakers",
    "lang": "zh",
    "relatedBrands": [
     "NIKE"
