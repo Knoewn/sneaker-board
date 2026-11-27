@@ -1,5 +1,5 @@
 window.SNEAKER_DATA = {
- "updatedAt": "2026-11-27 14:01",
+ "updatedAt": "2026-11-28 01:45",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,19 +17,55 @@ window.SNEAKER_DATA = {
  "brands": [
   "ADIDAS",
   "ASICS",
-  "BIRKENSTOCK",
   "HOKA",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
   "PUMA",
-  "UGG",
+  "SALOMON",
   "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Martine Rose 攜手 Nike 推出融合正裝與田徑元素全新聯乘鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-27",
+   "content": "摘要 Martine Rose 最新 Nike 聯乘鞋款 MR Trax SP，將專業田徑賽道鞋款重塑為低調的女款生活休閒鞋。鞋型讓人聯想起 Nike 的 Skylon 系列，採用尖頭設計、複雜的多層次鞋面，以及鞋底的模製鞋釘細節。率先亮相兩款配色的 Martine Rose x Nike MR Trax SP 預計將於 2026 年 12 月發售，售價為 $200 美元。 Martine Rose 向來擅長從 Nike 較冷門的功能性鞋款中發掘時尚潛力。她曾將 Shox 改造為帶有正裝鞋影子的作品，也曾重塑 Air Monarch 的比例。如今，這位英國設計師透過即將推出的 Nike MR Trax SP，帶我們走進田徑場——或者說，某種意義上的田徑場。在由 Roxy Lee 拍攝的廣告企劃中，一群身穿西裝的人士穿上這款最新 Nike 聯乘鞋款，在辦公室大堂奔跑。對於這雙汲取短跑競技鞋款設計語言、卻又同樣適合配搭剪裁長褲的鞋款來說，這無疑是一個貼切的介紹方式。 View this post on InstagramA post shared by Hypebae (@hypebae)隨著鞋流行業持續挖掘低筒運動鞋的款式，或許田徑釘鞋將成為下一個順理成章的靈感來源。畢竟，當前廣受歡迎的女裝生活風格運動鞋所具備的特色——修長的比例、尖頭設計以及極薄的鞋底——早已存在於田徑鞋款之中。專為女性設計的 MR Trax SP 亦讓人聯想起 Nike 的 Skylon 系列，特別是其層次分明的鞋面設計。Nike 於今年初復刻了 2008 年的 Zoom Skylon 11，該鞋款誕生於 Nike 跑鞋設計的年代，當時鞋面覆蓋層的運用似乎沒有極限。然而，Rose 的最新作品捨棄了大部分笨重的鞋底，讓穿著者的雙腳更貼近地面。甚至其外底亦採用了令人聯想到競技田徑鞋釘的注塑細節。不同於她在 Shox MR4 上的設計，後者大部分的趣味來自於極具侵略性的緩震系統與尖頭穆勒鞋比例之間的對比，MR Trax SP 則不需對運動元素進行太多調整，便能呈現出契合時尚語境的作品。目前已展示了兩種配色：",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fmartine-rose-nike-mr-trax-sp-release-date-00.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/martine-rose-nike-mr-trax-sp-release-date",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Cactus Plant Flea Market x Nike Flea 1「Barley」官方照片釋出",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-27",
+   "content": "名稱：Cactus Plant Flea Market x Nike Flea 1「Barley」配色：Barley/Desert Moss-Brown Basalt-SailSKU：IU5238-700建議售價：$180 美元發售日期：2026 年 12 月Cactus Plant Flea Market x Nike Flea 1「Barley」重回發售日程，讓這款在 2022 年未能上架的配色獲得再次發佈的機會。全新照片展現了這雙刻意採用超大廓形的 Flea 1，其 Barley/Desert Moss-Brown Basalt-Sail 配色的絎縫鞋面，進一步凸顯了該鞋款非主流的比例設計。鞋面承載了這雙鞋大部分的個性。Barley 色的絎縫裁片內填滿了厚實的襯墊，令鞋身呈現出如睡袋般臃腫柔軟的形狀，而非傳統波鞋。這種臃腫感加上超大的剪裁，解釋了為何 Flea 1 會成為 CPFM 與 Nike 合作系列中最奇特的型號之一。鞋底同樣別樹一幟。厚實不平整的鞋底並非安分地處於腳下，而是向上延伸包裹鞋面，模糊了中底與鞋身的界線。Desert Moss 與 Brown Basalt 貫穿鞋底及周圍飾邊，為溫暖的 Barley 底色增添了大地色調的對比。品牌標誌的設計也充滿不規則感。延續初代設計的超大 Sail 色 Swoosh 標誌成為鞋款的主要圖案，外側則飾有被裁切的 Swoosh。鞋領附近還有第三個較小的反向 Swoosh，進一步增添了整雙鞋的破格感。這些照片之所以重要，與這款配色的歷史有關。「Barley」版本原本因尺寸問題於 2022 年被取消發售，而同一合作系列的「Overgrown」版本則順利推出。由於照片來源並非 Nike 官方，因此在正式發佈前，最終細節仍有可能變動。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fcactus-plant-flea-market-cpfm-nike-flea-1-barley-iu5238-700-official-images-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/cactus-plant-flea-market-cpfm-nike-flea-1-barley-iu5238-700-official-images",
+   "lang": "zh",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "JW Anderson 推出首款運動鞋 復古設計靈感注入 Anchor",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-27",
+   "content": "摘要 JW Anderson 首款波鞋 Anchor 吸取復古跑步鞋的比例靈感。鞋款於 Italy 製造，尼龍與麂皮鞋面注入船錨及 Run Rabbit 圖案。四款配色現已登陸 JW Anderson，售價為 $595 美元。 名稱： JW Anderson The Anchor 運動鞋配色： Blue、Tan、Off White、BrownSKU： SE0036LA0431600建議零售價： $595 美元發售日期： 11 月 26 日購買點： JW AndersonJW Anderson 推出品牌首款運動鞋 Anchor，為其服飾系列注入運動元素。Jonathan Anderson 從復古跑鞋的比例中汲取靈感，以人體工學的不對稱設計、舒適度、個性與細節為這款全新鞋履定調。鞋面設計結合了意大利製鞋工藝與經典運動風格。鞋款於意大利以尼龍及意大利小牛皮麂皮製成，顯眼處飾有品牌標誌性的船錨圖案（源自 Anderson 祖父的紋章），而 JW Anderson 壓花標誌則為鞋款增添低調細節。鞋底採用緩震結構及輕量 EVA 橡膠大底，帶來舒適體驗與靈活度。鞋帶上更加入玩味十足的 Run Rabbit 吊飾，這個圖案在品牌的成衣系列中亦時常出現。鞋款備有 Blue、Tan、Off White 及 Brown 四種配色，為平凡的跑鞋注入 JW Anderson 破格的視覺語言。Anchor 運動鞋現已於 JW Anderson 官方網站及實體門市發售，定價為 $595 美元。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fjw-anderson-the-anchor-sneaker-se0036la0431600-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/jw-anderson-the-anchor-sneaker-se0036la0431600-release-info",
+   "lang": "zh",
+   "relatedBrands": []
+  },
+  {
+   "id": 4,
    "title": "BAPE STA 25 週年中國限定版採用黑色及裂紋銀細節",
    "source": "Hypebeast 中文",
    "date": "2026-11-27",
@@ -40,7 +76,81 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 2,
+   "id": 5,
+   "title": "FREE THE YOUTH Unveils Friends & Family Exclusive Air Jordan 16 Evoking the EVA Unit-01",
+   "source": "Hypebeast",
+   "date": "2026-11-27",
+   "content": "Ghana-based creative collective FREE THE YOUTH has unveiled a Friends & Family exclusive model of the Air Jordan 16.The group drew attention earlier this year with the release of a metallic silver Air Jordan 16. The newly revealed model features a purple and green color scheme that brings to mind Evangelion Unit-01 from \"Neon Genesis Evangelion.\"The upper combines glossy purple patent leather with pebbled leather, accented by neon green mesh panels. The laces are adorned with orange dubraes. Additionally, the removable black pony hair shroud is set with three silver studs. A playful detail lies beneath the shroud: flipping it back reveals a blue and orange feather wing graphic.Currently, this model has been revealed strictly as a Friends & Family exclusive, and no information regarding a general release has been announced. Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Ffree-the-youth-air-jordan-16-friesnds-family-model-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/free-the-youth-air-jordan-16-friesnds-family-model-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Official Images of the Cactus Plant Flea Market x Nike Flea 1 \"Barley\"",
+   "source": "Hypebeast",
+   "date": "2026-11-27",
+   "content": "Name: Cactus Plant Flea Market x Nike Flea 1 “Barley”Colorway: Barley/Desert Moss-Brown Basalt-SailSKU: IU5238-700MSRP: $180 USDRelease Date: December 2026The Cactus Plant Flea Market x Nike Flea 1 \"Barley\" is back on the calendar, giving a colorway that never made it to shelves in 2022 a second shot at release. New photos show a deliberately oversized take on the Flea 1, with a quilted upper in Barley/Desert Moss-Brown Basalt-Sail that leans into the model's offbeat proportions.The upper carries most of the shoe's personality. Quilted panels in Barley are stuffed with enough padding to give the silhouette a swollen, cushy shape that's closer to a sleeping bag than a sneaker. That puffiness, together with the oversized cut, explains why the Flea 1 stands out as one of the stranger models in the CPFM and Nike catalog.The sole is just as unconventional. Instead of sitting neatly under the ",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F27%2Fcactus-plant-flea-market-cpfm-nike-flea-1-barley-iu5238-700-official-images-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/cactus-plant-flea-market-cpfm-nike-flea-1-barley-iu5238-700-official-images",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "JW Anderson Debuts Its First-Ever Sneaker With the Vintage-Inspired Anchor",
+   "source": "Hypebeast",
+   "date": "2026-11-27",
+   "content": "Summary JW Anderson’s first sneaker, the Anchor, draws from vintage running proportions.Made in Italy, its nylon and suede upper pairs anchor and Run Rabbit motifs.Four colorways are available now via JW Anderson for $595 USD. Name: JW Anderson The Anchor SneakerColorway: Blue, Tan, Off White, BrownSKU: SE0036LA0431600MSRP: $595 USDRelease Date: November 26Where to Buy: JW AndersonJW Anderson introduces an athletic dimension to its wardrobe with the Anchor Sneaker, the label’s first-ever sneaker. Inspired by vintage running shoe proportions, Jonathan Anderson frames the new shoe around ergonomic asymmetry, comfort, character, and detail.Across the upper, Italian shoemaking meets classic sportswear. Made in Italy from nylon and Italian calf suede, the shoe prominently features the house’s signature anchor motif, taken from Anderson’s grandfather’s coat of arms, while a blind-embossed JW A",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F26%2Fjw-anderson-the-anchor-sneaker-se0036la0431600-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/jw-anderson-the-anchor-sneaker-se0036la0431600-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 8,
+   "title": "Salomon Launches Fall/Winter 2026 Holiday Capsule Featuring All-Weather Models",
+   "source": "Hypebeast",
+   "date": "2026-11-27",
+   "content": "French outdoor brand Salomon has unveiled its all-weather holiday capsule, ALL-WEATHER HOLIDAY SEASON ESSENTIALS.The collection updates the brand's signature trail running shoes—the XT-6, XT-4 OG, and XT-WHISPER—by outfitting each model with GORE-TEX. Blending functionality cultivated in the great outdoors with urban design, the lineup is built to handle winter travel, city walks, and sudden weather changes.The XT-4 OG GTX resurrects an archival trail running shoe, remaining faithful to its original design. In addition to GORE-TEX waterproofing, a full-length Agile Chassis™ Skeleton provides stability, while a dual-density EVA midsole supports long walks. It comes in \"Spellbound / Maritime Blue / Maroon Banner\" and is priced at 34,100 yen (tax included).The XT-WHISPER GTX maintains a lightweight and agile feel while offering GORE-TEX waterproofing and breathability. Featuring enhanced du",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fsalomon-2026-autumn-winter-holiday-xt-6-relese-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/salomon-2026-autumn-winter-holiday-xt-6-relese-info",
+   "lang": "en",
+   "relatedBrands": [
+    "SALOMON"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Kith x UNITED ARROWS & SONS x New Balance Unveil the 990v3 Made in USA",
+   "source": "Hypebeast",
+   "date": "2026-11-27",
+   "content": "Kith, UNITED ARROWS & SONS, and New Balance have announced a triple-collaboration 990v3 Made in USA. Celebrating Kith's 15th anniversary, this collection features two models: a reinterpretation of the iconic colorway introduced by UNITED ARROWS & SONS in 2008, and a new black-based version.This marks the third collaboration between Kith and UNITED ARROWS & SONS. Its origins trace back to the 997.5 Made in USA, released in 2008 by UNITED ARROWS & SONS' Beauty & Youth label. Featuring a gray suede base with purple and pink accents, this colorway is cited by Kith founder Ronnie Fieg as his \"favorite New Balance colorway ever.\" In 2018, a reimagined 997.5 Made in USA with this color scheme debuted, followed by a three-way 990v4 Made in USA in men's and kids' sizes in 2022. Now, coinciding with Kith's 15th anniversary, it is reborn as the 990v3 Made in USA.The first pair is \"Oyster Mushroom/L",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fkith-united-arrows-sons-new-balance-990v3-made-in-usa-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/kith-united-arrows-sons-new-balance-990v3-made-in-usa-release-info",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "BAPE STA's 25th Anniversary China Exclusive Goes Black With Crackled Silver",
+   "source": "Hypebeast",
+   "date": "2026-11-27",
+   "content": "Name: A Bathing Ape BAPE STA China ExclusivesColorway: Black, WhiteSKU: TBCMSRP: TBCRelease Date: November 28, December 5, December 18Where to Buy: BAPE GALLERY Shanghai, BAPE STORE Sanlitun Taikoo Li, BAPE STORE Taikoo Hui, BAPE STORE Taikoo LiBAPE is celebrating 25 years of its signature sneaker with the BAPE STA 25th Anniversary China-Exclusive Edition, a pair of monochrome colorways limited to 250 pairs each. Both are cut from premium calf leather in either all-black or all-white, so the anniversary details stand out against the plain uppers.The biggest change is on the STA motif itself, which comes in liquid silver with a crackle effect that breaks up the clean leather on both colorways. The hardware is updated too: a metal lace lock carries a \"25\" anniversary logo, and a serial number printed on the back of each tongue shows where the pair sits in its 250-pair run.Longtime fans wil",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F26%2Fa-bathing-ape-bape-sta-25th-anniversary-china-exclusives-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/a-bathing-ape-bape-sta-25th-anniversary-china-exclusives-release-info",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 11,
    "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
    "source": "Nice Kicks",
    "date": "2026-11-27",
@@ -53,7 +163,84 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 3,
+   "id": 12,
+   "title": "adidas' Winter Tank Feels Like a Summer Runner",
+   "source": "Highsnobiety",
+   "date": "2026-11-27",
+   "content": "The adidas Dreamcushion Climawarm Silver Pebble leads a three-pack that also includes Core Black and Sand Strata options.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/adidas-dreamcushion-climawarm/",
+   "lang": "en",
+   "relatedBrands": [
+    "ADIDAS"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "This Charming Retro Runner is the Most JW Anderson Sneaker Ever",
+   "source": "Highsnobiety",
+   "date": "2026-11-27",
+   "content": "We talked to actor Conor Sánchez about Irish rugby connections and starring in the campaign for JW Anderson's first in-house Anchor sneaker.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/jw-andersons-anchor/",
+   "lang": "en",
+   "relatedBrands": []
+  },
+  {
+   "id": 14,
+   "title": "New Balance's Retro Dad Shoe Has a Taste for Chocolate",
+   "source": "Highsnobiety",
+   "date": "2026-11-27",
+   "content": "New Balance’s 993 pairs Shadow Blue mesh with rich brown suede overlays for a retro runner that makes a convincing case for the blue-and-brown combination.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/new-balance-made-in-usa-993-shadow-blue-with-cortado/",
+   "lang": "en",
+   "relatedBrands": [
+    "NEW BALANCE"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Nike's Year of the Goat AF1 Is a Different Breed",
+   "source": "Highsnobiety",
+   "date": "2026-11-27",
+   "content": "Ushering in the Lunar New Year ahead of Spring 2027, Nike unveils the Nike Air Force 1 Low Year of the Goat.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-force-1-year-of-the-goat-2027/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "The Seven Best Nike Sneakers to Cop This Black Friday",
+   "source": "Highsnobiety",
+   "date": "2026-11-27",
+   "content": "Discover the best Nike sneaker deals this Black Friday, with an extra 25% off select styles using code BFRIDAY. From Air Force 1s to retro runners.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-sneaker-releases-november-week-4/",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Nike’s Legendary Jordan 4 Is Proof That You Can’t Beat the Original",
+   "source": "Highsnobiety",
+   "date": "2026-11-27",
+   "content": "Nike brings back the original Air Jordan 4 “Bred,” restoring the black nubuck upper and classic details that made the 1989 sneaker an icon.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/nike-air-jordan-4-retro-og/",
+   "lang": "en",
+   "relatedBrands": [
+    "JORDAN",
+    "NIKE"
+   ]
+  },
+  {
+   "id": 18,
    "title": "Nike Mind 001 推出朱古力啡色獨立節點鞋底「Palomino」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-26",
@@ -66,7 +253,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 4,
+   "id": 19,
    "title": "Lil Uzi Vert 以幻彩紗線重塑 Vans Authentic 44 最新「Pink Cosmos」鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-26",
@@ -79,7 +266,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 5,
+   "id": 20,
    "title": "Maison Kitsuné 攜手 Paraboot 推出 2026 秋冬聯乘 Chambord 經典鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-26",
@@ -90,7 +277,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 6,
+   "id": 21,
    "title": "The Nike Mind 001 Sets Its Moving Nodes in Chocolate Brown for \"Palomino\"",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -103,7 +290,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 7,
+   "id": 22,
    "title": "Lil Uzi Vert Weaves a Rainbow of Thread Into the Vans Authentic 44 \"Pink Cosmos\"",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -116,7 +303,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 8,
+   "id": 23,
    "title": "Maison Kitsuné and Paraboot Rework the Classic Chambord for Fall/Winter 2026",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -127,7 +314,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 9,
+   "id": 24,
    "title": "Nike Air Max 95 Big Bubble Premium Debuts New \"Black/Dark Smoke Grey\" Colorway",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -140,7 +327,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 10,
+   "id": 25,
    "title": "INVINCIBLE x MADNESS x ASICS SportStyle Team Up for the Second Collaborative GEL-KAYANO 12.1",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -153,7 +340,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 11,
+   "id": 26,
    "title": "WTAPS and HOKA Collaborate on New Collection Featuring Speedgoat Redesigned with a Unique Perspective",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -166,59 +353,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 12,
-   "title": "The Seven Best adidas Sneakers to Cop This Black Friday",
-   "source": "Highsnobiety",
-   "date": "2026-11-26",
-   "content": "This week was so chock-full of adidas standouts, we picked... seven of them.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-sneaker-releases-november-week-4/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 13,
-   "title": "adidas’ Football-Inspired Dad Shoe Has a Futuristic Edge",
-   "source": "Highsnobiety",
-   "date": "2026-11-26",
-   "content": "adidas’ Formotion F50 combines football-boot influences with a futuristic, chunky silhouette, finished with metallic silver and royal blue accents.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-formotion-f50-collegiate-royal/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 14,
-   "title": "adidas Gives Its Subtle Retro Runner a Whole New Stance",
-   "source": "Highsnobiety",
-   "date": "2026-11-26",
-   "content": "adidas gives its retro SL 72 runner a little extra underfoot, with a beefed-up sole that makes for a very different silhouette from every angle.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/adidas-sl-72-pro/",
-   "lang": "en",
-   "relatedBrands": [
-    "ADIDAS"
-   ]
-  },
-  {
-   "id": 15,
-   "title": "Nike's Latest Winter Tank Is Built for Anything",
-   "source": "Highsnobiety",
-   "date": "2026-11-26",
-   "content": "The Swoosh delivers another winter banger in the form of the Nike Air Goadome Low Foamposite Black/Dark Smoke Grey.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-goadome-low-foam-black-dark-smoke-grey/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 16,
+   "id": 27,
    "title": "LISA 於 F1 Las Vegas Grand Prix 率先著用 Nike Zoom Streak 3 全新「Black/Red」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-25",
@@ -231,7 +366,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 17,
+   "id": 28,
    "title": "Cactus Plant Flea Market x Nike Flea 1 最新「Cave Purple」官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-25",
@@ -244,59 +379,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 18,
-   "title": "LISA Gives The Nike Zoom Streak 3 \"Black/Red\" an Early Debut at the F1 Las Vegas Grand Prix",
-   "source": "Hypebeast",
-   "date": "2026-11-25",
-   "content": "Summary LISA wore an unreleased pair of Nike Zoom Streak 3 sneakers in Black/Red to the Formula 1 Las Vegas Grand Prix drivers paradeFirst introduced in 2009, the racing flat pairs a one-piece mesh upper with a Cushlon midsole and a Zoom Air heelThe sighting is one of the first public moments since Nike and Formula 1 announced their long-term global partnership The Nike Zoom Streak 3 got an early public outing in Las Vegas when global musician and Nike ambassador LISA wore an unreleased Black/Red pair to the Formula 1 Las Vegas Grand Prix drivers parade. Appearing alongside drivers Lewis Hamilton and Charles Leclerc, she gave the public its first look at a colorway from the Zoom Streak 3 collection due in Spring 2027.The Zoom Streak 3 was built for racing, and its construction reflects that. A one-piece mesh upper keeps weight to a minimum and cuts down on overlays, while a Cushlon midso",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F25%2FLISA-Wears-Unreleased-Nike-Zoom-Streak-3-f1-Vegas-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/lisa-wears-unreleased-nike-zoom-streak-3-f1-vegas",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
-   "title": "Official Images of the Cactus Plant Flea Market x Nike Flea 1 “Cave Purple”",
-   "source": "Hypebeast",
-   "date": "2026-11-25",
-   "content": "Name: Cactus Plant Flea Market x Nike Flea 1 “Cave Purple”Colorway: Cave Purple/Dark Raisin-Purple DynastySKU: IU5238-500MSRP: $180 USDRelease Date: December 2026Cactus Plant Flea Market and Nike have revealed the official images of the Flea 1 \"Cave Purple,\" listed as Cave Purple/Dark Raisin-Purple Dynasty. The colorway covers the silhouette in tonal purple from top to bottom and adds a heavily textured sole that gives the pair a rugged, almost unfinished look.Suede makes up most of the upper, wrapping the shoe in a soft purple finish across a series of geometric panels. The paneling is where the Flea 1's roots show, with clear nods to the Dunk and the Air Force 1, though CPFM pulls the overall shape well away from either one. A heavily padded collar and an oversized tongue add bulk around the ankle and give the shoe its chunky, cushioned profile.The sole is the most unusual part of the ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F25%2FCactus-Plant-Flea-Market-cpfm-Nike-Flea-1-Cave-Purple-IU5238-500-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/cactus-plant-flea-market-cpfm-nike-flea-1-cave-purple-iu5238-500-official-images",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE",
-    "UGG"
-   ]
-  },
-  {
-   "id": 20,
-   "title": "Original HAFERL x nonnative Collaborate on New Richard Cow Leather Shoes",
-   "source": "Hypebeast",
-   "date": "2026-11-25",
-   "content": "A new collaboration shoe, the RICHARD COW LEATHER, is launching from Original HAFERL, a historic footwear manufacturer from the Allgäu region in Bavaria, southern Germany, and nonnative.The base model, the RICHARD, is a mid-cut silhouette that carries on the legacy of the Haferlschuhe, a traditional shoe from the Allgäu region of southern Germany. Unlike the offset lacing typical of standard Haferl shoes, it features a distinctive center-laced design.It uses the traditional Zwiegenäht (double stitch) construction, resulting in a durable and water-resistant finish. The upper materials are tailored to each colorway: the BLACK version is uniform in smooth leather, right down to the collar and lining. Meanwhile, the LT. BROWN utilizes suede leather, creating a striking contrast with the tan leather lining.Furthermore, the meticulous attention to detail from both brands is evident in features",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Foriginal-haferl-nonnative-richard-cow-leather-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/original-haferl-nonnative-richard-cow-leather-release-info",
-   "lang": "en",
-   "relatedBrands": []
-  },
-  {
-   "id": 21,
-   "title": "BIRKENSTOCK Celebrates the 40th Anniversary of Its Iconic London Style with the \"Camden's Clubs\" Collection",
-   "source": "Hypebeast",
-   "date": "2026-11-25",
-   "content": "German footwear brand BIRKENSTOCK has unveiled \"1774 Camden's Clubs,\" a new collection inspired by London's music, fashion, and subcultures. Building on four of the brand's signature models—the Arizona, London, Boston, and Maria—the collection features silver cone studs and glossy brushed leather. It adds a rebellious edge evocative of punk and grunge to classic silhouettes.The collection takes its name from the legendary music clubs scattered throughout London's Camden neighborhood. It focuses on the city's creative soil, where music, fashion, and various subcultures have intersected from King's Road to Camden.This is rooted in the London youth culture of the early 1990s. Around Camden Lock at the time, grunge, hippie, and romantic styles mixed. It was common to see outfits layering delicate materials like lace and chiffon paired with rugged boots or BIRKENSTOCK clogs. The unique contra",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fbirkenstock-london-40th-anniversary-camdens-clubs-collection-info00.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/birkenstock-london-40th-anniversary-camdens-clubs-collection-info",
-   "lang": "en",
-   "relatedBrands": [
-    "BIRKENSTOCK",
-    "UGG"
-   ]
-  },
-  {
-   "id": 22,
+   "id": 29,
    "title": "Ronnie Fieg 與 ASICS 最新《Star Wars》聯乘鞋款注入 Darth Vader 元素",
    "source": "Hypebeast 中文",
    "date": "2026-11-24",
@@ -309,20 +392,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 23,
-   "title": "Ronnie Fieg and ASICS Channel Darth Vader in New Star Wars Collaboration",
-   "source": "Hypebeast",
-   "date": "2026-11-24",
-   "content": "Summary Ronnie Fieg and ASICS revisit their 2008 “Black Patent” release with an official Darth Vader-inspired GEL-LYTE III Remastered.The “Castlerock” colorway features perforated nubuck, leather overlays, red accents, and character insoles in a commemorative case.Retailing for $220 USD, the pair releases globally via Kith on November 25. Name: STAR WARS x Ronnie Fieg for ASICS GEL-LYTE III Remastered “Darth Vader”Colorway: CastlerockSKU: 1203B520-020MSRP: $220 USDRelease Date: November 20 (Kith London Early Release), November 25 (Global)Where to Buy: KithRonnie Fieg and ASICS have reunited for the GEL-LYTE III Remastered in “Castlerock,” an official Star Wars collaboration drawing from Darth Vader’s depiction throughout the franchise. The pair looks back to the 2008 “Black Patent” GEL-LYTE III that Fieg and ASICS designed during his tenure at David Z., a release that became known for it",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F24%2Fstar-wars-ronnie-fieg-asics-gel-lyte-iii-remastered-darth-vader-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/star-wars-ronnie-fieg-asics-gel-lyte-iii-remastered-darth-vader-1203b520-020-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 24,
+   "id": 30,
    "title": "Nice Kicks Presents the Fourth Annual Sneaker of the Year (SOTY) Awards",
    "source": "Nice Kicks",
    "date": "2026-11-24",
@@ -333,7 +403,7 @@ window.SNEAKER_DATA = {
    "relatedBrands": []
   },
   {
-   "id": 25,
+   "id": 31,
    "title": "Michael Jordan’s 4 Best Moments in the Air Jordan 4",
    "source": "Nice Kicks",
    "date": "2026-11-24",
@@ -346,7 +416,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 26,
+   "id": 32,
    "title": "SOMEWHERE x ASICS 最新聯乘 GEL-Stratus MC「Chocolate City」正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -359,7 +429,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 27,
+   "id": 33,
    "title": "New Balance 991 Made in UK 釋出「Luxe Black Leather」全新配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -372,60 +442,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 28,
-   "title": "Nike Ovolo 2.0「Black/Stealth」將 Shox R4 輪廓融入增高鞋踭設計",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-23",
-   "content": "摘要 Nike 官方正式揭曉全新 Ovolo 2.0 鞋型，並帶來俐落的「Black/Stealth」配色此升級版球鞋保留了元祖 Ovolo 的元素，同時融入經典 Shox R4 的美學設計這款新鞋型預計於 2026 年 Holiday 季度透過 Nike 及指定零售商官方登場 名稱：Nike Ovolo 2.0「Black/Stealth」配色：Black/StealthSKU：IQ7315-001定價：待定發售日期：2026 年假日季發售點：NikeNike 官方正式發表 Ovolo 2.0「Black/Stealth」，為 Ovolo 系列帶來全新演進。從官方釋出的圖片可見，這款俐落的黑色皮革鞋款在結構上深受經典 Shox R4 啟發，同時為來季呈現出別具一格的現代姿態。黑色皮革 Ovolo 2.0 的前方保留了熟悉的視覺語言，直接沿用原版 Ovolo 設計中標誌性的鞋頭打孔細節。從側面看，升級後的鞋底組件一覽無遺。重新設計的外底在增高鞋踭與前掌之間形成更明顯的間隙，這種結構上的改變專為重現經典 Shox 科技的靈敏回彈而設。俐落的黑色皮革鞋面下方低調地飾有立體 Swoosh 標誌，令整體的暗黑美學更臻完善。據初步消息指，品牌正為 2026 年底籌備另一款銀色版本，為這款升級鞋底設計提供另一種演繹。Nike Ovolo 2.0「Black/Stealth」將於 2026 年假日季透過 Nike 及指定零售商發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnike-ovolo-2-0-black-stealth-iq7315-001-official-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/nike-ovolo-2-0-black-stealth-iq7315-001-official-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 29,
-   "title": "Chevy x Nike Book 2 最新「Light Chocolate」配色發售情報",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-23",
-   "content": "摘要 Devin Booker 為其個人簽名鞋款系列增添成員，帶來一款汲取 Chevy 為靈感的全新 Nike Book 2即將登場的「Light Chocolate」配色採用漆皮鞋面，呈現亮澤質感，藉此摹擬經典的糖果烤漆效果這款籃球鞋預計將於 12 月 1 日正式發售，定價為 $155 美元 名稱：Chevy x Nike Book 2「Light Chocolate」配色：Light Chocolate/Sail-Metallic Silver-Black編號：IO9841-200建議售價：$155 美元發售日期：2026 年 12 月 1 日購買地點：NikeNike 與 Chevy 再次官方宣布合作，推出 Nike Book 2「Light Chocolate」。此合作系列可追溯至他首款簽名鞋型的 Impala 版本，而這款最新配色加入日益壯大的鞋款陣容，這些鞋款均直接以 Devin Booker 個人車庫中的經典車款為藍本。全新版本提升了這款籃球鞋型的質感，以全光澤漆皮製成朱古力啡色鞋面。選擇這種特定物料是為了模仿汽車糖果漆面的無瑕光澤。外側俐落的黑色 Swoosh 標誌與濃郁的啡色基底形成鮮明對比，而微型 Chevy Impala 徽章則印在外側腳跟上。為完善對汽車的致敬，這款聯乘運動鞋配備了清爽的白色外底。這項特定的設計旨在模仿復古 Impala 搭配經典白邊輪胎的標誌性外觀。Chevy x Nike Book 2「Light Chocolate」將於 2026 年 12 月 1 日透過 Nike 及指定零售商發售，售價為 $155 美元。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fchevy-nike-book-2-light-chocolate-io9841-200-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/chevy-nike-book-2-light-chocolate-io9841-200-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 30,
-   "title": "Carlos Alcaraz 著用未公開 Lil Yachty Concrete Boys x Nike Air Force 1 Mid「Yellow」",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-23",
-   "content": "摘要 網球巨星 Carlos Alcaraz 近日被拍到穿上全新 Concrete Boys x Nike Air Force 1 Mid這次驚喜曝光恰好發生在這位運動員晉級 ATP 年終總決賽後不久這雙尚未發售的鞋款採用與 Lil Yachty 旗下團隊相關的鮮艷黃色配色 網球好手 Carlos Alcaraz 近日換上了尚未發佈的 Concrete Boys x Nike Air Force 1 Mid「Yellow」。這次令人驚喜的著用，發生在他成功晉級 ATP 總決賽後不久，讓球迷得以率先一窺 Lil Yachty 創意團隊備受期待的最新聯乘之作。根據近日在賽場上的著用情況，該鞋款似乎保留了經典 Air Force 1 Mid 的結構元素，同時引入了搶眼的黃色調。照片顯示，此雙鞋款延續了 Lil Yachty 過往 Nike 企劃所建立的設計語言，不過具體的聯乘細節、材質選擇及包裝更新等細節依然充滿未知。整個鞋面採用仿蛇皮紋理，以螢光黃色調呈現。鞋舌標籤、縫線、鞋帶以及中底和外底則以黑色勾勒，令整體設計更趨完善。有興趣的讀者不妨瀏覽上方圖片，近賞這雙鞋款的細節。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fcarlos-alcaraz-wears-lil-yachty-concrete-boys-nike-air-force-1-mid-yellow-atp-tour-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/carlos-alcaraz-wears-lil-yachty-concrete-boys-nike-air-force-1-mid-yellow-atp-tour",
-   "lang": "zh",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 31,
-   "title": "SOMEWHERE and ASICS Honor D.C. Heritage With the GEL Stratus MC “Chocolate City”",
-   "source": "Hypebeast",
-   "date": "2026-11-23",
-   "content": "Summary Washington, D.C. boutique SOMEWHERE reunites with ASICS for a “Chocolate City” GEL-Stratus MC honoring the capital's heritage.The hybrid runner features white mesh, blue overlays, neon hits, and chocolate-wrapper brown-trimmed silver panels.Launches November 28 for $110 USD. Name: SOMEWHERE x ASICS GEL-Stratus MC “Chocolate City”Colorway: Quiet Grey/Neon BlueSKU: 1203B382-020MSRP: $110 USDRelease Date: November 28Where to Buy: SOMEWHEREWashington, D.C. boutique and café SOMEWHERE is reuniting with ASICS to honor its hometown heritage with the GEL-Stratus MC “Chocolate City”. Following up on their initial 2025 collaboration, the upcoming project celebrates D.C.’s cultural identity and iconic moniker, a nickname rooted to 1957 when Washington became the first major U.S. city with a majority-Black population.The collaboration utilizes the GEL-Stratus MC, a newly debuted hybrid Sport",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F23%2Fsomewhere-x-asics-gel-stratus-mc-chocolate-city-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/somewhere-asics-gel-stratus-mc-chocolate-city-1203b382-020-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 32,
+   "id": 34,
    "title": "No Marathon DNA: PUMA Unveils a Race Shoe Built Only for HYROX",
    "source": "Nice Kicks",
    "date": "2026-11-23",
@@ -438,7 +455,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 33,
+   "id": 35,
    "title": "Anthony Edwards and adidas Continue Their Signature Legacy With the AE 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -451,7 +468,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 34,
+   "id": 36,
    "title": "Devin Booker and Nike Turn the Page With the New Book 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -464,7 +481,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 35,
+   "id": 37,
    "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
    "source": "Nice Kicks",
    "date": "2026-11-10",
@@ -477,7 +494,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 36,
+   "id": 38,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -490,7 +507,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 37,
+   "id": 39,
    "title": "Tremaine Emory Brings a Piece of Canal Street to adidas Originals",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -503,7 +520,7 @@ window.SNEAKER_DATA = {
    ]
   },
   {
-   "id": 38,
+   "id": 40,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
