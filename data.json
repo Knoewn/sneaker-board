@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28 13:43",
+ "updatedAt": "2026-11-29 00:31",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -22,12 +22,39 @@
   "NIKE",
   "PUMA",
   "SALOMON",
+  "TIMBERLAND",
   "VANS"
  ],
  "releases": [],
  "news": [
   {
    "id": 1,
+   "title": "Denim Tears 攜手 Timberland 推出聯乘 6-Inch Boot 及 Field Boot 鞋款",
+   "source": "Hypebeast 中文",
+   "date": "2026-11-28",
+   "content": "摘要 Denim Tears 與 Timberland 於今冬重塑 6-Inch 及 Field Boots 鞋款。兩大品牌將壓印有棉花花環圖案的黑色磨砂革與深藍色丹寧布料相互結合。兩款靴款將於 12 月 3 日登陸 BSTN 發售，定價分別為 $340 及 $400 美元。 名稱：Denim Tears x Timberland 6-Inch Boot、Denim Tears x Timberland Field Boot Denim配色：Black/Black、Dark Blue/Tan型號：TB0A5RNWA5K、TB0A5PKM06I建議零售價：$400、$340 美元發售日期：12 月 3 日購買點：BSTNTremaine Emory 主理的 Denim Tears 攜手 Timberland 為兩款冬日必備單品注入標誌性設計。是次推出的兩件單品系列涵蓋標誌性的 6-Inch Boot 及粗獷的 Field Boot，將品牌最具辨識度的圖案轉化為適合寒冷天氣的款式。Denim Tears x Timberland 6-Inch Boot 作為系列主打，採用隱密的純黑磨砂皮材質打造。在保留經典輪廓實用框架的同時，鞋面壓印滿版棉花花環圖案，並綴以同色系光澤飾面，為這款實用單品帶來圖形前衛感。而另一款 Field Boot 則捨棄傳統裁片，改以深藍色全牛仔布鞋面搭配沙色細節呈現。兩款鞋履均飾有聯乘標誌，側跟更繡有 Timberland 經典樹形圖案。其他度身訂製細節包括：6-Inch Boot 鞋墊上以 Timberland 標誌性字體呈現的 Denim Tears 字樣；Field Boot 側踝處的銀色 Denim Tears 標誌，以及雙腳鞋跟處的巨大黃色 Denim Tears 刺繡標誌。Denim Tears x Timberland 聯乘系列將於 12 月 3 日透過 BSTN 發售，售價分別為 $340 及 $400 美元，更廣泛的全球發售詳情將於稍後公佈。 Click here to view full gallery at Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fdenim-tears-x-timberland-6-inch-boot-field-boot-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/zh/2026/11/denim-tears-timberland-6-inch-boot-field-boot-tb0a5rnwa5k-tb0a5pkm06i-release-info",
+   "lang": "zh",
+   "relatedBrands": [
+    "TIMBERLAND"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "ASICS Made a Mutant Runner With a Chocolate Center",
+   "source": "Highsnobiety",
+   "date": "2026-11-28",
+   "content": "Washington, D.C. boutique SOMEWHERE reunites with ASICS for the SOMEWHERE x ASICS GEL-Stratus MC Chocolate City.",
+   "image": "",
+   "link": "https://www.highsnobiety.com/p/somewhere-asics-gel-stratus-mc-chocolate-city/",
+   "lang": "en",
+   "relatedBrands": [
+    "ASICS"
+   ]
+  },
+  {
+   "id": 3,
    "title": "Martine Rose 攜手 Nike 推出融合正裝與田徑元素全新聯乘鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-27",
@@ -40,7 +67,7 @@
    ]
   },
   {
-   "id": 2,
+   "id": 4,
    "title": "Cactus Plant Flea Market x Nike Flea 1「Barley」官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-27",
@@ -53,7 +80,7 @@
    ]
   },
   {
-   "id": 3,
+   "id": 5,
    "title": "JW Anderson 推出首款運動鞋 復古設計靈感注入 Anchor",
    "source": "Hypebeast 中文",
    "date": "2026-11-27",
@@ -64,7 +91,7 @@
    "relatedBrands": []
   },
   {
-   "id": 4,
+   "id": 6,
    "title": "BAPE STA 25 週年中國限定版採用黑色及裂紋銀細節",
    "source": "Hypebeast 中文",
    "date": "2026-11-27",
@@ -75,7 +102,7 @@
    "relatedBrands": []
   },
   {
-   "id": 5,
+   "id": 7,
    "title": "Martine Rose’s Latest Nike Is All Business, With a Little Track and Field",
    "source": "Hypebeast",
    "date": "2026-11-27",
@@ -88,7 +115,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 8,
    "title": "FREE THE YOUTH Unveils Friends & Family Exclusive Air Jordan 16 Evoking the EVA Unit-01",
    "source": "Hypebeast",
    "date": "2026-11-27",
@@ -101,7 +128,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 9,
    "title": "Official Images of the Cactus Plant Flea Market x Nike Flea 1 \"Barley\"",
    "source": "Hypebeast",
    "date": "2026-11-27",
@@ -114,7 +141,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 10,
    "title": "JW Anderson Debuts Its First-Ever Sneaker With the Vintage-Inspired Anchor",
    "source": "Hypebeast",
    "date": "2026-11-27",
@@ -125,7 +152,7 @@
    "relatedBrands": []
   },
   {
-   "id": 9,
+   "id": 11,
    "title": "Salomon Launches Fall/Winter 2026 Holiday Capsule Featuring All-Weather Models",
    "source": "Hypebeast",
    "date": "2026-11-27",
@@ -138,7 +165,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 12,
    "title": "Kith x UNITED ARROWS & SONS x New Balance Unveil the 990v3 Made in USA",
    "source": "Hypebeast",
    "date": "2026-11-27",
@@ -151,7 +178,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 13,
    "title": "BAPE STA's 25th Anniversary China Exclusive Goes Black With Crackled Silver",
    "source": "Hypebeast",
    "date": "2026-11-27",
@@ -162,7 +189,7 @@
    "relatedBrands": []
   },
   {
-   "id": 12,
+   "id": 14,
    "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
    "source": "Nice Kicks",
    "date": "2026-11-27",
@@ -175,7 +202,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 15,
    "title": "adidas' Winter Tank Feels Like a Summer Runner",
    "source": "Highsnobiety",
    "date": "2026-11-27",
@@ -188,7 +215,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 16,
    "title": "This Charming Retro Runner is the Most JW Anderson Sneaker Ever",
    "source": "Highsnobiety",
    "date": "2026-11-27",
@@ -199,7 +226,7 @@
    "relatedBrands": []
   },
   {
-   "id": 15,
+   "id": 17,
    "title": "New Balance's Retro Dad Shoe Has a Taste for Chocolate",
    "source": "Highsnobiety",
    "date": "2026-11-27",
@@ -212,47 +239,7 @@
    ]
   },
   {
-   "id": 16,
-   "title": "Nike's Year of the Goat AF1 Is a Different Breed",
-   "source": "Highsnobiety",
-   "date": "2026-11-27",
-   "content": "Ushering in the Lunar New Year ahead of Spring 2027, Nike unveils the Nike Air Force 1 Low Year of the Goat.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-force-1-year-of-the-goat-2027/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
-   "id": 17,
-   "title": "The Seven Best Nike Sneakers to Cop This Black Friday",
-   "source": "Highsnobiety",
-   "date": "2026-11-27",
-   "content": "Discover the best Nike sneaker deals this Black Friday, with an extra 25% off select styles using code BFRIDAY. From Air Force 1s to retro runners.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-sneaker-releases-november-week-4/",
-   "lang": "en",
-   "relatedBrands": [
-    "NIKE"
-   ]
-  },
-  {
    "id": 18,
-   "title": "Nike’s Legendary Jordan 4 Is Proof That You Can’t Beat the Original",
-   "source": "Highsnobiety",
-   "date": "2026-11-27",
-   "content": "Nike brings back the original Air Jordan 4 “Bred,” restoring the black nubuck upper and classic details that made the 1989 sneaker an icon.",
-   "image": "",
-   "link": "https://www.highsnobiety.com/p/nike-air-jordan-4-retro-og/",
-   "lang": "en",
-   "relatedBrands": [
-    "JORDAN",
-    "NIKE"
-   ]
-  },
-  {
-   "id": 19,
    "title": "Nike Mind 001 推出朱古力啡色獨立節點鞋底「Palomino」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-26",
@@ -265,7 +252,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 19,
    "title": "Lil Uzi Vert 以幻彩紗線重塑 Vans Authentic 44 最新「Pink Cosmos」鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-26",
@@ -278,7 +265,7 @@
    ]
   },
   {
-   "id": 21,
+   "id": 20,
    "title": "Maison Kitsuné 攜手 Paraboot 推出 2026 秋冬聯乘 Chambord 經典鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-26",
@@ -289,7 +276,7 @@
    "relatedBrands": []
   },
   {
-   "id": 22,
+   "id": 21,
    "title": "The Nike Mind 001 Sets Its Moving Nodes in Chocolate Brown for \"Palomino\"",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -302,7 +289,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 22,
    "title": "Lil Uzi Vert Weaves a Rainbow of Thread Into the Vans Authentic 44 \"Pink Cosmos\"",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -315,7 +302,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 23,
    "title": "Maison Kitsuné and Paraboot Rework the Classic Chambord for Fall/Winter 2026",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -326,7 +313,7 @@
    "relatedBrands": []
   },
   {
-   "id": 25,
+   "id": 24,
    "title": "Nike Air Max 95 Big Bubble Premium Debuts New \"Black/Dark Smoke Grey\" Colorway",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -339,20 +326,7 @@
    ]
   },
   {
-   "id": 26,
-   "title": "INVINCIBLE x MADNESS x ASICS SportStyle Team Up for the Second Collaborative GEL-KAYANO 12.1",
-   "source": "Hypebeast",
-   "date": "2026-11-26",
-   "content": "As the second triple collaboration between Taiwanese select shop INVINCIBLE (established in 2007), independent label MADNESS (founded in 2014 by Hong Kong actor Shawn Yue), and ASICS SportStyle, the GEL-KAYANO 12.1 “Shadow Fragments” has arrived.For this second installment, the design is inspired by outdoor exploration and obsidian. The deep tones and textures unique to volcanic glass are expressed through an all-black color palette and a combination of contrasting materials. The upper features layered leather, nubuck, suede, and mesh, with each distinct texture and surface finish creating a multidimensional look.Furthermore, the shoe incorporates details like enlarged ASICS Tiger Stripes, a spiral that extends to the midsole, and TS stripes. Special design elements are applied to the finer points as well, including collaborative leather insoles, exposed stitching, and black leather hang",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Finvincible-madness-asics-2nd-collabo-gel-kayano-12-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/invincible-madness-asics-2nd-collabo-gel-kayano-12-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "ASICS"
-   ]
-  },
-  {
-   "id": 27,
+   "id": 25,
    "title": "LISA 於 F1 Las Vegas Grand Prix 率先著用 Nike Zoom Streak 3 全新「Black/Red」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-25",
@@ -365,7 +339,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 26,
    "title": "Cactus Plant Flea Market x Nike Flea 1 最新「Cave Purple」官方照片釋出",
    "source": "Hypebeast 中文",
    "date": "2026-11-25",
@@ -378,7 +352,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 27,
    "title": "Ronnie Fieg 與 ASICS 最新《Star Wars》聯乘鞋款注入 Darth Vader 元素",
    "source": "Hypebeast 中文",
    "date": "2026-11-24",
@@ -391,7 +365,7 @@
    ]
   },
   {
-   "id": 30,
+   "id": 28,
    "title": "Nice Kicks Presents the Fourth Annual Sneaker of the Year (SOTY) Awards",
    "source": "Nice Kicks",
    "date": "2026-11-24",
@@ -402,7 +376,7 @@
    "relatedBrands": []
   },
   {
-   "id": 31,
+   "id": 29,
    "title": "Michael Jordan’s 4 Best Moments in the Air Jordan 4",
    "source": "Nice Kicks",
    "date": "2026-11-24",
@@ -415,7 +389,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 30,
    "title": "SOMEWHERE x ASICS 最新聯乘 GEL-Stratus MC「Chocolate City」正式登場",
    "source": "Hypebeast 中文",
    "date": "2026-11-23",
@@ -428,20 +402,7 @@
    ]
   },
   {
-   "id": 33,
-   "title": "New Balance 991 Made in UK 釋出「Luxe Black Leather」全新配色",
-   "source": "Hypebeast 中文",
-   "date": "2026-11-23",
-   "content": "摘要 New Balance 發表全新高級版本的 991 Made in UK 鞋款，採用俐落低調的黑色皮革結構這款出自 Flimby 工廠的波鞋採用平滑的黑色皮革覆層，搭配透氣網布與銀色反光品牌標誌此全新配色官方預計於 2026 年節慶季期間，透過 New Balance 及指定零售商正式發售 名稱： New Balance 991「Luxe Black Leather」配色： Luxe BlackSKU： M991LK1建議售價： 待定發售日期： 待定購買點： New BalanceNew Balance 推出全新 New Balance 991 Made in UK「Luxe Black Leather」，繼續彰顯其頂級的製鞋工藝。這款新作對經典跑鞋進行了精緻演繹，以低調的暗色基調配搭鮮明的金屬元素，營造出高度精煉的美學。此鞋款於品牌歷史悠久的英國 Flimby 廠房製作，鞋頭、側邊裁片及鞋跟均採用平滑的黑色皮革包覆。鞋頭與反光銀色「N」標誌前方隱約可見同色系的黑色網眼底層，營造質感對比並提升透氣度。鞋跟處獨特的淡黃色飾條為原本單一色調的鞋面增添了微妙的色彩點綴。細看其頂級細節，黑色鞋帶系統的最底層下方露出一個銀色小標籤。鞋舌上的標誌性 991 字樣完美融入皮革結構中，保持外觀簡潔。為整體設計奠定基礎的黑色坑紋中底，在鞋跟下方及前掌附近飾有兩處別出心裁的銀色點綴。New Balance 991 Made in UK「Luxe Black Leather」將於 2026 年假日季透過 NewBalance.com 及指定零售商發售。 Click here to view full gallery at Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2026%2F11%2Fnew-balance-991-luxe-black-leather-m991lk1-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/zh/2026/11/new-balance-991-luxe-black-leather-m991lk1-first-look-release-info",
-   "lang": "zh",
-   "relatedBrands": [
-    "NEW BALANCE"
-   ]
-  },
-  {
-   "id": 34,
+   "id": 31,
    "title": "No Marathon DNA: PUMA Unveils a Race Shoe Built Only for HYROX",
    "source": "Nice Kicks",
    "date": "2026-11-23",
@@ -454,7 +415,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 32,
    "title": "Anthony Edwards and adidas Continue Their Signature Legacy With the AE 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -467,7 +428,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 33,
    "title": "Devin Booker and Nike Turn the Page With the New Book 3",
    "source": "Nice Kicks",
    "date": "2026-11-16",
@@ -480,7 +441,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 34,
    "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
    "source": "Nice Kicks",
    "date": "2026-11-10",
@@ -493,7 +454,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 35,
    "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
    "source": "Nice Kicks",
    "date": "2026-11-06",
@@ -506,7 +467,7 @@
    ]
   },
   {
-   "id": 39,
+   "id": 36,
    "title": "Tremaine Emory Brings a Piece of Canal Street to adidas Originals",
    "source": "Nice Kicks",
    "date": "2026-11-05",
@@ -519,7 +480,7 @@
    ]
   },
   {
-   "id": 40,
+   "id": 37,
    "title": "Eric “Shake” James and adidas Bring the Animal Kingdom to Life With the SNEEX “Wild Rivals” Pack",
    "source": "Nice Kicks",
    "date": "2026-11-04",
