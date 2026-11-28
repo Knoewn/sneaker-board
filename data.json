@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28 01:45",
+ "updatedAt": "2026-11-28 13:43",
  "sources": {
   "releases": "Sole Retriever (JSON-LD)",
   "news": [
@@ -17,7 +17,6 @@
  "brands": [
   "ADIDAS",
   "ASICS",
-  "HOKA",
   "JORDAN",
   "NEW BALANCE",
   "NIKE",
@@ -77,6 +76,19 @@
   },
   {
    "id": 5,
+   "title": "Martine Rose’s Latest Nike Is All Business, With a Little Track and Field",
+   "source": "Hypebeast",
+   "date": "2026-11-27",
+   "content": "Summary Martine Rose’s latest Nike collaboration, the MR Trax SP, reimagines competitive track footwear as a low-profile women’s lifestyle sneaker.Reminiscent of Nike’s Skylon franchise, the silhouette features a pointed toe, intricately layered upper, and molded spike detailing underfoot.Previewed in two colorways, the Martine Rose x Nike MR Trax SP is expected to release in December 2026 for $200 USD. Martine Rose has made a habit of finding fashion potential in some of Nike’s less obvious performance silhouettes. She turned a Shox into something resembling a dress shoe, distorted the proportions of the Air Monarch, and now, with the forthcoming Nike MR Trax SP, the British designer is taking us to the track. Well, sort of.In a campaign shot by Roxy Lee, Rose’s latest Nike is worn by a cast of suited individuals sprinting through an office lobby. It’s a fitting introduction to a shoe t",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F27%2Fmartine-rose-nike-mr-trax-sp-release-date-00.jpg?w=800&cbr=1&q=90&fit=max",
+   "link": "https://hypebeast.com/2026/11/martine-rose-nike-mr-trax-sp-release-date",
+   "lang": "en",
+   "relatedBrands": [
+    "NIKE"
+   ]
+  },
+  {
+   "id": 6,
    "title": "FREE THE YOUTH Unveils Friends & Family Exclusive Air Jordan 16 Evoking the EVA Unit-01",
    "source": "Hypebeast",
    "date": "2026-11-27",
@@ -89,7 +101,7 @@
    ]
   },
   {
-   "id": 6,
+   "id": 7,
    "title": "Official Images of the Cactus Plant Flea Market x Nike Flea 1 \"Barley\"",
    "source": "Hypebeast",
    "date": "2026-11-27",
@@ -102,7 +114,7 @@
    ]
   },
   {
-   "id": 7,
+   "id": 8,
    "title": "JW Anderson Debuts Its First-Ever Sneaker With the Vintage-Inspired Anchor",
    "source": "Hypebeast",
    "date": "2026-11-27",
@@ -113,7 +125,7 @@
    "relatedBrands": []
   },
   {
-   "id": 8,
+   "id": 9,
    "title": "Salomon Launches Fall/Winter 2026 Holiday Capsule Featuring All-Weather Models",
    "source": "Hypebeast",
    "date": "2026-11-27",
@@ -126,7 +138,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 10,
    "title": "Kith x UNITED ARROWS & SONS x New Balance Unveil the 990v3 Made in USA",
    "source": "Hypebeast",
    "date": "2026-11-27",
@@ -139,7 +151,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 11,
    "title": "BAPE STA's 25th Anniversary China Exclusive Goes Black With Crackled Silver",
    "source": "Hypebeast",
    "date": "2026-11-27",
@@ -150,7 +162,7 @@
    "relatedBrands": []
   },
   {
-   "id": 11,
+   "id": 12,
    "title": "Ducks of a Feather and Nike SB Celebrate Oregon’s Legendary Traditions",
    "source": "Nice Kicks",
    "date": "2026-11-27",
@@ -163,7 +175,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 13,
    "title": "adidas' Winter Tank Feels Like a Summer Runner",
    "source": "Highsnobiety",
    "date": "2026-11-27",
@@ -176,7 +188,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 14,
    "title": "This Charming Retro Runner is the Most JW Anderson Sneaker Ever",
    "source": "Highsnobiety",
    "date": "2026-11-27",
@@ -187,7 +199,7 @@
    "relatedBrands": []
   },
   {
-   "id": 14,
+   "id": 15,
    "title": "New Balance's Retro Dad Shoe Has a Taste for Chocolate",
    "source": "Highsnobiety",
    "date": "2026-11-27",
@@ -200,7 +212,7 @@
    ]
   },
   {
-   "id": 15,
+   "id": 16,
    "title": "Nike's Year of the Goat AF1 Is a Different Breed",
    "source": "Highsnobiety",
    "date": "2026-11-27",
@@ -213,7 +225,7 @@
    ]
   },
   {
-   "id": 16,
+   "id": 17,
    "title": "The Seven Best Nike Sneakers to Cop This Black Friday",
    "source": "Highsnobiety",
    "date": "2026-11-27",
@@ -226,7 +238,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 18,
    "title": "Nike’s Legendary Jordan 4 Is Proof That You Can’t Beat the Original",
    "source": "Highsnobiety",
    "date": "2026-11-27",
@@ -240,7 +252,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 19,
    "title": "Nike Mind 001 推出朱古力啡色獨立節點鞋底「Palomino」配色",
    "source": "Hypebeast 中文",
    "date": "2026-11-26",
@@ -253,7 +265,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 20,
    "title": "Lil Uzi Vert 以幻彩紗線重塑 Vans Authentic 44 最新「Pink Cosmos」鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-26",
@@ -266,7 +278,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 21,
    "title": "Maison Kitsuné 攜手 Paraboot 推出 2026 秋冬聯乘 Chambord 經典鞋款",
    "source": "Hypebeast 中文",
    "date": "2026-11-26",
@@ -277,7 +289,7 @@
    "relatedBrands": []
   },
   {
-   "id": 21,
+   "id": 22,
    "title": "The Nike Mind 001 Sets Its Moving Nodes in Chocolate Brown for \"Palomino\"",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -290,7 +302,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 23,
    "title": "Lil Uzi Vert Weaves a Rainbow of Thread Into the Vans Authentic 44 \"Pink Cosmos\"",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -303,7 +315,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 24,
    "title": "Maison Kitsuné and Paraboot Rework the Classic Chambord for Fall/Winter 2026",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -314,7 +326,7 @@
    "relatedBrands": []
   },
   {
-   "id": 24,
+   "id": 25,
    "title": "Nike Air Max 95 Big Bubble Premium Debuts New \"Black/Dark Smoke Grey\" Colorway",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -327,7 +339,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 26,
    "title": "INVINCIBLE x MADNESS x ASICS SportStyle Team Up for the Second Collaborative GEL-KAYANO 12.1",
    "source": "Hypebeast",
    "date": "2026-11-26",
@@ -337,19 +349,6 @@
    "lang": "en",
    "relatedBrands": [
     "ASICS"
-   ]
-  },
-  {
-   "id": 26,
-   "title": "WTAPS and HOKA Collaborate on New Collection Featuring Speedgoat Redesigned with a Unique Perspective",
-   "source": "Hypebeast",
-   "date": "2026-11-26",
-   "content": "WTAPS and HOKA have unveiled their second collaborative collection. Following up on their initial 2024 partnership, this release uses HOKA's signature trail running shoe, the Speedgoat, as a foundation, applying WTAPS's utility-focused design philosophy across a range of footwear and accessories.The centerpiece of the collection, the Speedgoat TS WTAPS, maintains the model's signature performance—exceptional grip, responsive cushioning, and stability—while reconstructing it through WTAPS's distinct lens. The result is a fusion of trail-ready functionality and a design easily incorporated into everyday styling. It arrives in two colorways inspired by urban landscapes: Galactic Grey / High Rise and Black / Volcanic Ash.Furthermore, this collaboration marks the first time accessories join the footwear lineup. The HOKA Trail Run Vest 8L WTAPS is designed for lightweight performance and stora",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fwtaps-hoka-speedgoat-collabo-collection-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
-   "link": "https://hypebeast.com/2026/11/wtaps-hoka-speedgoat-collabo-collection-release-info",
-   "lang": "en",
-   "relatedBrands": [
-    "HOKA"
    ]
   },
   {
